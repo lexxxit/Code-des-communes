@@ -1,5 +1,5 @@
 # Code des communes  
-Version Consolidée au 1979-07-14
+Version Consolidée au 1979-08-19
 
 # ORGANISATION COMMUNALE
 
@@ -71846,27 +71846,6 @@ chargé des départements d'outre-mer [*compétence*] dans la limite des crédit
 	  - Code des communes R235-2
 
 
-##### COMMUNES DU DEPARTEMENT DE SAINT-PIERRE-ET-MIQUELON
-
-###### Article R*262-12
-
-Sont applicables aux communes du département de Saint-Pierre-et-Miquelon [*champ d'application*] les dispositions contenues
-dans les titres Ier à V du présent livre à l'exception de celles des articles R. 233-102, R. 233-106, R. 234-4 à R. 234-6, R.
-234-13 à R. 234-28, R. 235-46 à R. 235-48, R. 236-49, R. 236-50, R. 251-10 des chapitres III, V, VI et VII du titre V.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°77-91 1977-01-27
-
-	**Cite**:
-
-	  - CODE DES COMMUNES. - art. R236-49 (Ab)
-	  - CODE DES COMMUNES. - art. R251-10 (Ab)
-	  - Code des communes R234-4 à R234-6
-
-
 #### Dispositions applicables aux communes de la région d'Ile-de-France
 
 ##### Versement destiné aux transports en commun
@@ -76436,7 +76415,75 @@ La hiérarchie des sapeurs-pompiers communaux comprend :
 	  - Décret n°99-1039 du 10 décembre 1999 - art. 72 ()
 
 
+###### Article R352-8
+
+Dans chaque corps, le nombre des sous-officiers est fixé au quart de l'effectif total[*proportion*].
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°77-241 1977-03-07
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°90-851 1990-09-25 art. 26
+
+	**Cité par**:
+
+	  - Décret n°90-851 du 25 septembre 1990 - art. 26 (VT)
+
+	**Abrogé par**:
+
+	  - Décret n°99-1039 du 10 décembre 1999 - art. 72 ()
+
+
 ##### SECTION 2 : Conseil d'administration des corps de sapeurs-pompiers.
+
+###### Article R352-14
+
+La représentation des sapeurs-pompiers comprend :
+
+- pour les corps de moins de vingt-deux sapeurs-pompiers : un sous-officier ou gradé et un caporal-chef, caporal ou sapeur
+élus chacun par ses collègues ;
+
+- pour les corps de vingt-deux à cinquante sapeurs-pompiers :
+
+l'officier le plus ancien dans le grade le plus élevé ; un sous-officier et un caporal-chef, caporal ou sapeur élus chacun
+par ses collègues ;
+
+- pour les corps de plus de cinquante sapeurs-pompiers :
+
+l'officier le plus ancien dans le grade le plus élevé, un officier, un sous-officier, deux caporaux-chefs, caporaux ou
+sapeurs élus chacun par ses collègues.
+
+Pour les corps mixtes, comprenant professionnels et volontaires, chacune de ces catégories élit ses représentants au conseil
+d'administration dans les conditions fixées par le règlement de service du corps. A moins qu'il n'en soit décidé autrement
+par ce règlement, ces représentants ne siègent que pour les questions concernant leur catégorie.
+
+Si, dans une catégorie, il n'y a pas assez de candidats pour assurer la désignation des représentants titulaires ou
+suppléants prévus, il est procédé à un deuxième appel de candidatures dans les quinze jours. Si cet appel est infructueux,
+les postes sont pourvus par un tirage au sort sur la liste des sapeurs-pompiers appartenant à la catégorie considérée.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°77-241 1977-03-07
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°89-229 du 17 avril 1989 - art. 47 (V)
+
+	**Abrogé par**:
+
+	  - Décret n°99-1039 du 10 décembre 1999 - art. 72 ()
+
+	**Cité par**:
+
+	  - CODE DES COMMUNES. - art. R352-13 (Ab)
+	  - CODE DES COMMUNES. - art. R352-15 (M)
+
 
 ###### Article R352-17
 
@@ -76532,6 +76579,32 @@ Un extrait des délibérations est obligatoirement affiché dans les locaux du c
 
 
 ##### SECTION 4 : Discipline des sapeurs-pompiers communaux.
+
+###### Article R352-27
+
+Aucun conseil de discipline, qu'il s'agisse du conseil d'administration ou d'une autre formation disciplinaire, ne peut
+comprendre des sapeurs-pompiers d'un grade inférieur à celui du comparant.
+
+Les membres du conseil qui ne peuvent siéger en application de l'alinéa précédent ou ceux qui sont intéressés dans l'affaire
+sont remplacés par un suppléant de grade égal ou supérieur au comparant. S'il n'existe pas de sapeurs-pompiers de ce grade
+dans le corps, il sera procédé à un tirage au sort par le président du conseil de discipline parmi les sapeurs-pompiers du
+grade nécessaire appartenant, selon le cas, aux corps de sapeurs-pompiers du département ou, à défaut, d'un ou plusieurs
+départements de la zone de défense.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°77-241 1977-03-07
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°89-677-1989-09-18 art. 36
+
+	**Abrogé par**:
+
+	  - Décret n°99-1039 du 10 décembre 1999 - art. 72 ()
+
 
 ###### Article R352-28
 
@@ -77073,6 +77146,29 @@ Le préfet [*pouvoirs*] ne peut prononcer une sanction plus sévère que celle p
 	**Créé par**:
 
 	  - Décret n°77-241 1977-03-07 JORF et JONC 18 Mars 1977
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°89-677-1989-09-18 art. 36
+
+	**Abrogé par**:
+
+	  - Décret n°99-1039 du 10 décembre 1999 - art. 72 ()
+
+
+###### Article R352-47
+
+Les frais de déplacement des membres des conseils de discipline ou des conseils d'enquête sont supportés par la collectivité
+dont relève le sapeur-pompier concerné.
+
+Ils peuvent être pris en charge par le service départemental d'incendie et de secours si le règlement de cet organisme le
+prévoit.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°77-241 1977-03-07
 
 	**Liens**:
 
@@ -78100,6 +78196,45 @@ dix ans au plus.
 	  - Code du service national 64
 
 
+###### Article R353-19
+
+Un arrêté du ministre de l'intérieur, pris après avis du conseil supérieur de la protection civile, détermine les
+qualifications professionnelles des sapeurs-pompiers (1).
+
+Nul ne peut être recruté dans un emploi de sapeur-pompier professionnel s'il n'a satisfait aux épreuves d'un examen
+d'aptitude dont les conditions sont fixées par un arrêté du ministre de l'intérieur pris après avis de la commission
+nationale paritaire des sapeurs-pompiers professionnels. Nul ne peut être titularisé dans un emploi de sapeur-pompier
+professionnel s'il n'a accompli un stage d'un an à l'issue duquel il devra être titulaire du brevet national de secourisme
+avec la mention spécialiste en réanimation (2).
+
+Le stage ne peut être renouvelé que pour une seule année ; une décision est prise à son terme.
+
+Peut être dispensé de l'examen d'aptitude mentionné ci-dessus, le candidat qui justifie avoir exercé pendant deux ans au
+moins un emploi équivalent dans un autre corps de sapeurs-pompiers où les conditions de recrutement sont identiques ou plus
+sévères.
+
+(1) Arrêtés ministériels des 20 octobre 1969 relatif aux qualifications professionnelles des sapeurs-pompiers (J.O. 4
+novembre 1969), 22 octobre 1974 (J.O. 1er novembre), 10 août 1979 (J.O. 1er septembre).
+
+(2) Arrêté ministériel du 20 octobre 1971 relatif aux conditions de recrutement et d'avancement des sapeurs-pompiers
+professionnels non officiers, modifié par l'arrêté ministériel du 19 mai 1976 (J.O. 10 novembre 1971 et 5 juin 1976).
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°77-241 1977-03-07
+
+	**Cité par**:
+
+	  - Arrêté du 10 août 1979 - art. 1 (V)
+	  - Arrêté du 20 octobre 1971 - art. 1 (Ab)
+
+	**Abrogé par**:
+
+	  - Décret n°90-851 1990-09-25 art. 26 jorf 26 septembre 1990
+
+
 ###### Article R353-20
 
 Le conseil d'administration [*du corps de sapeurs-pompiers*] donne un avis sur la proposition de titularisation d'un sapeur-
@@ -78927,6 +79062,47 @@ stage d'un an [*durée*] au cours duquel ils peuvent être astreints à suivre d
 	  - Décret n°90-852 du 25 septembre 1990 - art. 32 (V)
 
 
+###### Article R353-44
+
+Peuvent être inscrits sur la liste d'aptitude en vue d'une nomination à l'emploi de lieutenant-chef de section les
+lieutenants classés au moins au 9° échelon de leur grade.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°77-241 1977-03-07
+
+	**Abrogé par**:
+
+	  - Décret n°90-852 du 25 septembre 1990 - art. 32 (V)
+
+	**Liens**:
+
+	  - TXT_SOURCE: Arrêté du 6 mai 1983
+	  - TXT_SOURCE: Arrêté du 6 mai 1983 - art. 1 (Ab)
+	  - TXT_SOURCE: Arrêté du 6 mai 1983 - art. 10 (Ab)
+	  - TXT_SOURCE: Arrêté du 6 mai 1983 - art. 11 (Ab)
+	  - TXT_SOURCE: Arrêté du 6 mai 1983 - art. 12 (Ab)
+	  - TXT_SOURCE: Arrêté du 6 mai 1983 - art. 13 (Ab)
+	  - TXT_SOURCE: Arrêté du 6 mai 1983 - art. 14 (Ab)
+	  - TXT_SOURCE: Arrêté du 6 mai 1983 - art. 15 (Ab)
+	  - TXT_SOURCE: Arrêté du 6 mai 1983 - art. 2 (Ab)
+	  - TXT_SOURCE: Arrêté du 6 mai 1983 - art. 3 (Ab)
+	  - TXT_SOURCE: Arrêté du 6 mai 1983 - art. 4 (Ab)
+	  - TXT_SOURCE: Arrêté du 6 mai 1983 - art. 5 (Ab)
+	  - TXT_SOURCE: Arrêté du 6 mai 1983 - art. 6 (Ab)
+	  - TXT_SOURCE: Arrêté du 6 mai 1983 - art. 7 (Ab)
+	  - TXT_SOURCE: Arrêté du 6 mai 1983 - art. 8 (Ab)
+	  - TXT_SOURCE: Arrêté du 6 mai 1983 - art. 9 (Ab)
+	  - TXT_SOURCE: Arrêté du 6 mai 1983 - art. ANNEXE I (Ab)
+	  - TXT_SOURCE: Arrêté du 6 mai 1983 - art. ANNEXE II (Ab)
+
+	**Cité par**:
+
+	  - Arrêté du 6 mai 1983 - art. 1 (Ab)
+
+
 ###### Article R353-45
 
 La nomination au grade de capitaine professionnel est prononcée par le préfet sur proposition du maire.
@@ -79220,6 +79396,34 @@ conservation de l'ancienneté d'échelon dans les conditions définies à l'arti
 	**Cite**:
 
 	  - CODE DES COMMUNES. - art. R353-52 (Ab)
+
+
+###### Article R353-54
+
+Par dérogation aux dispositions de l'article R. 353-50, le sapeur-pompier promu ou recruté dans sa commune ou une autre
+collectivité, dans un des emplois d'exécution dont la liste est fixée par arrêté du ministre de l'intérieur, est maintenu
+dans son nouveau grade à l'échelon auquel il était parvenu dans son précédent grade (1).
+
+(1) Arrêté ministériel du 24 mars 1971 relatif aux conditions de classement des sapeurs-pompiers communaux professionnels
+(J.O. 15 juin 1971).
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°77-241 1977-03-07
+
+	**Abrogé par**:
+
+	  - Décret n°90-851 1990-09-25 art. 26 jorf 26 septembre 1990
+
+	**Cite**:
+
+	  - CODE DES COMMUNES. - art. R353-50 (Ab)
+
+	**Cité par**:
+
+	  - CODE DES COMMUNES. - art. R353-55 (Ab)
 
 
 ###### Article R353-55
@@ -79838,6 +80042,33 @@ Les sapeurs-pompiers chargés de famille bénéficient d'une priorité pour le c
 	**Liens**:
 
 	  - SPEC_APPLI: Décret n°89-229 du 17 avril 1989 - art. 47 (V)
+
+
+###### Article R353-72
+
+Le congé de maladie ainsi que celui prévu à l'article R. 353-104 sont considérés, pour l'application du premier alinéa de
+l'article précédent, comme service accompli.
+
+Les dispositions prévues au livre IV du présent code pour le personnel communal en matière de congé de maternité, de congé
+postnatal et de congé d'adoption sont applicables aux sapeurs-pompiers professionnels communaux.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°77-241 1977-03-07
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°89-229 du 17 avril 1989 - art. 47 (V)
+
+	**Abrogé par**:
+
+	  - Décret n°89-229 du 17 avril 1989 - art. 47 (V)
+
+	**Cite**:
+
+	  - CODE DES COMMUNES. - art. R353-104 (Ab)
 
 
 ###### Article R353-73
@@ -94277,106 +94508,28 @@ Les médecins assistent avec voix consultative aux séances du conseil d'adminis
 
 #### Dispositions *applicables* à l'ensemble des sapeurs-pompiers communaux *professionnels et non professionnels (volontaires)*
 
-##### Conseil d'administration des corps de sapeurs-pompiers.
-
-###### Article R352-14
-
-La représentation des sapeurs-pompiers comprend :
-
-- pour les corps de moins de vingt-deux sapeurs-pompiers :
-
-un sous-officier ou gradé et un caporal-chef, caporal ou sapeur élus chacun par ses collègues ;
-
-- pour les corps de vingt-deux à cinquante sapeurs-pompiers :
-
-l'officier le plus ancien dans le grade le plus élevé ; un sous-officier et un caporal-chef, caporal ou sapeur élus chacun
-par ses collègues ;
-
-- pour les corps de plus de cinquante sapeurs-pompiers :
-
-l'officier le plus ancien dans le grade le plus élevé, un officier, un sous-officier, deux caporaux-chefs, caporaux ou
-sapeurs élus chacun par ses collègues.
-
-Pour les corps mixtes, comprenant professionnels et volontaires, chacune de ces catégories élit ses représentants au conseil
-d'administration dans les conditions fixées par le règlement de service du corps. A moins qu'il n'en soit décidé autrement
-par ce règlement, ces représentants ne siègent que pour les questions concernant leur catégorie.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°53-170 1953-03-07 ART. 13 REMPLACE
-
-	**Codifié par**:
-
-	  - Décret n°77-241 1977-03-07
-
-	**Créé par**:
-
-	  - Décret n°77-241 1977-03-07 JORF et JONC 18 mars 1977
-
-	**Cité par**:
-
-	  - CODE DES COMMUNES. - art. R352-13 (Ab)
-	  - CODE DES COMMUNES. - art. R352-15 (M)
-
-
 ##### Discipline.
-
-###### Article R352-27
-
-Aucun conseil de discipline, qu'il s'agisse du conseil d'administration ou d'une autre formation disciplinaire, ne peut
-comprendre des sapeurs-pompiers d'un grade inférieur à celui du comparant.
-
-Les membres du conseil qui ne peuvent siéger en application de l'alinéa précédent ou ceux qui sont intéressés dans l'affaire
-sont remplacés par un suppléant de grade égal ou supérieur au comparant.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°53-170 1953-03-07 ART. 19
-
-	**Codifié par**:
-
-	  - Décret n°77-241 1977-03-07
-
-	**Créé par**:
-
-	  - Décret n°77-241 1977-03-07 JORF et JONC 18 mars 1977
-
 
 ###### Article R352-32
 
 Le conseil de discipline départemental est présidé par l'inspecteur départemental des services d'incendie et de secours. Il
 comprend :
 
-- trois [*nombre*] maires tirés au sort par le président parmi les maires des communes ayant un corps de sapeurs-pompiers ;
+- Trois [*nombre*] maires tirés au sort par le président parmi les maires des communes ayant un corps de sapeurs-pompiers ;
 
-- trois [*nombre*] représentants du personnel tirés au sort également parmi les membres de conseils d'administration du
+- Trois [*nombre*] représentants du personnel tirés au sort également parmi les membres de conseils d'administration du
 département, l'un de grade égal au comparant, les deux autres de grade supérieur.
 
 Les membres du conseil d'administration qui ont eu à connaître de l'affaire en premier ressort ne peuvent faire partie du
 conseil de discipline départemental.
 
-Les frais de déplacement des membres du conseil de discipline départemental sont supportés par les communes dont relèvent les
-membres de ce conseil.
-
 Le secrétariat est assuré par un fonctionnaire de la préfecture du département.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°53-170 1953-03-07 ART. 74
-
 	**Codifié par**:
 
 	  - Décret n°77-241 1977-03-07
-
-	**Créé par**:
-
-	  - Décret n°77-241 1977-03-07 JORF et JONC 18 mars 1977
 
 
 ###### Article R352-36
@@ -94394,26 +94547,6 @@ noms établie par le ministre [*nombre*] ;
 	**Anciens textes**:
 
 	  - Décret n°53-170 1953-03-07 ART. 25 REMPLACE AL. 1 et 2
-
-	**Codifié par**:
-
-	  - Décret n°77-241 1977-03-07
-
-	**Créé par**:
-
-	  - Décret n°77-241 1977-03-07 JORF et JONC 18 mars 1977
-
-
-###### Article R352-47
-
-Les frais de déplacement des membres des conseils d'enquête sont supportés par les collectivités dont relèvent les membres de
-ces conseils.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°53-170 1953-03-07 ART. 28 REMPLACE AL. 10
 
 	**Codifié par**:
 
@@ -94618,6 +94751,51 @@ conditions de forme*].
 
 ##### Notation et avancement.
 
+###### Article R353-43
+
+Les lieutenants-chefs de section principaux sont choisis parmi les lieutenants et lieutenants-chefs de section justifiant
+d'une ancienneté de six ans de services effectifs en qualité d'officier professionnel et inscrits sur une liste d'aptitude
+établie par voie de concours sur titres ou sur épreuves professionnelles (1).
+
+(1) Voir Arr. min. Int. 18 janvier 1977 fixant les conditions d'avancement des lieutenants professionnels de sapeurs-pompiers
+communaux aux emplois de lieutenant chef de section principal et de lieutenant chef de section (J.O. 30 janvier 1977) ; Arr.
+15 mai 1979 (J.O. 3 juin), mod. par Arr. 10 août 1979 (J.O. 1er septembre) et 10 mars 1982 (J.O. 28 mars).
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Arrêté 1977-01-18
+	  - TXT_ASSOCIE: Arrêté 1979-05-15 modifié
+	  - TXT_ASSOCIE: Arrêté 1979-08-10
+	  - TXT_SOURCE: Arrêté du 6 mai 1983
+	  - TXT_SOURCE: Arrêté du 6 mai 1983 - art. 1 (Ab)
+	  - TXT_SOURCE: Arrêté du 6 mai 1983 - art. 10 (Ab)
+	  - TXT_SOURCE: Arrêté du 6 mai 1983 - art. 11 (Ab)
+	  - TXT_SOURCE: Arrêté du 6 mai 1983 - art. 12 (Ab)
+	  - TXT_SOURCE: Arrêté du 6 mai 1983 - art. 13 (Ab)
+	  - TXT_SOURCE: Arrêté du 6 mai 1983 - art. 14 (Ab)
+	  - TXT_SOURCE: Arrêté du 6 mai 1983 - art. 15 (Ab)
+	  - TXT_SOURCE: Arrêté du 6 mai 1983 - art. 2 (Ab)
+	  - TXT_SOURCE: Arrêté du 6 mai 1983 - art. 3 (Ab)
+	  - TXT_SOURCE: Arrêté du 6 mai 1983 - art. 4 (Ab)
+	  - TXT_SOURCE: Arrêté du 6 mai 1983 - art. 5 (Ab)
+	  - TXT_SOURCE: Arrêté du 6 mai 1983 - art. 6 (Ab)
+	  - TXT_SOURCE: Arrêté du 6 mai 1983 - art. 7 (Ab)
+	  - TXT_SOURCE: Arrêté du 6 mai 1983 - art. 8 (Ab)
+	  - TXT_SOURCE: Arrêté du 6 mai 1983 - art. 9 (Ab)
+	  - TXT_SOURCE: Arrêté du 6 mai 1983 - art. ANNEXE I (Ab)
+	  - TXT_SOURCE: Arrêté du 6 mai 1983 - art. ANNEXE II (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°77-241 1977-03-07
+
+	**Cité par**:
+
+	  - Arrêté du 6 mai 1983 - art. 1 (Ab)
+
+
 ###### Article R353-49
 
 Les sous-officiers, caporaux-chefs, caporaux et sapeurs sont nommés par arrêté du maire, pris après avis du conseil
@@ -94650,179 +94828,32 @@ compétence*].
 
 #### SAPEURS-POMPIERS COMMUNAUX PROFESSIONNELS .
 
-##### RECRUTEMENT .
-
-###### Article R353-19
-
-Un arrêté du ministre de l'intérieur, pris après avis du conseil supérieur de la protection civile, détermine les
-qualifications professionnelles des sapeurs-pompiers.
-
-Nul ne peut être titularisé dans un emploi de sapeur-pompier professionnel :
-
-1° S'il n'a satisfait aux épreuves d'un examen d'aptitude dont les conditions sont fixées par un arrêté du ministre de
-l'intérieur, pris après avis du conseil supérieur de la protection civile ;
-
-2° S'il n'a accompli dans l'emploi qu'il sollicite un stage d'un an à l'issue duquel il devra être titulaire du brevet
-national de secourisme avec la mention : Spécialiste en ranimation.
-
-Le stage ne peut être renouvelé que pour une seule année ; une décision est prise à son terme.
-
-Peut être dispensé de l'examen d'aptitude mentionné ci-dessus le candidat qui justifie avoir exercé pendant deux ans au moins
-un emploi équivalent dans un autre corps de sapeurs-pompiers où les conditions de recrutement sont identiques ou plus
-sévères.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°53-170 1953-03-07 ART. 99 REMPLACE
-
-	**Codifié par**:
-
-	  - Décret n°77-241 1977-03-07
-
-	**Créé par**:
-
-	  - Décret n°77-241 1977-03-07 JORF et JONC 18 mars 1977
-
-	**Cité par**:
-
-	  - Arrêté du 10 août 1979 - art. 1 (V)
-	  - Arrêté du 20 octobre 1971 - art. 1 (Ab)
-
-
 ##### AVANCEMENT
 
 ###### Article R353-40
 
 Les sergents sont nommés parmi les caporaux et caporaux-chefs titulaires du brevet national de secouriste avec la mention
-"spécialiste en ranimation" et qui ont au moins trois ans d'ancienneté dans le grade, à la suite d'un cours d'instruction
-suivi d'un examen de fin de cours dont les modalités sont définies par un arrêté du ministre de l'intérieur.
+Spécialiste en réanimation et qui ont au moins trois ans d'ancienneté depuis leur nomination dans le grade de caporal. Ils
+doivent en outre avoir préalablement suivi un cours d'instruction et réussi à un examen dont les modalités sont définies par
+un arrêté du ministre de l'intérieur.
 
 Pour l'attribution des notes à l'examen de fin du cours, les candidats bénéficient d'une majoration d'un point par année de
 service dans le grade.
 
 Le jury d'examen est désigné par le conseil d'administration du corps.
 
-Les sergents parvenus au 7è échelon sont nommés sergents-chefs après trois ans de fonctions dans le grade.
+Les sergents parvenus au 6° échelon de leur grade sont nommés au grade de sergent-chef.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°53-170 1953-03-07 ART. 111 REMPLACE AL. 2 et 3, ART. 113 REMPLACE, ART. 114 et ART. 112 REMPLACE AL. 2
 
 	**Codifié par**:
 
 	  - Décret n°77-241 1977-03-07
-
-	**Créé par**:
-
-	  - Décret n°77-241 1977-03-07 JORF et JONC 18 mars 1977
 
 	**Cité par**:
 
 	  - Arrêté du 20 octobre 1971 - art. 17 (Ab)
 	  - Arrêté du 20 octobre 1971 - art. 9 (Ab)
-
-
-###### Article R353-43
-
-Les lieutenants candidats aux emplois de lieutenant chef de section sont choisis sur une liste d'aptitude établie dans les
-conditions suivantes :
-
-1° Par voie de concours sur titres ou sur épreuves professionnelles après six ans [*ancienneté*] de services effectifs en
-qualité d'officier professionnel ;
-
-2° Au titre de la promotion sociale, dans la limite d'une nomination pour cinq prononcées en application du 1° ci-dessus
-après avoir atteint le 9è échelon du grade de lieutenant professionnel.
-
-**Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - TXT_ASSOCIE: Arrêté 1977-01-18
-	  - TXT_ASSOCIE: Arrêté 1979-05-15 modifié
-	  - TXT_ASSOCIE: Arrêté 1979-08-10
-	  - TXT_SOURCE: Arrêté du 6 mai 1983
-	  - TXT_SOURCE: Arrêté du 6 mai 1983 - art. 1 (Ab)
-	  - TXT_SOURCE: Arrêté du 6 mai 1983 - art. 10 (Ab)
-	  - TXT_SOURCE: Arrêté du 6 mai 1983 - art. 11 (Ab)
-	  - TXT_SOURCE: Arrêté du 6 mai 1983 - art. 12 (Ab)
-	  - TXT_SOURCE: Arrêté du 6 mai 1983 - art. 13 (Ab)
-	  - TXT_SOURCE: Arrêté du 6 mai 1983 - art. 14 (Ab)
-	  - TXT_SOURCE: Arrêté du 6 mai 1983 - art. 15 (Ab)
-	  - TXT_SOURCE: Arrêté du 6 mai 1983 - art. 2 (Ab)
-	  - TXT_SOURCE: Arrêté du 6 mai 1983 - art. 3 (Ab)
-	  - TXT_SOURCE: Arrêté du 6 mai 1983 - art. 4 (Ab)
-	  - TXT_SOURCE: Arrêté du 6 mai 1983 - art. 5 (Ab)
-	  - TXT_SOURCE: Arrêté du 6 mai 1983 - art. 6 (Ab)
-	  - TXT_SOURCE: Arrêté du 6 mai 1983 - art. 7 (Ab)
-	  - TXT_SOURCE: Arrêté du 6 mai 1983 - art. 8 (Ab)
-	  - TXT_SOURCE: Arrêté du 6 mai 1983 - art. 9 (Ab)
-	  - TXT_SOURCE: Arrêté du 6 mai 1983 - art. ANNEXE I (Ab)
-	  - TXT_SOURCE: Arrêté du 6 mai 1983 - art. ANNEXE II (Ab)
-
-	**Anciens textes**:
-
-	  - Décret n°53-170 1953-03-07 ART. 115 REMPLACE AL. 2
-
-	**Codifié par**:
-
-	  - Décret n°77-241 1977-03-07
-
-	**Créé par**:
-
-	  - Décret n°77-241 1977-03-07 JORF et JONC 18 mars 1977
-
-	**Cité par**:
-
-	  - Arrêté du 6 mai 1983 - art. 1 (Ab)
-
-
-###### Article R353-44
-
-Peuvent être inscrits sur la liste d'aptitude en vue d'une nomination à l'emploi de lieutenant chef de section principal les
-lieutenants chefs de section qui justifient d'au moins quatre ans de services effectifs en cette qualité.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°53-170 1953-03-07 ART. 115 COMPLETE AL. 3
-
-	**Codifié par**:
-
-	  - Décret n°77-241 1977-03-07
-
-	**Créé par**:
-
-	  - Décret n°77-241 1977-03-07 JORF et JONC 18 mars 1977
-
-	**Liens**:
-
-	  - TXT_SOURCE: Arrêté du 6 mai 1983
-	  - TXT_SOURCE: Arrêté du 6 mai 1983 - art. 1 (Ab)
-	  - TXT_SOURCE: Arrêté du 6 mai 1983 - art. 10 (Ab)
-	  - TXT_SOURCE: Arrêté du 6 mai 1983 - art. 11 (Ab)
-	  - TXT_SOURCE: Arrêté du 6 mai 1983 - art. 12 (Ab)
-	  - TXT_SOURCE: Arrêté du 6 mai 1983 - art. 13 (Ab)
-	  - TXT_SOURCE: Arrêté du 6 mai 1983 - art. 14 (Ab)
-	  - TXT_SOURCE: Arrêté du 6 mai 1983 - art. 15 (Ab)
-	  - TXT_SOURCE: Arrêté du 6 mai 1983 - art. 2 (Ab)
-	  - TXT_SOURCE: Arrêté du 6 mai 1983 - art. 3 (Ab)
-	  - TXT_SOURCE: Arrêté du 6 mai 1983 - art. 4 (Ab)
-	  - TXT_SOURCE: Arrêté du 6 mai 1983 - art. 5 (Ab)
-	  - TXT_SOURCE: Arrêté du 6 mai 1983 - art. 6 (Ab)
-	  - TXT_SOURCE: Arrêté du 6 mai 1983 - art. 7 (Ab)
-	  - TXT_SOURCE: Arrêté du 6 mai 1983 - art. 8 (Ab)
-	  - TXT_SOURCE: Arrêté du 6 mai 1983 - art. 9 (Ab)
-	  - TXT_SOURCE: Arrêté du 6 mai 1983 - art. ANNEXE I (Ab)
-	  - TXT_SOURCE: Arrêté du 6 mai 1983 - art. ANNEXE II (Ab)
-
-	**Cité par**:
-
-	  - Arrêté du 6 mai 1983 - art. 1 (Ab)
 
 
 ###### Article R353-46
@@ -94899,35 +94930,6 @@ professionnels est au moins égal aux deux tiers des effectifs ci-dessus mention
 	  - Décret n°77-241 1977-03-07 JORF et JONC 18 mars 1977
 
 
-###### Article R353-54
-
-Par dérogation aux dispositions des trois articles précédents, le sapeur-pompier promu ou recruté, dans sa commune ou une
-autre collectivité, dans un des emplois d'exécution dont la liste est fixée par arrêté du ministre de l'intérieur, est
-maintenu dans son nouveau grade à l'échelon auquel il était parvenu dans son précédent grade.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°53-170 1953-03-07 ART. 119 BIS AL. 1
-
-	**Codifié par**:
-
-	  - Décret n°77-241 1977-03-07
-
-	**Créé par**:
-
-	  - Décret n°77-241 1977-03-07 JORF et JONC 18 mars 1977
-
-	**Cité par**:
-
-	  - CODE DES COMMUNES. - art. R353-55 (Ab)
-
-	**Cite**:
-
-	  - Code des communes R353-51 à R353-53
-
-
 ##### DISCIPLINE
 
 ###### Article R353-60
@@ -94953,34 +94955,6 @@ Le chef de corps [*pouvoir disciplinaire*] peut prononcer contre tout sapeur-pom
 	**Créé par**:
 
 	  - Décret n°77-241 1977-03-07 JORF et JONC 18 mars 1977
-
-
-##### POSITIONS
-
-##### ACTIVITE - CONGE .
-
-###### Article R353-72
-
-Le congé de maladie ainsi que celui prévu à l'article R. 353-104 sont considérés, pour l'application du premier alinéa de
-l'article précédent, comme service accompli.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°53-170 1953-03-07 ART. 135 AL. 2
-
-	**Codifié par**:
-
-	  - Décret n°77-241 1977-03-07
-
-	**Créé par**:
-
-	  - Décret n°77-241 1977-03-07 JORF et JONC 18 mars 1977
-
-	**Cite**:
-
-	  - Code des communes R353-104 et R353-71 AL. 1
 
 
 #### SAPEURS-POMPIERS COMMUNAUX NON PROFESSIONNELS RECRUTEMENT.
