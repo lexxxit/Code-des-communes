@@ -1,5 +1,5 @@
 # Code des communes  
-Version Consolidée au 1988-01-08
+Version Consolidée au 1988-01-10
 
 # Statuts types d'une caisse communale de secours et de retraite de sapeurs-pompiers
 
@@ -41724,7 +41724,311 @@ Les stations de sports d'hiver et d'alpinisme classées sont tenues d'établir u
 	  - Décret n°2000-318 du 7 avril 2000 - art. 4 (V)
 
 
+### TITRE 5 : Intérêts propres à certaines catégorie d'habitants
+
+#### CHAPITRE 1 : Section de commune
+
+##### SECTION 1 : Constitution de la commission syndicale.
+
+###### Article R*151-1
+
+Le montant minimal annuel moyen de revenus ou produits des biens de la section en dessous duquel, avec l'accord du conseil
+municipal, la commission syndicale n'est pas constituée en application de l'article L. 151-5 est fixé à 2 000 F de revenu
+cadastral. Le montant ainsi fixé est actualisé dans le mois qui suit le renouvellement général des conseils municipaux et
+selon les mêmes proportions que celles résultant de l'évolution moyenne des revenus cadastraux au plan national.
+L'actualisation est constatée par arrêté conjoint du ministre chargé de l'économie et des finances et du ministre de
+l'intérieur.
+
+Toutefois, il peut être dérogé, dans le délai de deux mois, à ce montant par le commissaire de la République, qui peut, par
+arrêté, fixer un montant départemental qui ne peut être inférieur à la moitié, ni supérieur au double du montant visé à
+l'alinéa précédent.
+
+" Le commissaire de la République porte à la connaissance du maire de chaque commune concernée la liste des sections dont le
+revenu cadastral est inférieur au montant minimal annuel moyen ainsi fixé. Le maire saisit le conseil municipal, dans le
+délai de deux mois, du choix qu'il a à effectuer en application du premier alinéa de l'article L. 151-5 et transmet dans les
+quinze jours la délibération prise au commissaire de la République ou au commissaire adjoint de la République.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°77-91 1977-01-27
+
+	**Cite**:
+
+	  - CODE DES COMMUNES. - art. L151-5 (M)
+
+	**Créé par**:
+
+	  - Décret n°88-31 1988-01-10 art. 1 jorf 10 janvier 1988
+
+
 ### TITRE 5 : Intérêts propres à certaines catégories d'habitants
+
+#### CHAPITRE 1 : Section de commune
+
+##### SECTION 3 : fonctionnement de la commission syndicale.
+
+###### Article R*151-6
+
+Les dispositions prévues aux articles L. 121-10. L. 121-11, L. 121-12 et au premier alinéa de l'article L. 121-15
+s'appliquent aux convocations, aux séances et aux délibérations de la commission syndicale, sous réserve des dispositions du
+premier alinéa de l'article L. 151-4 et des articles L. 151-11 et L. 151-15.
+
+La première réunion de la commission syndicale qui suit sa constitution est convoquée par le maire qui en informe le
+commissaire de la République ou le commissaire adjoint. A défaut de convocation dans les trois mois qui suivent l'élection de
+la commission syndicale, celle-ci est convoquée par le commissaire de la République ou le commissaire adjoint.
+
+**Liens relatifs à cet article**
+
+	**Nouveaux textes**:
+
+	  - Code général des collectivités territoriales L
+
+	**Codifié par**:
+
+	  - Décret n°77-91 1977-01-27
+
+	**Créé par**:
+
+	  - Décret n°88-31 1988-01-10 art. 1 jorf 10 janvier 1988
+
+	**Abrogé par**:
+
+	  - Décret n°2000-318 du 7 avril 2000 - art. 4 (V)
+
+	**Cite**:
+
+	  - CODE DES COMMUNES. - art. L121-10 (M)
+	  - CODE DES COMMUNES. - art. L121-11 (Ab)
+	  - CODE DES COMMUNES. - art. L121-12 (M)
+	  - CODE DES COMMUNES. - art. L121-15 (M)
+	  - CODE DES COMMUNES. - art. L151-11 (M)
+	  - CODE DES COMMUNES. - art. L151-15 (Ab)
+	  - CODE DES COMMUNES. - art. L151-4 (M)
+
+
+###### Article R*151-7
+
+Les dispositions prévues à l'article L. 122-4, aux premier et deuxième alinéas de l'article L. 122-5 et au premier alinéa de
+l'article L. 122-7, s'appliquent à l'élection du président de la commission syndicale.
+
+Le mandat du président expire à l'installation de son successeur.
+
+**Liens relatifs à cet article**
+
+	**Nouveaux textes**:
+
+	  - Code général des collectivités territoriales L
+
+	**Codifié par**:
+
+	  - Décret n°77-91 1977-01-27
+
+	**Créé par**:
+
+	  - Décret n°88-31 1988-01-10 art. 1 jorf 10 janvier 1988 rectificatif  jorf 5 mars 1987
+
+	**Abrogé par**:
+
+	  - Décret n°2000-318 du 7 avril 2000 - art. 4 (V)
+
+	**Cite**:
+
+	  - CODE DES COMMUNES. - art. L122-4 (M)
+	  - CODE DES COMMUNES. - art. L122-5 (M)
+	  - CODE DES COMMUNES. - art. L122-7 (M)
+
+
+###### Article R*151-8
+
+Les démissions des membres de la commission syndicale sont adressées au président qui en informe le maire et le commissaire
+de la République ou le commissaire adjoint de la République.
+
+La démission du président est adressée au maire qui en informe le commissaire de la République ou le commissaire adjoint de
+la République.
+
+Il est procédé à des élections complémentaires lorsque plus du tiers des membres de la commission ont cessé leurs fonctions
+pour quelque cause que ce soit.
+
+**Liens relatifs à cet article**
+
+	**Nouveaux textes**:
+
+	  - Code général des collectivités territoriales L
+
+	**Codifié par**:
+
+	  - Décret n°77-91 1977-01-27
+
+	**Créé par**:
+
+	  - Décret n°88-31 1988-01-10 art. 1 jorf 10 janvier 1988
+
+	**Abrogé par**:
+
+	  - Décret n°2000-318 du 7 avril 2000 - art. 4 (V)
+
+
+###### Article R*151-9
+
+Le président et les membres de la commission syndicale ne reçoivent aucune indemnité ni rémunération.
+
+**Liens relatifs à cet article**
+
+	**Nouveaux textes**:
+
+	  - Code général des collectivités territoriales L
+
+	**Codifié par**:
+
+	  - Décret n°77-91 1977-01-27
+
+	**Créé par**:
+
+	  - Décret n°88-31 1988-01-10 art. 1 jorf 10 janvier 1988
+
+	**Abrogé par**:
+
+	  - Décret n°2000-318 du 7 avril 2000 - art. 4 (V)
+
+
+###### Article R*151-10
+
+Le siège de la commission syndicale est fixé à la mairie du chef lieu de la commune de rattachement de la section.
+
+**Liens relatifs à cet article**
+
+	**Nouveaux textes**:
+
+	  - Code général des collectivités territoriales L
+
+	**Codifié par**:
+
+	  - Décret n°77-91 1977-01-27
+
+	**Créé par**:
+
+	  - Décret n°88-31 1988-01-10 art. 1 jorf 10 janvier 1988
+
+	**Abrogé par**:
+
+	  - Décret n°2000-318 du 7 avril 2000 - art. 4 (V)
+
+
+#### CHAPITRE 1 : Section de communes
+
+##### SECTION 1 : Constitution de la commission syndicale.
+
+###### Article R*151-2
+
+Les dispositions de l'article L. 256 du code électoral [*champ d'application*] sont applicables pour l'élection des
+commissions syndicales dans les communes de 2 500 habitants et plus.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°77-91 1977-01-27
+
+	**Cite**:
+
+	  - Code électoral - art. L256 (V)
+
+	**Créé par**:
+
+	  - Décret n°88-31 1988-01-10 art. 1 jorf 10 janvier 1988
+
+
+##### SECTION 2 : Des demandes des électeurs.
+
+###### Article R*151-3
+
+La demande présentée par les électeurs de la section en application des articles L. 151-4, L. 151-6, L. 151-9, L. 151-11 et
+L. 151-16 est exprimée soit par une lettre collective, soit par des lettres individuelles ou collectives rédigées en termes
+concordants. La demande est acheminée par lettre recommandée avec demande d'avis de réception ou remise à son destinataire
+contre récépissé.
+
+Chaque lettre [*contenu*] doit comporter l'objet et la date de la demande, la dénomination de la section, les nom, prénom,
+adresse et signature de chaque demandeur.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°77-91 1977-01-27
+
+	**Cite**:
+
+	  - CODE DES COMMUNES. - art. L151-11 (M)
+	  - CODE DES COMMUNES. - art. L151-16 (Ab)
+	  - CODE DES COMMUNES. - art. L151-4 (M)
+	  - CODE DES COMMUNES. - art. L151-6 (M)
+	  - CODE DES COMMUNES. - art. L151-9 (M)
+
+	**Créé par**:
+
+	  - Décret n°88-31 1988-01-10 art. 1 jorf 10 janvier 1988
+
+
+###### Article R*151-4
+
+La demande est adressée : [*destinataire*]
+
+1. Au président de la commission syndicale dans les cas prévus aux articles L. 151-4 et L. 151-6 et au sixième alinéa de
+l'article L. 151-9.
+
+2. Au maire de la commune dans les cas prévus aux septième et huitième alinéas de l'article L. 151-9.
+
+3. Au commissaire de la République ou au commissaire adjoint de la République dans les cas prévus au huitième alinéa de
+l'article L. 151-9, à l'article L. 151-11 et au deuxième alinéa de l'article L. 151-16. Le commissaire de la République ou le
+commissaire adjoint de la République en informe le maire de la commune, qui transmet dans le mois à l'autorité préfectorale
+qui l'avait saisi la liste des électeurs de la section concernée.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°77-91 1977-01-27
+
+	**Cite**:
+
+	  - CODE DES COMMUNES. - art. L151-11 (M)
+	  - CODE DES COMMUNES. - art. L151-16 (Ab)
+	  - CODE DES COMMUNES. - art. L151-4 (M)
+	  - CODE DES COMMUNES. - art. L151-6 (M)
+	  - CODE DES COMMUNES. - art. L151-9 (M)
+
+	**Créé par**:
+
+	  - Décret n°88-31 1988-01-10 art. 1 jorf 10 janvier 1988
+
+
+###### Article R*151-5
+
+Dans le cas où la demande est constituée de plusieurs lettres, elle est réputée avoir été présentée à la date de la réception
+par son destinataire de la lettre permettant d'atteindre la proportion prévue dans chacun des cas visés par l'article
+concerné du chapitre Ier du titre V du livre Ier du code des communes.
+
+Sous réserve des délais fixés à l'article L. 151-6, la demande n'est pas recevable s'il s'est écoulé plus de deux mois,
+décomptés de jour à jour, entre la réception, par son destinataire, de la première des lettres qui lui sont destinées et la
+réception de celle des lettres qui permet d'atteindre la proportion mentionnée ci-dessus.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°77-91 1977-01-27
+
+	**Cite**:
+
+	  - CODE DES COMMUNES. - art. L151-6 (M)
+	  - Code des communes livre 1 titre V chapitre 1
+
+	**Créé par**:
+
+	  - Décret n°88-31 1988-01-10 art. 1 jorf 10 janvier 1988
+
 
 #### CHAPITRE 2 : Secteur de commune.
 
