@@ -1,5 +1,5 @@
 # Code des communes  
-Version Consolidée au 2002-01-01
+Version Consolidée au 2002-02-28
 
 # Partie législative
 
@@ -129,13 +129,14 @@ Les fonctions d'agent de police municipale ne peuvent être exercées que par de
 effet dans les conditions fixées par les décrets en Conseil d'Etat prévus à l'article 6 de la loi n° 84-53 du 26 janvier 1984
 portant dispositions statutaires relatives à la fonction publique territoriale.
 
-Ils sont nommés par le maire, agréés par le représentant de l'Etat dans le département et le procureur de la République, puis
-assermentés.
+Ils sont nommés par le maire ou le président de l'établissement public de coopération intercommunale, agréés par le
+représentant de l'Etat dans le département et le procureur de la République, puis assermentés.
 
 L'agrément peut être retiré ou suspendu par le représentant de l'Etat ou le procureur de la République après consultation du
-maire. Le maire peut alors proposer un reclassement dans un autre cadre d'emplois dans les mêmes conditions que celles
-prévues à la section 3 du chapitre VI de la loi n° 84-53 du 26 janvier 1984 précitée, à l'exception de celles mentionnées au
-second alinéa de l'article 81.
+maire ou du président de l'établissement public de coopération intercommunale. Le maire ou le président de l'établissement
+public de coopération intercommunale peut alors proposer un reclassement dans un autre cadre d'emplois dans les mêmes
+conditions que celles prévues à la section 3 du chapitre VI de la loi n° 84-53 du 26 janvier 1984 précitée, à l'exception de
+celles mentionnées au second alinéa de l'article 81.
 
 **Liens relatifs à cet article**
 
@@ -160,7 +161,8 @@ second alinéa de l'article 81.
 
 	**Modifié par**:
 
-	  - Loi n°99-291 du 15 avril 1999 - art. 7 ()
+	  - Loi n°2002-276 du 27 février 2002 - art. 43 ()
+	  - Loi n°2002-276 du 27 février 2002 - art. 43
 
 
 ###### Article L412-49-1
@@ -626,46 +628,6 @@ fonctionnement du fonds ainsi que les autres conditions d'application des articl
 	**Cite**:
 
 	  - Code des communes L413-11 à L413-14
-
-
-#### CHAPITRE 4 : Notation, avancement et discipline
-
-##### SECTION 3 : Discipline
-
-##### SOUS-SECTION 3 : Dispositions applicables aux gardes champêtres et aux agents de la police municipale.
-
-###### Article L414-23
-
-Les gardes champêtres [*sanctions*] peuvent être suspendus et révoqués par le maire [*compétence*].
-
-La suspension ne peut durer plus d'un mois.
-
-**Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - SPEC_APPLI: *Dispositions applicables aux agents nommés dans des emplois permanents à temps non complet*
-	  - SPEC_APPLI: Code des communes L421-1 :
-
-	**Anciens textes**:
-
-	  - Code de l'administration communale 592
-
-	**Codifié par**:
-
-	  - Décret n°77-372 1977-03-28
-
-	**Modifié par**:
-
-	  - Loi n°82-213 du 2 mars 1982 - art. 21 (V) JORF 3 MARS 1982
-
-	**Cité par**:
-
-	  - Loi n°84-53 du 26 janvier 1984 - art. 119 (V)
-
-	**Abrogé par**:
-
-	  - Loi n°2002-276 du 27 février 2002 - art. 42 ()
 
 
 #### CHAPITRE 5 : Positions
