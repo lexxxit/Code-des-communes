@@ -1,5 +1,5 @@
 # Code des communes  
-Version Consolidée au 1988-04-02
+Version Consolidée au 1988-04-12
 
 # Statuts types d'une caisse communale de secours et de retraite de sapeurs-pompiers
 
@@ -56664,6 +56664,35 @@ l'aménagement d'agglomérations nouvelles.
 	  - Code général des collectivités territoriales - art. D2531-5 (V)
 
 
+###### Article R263-6
+
+Les modalités de calcul des pertes de recettes résultant des réductions tarifaires prévues à l'article L. 263-5 ainsi que
+celles du paiement et du contrôle de l'emploi des sommes dues aux entreprises de transport concernées sont fixées par des
+conventions passées entre le syndicat des transports parisiens et ces entreprises [*conditions de forme*].
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°71-710 1971-08-30 art. 15
+
+	**Codifié par**:
+
+	  - Décret n°77-91 1977-01-27
+
+	**Modifié par**:
+
+	  - Décret n°88-331 du 7 avril 1988 - art. 1 ()
+
+	**Abrogé par**:
+
+	  - Décret n°2000-318 du 7 avril 2000 - art. 4 (V)
+
+	**Cite**:
+
+	  - CODE DES COMMUNES. - art. L263-5 (Ab)
+
+
 ###### Article R263-7
 
 Les entreprises de transport en commun susceptibles de bénéficier, sous réserve de l'agrément du syndicat des transports
@@ -58424,32 +58453,6 @@ affecté du coefficient 1.
 ##### Versement destiné aux transports en commun
 
 ##### Dispositions communes .
-
-###### Article R263-6
-
-Les modalités de calcul des pertes de recettes résultant des réductions tarifaires prévues à l'article L. 263-5 ainsi que
-celles du paiement et du contrôle de l'emploi des sommes dues aux entreprises de transport concernées sont fixées par des
-conventions passées entre le syndicat des transports parisiens et ces entreprises et approuvées par les ministres intéressés
-[**]conditions de forme[**].
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°71-710 1971-08-30 art. 15
-
-	**Codifié par**:
-
-	  - Décret n°77-91 1977-01-27
-
-	**Créé par**:
-
-	  - Décret n°77-91 1977-01-27 JORF et JONC 3 février 1977 date d'entrée en vigueur élection des maires
-
-	**Cite**:
-
-	  - CODE DES COMMUNES. - art. L263-5 (Ab)
-
 
 ###### Article R263-8
 
@@ -93348,41 +93351,6 @@ activités exercées le justifie.
 ## Personnel communal
 
 ### Agents nommés dans des emplois permanents à temps complet
-
-#### Dispositions générales et organiques
-
-##### La médaille d'honneur départementale et communal .
-
-###### Article R411-46
-
-Par dérogation aux dispositions de l'article R. 411-44, les médailles d'argent et de vermeil peuvent être décernées, après
-respectivement vingt ans et trente ans de services [*conditions d'attribution, ancienneté*], aux agents des réseaux
-souterrains des égouts, bénéficiaires des avantages prévus par le décret n° 50-1128 du 14 septembre 1950 tendant à accorder
-des avantages spéciaux pour l'ouverture du droit à pension aux personnels du service actif des égouts.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°45-1197 1945-06-07 ART. 3 BIS
-
-	**Cite**:
-
-	  - Décret n°50-1128 1950-09-14
-	  - CODE DES COMMUNES. - art. R411-44 (M)
-
-	**Codifié par**:
-
-	  - Décret n°77-373 1977-03-28
-
-	**Créé par**:
-
-	  - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
-
-	**Cité par**:
-
-	  - CODE DES COMMUNES. - art. R411-48 (V)
-
 
 #### Recrutement, formation et promotion sociale
 
