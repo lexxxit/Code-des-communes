@@ -1,5 +1,5 @@
 # Code des communes  
-Version Consolidée au 1979-06-20
+Version Consolidée au 1979-07-14
 
 # ORGANISATION COMMUNALE
 
@@ -61282,6 +61282,52 @@ sous la section suivante un autre article R. 233-108, sans abroger le premier.
 
 #### CHAPITRE 4 : Dotation globale de fonctionnement et autres recettes réparties par le comité des finances locales
 
+##### SECTION 1 : Dotation globale de fonctionnement
+
+##### SOUS-SECTION 4 : Concours particuliers.
+
+###### Article R*234-1
+
+Pour l'application de l'article L. 234-13 du code des communes la dotation revenant à chaque commune bénéficiaire est
+pondérée :
+
+- pour les communes dont le potentiel fiscal par habitant est inférieur au potentiel fiscal moyen par habitant de l'ensemble
+des communes, la dotation revenant à ces communes est pondérée par la racine carrée de l'écart relatif entre les deux valeurs
+précédentes ;
+
+- pour les communes dont le potentiel fiscal par hectare est inférieur au tiers du potentiel fiscal moyen par hectare des
+communes de moins de 2 000 habitants, la dotation revenant à ces communes est pondérée par la racine carrée de la moitié de
+l'écart relatif entre les deux valeurs précédentes.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - SPEC_APPLI: *Ces dispositions ne seront applicables que jusqu'au 1er janvier 1986*
+	  - SPEC_APPLI: Loi n°80-1102 1980-12-31 :
+
+	**Codifié par**:
+
+	  - Décret n°77-91 1977-01-27
+
+
+###### Article R*234-2
+
+Les communes admises au bénéfice de la dotation de fonctionnement minimale percevront, au moins, une somme égale à 750 F. ---
+Cette somme est réévaluée chaque année après avis du comité des finances locales.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - SPEC_APPLI: *Ces dispositions ne seront applicables que jusqu'au 1er janvier 1986*
+	  - SPEC_APPLI: Loi n°80-1102 1980-12-31 :
+
+	**Codifié par**:
+
+	  - Décret n°77-91 1977-01-27
+
+
 ##### SECTION 2 : Recettes réparties par le comité des finances locales
 
 ##### SOUS-SECTION 3 : Répartition d'une part des amendes relatives à la circulation routière.
@@ -66359,6 +66405,78 @@ Les dispositions [*relatives au budget, aux dépenses, aux recettes et à la com
 	  - Loi n°66-1069 1966-12-24 art. 42 (partie)
 
 
+##### SECTION 2 : Dispositions relatives à la dotation globale de fonctionnement.
+
+###### Article R*253-2
+
+Pour l'application de l'article L. 253-6 et jusqu'à une date qui sera fixée par décret, le prélèvement au profit de la
+communauté urbaine s'opère sur la dotation forfaitaire correspondant aux sommes perçues en 1978 au titre de l'attribution de
+garantie prévue à l'article L. 234-3 en ce qui concerne le versement représentatif de la taxe sur les salaires. Ce
+prélèvement ne porte que sur la part de cette dotation qui excède le montant du minimum par habitant fixé par l'article L.
+234-16. Son taux est de 25 p. 100 et le conseil de la communauté peut décider de le porter à 75 p. 100.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°77-91 1977-01-27
+
+	**Abrogé par**:
+
+	  - Décret n°2000-318 du 7 avril 2000 - art. 4 (V)
+
+
+###### Article R*253-3
+
+Les recouvrements sont effectués sur chaque commune par douzièmes mensuels.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°77-91 1977-01-27
+
+	**Abrogé par**:
+
+	  - Décret n°2000-318 du 7 avril 2000 - art. 4 (V)
+
+
+###### Article R*253-4
+
+Dans la limite de 20 p. 100 du produit des sommes prélevées sur les communes, le conseil de communauté peut, pour tenir
+compte notamment des dépenses laissées à leur charge, rétrocéder à ces communes ou à certaines d'entre elles une fraction des
+sommes prélevées.
+
+Dans l'un et l'autre cas, une allocation de rétrocession est attribuée par le conseil de communauté qui en fixe le montant
+sur demande motivée des communes bénéficiaires.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°77-91 1977-01-27
+
+	**Abrogé par**:
+
+	  - Décret n°2000-318 du 7 avril 2000 - art. 4 (V)
+
+
+###### Article R*253-5
+
+Les allocations revenant aux communes au titre de la rétrocession sont versées par moitié dans les deux derniers mois de
+chaque semestre de l'exercice considéré.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°77-91 1977-01-27
+
+	**Abrogé par**:
+
+	  - Décret n°2000-318 du 7 avril 2000 - art. 4 (V)
+
+
 ##### SECTION 3 : Majorations de subvention d'équipement.
 
 ###### Article R253-8
@@ -67576,6 +67694,228 @@ R. 235-46 à R. 235-48, R. 236-8 et R. 236-9, R. 236-50, R. 251-10 et R. 253-1 �
 	  - CODE DES COMMUNES. - art. R*233-107 (T)
 	  - CODE DES COMMUNES. - art. R234-5 (M)
 	  - Code des communes R252-1 à R252-5
+
+
+###### Article R262-4
+
+La quote-part de la dotation de péréquation visée à l'article L. 262-5 (2é alinéa) et à l'article L. 262-10 (2é) fait
+l'objet, après prélèvement au profit des collectivités locales du département de Saint-Pierre-et-Miquelon conformément à
+l'article R. 262-13, d'une répartition en quatre attributions globales entre les départements de la Guadeloupe, de la Guyane,
+de la Martinique et de la Réunion. Les bases de cette répartition sont fixées par l'article R. 262-6.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°77-91 1977-01-27
+
+	**Cite**:
+
+	  - CODE DES COMMUNES. - art. L262-10 (M)
+	  - CODE DES COMMUNES. - art. L262-5 (M)
+	  - CODE DES COMMUNES. - art. R262-6 (M)
+	  - Code des communes R262-13, R262-6
+
+	**Nouveaux textes**:
+
+	  - Code général des collectivités territoriales - art. R2563-3 (V)
+
+
+###### Article R262-5
+
+Chaque attribution globale est divisée en deux parts dont l'une revient au département, l'autre à l'ensemble des communes et
+groupements de communes à fiscalité propre conformément à l'article R. 262-7.
+
+La part fixée en exécution du premier alinéa du présent article pour l'ensemble des communes et groupements de communes d'un
+département d'outre-mer est répartie entre les communes et les groupements de communes selon les règles fixées à l'article R.
+262-8.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°77-91 1977-01-27
+
+	**Cite**:
+
+	  - CODE DES COMMUNES. - art. R262-7 (M)
+	  - CODE DES COMMUNES. - art. R262-8 (M)
+
+	**Nouveaux textes**:
+
+	  - Code général des collectivités territoriales - art. R2563-4 (V)
+
+
+###### Article R262-6
+
+La répartition prévue à l'article R. 262-4 en quatre attributions globales de département s'effectue pour moitié au prorata
+d'un indice de population départementale et pour moitié au prorata d'un indice d'effort fiscal départemental.
+
+L'indice de population départementale s'obtient en ajoutant au chiffre résultant du dernier recensement général ou
+complémentaire les attributions de population fictive aux communes prévues par l'article R. 114-5 du code des communes.
+
+L'indice d'effort fiscal départemental s'obtient en partant du montant total des impôts directs et taxes assimilées qui ont
+été compris dans les rôles généraux émis au cours de l'année précédant celle au titre de laquelle est effectuée la
+répartition, au bénéfice du département, des communes de ce département et des groupements de collectivités locales du même
+département, et après déduction des frais d'assiette, de perception et de non-valeur.
+
+Ce montant total est affecté, pour déterminer l'indice d'effort fiscal départemental, d'un coefficient de recouvrement égal
+au rapport entre le montant des sommes encaissées par le Trésor pour l'ensemble des impôts directs mis en recouvrement dans
+le département intéressé au titre de la pénultième année et le montant global des sommes figurant sur les rôles d'impôts
+directs qui ont été émis au titre de cette même année dans le même département.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°77-91 1977-01-27
+
+	**Abrogé par**:
+
+	  - Décret n°94-704 du 17 août 1994 - art. 5 (V)
+
+	**Cité par**:
+
+	  - CODE DES COMMUNES. - art. R262-4 (M)
+
+
+###### Article R262-7
+
+La division en deux parts de l'attribution globale faite à chacun des départements d'outre-mer visés à l'article R. 262-4
+s'effectue entre le département d'une part, l'ensemble des communes et groupements de communes à fiscalité propre, d'autre
+part, au prorata des sommes que le département d'une part, les communes et groupements de communes d'autre part, ont reçues
+pour 1978 au titre du V.R.T.S. en application de l'article 45-2 de la loi du 6 janvier 1966.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°77-91 1977-01-27
+
+	**Abrogé par**:
+
+	  - Décret n°94-704 du 17 août 1994 - art. 5 (V)
+
+	**Cité par**:
+
+	  - CODE DES COMMUNES. - art. R262-5 (M)
+
+
+###### Article R262-8
+
+La répartition prévue au deuxième alinéa de l'article R. 262-5 entre les communes et groupements de communes à fiscalité
+propre s'effectue pour 75 p. 100 entre les communes seules au prorata d'un indice de population communale défini conformément
+au deuxième alinéa de l'article R. 262-6 et pour 25 p. 100 entre les communes et groupements de communes à fiscalité propre
+sur la base d'une indice d'effort fiscal local déterminé conformément à l'article R. 262-9.
+
+Toutefois :
+
+1° L'ensemble des communes de l'arrondissement de Saint-Laurent-du-Maroni perçoit, sur la part revenant aux communes et
+groupements de commune de la Guyane, une attribution proportionnelle à son indice de population par rapport à l'indice de
+population de la Guyane.
+
+2° Pour 1979 la commune de Saint-Barthélémy-de-la-Guadeloupe reçoit une attribution de dotation de péréquation au prorata de
+l'indice de population exclusivement.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°77-91 1977-01-27
+
+	**Abrogé par**:
+
+	  - Décret n°94-704 du 17 août 1994 - art. 5 (V)
+
+	**Cité par**:
+
+	  - CODE DES COMMUNES. - art. R262-5 (M)
+	  - CODE DES COMMUNES. - art. R262-9 (M)
+
+
+###### Article R262-9
+
+L'indice d'effort fiscal à retenir pour l'application du premier alinéa de l'article R. 262-8 est égal au montant total des
+sommes comprises dans les rôles généraux émis au profit de la commune ou du groupement de commune au titre de l'année
+précédant celle au titre de laquelle est effectuée la répartition pour les impositions suivantes visées à l'article L. 234-9
+du code des communes :
+
+La taxe foncière correspondant aux propriétés bâties affectées à l'habitation ou à la profession hôtelière, majorée de la
+somme correspondant aux exonérations dont ont bénéficié, en application des dispositions des articles 1283 à 1378 du code
+général des impôts, les constructions nouvelles, additions de constructions et reconstructions ;
+
+La taxe foncière sur les propriétés non bâties à concurrence de 30 p. 100 de son produit ;
+
+La taxe d'habitation ;
+
+La taxe d'enlèvement des ordures ménagères ou la redevance pour enlèvement des ordures ménagères, prévue à l'article L.
+233-78 du code des communes.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°77-91 1977-01-27
+
+	**Abrogé par**:
+
+	  - Décret n°94-704 du 17 août 1994 - art. 5 (V)
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: CODE DES COMMUNES. - art. R262-8 (M)
+
+
+##### SECTION 2 : Dispositions applicables aux communes du département de Saint-Pierre-et-Miquelon.
+
+###### Article R*262-13
+
+Sur la quote-part de la dotation de péréquation visée à l'article L. 262-5 (2é alinéa) et à l'article L. 262-10 (2é alinéa)
+un prélèvement est effectué au profit des collectivités locales du département de Saint-Pierre-et-Miquelon par application à
+cette quote-part du rapport existant entre la population du département de Saint-Pierre-et-Miquelon et celle des cinq
+départements d'outre-mer.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°77-91 1977-01-27
+
+	**Cité par**:
+
+	  - Code général des collectivités territoriales - art. R2334-9-4 (T)
+
+
+###### Article R*262-14
+
+La somme ainsi obtenue est répartie entre le département de Saint-Pierre-et-Miquelon, d'une part, les communes de Saint-
+Pierre-et-Miquelon, d'autre part au prorata des attributions du versements représentatif de la taxe sur les salaires qui leur
+ont été faites en 1978.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°77-91 1977-01-27
+
+	**Abrogé par**:
+
+	  - Décret n°94-704 du 17 août 1994 - art. 8 ()
+
+
+###### Article R*262-15
+
+La part revenant aux communes de Saint-Pierre et de Miquelon-Langlade est répartie entre elles au prorata de leur population.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°77-91 1977-01-27
+
+	**Abrogé par**:
+
+	  - Décret n°94-704 du 17 août 1994 - art. 8 ()
 
 
 #### CHAPITRE 3 : Dispositions applicables aux communes de la région d'Ile-de-France.
@@ -70256,52 +70596,6 @@ salariés.
 
 #### Versement représentatif de la taxe sur les salaires *V.R.T.S.*
 
-###### Article R*234-1
-
-Le montant prévisionnel du versement représentatif de la taxe sur les salaires est fixé avant le 31 octobre de chaque année
-[*date*] pour l'année suivante, par arrêté du ministre de l'intérieur et du ministre de l'économie et des finances
-[*compétence*] compte tenu du produit qui aurait été celui de la taxe sur les salaires pour la période la plus récente si
-cette taxe avait été effectivement recouvrée et de l'évolution prévisible de ce produit au cours de l'exercice considéré
-[*définition*].
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°68-189 1968-02-27 art. 1
-
-	**Codifié par**:
-
-	  - Décret n°77-91 1977-01-27
-
-	**Créé par**:
-
-	  - Décret n°77-91 1977-01-27 JORF et JONC 3 février 1977 date d'entrée en vigueur 20 mars 1977
-
-
-###### Article R*234-2
-
-Le solde positif ou négatif résultant de la différence entre, d'une part, le montant du versement représentatif de la taxe
-sur les salaires, établi compte tenu du produit qui aurait été celui de ladite taxe pour une année déterminée et, d'autre
-part, le montant prévisionnel de ce même versement est reporté sur les attributions revenant aux collectivités locales, à
-leurs groupements et au fonds d'action locale au titre du premier exercice suivant la date à laquelle le produit ci-dessus
-mentionné est connu.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°68-189 1968-02-27 art. 2
-
-	**Codifié par**:
-
-	  - Décret n°77-91 1977-01-27
-
-	**Créé par**:
-
-	  - Décret n°77-91 1977-01-27 JORF et JONC 3 février 1977 date d'entrée en vigueur 20 mars 1977
-
-
 ###### Article R*234-3
 
 Les versements mensuels prévus en faveur des communes par l'article L. 234-16 [*L. 234-19*] sont effectués par douzièmes
@@ -71454,170 +71748,7 @@ mentionnés à l'article précédent ont lieu comme en matière d'impôts direct
 
 ### Dispositions applicables à certains établissements communaux
 
-#### Communauté urbaine
-
-##### Versement représentatif de la taxe sur les salaires *V.R.T.S.*
-
-###### Article R*253-2
-
-Pour l'application de l'article L. 253-6, le prélèvement au profit de la communauté urbaine sur les attributions de garantie
-versées aux communes dans les conditions prévues aux articles L. 234-6 à L. 234-11, porte sur la partie desdites attributions
-qui excède la somme calculée, conformément à l'article L. 234-16 [*montant minimum alloué aux communes*]. 
-
-Le taux du prélèvement est fixé à 25 p. 100 [*définition*]. Toutefois, le conseil de communauté peut décider d'augmenter ce
-taux jusqu'à 75 p. 100 [*pourcentage*].
-
-**Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - SPEC_APPLI: *Dispositions non applicables aux communes des départements de la Guadeloupe, de la Guyane, de la Martinique, de la Réunion et de Saint-Pierre-et-Miquelon*
-	  - SPEC_APPLI: Code des communes R262-1, R262-12 :
-
-	**Anciens textes**:
-
-	  - Décret n°68-190 1968-02-27 art. 1 al. 1 et 2 modifié
-
-	**Codifié par**:
-
-	  - Décret n°77-91 1977-01-27
-
-	**Créé par**:
-
-	  - Décret n°77-91 1977-01-27 JORF et JONC 3 février 1977 date d'entrée en vigueur 20 mars 1977
-
-	**Cite**:
-
-	  - CODE DES COMMUNES. - art. L253-6 (M)
-	  - Code des communes L253-6, L234-6 à L234-11 et L234-16
-
-
-###### Article R*253-3
-
-Les recouvrements [*fréquence*] sont effectués sur chaque commune par douzièmes mensuels [*prélèvement au profit de la
-communauté urbaine sur les attributions de garantie versées aux communes*] .
-
-**Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - SPEC_APPLI: *Dispositions non applicables aux communes des départements de la Guadeloupe, de la Guyane, de la Martinique, de la Réunion et de Saint-Pierre-et-Miquelon*
-	  - SPEC_APPLI: Code des communes R262-1, R262-12 :
-
-	**Anciens textes**:
-
-	  - Décret n°68-190 1968-02-27 art. 2
-
-	**Codifié par**:
-
-	  - Décret n°77-91 1977-01-27
-
-	**Créé par**:
-
-	  - Décret n°77-91 1977-01-27 JORF et JONC 3 février 1977 date d'entrée en vigueur 20 mars 1977
-
-
-###### Article R*253-4
-
-Pour l'établissement du budget de la communauté urbaine, l'indice de revalorisation *du montant minimum* que les communes
-doivent recevoir au titre des attributions de garantie et des attributions au prorata* prévu à l'article L. 234-16 est
-déterminé prévisionnellement, chaque année pour l'année suivante *fréquence*, compte tenu du taux de progression du versement
-représentatif de la taxe sur les salaires fixé par l'arrêté interministériel prévu à l'article R. 234-1. 
-
-L'écart apparu éventuellement entre le prélèvement prévisionnel et le prélèvement réel *au profit de la communauté sur les
-attributions de garantie versées aux communes* fait l'objet d'un report global sur l'exercice alors en cours.
-
-**Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - SPEC_APPLI: *Dispositions non applicables aux communes des départements de la Guadeloupe, de la Guyane, de la Martinique, de la Réunion et de Saint-Pierre-et-Miquelon*
-	  - SPEC_APPLI: Code des communes R262-1, R262-12 :
-
-	**Anciens textes**:
-
-	  - Décret n°68-190 1968-02-27 art. 3
-
-	**Codifié par**:
-
-	  - Décret n°77-91 1977-01-27
-
-	**Créé par**:
-
-	  - Décret n°77-91 1977-01-27 JORF et JONC 3 février 1977 date d'entrée en vigueur 20 mars 1977
-
-	**Cite**:
-
-	  - CODE DES COMMUNES. - art. L234-16 (M)
-	  - Code des communes R234-1
-
-
-###### Article R*253-5
-
-Dans la limite de 20 p. 100 [*pourcentage*] du produit du prélèvement [*au profit de la communauté sur les attributions de
-garantie versées aux communes*] prévu à l'article R. 253-2, le conseil de communauté peut, pour tenir compte notamment des
-dépenses laissées à leur charge, rétrocéder aux communes ou à certaines d'entre elles une fraction des sommes prélevées. 
-
-Dans l'un et l'autre cas, une allocation de rétrocession est attribuée par le conseil de communauté qui en fixe le montant,
-sur demande motivée [*conditions de forme*] de chaque commune.
-
-**Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - SPEC_APPLI: *Dispositions non applicables aux communes des départements de la Guadeloupe, de la Guyane, de la Martinique, de la Réunion et de Saint-Pierre-et-Miquelon*
-	  - SPEC_APPLI: Code des communes R262-1, R262-12 :
-
-	**Anciens textes**:
-
-	  - Décret n°68-190 1968-02-27 art. 4 modifié
-
-	**Codifié par**:
-
-	  - Décret n°77-91 1977-01-27
-
-	**Créé par**:
-
-	  - Décret n°77-91 1977-01-27 JORF et JONC 3 février 1977 date d'entrée en vigueur 20 mars 1977
-
-	**Cite**:
-
-	  - Code des communes R253-2
-
-
 #### Dispositions applicables à la communauté urbaine
-
-##### Dispositions relatives à la dotation globale de fonctionnement *DGF*.
-
-###### Article R*253-6
-
-Les allocations revenant aux communes au titre de la rétrocession [*d'une partie du prélèvement au profit de la communauté
-sur les attributions de garantie versées aux communes*] sont versées par moitié, dans les deux derniers mois de chaque
-semestre de l'exercice considéré [*fréquence - date*].
-
-**Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - SPEC_APPLI: *Dispositions non applicables aux communes des départements de la Guadeloupe, de la Guyane, de la Martinique, de la Réunion et de Saint-Pierre-et-Miquelon*
-	  - SPEC_APPLI: Code des communes R262-1, R262-12 :
-
-	**Anciens textes**:
-
-	  - Décret n°68-190 1968-02-27 art. 5
-
-	**Codifié par**:
-
-	  - Décret n°77-91 1977-01-27
-
-	**Créé par**:
-
-	  - Décret n°77-91 1977-01-27 JORF et JONC 3 février 1977 date d'entrée en vigueur 20 mars 1977
-
-	**Abrogé par**:
-
-	  - Décret n°79-597 1979-07-12 art. 3 JORF 14 juillet 1979
-
 
 ##### Majorations de subvention d'équipement .
 
@@ -71656,267 +71787,6 @@ Des crédits lui sont délégués à cet effet par le ministre de l'intérieur.
 #### DISPOSITIONS APPLICABLES AUX COMMUNES DES DEPARTEMENTS D'OUTRE-MER (D.O.M.)
 
 ##### COMMUNES DES DEPARTEMENTS DE LA GUADELOUPE, DE LA GUYANE, DE LA MARTINIQUE ET DE LA REUNION .
-
-###### Article R262-4
-
-La quote-part du produit [*versement représentatif de la taxe sur les salaires : attribution au prorata*] défini à l'article
-L. 234-12, telle qu'elle est déterminée par l'article L. 262-6 et destinée aux départements d'outre-mer, aux communes et aux
-groupements de collectivités locales de ces départements, fait l'objet d'une répartition en quatre attributions globales,
-
-dont chacune est destinée à l'ensemble des collectivités intéressées appartenant à un même département d'outre-mer. 
-
-Les bases de cette répartition sont fixées par l'article R. 262-6.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°69-347 1969-04-18 art. 1 al. 1
-
-	**Codifié par**:
-
-	  - Décret n°77-91 1977-01-27
-
-	**Créé par**:
-
-	  - Décret n°77-91 1977-01-27 JORF et JONC 3 février 1977 date d'entrée en vigueur 20 mars 1977
-
-	**Cite**:
-
-	  - CODE DES COMMUNES. - art. L234-12 (M)
-	  - CODE DES COMMUNES. - art. L262-6 (M)
-
-	**Cité par**:
-
-	  - CODE DES COMMUNES. - art. R262-6 (M)
-
-	**Nouveaux textes**:
-
-	  - Code général des collectivités territoriales - art. R2563-3 (V)
-
-
-###### Article R262-5
-
-Chaque attribution globale [*attribution au prorata dans le cadre du V.R.T.S.*] faite en exécution de l'article R. 262-4 est
-divisée en deux parts, dont l'une revient au département, l'autre à l'ensemble des autres collectivités territoriales
-intéressées,
-
-cette division s'effectuant conformément à l'article R. 262-7. 
-
-La part fixée en exécution du premier alinéa du présent article pour l'ensemble des communes et des groupements de
-collectivités locales d'un département d'outre-mer est répartie entre les communes et les groupements de collectivités
-intéressés selon les règles fixées aux articles R. 262-6, R. 262-8 et R. 262-9.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°69-347 1969-04-18 art. 1 al. 2 et 3
-
-	**Codifié par**:
-
-	  - Décret n°77-91 1977-01-27
-
-	**Créé par**:
-
-	  - Décret n°77-91 1977-01-27 JORF et JONC 3 février 1977 date d'entrée en vigueur 20 mars 1977
-
-	**Cite**:
-
-	  - Code des communes R262-4 et R262-6 à R262-9
-
-	**Nouveaux textes**:
-
-	  - Code général des collectivités territoriales - art. R2563-4 (V)
-
-
-###### Article R262-6
-
-La répartition prévue à l'article R. 262-4 en quatre attributions globales de département s'effectue pour moitié au prorata
-d'un indice de population départementale et pour moitié au prorata d'un indice d'effort fiscal départemental. 
-
-L'indice de population départementale s'obtient en ajoutant au chiffre résultant du dernier recensement général ou
-complémentaire les attributions de population définies par l'article R. 114-5. 
-
-L'indice d'effort fiscal départemental s'obtient en partant du montant total des impôts directs et taxes assimilées qui ont
-été comprises dans les rôles généraux émis au cours de l'année précédant celle au titre de laquelle est effectuée la
-répartition, au bénéfice du département, des communes de ce département et des groupements de collectivités locales du même
-département et après déduction des frais d'assiette, de perception et de non-valeur.
-
-Ce montant total est affecté, pour déterminer l'indice d'effort fiscal départemental, d'un coefficient de recouvrement égal
-au rapport entre le montant des sommes encaissées par le Trésor pour l'ensemble des impôts directs mis en recouvrement dans
-le département intéressé au titre de la pénultième année et le montant global des sommes figurant sur les rôles d'impôts
-directs qui ont été émis au titre de cette même année dans le même département. 
-
-Pour la répartition prévue au premier alinéa de l'article R. 262-4 ainsi qu'au premier alinéa du présent article, les indices
-de population et d'effort fiscal résultant du deuxième et du troisième alinéa du présent article sont majorés de 10 p. 100 en
-faveur du département de la Réunion.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°69-347 1969-04-18 art. 2
-
-	**Codifié par**:
-
-	  - Décret n°77-91 1977-01-27
-
-	**Créé par**:
-
-	  - Décret n°77-91 1977-01-27 JORF et JONC 3 février 1977 date d'entrée en vigueur 20 mars 1977
-
-	**Cite**:
-
-	  - CODE DES COMMUNES. - art. R114-5 (Ab)
-
-	**Cité par**:
-
-	  - CODE DES COMMUNES. - art. R262-4 (M)
-
-
-###### Article R262-7
-
-La division en deux parts de l'attribution globale faite à chacun des départements d'outre-mer ainsi qu'aux communes et aux
-groupements de collectivités locales du même département s'effectue entre le département, d'une part, l'ensemble des communes
-et groupements de collectivités intéressées, d'autre part, au prorata du total de recettes que le département, d'une part,
-
-les communes et groupements de collectivités intéressées, d'autre part, ont encaissé en 1965, 1966 et 1967 [*date*] au titre
-de la taxe locale sur le chiffre d'affaires, de la taxe sur les locaux loués en garni et de la taxe de circulation sur les
-viandes [*versement représentatif de la taxe sur les salaires : attribution au prorata*].
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°69-347 1969-04-18 art. 3
-
-	**Codifié par**:
-
-	  - Décret n°77-91 1977-01-27
-
-	**Créé par**:
-
-	  - Décret n°77-91 1977-01-27 JORF et JONC 3 février 1977 date d'entrée en vigueur 20 mars 1977
-
-	**Cité par**:
-
-	  - CODE DES COMMUNES. - art. R262-5 (M)
-
-
-###### Article R262-8
-
-La répartition [*de la quote-part de l'attribution au prorata globale versée dans le cadre du V.R.T.S.*] prévue au deuxième
-alinéa de l'article R. 262-5 entre les communes et les groupements de collectivités intéressées s'effectue pour les trois
-quarts [*proportion*] entre les communes seules au prorata d'un indice de population communale défini conformément au
-deuxième alinéa de l'article R. 262-6 et pour un quart entre les communes et les groupements de collectivités locales sur la
-base d'un indice d'effort fiscal local. 
-
-Toutefois :
-
-1° La commune de Saint-Barthélémy de la Guadeloupe est remplie des droits qu'elle tient du deuxième alinéa de l'article R.
-262-5 par une attribution faite au prorata de l'indice de population exclusivement ; 
-
-2° L'ensemble des communes de l'arrondissement de Saint-Laurent-du-Maroni perçoit sur la part revenant aux communes et
-groupements de collectivités de la Guyane une attribution proportionnelle à son indice de population par rapport à l'indice
-de population de la Guyane. 
-
-La répartition entre les autres communes ou groupements des collectivités de la Guadeloupe, d'une part, entre les autres
-communes ou groupements de collectivités de la Guyane, d'autre part, s'effectue après déduction des sommes attribuées en
-vertu des deux alinéas précédents conformément au premier alinéa du présent article.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°69-347 1969-04-18 art. 4 1. et 4 2.
-
-	**Codifié par**:
-
-	  - Décret n°77-91 1977-01-27
-
-	**Créé par**:
-
-	  - Décret n°77-91 1977-01-27 JORF et JONC 3 février 1977 date d'entrée en vigueur 20 mars 1977
-
-	**Cité par**:
-
-	  - CODE DES COMMUNES. - art. R262-5 (M)
-	  - CODE DES COMMUNES. - art. R262-9 (M)
-
-	**Liens**:
-
-	  - TXT_ASSOCIE: CODE DES COMMUNES. - art. R262-9 (M)
-
-	**Cite**:
-
-	  - Code des communes R262-5 al. 2 et R262-6
-
-
-###### Article R262-9
-
-L'indice d'effort fiscal à retenir pour l'application du premier alinéa de l'article R. 262-8 [*versement représentatif de la
-taxe sur les salaires : attribution au prorata*] est égal [*définition - calcul*] au montant total des sommes comprises dans
-les rôles généraux émis au profit de la commune ou du groupement de collectivités intéressées au titre de l'année précédant
-celle au titre de laquelle est effectuée la répartition pour les impositions suivantes :
-
-1° Contribution foncière des propriétés bâties et impôt locatif du département de la Guyane, à l'exclusion des cotisations
-afférentes aux immeubles ayant le caractère d'établissement industriel ; 
-
-2° Contribution foncière des propriétés non bâties, à raison de 30 p. 100 de son produit net [*pourcentage*] ; 
-
-3° Contribution mobilière et impôt mobilier du département de la Guyane ; 
-
-4° Taxe des prestations, à raison du produit net des centimes additionnels :
-
-à la contribution foncière des propriétés bâties à l'exc lusiondes cotisations afférentes aux immeubles ayant le caractère
-d'établissement industriel ; 
-
-à la contribution foncière des propriétés non bâties, à raison de 30 p. 100 de son montant ; 
-
-à la contribution mobilière ; 
-
-5° Taxe d'habitation ; 
-
-6° Taxe sur le revenu net des propriétés bâties et taxe sur la valeur en capital des propriétés bâties, à l'exclusion des
-cotisations afférentes aux immeubles ayant le caractère d'établissement industriel ; 
-
-7° Taxe sur le revenu net des propriétés bâties, taxe sur la valeur en capital des propriétés non bâties, et taxe sur la
-valeur vénale des propriétés non bâties, à raison de 30 p.
-
-100 de leur produit net ; 
-
-8° Taxe d'enlèvement des ordures ménagères. 
-
-Cet indice est majoré de la somme correspondant aux impôts et taxes qui auraient été dus l'année précédant celle au titre de
-laquelle est effectuée la répartition, pour les constructions nouvelles, additions de constructions et reconstructions si
-elles n'avaient pas bénéficié d'une exonération temporaire en application des articles 1384 à 1384 duodecies du code général
-des impôts dans sa rédaction antérieure au décret n° 75-46 du 22 janvier 1975.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 1384 à 1384 duodecies modifiés
-	  - Décret n°75-46 1975-01-22
-	  - CODE DES COMMUNES. - art. R262-8 (M)
-
-	**Anciens textes**:
-
-	  - Décret n°69-347 1969-04-18 art. 4 3.
-
-	**Codifié par**:
-
-	  - Décret n°77-91 1977-01-27
-
-	**Créé par**:
-
-	  - Décret n°77-91 1977-01-27 JORF et JONC 3 février 1977 date d'entrée en vigueur 20 mars 1977
-
-	**Liens**:
-
-	  - TXT_ASSOCIE: CODE DES COMMUNES. - art. R262-8 (M)
-
 
 ###### Article R262-10
 
