@@ -1,5 +1,5 @@
 # Code des communes  
-Version Consolidée au 1989-05-23
+Version Consolidée au 1989-07-19
 
 # Statuts types d'une caisse communale de secours et de retraite de sapeurs-pompiers
 
@@ -37103,6 +37103,48 @@ l'avis du conseil général [*conditions de forme*].
 	  - Code général des collectivités territoriales - art. L2112-6 (V)
 
 
+###### Article R*112-19
+
+Les modifications aux limites territoriales des communes [*formalités*] et le transfert de leurs chefs-lieux sont décidés
+après enquête dans les communes intéressées sur le projet lui-même et sur ses conditions.
+
+Le commissaire de la République [*compétence*] prescrit cette enquête [*conditions*] lorsqu'il a été saisi d'une demande à
+cet effet soit par le conseil municipal de l'une des communes, soit par le tiers [*proportion*] des électeurs inscrits de la
+commune ou de la portion de territoire en question. Il peut aussi l'ordonner d'office.
+
+L'enquête n'est pas obligatoire s'il s'agit d'une fusion de communes.
+
+Si la demande concerne le détachement d'une section de commune ou d'une portion du territoire d'une commune pour l'ériger en
+commune séparée, elle doit, pour être recevable, être confirmée à l'expiration d'un délai d'une année [*condition*].
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°59-189 1959-01-22 ART. 1 (PARTIE)
+
+	**Cite**:
+
+	  - Loi n°70-1297 1970-12-31 ART. 34-I
+	  - Loi n°71-588 1971-07-16 ART. 7 A 18
+
+	**Codifié par**:
+
+	  - Décret n°77-91 1977-01-27
+
+	**Modifié par**:
+
+	  - Décret n°89-500 du 17 juillet 1989 - art. 1 () JORF 19 juillet 1989
+
+	**Abrogé par**:
+
+	  - Loi n°96-142 du 21 février 1996 - art. 12 (V)
+
+	**Nouveaux textes**:
+
+	  - Code général des collectivités territoriales - art. L2112-2 (V)
+
+
 ###### Article R*112-20
 
 Si le projet concerne le détachement d'une section de commune ou d'une portion du territoire d'une commune soit pour la
@@ -46172,45 +46214,6 @@ Le nombre des adjoints de la ville de Marseille est fixé à 9, à raison d'un p
 	**Abrogé par**:
 
 	  - Décret n°2000-318 du 7 avril 2000 - art. 4 (V)
-
-
-## Organisation communale
-
-### Nom, limites territoriales et population des communes
-
-#### Limites territoriales, chef-lieu et fusion des communes
-
-##### Modifications aux limites territoriales des communes
-
-###### Article R*112-19
-
-Les modifications aux limites territoriales des communes [*formalités*] et le transfert de leurs chefs-lieux sont décidés
-après enquête dans les communes intéressées sur le projet lui-même et sur ses conditions.
-
-Le commissaire de la République [*compétence*] prescrit cette enquête [*conditions*] lorsqu'il a été saisi d'une demande à
-cet effet soit par le conseil municipal de l'une des communes, soit par le tiers [*proportion*] des électeurs inscrits de la
-commune ou de la portion de territoire en question. Il peut aussi l'ordonner d'office.
-
-L'enquête n'est pas obligatoire s'il s'agit d'une fusion de communes.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°59-189 1959-01-22 ART. 1 (PARTIE)
-
-	**Cite**:
-
-	  - Loi n°70-1297 1970-12-31 ART. 34-I
-	  - Loi n°71-588 1971-07-16 ART. 7 A 18
-
-	**Codifié par**:
-
-	  - Décret n°77-91 1977-01-27
-
-	**Modifié par**:
-
-	  - Décret n°83-82 1983-02-09 ART. 3 JORF 11 FEVRIER 1983
 
 
 ## LIVRE 2 : Finances communales
