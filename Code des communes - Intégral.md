@@ -1,5 +1,5 @@
 # Code des communes  
-Version Consolidée au 1988-05-08
+Version Consolidée au 1988-05-18
 
 # Statuts types d'une caisse communale de secours et de retraite de sapeurs-pompiers
 
@@ -64081,6 +64081,43 @@ Le conseil d'administration arrête le compte financier.
 	  - Décret n°88-621 1988-05-08 art. 33 JORF 8 mai 1988) A(Décret 2000-318 2000-04-07 art. 4 jorf 9 avril 2000
 
 
+###### Article R323-68
+
+Le compte, affirmé sincère et véritable, daté et signé [*conditions de forme*] par l'agent comptable, est présenté au juge
+des comptes et transmis pour information à la collectivité de rattachement dans un délai de deux mois à compter de la
+délibération du conseil d'administration.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°59-1225 1959-10-19 ART. 61
+
+	**Codifié par**:
+
+	  - Décret n°77-241 1977-03-07
+
+	**Créé par**:
+
+	  - Décret n°77-241 1977-03-07 JORF et JONC 18 Mars 1977
+
+	**Modifié par**:
+
+	  - Décret n°88-621 du 6 mai 1988 - art. 34 () JORF 18 mai 1988
+
+	**Abrogé par**:
+
+	  - Décret n°2000-318 du 7 avril 2000 - art. 4 (V)
+
+	**Cite**:
+
+	  - CODE DES COMMUNES. - art. R323-67 (M)
+
+	**Nouveaux textes**:
+
+	  - Code général des collectivités territoriales - art. R2221-48 (V)
+
+
 ##### SOUS-SECTION 4 : Fin de la régie.
 
 ###### Article R323-71
@@ -82755,35 +82792,6 @@ du directeur du livre et après avis favorable du directeur général des archiv
 ### Protection contre l'incendie
 
 #### Sapeurs-pompiers communaux
-
-##### Mission et constitution des corps de sapeurs-pompiers .
-
-###### Article R352-2
-
-Les corps de sapeurs-pompiers communaux relèvent du ministre de l'intérieur.
-
-Une commission nationale paritaire des sapeurs-pompiers professionnels et une commission nationale paritaire des sapeurs-
-pompiers non professionnels exercent, en ce qui concerne ces agents, les attributions dévolues à la commission nationale
-paritaire du personnel communal à l'article L. 411-24.
-
-Ces commissions comprennent, sous la présidence d'un conseiller d'Etat, des représentants en nombre égal des collectivités
-locales et des personnels.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°77-241 1977-03-07
-
-	**Cité par**:
-
-	  - Décret n°88-623 du 6 mai 1988 - art. 50 (Ab)
-	  - Décret n°90-850 du 25 septembre 1990 - art. 25 (V)
-
-	**Cite**:
-
-	  - CODE DES COMMUNES. - art. L411-24 (Ab)
-
 
 ##### Conseil d'administration des corps de sapeurs-pompiers .
 
