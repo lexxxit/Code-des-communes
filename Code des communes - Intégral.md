@@ -1,5 +1,5 @@
 # Code des communes  
-Version Consolidée au 1984-04-04
+Version Consolidée au 1984-05-11
 
 # Statuts types d'une caisse communale de secours et de retraite de sapeurs-pompiers
 
@@ -90544,6 +90544,43 @@ ressort.
 	  - SPEC_APPLI: Décret n°85-1141 du 23 octobre 1985 - art. 22 (Ab)
 
 
+###### Article R*414-21
+
+Le conseil de discipline statue dans un délai d'un mois à compter de la date de la réception par son président du rapport du
+maire, lorsqu'il s'agit du conseil de discipline du premier degré.
+
+A titre exceptionnel, le délai d'un mois prévu à l'alinéa précédent peut être porté à trois mois au maximum lorsqu'il est
+procédé à une enquête.
+
+En cas de poursuites devant un tribunal répressif, le conseil de discipline peut décider qu'il y a lieu de surseoir à émettre
+son avis jusqu'à la décision de cette juridiction.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - SPEC_APPLI: Cette rectification prend effet à compter de la date d'installation du Conseil supérieur de la fonction publique territoriale
+	  - SPEC_APPLI: Décret n°84-346 1984-05-10 ART. 37 al. 2 : Dans le premier alinéa de de l'article R. 414-21, les mots "et du recours de l'agent lorsqu'il s'agit du conseil de discipline départemental" sont supprimés
+	  - SPEC_APPLI: Décret n°89-677-1989-09-18 art. 36
+	  - SPEC_APPLI: Décret n°85-1141 du 23 octobre 1985 - art. 22 (Ab)
+
+	**Anciens textes**:
+
+	  - Code de l'administration communale 534
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
+
+	**Modifié par**:
+
+	  - Decret 84-346 1984-05-10 art. 37 jorf 11 mai 1984
+
+
 ##### SOUS-SECTION 2 : Les sanctions disciplinaires.
 
 ###### Article R*414-22
@@ -97142,238 +97179,6 @@ activités exercées le justifie.
 
 #### Dispositions générales et organiques
 
-##### Commission nationale paritaire du personnel communal .
-
-###### Article R*411-4
-
-La commission nationale paritaire du personnel communal comprend : [*composition*]        Le président de la section du
-personnel du conseil national des services publics départementaux et communaux, président ;
-
-Six maires [*nombre*] élus à la majorité relative par l'ensemble des maires des communes dont le personnel est soumis au
-présent titre :
-
-Deux maires désignés par l'association des maires de France ;
-
-Deux maires désignés par l'association des présidents de syndicats de communes pour le personnel communal ;
-
-Six représentants du personnel élus au scrutin de liste à la représentation proportionnelle avec attribution des sièges
-suivant le système dit du plus fort reste ;
-
-Quatre représentants du personnel désignés par les organisations représentatives du personnel à la représentation
-proportionnelle avec répartition des sièges suivant le système dit de la plus forte moyenne, le résultat du scrutin pour
-l'élection des six représentants du personnel étant pris comme base de répartition ;
-
-Deux maires et deux agents communaux nommés par le ministre de l'intérieur et choisis parmi les personnes connues pour leurs
-travaux ou leur expérience en matière de fonction publique communale.
-
-**Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - TXT_ASSOCIE: Arrêté 1976-06-23
-	  - SPEC_APPLI: Décret n°84-346 1984-05-10 ART. 37 AL. 1
-
-	**Anciens textes**:
-
-	  - Code de l'administration communale 492 AL. 2 (PARTIE)
-	  - Décret n°65-727 1965-08-26 ART. 1
-
-	**Codifié par**:
-
-	  - Décret n°77-373 1977-03-28
-
-	**Créé par**:
-
-	  - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
-
-	**Abrogé par**:
-
-	  - Decret 84-346 1984-05-10 art. 37 JORF 11 mai 1984
-
-	**Cité par**:
-
-	  - Décret n°84-346 du 10 mai 1984 - art. 37 (V)
-
-
-###### Article R*411-5
-
-Trois délégués [*nombre*] de l'administration désignés par le ministre de l'intérieur sont en outre adjoints à la commission
-nationale paritaire du personnel communal, à titre consultatif.
-
-La commission [*composition*] peut s'adjoindre d'autres membres, mais à titre consultatif seulement.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Code de l'administration communale 492 AL. 3 et 4
-
-	**Codifié par**:
-
-	  - Décret n°77-373 1977-03-28
-
-	**Créé par**:
-
-	  - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
-
-	**Abrogé par**:
-
-	  - Decret 84-346 1984-05-10 art. 37 jorf 11 mai 1984
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°84-346 1984-05-10 ART. 37 AL. 1
-
-
-###### Article R*411-7
-
-La durée du mandat des membres de la commission nationale paritaire du personnel communal est de six années.
-
-Toutefois, lorsque les élections ont lieu au cours d'une période d'une durée maximum de six mois avant ou après le
-renouvellement général des conseils municipaux, la durée des fonctions des membres élus peut être prolongée ou réduite d'une
-même période par arrêté du ministre de l'intérieur [*conditions de forme*].
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Code de l'administration communale 492 AL. 7
-	  - Décret n°65-727 1965-08-26
-
-	**Abrogé par**:
-
-	  - Decret 84-346 1984-05-10 art. 37 jorf 11 mai 1984
-
-	**Codifié par**:
-
-	  - Décret n°77-373 1977-03-28
-
-	**Créé par**:
-
-	  - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°84-346 1984-05-10 ART. 37 AL. 1
-
-
-###### Article R*411-8
-
-La commission nationale paritaire se réunit sur convocation de son président ou à la demande d'un tiers [**]proportion[**] de
-ses membres [**]conditions de forme[**].
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Code de l'administration communale 492 AL. 5 et 6
-
-	**Codifié par**:
-
-	  - Décret n°77-373 1977-03-28
-
-	**Créé par**:
-
-	  - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
-
-	**Abrogé par**:
-
-	  - Decret 84-346 1984-05-10 art. 37 jorf 11 mai 1984
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°84-346 1984-05-10 ART. 37 AL. 1
-
-
-###### Article R*411-9
-
-Les membres de la commission peuvent, en cas d'absence, déléguer, par écrit, leur droit de vote.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Code de l'administration communale 492 AL. 8
-
-	**Codifié par**:
-
-	  - Décret n°77-373 1977-03-28
-
-	**Créé par**:
-
-	  - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
-
-	**Abrogé par**:
-
-	  - Decret 84-346 1984-05-10 art. 37 jorf 11 mai 1984
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°84-346 1984-05-10 ART. 37 AL. 1
-
-
-###### Article R*411-10
-
-Un règlement intérieur précise les conditions de fonctionnement de la commission.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Code de l'administration communale 492 AL. 9
-
-	**Codifié par**:
-
-	  - Décret n°77-373 1977-03-28
-
-	**Créé par**:
-
-	  - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
-
-	**Abrogé par**:
-
-	  - Decret 84-346 1984-05-10 art. 37 jorf 11 mai 1984
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°84-346 1984-05-10 ART. 37 AL. 1
-
-
-###### Article R411-6
-
-L'arrêté ministériel prévu à l'article L. 411-25 est pris par le ministre de l'intérieur.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Code de l'administration communale 492 dernier alinéa (partie)
-
-	**Codifié par**:
-
-	  - Décret n°77-373 1977-03-28
-
-	**Créé par**:
-
-	  - Décret n°77-373 1977-03-28 JORF et JONC 5 avril 1977
-
-	**Abrogé par**:
-
-	  - Decret 84-346 1984-05-10 art. 37 jorf 11 mai 1984
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°84-346 1984-05-10 ART. 37 AL. 1
-
-	**Cité par**:
-
-	  - Arrêté du 23 juin 1976 - art. 1 (V)
-
-	**Cite**:
-
-	  - CODE DES COMMUNES. - art. L411-25 (Ab)
-
-
 ##### Commission paritaire communale .
 
 ###### Article R411-39
@@ -98423,149 +98228,6 @@ Ce rapport est publié au Journal Officiel.
 	  - Décret n°85-885 du 12 août 1985 - art. 6 (V) JORF 23 Aout 1985   en vigueur le 1er Janvier 1986
 
 
-#### Notation, avancement et discipline
-
-##### Discipline
-
-##### Le conseil de discipline .
-
-###### Article R*414-17
-
-Lorsque le maire a prononcé une sanction plus sévère que celle qui a été proposée par le conseil de discipline communal ou
-par le conseil de discipline intercommunal, l'agent intéressé peut saisir le conseil de discipline départemental de la
-décision du maire dans un délai de quinze jours à compter de la date de la notification de la sanction [*recours*].
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°59-1191 1959-10-19 ART. 2 AL. 1
-
-	**Codifié par**:
-
-	  - Décret n°77-373 1977-03-28
-
-	**Créé par**:
-
-	  - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
-
-	**Abrogé par**:
-
-	  - Decret 84-346 1984-05-10 art. 37 jorf 11 mai 1984
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°84-346 1984-05-10 ART. 37 AL.1
-	  - SPEC_APPLI: Décret n°85-1141 du 23 octobre 1985 - art. 22 (Ab)
-
-	**Cité par**:
-
-	  - Décret n°84-346 du 10 mai 1984 - art. 37 (V)
-
-
-###### Article R*414-18
-
-Le conseil de discipline départemental est présidé par le président du tribunal de grande instance comprenant dans son
-ressort le chef-lieu du département.
-
-Il comprend trois représentants des maires tirés au sort par le président parmi les membres du bureau du syndicat de communes
-et parmi les maires présidents des commissions paritaires communales et trois représentants du personnel tirés au sort parmi
-les membres du personnel des commissions paritaires communales et intercommunales.
-
-L'article L. 414-13 et le deuxième alinéa de l'article R. 414-16 sont applicables au conseil de discipline départemental.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°59-1191 1959-10-19 ART. 2 AL. 2 et 3
-
-	**Codifié par**:
-
-	  - Décret n°77-373 1977-03-28
-
-	**Créé par**:
-
-	  - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
-
-	**Abrogé par**:
-
-	  - Decret 84-346 1984-05-10 art. 37 jorf 11 mai 1984
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°84-346 du 10 mai 1984 - art. 37 (M)
-	  - SPEC_APPLI: Décret n°85-1141 du 23 octobre 1985 - art. 22 (Ab)
-
-	**Cite**:
-
-	  - Code des communes L414-13 et R414-16 AL. 2
-
-
-###### Article R*414-19
-
-Le conseil de discipline départemental statue à la majorité de ses membres.
-
-Le vote a lieu à bulletins secrets.
-
-Dans ces cas, le maire ne peut prononcer de sanctions plus sévères que celles prévues par l'avis émis par le conseil de
-discipline départemental.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°59-1191 1959-10-19 ART. 2 AL. 4
-
-	**Codifié par**:
-
-	  - Décret n°77-373 1977-03-28
-
-	**Créé par**:
-
-	  - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
-
-	**Abrogé par**:
-
-	  - Decret 84-346 1984-05-10 art. 37 jorf 11 mai 1984
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°84-346 1984-05-10 ART. 37 AL. 1
-	  - SPEC_APPLI: Décret n°85-1141 du 23 octobre 1985 - art. 22 (Ab)
-
-
-###### Article R*414-20
-
-Le secrétariat [*du conseil de discipline départemental*] est assuré par les services de la préfecture du département.
-
-Les frais de déplacement des membres du conseil de discipline départemental sont supportés [*charge*] par le syndicat
-intercommunal départemental.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°59-1191 1959-10-19 ART. 2 AL. 5 et 6
-
-	**Codifié par**:
-
-	  - Décret n°77-373 1977-03-28
-
-	**Créé par**:
-
-	  - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
-
-	**Abrogé par**:
-
-	  - Decret 84-346 1984-05-10 art. 37 jorf 11 mai 1984
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°84-346 1984-05-10 ART. 37 AL. 1
-	  - SPEC_APPLI: Décret n°85-1141 du 23 octobre 1985 - art. 22 (Ab)
-
-
 #### POSITIONS
 
 ##### Le congé postnatal .
@@ -99412,106 +99074,6 @@ période de l'engagement restant à courir.
 #### Dispositions applicables à la ville de Paris
 
 ##### Dispositions générales et organiques
-
-##### Le conseil administratif supérieur .
-
-###### Article R*444-21
-
-Le conseil administratif supérieur de la commune et du département de Paris, présidé par un conseiller d'Etat nommé par
-décret, comprend une section communale et une section départementale [*composition*].
-
-Ce conseil a compétence pour toutes les questions d'ordre général intéressant le personnel. Il soumet le résultat de ses
-travaux ou formule des suggestions à l'autorité intéressée.
-
-Le président a voix prépondérante en cas de partage des voix.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°76-1041 1976-11-16 ART. 20 AL. 1, 4 et 5
-
-	**Codifié par**:
-
-	  - Décret n°77-373 1977-03-28
-
-	**Créé par**:
-
-	  - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
-
-	**Abrogé par**:
-
-	  - Decret 84-346 1984-05-10 art. 37 jorf 11 mai 1984
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°84-346 1984-05-10 ART. 37 AL. 1
-
-	**Cité par**:
-
-	  - Décret n°84-346 du 10 mai 1984 - art. 37 (V)
-
-
-###### Article R*444-22
-
-La section communale [*du conseil administratif supérieur*] est composée de deux sous-sections.
-
-Chacune de ces sous-sections est composée, outre le président du conseil administratif supérieur, de vingt-deux membres dont
-la liste est arrêtée respectivement par le maire et le préfet de police, à savoir :
-
-Onze membres du conseil de Paris ; [*nombre*]        Onze représentants du personnel désignés sur la proposition des
-organisations syndicales de fonctionnaires.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°76-1041 1976-11-16 ART. 20 AL. 2 et 3
-
-	**Codifié par**:
-
-	  - Décret n°77-373 1977-03-28
-
-	**Créé par**:
-
-	  - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
-
-	**Abrogé par**:
-
-	  - Decret 84-346 1984-05-10 art. 37 jorf 11 mai 1984
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°84-346 1984-05-10 ART. 37 AL. 1
-
-
-###### Article R*444-23
-
-Le conseil de Paris fixe par délibération les modalités de désignation des membres et de fonctionnement du conseil
-administratif supérieur.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°76-1041 1976-11-16 ART. 21
-
-	**Codifié par**:
-
-	  - Décret n°77-373 1977-03-28
-
-	**Créé par**:
-
-	  - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
-
-	**Abrogé par**:
-
-	  - Decret 84-346 1984-05-10 art. 37 jorf 11 mai 1984
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°84-346 1984-05-10 ART. 37 AL. 1
-
 
 ##### Les commissions et comités paritaires .
 
