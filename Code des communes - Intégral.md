@@ -1,5 +1,5 @@
 # Code des communes  
-Version Consolidée au 1982-07-23
+Version Consolidée au 1982-08-05
 
 # ORGANISATION COMMUNALE
 
@@ -11104,134 +11104,6 @@ République*].
 	  - Code général des collectivités territoriales - art. L2121-4 (V)
 
 
-##### ATTRIBUTIONS .
-
-###### Article L121-29
-
-Il est interdit à tout conseil municipal soit de publier des proclamations et adresses, soit d'émettre des voeux politiques,
-soit, hors les cas prévus par la loi, de se mettre en communication avec un ou plusieurs conseils municipaux.
-
-La nullité des actes et des délibérations prises en violation du présent article est prononcée dans les formes indiquées aux
-articles L. 121-32 et L. 121-33 [*de plein droit ou par arrêté motivé du préfet*].
-
-**Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - SPEC_APPLI: *Dispositions non applicables aux communes des départements de la Moselle, du Bas-Rhin et du Haut-Rhin (Alsace-Lorraine)*
-	  - SPEC_APPLI: Code des communes L181-1 :
-
-	**Anciens textes**:
-
-	  - Code de l'administration communale 52
-
-	**Créé par**:
-
-	  - Décret n°77-90 1977-01-21 JORF et JONC 3 février 1977 date d'entrée en vigueur 20 mars 1977
-
-	**Codifié par**:
-
-	  - Décret n°77-90 1977-01-27
-
-	**Abrogé par**:
-
-	  - Loi n°82-213 du 2 mars 1982 - art. 21 (V) JORF 3 mars 1982
-
-	**Cité par**:
-
-	  - Loi n°90-1247 du 29 décembre 1990 - art. 3 (Ab)
-
-	**Cite**:
-
-	  - Code des communes L121-32 et L121-33
-
-
-###### Article L121-30
-
-Expédition de toute délibération est adressée dans la huitaine, par le maire, à l'autorité supérieure qui en délivre
-immédiatement récépissé.
-
-Faute de cette délivrance, le point de départ du délai de quinze jours [*donnant caractère exécutoire à la délibération*],
-prévu à l'article L. 121-31, est fixé au jour de l'envoi de la délibération à l'autorité supérieure [*préfet ou sous-
-préfet*].
-
-**Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - SPEC_APPLI: *Dispositions non applicables aux communes des départements de la Moselle, du Bas-Rhin et du Haut-Rhin (Alsace-Lorraine)*
-	  - SPEC_APPLI: Code des communes L181-1 :
-
-	**Cité par**:
-
-	  - Arrêté du 3 juillet 1970 - art. 9 (V)
-	  - Loi n°90-1247 du 29 décembre 1990 - art. 3 (Ab)
-	  - Ordonnance n°2005-10 du 4 janvier 2005 - art. 35 (V)
-	  - CODE DES COMMUNES. - art. L122-21 (M)
-	  - CODE DES COMMUNES. - art. R*121-16 (Ab)
-
-	**Anciens textes**:
-
-	  - Code de l'administration communale 41 remplacé
-
-	**Codifié par**:
-
-	  - Décret n°77-90 1977-01-27
-
-	**Créé par**:
-
-	  - Décret n°77-90 1977-01-27 JORF et JONC 3 février 1977 date d'entrée en vigueur 20 mars 1977
-
-	**Abrogé par**:
-
-	  - Loi n°82-213 du 2 mars 1982 - art. 21 (V) JORF 3 mars 1982 rectificatif JORF 6 mars 1982
-
-	**Cite**:
-
-	  - CODE DES COMMUNES. - art. L121-31 (Ab)
-
-
-###### Article L121-31
-
-Les délibérations des conseils municipaux, y compris celles qui sont relatives au budget, sont exécutoires de plein droit
-quinze jours après le dépôt auprès de l'autorité supérieure, sous réserve des articles L. 121-37, L. 121-38 et L. 212-4.
-
-L'autorité supérieure, soit d'office, soit à la demande du maire, peut abréger ce délai.
-
-**Liens relatifs à cet article**
-
-	**Cité par**:
-
-	  - Décret n°64-262 du 14 mars 1964 - art. 11 (Ab)
-	  - Loi n°90-1247 du 29 décembre 1990 - art. 3 (Ab)
-	  - Ordonnance n°2005-10 du 4 janvier 2005 - art. 35 (V)
-	  - CODE DES COMMUNES. - art. L121-30 (Ab)
-	  - CODE DES COMMUNES. - art. R*121-22 (Ab)
-	  - Code de l'urbanisme - art. R*211-14 (Ab)
-	  - Code de l'urbanisme - art. R*321-14 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°77-90 1977-01-27
-
-	**Créé par**:
-
-	  - Décret n°77-90 1977-01-27 JORF ET JONC 3 FEVRIER 1977 date d'entrée en vigueur 20 MARS 1977
-
-	**Abrogé par**:
-
-	  - Loi n°82-213 du 2 mars 1982 - art. 21 (V) JORF 3 MARS 1982 rectificatif JORF 6 MARS 1982
-
-	**Cite**:
-
-	  - CODE DES COMMUNES. - art. L121-37 (Ab)
-	  - Code des communes L121-37, L121-38 et L212-4
-
-	**Anciens textes**:
-
-	  - Code de l'administration communale 46 remplacé
-
-
 ##### NULLITE DES DELIBERATIONS
 
 ##### DELIBERATIONS NULLES DE  DROIT .
@@ -17174,6 +17046,33 @@ Le versement est institué par délibération du conseil municipal ou de l'organ
 	**Liens**:
 
 	  - TXT_ASSOCIE: CODE DES COMMUNES. - art. L233-69 (Ab)
+
+
+###### Article L233-62
+
+Sous réserve des dispositions de l'article L. 233-64, le versement est affecté au financement des dépenses d'investissement
+et de fonctionnement des transports publics urbains et des autres services de transports publics qui, sans être effectués
+entièrement à l'intérieur du périmètre des transports urbains, concourent à la desserte de l'agglomération dans le cadre d'un
+contrat passé avec l'autorité responsable de l'organisation des transports urbains.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°77-90 1977-01-27
+
+	**Abrogé par**:
+
+	  - Loi n°96-142 du 21 février 1996 - art. 12 (V) JORF 24 février 1996
+
+	**Cite**:
+
+	  - CODE DES COMMUNES. - art. L233-64 (M)
+
+	**Nouveaux textes**:
+
+	  - Code général des collectivités territoriales - art. L2333-68 (V)
+	  - Code général des collectivités territoriales - art. L2333-68 (M)
 
 
 ###### Article L233-63
@@ -23344,48 +23243,6 @@ de transport collectif et obtenu une subvention de l'Etat pour l'investissement 
 	**Nouveaux textes**:
 
 	  - Code général des collectivités territoriales - art. L2333-67 (V)
-
-
-###### Article L233-62
-
-Sous réserve des dispositions de l'article L. 233-64 [*affectation au remboursement des employeurs ou des salariés dans
-certains cas*] , le versement est affecté [*utilisations*] au financement :
-
-1° De la compensation intégrale des réductions de tarifs que les entreprises de transport collectif urbain et suburbain
-consentent, avec l'agrément de l'autorité publique, aux salariés usagers de ces transports ;
-
-2° Des investissements spécifiques aux transports collectifs ;
-
-3° Des contributions prévues par les conventions éventuellement passées entre l'autorité compétente en matière de transport
-[*commune, communauté urbaine, district ou syndicat de communes*] mentionnée à l'article L. 233-58 et les entreprises de
-transport collectif pour les améliorations, réorganisation, extensions ou créations de services de transport collectif.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°73-640 du 11 juillet 1973 - art. 4 (V)
-
-	**Codifié par**:
-
-	  - Décret n°77-90 1977-01-27
-
-	**Créé par**:
-
-	  - Décret n°77-90 1977-01-27 JORF et JONC 3 février 1977 date d'entrée en vigueur élection des maires
-
-	**Liens**:
-
-	  - TXT_ASSOCIE: CODE DES COMMUNES. - art. L233-69 (Ab)
-	  - TXT_ASSOCIE: CODE DES COMMUNES. - art. R233-84 (Ab)
-
-	**Cite**:
-
-	  - Code des communes L233-64 et L233-58
-
-	**Nouveaux textes**:
-
-	  - Code général des collectivités territoriales - art. L2333-68 (V)
 
 
 ###### Article L233-64
