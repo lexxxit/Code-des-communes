@@ -1,5 +1,5 @@
 # Code des communes  
-Version Consolidée au 1993-03-28
+Version Consolidée au 1993-03-30
 
 # Partie législative
 
@@ -64063,6 +64063,59 @@ R. 177 à R. 184 du code du domaine de l'Etat.
 
 
 ##### SECTION 2 : Aliénation de biens.
+
+###### Article R*311-16
+
+L'avis prévu au premier alinéa de l'article L. 311-8 du présent code est affiché, jusqu'à ce que la vente soit conclue, à la
+mairie du lieu de situation du bien à aliéner et au siège du vendeur. Il est en outre diffusé par voie d'affiches dans la
+commune du lieu de situation du bien.
+
+Lorsque le prix demandé excède 200 000 F, un extrait de cet avis est inséré dans deux journaux régionaux ou locaux diffusés
+dans le département du lieu de situation du bien indiquant les caractères essentiels du bien ou des droits mis en vente,
+ainsi que le prix demandé.
+
+Les frais afférents à ces publicités sont à la charge du vendeur.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°77-241 1977-03-07
+
+	**Créé par**:
+
+	  - Décret n°93-751 du 27 mars 1993 - art. 1 ()
+
+	**Cite**:
+
+	  - CODE DES COMMUNES L311-8
+
+
+###### Article R*311-17
+
+Il ne peut être procédé aux ventes mentionnées au premier alinéa de l'article L. 311-8 du présent code qu'à l'expiration d'un
+délai de quinze jours dont le point de départ est la plus tardive des trois dates suivantes :
+
+a) le premier jour de l'affichage de l'avis à la mairie du lieu de situation du bien ;
+
+b) le premier jour de l'affichage de l'avis au siège du vendeur ;
+
+c) la date à laquelle ont été exécutées les formalités de publicité prévues à l'avant-dernier alinéa de l'article R. 311-16.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°77-241 1977-03-07
+
+	**Créé par**:
+
+	  - Décret n°93-751 du 27 mars 1993 - art. 1 ()
+
+	**Cite**:
+
+	  - CODE DES COMMUNES L311-8, R311-16
+
 
 ###### Article R*311-18
 
