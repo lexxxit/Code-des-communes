@@ -1,5 +1,5 @@
 # Code des communes  
-Version Consolidée au 1977-03-25
+Version Consolidée au 1977-04-05
 
 # ORGANISATION COMMUNALE
 
@@ -18460,6 +18460,121 @@ Elle est imputée sur un crédit budgétaire spécialement ouvert à cette fin.
 	  - CODE DES COMMUNES. - art. L235-10 (Ab)
 
 
+##### SECTION 3 : Fonds d'équipement des collectivités locales.
+
+###### Article L235-13
+
+Les ressources du fonds d'équipement des collectivités locales comprennent :
+
+1° Les dotations budgétaires, ouvertes chaque année par la loi et destinées à permettre progressivement le remboursement
+intégral de la taxe à la valeur ajoutée acquittée par les collectivités locales et leurs groupements sur leurs dépenses
+réelles d'investissement ;
+
+2° Les sommes prévues à l'article L. 333-6 du code de l'urbanisme.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°77-372 1977-03-28
+
+	**Abrogé par**:
+
+	  - Loi n°96-142 du 21 février 1996 - art. 12 (V) JORF 24 février 1996
+
+	**Nouveaux textes**:
+
+	  - Code général des collectivités territoriales - art. L1615-1 (M)
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. L333-6 (Ab)
+
+
+###### Article L235-14
+
+Les dotations budgétaires prévues au 1° de l'article précédent sont réparties entre les départements, les communes, leurs
+groupements, leurs régies et les organismes chargés de la gestion des agglomérations nouvelles, au prorata de leurs dépenses
+réelles d'investissement, telles qu'elles sont définies par décret.
+
+Pour l'application de ces dispositions, il n'est pas tenu compte des dépenses d'investissement effectuées au titre
+d'activités pour lesquelles les collectivités locales et autres personnes morales concernées sont elles-mêmes assujetties à
+la taxe sur la valeur ajoutée.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°76-1232 1976-12-29 art. 54 II
+
+	**Codifié par**:
+
+	  - Décret n°77-372 1977-03-28
+
+	**Abrogé par**:
+
+	  - Loi n°96-142 du 21 février 1996 - art. 12 (V) JORF 24 février 1996
+
+	**Nouveaux textes**:
+
+	  - Code général des collectivités territoriales - art. L1615-2 (M)
+
+
+###### Article L235-15
+
+Les sommes prévues à l'article L. 333-6 du code de l'urbanisme, et qui constituent des recettes de l'Etat, sont affectées au
+fonds d'équipement des collectivités locales par prélèvement sur ces recettes.
+
+Ces sommes sont réparties entre les départements par le comité de gestion du fonds d'action locale [*attributions*] qui
+détermine les critères de cette répartition.
+
+Le conseil général redistribue les sommes attribuées au département entre les petites communes. Il détermine les critères de
+cette répartition, et notamment la liste des communes bénéficiaires.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°76-1232 1976-12-29 art. 54 IV
+
+	**Codifié par**:
+
+	  - Décret n°77-372 1977-03-28
+
+	**Abrogé par**:
+
+	  - Loi n°96-142 du 21 février 1996 - art. 12 (V)
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. L333-6 (Ab)
+
+
+###### Article L235-16
+
+Les sommes versées par le fonds d'équipement des collectivités locales sont inscrites à la section d'investissement du budget
+de la collectivité, de l'établissement ou de l'organisme bénéficiaire.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°76-1232 1976-12-29 art. 54 V
+
+	**Codifié par**:
+
+	  - Décret n°77-372 1977-03-28
+
+	**Abrogé par**:
+
+	  - Loi n°96-142 du 21 février 1996 - art. 12 (V) JORF 24 février 1996
+
+	**Nouveaux textes**:
+
+	  - Code général des collectivités territoriales - art. L1615-5 (M)
+	  - Code général des collectivités territoriales - art. L1615-5 (V)
+
+
 #### CHAPITRE 6 : Avances, emprunts et garanties d'emprunt
 
 ##### SECTION 1 : Avances.
@@ -19462,6 +19577,36 @@ Sont applicables au district les dispositions de l'article L. 251-5             
 	**Liens**:
 
 	  - TXT_ASSOCIE: CODE DES COMMUNES. - art. L252-6 (Ab)
+
+
+###### Article L252-6
+
+Toutefois, lorsqu'une ou plusieurs communes membres d'un district sont comprises dans le périmètre d'une communauté urbaine,
+il ne peut être fait application des dispositions prévues aux articles L. 252-3 et L. 252-4 [*relatifs aux recettes que peut
+comprendre le budget du district et à la compensation des pertes de recettes que le district subit du fait des exemptions
+fiscales dont bénéficient les constructions nouvelles par une subvention de l'Etat*].
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°70-1297 1970-12-31 art. 30 (partie) complété
+
+	**Codifié par**:
+
+	  - Décret n°77-372 1977-03-28
+
+	**Abrogé par**:
+
+	  - Loi n°96-142 du 21 février 1996 - art. 12 (V)
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: CODE DES COMMUNES. - art. L252-5 (Ab)
+
+	**Cite**:
+
+	  - Code des communes L252-3 et L252-4
 
 
 #### CHAPITRE 3 : Dispositions applicables à la communauté urbaine.
@@ -25659,37 +25804,6 @@ Les valeurs moyennes du centime sont fixées, chaque année, par un arrêté pri
 	  - TXT_ASSOCIE: CODE DES COMMUNES. - art. R262-11 (Ab)
 
 
-##### FONDS D'EQUIPEMENT DES COLLECTIVITES LOCALES *FONDS DE COMPENSATION POUR LA T.V.A.* .
-
-###### Article L235-13
-
-Le fonds d'équipement des collectivités locales reçoit [*ressources*], conformément aux dispositions de l'article L. 333-6 du
-code de l'urbanisme, la part revenant à l'Etat dans le produit des versements dus au titre du dépassement du plafond légal de
-densité par les bénéficiaires de l'autorisation de construire.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°77-90 1977-01-27
-
-	**Créé par**:
-
-	  - Décret n°77-90 1977-01-27 JORF et JONC 3 février 1977 date d'entrée en vigueur élection des maires
-
-	**Nouveaux textes**:
-
-	  - Code général des collectivités territoriales - art. L1615-1 (M)
-
-	**Cite**:
-
-	  - Code de l'urbanisme - art. L333-6 (Ab)
-
-	**Anciens textes**:
-
-	  - Loi n°75-858 1975-09-13 art. 13 I
-
-
 #### AVANCES .
 
 ###### Article L236-3
@@ -27847,6 +27961,41 @@ mètre carré ou fraction de mètre carré, quel que soit le nombre des annonces
 	**Cite**:
 
 	  - CODE DES COMMUNES. - art. L233-21 (M)
+
+
+###### Article L264-18
+
+Par dérogation aux dispositions de l'article L. 234-15 pour le calcul de la base de répartition prévue aux articles L. 234-12
+à L. 234-14 [*attribution au prorata dans le cadre du V.R.T.S.*], des décrets en Conseil d'Etat déterminent, en tenant compte
+des compétences de nature départementale dévolues à la ville de Paris, le pourcentage selon lequel sont retenus les impôts et
+taxes [*sur les propriétés bâties affectées à des usages tels que l'habitation ou la profession hôtelière*] mentionnés aux
+articles L. 234-12 à L. 234-14 mis en recouvrement par cette collectivité.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°66-10 1966-01-06 art. 41 5 b
+
+	**Codifié par**:
+
+	  - Décret n°77-372 1977-03-28
+
+	**Abrogé par**:
+
+	  - Loi n°79-15 du 3 janvier 1979 - art. 26 (V) JORF 4 janvier 1979 p. 25
+
+	**Cité par**:
+
+	  - Loi n°79-15 du 3 janvier 1979 - art. 26 (V)
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: CODE DES COMMUNES. - art. L234-15 (M)
+
+	**Cite**:
+
+	  - Code des communes L234-12 à L234-15
 
 
 ## LIVRE 3 : Administration et services communaux
@@ -38529,6 +38678,9608 @@ La réorganisation du service est, en tant que de besoin, approuvée par décret
 	**Abrogé par**:
 
 	  - Loi n°82-213 du 2 mars 1982 - art. 21 (V) JORF 3 mars 1982
+
+
+## Personnel communal
+
+### Agents nommés dans des emplois permanents à temps complet
+
+#### Dispositions générales et organiques
+
+###### Article L411-14
+
+Aucune distinction n'est faite, pour l'application du présent titre entre les hommes et les femmes.
+
+Cependant, lorsque la nature des fonctions ou les conditions de leur exercice le justifient, il peut être prévu, pour
+certaines catégories de personnels dont la liste est établie par décret en Conseil d'Etat, après avis de la commission
+nationale paritaire du personnel communal [*conditions de forme*], un recrutement exclusif d'hommes ou de femmes, ou à titre
+exceptionnel, selon les modalités prévues dans le même décret, des recrutements et conditions d'accès distincts pour les
+hommes et les femmes.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - SPEC_APPLI: *Dispositions applicables aux agents nommés dans des emplois permanents à temps non complet et aux agents non titulaires*
+	  - SPEC_APPLI: CODE DES COMMUNES. - art. L421-2 (M)
+	  - SPEC_APPLI: Code des communes L421-2, L422-1 :
+
+	**Cité par**:
+
+	  - CODE PENAL - art. 416 (Ab)
+
+	**Anciens textes**:
+
+	  - Code de l'administration communale 481
+	  - Loi n°75-599 1975-07-10 art. 3 (partie)
+
+	**Codifié par**:
+
+	  - Décret n°77-372 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-372 1977-03-28 JORF ET JONC 5 AVRIL 1977
+
+
+##### Dispositions générales .
+
+###### Article L411-1
+
+Le conseil municipal fixe par une délibération la liste des emplois permanents à temps complet confiés à un personnel
+exclusivement communal et dont les titulaires sont soumis aux dispositions du présent titre.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Code de l'administration communale 478 al. 1
+
+	**Codifié par**:
+
+	  - Décret n°77-372 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-372 1977-03-28 JORF ET JONC 5 AVRIL 1977
+
+	**Abrogé par**:
+
+	  - Loi n°84-53 1984-01-26 ART. 119 JORF 27 JANVIER 1984
+
+	**Cité par**:
+
+	  - CODE DES COMMUNES. - art. R*411-13 (Ab)
+	  - CODE DES COMMUNES. - art. R*432-4 (V)
+	  - CODE DES COMMUNES. - art. R411-15 (Ab)
+	  - CODE DES COMMUNES. - art. R411-17 (Ab)
+
+
+###### Article L411-2
+
+Les attributions dévolues par le présent titre au conseil municipal et au maire sont exercées, en ce qui concerne le
+personnel des établissements publics communaux et intercommunaux, par la commission administrative, le conseil
+d'administration ou le comité chargé de la gestion et de l'administration de l'établissement public, et leur président.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Code de l'administration communale 479
+
+	**Codifié par**:
+
+	  - Décret n°77-372 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-372 1977-03-28 JORF ET JONC 5 AVRIL 1977
+
+	**Abrogé par**:
+
+	  - Loi n°84-53 1984-01-26 ART. 119 JORF 27 JANVIER 1984
+
+
+###### Article L411-3
+
+Aucune création de service ou d'emplois nouveaux ne peut être opérée qu'après l'ouverture préalable d'un crédit au chapitre
+budgétaire intéressé [*condition*].
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - SPEC_APPLI: *Dispositions applicables aux agents nommés dans des emplois permanents à temps non complet*
+	  - TXT_ASSOCIE: Circulaire 525 1977-12-12
+	  - SPEC_APPLI: Code des communes L421-2 :
+
+	**Cité par**:
+
+	  - CODE DES COMMUNES. - art. L421-2 (Ab)
+
+	**Anciens textes**:
+
+	  - Code de l'administration communale 478 al. 2
+
+	**Codifié par**:
+
+	  - Décret n°77-372 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-372 1977-03-28 JORF ET JONC 5 AVRIL 1977
+
+	**Abrogé par**:
+
+	  - Loi n°84-53 1984-01-26 ART. 119 JORF 27 JANVIER 1984
+
+
+###### Article L411-4
+
+Le personnel est vis-à-vis de la municipalité dans une situation statutaire et réglementaire.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Code de l'administration communale 491
+
+	**Codifié par**:
+
+	  - Décret n°77-372 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-372 1977-03-28 JORF ET JONC 5 AVRIL 1977
+
+	**Abrogé par**:
+
+	  - Loi n°84-53 1984-01-26 ART. 119 JORF 27 JANVIER 1984
+
+
+###### Article L411-5
+
+Le statut défini au présent titre s'applique aux agents des communes et des établissements publics communaux et
+intercommunaux, titularisés dans un emploi permanent à temps complet, sans qu'il soit dérogé aux dispositions législatives et
+réglementaires qui créent, en faveur de certaines catégories d'agents, un régime spécial. 
+
+Il s'applique également aux agents intercommunaux, c'est-à-dire aux agents qui exercent leur fonction dans plusieurs
+communes, sous réserve que la durée totale de leur service corresponde à la durée de service des agents des collectivités
+locales titulaires   du présent statut.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Arrêté du 27 juin 1962 - art. ANNEXE 1 A (V)
+	  - Arrêté du 27 juin 1962 - art. Annexe 1 B (V)
+	  - Arrêté du 27 juin 1962 - art. Annexe 2 (V)
+	  - Arrêté du 27 juin 1962 - art. Annexe 4 (V)
+	  - Arrêté du 27 juin 1962 - art. Annexe 6 (V)
+	  - Arrêté du 27 juin 1962 - art. Annexe 7 (V)
+	  - Arrêté du 28 février 1963 - art. Annexe 8 (V)
+	  - Arrêté du 24 janvier 1966 - art. Annexe 2 (V)
+	  - Arrêté du 24 janvier 1966 - art. Annexe 3 (V)
+	  - Arrêté du 28 mai 1968 - art. 4 (Ab)
+	  - Arrêté du 26 septembre 1973 - art. 1 (V)
+	  - Arrêté du 26 septembre 1973 - art. 4 (V)
+	  - Arrêté du 26 septembre 1973 - art. 6 (V)
+	  - Arrêté du 19 décembre 1973 - art. 1 (V)
+	  - Arrêté du 23 juin 1976 - art. 10 (V)
+	  - Arrêté du 15 novembre 1978 - art. 1 (V)
+	  - Arrêté du 15 novembre 1978 - art. 3 (V)
+	  - Arrêté du 15 novembre 1978 - art. 4 (V)
+	  - Arrêté du 9 juin 1980 - art. 1 (V)
+	  - Arrêté du 9 juin 1980 - art. 3 (V)
+	  - Arrêté du 16 octobre 1980 - art. 1 (V)
+	  - Arrêté du 15 juillet 1981 - art. 1 (V)
+	  - Arrêté du 15 juillet 1981 - art. 2 (V)
+	  - Arrêté du 15 juillet 1981 - art. 7 (V)
+	  - Arrêté du 25 février 1982 - art. 19 (V)
+	  - Arrêté du 21 juillet 1983 - art. 1 (V)
+	  - Décret n°83-964 du 8 novembre 1983 - art. Annexe (Ab)
+	  - Arrêté du 19 avril 1973 - art. 3 (Ab)
+	  - Arrêté du 23 juin 1976 - art. 14 (V)
+	  - Arrêté du 26 novembre 1976 - art. 1 (Ab)
+	  - Arrêté du 29 janvier 1969 - art. 1 (V)
+
+	**Codifié par**:
+
+	  - Décret n°77-372 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-372 1977-03-28 JORF ET JONC 5 AVRIL 1977
+
+	**Anciens textes**:
+
+	  - Code de l'administration communale 477 al. 1 et 3
+
+	**Abrogé par**:
+
+	  - Loi n°84-53 1984-01-26 ART. 119 JORF 27 JANVIER 1984
+
+
+###### Article L411-6
+
+Le statut défini au présent titre ne s'applique pas aux personnels des établissements communaux qui présentent un caractère
+industriel ou commercial.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - SPEC_APPLI: *Dispositions applicables aux agents nommés dans des emplois permanents à temps non complet et aux agents non titulaires*
+	  - SPEC_APPLI: CODE DES COMMUNES. - art. L421-2 (M)
+	  - SPEC_APPLI: Code des communes L421-2, L422-1 :
+
+	**Cité par**:
+
+	  - Arrêté du 28 février 1963 - art. Annexe 8 (V)
+	  - Arrêté du 24 janvier 1966 - art. Annexe 2 (V)
+	  - Arrêté du 24 janvier 1966 - art. Annexe 3 (V)
+	  - Arrêté du 28 mai 1968 - art. 4 (Ab)
+	  - Arrêté du 26 septembre 1973 - art. 1 (V)
+	  - Arrêté du 26 septembre 1973 - art. 4 (V)
+	  - Arrêté du 26 septembre 1973 - art. 6 (V)
+	  - Arrêté du 23 juin 1976 - art. 10 (V)
+	  - Arrêté du 15 septembre 1978 - art. 1 (V)
+	  - Arrêté du 19 avril 1973 - art. 3 (Ab)
+	  - Arrêté du 23 juin 1976 - art. 14 (V)
+	  - Arrêté du 26 novembre 1976 - art. 1 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°77-372 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-372 1977-03-28 JORF ET JONC 5 AVRIL 1977
+
+	**Abrogé par**:
+
+	  - Loi n°84-53 1984-01-26 ART. 119 JORF 27 JANVIER 1984
+
+	**Anciens textes**:
+
+	  - Code de l'administration communale 477 al. 4
+
+
+###### Article L411-7
+
+Conformément à l'article L. 352-1, le statut défini au présent titre ne s'applique pas aux sapeurs-pompiers communaux
+[*exception*].
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - SPEC_APPLI: *Dispositions applicables aux agents nommés dans des emplois permanents à temps non complet et aux agents non titulaires*
+	  - SPEC_APPLI: CODE DES COMMUNES. - art. L421-2 (M)
+	  - SPEC_APPLI: Code des communes L421-2, L422-1 :
+
+	**Codifié par**:
+
+	  - Décret n°77-372 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-372 1977-03-28 JORF ET JONC 5 AVRIL 1977
+
+	**Abrogé par**:
+
+	  - Loi n°84-53 1984-01-26 ART. 119 JORF 27 JANVIER 1984
+
+	**Cite**:
+
+	  - CODE DES COMMUNES. - art. L352-1 (Ab)
+
+
+###### Article L411-8
+
+Conformément à l'article 171 du code de l'urbanisme et de l'habitation, le statut défini au présent titre [*relatif aux
+emplois permanents à temps complet*] ne s'applique pas aux personnels des offices publics communaux et intercommunaux
+d'habitation à loyer modéré [*exception*].
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - SPEC_APPLI: *Dispositions applicables aux agents nommés dans des emplois permanents à temps non complet et aux agents non titulaires*
+	  - SPEC_APPLI: CODE DES COMMUNES. - art. L421-2 (M)
+	  - SPEC_APPLI: Code des communes L421-2, L422-1 :
+
+	**Cite**:
+
+	  - Décret n°54-1023 1954-10-13 modifié
+	  - Décret n°76-690 1976-06-24
+	  - Code de l'urbanisme 171 devenu Code de la construction et de l'habitation L421-7, R421-65, R421-66
+	  - Code de la construction et de l'habitation. - art. L421-7 (Ab)
+	  - Code de la construction et de l'habitation. - art. R421-65 (Ab)
+	  - Code de la construction et de l'habitation. - art. R421-66 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°77-372 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-372 1977-03-28 JORF ET JONC 5 AVRIL 1977
+
+	**Cité par**:
+
+	  - Arrêté du 15 septembre 1978 - art. 1 (V)
+
+	**Abrogé par**:
+
+	  - Loi n°84-53 1984-01-26 ART. 119 JORF 27 JANVIER 1984
+
+
+###### Article L411-9
+
+Conformément à l'article L. 792 du code de la santé publique, le statut défini au présent titre ne s'applique pas aux
+personnels des établissements d'hospitalisation publics, des hospices publics et des maisons de retraite publiques des
+communes et de leurs groupements [*exception*].
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - SPEC_APPLI: *Dispositions applicables aux agents nommés dans des emplois permanents à temps non complet et aux agents non titulaires*
+	  - SPEC_APPLI: CODE DES COMMUNES. - art. L421-2 (M)
+	  - SPEC_APPLI: Code des communes L421-2, L422-1 :
+
+	**Codifié par**:
+
+	  - Décret n°77-372 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-372 1977-03-28 JORF ET JONC 5 AVRIL 1977
+
+	**Cité par**:
+
+	  - Arrêté du 15 septembre 1978 - art. 1 (V)
+
+	**Abrogé par**:
+
+	  - Loi n°84-53 1984-01-26 ART. 119 JORF 27 JANVIER 1984
+
+	**Cite**:
+
+	  - Code de la santé publique 792
+
+
+###### Article L411-10
+
+Conformément au décret n° 55-622 du 20 mai 1955, le statut défini au présent titre [*relatif aux emplois permanents à temps
+complet*] ne s'applique pas aux personnels des caisses de crédit municipal [*exception*].
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - SPEC_APPLI: *Dispositions applicables aux agents nommés dans des emplois permanents à temps non complet et aux agents non titulaires*
+	  - SPEC_APPLI: CODE DES COMMUNES. - art. L421-2 (M)
+	  - SPEC_APPLI: Code des communes L421-2, L422-1 :
+
+	**Cite**:
+
+	  - Décret n°55-622 1955-05-20
+	  - Décret n°61-506 1961-05-17
+
+	**Codifié par**:
+
+	  - Décret n°77-372 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-372 1977-03-28 JORF ET JONC 5 AVRIL 1977
+
+	**Abrogé par**:
+
+	  - Loi n°84-53 1984-01-26 ART. 119 JORF 27 JANVIER 1984
+
+
+###### Article L411-11
+
+Le droit syndical est reconnu au personnel soumis au présent titre.
+
+L'appartenance ou la non-appartenance à un syndicat ne doit entraîner aucune conséquence en ce qui concerne le recrutement,
+l'avancement, l'affectation et, d'une manière générale, la situation des agents soumis au présent statut.
+
+L'exercice du droit syndical ne doit pas avoir pour conséquence des actes contraires aux lois.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - SPEC_APPLI: *Dispositions applicables aux agents nommés dans des emplois permanents à temps non complet et aux agents non titulaires*
+	  - SPEC_APPLI: CODE DES COMMUNES. - art. L421-2 (M)
+	  - SPEC_APPLI: Code des communes L421-2, L422-1 :
+
+	**Cite**:
+
+	  - Circulaire 1974-05-06 Intérieur
+	  - Instruction 1970-05-14 Premier Ministre
+
+	**Anciens textes**:
+
+	  - Code de l'administration communale 480 al. 1 phr. 1 et al. 2
+
+	**Codifié par**:
+
+	  - Décret n°77-372 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-372 1977-03-28 JORF ET JONC 5 AVRIL 1977
+
+	**Abrogé par**:
+
+	  - Loi n°84-53 1984-01-26 ART. 119 JORF 27 JANVIER 1984
+
+
+###### Article L411-12
+
+Les syndicats professionnels régis par le livre IV du code du travail peuvent ester en justice devant toute juridiction. Ils
+peuvent notamment, devant les juridictions de l'ordre administratif, se pourvoir [**]recours[**] contre les actes
+réglementaires concernant le statut du personnel et contre les décisions individuelles portant atteinte aux intérêts
+collectifs des agents.
+
+Toute organisation syndicale d'agents soumis aux dispositions du présent titre [*emplois permanents à temps complet*] est
+tenue d'effectuer, dans les deux mois de sa création [**]délai[**], le dépôt de ses statuts et de la liste de ses
+administrateurs auprès de l'autorité hiérarchique dont dépendent les agents appelés à en faire partie.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - SPEC_APPLI: *Dispositions applicables aux agents nommés dans des emplois permanents à temps non complet et aux agents non titulaires*
+	  - SPEC_APPLI: CODE DES COMMUNES. - art. L421-2 (M)
+	  - SPEC_APPLI: Code des communes L421-2, L422-1 :
+
+	**Codifié par**:
+
+	  - Décret n°77-372 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-372 1977-03-28 JORF ET JONC 5 AVRIL 1977
+
+	**Abrogé par**:
+
+	  - Loi n°84-53 1984-01-26 ART. 119 JORF 27 JANVIER 1984
+
+	**Anciens textes**:
+
+	  - Code de l'administration communale 480 al. 1 phr. 1 et al. 3
+
+	**Cite**:
+
+	  - Code du travail L410-1 à L413-2
+
+
+###### Article L411-13
+
+Les dispositions du décret du 29 octobre 1936 et les textes subséquents relatifs aux cumuls de retraites, de rémunérations et
+de fonctions sont applicables aux agents communaux soumis au présent titre.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - SPEC_APPLI: *Dispositions applicables aux agents nommés dans des emplois permanents à temps non complet et aux agents non titulaires*
+	  - SPEC_APPLI: CODE DES COMMUNES. - art. L421-2 (M)
+	  - SPEC_APPLI: Code des communes L421-2, L422-1 :
+
+	**Codifié par**:
+
+	  - Décret n°77-372 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-372 1977-03-28 JORF et JONC 5 avril 1977
+
+	**Abrogé par**:
+
+	  - Loi n°84-53 1984-01-26 ART. 119 JORF 27 JANVIER 1984
+
+	**Cité par**:
+
+	  - CODE DES COMMUNES. - art. R*411-3 (V)
+
+	**Anciens textes**:
+
+	  - Code de l'administration communale 482
+
+	**Cite**:
+
+	  - Décret n°1936-10-29 modifié
+
+
+###### Article L411-15
+
+Il est interdit à tout agent soumis au présent titre, quelle que soit sa position, et sous quelque dénomination que ce soit,
+d'avoir par lui-même ou par personne interposée des intérêts dans une entreprise soumise au contrôle de l'administration ou
+service dont il fait partie ou en relation avec son administration ou service.
+
+Le fonctionnaire municipal demeure, à la suite de la cessation de ses fonctions, soumis à l'interdiction mentionnée à
+l'alinéa précédent pendant un délai fixé par décret.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - SPEC_APPLI: *Dispositions applicables aux agents nommés dans des emplois permanents à temps non complet et aux agents non titulaires*
+	  - SPEC_APPLI: CODE DES COMMUNES. - art. L421-2 (M)
+	  - SPEC_APPLI: Code des communes L421-2, L422-1 :
+
+	**Anciens textes**:
+
+	  - Code de l'administration communale 483
+
+	**Codifié par**:
+
+	  - Décret n°77-372 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-372 1977-03-28 JORF ET JONC 5 AVRIL 1977
+
+	**Abrogé par**:
+
+	  - Loi n°84-53 1984-01-26 ART. 119 JORF 27 JANVIER 1984
+
+
+###### Article L411-16
+
+Il est interdit à tout agent soumis au présent titre d'exercer, à titre professionnel, une activité privée lucrative de
+quelque nature que ce soit.
+
+Il ne peut être exceptionnellement dérogé à cette interdiction que dans les conditions prévues par le décret du 29 octobre
+1936 et les textes subséquents.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Code de l'administration communale 484 al. 1
+
+	**Cite**:
+
+	  - Décret  1936-10-29
+
+	**Codifié par**:
+
+	  - Décret n°77-372 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-372 1977-03-28 JORF ET JONC 5 AVRIL 1977
+
+	**Abrogé par**:
+
+	  - Loi n°84-53 1984-01-26 ART. 119 JORF 27 JANVIER 1984
+
+
+###### Article L411-17
+
+Lorsque le conjoint d'un agent soumis au présent titre exerce, à titre professionnel, une activité privée lucrative, la
+déclaration en est faite au maire.
+
+Le maire prend, s'il y a lieu, les mesures propres à sauvegarder les intérêts du service, après avis de la commission
+paritaire communale ou de la commission paritaire intercommunale selon le cas [**]conditions de forme - compétence[**].
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Code de l'administration communale 484 al. 2
+
+	**Codifié par**:
+
+	  - Décret n°77-372 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-372 1977-03-28 JORF ET JONC 5 AVRIL 1977
+
+	**Abrogé par**:
+
+	  - Loi n°84-53 1984-01-26 ART. 119 JORF 27 JANVIER 1984
+
+
+###### Article L411-18
+
+Tout agent, quel que soit son rang dans la hiérarchie, est responsable de l'exécution des tâches qui lui sont confiées.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Code de l'administration communale 485
+
+	**Codifié par**:
+
+	  - Décret n°77-372 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-372 1977-03-28 JORF ET JONC 5 AVRIL 1977
+
+	**Abrogé par**:
+
+	  - Loi n°84-53 1984-01-26 ART. 119 JORF 27 JANVIER 1984
+
+
+###### Article L411-19
+
+L'agent chargé d'assurer la marche d'un service est responsable à l'égard de ses chefs de l'autorité qui lui a été confiée
+pour cet objet et de l'exécution des ordres qu'il a donnés.
+
+Il n'est dégagé d'aucune des responsabilités qui lui incombent par la responsabilité propre de ses subordonnés.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Code de l'administration communale 486
+
+	**Codifié par**:
+
+	  - Décret n°77-372 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-372 1977-03-28 JORF ET JONC 5 AVRIL 1977
+
+	**Abrogé par**:
+
+	  - Loi n°84-53 1984-01-26 ART. 119 JORF 27 JANVIER 1984
+
+
+###### Article L411-20
+
+Indépendamment des dispositions de l'article 378 du code pénal [*qui prévoit les peines applicables à toute personne
+dépositaire, par état, profession ou fonctions temporaires ou permanentes, de secrets qui lui sont confiés et qui révèle ces
+secrets*], tout agent est lié par l'obligation de discrétion professionnelle pour tout ce qui concerne les faits et
+informations dont il a connaissance dans l'exercice ou à l'occasion de l'exercice de ses fonctions.
+
+Tout détournement, toute communication contraire aux règlements de pièces ou documents de service à des tiers sont interdits.
+
+En dehors des cas expressément prévus par la réglementation en vigueur, l'agent ne peut être délié de cette obligation de
+discrétion ou relevé de l'interdiction édictée par l'alinéa précédent qu'avec l'autorisation du maire [**]conditions de
+forme[**].
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Code de l'administration communale 487
+
+	**Codifié par**:
+
+	  - Décret n°77-372 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-372 1977-03-28 JORF ET JONC 5 AVRIL 1977
+
+	**Abrogé par**:
+
+	  - Loi n°84-53 1984-01-26 ART. 119 JORF 27 JANVIER 1984
+
+	**Cite**:
+
+	  - Code pénal 378
+
+
+###### Article L411-21
+
+Les agents ont droit, conformément aux règles fixées par le code pénal et des lois spéciales, à une protection contre les
+menaces, outrages, injures ou diffamations dont ils peuvent être l'objet.
+
+L'autorité investie du pouvoir de nomination est tenue de protéger ses agents contre les menaces, attaques, de quelque nature
+qu'elles soient, dont ils peuvent être l'objet à l'occasion de leurs fonctions.
+
+La collectivité locale répare, le cas échéant, le préjudice qui en est résulté dans tous les cas non prévus par la
+réglementation des pensions des personnels en cause [*responsabilité*].
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Code de l'administration communale 489
+
+	**Codifié par**:
+
+	  - Décret n°77-372 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-372 1977-03-28 JORF ET JONC 5 AVRIL 1977
+
+	**Abrogé par**:
+
+	  - Loi n°84-53 1984-01-26 ART. 119 JORF 27 JANVIER 1984
+
+	**Cite**:
+
+	  - Code pénal 224 et 230
+
+
+###### Article L411-22
+
+Conformément à l'article premier de la loi n° 63-777 du 31 juillet 1963 relative à certaines modalités de la grève dans les
+services publics [*Code du travail art. L. 521-2*], les dispositions de cette loi sont applicables aux personnels des
+communes comptant plus de dix mille habitants [*nombre*] ainsi qu'aux personnels des organismes et des établissements publics
+chargés de la gestion d'un service public.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - SPEC_APPLI: *Dispositions applicables aux agents nommés dans des emplois permanents à temps non complet et aux agents non titulaires*
+	  - SPEC_APPLI: CODE DES COMMUNES. - art. L421-2 (M)
+	  - SPEC_APPLI: Code des communes L421-2, L422-1 :
+
+	**Cite**:
+
+	  - Loi n°63-777 du 31 juillet 1963 - art. 1 (Ab)
+	  - Code du travail - art. L521-2 (M)
+
+	**Codifié par**:
+
+	  - Décret n°77-372 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-372 1977-03-28 JORF ET JONC 5 AVRIL 1977
+
+	**Abrogé par**:
+
+	  - Loi n°84-53 1984-01-26 ART. 119 JORF 27 JANVIER 1984
+
+	**Cité par**:
+
+	  - CODE DES COMMUNES. - art. L422-1 (Ab)
+
+
+###### Article L411-23
+
+Aucune mention des opinions politiques, philosophiques ou religieuses ne peut figurer au dossier individuel de l'agent.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - SPEC_APPLI: *Dispositions applicables aux agents nommés dans des emplois permanents à temps non complet*
+	  - SPEC_APPLI: Code des communes L421-2 :
+
+	**Anciens textes**:
+
+	  - Code de l'administration communale 490 al. 1 phr. 4
+
+	**Codifié par**:
+
+	  - Décret n°77-372 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-372 1977-03-28 JORF ET JONC 5 AVRIL 1977
+
+	**Abrogé par**:
+
+	  - Loi n°84-53 1984-01-26 ART. 119 JORF 27 JANVIER 1984
+
+
+##### Commission nationale paritaire du personnel communal .
+
+###### Article L411-24
+
+Une commission nationale paritaire du personnel communal, constituée au sein de la section du personnel du conseil national
+des services publics départementaux et communaux, est consultée sur tous les textes réglementaires intéressant l'application
+du présent titre.
+
+Elle participe à l'établissement des règles générales de fonctionnement des services, notamment au point de vue du
+recrutement, de l'avancement et de la discipline.
+
+Elle peut procéder à toutes études sur l'organisation et le perfectionnement des méthodes de travail des services municipaux.
+
+Elle constitue une documentation et des statistiques d'ensemble concernant la fonction publique locale.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - SPEC_APPLI: *Dispositions applicables aux agents nommés dans des emplois permanents à temps non complet et aux agents non titulaires*
+	  - SPEC_APPLI: CODE DES COMMUNES. - art. L421-2 (M)
+	  - SPEC_APPLI: Code des communes L421-2, L422-1 :
+
+	**Codifié par**:
+
+	  - Décret n°77-372 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-372 1977-03-28 JORF ET JONC 5 AVRIL 1977
+
+	**Abrogé par**:
+
+	  - Loi n°84-53 1984-01-26 ART. 119 JORF 27 JANVIER 1984
+
+	**Cité par**:
+
+	  - CODE DES COMMUNES. - art. L422-1 (Ab)
+	  - CODE DES COMMUNES. - art. R352-2 (Ab)
+
+	**Anciens textes**:
+
+	  - Code de l'administration communale 492 al. 1
+
+
+###### Article L411-25
+
+La commission nationale paritaire du personnel communal comprend, sous la présidence du président de la section du personnel
+du conseil national des services publics départementaux et communaux, des représentants, en nombre égal, des maires et des
+personnels.
+
+Les représentants des maires sont, pour moitié, élus par les maires des communes.
+
+Les représentants des personnels sont, pour moitié, élus par les agents soumis au présent titre et, pour un tiers, désignés
+par leurs organisations représentatives.
+
+Un arrêté ministériel fixe les modalités d'élection des représentants élus des maires et du personnel.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - SPEC_APPLI: *Dispositions applicables aux agents nommés dans des emplois permanents à temps non complet et aux agents non titulaires*
+	  - TXT_SOURCE: Arrêté du 23 juin 1976 - art. 1 (V)
+	  - TXT_SOURCE: Arrêté du 23 juin 1976 - art. 10 (V)
+	  - TXT_SOURCE: Arrêté du 23 juin 1976 - art. 11 (V)
+	  - TXT_SOURCE: Arrêté du 23 juin 1976 - art. 12 (V)
+	  - TXT_SOURCE: Arrêté du 23 juin 1976 - art. 13 (V)
+	  - TXT_SOURCE: Arrêté du 23 juin 1976 - art. 14 (V)
+	  - TXT_SOURCE: Arrêté du 23 juin 1976 - art. 15 (V)
+	  - TXT_SOURCE: Arrêté du 23 juin 1976 - art. 16 (V)
+	  - TXT_SOURCE: Arrêté du 23 juin 1976 - art. 17 (V)
+	  - TXT_SOURCE: Arrêté du 23 juin 1976 - art. 18 (V)
+	  - TXT_SOURCE: Arrêté du 23 juin 1976 - art. 19 (V)
+	  - TXT_SOURCE: Arrêté du 23 juin 1976 - art. 2 (V)
+	  - TXT_SOURCE: Arrêté du 23 juin 1976 - art. 20 (V)
+	  - TXT_SOURCE: Arrêté du 23 juin 1976 - art. 21 (V)
+	  - TXT_SOURCE: Arrêté du 23 juin 1976 - art. 22 (V)
+	  - TXT_SOURCE: Arrêté du 23 juin 1976 - art. 23 (V)
+	  - TXT_SOURCE: Arrêté du 23 juin 1976 - art. 24 (V)
+	  - TXT_SOURCE: Arrêté du 23 juin 1976 - art. 25 (V)
+	  - TXT_SOURCE: Arrêté du 23 juin 1976 - art. 26 (V)
+	  - TXT_SOURCE: Arrêté du 23 juin 1976 - art. 27 (V)
+	  - TXT_SOURCE: Arrêté du 23 juin 1976 - art. 28 (V)
+	  - TXT_SOURCE: Arrêté du 23 juin 1976 - art. 29 (V)
+	  - TXT_SOURCE: Arrêté du 23 juin 1976 - art. 3 (V)
+	  - TXT_SOURCE: Arrêté du 23 juin 1976 - art. 30 (V)
+	  - TXT_SOURCE: Arrêté du 23 juin 1976 - art. 31 (V)
+	  - TXT_SOURCE: Arrêté du 23 juin 1976 - art. 32 (V)
+	  - TXT_SOURCE: Arrêté du 23 juin 1976 - art. 33 (V)
+	  - TXT_SOURCE: Arrêté du 23 juin 1976 - art. 34 (V)
+	  - TXT_SOURCE: Arrêté du 23 juin 1976 - art. 4 (V)
+	  - TXT_SOURCE: Arrêté du 23 juin 1976 - art. 5 (V)
+	  - TXT_SOURCE: Arrêté du 23 juin 1976 - art. 6 (V)
+	  - TXT_SOURCE: Arrêté du 23 juin 1976 - art. 7 (V)
+	  - TXT_SOURCE: Arrêté du 23 juin 1976 - art. 8 (V)
+	  - TXT_SOURCE: Arrêté du 23 juin 1976 - art. 9 (V)
+	  - SPEC_APPLI: CODE DES COMMUNES. - art. L421-2 (M)
+	  - SPEC_APPLI: Code des communes L421-2, L422-1 :
+
+	**Cite**:
+
+	  - Arrêté  1967-11-09
+	  - Arrêté  1968-02-09
+	  - Décret n°59-1155 1959-09-28
+
+	**Codifié par**:
+
+	  - Décret n°77-372 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-372 1977-03-28 JORF et JONC 5 avril 1977
+
+	**Abrogé par**:
+
+	  - Loi n°84-53 1984-01-26 ART. 119 JORF 27 JANVIER 1984
+
+	**Cité par**:
+
+	  - CODE DES COMMUNES. - art. L422-1 (Ab)
+	  - CODE DES COMMUNES. - art. R411-6 (Ab)
+
+	**Anciens textes**:
+
+	  - Code de l'administration communale 492 AL. 2 (partie) et dernier alinéa (partie)
+
+
+##### Commission paritaire communale .
+
+###### Article L411-31
+
+Dans les communes qui occupent au moins cent agents [*nombre*] soumis au présent titre, la commission paritaire communale
+comprend [*membres*], d'une part, le maire et des délégués choisis par lui parmi les adjoints ou les conseillers municipaux
+et, d'autre part, en nombre égal, [*proportion*] des représentants du personnel.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Code de l'administration communale 494 al. 1 modifié
+
+	**Codifié par**:
+
+	  - Décret n°77-372 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-372 1977-03-28 JORF ET JONC 5 AVRIL 1977
+
+	**Abrogé par**:
+
+	  - Loi n°84-53 1984-01-26 ART. 119 JORF 27 JANVIER 1984
+
+	**Cité par**:
+
+	  - Arrêté du 28 octobre 1958 - art. 4 (V)
+	  - Arrêté du 28 octobre 1958 - art. 5 (V)
+	  - CODE DES COMMUNES. - art. L443-2 (Ab)
+
+
+###### Article L411-32
+
+Chaque catégorie d'agents élit, au bulletin secret et à la majorité des voix, ses représentants à la commission [*paritaire
+communale*].
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Code de l'administration communale 494 al. 2
+
+	**Codifié par**:
+
+	  - Décret n°77-372 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-372 1977-03-28 JORF ET JONC 5 AVRIL 1977
+
+	**Abrogé par**:
+
+	  - Loi n°84-53 1984-01-26 ART. 119 JORF 27 JANVIER 1984
+
+	**Cité par**:
+
+	  - Arrêté du 28 octobre 1958 - art. 4 (V)
+	  - Arrêté du 28 octobre 1958 - art. 5 (V)
+
+
+###### Article L411-33
+
+Un arrêté ministériel, pris après avis de la commission nationale paritaire du personnel communal [**]conditions de
+forme[**], détermine les catégories et fixe les modalités d'élection des délégués du personnel aux commissions paritaires
+communales.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - TXT_SOURCE: Arrêté du 23 juin 1976 - art. 1 (V)
+	  - TXT_SOURCE: Arrêté du 23 juin 1976 - art. 10 (V)
+	  - TXT_SOURCE: Arrêté du 23 juin 1976 - art. 11 (V)
+	  - TXT_SOURCE: Arrêté du 23 juin 1976 - art. 12 (V)
+	  - TXT_SOURCE: Arrêté du 23 juin 1976 - art. 13 (V)
+	  - TXT_SOURCE: Arrêté du 23 juin 1976 - art. 14 (V)
+	  - TXT_SOURCE: Arrêté du 23 juin 1976 - art. 15 (V)
+	  - TXT_SOURCE: Arrêté du 23 juin 1976 - art. 17 (V)
+	  - TXT_SOURCE: Arrêté du 23 juin 1976 - art. 18 (V)
+	  - TXT_SOURCE: Arrêté du 23 juin 1976 - art. 19 (V)
+	  - TXT_SOURCE: Arrêté du 23 juin 1976 - art. 2 (V)
+	  - TXT_SOURCE: Arrêté du 23 juin 1976 - art. 20 (V)
+	  - TXT_SOURCE: Arrêté du 23 juin 1976 - art. 21 (V)
+	  - TXT_SOURCE: Arrêté du 23 juin 1976 - art. 22 (V)
+	  - TXT_SOURCE: Arrêté du 23 juin 1976 - art. 23 (V)
+	  - TXT_SOURCE: Arrêté du 23 juin 1976 - art. 24 (V)
+	  - TXT_SOURCE: Arrêté du 23 juin 1976 - art. 25 (V)
+	  - TXT_SOURCE: Arrêté du 23 juin 1976 - art. 26 (V)
+	  - TXT_SOURCE: Arrêté du 23 juin 1976 - art. 27 (V)
+	  - TXT_SOURCE: Arrêté du 23 juin 1976 - art. 28 (V)
+	  - TXT_SOURCE: Arrêté du 23 juin 1976 - art. 29 (V)
+	  - TXT_SOURCE: Arrêté du 23 juin 1976 - art. 3 (V)
+	  - TXT_SOURCE: Arrêté du 23 juin 1976 - art. 30 (V)
+	  - TXT_SOURCE: Arrêté du 23 juin 1976 - art. 31 (V)
+	  - TXT_SOURCE: Arrêté du 23 juin 1976 - art. 32 (V)
+	  - TXT_SOURCE: Arrêté du 23 juin 1976 - art. 33 (V)
+	  - TXT_SOURCE: Arrêté du 23 juin 1976 - art. 4 (V)
+	  - TXT_SOURCE: Arrêté du 23 juin 1976 - art. 5 (V)
+	  - TXT_SOURCE: Arrêté du 23 juin 1976 - art. 6 (V)
+	  - TXT_SOURCE: Arrêté du 23 juin 1976 - art. 66 (V)
+	  - TXT_SOURCE: Arrêté du 23 juin 1976 - art. 67 (V)
+	  - TXT_SOURCE: Arrêté du 23 juin 1976 - art. 68 (V)
+	  - TXT_SOURCE: Arrêté du 23 juin 1976 - art. 69 (V)
+	  - TXT_SOURCE: Arrêté du 23 juin 1976 - art. 7 (V)
+	  - TXT_SOURCE: Arrêté du 23 juin 1976 - art. 70 (V)
+	  - TXT_SOURCE: Arrêté du 23 juin 1976 - art. 71 (V)
+	  - TXT_SOURCE: Arrêté du 23 juin 1976 - art. 72 (V)
+	  - TXT_SOURCE: Arrêté du 23 juin 1976 - art. 73 (V)
+	  - TXT_SOURCE: Arrêté du 23 juin 1976 - art. 74 (V)
+	  - TXT_SOURCE: Arrêté du 23 juin 1976 - art. 75 (V)
+	  - TXT_SOURCE: Arrêté du 23 juin 1976 - art. 8 (V)
+	  - TXT_SOURCE: Arrêté du 23 juin 1976 - art. 9 (V)
+
+	**Anciens textes**:
+
+	  - Code de l'administration communale 497 al. 1 (partie)
+
+	**Codifié par**:
+
+	  - Décret n°77-372 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-372 1977-03-28 JORF ET JONC 5 AVRIL 1977
+
+	**Abrogé par**:
+
+	  - Loi n°84-53 1984-01-26 ART. 119 JORF 27 JANVIER 1984
+
+	**Cité par**:
+
+	  - Arrêté du 28 octobre 1958 - art. 4 (V)
+	  - Arrêté du 28 octobre 1958 - art. 5 (V)
+	  - CODE DES COMMUNES. - art. L411-34 (Ab)
+
+
+###### Article L411-34
+
+Pour l'élection des représentants du personnel à la commission paritaire communale, le maire [**]attributions[**] dresse la
+liste des électeurs, reçoit les candidatures, porte celles-ci à la connaissance des électeurs, convoque les collèges
+électoraux, procède au dépouillement des suffrages et à la proclamation des résultats dans les conditions et délais fixés par
+l'arrêté ministériel prévu à l'article précédent.
+
+Le vote peut avoir lieu par correspondance.
+
+Les représentants du personnel assistent aux opérations du scrutin et au dépouillement des suffrages.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Code de l'administration communale 497 al. 2 à 4 (partie)
+
+	**Codifié par**:
+
+	  - Décret n°77-372 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-372 1977-03-28 JORF ET JONC 5 AVRIL 1977
+
+	**Abrogé par**:
+
+	  - Loi n°84-53 1984-01-26 ART. 119 JORF 27 JANVIER 1984
+
+	**Cite**:
+
+	  - CODE DES COMMUNES. - art. L411-33 (Ab)
+
+
+###### Article L411-35
+
+Le maire ou son représentant préside la commission paritaire communale.
+
+Il a voix prépondérante en cas de partage des voix.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Code de l'administration communale 494 al. 3 (partie)
+
+	**Codifié par**:
+
+	  - Décret n°77-372 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-372 1977-03-28 JORF ET JONC 5 AVRIL 1977
+
+	**Abrogé par**:
+
+	  - Loi n°84-53 1984-01-26 ART. 119 JORF 27 JANVIER 1984
+
+
+###### Article L411-36
+
+La commission paritaire communale se réunit sur convocation de son président.
+
+La convocation est obligatoire chaque fois qu'elle est demandée par le tiers au moins des membres de la commission ou lorsque
+le conseil municipal sollicite un avis [*proportion*].
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Code de l'administration communale 498 al. 1 (partie)
+
+	**Codifié par**:
+
+	  - Décret n°77-372 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-372 1977-03-28 JORF ET JONC 5 AVRIL 1977
+
+	**Abrogé par**:
+
+	  - Loi n°84-53 1984-01-26 ART. 119 JORF 27 JANVIER 1984
+
+
+###### Article L411-37
+
+Le conseil municipal peut fixer une ou plusieurs sessions obligatoires pour les travaux de la commission paritaire communale.
+
+Dans ce cas, la demande d'avis est renvoyée à la plus proche session obligatoire.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Code de l'administration communale 498 al. 2 et 3 (partie)
+
+	**Codifié par**:
+
+	  - Décret n°77-372 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-372 1977-03-28 JORF ET JONC 5 AVRIL 1977
+
+	**Abrogé par**:
+
+	  - Loi n°84-53 1984-01-26 ART. 119 JORF 27 JANVIER 1984
+
+
+###### Article L411-38
+
+La commission paritaire communale donne des avis au maire, notamment sur les modalités d'application du présent titre et
+chaque fois qu'elle est consultée par lui.
+
+Elle peut donner son avis sur les conflits provoqués par l'application du présent titre. Dans ce cas, elle peut demander
+l'avis de la commission nationale paritaire du personnel communal.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Code de l'administration communale 498 al. 4 à 6 (partie)
+
+	**Codifié par**:
+
+	  - Décret n°77-372 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-372 1977-03-28 JORF ET JONC 5 AVRIL 1977
+
+	**Abrogé par**:
+
+	  - Loi n°84-53 1984-01-26 ART. 119 JORF 27 JANVIER 1984
+
+	**Cité par**:
+
+	  - Arrêté du 28 octobre 1958 - art. 5 (V)
+
+	**Cite**:
+
+	  - Code des communes L411-1 à L417-17
+
+
+##### Commission paritaire intercommunale .
+
+###### Article L411-39
+
+Dans chaque département, pour les communes qui possèdent moins de cent agents soumis au présent titre, une commission
+paritaire intercommunale est composée d'un nombre égal de maires désignés par le syndicat de communes pour le personnel
+communal et de délégués du personnel élus au scrutin de liste, avec représentation proportionnelle, par les catégories
+déterminées conformément à l'article suivant.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°77-372 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-372 1977-03-28 JORF ET JONC 5 AVRIL 1977
+
+	**Abrogé par**:
+
+	  - Loi n°84-53 1984-01-26 ART. 119 JORF 27 JANVIER 1984
+
+	**Cité par**:
+
+	  - Arrêté du 28 octobre 1958 - art. 4 (V)
+	  - Arrêté du 28 octobre 1958 - art. 5 (V)
+
+	**Cite**:
+
+	  - CODE DES COMMUNES. - art. L411-40 (Ab)
+
+	**Anciens textes**:
+
+	  - Code de l'administration communale 496 al. 1 modifié
+
+
+###### Article L411-40
+
+Un arrêté ministériel, pris après avis de la commission nationale paritaire du personnel communal [**]conditions de
+forme[**], détermine les catégories et fixe les modalités d'élection des délégués du personnel aux commissions paritaires
+intercommunales.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - TXT_SOURCE: Arrêté du 23 juin 1976 - art. 16 (V)
+	  - TXT_SOURCE: Arrêté du 23 juin 1976 - art. 34 (V)
+	  - TXT_SOURCE: Arrêté du 23 juin 1976 - art. 35 (V)
+	  - TXT_SOURCE: Arrêté du 23 juin 1976 - art. 36 (V)
+	  - TXT_SOURCE: Arrêté du 23 juin 1976 - art. 37 (V)
+	  - TXT_SOURCE: Arrêté du 23 juin 1976 - art. 38 (V)
+	  - TXT_SOURCE: Arrêté du 23 juin 1976 - art. 39 (V)
+	  - TXT_SOURCE: Arrêté du 23 juin 1976 - art. 40 (V)
+	  - TXT_SOURCE: Arrêté du 23 juin 1976 - art. 41 (V)
+	  - TXT_SOURCE: Arrêté du 23 juin 1976 - art. 42 (V)
+	  - TXT_SOURCE: Arrêté du 23 juin 1976 - art. 43 (V)
+	  - TXT_SOURCE: Arrêté du 23 juin 1976 - art. 44 (V)
+	  - TXT_SOURCE: Arrêté du 23 juin 1976 - art. 45 (V)
+	  - TXT_SOURCE: Arrêté du 23 juin 1976 - art. 46 (V)
+	  - TXT_SOURCE: Arrêté du 23 juin 1976 - art. 47 (V)
+	  - TXT_SOURCE: Arrêté du 23 juin 1976 - art. 48 (V)
+	  - TXT_SOURCE: Arrêté du 23 juin 1976 - art. 49 (V)
+	  - TXT_SOURCE: Arrêté du 23 juin 1976 - art. 51 (V)
+	  - TXT_SOURCE: Arrêté du 23 juin 1976 - art. 52 (V)
+	  - TXT_SOURCE: Arrêté du 23 juin 1976 - art. 53 (V)
+	  - TXT_SOURCE: Arrêté du 23 juin 1976 - art. 54 (V)
+	  - TXT_SOURCE: Arrêté du 23 juin 1976 - art. 55 (V)
+	  - TXT_SOURCE: Arrêté du 23 juin 1976 - art. 56 (V)
+	  - TXT_SOURCE: Arrêté du 23 juin 1976 - art. 57 (V)
+	  - TXT_SOURCE: Arrêté du 23 juin 1976 - art. 58 (V)
+	  - TXT_SOURCE: Arrêté du 23 juin 1976 - art. 60 (V)
+	  - TXT_SOURCE: Arrêté du 23 juin 1976 - art. 61 (V)
+	  - TXT_SOURCE: Arrêté du 23 juin 1976 - art. 62 (V)
+	  - TXT_SOURCE: Arrêté du 23 juin 1976 - art. 63 (V)
+	  - TXT_SOURCE: Arrêté du 23 juin 1976 - art. 64 (V)
+	  - TXT_SOURCE: Arrêté du 23 juin 1976 - art. 65 (V)
+	  - TXT_SOURCE: Arrêté du 23 juin 1976 - art. 66 (V)
+	  - TXT_SOURCE: Arrêté du 23 juin 1976 - art. 67 (V)
+	  - TXT_SOURCE: Arrêté du 23 juin 1976 - art. 68 (V)
+	  - TXT_SOURCE: Arrêté du 23 juin 1976 - art. 69 (V)
+	  - TXT_SOURCE: Arrêté du 23 juin 1976 - art. 70 (V)
+	  - TXT_SOURCE: Arrêté du 23 juin 1976 - art. 71 (V)
+	  - TXT_SOURCE: Arrêté du 23 juin 1976 - art. 72 (V)
+	  - TXT_SOURCE: Arrêté du 23 juin 1976 - art. 73 (V)
+	  - TXT_SOURCE: Arrêté du 23 juin 1976 - art. 74 (V)
+	  - TXT_SOURCE: Arrêté du 23 juin 1976 - art. 75 (V)
+
+	**Codifié par**:
+
+	  - Décret n°77-372 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-372 1977-03-28 JORF ET JONC 5 AVRIL 1977
+
+	**Abrogé par**:
+
+	  - Loi n°84-53 1984-01-26 ART. 119 JORF 27 JANVIER 1984
+
+	**Cité par**:
+
+	  - CODE DES COMMUNES. - art. L411-39 (Ab)
+	  - CODE DES COMMUNES. - art. L411-41 (Ab)
+
+	**Anciens textes**:
+
+	  - Code de l'administration communale 497 al. 1 (partie)
+
+
+###### Article L411-41
+
+Pour l'élection des représentants du personnel à la commission paritaire intercommunale, le président du bureau du syndicat
+de communes pour le personnel communal dresse la liste des électeurs, convoque les collèges électoraux, procède au
+dépouillement des suffrages et à la proclamation des résultats dans les conditions et délais fixés par l'arrêté ministériel
+prévu à l'article précédent.
+
+Le vote peut avoir lieu par correspondance.
+
+Les représentants du personnel assistent aux opérations du scrutin et au dépouillement des suffrages.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°77-372 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-372 1977-03-28 JORF ET JONC 5 AVRIL 1977
+
+	**Abrogé par**:
+
+	  - Loi n°84-53 1984-01-26 ART. 119 JORF 27 JANVIER 1984
+
+	**Cite**:
+
+	  - CODE DES COMMUNES. - art. L411-40 (Ab)
+
+	**Anciens textes**:
+
+	  - Code de l'administration communale 497 al. 2 à 4 (partie)
+
+
+###### Article L411-42
+
+La commission paritaire intercommunale nomme son président parmi les maires qui en font partie ; celui-ci a voix
+prépondérante en cas de partage des voix.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Code de l'administration communale 496 al. 2
+
+	**Codifié par**:
+
+	  - Décret n°77-372 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-372 1977-03-28 JORF ET JONC 5 AVRIL 1977
+
+	**Abrogé par**:
+
+	  - Loi n°84-53 1984-01-26 ART. 119 JORF 27 JANVIER 1984
+
+	**Cité par**:
+
+	  - Arrêté du 28 octobre 1958 - art. 4 (V)
+	  - Arrêté du 28 octobre 1958 - art. 5 (V)
+
+
+###### Article L411-43
+
+La commission paritaire intercommunale se réunit sur convocation de son président.
+
+La convocation est obligatoire chaque fois qu'elle est demandée par le tiers au moins des membres de la commission ou
+lorsqu'un conseil municipal, ou le bureau du syndicat de communes, sollicite un avis [*proportion*].
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Code de l'administration communale 498 al. 1 (partie)
+
+	**Codifié par**:
+
+	  - Décret n°77-372 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-372 1977-03-28 JORF ET JONC 5 AVRIL 1977
+
+	**Abrogé par**:
+
+	  - Loi n°84-53 1984-01-26 ART. 119 JORF 27 JANVIER 1984
+
+
+###### Article L411-44
+
+Le bureau du syndicat de communes pour le personnel communal peut fixer une ou plusieurs sessions obligatoires pour les
+travaux de la commission paritaire intercommunale.
+
+Dans ce cas, la demande d'avis est renvoyée à la plus proche session obligatoire.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Code de l'administration communale 498 al. 2 et 3 (partie)
+
+	**Codifié par**:
+
+	  - Décret n°77-372 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-372 1977-03-28 JORF ET JONC 5 AVRIL 1977
+
+	**Abrogé par**:
+
+	  - Loi n°84-53 1984-01-26 ART. 119 JORF 27 JANVIER 1984
+
+
+###### Article L411-45
+
+La commission paritaire intercommunale donne des avis aux maires et au bureau du syndicat de communes pour le personnel
+communal notamment sur les modalités d'application du présent titre et chaque fois qu'elle est consultée par un maire ou le
+bureau du syndicat de communes pour le personnel communal [*fréquence*].
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Code de l'administration communale 498 al. 4 (partie)
+
+	**Codifié par**:
+
+	  - Décret n°77-372 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-372 1977-03-28 JORF ET JONC 5 AVRIL 1977
+
+	**Abrogé par**:
+
+	  - Loi n°84-53 1984-01-26 ART. 119 JORF 27 JANVIER 1984
+
+
+###### Article L411-46
+
+La commission paritaire intercommunale peut donner son avis sur les conflits provoqués par l'application du présent titre.
+Dans ce cas, elle peut demander l'avis de la commission nationale paritaire du personnel communal.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Code de l'administration communale 498 al. 5 et 6 (partie)
+
+	**Codifié par**:
+
+	  - Décret n°77-372 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-372 1977-03-28 JORF ET JONC 5 AVRIL 1977
+
+	**Abrogé par**:
+
+	  - Loi n°84-53 1984-01-26 ART. 119 JORF 27 JANVIER 1984
+
+	**Cite**:
+
+	  - Code des communes L411-11 à L417-17
+
+
+#### Recrutement, formation et promotion sociale
+
+##### Recrutement
+
+##### Dispositions générales .
+
+###### Article L412-1
+
+Le maire [**]attributions[**] nomme à tous les emplois communaux ; il suspend et révoque les titulaires de ces emplois.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - SPEC_APPLI: *Dispositions applicables aux agents nommés dans des emplois permanents à temps non complet et aux agents non titulaires*
+	  - SPEC_APPLI: CODE DES COMMUNES. - art. L421-2 (M)
+	  - SPEC_APPLI: Code des communes L421-2, L422-1 :
+
+	**Anciens textes**:
+
+	  - Code de l'administration communale 500 remplacé
+
+	**Codifié par**:
+
+	  - Décret n°77-372 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-372 1977-03-28 JORF ET JONC 5 AVRIL 1977
+
+	**Abrogé par**:
+
+	  - Loi n°84-53 1984-01-26 ART. 119 JORF 27 JANVIER 1984
+
+	**Cité par**:
+
+	  - CODE DES COMMUNES. - art. L421-2 (Ab)
+	  - CODE DES COMMUNES. - art. L422-1 (Ab)
+
+
+###### Article L412-3
+
+Les conditions générales d'accès aux emplois communaux et les limites d'âge sont fixées par décret.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Code de l'administration communale 502
+
+	**Codifié par**:
+
+	  - Décret n°77-372 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-372 1977-03-28 JORF ET JONC 5 AVRIL 1977
+
+	**Abrogé par**:
+
+	  - Loi n°84-53 1984-01-26 ART. 119 JORF 27 JANVIER 1984
+
+	**Cité par**:
+
+	  - CODE DES COMMUNES. - art. R412-9 (V)
+
+
+###### Article L412-4
+
+Conformément aux dispositions du 4° de l'article L. 323-12 du code du travail, les administrations des communes et de leurs
+établissements publics sont assujetties aux dispositions relatives à l'emploi des travailleurs handicapés.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - SPEC_APPLI: *Dispositions applicables aux agents nommés dans des emplois permanents à temps non complet et aux agents non titulaires*
+	  - SPEC_APPLI: CODE DES COMMUNES. - art. L421-2 (M)
+	  - SPEC_APPLI: Code des communes L421-2, L422-1 :
+
+	**Codifié par**:
+
+	  - Décret n°77-372 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-372 1977-03-28 JORF ET JONC 5 AVRIL 1977
+
+	**Abrogé par**:
+
+	  - Loi n°84-53 1984-01-26 ART. 119 JORF 27 JANVIER 1984
+
+	**Cité par**:
+
+	  - CODE DES COMMUNES. - art. L422-1 (Ab)
+
+	**Cite**:
+
+	  - Code du travail - art. L323-12 (M)
+
+
+###### Article L412-5
+
+Conformément à l'article 1er de la loi n° 75-534 du 30 juin 1975 d'orientation en faveur des personnes handicapées, les
+communes, les groupements de communes et leurs établissements publics, associent leurs interventions avec celles des
+familles, de l'Etat, des autres collectivités locales et établissements publics, des organismes et entreprises publics et
+privés, pour mettre en oeuvre l'obligation nationale que constituent la prévention et le dépistage des handicaps, les soins,
+l'éducation, la formation et l'orientation professionnelle, l'emploi, la garantie d'un minimum de ressources, l'intégration
+sociale et l'accès aux sports et aux loisirs du mineur et de l'adulte handicapés physiques, sensoriels ou mentaux.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - SPEC_APPLI: *Dispositions applicables aux agents nommés dans des emplois permanents à temps non complet et aux agents non titulaires*
+	  - SPEC_APPLI: CODE DES COMMUNES. - art. L421-2 (M)
+	  - SPEC_APPLI: Code des communes L421-2, L422-1 :
+
+	**Cite**:
+
+	  - Loi n°75-534 du 30 juin 1975 - art. 1, v. init.
+
+	**Codifié par**:
+
+	  - Décret n°77-372 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-372 1977-03-28 JORF ET JONC 5 AVRIL 1977
+
+	**Abrogé par**:
+
+	  - Loi n°84-53 1984-01-26 ART. 119 JORF 27 JANVIER 1984
+
+
+###### Article L412-6
+
+Conformément à l'article 64 du code du service national, pour l'accès à un emploi des communes et de leurs établissements
+publics, la limite d'âge est reculée d'un temps égal à celui passé effectivement dans le service national actif accompli dans
+l'une des formes du titre III dudit code.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - SPEC_APPLI: *Dispositions applicables aux agents nommés dans des emplois permanents à temps non complet et aux agents non titulaires*
+	  - SPEC_APPLI: CODE DES COMMUNES. - art. L421-2 (M)
+	  - SPEC_APPLI: Code des communes L421-2, L422-1 :
+
+	**Codifié par**:
+
+	  - Décret n°77-372 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-372 1977-03-28 JORF ET JONC 5 AVRIL 1977
+
+	**Abrogé par**:
+
+	  - Loi n°84-53 1984-01-26 ART. 119 JORF 27 JANVIER 1984
+
+	**Cite**:
+
+	  - Code du service national - art. L64 (M)
+	  - Code du service national L67 à L115
+
+
+###### Article L412-7
+
+Conformément à l'article 36 du code de la famille et de l'aide sociale, l'âge limite d'admission dans les cadres des communes
+et de leurs établissements publics est, à moins de dispositions contraires motivées par les nécessités spéciales de certains
+services, reculé d'un an par enfant à charge ou par personne à charge ouvrant droit aux allocations prévues pour les
+handicapés et tout candidat à un emploi dans ces cadres bénéficie, par enfant élevé dans les conditions prévues au deuxième
+alinéa de l'article 327 du code de la sécurité sociale, d'un recul de la limite d'âge d'admission égal à une année, un même
+enfant ne pouvant ouvrir droit qu'au bénéfice de l'une ou de l'autre de ces dispositions.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - SPEC_APPLI: *Dispositions applicables aux agents nommés dans des emplois permanents à temps non complet et aux agents non titulaires*
+	  - SPEC_APPLI: CODE DES COMMUNES. - art. L421-2 (M)
+	  - SPEC_APPLI: Code des communes L421-2, L422-1 :
+
+	**Codifié par**:
+
+	  - Décret n°77-372 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-372 1977-03-28 JORF ET JONC 5 AVRIL 1977
+
+	**Abrogé par**:
+
+	  - Loi n°84-53 1984-01-26 ART. 119 JORF 27 JANVIER 1984
+
+	**Cite**:
+
+	  - Code de la famille et de l'aide sociale. - art. 36 (Ab)
+	  - Code de la sécurité sociale 327 al. 2
+
+
+###### Article L412-8
+
+Les limites d'âge pour l'accès aux emplois des communes et de leurs établissements publics ne sont pas opposables aux femmes
+qui se trouvent dans l'obligation de travailler après la mort de leur mari.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - SPEC_APPLI: *Dispositions applicables aux agents nommés dans des emplois permanents à temps non complet et aux agents non titulaires*
+	  - SPEC_APPLI: CODE DES COMMUNES. - art. L421-2 (M)
+	  - SPEC_APPLI: Code des communes L421-2, L422-1 :
+
+	**Anciens textes**:
+
+	  - Loi n°75-3 1975-01-03 art. 8 (partie)
+
+	**Codifié par**:
+
+	  - Décret n°77-372 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-372 1977-03-28 JORF ET JONC 5 AVRIL 1977
+
+	**Abrogé par**:
+
+	  - Loi n°84-53 1984-01-26 ART. 119 JORF 27 JANVIER 1984
+
+
+###### Article L412-9
+
+Nonobstant toutes dispositions contraires, la limite d'âge applicable au recrutement par concours des agents des communes et
+de leurs établissements publics, de même niveau que les fonctionnaires de l'Etat de catégorie A et assimilés, est portée à
+quarante-cinq ans en faveur des femmes élevant leur enfant ou ayant élevé au moins un enfant.
+
+Un décret en Conseil d'Etat détermine les conditions d'application du présent article.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - SPEC_APPLI: *Dispositions applicables aux agents nommés dans des emplois permanents à temps non complet et aux agents non titulaires*
+	  - SPEC_APPLI: CODE DES COMMUNES. - art. L421-2 (M)
+	  - SPEC_APPLI: Code des communes L421-2, L422-1 :
+	  - TXT_ASSOCIE: Code des communes R412-7-1
+
+	**Anciens textes**:
+
+	  - Loi n°76-617 1976-07-09 art. 21 (partie)
+
+	**Codifié par**:
+
+	  - Décret n°77-372 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-372 1977-03-28 JORF ET JONC 5 AVRIL 1977
+
+	**Abrogé par**:
+
+	  - Loi n°84-53 1984-01-26 ART. 119 JORF 27 JANVIER 1984
+
+	**Cité par**:
+
+	  - CODE DES COMMUNES. - art. L422-1 (Ab)
+	  - CODE DES COMMUNES. - art. R*412-7-1 (V)
+
+
+###### Article L412-10
+
+L'appartenance d'un agent à l'administration communale résulte de la titularisation dans un emploi quelle que soit l'autorité
+qui a prononcé la titularisation.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Code de l'administration communale 503 remplacé
+
+	**Codifié par**:
+
+	  - Décret n°77-372 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-372 1977-03-28 JORF ET JONC 5 AVRIL 1977
+
+	**Abrogé par**:
+
+	  - Loi n°84-53 1984-01-26 ART. 119 JORF 27 JANVIER 1984
+
+	**Cité par**:
+
+	  - CODE DES COMMUNES. - art. R411-39 (Ab)
+	  - CODE DES COMMUNES. - art. R411-40 (Ab)
+
+
+##### Modalités de recrutement communes à tous les emplois .
+
+###### Article L412-11
+
+Sous réserve de l'application de la législation relative aux emplois réservés, le recrutement aux emplois de début de
+l'administration communale ne peut avoir lieu que selon l'une ou plusieurs des modalités ci-après :
+
+1° Après concours sur épreuves ouverts, d'une part, aux candidats titulaires de certains diplômes ou titres, d'autre part,
+pour une fraction des emplois à pourvoir, aux agents communaux réunissant des conditions d'âge, de grade et d'ancienneté ;
+
+2° Après concours sur titres pouvant comporter une ou plusieurs épreuves consistant en conversation avec un jury ;
+
+3° Après examen professionnel ;
+
+4° Directement sur la justification de diplômes ou de capacités professionnelles ;
+
+5° Au titre de la promotion sociale.
+
+Des arrêtés du ministre de l'intérieur déterminent, pour chaque emploi, les modalités d'application du présent article.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Ordonnance n°67-706 du 21 août 1967 - art. 82 (V)
+	  - TXT_ASSOCIE: Loi n°69-1137 1969-12-20 ART. 1
+	  - TXT_SOURCE: Arrêté du 26 septembre 1973 - art. 1 (V)
+	  - TXT_SOURCE: Arrêté du 26 septembre 1973 - art. 2 (V)
+	  - TXT_SOURCE: Arrêté du 26 septembre 1973 - art. 3 (V)
+	  - TXT_SOURCE: Arrêté du 26 septembre 1973 - art. 4 (V)
+	  - TXT_SOURCE: Arrêté du 26 septembre 1973 - art. 5 (V)
+	  - TXT_SOURCE: Arrêté du 26 septembre 1973 - art. 6 (V)
+	  - TXT_SOURCE: Arrêté du 26 septembre 1973 - art. 7 (V)
+	  - TXT_SOURCE: Arrêté du 26 septembre 1973 - art. 8 (V)
+	  - TXT_SOURCE: Arrêté du 26 septembre 1973 - art. 9 (V)
+	  - TXT_SOURCE: Arrêté du 26 septembre 1973 - art. ANNEXE (V)
+	  - TXT_SOURCE: Arrêté du 26 septembre 1973 - art. ANNEXE 1 (V)
+	  - TXT_SOURCE: Arrêté du 26 septembre 1973 - art. Annexe 1 (Ab)
+	  - TXT_SOURCE: Arrêté du 26 septembre 1973 - art. Annexe 2 (V)
+	  - TXT_SOURCE: Arrêté du 26 septembre 1973 - art. Annexe 3 (V)
+	  - TXT_SOURCE: Arrêté du 2 juillet 1975 - art. 1 (V)
+	  - TXT_SOURCE: Arrêté du 2 juillet 1975 - art. 2 (V)
+	  - TXT_SOURCE: Arrêté du 15 novembre 1978 - art. 1 (V)
+	  - TXT_SOURCE: Arrêté du 15 novembre 1978 - art. 10 (V)
+	  - TXT_SOURCE: Arrêté du 15 novembre 1978 - art. 11 (V)
+	  - TXT_SOURCE: Arrêté du 15 novembre 1978 - art. 12 (V)
+	  - TXT_SOURCE: Arrêté du 15 novembre 1978 - art. 2 (V)
+	  - TXT_SOURCE: Arrêté du 15 novembre 1978 - art. 3 (V)
+	  - TXT_SOURCE: Arrêté du 15 novembre 1978 - art. 4 (V)
+	  - TXT_SOURCE: Arrêté du 15 novembre 1978 - art. 5 (V)
+	  - TXT_SOURCE: Arrêté du 15 novembre 1978 - art. 6 (V)
+	  - TXT_SOURCE: Arrêté du 15 novembre 1978 - art. 7 (V)
+	  - TXT_SOURCE: Arrêté du 15 novembre 1978 - art. 8 (V)
+	  - TXT_SOURCE: Arrêté du 15 novembre 1978 - art. 9 (V)
+	  - TXT_SOURCE: Arrêté du 15 novembre 1978 - art. Annexe 1 (V)
+	  - TXT_SOURCE: Arrêté du 15 novembre 1978 - art. Annexe 2 (V)
+	  - TXT_SOURCE: Arrêté du 20 juillet 1977 - art. 1 (V)
+	  - TXT_SOURCE: Arrêté du 20 juillet 1977 - art. 2 (V)
+	  - TXT_SOURCE: Arrêté du 20 juillet 1977 - art. 3 (V)
+	  - TXT_SOURCE: Arrêté du 20 juillet 1977 - art. 4 (V)
+	  - TXT_SOURCE: Arrêté du 20 juillet 1977 - art. 5 (V)
+	  - TXT_SOURCE: Arrêté du 20 juillet 1977 - art. 6 (V)
+	  - TXT_SOURCE: Arrêté du 20 juillet 1977 - art. 7 (V)
+	  - TXT_SOURCE: Arrêté du 26 septembre 1973
+	  - TXT_SOURCE: Arrêté du 26 septembre 1973 - art. 1 (Ab)
+	  - TXT_SOURCE: Arrêté du 26 septembre 1973 - art. 2 (Ab)
+	  - TXT_SOURCE: Arrêté du 26 septembre 1973 - art. 3 (Ab)
+	  - TXT_SOURCE: Arrêté du 26 septembre 1973 - art. 4 (Ab)
+	  - TXT_SOURCE: Arrêté du 26 septembre 1973 - art. 5 (Ab)
+	  - TXT_SOURCE: Arrêté du 26 septembre 1973 - art. 6 (Ab)
+	  - TXT_SOURCE: Arrêté du 26 septembre 1973 - art. 7 (Ab)
+	  - TXT_SOURCE: Arrêté du 26 septembre 1973 - art. 8 (Ab)
+	  - TXT_SOURCE: Arrêté du 26 septembre 1973 - art. ANNEXE 2 (V)
+
+	**Codifié par**:
+
+	  - Décret n°77-372 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-372 1977-03-28 JORF ET JONC 5 AVRIL 1977
+
+	**Abrogé par**:
+
+	  - Loi n°84-53 1984-01-26 ART. 119 JORF 27 JANVIER 1984
+
+	**Cité par**:
+
+	  - CODE DES COMMUNES. - art. R*412-100 (Ab)
+	  - CODE DES COMMUNES. - art. R*412-105 (Ab)
+
+	**Anciens textes**:
+
+	  - Code de l'administration communale 503-1
+
+
+###### Article L412-12
+
+La nomination [*à tout emploi communal*] a un caractère conditionnel. La nomination peut être annulée au cours de la période
+de stage à l'issue de laquelle est prononcée la titularisation. En cas d'insuffisance professionnelle, les agents ainsi
+recrutés peuvent être licenciés au cours du stage [**]sanctions[**].
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Code de l'administration communale 505 al. 1
+
+	**Codifié par**:
+
+	  - Décret n°77-372 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-372 1977-03-28 JORF ET JONC 5 AVRIL 1977
+
+	**Abrogé par**:
+
+	  - Loi n°84-53 1984-01-26 ART. 119 JORF 27 JANVIER 1984
+
+	**Cité par**:
+
+	  - CODE DES COMMUNES. - art. R*415-7 (Ab)
+
+
+###### Article L412-13
+
+Le congé de maladie n'est pas compté [*calcul*] dans la durée du stage [*à l'issue duquel est prononcée la titularisation des
+agents communaux*].
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Code de l'administration communale 505 al. 2
+
+	**Codifié par**:
+
+	  - Décret n°77-372 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-372 1977-03-28 JORF ET JONC 5 AVRIL 1977
+
+	**Abrogé par**:
+
+	  - Loi n°84-53 1984-01-26 ART. 119 JORF 27 JANVIER 1984
+
+
+###### Article L412-14
+
+La période de stage [*à l'issue duquel est prononcé la titularisation des agents communaux*] entre en ligne de compte pour
+l'avancement et pour la retraite, après validation, conformément au règlement de la caisse nationale de retraites des agents
+des collectivités locales.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Code de l'administration communale 505 al. 3
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Ordonnance 45-993 1945-05-17
+	  - TXT_ASSOCIE: Décret n°47-1846 1947-09-19
+	  - TXT_ASSOCIE: Décret n°49-1416 1949-10-05
+	  - TXT_ASSOCIE: Décret n°65-773 1965-09-09
+
+	**Codifié par**:
+
+	  - Décret n°77-372 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-372 1977-03-28 JORF ET JONC 5 AVRIL 1977
+
+	**Abrogé par**:
+
+	  - Loi n°84-53 1984-01-26 ART. 119 JORF 27 JANVIER 1984
+
+
+###### Article L412-15
+
+L'agent qui a la qualité de titulaire dans un emploi communal et qui, en application de l'article suivant, n'est pas dispensé
+de stage, est placé en position de détachement pendant la durée de celui-ci.
+
+Il est réintégré dans l'emploi qu'il occupait précédemment lorsqu'il n'est pas titularisé en fin de stage.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Code de l'administration communale 505 al. 4
+
+	**Codifié par**:
+
+	  - Décret n°77-372 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-372 1977-03-28 JORF ET JONC 5 AVRIL 1977
+
+	**Abrogé par**:
+
+	  - Loi n°84-53 1984-01-26 ART. 119 JORF 27 JANVIER 1984
+
+
+###### Article L412-16
+
+Lorsqu'un agent titulaire est nommé au service d'une nouvelle collectivité, sa carrière se poursuit sans discontinuité.
+
+Si l'agent est nommé dans un emploi identique, il conserve le bénéfice de son grade, de son échelon et de son ancienneté ;
+dans les autres cas, il est dispensé du stage à condition qu'il ait occupé depuis deux ans au moins [*durée*] un emploi
+immédiatement inférieur et de même nature dans sa commune d'origine.
+
+Cette dispense de stage s'applique dans les mêmes conditions à l'agent qui est nommé dans un emploi supérieur et de même
+nature à l'intérieur de la même collectivité.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Code de l'administration communale 506
+
+	**Codifié par**:
+
+	  - Décret n°77-372 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-372 1977-03-28 JORF ET JONC 5 AVRIL 1977
+
+	**Abrogé par**:
+
+	  - Loi n°84-53 1984-01-26 ART. 119 JORF 27 JANVIER 1984
+
+
+##### Modalités de recrutement applicables à certains emplois.
+
+###### Article L412-17
+
+Par dérogation aux dispositions des articles L. 412-19 à L. 412-26, les emplois de secrétaire général, secrétaire général
+adjoint ou secrétaire de mairie, directeur général des services techniques et de direction de services autres
+qu'administratifs peuvent être pourvus par la voie du recrutement direct parmi les personnes justifiant des conditions de
+diplômes ou de capacité fixées par décision de l'autorité supérieure.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°77-372 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-372 1977-03-28 JORF et JONC 5 avril 1977
+
+	**Cite**:
+
+	  - CODE DES COMMUNES L412-19 à L412-26
+
+	**Cité par**:
+
+	  - CODE DES COMMUNES. - art. L412-25 (Ab)
+	  - CODE DES COMMUNES. - art. R412-13 (V)
+	  - CODE DES COMMUNES. - art. R412-4 (V)
+
+
+###### Article L412-18
+
+Les dispositions en vigueur au 14 juillet 1972 qui fixent, pour certains emplois, un mode spécial de nomination demeurent
+applicables.
+
+Le maire conserve la faculté de faire assermenter les agents nommés par lui, à condition qu'ils soient agréés par l'autorité
+supérieure.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°77-372 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-372 1977-03-28 JORF et JONC 5 avril 1977
+
+	**Cité par**:
+
+	  - CODE DES COMMUNES. - art. R412-14 (V)
+
+
+###### Article L412-19
+
+Les emplois des communes et de leurs établissements publics énumérés par des décisions de l'autorité supérieure, prises après
+avis de la commission nationale paritaire du personnel communal, sont organisés de manière que le recrutement et le
+déroulement de carrière des agents intéressés s'effectuent sur le plan intercommunal.
+
+Les mêmes décisions fixent, compte tenu de l'importance des communes et des fonctions exercées, les règles applicables au
+recrutement et à l'avancement des agents.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Arrêté 1958-11-03
+
+	**Codifié par**:
+
+	  - Décret n°77-372 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-372 1977-03-28 JORF et JONC 5 avril 1977
+
+	**Cité par**:
+
+	  - Arrêté du 20 mars 1974 - art. 2 (V)
+	  - CODE DES COMMUNES. - art. L412-29 (Ab)
+	  - CODE DES COMMUNES. - art. L412-31 (Ab)
+	  - CODE DES COMMUNES. - art. R412-15 (V)
+	  - CODE DES COMMUNES. - art. R412-26 (V)
+
+	**Anciens textes**:
+
+	  - Code de l'administration communale 504 AL. 1 et AL. 2 (partie)
+
+
+###### Article L412-20
+
+En ce qui concerne les emplois définis en application de l'article précédent et sous réserve des dispositions de l'article L.
+412-17 [*recrutement par voie directe*], les nominations aux emplois de début sont prononcées par le maire ou le président de
+l'établissement public intéressé parmi les candidats inscrits dans l'ordre alphabétique sur une liste d'aptitude
+départementale ou interdépartementale.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°77-372 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-372 1977-03-28 JORF ET JONC 5 AVRIL 1977
+
+	**Abrogé par**:
+
+	  - Loi n°84-53 1984-01-26 ART. 119 JORF 27 JANVIER 1984
+
+	**Cité par**:
+
+	  - Arrêté du 20 mars 1974 - art. 2 (V)
+	  - CODE DES COMMUNES. - art. L412-41 (Ab)
+	  - CODE DES COMMUNES. - art. L412-42 (Ab)
+	  - CODE DES COMMUNES. - art. L412-43 (Ab)
+
+	**Anciens textes**:
+
+	  - Code de l'administration communale 504 al. 3
+
+	**Cite**:
+
+	  - Code des communes L412-17 et L412-19
+
+
+###### Article L412-21
+
+Nul ne peut être inscrit [*interdiction*] sur une liste d'aptitude [*sur la base de laquelle sont prononcées les nominations
+aux emplois de début*] s'il n'a été recruté par la voie d'un concours organisé selon les modalités fixées à l'article L.
+412-32 [*par décret*], sauf le cas où il remplit les conditions pour qu'il puisse être procédé à son inscription au titre de
+la promotion sociale conformément à l'article L. 412-41 [*listes d'aptitude*].
+
+L'inscription sur les listes d'aptitude s'effectue selon les procédures prévues par les articles L. 412-22 à L. 412-26 et L.
+412-42.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°77-372 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-372 1977-03-28 JORF ET JONC 5 AVRIL 1977
+
+	**Abrogé par**:
+
+	  - Loi n°84-53 1984-01-26 ART. 119 JORF 27 JANVIER 1984
+
+	**Cité par**:
+
+	  - Arrêté du 20 mars 1974 - art. 2 (V)
+	  - CODE DES COMMUNES. - art. R412-16 (V)
+
+	**Cite**:
+
+	  - CODE DES COMMUNES. - art. L412-32 (Ab)
+	  - Code des communes L412-41 et L412-42
+
+	**Anciens textes**:
+
+	  - Code de l'administration communale 504 al. 4 et 5
+
+
+###### Article L412-22
+
+Sous réserve des dispositions de l'article L. 412-41 [*sur la promotion sociale*], l'établissement des listes d'aptitude
+[*sur la base desquelles sont prononcées les nominations aux emplois de début*] s'effectue conformément aux dispositions des
+articles suivants.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Code de l'administration communale 504-1 al. 1
+
+	**Codifié par**:
+
+	  - Décret n°77-372 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-372 1977-03-28 JORF ET JONC 5 AVRIL 1977
+
+	**Abrogé par**:
+
+	  - Loi n°84-53 1984-01-26 ART. 119 JORF 27 JANVIER 1984
+
+	**Cite**:
+
+	  - CODE DES COMMUNES. - art. L412-41 (Ab)
+	  - Code des communes L412-23 à L412-26
+
+
+###### Article L412-23
+
+Chaque liste d'aptitude [*sur la base de laquelle sont prononcées les nominations aux emplois de début*] est arrêtée
+annuellement [**]fréquence[**] par une commission départementale ou interdépartementale qui comprend, en nombre égal, des
+représentants des maires et des personnels de la catégorie intéressée.
+
+La commission, présidée par un maire, ne dispose d'aucun pouvoir d'appréciation.
+
+La commission enregistre, dans l'ordre alphabétique, les candidatures qui lui sont transmises, après avoir vérifié qu'elles
+remplissent les conditions requises par les lois et règlements en vigueur.
+
+Les décisions de la commission peuvent faire l'objet d'un recours devant le tribunal administratif.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Arrêté du 13 mars 1973 - art. 1 (V)
+	  - Arrêté du 9 janvier 1975 - art. 1 (V)
+	  - Arrêté du 9 janvier 1975 - art. 19 (V)
+	  - Arrêté du 25 février 1982 - art. 39 (V)
+	  - CODE DES COMMUNES. - art. L412-42 (Ab)
+	  - CODE DES COMMUNES. - art. R412-26 (V)
+	  - CODE DES COMMUNES. - art. R412-48 (Ab)
+
+	**Anciens textes**:
+
+	  - Code de l'administration communale 504-1 al. 2 (partie)
+
+	**Codifié par**:
+
+	  - Décret n°77-372 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-372 1977-03-28 JORF ET JONC 5 AVRIL 1977
+
+	**Abrogé par**:
+
+	  - Loi n°84-53 1984-01-26 ART. 119 JORF 27 JANVIER 1984
+
+
+###### Article L412-24
+
+L'agent est inscrit sur une ou plusieurs listes d'aptitude [*sur la base desquelles sont prononcées les nominations aux
+emplois de début*] départementales ou interdépartementales de son choix.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Arrêté du 13 mars 1973 - art. 1 (V)
+	  - Arrêté du 9 janvier 1975 - art. 1 (V)
+	  - Arrêté du 9 janvier 1975 - art. 19 (V)
+
+	**Anciens textes**:
+
+	  - Code de l'administration communale 504-1 al. 3
+
+	**Codifié par**:
+
+	  - Décret n°77-372 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-372 1977-03-28 JORF ET JONC 5 AVRIL 1977
+
+	**Abrogé par**:
+
+	  - Loi n°84-53 1984-01-26 ART. 119 JORF 27 JANVIER 1984
+
+
+###### Article L412-25
+
+Lorsqu'un emploi n'est pas pourvu par voie de mutation à grade égal, l'autorité investie du pouvoir de nomination ne peut
+recruter à cet emploi, sous réserve des dispositions de l'article L. 412-17 [*recrutement direct possible pour les emplois de
+secrétaire de mairie, de directeur général des services techniques et de direction de services autres qu'administratifs*],
+qu'un candidat inscrit sur la liste d'aptitude établie pour le ou les départements où s'exerce le recrutement.
+
+Cette obligation cesse lorsque la liste comporte moins de six candidats [*nombre*].
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Arrêté du 13 mars 1973 - art. 1 (V)
+	  - Arrêté du 9 janvier 1975 - art. 1 (V)
+	  - Arrêté du 9 janvier 1975 - art. 19 (V)
+
+	**Anciens textes**:
+
+	  - Code de l'administration communale 504-1 AL. 4
+
+	**Codifié par**:
+
+	  - Décret n°77-372 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-372 1977-03-28 JORF ET JONC 5 AVRIL 1977
+
+	**Abrogé par**:
+
+	  - Loi n°84-53 1984-01-26 ART. 119 JORF 27 JANVIER 1984
+
+	**Cite**:
+
+	  - CODE DES COMMUNES. - art. L412-17 (M)
+
+
+###### Article L412-26
+
+L'agent qui figure sur une liste d'aptitude [*sur la base de laquelle est prononcée la nomination à un emploi de début*] et
+refuse plus de trois nominations [*nombre*], est radié de la liste [*sanctions*].
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Code de l'administration communale 504-1 al. 5
+
+	**Codifié par**:
+
+	  - Décret n°77-372 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-372 1977-03-28 JORF ET JONC 5 AVRIL 1977
+
+	**Abrogé par**:
+
+	  - Loi n°84-53 1984-01-26 ART. 119 JORF 27 JANVIER 1984
+
+
+##### Bourse de l'emploi .
+
+###### Article L412-27
+
+Une bourse de l'emploi facilite la mobilité d'emploi du personnel communal.
+
+Les maires lui déclarent les vacances qui se produisent dans les emplois déterminés par une décision de l'autorité
+supérieure.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Arrêté 1973-12-19
+	  - TXT_SOURCE: Arrêté du 19 décembre 1973 - art. 1 (V)
+	  - TXT_SOURCE: Arrêté du 19 décembre 1973 - art. 2 (V)
+
+	**Anciens textes**:
+
+	  - Code de l'administration communale 507-1 (partie)
+
+	**Codifié par**:
+
+	  - Décret n°77-372 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-372 1977-03-28 JORF et JONC 5 avril 1977
+
+	**Abrogé par**:
+
+	  - Loi n°84-53 1984-01-26 ART. 119 JORF 27 JANVIER 1984
+
+	**Cité par**:
+
+	  - CODE DES COMMUNES. - art. R412-36 (Ab)
+
+
+##### Centre de formation des personnels communaux
+
+##### Rôle .
+
+###### Article L412-29
+
+Le centre de formation des personnels communaux organise les concours d'accès aux emplois communaux prévus à l'article L.
+412-19.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Code de l'administration communale 508-4 al. 1 phr. 2
+
+	**Codifié par**:
+
+	  - Décret n°77-372 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-372 1977-03-28 JORF ET JONC 5 AVRIL 1977
+
+	**Abrogé par**:
+
+	  - Loi n°84-53 1984-01-26 ART. 119 JORF 27 JANVIER 1984
+
+	**Cité par**:
+
+	  - Loi n°85-1221 du 22 novembre 1985 - art. 29 bis (V)
+	  - CODE DES COMMUNES. - art. L412-30 (Ab)
+	  - CODE DES COMMUNES. - art. R412-48 (Ab)
+
+	**Cite**:
+
+	  - CODE DES COMMUNES. - art. L412-19 (M)
+
+
+###### Article L412-30
+
+A la demande d'un maire ou d'un président d'établissement public communal ou intercommunal, les concours [*d'accès aux
+emplois communaux*] prévus à l'article précédent [*les concours d'accès aux emplois communaux*] sont organisés [*sur le plan
+local*] au niveau de la commune ou de l'établissement public intéressé.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°77-372 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-372 1977-03-28 JORF ET JONC 5 AVRIL 1977
+
+	**Abrogé par**:
+
+	  - Loi n°84-53 1984-01-26 ART. 119 JORF 27 JANVIER 1984
+
+	**Cite**:
+
+	  - CODE DES COMMUNES. - art. L412-29 (Ab)
+
+	**Anciens textes**:
+
+	  - Code de l'administration communale 508-4 al. 2
+
+
+###### Article L412-31
+
+Les communes ou les établissements publics communaux et intercommunaux peuvent, pour le recrutement à un emploi [*déterminé
+par décision de l'autorité supérieure*] prévu à l'article L. 412-19, décider d'organiser leur propre concours [*concours
+organisés sur le plan local*].
+
+Dans ce cas, le jury est présidé par le maire ou président du syndicat et il est composé d'un représentant du centre de
+formation des personnels communaux, chargé de s'assurer de la conformité des programmes et de la régularité des épreuves, et
+de membres choisis par le président sur une liste dressée, chaque année, pour son ressort, par le tribunal administratif.
+
+Le jury s'adjoint un représentant au moins de la catégorie du personnel communal pour le recrutement de laquelle le concours
+est organisé.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°77-372 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-372 1977-03-28 JORF ET JONC 5 AVRIL 1977
+
+	**Abrogé par**:
+
+	  - Loi n°84-53 1984-01-26 ART. 119 JORF 27 JANVIER 1984
+
+	**Cite**:
+
+	  - CODE DES COMMUNES. - art. L412-19 (M)
+
+	**Cité par**:
+
+	  - CODE DES COMMUNES. - art. R412-53 (Ab)
+	  - CODE DES COMMUNES. - art. R412-54 (Ab)
+
+	**Anciens textes**:
+
+	  - Code de l'administration communale 508-4 al. 3
+
+
+###### Article L412-32
+
+Les conditions générales d'organisation des concours prévus aux articles précédents sont fixées par décret.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Code de l'administration communale 508-4 al. 4
+
+	**Codifié par**:
+
+	  - Décret n°77-372 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-372 1977-03-28 JORF ET JONC 5 AVRIL 1977
+
+	**Abrogé par**:
+
+	  - Loi n°84-53 1984-01-26 ART. 119 JORF 27 JANVIER 1984
+
+	**Cité par**:
+
+	  - CODE DES COMMUNES. - art. L412-21 (Ab)
+
+	**Cite**:
+
+	  - Code des communes L412-29 à L412-31
+
+
+##### Budget.
+
+###### Article L412-39
+
+Le budget du centre de formation des personnels communaux est soumis à l'approbation de l'autorité supérieure.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Code de l'administration communale 508-8 (partie)
+
+	**Codifié par**:
+
+	  - Décret n°77-372 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-372 1977-03-28 JORF et JONC 5 avril 1977
+
+	**Abrogé par**:
+
+	  - Loi n°82-213 du 2 mars 1982 - art. 21 (V) JORF 3 mars 1982
+
+	**Cité par**:
+
+	  - CODE DES COMMUNES. - art. R412-76 (Ab)
+
+
+##### Promotion sociale .
+
+###### Article L412-41
+
+Au titre de la promotion sociale, une proportion des inscriptions effectuées sur les listes d'aptitude [*sur la base
+desquelles sont prononcées les nominations à des emplois de début*] prévues aux articles L. 412-20 et L. 412-22 est réservée
+aux agents soumis aux dispositions de ces articles, selon les modalités et dans les conditions fixées par arrêté du ministre
+de l'intérieur.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Décret n°73-293 1973-03-13
+	  - TXT_SOURCE: Arrêté du 13 mars 1973 - art. 1 (V)
+	  - TXT_SOURCE: Arrêté du 13 mars 1973 - art. 2 (V)
+	  - TXT_SOURCE: Arrêté du 13 mars 1973 - art. 3 (V)
+	  - TXT_SOURCE: Arrêté du 13 mars 1973 - art. 4 (V)
+	  - TXT_SOURCE: Arrêté du 13 mars 1973 - art. 5 (V)
+	  - TXT_SOURCE: Arrêté du 13 mars 1973 - art. 6 (V)
+	  - TXT_SOURCE: Arrêté du 13 mars 1973 - art. 7 (V)
+
+	**Cité par**:
+
+	  - Arrêté du 13 mars 1973 - art. 1 (V)
+	  - CODE DES COMMUNES. - art. L412-22 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°77-372 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-372 1977-03-28 JORF ET JONC 5 AVRIL 1977
+
+	**Abrogé par**:
+
+	  - Loi n°84-53 1984-01-26 ART. 119 JORF 27 JANVIER 1984
+
+	**Cite**:
+
+	  - CODE DES COMMUNES. - art. L412-20 (Ab)
+
+	**Anciens textes**:
+
+	  - Code de l'administration communale 508-1 al. 1
+
+
+###### Article L412-42
+
+Les listes d'aptitude [*sur la base desquelles sont prononcées les nominations à des emplois de début*] prévues à l'article
+L. 412-20 sont complétées, au titre de la promotion sociale, sur proposition des maires ou des présidents des établissements
+publics intéressés, par les commissions [*départementales ou interdépartementales*] instituées en application de l'article L.
+412-23, selon les modalités et dans les conditions fixées par arrêté du ministre de l'intérieur.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Arrêté du 19 avril 1973 - art. 1 (Ab)
+
+	**Cite**:
+
+	  - CODE DES COMMUNES. - art. L412-20 (Ab)
+	  - CODE DES COMMUNES. - art. L412-23 (Ab)
+
+	**Anciens textes**:
+
+	  - Code de l'administration communale 508-2
+
+	**Codifié par**:
+
+	  - Décret n°77-372 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-372 1977-03-28 JORF ET JONC 5 AVRIL 1977
+
+	**Abrogé par**:
+
+	  - Loi n°84-53 1984-01-26 ART. 119 JORF 27 JANVIER 1984
+
+
+###### Article L412-43
+
+Les inscriptions au titre de la promotion sociale ne donnent lieu à aucune mention particulière sur les listes d'aptitude
+[*sur la base desquelles sont prononcées les nominations à un emploi de début*] prévues à l'article L. 412-20.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CODE DES COMMUNES. - art. L412-20 (Ab)
+
+	**Anciens textes**:
+
+	  - Code de l'administration communale 508-3
+
+	**Codifié par**:
+
+	  - Décret n°77-372 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-372 1977-03-28 JORF ET JONC 5 AVRIL 1977
+
+	**Abrogé par**:
+
+	  - Loi n°84-53 1984-01-26 ART. 119 JORF 27 JANVIER 1984
+
+
+###### Article L412-44
+
+Pour les agents autres que ceux qui sont mentionnés aux articles L. 412-20 et L. 412-22 [*agents recrutés pour certains
+emplois*], la promotion sociale est assurée selon les modalités et dans les conditions fixées par décret pris après avis de
+la commission nationale paritaire du personnel communal [**]conditions de forme[**].
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Arrêté du 13 mars 1973 - art. 1 (V)
+	  - CODE DES COMMUNES. - art. R412-94 (V)
+
+	**Anciens textes**:
+
+	  - Code de l'administration communale 508-1 al. 2
+
+	**Codifié par**:
+
+	  - Décret n°77-372 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-372 1977-03-28 JORF ET JONC 5 AVRIL 1977
+
+	**Abrogé par**:
+
+	  - Loi n°84-53 1984-01-26 ART. 119 JORF 27 JANVIER 1984
+
+	**Cite**:
+
+	  - Code des communes L412-20 et L412-22
+
+
+##### Dispositions applicables à certains personnels
+
+##### Dispositions applicables aux gardes champêtres et agents de la police municipale.
+
+###### Article L412-47
+
+Les gardes champêtres sont agréés et commissionnés par l'autorité supérieure dans le délai d'un mois.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - SPEC_APPLI: *Dispositions applicables aux agents nommés dans des emplois permanents à temps non complet*
+	  - SPEC_APPLI: *Dispositions non applicables aux communes des départements de la Moselle, du Bas-Rhin et du Haut-Rhin (Alsace-Lorraine)*
+	  - SPEC_APPLI: Code des communes L441-1 :
+
+	**Codifié par**:
+
+	  - Décret n°77-372 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-372 1977-03-28 JORF et JONC 5 avril 1977
+
+	**Abrogé par**:
+
+	  - Loi n°82-213 du 2 mars 1982 - art. 21 (V) JORF 3 mars 1982
+
+	**Cité par**:
+
+	  - Code des communes - art. R*412-117 (VT)
+
+
+##### GARDES CHAMPETRES  ET AGENTS DE LA POLICE MUNICIPALE .
+
+###### Article L412-48
+
+Les gardes champêtres sont assermentés.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - SPEC_APPLI: *Dispositions applicables aux agents nommés dans des emplois permanents à temps non complet*
+	  - SPEC_APPLI: *Dispositions non applicables dans les départements de la Guadeloupe, de la Guyane, de la Martinique et de la Réunion*
+	  - SPEC_APPLI: Code des communes L421-2 :
+
+	**Cité par**:
+
+	  - CODE DES COMMUNES. - art. L441-1 (M)
+	  - CODE DES COMMUNES. - art. L442-1 (Ab)
+
+	**Anciens textes**:
+
+	  - Code de l'administration communale 591 phr. 4
+
+	**Codifié par**:
+
+	  - Décret n°77-372 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-372 1977-03-28 JORF ET JONC 5 AVRIL 1977
+
+
+###### Article L412-49
+
+Les agents de la police municipale nommés par le maire doivent être agréés par l'autorité supérieure.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - SPEC_APPLI: *Dispositions applicables aux agents nommés dans des emplois permanents à temps non complet*
+	  - SPEC_APPLI: *Dispositions non applicables aux communes des départements de la Moselle, du Bas-Rhin et du Haut-Rhin (Alsace-Lorraine)*
+	  - SPEC_APPLI: Code des communes L421-2 :
+
+	**Codifié par**:
+
+	  - Décret n°77-372 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-372 1977-03-28 JORF et JONC 5 avril 1977
+
+	**Cité par**:
+
+	  - Loi n°84-594 du 12 juillet 1984 - art. 11 (V)
+	  - Loi n°99-291 du 15 avril 1999 - art. 25 (V)
+	  - Décret n°2000-276 du 24 mars 2000 - art. 4 (VT)
+	  - CODE DES COMMUNES. - art. L131-15 (M)
+	  - CODE DES COMMUNES. - art. L412-54 (VT)
+	  - CODE DES COMMUNES. - art. L412-55 (V)
+	  - Code des communes - art. R*412-118 (VT)
+
+	**Cite**:
+
+	  - Code pénal 20 et 21
+
+
+##### Dispositions applicables aux personnels des écoles d'art et musées.
+
+###### Article L412-51
+
+La nomination des directeurs et des professeurs des écoles d'art régies par l'autorité municipale et subventionnées par
+l'Etat est soumise à l'agrément de l'autorité supérieure.
+
+Un règlement d'administration publique fixe les conditions dans lesquelles sont faites ces nominations.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°77-372 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-372 1977-03-28 JORF et JONC 5 avril 1977
+
+	**Abrogé par**:
+
+	  - Loi n°82-213 du 2 mars 1982 - art. 21 (V) JORF 3 mars 1982
+
+	**Cité par**:
+
+	  - Décret n°95-589 du 6 mai 1995 - art. 95-2 (VT)
+	  - Loi n°99-291 du 15 avril 1999 - art. 23 (V)
+	  - Décret n°2008-993 du 22 septembre 2008 (V)
+	  - Arrêté du 10 octobre 2008 (V)
+	  - Arrêté du 26 mai 2010 (V)
+	  - Décret n°2010-544 du 26 mai 2010 (V)
+	  - Arrêté du 20 août 2010 (V)
+	  - Décret n°2011-1467 du 9 novembre 2011 - art. 3 (VD)
+	  - Décret n°2013-550 du 26 juin 2013 (V)
+	  - Décret n°2013-723 du 12 août 2013 (V)
+	  - Arrêté du 30 août 2013 (V)
+	  - Arrêté du 2 septembre 2013 (V)
+	  - CODE DES COMMUNES. - art. R*412-123 (V)
+	  - Code de la défense. - art. R2335-3 (VD)
+	  - Code général des collectivités territoriales - art. L2212-10 (VT)
+
+	**Liens**:
+
+	  - TXT_SOURCE: Décret n°2000-276 du 24 mars 2000
+	  - TXT_SOURCE: Décret n°2000-276 du 24 mars 2000 - art. 1 (V)
+	  - TXT_SOURCE: Décret n°2000-276 du 24 mars 2000 - art. 10 (V)
+	  - TXT_SOURCE: Décret n°2000-276 du 24 mars 2000 - art. 11 (VT)
+	  - TXT_SOURCE: Décret n°2000-276 du 24 mars 2000 - art. 12 (VT)
+	  - TXT_SOURCE: Décret n°2000-276 du 24 mars 2000 - art. 13 (V)
+	  - TXT_SOURCE: Décret n°2000-276 du 24 mars 2000 - art. 2 (V)
+	  - TXT_SOURCE: Décret n°2000-276 du 24 mars 2000 - art. 2-1 (VT)
+	  - TXT_SOURCE: Décret n°2000-276 du 24 mars 2000 - art. 3 (VT)
+	  - TXT_SOURCE: Décret n°2000-276 du 24 mars 2000 - art. 4 (V)
+	  - TXT_SOURCE: Décret n°2000-276 du 24 mars 2000 - art. 5 (V)
+	  - TXT_SOURCE: Décret n°2000-276 du 24 mars 2000 - art. 5-1 (V)
+	  - TXT_SOURCE: Décret n°2000-276 du 24 mars 2000 - art. 6 (VT)
+	  - TXT_SOURCE: Décret n°2000-276 du 24 mars 2000 - art. 7 (V)
+	  - TXT_SOURCE: Décret n°2000-276 du 24 mars 2000 - art. 8 (VT)
+	  - TXT_SOURCE: Décret n°2000-276 du 24 mars 2000 - art. 9 (VT)
+	  - TXT_SOURCE: Décret n°2004-687 du 6 juillet 2004
+	  - TXT_SOURCE: Décret n°2004-687 du 6 juillet 2004 - art. 1 (V)
+
+	**Anciens textes**:
+
+	  - Décret-loi 1935-10-30 ART. 1 (partie)
+
+
+###### Article L412-52
+
+Conformément au premier alinéa de l'article 10 de l'ordonnance n° 45-1546 du 13 juillet 1945, les conservateurs des musées
+classés [*statut*], ainsi que le conservateur du musée du Palais des Arts à Lyon et son assistant, sont fonctionnaires de
+l'Etat.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Ordonnance 45-1546 1945-07-13 art. 10 al. 1
+
+	**Codifié par**:
+
+	  - Décret n°77-372 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-372 1977-03-28 JORF ET JONC 5 AVRIL 1977
+
+	**Abrogé par**:
+
+	  - Loi n°84-53 1984-01-26 ART. 119 JORF 27 JANVIER 1984
+
+	**Cité par**:
+
+	  - Loi n°99-291 du 15 avril 1999 - art. 24 (V)
+
+	**Liens**:
+
+	  - TXT_SOURCE: Décret n°2004-102 du 30 janvier 2004
+	  - TXT_SOURCE: Décret n°2004-102 du 30 janvier 2004 - art. 1 (VT)
+	  - TXT_SOURCE: Décret n°2004-102 du 30 janvier 2004 - art. 2 (VT)
+	  - TXT_SOURCE: Décret n°2004-102 du 30 janvier 2004 - art. 3 (VT)
+	  - TXT_SOURCE: Décret n°2004-102 du 30 janvier 2004 - art. 4 (VT)
+	  - TXT_SOURCE: Décret n°2004-102 du 30 janvier 2004 - art. 5 (VT)
+	  - TXT_SOURCE: Décret n°2004-102 du 30 janvier 2004 - art. 6 (VT)
+	  - TXT_SOURCE: Décret n°2004-102 du 30 janvier 2004 - art. 7 (VT)
+	  - TXT_SOURCE: Décret n°2004-102 du 30 janvier 2004 - art. ANNEXE 1 (VT)
+	  - TXT_SOURCE: Décret n°2004-102 du 30 janvier 2004 - art. ANNEXE 10 (VT)
+	  - TXT_SOURCE: Décret n°2004-102 du 30 janvier 2004 - art. ANNEXE 11 (M)
+	  - TXT_SOURCE: Décret n°2004-102 du 30 janvier 2004 - art. ANNEXE 12 (M)
+	  - TXT_SOURCE: Décret n°2004-102 du 30 janvier 2004 - art. ANNEXE 2 (M)
+	  - TXT_SOURCE: Décret n°2004-102 du 30 janvier 2004 - art. ANNEXE 3 (M)
+	  - TXT_SOURCE: Décret n°2004-102 du 30 janvier 2004 - art. ANNEXE 4 (VT)
+	  - TXT_SOURCE: Décret n°2004-102 du 30 janvier 2004 - art. ANNEXE 5 (VT)
+	  - TXT_SOURCE: Décret n°2004-102 du 30 janvier 2004 - art. ANNEXE 6 (VT)
+	  - TXT_SOURCE: Décret n°2004-102 du 30 janvier 2004 - art. ANNEXE 7 (VT)
+	  - TXT_SOURCE: Décret n°2004-102 du 30 janvier 2004 - art. ANNEXE 8 (VT)
+	  - TXT_SOURCE: Décret n°2004-102 du 30 janvier 2004 - art. ANNEXE 9 (VT)
+
+
+###### Article L412-53
+
+Conformément au troisième alinéa de l'article 10 de l'ordonnance n° 45-1546 du 13 juillet 1945, le recrutement et la
+nomination du personnel scientifique des musées classés et des musées contrôlés qui n'a pas la qualité de fonctionnaire de
+l'Etat, sont soumis aux mêmes règles que ceux des conservateurs des musées classés.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Ordonnance 45-1546 1945-07-13 art. 10 al. 3
+
+	**Codifié par**:
+
+	  - Décret n°77-372 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-372 1977-03-28 JORF ET JONC 5 AVRIL 1977
+
+	**Abrogé par**:
+
+	  - Loi n°84-53 1984-01-26 ART. 119 JORF 27 JANVIER 1984
+
+
+#### RECRUTEMENT .
+
+###### Article L412-2
+
+Le conseil municipal ou le comité du syndicat de communes pour le personnel communal fixe, par délibérations soumises à
+l'approbation de l'autorité supérieure, les conditions de recrutement pour l'accès à ceux des emplois pour lesquels ces
+conditions n'ont pas été déterminées par une réglementation particulière.
+
+Les pouvoirs ainsi conférés au conseil municipal ou au comité du syndicat s'exercent dans le cadre des dispositions prévues
+en application du présent chapitre.
+
+Le maire a la faculté de déterminer par arrêté les modalités d'application des décisions prises en exécution du premier
+alinéa.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Code de l'administration communale 501 AL. 1 (partie), AL. 2 et AL. 3
+
+	**Codifié par**:
+
+	  - Décret n°77-372 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-372 1977-03-28 JORF et JONC 5 avril 1977
+
+	**Cité par**:
+
+	  - Décret n°85-643 du 26 juin 1985 - art. 107 (Ab)
+	  - Décret n°85-643 du 26 juin 1985 - art. 107-1 (Ab)
+	  - Décret n°86-68 du 13 janvier 1986 - art. 11-4 (V)
+	  - Décret n°86-68 du 13 janvier 1986 - art. 26-3 (V)
+	  - Décret n°86-417 du 13 mars 1986 - art. 36 (Ab)
+	  - Décret n°86-479 du 15 mars 1986 - art. 45 (Ab)
+	  - Décret n°87-1097 du 30 décembre 1987 - art. 27 (VT)
+	  - Décret n°87-1099 du 30 décembre 1987 - art. 33 (Ab)
+	  - Décret n°87-1099 du 30 décembre 1987 - art. 33-1 (Ab)
+	  - Décret n°87-1099 du 30 décembre 1987 - art. 33-2 (Ab)
+	  - Décret n°87-1105 du 30 décembre 1987 - art. 28 (V)
+	  - Décret n°87-1109 du 30 décembre 1987 - art. 17 (Ab)
+	  - Décret n°87-1111 du 30 décembre 1987 - art. 14 (V)
+	  - Décret n°88-549 du 6 mai 1988 - art. 29 (V)
+	  - Décret n°90-126 du 9 février 1990 - art. 32 (Ab)
+	  - Décret n°90-126 du 9 février 1990 - art. 33 (Ab)
+	  - Décret n°90-126 du 9 février 1990 - art. 34 (Ab)
+	  - Décret n°90-126 du 9 février 1990 - art. 36 (Ab)
+	  - Décret n°91-298 du 20 mars 1991 - art. 6 (V)
+	  - Décret n°91-839 du 2 septembre 1991 - art. 32 (Ab)
+	  - Décret n°91-839 du 2 septembre 1991 - art. 33 (Ab)
+	  - Décret n°91-839 du 2 septembre 1991 - art. 34 (Ab)
+	  - Décret n°91-841 du 2 septembre 1991 - art. 29 (VT)
+	  - Décret n°91-841 du 2 septembre 1991 - art. 30 (VT)
+	  - Décret n°91-841 du 2 septembre 1991 - art. 31 (VT)
+	  - Décret n°91-843 du 2 septembre 1991 - art. 28 (Ab)
+	  - Décret n°91-843 du 2 septembre 1991 - art. 29 (Ab)
+	  - Décret n°91-845 du 2 septembre 1991 - art. 28 (Ab)
+	  - Décret n°91-845 du 2 septembre 1991 - art. 29 (Ab)
+	  - Décret n°91-847 du 2 septembre 1991 - art. 24 (VT)
+	  - Décret n°91-849 du 2 septembre 1991 - art. 25 (V)
+	  - Décret n°91-851 du 2 septembre 1991 - art. 23 (V)
+	  - Décret n°91-853 du 2 septembre 1991 - art. 20 (Ab)
+	  - Décret n°91-854 du 2 septembre 1991 - art. 18 (Ab)
+	  - Décret n°91-857 du 2 septembre 1991 - art. 28 (V)
+	  - Décret n°91-859 du 2 septembre 1991 - art. 25 (Ab)
+	  - Décret n°91-861 du 2 septembre 1991 - art. 21 (Ab)
+	  - Décret n°92-363 du 1 avril 1992 - art. 27 (Ab)
+	  - Décret n°92-364 du 1 avril 1992 - art. 27 (VT)
+	  - Décret n°92-368 du 1 avril 1992 - art. 20 (Ab)
+	  - Décret n°92-843 du 28 août 1992 - art. 22 (Ab)
+	  - Décret n°92-845 du 28 août 1992 - art. 23 (Ab)
+	  - Décret n°92-847 du 28 août 1992 - art. 19 (Ab)
+	  - Décret n°92-849 du 28 août 1992 - art. 13 (Ab)
+	  - Décret n°92-867 du 28 août 1992 - art. 20 (VT)
+	  - Décret n°92-867 du 28 août 1992 - art. 21 (VT)
+	  - Décret n°92-867 du 28 août 1992 - art. 22 (VT)
+	  - Décret n°92-867 du 28 août 1992 - art. 23 (VT)
+	  - Décret n°92-874 du 28 août 1992 - art. 27 (Ab)
+	  - Décret n°94-732 du 24 août 1994 - art. 17 bis (Ab)
+	  - Décret n°97-701 du 31 mai 1997 - art. 26 (VT)
+	  - Décret n°2000-43 du 20 janvier 2000 - art. 25 (VT)
+	  - Décret n°2006-1392 du 17 novembre 2006 - art. 27 (VT)
+	  - Décret n°2009-414 du 15 avril 2009 - art. 1 (V)
+	  - Arrêté du 1 octobre 1973 - art. 1 (V)
+	  - Arrêté du 1 octobre 1973 - art. 2 (V)
+	  - CODE DES COMMUNES. - art. R*412-1 (V)
+
+	**Cite**:
+
+	  - Code des communes L412-1 à L412-53
+
+
+#### CENTRE DE FORMATION DES PERSONNELS COMMUNAUX
+
+##### LE  BUDGET .
+
+###### Article L412-38
+
+Les cotisations obligatoires des communes et de leurs établissements publics, prévues à l'article précédent, sont calculées
+sur la masse des rémunérations du personnel permanent de ces collectivités telles qu'elles apparaissent aux comptes
+administratifs de l'avant-dernier exercice.
+
+Le pourcentage à appliquer à cette masse est fixé par délibération du conseil d'administration, approuvée par l'autorité
+supérieure.
+
+Les cotisations des collectivités affiliées aux syndicats de communes pour le personnel sont perçues par l'intermédiaire de
+ces syndicats.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Code de l'administration communale 508-7 AL. 1 (partie)
+
+	**Codifié par**:
+
+	  - Décret n°77-372 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-372 1977-03-28 JORF et JONC 5 avril 1977
+
+	**Cite**:
+
+	  - CODE DES COMMUNES. - art. L412-37 (Ab)
+
+	**Cité par**:
+
+	  - CODE DES COMMUNES. - art. R*412-74 (Ab)
+	  - CODE DES COMMUNES. - art. R412-78 (Ab)
+
+
+##### LE  PERSONNEL .
+
+###### Article L412-40
+
+Le directeur et le directeur adjoint du centre de formation des personnels communaux sont nommés par le président, après avis
+du conseil d'administration et avec l'agrément de l'autorité supérieure.
+
+Les autres personnels permanents du centre bénéficient du statut du personnel communal.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Code de l'administration communale 508-9 (partie)
+
+	**Codifié par**:
+
+	  - Décret n°77-372 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-372 1977-03-28 JORF et JONC 5 avril 1977
+
+	**Cité par**:
+
+	  - Loi n°84-53 du 26 janvier 1984 - art. 119 (V)
+	  - Loi n°85-1221 du 22 novembre 1985 - art. 29 (V)
+	  - CODE DES COMMUNES. - art. R412-88 (Ab)
+
+
+#### Rémunération et effectifs .
+
+###### Article L413-1
+
+La rémunération des agents communaux    comprend le traitement, l'indemnité de résidence, le supplément familial de
+traitement, les prestations familiales obligatoires ainsi que toutes autres indemnités instituées par un texte législatif ou
+réglementaire et ayant le caractère de complément de traitement.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Arrêté 1951-11-22 modifié
+	  - TXT_ASSOCIE: Arrêté 1968-05-28 modifié
+	  - TXT_ASSOCIE: Arrêté 1968-11-27 modifié
+	  - TXT_ASSOCIE: Décret n°1954-11-08
+	  - TXT_ASSOCIE: Décret n°1955-06-30
+	  - TXT_ASSOCIE: Décret n°1956-03-17
+
+	**Cité par**:
+
+	  - CODE DES COMMUNES. - art. L421-5 (Ab)
+	  - Décret n°82-573 du 2 juillet 1982 - art. 3 (Ab)
+
+	**Anciens textes**:
+
+	  - Code de l'administration communale 509
+
+	**Codifié par**:
+
+	  - Décret n°77-372 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-372 1977-03-28 JORF ET JONC 5 AVRIL 1977
+
+	**Abrogé par**:
+
+	  - Loi n°84-53 1984-01-26 ART. 119 JORF 27 JANVIER 1984
+
+
+###### Article L413-2
+
+Les dispositions relatives à la valeur du traitement correspondant à l'indice de base des fonctionnaires de l'Etat, de
+l'indemnité de résidence, des prestations familiales, du supplément familial de traitement, ainsi que de toutes autres
+indemnités instituées par un texte législatif ou réglementaire et ayant le caractère de complément de traitement sont
+applicables de plein droit aux agents communaux.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Arrêté  1978-08-03 (J.O. 6 septembre 1978) classement indiciaire des adjoints d'enseignement musical municipaux
+
+	**Cité par**:
+
+	  - Arrêté du 8 février 1971 - art. 2 (V)
+	  - CODE DES COMMUNES. - art. L421-6 (Ab)
+
+	**Anciens textes**:
+
+	  - Code de l'administration communale 510 al. 1
+
+	**Codifié par**:
+
+	  - Décret n°77-372 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-372 1977-03-28 JORF ET JONC 5 AVRIL 1977
+
+	**Abrogé par**:
+
+	  - Loi n°84-53 1984-01-26 ART. 119 JORF 27 JANVIER 1984
+
+
+###### Article L413-4
+
+L'échelon le plus bas de la première catégorie des emplois communaux doit comporter un traitement net qui ne peut être
+inférieur à 120 p. 100 [*pourcentage*] du salaire minimum vital.
+
+En aucun cas, la rémunération totale de l'agent célibataire débutant, titulaire et employé à temps complet, ne peut être
+inférieure au salaire minimum interprofessionnel de croissance.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Code de l'administration communale 511
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Décret n°1955-04-02
+	  - TXT_ASSOCIE: Décret n°1956-03-17
+
+	**Codifié par**:
+
+	  - Décret n°77-372 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-372 1977-03-28 JORF ET JONC 5 AVRIL 1977
+
+	**Abrogé par**:
+
+	  - Loi n°84-53 1984-01-26 ART. 119 JORF 27 JANVIER 1984
+
+
+###### Article L413-6
+
+Des avantages accessoires peuvent être accordés, à titre exceptionnel, notamment pour travaux pénibles ou insalubres.
+
+Des primes de rendement ou des indemnités pour travaux supplémentaires peuvent également être attribuées à des agents du
+personnel communal.
+
+Ces avantages et ces primes sont déterminés selon la procédure suivie pour les échelles de traitements et salaires.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - TXT_SOURCE: Arrêté du 14 mars 1964 - art. 1 (V)
+	  - TXT_SOURCE: Arrêté du 14 mars 1964 - art. 2 (V)
+	  - TXT_SOURCE: Arrêté du 14 mars 1964 - art. 3 (V)
+	  - TXT_SOURCE: Arrêté du 14 mars 1964 - art. 4 (V)
+	  - TXT_SOURCE: Arrêté du 15 septembre 1978 - art. 1 (V)
+	  - TXT_SOURCE: Arrêté du 15 septembre 1978 - art. 2 (V)
+	  - TXT_SOURCE: Arrêté du 15 septembre 1978 - art. 3 (V)
+	  - TXT_SOURCE: Arrêté du 15 septembre 1978 - art. 4 (V)
+	  - TXT_SOURCE: Arrêté du 10 juin 1980 - art. 1 (V)
+	  - TXT_SOURCE: Arrêté du 10 juin 1980 - art. 2 (V)
+	  - TXT_SOURCE: Arrêté du 10 juin 1980 - art. 3 (V)
+	  - TXT_SOURCE: Arrêté du 10 juin 1980 - art. 4 (V)
+	  - TXT_SOURCE: Arrêté du 9 juin 1980
+	  - TXT_SOURCE: Arrêté du 9 juin 1980 - art. 1 (V)
+	  - TXT_SOURCE: Arrêté du 9 juin 1980 - art. 10 (V)
+	  - TXT_SOURCE: Arrêté du 9 juin 1980 - art. 11 (V)
+	  - TXT_SOURCE: Arrêté du 9 juin 1980 - art. 12 (V)
+	  - TXT_SOURCE: Arrêté du 9 juin 1980 - art. 13 (V)
+	  - TXT_SOURCE: Arrêté du 9 juin 1980 - art. 14 (V)
+	  - TXT_SOURCE: Arrêté du 9 juin 1980 - art. 15 (V)
+	  - TXT_SOURCE: Arrêté du 9 juin 1980 - art. 16 (V)
+	  - TXT_SOURCE: Arrêté du 9 juin 1980 - art. 17 (V)
+	  - TXT_SOURCE: Arrêté du 9 juin 1980 - art. 18 (V)
+	  - TXT_SOURCE: Arrêté du 9 juin 1980 - art. 19 (V)
+	  - TXT_SOURCE: Arrêté du 9 juin 1980 - art. 2 (V)
+	  - TXT_SOURCE: Arrêté du 9 juin 1980 - art. 3 (V)
+	  - TXT_SOURCE: Arrêté du 9 juin 1980 - art. 4 (V)
+	  - TXT_SOURCE: Arrêté du 9 juin 1980 - art. 5 (V)
+	  - TXT_SOURCE: Arrêté du 9 juin 1980 - art. 6 (V)
+	  - TXT_SOURCE: Arrêté du 9 juin 1980 - art. 7 (V)
+	  - TXT_SOURCE: Arrêté du 9 juin 1980 - art. 8 (V)
+	  - TXT_SOURCE: Arrêté du 9 juin 1980 - art. 9 (V)
+	  - TXT_SOURCE: Arrêté du 9 juin 1980 - art. Annexe 1 (V)
+	  - TXT_SOURCE: Arrêté du 9 juin 1980 - art. Annexe 2 (V)
+	  - TXT_SOURCE: Arrêté du 8 juin 1982
+	  - TXT_SOURCE: Arrêté du 8 juin 1982 - art. 1 (V)
+	  - TXT_SOURCE: Arrêté du 8 juin 1982 - art. 2 (V)
+
+	**Codifié par**:
+
+	  - Décret n°77-372 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-372 1977-03-28 JORF ET JONC 5 AVRIL 1977
+
+	**Anciens textes**:
+
+	  - Code de l'administration communale 513
+
+	**Abrogé par**:
+
+	  - Loi n°84-53 1984-01-26 ART. 119 JORF 27 JANVIER 1984
+
+
+###### Article L413-7
+
+Les rémunérations allouées par les communes à leurs agents ne peuvent en aucun cas dépasser celles que l'Etat attribue à ses
+fonctionnaires remplissant des fonctions équivalentes.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - SPEC_APPLI: *Dispositions applicables aux agents nommés dans des emplois permanents à temps non complet et aux agents non titulaires*
+	  - SPEC_APPLI: CODE DES COMMUNES. - art. L421-2 (M)
+	  - SPEC_APPLI: Code des communes L421-2, L422-1 :
+
+	**Anciens textes**:
+
+	  - Code de l'administration communale 514
+
+	**Codifié par**:
+
+	  - Décret n°77-372 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-372 1977-03-28 JORF ET JONC 5 AVRIL 1977
+
+	**Cité par**:
+
+	  - Décret n°82-573 du 2 juillet 1982 - art. 3 (Ab)
+	  - CODE DES COMMUNES. - art. L421-2 (Ab)
+	  - CODE DES COMMUNES. - art. L422-1 (Ab)
+
+	**Abrogé par**:
+
+	  - Loi n°84-53 1984-01-26 ART. 119 JORF 27 JANVIER 1984
+
+	**Cite**:
+
+	  - CODE DES COMMUNES. - art. L322-4 (Ab)
+
+
+###### Article L413-8
+
+Un arrêté ministériel, pris après avis de la commission nationale paritaire du personnel communal, établit à titre indicatif
+un tableau type des emplois communaux en tenant compte de l'importance respective des communes.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°52-432 1952-04-28 ART. 22 AL. 2
+
+	**Codifié par**:
+
+	  - Décret n°77-372 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-372 1977-03-28 JORF et JONC 5 avril 1977
+
+	**Abrogé par**:
+
+	  - Loi n°84-53 1984-01-26 ART. 119 JORF 27 JANVIER 1984
+
+	**Cité par**:
+
+	  - CODE DES COMMUNES. - art. L413-9 (Ab)
+	  - CODE DES COMMUNES. - art. R413-2 (V)
+
+
+###### Article L413-9
+
+Dans les limites fixées par la décision prévue à l'article précédent [*un tableau type des emplois communaux*], le conseil
+municipal [**]attributions[**] détermine, par délibération, les effectifs des différents emplois communaux.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°52-432 1952-04-28 art. 22 al. 3 (partie) modifié
+
+	**Codifié par**:
+
+	  - Décret n°77-372 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-372 1977-03-28 JORF ET JONC 5 AVRIL 1977
+
+	**Abrogé par**:
+
+	  - Loi n°84-53 1984-01-26 ART. 119 JORF 27 JANVIER 1984
+
+	**Cite**:
+
+	  - CODE DES COMMUNES. - art. L413-8 (Ab)
+
+
+#### REMUNERATIONS ET EFFECTIFS .
+
+###### Article L413-3
+
+Tout agent titulaire d'un emploi communal qui est doté d'une échelle indiciaire fixée par décision de l'autorité supérieure,
+prise après avis de la commission nationale paritaire du personnel communal, bénéficie de cette échelle.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Arrêté 1978-08-03
+	  - TXT_SOURCE: Arrêté du 25 mai 1970
+	  - TXT_SOURCE: Arrêté du 25 mai 1970 - art. 1 (V)
+	  - TXT_SOURCE: Arrêté du 25 mai 1970 - art. 2 (V)
+	  - TXT_SOURCE: Arrêté du 25 mai 1970 - art. 3 (V)
+	  - TXT_SOURCE: Arrêté du 25 mai 1970 - art. 4 (V)
+	  - TXT_SOURCE: Arrêté du 25 mai 1970 - art. 5 (V)
+	  - TXT_SOURCE: Arrêté du 25 mai 1970 - art. 6 (V)
+	  - TXT_SOURCE: Arrêté du 25 mai 1970 - art. 7 (V)
+	  - TXT_SOURCE: Arrêté du 25 mai 1970 - art. 8 (V)
+	  - TXT_SOURCE: Arrêté du 25 mai 1970 - art. 9 (V)
+	  - TXT_SOURCE: Arrêté du 25 mai 1970 - art. Tableau annexe 1 (V)
+	  - TXT_SOURCE: Arrêté du 25 mai 1970 - art. Tableau annexe 2 (V)
+	  - TXT_SOURCE: Arrêté du 25 mai 1970 - art. Tableau annexe 3 (M)
+	  - TXT_SOURCE: Arrêté du 25 mai 1970 - art. Tableau annexe 3 (V)
+
+	**Cité par**:
+
+	  - Arrêté du 8 février 1971 - art. 2 (V)
+	  - CODE DES COMMUNES. - art. L121-38 (Ab)
+	  - CODE DES COMMUNES. - art. L413-10 (Ab)
+	  - CODE DES COMMUNES. - art. R*413-1 (V)
+
+	**Codifié par**:
+
+	  - Décret n°77-372 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-372 1977-03-28 JORF et JONC 5 avril 1977
+
+	**Anciens textes**:
+
+	  - Code de l'administration communale 510 AL. 2 (partie)
+
+
+###### Article L413-5
+
+Le supplément familial de traitement fait l'objet d'une compensation dans les conditions prévues aux articles L. 417-3 à L.
+417-7.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Code de l'administration communale 512
+
+	**Codifié par**:
+
+	  - Décret n°77-372 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-372 1977-03-28 JORF et JONC 5 avril 1977
+
+	**Cité par**:
+
+	  - Loi n°84-53 du 26 janvier 1984 - art. 119 (V)
+	  - Loi n°2015-1785 du 29 décembre 2015 - art. 146 (V)
+
+	**Cite**:
+
+	  - Code des communes L417-3 à L417-7
+
+
+###### Article L413-10
+
+Le conseil municipal [*attributions*] détermine, par délibération, les échelles de traitement des catégories de personnel
+autres que celles qui sont prévues à l'article L. 413-3 [*agents titulaires*].
+
+Cette délibération est soumise à approbation dans les conditions prévues aux articles L. 121-38 et L. 121-39 [*approbation
+par le préfet, sauf les cas où l'approbation d'une autre autorité est prévue par les lois ou les règlements*].
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°52-432 1952-04-28 art. 22 al. 3 (partie) modifié
+
+	**Codifié par**:
+
+	  - Décret n°77-372 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-372 1977-03-28 JORF ET JONC 5 AVRIL 1977
+
+	**Cite**:
+
+	  - Code des communes L121-38 et L121-39
+
+
+#### Notation, avancement et discipline
+
+##### Notation .
+
+###### Article L414-1
+
+Il est attribué chaque année [**]fréquence[**] à tout agent en activité une note chiffrée accompagnée d'une appréciation
+écrite qui exprime sa valeur professionnelle.
+
+Le maire [*attributions*] note les agents après avis du chef de service et du secrétaire général [**]conditions de forme[**].
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Code de l'administration communale 515 AL. 1 et 2
+
+	**Codifié par**:
+
+	  - Décret n°77-372 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-372 1977-03-28 JORF ET JONC 5 AVRIL 1977
+
+	**Abrogé par**:
+
+	  - Loi n°84-53 1984-01-26 ART. 119 JORF 27 JANVIER 1984
+
+	**Cité par**:
+
+	  - CODE DES COMMUNES. - art. R414-1 (V)
+
+
+###### Article L414-2
+
+Les notes chiffrées [*attribuées chaque année à tous les agents en activité*] sont obligatoirement portées à la connaissance
+des intéressés et de la commission paritaire communale ou intercommunale compétente.
+
+La commission paritaire peut, à la requête de l'intéressé [**]recours[**], proposer au maire la révision de la note
+attribuée. Dans ce cas, communication est faite à la commission de tous les éléments d'information utiles [*dossier*].
+
+Toutefois, les notes ne peuvent être communiquées aux agents des catégories inférieures à celles de l'intéressé.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Code de l'administration communale 515 AL. 3 et 4
+
+	**Codifié par**:
+
+	  - Décret n°77-372 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-372 1977-03-28 JORF ET JONC 5 AVRIL 1977
+
+	**Abrogé par**:
+
+	  - Loi n°84-53 1984-01-26 ART. 119 JORF 27 JANVIER 1984
+
+
+###### Article L414-3
+
+La commission nationale paritaire du personnel communal détermine les éléments dont il est tenu compte pour l'établissement
+des notes [*attribuées chaque année à tout agent en activité*].
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Code de l'administration communale 515 AL. 5
+
+	**Codifié par**:
+
+	  - Décret n°77-372 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-372 1977-03-28 JORF ET JONC 5 AVRIL 1977
+
+	**Abrogé par**:
+
+	  - Loi n°84-53 1984-01-26 ART. 119 JORF 27 JANVIER 1984
+
+
+###### Article L414-4
+
+La commission paritaire intercommunale procède, dans chaque département, à une péréquation générale des notes.
+
+Un représentant du maire et un représentant du personnel désignés par chaque commission paritaire communale participent avec
+voix délibérative aux travaux de péréquation.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Code de l'administration communale 517 AL. 1 remplacé et AL. 2
+
+	**Codifié par**:
+
+	  - Décret n°77-372 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-372 1977-03-28 JORF ET JONC 5 AVRIL 1977
+
+	**Abrogé par**:
+
+	  - Loi n°84-53 1984-01-26 ART. 119 JORF 27 JANVIER 1984
+
+	**Cité par**:
+
+	  - CODE DES COMMUNES. - art. L414-7 (Ab)
+
+
+##### Avancement .
+
+###### Article L414-5
+
+L'avancement des agents soumis au présent statut            comprend l'avancement d'échelon et l'avancement de grade. 
+
+Il a lieu d'échelon à échelon et de grade à grade.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Arrêté 1959-11-05
+
+	**Anciens textes**:
+
+	  - Code de l'administration communale 518
+
+	**Codifié par**:
+
+	  - Décret n°77-372 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-372 1977-03-28 JORF ET JONC 5 AVRIL 1977
+
+	**Cité par**:
+
+	  - Décret n°83-964 du 8 novembre 1983 - art. 12 (V)
+
+	**Abrogé par**:
+
+	  - Loi n°84-53 1984-01-26 ART. 119 JORF 27 JANVIER 1984
+
+
+###### Article L414-6
+
+L'avancement d'échelon se traduit par une augmentation de traitement. Il est fonction à la fois de l'ancienneté et de la
+notation de l'agent.
+
+Le maximum et le minimum du temps susceptible d'être passé dans chaque échelon sont fixés, pour chaque catégorie d'emplois,
+par décision de l'autorité supérieure prise après avis de la commission nationale paritaire du personnel communal.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - TXT_SOURCE: Arrêté du 30 juillet 1963 - art. 1 (V)
+	  - TXT_SOURCE: Arrêté du 30 juillet 1963 - art. 2 (V)
+	  - TXT_SOURCE: Arrêté du 30 juillet 1963 - art. 3 (V)
+	  - TXT_SOURCE: Arrêté du 30 juillet 1963 - art. 4 (V)
+	  - TXT_SOURCE: Arrêté du 30 juillet 1963 - art. Annexe 1 (V)
+	  - TXT_SOURCE: Arrêté du 30 juillet 1963 - art. Annexe 10 (V)
+	  - TXT_SOURCE: Arrêté du 30 juillet 1963 - art. Annexe 2 (V)
+	  - TXT_SOURCE: Arrêté du 30 juillet 1963 - art. Annexe 3 (V)
+	  - TXT_SOURCE: Arrêté du 30 juillet 1963 - art. Annexe 4 (V)
+	  - TXT_SOURCE: Arrêté du 30 juillet 1963 - art. Annexe 5 (V)
+	  - TXT_SOURCE: Arrêté du 30 juillet 1963 - art. Annexe 6 (V)
+	  - TXT_SOURCE: Arrêté du 30 juillet 1963 - art. Annexe 7 (V)
+	  - TXT_SOURCE: Arrêté du 30 juillet 1963 - art. Annexe 8 (V)
+	  - TXT_SOURCE: Arrêté du 30 juillet 1963 - art. Annexe 9 (V)
+	  - TXT_SOURCE: Arrêté du 12 février 1968 - art. 1 (V)
+	  - TXT_SOURCE: Arrêté du 12 février 1968 - art. 2 (V)
+	  - TXT_SOURCE: Arrêté du 12 février 1968 - art. 3 (V)
+	  - TXT_SOURCE: Arrêté du 12 février 1968 - art. 4 (V)
+	  - TXT_SOURCE: Arrêté du 12 février 1968 - art. ANNEXE 17 (V)
+	  - TXT_SOURCE: Arrêté du 12 février 1968 - art. ANNEXE 18 (V)
+	  - TXT_SOURCE: Arrêté du 12 février 1968 - art. ANNEXE I (V)
+	  - TXT_SOURCE: Arrêté du 12 février 1968 - art. Annexe 10 (V)
+	  - TXT_SOURCE: Arrêté du 12 février 1968 - art. Annexe 11 (V)
+	  - TXT_SOURCE: Arrêté du 12 février 1968 - art. Annexe 12 (V)
+	  - TXT_SOURCE: Arrêté du 12 février 1968 - art. Annexe 13 (V)
+	  - TXT_SOURCE: Arrêté du 12 février 1968 - art. Annexe 14 (V)
+	  - TXT_SOURCE: Arrêté du 12 février 1968 - art. Annexe 15 (V)
+	  - TXT_SOURCE: Arrêté du 12 février 1968 - art. Annexe 16 (V)
+	  - TXT_SOURCE: Arrêté du 12 février 1968 - art. Annexe 19 (V)
+	  - TXT_SOURCE: Arrêté du 12 février 1968 - art. Annexe 2 (V)
+	  - TXT_SOURCE: Arrêté du 12 février 1968 - art. Annexe 2 bis (V)
+	  - TXT_SOURCE: Arrêté du 12 février 1968 - art. Annexe 20 (V)
+	  - TXT_SOURCE: Arrêté du 12 février 1968 - art. Annexe 3 (V)
+	  - TXT_SOURCE: Arrêté du 12 février 1968 - art. Annexe 4 (V)
+	  - TXT_SOURCE: Arrêté du 12 février 1968 - art. Annexe 5 (V)
+	  - TXT_SOURCE: Arrêté du 12 février 1968 - art. Annexe 6 (V)
+	  - TXT_SOURCE: Arrêté du 12 février 1968 - art. Annexe 6 bis (V)
+	  - TXT_SOURCE: Arrêté du 12 février 1968 - art. Annexe 7 (V)
+	  - TXT_SOURCE: Arrêté du 12 février 1968 - art. Annexe 7 bis (V)
+	  - TXT_SOURCE: Arrêté du 12 février 1968 - art. Annexe 8 (V)
+	  - TXT_SOURCE: Arrêté du 12 février 1968 - art. Annexe 9 (V)
+	  - TXT_SOURCE: Arrêté du 30 août 1968 - art. 1 (V)
+	  - TXT_SOURCE: Arrêté du 30 août 1968 - art. 2 (V)
+	  - TXT_SOURCE: Arrêté du 30 août 1968 - art. 3 (V)
+	  - TXT_SOURCE: Arrêté du 30 août 1968 - art. 4 (V)
+	  - TXT_SOURCE: Arrêté du 30 août 1968 - art. ANNEXE 1 (V)
+	  - TXT_SOURCE: Arrêté du 30 août 1968 - art. Annexe 2 (V)
+	  - TXT_SOURCE: Arrêté du 30 août 1968 - art. Annexe 3 (V)
+	  - TXT_SOURCE: Arrêté du 30 août 1968 - art. Annexe 3 bis (V)
+	  - TXT_SOURCE: Arrêté du 30 août 1968 - art. Annexe 4 (V)
+	  - TXT_SOURCE: Arrêté du 30 août 1968 - art. Annexe 4 bis (V)
+	  - TXT_SOURCE: Arrêté du 30 août 1968 - art. Annexe 5 (V)
+	  - TXT_SOURCE: Arrêté du 30 août 1968 - art. Annexe 6 (V)
+	  - TXT_SOURCE: Arrêté du 30 août 1968 - art. Annexe 7 (V)
+	  - TXT_SOURCE: Arrêté du 30 août 1968 - art. Annexe 8 (V)
+	  - TXT_SOURCE: Arrêté du 1 septembre 1969 - art. 1 (V)
+	  - TXT_SOURCE: Arrêté du 1 septembre 1969 - art. 2 (V)
+	  - TXT_SOURCE: Arrêté du 1 septembre 1969 - art. 3 (V)
+	  - TXT_SOURCE: Arrêté du 1 septembre 1969 - art. 4 (V)
+	  - TXT_SOURCE: Arrêté du 1 septembre 1969 - art. Annexe 1 (V)
+	  - TXT_SOURCE: Arrêté du 1 septembre 1969 - art. Annexe 2 (V)
+	  - TXT_SOURCE: Arrêté du 1 septembre 1969 - art. Annexe 3 (V)
+	  - TXT_SOURCE: Arrêté du 1 septembre 1969 - art. Annexe 4 (V)
+	  - TXT_SOURCE: Arrêté du 1 septembre 1969 - art. Annexe 5 (V)
+	  - TXT_SOURCE: Arrêté du 1 septembre 1969 - art. Annexe 6 (V)
+	  - TXT_SOURCE: Arrêté du 1 septembre 1969 - art. Annexe 7 (V)
+	  - TXT_SOURCE: Arrêté du 1 septembre 1969 - art. Annexe 8 (V)
+	  - TXT_SOURCE: Arrêté du 1 septembre 1969 - art. Annexe 9 (V)
+	  - TXT_SOURCE: Arrêté du 8 février 1971 - art. 1 (V)
+	  - TXT_SOURCE: Arrêté du 8 février 1971 - art. 2 (V)
+	  - TXT_SOURCE: Arrêté du 8 février 1971 - art. Annexe (V)
+
+	**Anciens textes**:
+
+	  - Code de l'administration communale 519 AL. 1 et AL. 2 (partie)
+
+	**Codifié par**:
+
+	  - Décret n°77-372 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-372 1977-03-28 JORF et JONC 5 avril 1977
+
+	**Cité par**:
+
+	  - Décret n°83-964 du 8 novembre 1983 - art. 12 (V)
+	  - CODE DES COMMUNES. - art. R*414-3 (V)
+
+	**Abrogé par**:
+
+	  - Loi n°84-119 1984-01-26 ART. 119 JORF 27 JANVIER 1984
+
+
+###### Article L414-7
+
+L'avancement d'échelon à l'ancienneté maximum est accordé de plein droit.
+
+L'avancement d'échelon à l'ancienneté minimum peut être accordé par le maire, après avis de la commission paritaire
+compétente [**]conditions de forme[**], aux agents auxquels a été attribuée une note supérieure à la note moyenne obtenue par
+les agents du même grade à la suite de la péréquation générale des notes prévues à l'article L. 414-4 [*dans chaque
+département*].
+
+Lorsque l'agent est seul de son grade dans le département, l'avancement d'échelon à l'ancienneté minimum peut être accordé
+par le maire au vu de la note attribuée et après avis de la commission paritaire compétente.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Code de l'administration communale 519 AL. 3 remplacé
+
+	**Codifié par**:
+
+	  - Décret n°77-372 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-372 1977-03-28 JORF ET JONC 5 AVRIL 1977
+
+	**Cité par**:
+
+	  - Décret n°83-964 du 8 novembre 1983 - art. 12 (V)
+
+	**Abrogé par**:
+
+	  - Loi n°84-53 1984-01-26 ART. 119 JORF 27 JANVIER 1984
+
+	**Cite**:
+
+	  - CODE DES COMMUNES. - art. L414-4 (Ab)
+
+
+###### Article L414-8
+
+La durée des périodes d'instruction militaire, de congés de maladie, et, éventuellement, de congés d'allaitement, entre en
+ligne de compte pour l'avancement d'échelon et de grade.
+
+La durée du service national est également prise en considération conformément aux règles applicables en l'espèce aux
+fonctionnaires de l'Etat.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Code de l'administration communale 521
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Loi n°52-836 1952-07-18
+	  - TXT_ASSOCIE: Décret n°56-1167 1956-11-17
+	  - TXT_ASSOCIE: Loi n°1928-03-31
+	  - TXT_ASSOCIE: Loi n°1932-02-16
+
+	**Codifié par**:
+
+	  - Décret n°77-372 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-372 1977-03-28 JORF ET JONC 5 AVRIL 1977
+
+	**Cité par**:
+
+	  - Décret n°83-964 du 8 novembre 1983 - art. 12 (V)
+
+	**Abrogé par**:
+
+	  - Loi n°84-53 1984-01-26 ART. 119 JORF 27 JANVIER 1984
+
+
+###### Article L414-9
+
+Les listes d'aptitude [*pour l'avancement*] sont communiquées chaque année, pour avis, à la commission paritaire communale ou
+intercommunale, suivant le cas.
+
+Celle-ci peut charger de l'examen des listes une sous-commission de six membres [*nombre*], comprenant obligatoirement trois
+délégués du maire ou du bureau du syndicat de communes pour le personnel communal, suivant le cas, et trois représentants du
+personnel.
+
+La sous-commission choisit son président parmi les élus municipaux.
+
+En aucun cas, un agent ne peut être appelé à donner son avis sur l'avancement d'un agent d'une catégorie supérieure à la
+sienne.
+
+La commission paritaire ou la sous-commission peut s'adjoindre des techniciens à titre consultatif.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Arrêté du 27 septembre 1973 - art. 1 (V)
+	  - Arrêté du 27 septembre 1973 - art. 2 (V)
+	  - Décret n°83-964 du 8 novembre 1983 - art. 12 (V)
+	  - CODE DES COMMUNES. - art. L414-10 (Ab)
+	  - CODE DES COMMUNES. - art. R*414-2 (V)
+
+	**Anciens textes**:
+
+	  - Code de l'administration communale 523 AL. 1 à 3
+
+	**Codifié par**:
+
+	  - Décret n°77-372 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-372 1977-03-28 JORF ET JONC 5 AVRIL 1977
+
+	**Abrogé par**:
+
+	  - Loi n°84-53 1984-01-26 ART. 119 JORF 27 JANVIER 1984
+
+
+###### Article L414-10
+
+Les listes d'aptitude [*pour l'avancement*] prévues à l'article précédent comprennent un nombre de candidats égal au nombre
+des emplois qui sont susceptibles de devenir vacants dans l'année, majoré de 50 p. 100 [*pourcentage*].
+
+Elles sont arrêtées par l'autorité investie du pouvoir de nomination.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Code de l'administration communale 523 AL. 4
+
+	**Codifié par**:
+
+	  - Décret n°77-372 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-372 1977-03-28 JORF ET JONC 5 AVRIL 1977
+
+	**Cité par**:
+
+	  - Décret n°83-964 du 8 novembre 1983 - art. 12 (V)
+
+	**Abrogé par**:
+
+	  - Loi n°84-53 1984-01-26 ART. 119 JORF 27 JANVIER 1984
+
+	**Cite**:
+
+	  - CODE DES COMMUNES. - art. L414-9 (Ab)
+
+
+##### Discipline
+
+##### Le conseil de discipline .
+
+###### Article L414-11
+
+Le conseil de discipline comprend trois conseillers municipaux et trois représentants du personnel lorsqu'il s'agit du
+conseil de discipline communal, et trois maires et trois représentants du personnel [*nombre*] lorsqu'il s'agit du conseil de
+discipline intercommunal.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - SPEC_APPLI: *Dispositions applicables aux agents nommés dans des emplois permanents à temps non complet*
+	  - SPEC_APPLI: Code des communes L421-1 :
+
+	**Anciens textes**:
+
+	  - Code de l'administration communale 525 AL. 1
+
+	**Codifié par**:
+
+	  - Décret n°77-372 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-372 1977-03-28 JORF ET JONC 5 AVRIL 1977
+
+	**Abrogé par**:
+
+	  - Loi n°84-53 1984-01-26 ART. 119 JORF 27 JANVIER 1984
+
+	**Cité par**:
+
+	  - CODE DES COMMUNES. - art. L414-14 (Ab)
+
+
+###### Article L414-12
+
+Les membres du conseil de discipline [*communal*] sont tirés au sort parmi les membres des commissions paritaires
+[*recrutement*].
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - SPEC_APPLI: *Dispositions applicables aux agents nommés dans des emplois permanents à temps non complet*
+	  - SPEC_APPLI: Code des communes L421-1 :
+
+	**Anciens textes**:
+
+	  - Code de l'administration communale 525 AL. 2
+
+	**Codifié par**:
+
+	  - Décret n°77-372 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-372 1977-03-28 JORF ET JONC 5 AVRIL 1977
+
+	**Abrogé par**:
+
+	  - Loi n°84-53 1984-01-26 ART. 119 JORF 27 JANVIER 1984
+
+	**Cité par**:
+
+	  - CODE DES COMMUNES. - art. L414-14 (Ab)
+
+
+###### Article L414-13
+
+Le conseil de discipline [*communal*] ne comprend, en aucun cas, des agents d'une catégorie inférieure à celle de l'agent
+déféré devant lui.
+
+Il comprend au moins un agent de sa catégorie ou d'une catégorie équivalente.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - SPEC_APPLI: *Dispositions applicables aux agents nommés dans des emplois permanents à temps non complet*
+	  - SPEC_APPLI: Code des communes L421-1 :
+
+	**Codifié par**:
+
+	  - Décret n°77-372 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-372 1977-03-28 JORF ET JONC 5 AVRIL 1977
+
+	**Abrogé par**:
+
+	  - Loi n°84-53 1984-01-26 ART. 119 JORF 27 JANVIER 1984
+
+	**Cité par**:
+
+	  - CODE DES COMMUNES. - art. L414-14 (Ab)
+
+	**Anciens textes**:
+
+	  - Code de l'administration communale 525 AL. 3
+
+
+###### Article L414-15
+
+Le conseil de discipline est saisi par un rapport de l'autorité qui exerce le pouvoir disciplinaire.
+
+Le rapport précise les faits répréhensibles et les circonstances dans lesquelles ils ont été commis.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - SPEC_APPLI: *Dispositions applicables aux agents nommés dans des emplois permanents à temps non complet*
+	  - SPEC_APPLI: Code des communes L421-1 :
+
+	**Anciens textes**:
+
+	  - Code de l'administration communale 532
+
+	**Codifié par**:
+
+	  - Décret n°77-372 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-372 1977-03-28 JORF ET JONC 5 AVRIL 1977
+
+	**Abrogé par**:
+
+	  - Loi n°84-53 1984-01-26 ART. 119 JORF 27 JANVIER 1984
+
+
+###### Article L414-16
+
+L'agent incriminé a le droit d'obtenir, aussitôt que l'action disciplinaire est engagée [**]délai - date[**], la
+communication intégrale de son dossier individuel et de tous documents annexes.
+
+Il peut présenter devant le conseil de discipline des observations écrites ou verbales, citer des témoins et se faire
+assister d'un défenseur de son choix.
+
+Le droit de citer des témoins appartient également à l'administration.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - SPEC_APPLI: *Dispositions applicables aux agents nommés dans des emplois permanents à temps non complet*
+	  - SPEC_APPLI: Code des communes L421-1 :
+
+	**Anciens textes**:
+
+	  - Code de l'administration communale 533
+
+	**Codifié par**:
+
+	  - Décret n°77-372 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-372 1977-03-28 JORF ET JONC 5 AVRIL 1977
+
+	**Abrogé par**:
+
+	  - Loi n°84-53 1984-01-26 ART. 119 JORF 27 JANVIER 1984
+
+
+###### Article L414-17
+
+Les dispositions de l'article 65 de la loi du 22 avril 1905 sont applicables aux agents soumis au présent titre [*emplois
+permanents à temps complet*].
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - SPEC_APPLI: *Dispositions applicables aux agents nommés dans des emplois permanents à temps non complet et aux agents non titulaires*
+	  - SPEC_APPLI: CODE DES COMMUNES. - art. L421-1 (Ab)
+	  - SPEC_APPLI: Code des communes L421-1, L422-1 :
+
+	**Codifié par**:
+
+	  - Décret n°77-372 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-372 1977-03-28 JORF ET JONC 5 AVRIL 1977
+
+	**Abrogé par**:
+
+	  - Loi n°84-53 1984-01-26 ART. 119 JORF 27 JANVIER 1984
+
+	**Cité par**:
+
+	  - CODE DES COMMUNES. - art. L422-1 (Ab)
+
+	**Anciens textes**:
+
+	  - Code de l'administration communale 535
+
+	**Cite**:
+
+	  - Code des communes L411-1 à L417-17
+	  - Loi   1905-04-22  ART. 65
+
+
+##### Les sanctions disciplinaires .
+
+###### Article L414-18
+
+Les sanctions disciplinaires applicables au personnel communal sont les suivantes :       1° L'avertissement ou rappel à
+l'ordre ; 
+
+2° Le blâme avec inscription au dossier ; 
+
+3° La mise à pied jusqu'à un maximum de cinq jours ; 
+
+4° L'exclusion temporaire de fonction pour une durée qui ne peut excéder quinze jours ; 
+
+5° Le retard dans l'avancement ; 
+
+6° L'abaissement d'échelon ; 
+
+7° La rétrogradation ; 
+
+8° La mise à la retraite d'office ; 
+
+9° La révocation sans suspension des droits à pension, ou la révocation avec suspension des droits à pension.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - SPEC_APPLI: *Dispositions applicables aux agents nommés dans des emplois permanents à temps non complet*
+	  - TXT_ASSOCIE: Décret n°49-1416 1949-10-05
+	  - TXT_ASSOCIE: Ordonnance 60-1036 1960-09-28
+	  - SPEC_APPLI: Code des communes L421-1 :
+
+	**Anciens textes**:
+
+	  - Code de l'administration communale 524 AL. 1
+
+	**Codifié par**:
+
+	  - Décret n°77-372 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-372 1977-03-28 JORF ET JONC 5 AVRIL 1977
+
+	**Abrogé par**:
+
+	  - Loi n°84-53 1984-01-26 ART. 119 JORF 27 JANVIER 1984
+
+	**Cité par**:
+
+	  - CODE DES COMMUNES. - art. L414-19 (Ab)
+	  - CODE DES COMMUNES. - art. R421-14 (Ab)
+
+
+###### Article L414-19
+
+La commission nationale paritaire du personnel communal fixe pour chacune des sanctions prévues aux 1° à 7° de l'article
+précédent les délais à l'expiration desquels la mention des sanctions cesse de figurer au dossier lorsque l'agent en cause
+n'a pas été l'objet, au cours de ces délais, d'une nouvelle mesure disciplinaire.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - SPEC_APPLI: *Dispositions applicables aux agents nommés dans des emplois permanents à temps non complet*
+	  - SPEC_APPLI: Code des communes L421-1 :
+
+	**Cité par**:
+
+	  - Arrêté du 23 juin 1976 - art. 13 (V)
+	  - Arrêté du 23 juin 1976 - art. 31 (V)
+	  - Arrêté du 23 juin 1976 - art. 17 (V)
+
+	**Anciens textes**:
+
+	  - Code de l'administration communale 524 AL. 3
+
+	**Codifié par**:
+
+	  - Décret n°77-372 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-372 1977-03-28 JORF ET JONC 5 AVRIL 1977
+
+	**Abrogé par**:
+
+	  - Loi n°84-53 1984-01-26 ART. 119 JORF 27 JANVIER 1984
+
+	**Cite**:
+
+	  - CODE DES COMMUNES. - art. L414-18 (Ab)
+
+
+###### Article L414-20
+
+Les sanctions prévues aux 3° et 4° de l'article L. 414-18 [*mise à pied et exclusion temporaire de fonction*] entraînent la
+privation de toute rémunération, à l'exception des prestations familiales légales.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - SPEC_APPLI: *Dispositions applicables aux agents nommés dans des emplois permanents à temps non complet*
+	  - SPEC_APPLI: Code des communes L421-1 :
+
+	**Anciens textes**:
+
+	  - Code de l'administration communale 524 AL. 2
+
+	**Codifié par**:
+
+	  - Décret n°77-372 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-372 1977-03-28 JORF ET JONC 5 AVRIL 1977
+
+	**Abrogé par**:
+
+	  - Loi n°84-53 1984-01-26 ART. 119 JORF 27 JANVIER 1984
+
+	**Cite**:
+
+	  - Code des communes L414-18 3° et 4°
+
+
+###### Article L414-21
+
+L'agent révoqué sans pension bénéficie de l'assurance vieillesse dans les conditions prévues par un règlement
+d'administration publique.
+
+Ses ayants droit bénéficient des mêmes dispositions.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - SPEC_APPLI: *Dispositions applicables aux agents nommés dans des emplois permanents à temps non complet*
+	  - SPEC_APPLI: Code des communes L421-1 :
+
+	**Codifié par**:
+
+	  - Décret n°77-372 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-372 1977-03-28 JORF ET JONC 5 AVRIL 1977
+
+	**Abrogé par**:
+
+	  - Loi n°84-53 1984-01-26 ART. 119 JORF 27 JANVIER 1984
+
+	**Cite**:
+
+	  - Code des communes R414-28
+
+
+###### Article L414-22
+
+Les sanctions sont prononcées par le maire [*compétence*].
+
+Les sanctions énumérées aux 4° à 9° de l'article L. 414-18 ne peuvent être prononcées qu'après avis motivé du conseil de
+discipline [*conditions de forme*].
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - SPEC_APPLI: *Dispositions applicables aux agents nommés dans des emplois permanents à temps non complet*
+	  - SPEC_APPLI: Code des communes L421-1 :
+
+	**Anciens textes**:
+
+	  - Code de l'administration communale 528
+
+	**Codifié par**:
+
+	  - Décret n°77-372 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-372 1977-03-28 JORF ET JONC 5 AVRIL 1977
+
+	**Abrogé par**:
+
+	  - Loi n°84-53 1984-01-26 ART. 119 JORF 27 JANVIER 1984
+
+	**Cite**:
+
+	  - Code des communes L414-18 4° à 9°
+
+
+#### DISCIPLINE
+
+##### CONSEIL DE DISCIPLINE .
+
+###### Article L414-14
+
+Par dérogation aux dispositions de l'article L. 414-12 [*tirage au sort des membres du conseil de discipline parmi les
+membres des commissions paritaires*], les représentants du personnel aux conseils de discipline, appelés à donner leur avis
+sur les sanctions applicables aux personnels occupant les emplois de secrétaire général, secrétaire général adjoint,
+directeur des services techniques et directeur des services autres qu'administratifs dans les villes comportant cent agents
+[*nombre*] et plus, sont tirés au sort sur des listes établies par catégories dans un cadre interdépartemental et comportant
+les noms de tous les agents occupant ces emplois.
+
+Dans les communes affiliées aux syndicats de communes pour le personnel communal, les listes mentionnées à l'alinéa précédent
+peuvent être exceptionnellement utilisées lorsque la représentation du personnel ne peut être assurée dans les conditions
+prévues par les articles L. 414-11 et L. 414-13.
+
+La décision de recourir à cette procédure appartient au préfet.
+
+Un arrêté du ministre de l'intérieur détermine les départements pour lesquels sont établies les listes mentionnées au premier
+alinéa, l'autorité chargée d'établir les listes ainsi que les emplois qui composent chacune des catégories.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - SPEC_APPLI: *Dispositions applicables aux agents nommés dans des emplois permanents à temps non complet*
+	  - TXT_SOURCE: Arrêté du 24 décembre 1957 - art. 5 (V)
+	  - SPEC_APPLI: Code des communes L421-1 :
+
+	**Codifié par**:
+
+	  - Décret n°77-372 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-372 1977-03-28 JORF ET JONC 5 AVRIL 1977
+
+	**Cité par**:
+
+	  - Arrêté du 24 décembre 1957 - art. 1 (V)
+	  - Arrêté du 24 décembre 1957 - art. 2 (V)
+
+	**Cite**:
+
+	  - CODE DES COMMUNES. - art. L414-11 (Ab)
+	  - CODE DES COMMUNES. - art. L414-12 (Ab)
+	  - CODE DES COMMUNES. - art. L414-13 (Ab)
+
+	**Anciens textes**:
+
+	  - Code de l'administration communale 527 modifié
+
+
+##### DISPOSITIONS APPLICABLES AUX GARDES  CHAMPETRES ET AUX AGENTS DE LA POLICE MUNICIPALE .
+
+###### Article L414-23
+
+Les gardes champêtres peuvent être suspendus par le maire.
+
+La suspension ne peut durer plus d'un mois [*sanctions*].
+
+Le préfet ou le sous-préfet seuls peuvent les révoquer [*compétence*].
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - SPEC_APPLI: *Dispositions applicables aux agents nommés dans des emplois permanents à temps non complet*
+	  - SPEC_APPLI: Code des communes L421-1 :
+
+	**Anciens textes**:
+
+	  - Code de l'administration communale 592
+
+	**Codifié par**:
+
+	  - Décret n°77-372 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-372 1977-03-28 JORF ET JONC 5 AVRIL 1977
+
+	**Cité par**:
+
+	  - Loi n°84-53 du 26 janvier 1984 - art. 119 (V)
+
+
+###### Article L414-24
+
+Les agents de la police municipale peuvent être suspendus par le maire [*sanctions*].
+
+Ils ne peuvent être révoqués que par le préfet ou le sous-préfet [*compétence*].
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - SPEC_APPLI: *Dispositions applicables aux agents nommés dans des emplois permanents à temps non complet*
+	  - SPEC_APPLI: *Dispositions non applicables aux communes des départements de la Moselle, du Bas-Rhin et du Haut-Rhin (Alsace et Lorraine)*
+	  - SPEC_APPLI: Code des communes L421-1 :
+
+	**Anciens textes**:
+
+	  - Code de l'administration communale 593 PHR. 2 et 3
+
+	**Codifié par**:
+
+	  - Décret n°77-372 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-372 1977-03-28 JORF ET JONC 5 AVRIL 1977
+
+	**Cité par**:
+
+	  - Loi n°84-53 du 26 janvier 1984 - art. 119 (V)
+	  - Loi n°99-291 du 15 avril 1999 - art. 12 (V)
+
+
+#### Positions .
+
+###### Article L415-1
+
+Tout agent soumis au présent statut est placé dans une des positions suivantes    : 
+
+1° En activité ; 
+
+2° En congé postnatal ; 
+
+3° En service détaché ; 
+
+4° Hors cadre ; 
+
+5° En disponibilité ; 
+
+6° Sous les drapeaux.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Code de l'administration communale 536 complété
+
+	**Codifié par**:
+
+	  - Décret n°77-372 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-372 1977-03-28 JORF ET JONC 5 AVRIL 1977
+
+	**Abrogé par**:
+
+	  - Loi n°84-53 1984-01-26 ART. 119 JORF 27 JANVIER 1984
+
+
+##### Activités, congés .
+
+###### Article L415-2
+
+L'activité       est la position de l'agent communal qui, régulièrement titulaire d'un grade, exerce effectivement les
+fonctions de l'un des emplois correspondants.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - SPEC_APPLI: *Dispositions applicables aux agents nommés dans des emplois permanents à temps non complet*
+	  - SPEC_APPLI: Code des communes L421-1 :
+
+	**Anciens textes**:
+
+	  - Code de l'administration communale 537
+
+	**Codifié par**:
+
+	  - Décret n°77-372 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-372 1977-03-28 JORF ET JONC 5 AVRIL 1977
+
+	**Abrogé par**:
+
+	  - Loi n°84-53 1984-01-26 ART. 119 JORF 27 JANVIER 1984
+
+
+##### Les congés annuels .
+
+###### Article L415-3
+
+Tout agent en activité a droit à un congé de trente jours consécutifs ou de vingt-six jours ouvrables pour une année de
+service accompli.
+
+Les congés de maladie, ainsi que le congé [*pour période d'instruction obligatoire*] qui est prévu à l'article L. 415-63,
+sont considérés, pour l'application de cette disposition, comme service accompli.
+
+L'administration conserve toute liberté pour échelonner les congés. Elle peut, en outre, s'opposer, si l'intérêt du service
+l'exige, à tout fractionnement de congé.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - SPEC_APPLI: *Dispositions applicables aux agents nommés dans des emplois permanents à temps non complet*
+	  - SPEC_APPLI: Code des communes L421-1 :
+
+	**Anciens textes**:
+
+	  - Code de l'administration communale 538 AL. 1 à 3
+
+	**Codifié par**:
+
+	  - Décret n°77-372 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-372 1977-03-28 JORF ET JONC 5 AVRIL 1977
+
+	**Abrogé par**:
+
+	  - Loi n°84-53 1984-01-26 ART. 119 JORF 27 JANVIER 1984
+
+	**Cite**:
+
+	  - CODE DES COMMUNES. - art. L415-63 (Ab)
+
+
+###### Article L415-4
+
+Le fonctionnaire chargé de famille bénéficie d'une priorité pour le choix des périodes des congés annuels.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - SPEC_APPLI: *Dispositions applicables aux agents nommés dans des emplois permanents à temps non complet*
+	  - SPEC_APPLI: Code des communes L421-1 :
+
+	**Anciens textes**:
+
+	  - Code de l'administration communale 538 AL. 4
+
+	**Codifié par**:
+
+	  - Décret n°77-372 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-372 1977-03-28 JORF ET JONC 5 AVRIL 1977
+
+	**Abrogé par**:
+
+	  - Loi n°84-53 1984-01-26 ART. 119 JORF 27 JANVIER 1984
+
+
+###### Article L415-5
+
+Le congé dû pour une année de service accompli ne peut se reporter sur l'année suivante, sauf autorisation exceptionnelle
+donnée par le maire, après avis du chef de service [**]conditions de forme[**].
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - SPEC_APPLI: *Dispositions applicables aux agents nommés dans des emplois permanents à temps non complet*
+	  - SPEC_APPLI: Code des communes L421-1 :
+
+	**Anciens textes**:
+
+	  - Code de l'administration communale 539 AL. 1
+
+	**Codifié par**:
+
+	  - Décret n°77-372 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-372 1977-03-28 JORF ET JONC 5 AVRIL 1977
+
+	**Abrogé par**:
+
+	  - Loi n°84-53 1984-01-26 ART. 119 JORF 27 JANVIER 1984
+
+
+###### Article L415-6
+
+L'agent originaire des départements de la Haute-Corse et de la Corse-du-Sud ou des territoires d'outre-mer peut bénéficier,
+sur sa demande, d'un congé bloqué de soixante jours [*durée*] tous les deux ans [*fréquence*], pour se rendre dans son
+département ou territoire d'origine.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - SPEC_APPLI: *Dispositions applicables aux agents nommés dans des emplois permanents à temps non complet*
+	  - SPEC_APPLI: Code des communes L421-1 :
+
+	**Anciens textes**:
+
+	  - Code de l'administration communale 539 AL. 2 modifié
+
+	**Codifié par**:
+
+	  - Décret n°77-372 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-372 1977-03-28 JORF ET JONC 5 AVRIL 1977
+
+	**Cité par**:
+
+	  - Loi n°84-53 du 26 janvier 1984 - art. 119 (V)
+
+
+###### Article L415-8
+
+Un congé d'une durée maximum de douze jours ouvrables par an, pris en une ou deux fois, est accordé, dans des conditions
+analogues à celles qui sont prévues pour les travailleurs du secteur privé en vue de favoriser l'éducation ouvrière, à
+l'agent qui en fait la demande.
+
+Pendant la durée de ce congé, les émoluments de l'agent sont réduits au montant des retenues légales pour la retraite et la
+sécurité sociale afférentes à son grade. L'intéressé conserve, en outre, ses droits à la totalité des suppléments pour
+charges de famille.
+
+Un règlement d'administration publique détermine les conditions d'application du présent article.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - SPEC_APPLI: *Dispositions applicables aux agents nommés dans des emplois permanents à temps non complet et aux agents non titulaires*
+	  - TXT_ASSOCIE: Décret n°62-1225 1962-10-18
+	  - SPEC_APPLI: CODE DES COMMUNES. - art. L421-2 (M)
+	  - SPEC_APPLI: Code des communes L421-2, L422-1 :
+
+	**Anciens textes**:
+
+	  - Loi n°52-432 1952-04-28 ART. 47 bis (partie)
+
+	**Codifié par**:
+
+	  - Décret n°77-372 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-372 1977-03-28 JORF et JONC 5 avril 1977
+
+	**Abrogé par**:
+
+	  - Loi n°84-53 1984-01-26 ART. 119 JORF 27 JANVIER 1984
+
+	**Cité par**:
+
+	  - CODE DES COMMUNES. - art. L415-9 (Ab)
+	  - CODE DES COMMUNES. - art. L421-2 (Ab)
+	  - CODE DES COMMUNES. - art. L422-1 (Ab)
+	  - CODE DES COMMUNES. - art. R*412-113 (Ab)
+	  - CODE DES COMMUNES. - art. R415-1 (V)
+
+
+###### Article L415-9
+
+L'agent qui est âgé de moins de vingt-cinq ans et qui désire participer aux activités des organisations de jeunesse et
+d'éducation populaire, des fédérations et des associations sportives et de plein air légalement constituées, destinées à
+favoriser la préparation, la formation ou le perfectionnement de cadres et animateurs, a droit, sur sa demande, à un congé
+non rémunéré d'une durée de six jours ouvrables par an et qui peut être pris en une ou deux fois à la demande du
+bénéficiaire. 
+
+La durée du congé est assimilée à une période de travail effectif. 
+
+Elle ne peut être imputée sur la durée du congé annuel. 
+
+Le congé prévu au premier alinéa ne peut se cumuler avec celui qui est prévu à l'article précédent               qu'à
+concurrence de douze jours ouvrables pour une même année. 
+
+Un décret en Conseil d'Etat détermine les conditions dans lesquelles il est attribué.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - SPEC_APPLI: *Dispositions applicables aux agents nommés dans des emplois permanents à temps non complet et aux agents non titulaires*
+	  - SPEC_APPLI: CODE DES COMMUNES. - art. L421-2 (M)
+	  - TXT_ASSOCIE: CODE DES COMMUNES. - art. R*415-5 (V)
+	  - SPEC_APPLI: Code des communes L421-2, L422-1 :
+
+	**Anciens textes**:
+
+	  - Loi n°61-1448 1961-12-29 ART. 1 à 4 (Parties)
+
+	**Codifié par**:
+
+	  - Décret n°77-372 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-372 1977-03-28 JORF ET JONC 5 AVRIL 1977
+
+	**Abrogé par**:
+
+	  - Loi n°84-53 1984-01-26 ART. 119 JORF 27 JANVIER 1984
+
+	**Cite**:
+
+	  - CODE DES COMMUNES. - art. L415-8 (Ab)
+
+	**Cité par**:
+
+	  - CODE DES COMMUNES. - art. L421-2 (Ab)
+	  - CODE DES COMMUNES. - art. L422-1 (Ab)
+	  - CODE DES COMMUNES. - art. R*415-2 (V)
+	  - CODE DES COMMUNES. - art. R*415-3 (V)
+	  - CODE DES COMMUNES. - art. R*415-4 (V)
+
+
+##### Les congés de maladie .
+
+###### Article L415-10
+
+En cas de maladie dûment constatée par une certificat médical et qui le met dans l'impossibilité d'exercer ses fonctions,
+l'agent est mis en congé de plein droit.
+
+Le maire peut exiger un examen par un médecin assermenté ou provoquer une expertise par un comité médical.
+
+L'agent intéressé peut demander une expertise contradictoire entre un médecin choisi par lui et un autre médecin désigné par
+le maire.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - SPEC_APPLI: *Dispositions applicables aux agents nommés dans des emplois permanents à temps non complet*
+	  - SPEC_APPLI: Code des communes L421-1 :
+
+	**Anciens textes**:
+
+	  - Code de l'administration communale 542
+
+	**Cite**:
+
+	  - Décret n°59-310 1959-02-14
+
+	**Codifié par**:
+
+	  - Décret n°77-372 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-372 1977-03-28 JORF ET JONC 5 AVRIL 1977
+
+	**Abrogé par**:
+
+	  - Loi n°84-53 1984-01-26 ART. 119 JORF 27 JANVIER 1984
+
+
+###### Article L415-11
+
+Les agents en activité bénéficient des mêmes congés de maladie que ceux qui sont prévus pour les fonctionnaires de l'Etat par
+le 2° de l'article 36 de l'ordonnance n° 59-244 du 4 février 1959 relative au statut général des fonctionnaires.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - SPEC_APPLI: *Dispositions applicables aux agents nommés dans des emplois permanents à temps non complet*
+	  - SPEC_APPLI: Code des communes L421-1 :
+
+	**Anciens textes**:
+
+	  - Code de l'administration communale 543
+	  - Loi n°72-59 1972-07-05 ART. 3 (Partie)
+
+	**Cite**:
+
+	  - Ordonnance 59-244 1959-02-04 ART. 36 2°
+
+	**Codifié par**:
+
+	  - Décret n°77-372 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-372 1977-03-28 JORF ET JONC 5 AVRIL 1977
+
+	**Abrogé par**:
+
+	  - Loi n°84-53 1984-01-26 ART. 119 JORF 27 JANVIER 1984
+
+
+###### Article L415-12
+
+L'agent atteint d'une maladie provenant de l'une des causes exceptionnelles prévues à l'article L. 27 du code des pensions
+civiles et militaires de retraites ou d'un accident survenu dans l'exercice ou à l'occasion de l'exercice de ses fonctions
+conserve l'intégralité de ses émoluments [*traitement, salaire*] jusqu'à ce qu'il soit en état de reprendre son service ou
+jusqu'à sa mise à la retraite.
+
+Il a droit au remboursement des honoraires médicaux et des frais directement entraînés par la maladie ou l'accident.
+
+Pour l'application du présent article, l'imputation au service de l'accident est appréciée par la commission de réforme
+instituée par le régime de pensions des agents des collectivités locales.
+
+Quand un agent a été atteint d'une maladie longue et sérieuse ou susceptible de rechute, ou quand il se trouve en état
+d'invalidité partielle ou de diminution physique permanente ne lui permettant pas d'assurer son emploi, le maire peut
+l'affecter à un service moins pénible sur avis de la commission de réforme [*conditions de forme*].
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - SPEC_APPLI: *Dispositions applicables aux agents nommés dans des emplois permanents à temps non complet*
+	  - TXT_ASSOCIE: Arrêté 1958-10-28
+	  - TXT_SOURCE: Arrêté du 27 août 1948
+	  - TXT_SOURCE: Arrêté du 27 août 1948 - art. 1 (V)
+	  - TXT_SOURCE: Arrêté du 27 août 1948 - art. 2 (V)
+	  - TXT_SOURCE: Arrêté du 27 août 1948 - art. 4 (V)
+	  - TXT_SOURCE: Arrêté du 27 août 1948 - art. 5 (V)
+	  - TXT_SOURCE: Arrêté du 27 août 1948 - art. 6 (V)
+	  - TXT_ASSOCIE: Décret n°77-1024 1977-09-07
+	  - TXT_SOURCE: Arrêté du 28 octobre 1958 - art. 1 (V)
+	  - TXT_SOURCE: Arrêté du 28 octobre 1958 - art. 10 (V)
+	  - TXT_SOURCE: Arrêté du 28 octobre 1958 - art. 11 (V)
+	  - TXT_SOURCE: Arrêté du 28 octobre 1958 - art. 12 (V)
+	  - TXT_SOURCE: Arrêté du 28 octobre 1958 - art. 13 (V)
+	  - TXT_SOURCE: Arrêté du 28 octobre 1958 - art. 14 (V)
+	  - TXT_SOURCE: Arrêté du 28 octobre 1958 - art. 15 (V)
+	  - TXT_SOURCE: Arrêté du 28 octobre 1958 - art. 16 (V)
+	  - TXT_SOURCE: Arrêté du 28 octobre 1958 - art. 17 (V)
+	  - TXT_SOURCE: Arrêté du 28 octobre 1958 - art. 18 (V)
+	  - TXT_SOURCE: Arrêté du 28 octobre 1958 - art. 19 (V)
+	  - TXT_SOURCE: Arrêté du 28 octobre 1958 - art. 2 (V)
+	  - TXT_SOURCE: Arrêté du 28 octobre 1958 - art. 20 (V)
+	  - TXT_SOURCE: Arrêté du 28 octobre 1958 - art. 21 (V)
+	  - TXT_SOURCE: Arrêté du 28 octobre 1958 - art. 22 (V)
+	  - TXT_SOURCE: Arrêté du 28 octobre 1958 - art. 23 (V)
+	  - TXT_SOURCE: Arrêté du 28 octobre 1958 - art. 24 (V)
+	  - TXT_SOURCE: Arrêté du 28 octobre 1958 - art. 3 (V)
+	  - TXT_SOURCE: Arrêté du 28 octobre 1958 - art. 4 (V)
+	  - TXT_SOURCE: Arrêté du 28 octobre 1958 - art. 5 (V)
+	  - TXT_SOURCE: Arrêté du 28 octobre 1958 - art. 6 (V)
+	  - TXT_SOURCE: Arrêté du 28 octobre 1958 - art. 7 (V)
+	  - TXT_SOURCE: Arrêté du 28 octobre 1958 - art. 8 (V)
+	  - TXT_SOURCE: Arrêté du 28 octobre 1958 - art. 9 (V)
+	  - SPEC_APPLI: Code des communes L421-1 :
+
+	**Codifié par**:
+
+	  - Décret n°77-372 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-372 1977-03-28 JORF ET JONC 5 AVRIL 1977
+
+	**Abrogé par**:
+
+	  - Loi n°84-53 1984-01-26 ART. 119 JORF 27 JANVIER 1984
+
+	**Cité par**:
+
+	  - Arrêté du 28 octobre 1958 - art. 18 (V)
+	  - CODE DES COMMUNES. - art. R*414-14 (V)
+
+	**Anciens textes**:
+
+	  - Code de l'administration communale 544
+
+	**Cite**:
+
+	  - Code des pensions civiles et militaires de retrait - art. L27 (M)
+
+
+###### Article L415-13
+
+L'agent qui remplit les conditions exigées des fonctionnaires de l'Etat pour bénéficier des dispositions de l'article 41 de
+la loi du 19 mars 1928 peut demander qu'il lui en soit fait application.
+
+Le bénéfice de ces dispositions est étendu à l'agent atteint d'une infirmité qui lui a ouvert droit à pension au titre du
+code des pensions militaires d'invalidité et des victimes de la guerre.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Arrêté du 9 mars 1973 - art. 19 (V)
+	  - Arrêté du 9 janvier 1975 - art. 15 (V)
+	  - Arrêté du 23 juin 1976 - art. 13 (V)
+	  - Arrêté du 23 juin 1976 - art. 17 (V)
+	  - Arrêté du 28 octobre 1958 - art. 19 (V)
+
+	**Anciens textes**:
+
+	  - Code de l'administration communale 545
+
+	**Codifié par**:
+
+	  - Décret n°77-372 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-372 1977-03-28 JORF ET JONC 5 AVRIL 1977
+
+	**Abrogé par**:
+
+	  - Loi n°84-53 1984-01-26 ART. 119 JORF 27 JANVIER 1984
+
+	**Cite**:
+
+	  - Code des pensions militaires d'invalidité et des victimes de la guerre
+	  - Loi   1928-03-19 ART. 41
+
+
+###### Article L415-14
+
+L'agent atteint de l'une des maladies mentionnées au 3° de l'article 36 de l'ordonnance n° 59-244 du 4 février 1959 relative
+au statut général des fonctionnaires bénéficie d'un congé de longue durée.
+
+Il conserve, pendant les trois premières années, l'intégralité et, pendant les deux années suivantes, la moitié de son
+traitement [*montant*].
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Code de l'administration communale 546 AL. 1
+
+	**Cite**:
+
+	  - Ordonnance 59-244 1959-02-04 ART. 36 3°
+
+	**Codifié par**:
+
+	  - Décret n°77-372 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-372 1977-03-28 JORF ET JONC 5 AVRIL 1977
+
+	**Cité par**:
+
+	  - Décret n°82-722 du 16 août 1982 - art. 3 (Ab)
+	  - Décret n°84-1104 du 10 décembre 1984 - art. 2 (Ab)
+	  - Arrêté du 28 octobre 1958 - art. 20 (V)
+	  - CODE DES COMMUNES. - art. L415-15 (Ab)
+	  - CODE DES COMMUNES. - art. L415-21 (Ab)
+
+	**Abrogé par**:
+
+	  - Loi n°84-53 1984-01-26 ART. 119 JORF 27 JANVIER 1984
+
+
+###### Article L415-15
+
+Lorsqu'il est constaté que la maladie qui ouvre droit à un congé de longue durée a été contractée dans l'exercice des
+fonctions, les délais fixés par l'article précédent sont respectivement portés à cinq et trois années.
+
+Lorsque l'agent intéressé demande le bénéfice de la prolongation prévue au premier alinéa, la décision est prise après avis
+du comité médical supérieur relevant du ministre chargé de la santé [**]conditions de forme[**].
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Décret n°59-310 1959-02-14 TITRE II modifié
+
+	**Cite**:
+
+	  - Décret n°59-310 1959-02-14 Titre II modifié
+	  - CODE DES COMMUNES. - art. L415-14 (Ab)
+
+	**Cité par**:
+
+	  - Arrêté du 9 mars 1973 - art. 19 (V)
+	  - Arrêté du 9 janvier 1975 - art. 15 (V)
+
+	**Anciens textes**:
+
+	  - Code de l'administration communale 546 AL. 2 et 4
+
+	**Codifié par**:
+
+	  - Décret n°77-372 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-372 1977-03-28 JORF ET JONC 5 AVRIL 1977
+
+	**Abrogé par**:
+
+	  - Loi n°84-53 1984-01-26 ART. 119 JORF 27 JANVIER 1984
+
+
+###### Article L415-16
+
+Les congés de longue durée sont accordés et renouvelés [*fréquence*] par périodes successives qui ne doivent pas dépasser six
+mois, après examen par le comité médical départemental chargé d'examiner les fonctionnaires de l'Etat.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Code de l'administration communale 546 AL. 3
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Décret n°59-310 1959-02-14 TITRE II modifié
+
+	**Codifié par**:
+
+	  - Décret n°77-372 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-372 1977-03-28 JORF ET JONC 5 AVRIL 1977
+
+	**Abrogé par**:
+
+	  - Loi n°84-53 1984-01-26 ART. 119 JORF 27 JANVIER 1984
+
+	**Cité par**:
+
+	  - Arrêté du 28 octobre 1958 - art. 20 (V)
+
+
+###### Article L415-17
+
+L'agent qui n'a plus droit aux congés [*de maladie*] prévus par les articles L. 415-13 à L. 415-16 et qui, à l'expiration de
+son dernier congé, ne peut reprendre son service est soit mis en disponibilité, soit, sur sa demande et s'il est reconnu
+définitivement inapte, admis à la retraite.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Code de l'administration communale 547
+
+	**Codifié par**:
+
+	  - Décret n°77-372 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-372 1977-03-28 JORF ET JONC 5 AVRIL 1977
+
+	**Abrogé par**:
+
+	  - Loi n°84-53 1984-01-26 ART. 119 JORF 27 JANVIER 1984
+
+	**Cite**:
+
+	  - Code des communes L415-13 à L415-16
+
+
+###### Article L415-18
+
+Lorsqu'un agent [*en congé maladie*] prolonge son absence sans autorisation, il est immédiatement placé dans la position de
+congé sans traitement, sous réserve de justification ultérieure reconnue valable par le médecin de l'administration.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Code de l'administration communale 548
+
+	**Codifié par**:
+
+	  - Décret n°77-372 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-372 1977-03-28 JORF ET JONC 5 AVRIL 1977
+
+	**Abrogé par**:
+
+	  - Loi n°84-53 1984-01-26 ART. 119 JORF 27 JANVIER 1984
+
+
+###### Article L415-19
+
+L'agent bénéficiaire d'un congé de maladie doit se soumettre au contrôle exercé par l'administration.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Code de l'administration communale 549 AL. 1
+
+	**Codifié par**:
+
+	  - Décret n°77-372 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-372 1977-03-28 JORF ET JONC 5 AVRIL 1977
+
+	**Abrogé par**:
+
+	  - Loi n°84-53 1984-01-26 ART. 119 JORF 27 JANVIER 1984
+
+
+###### Article L415-20
+
+L'agent qui se livre à une activité lucrative quelconque au cours d'un congé de maladie ne reçoit aucune rémunération. Il est
+passible de sanctions disciplinaires.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Code de l'administration communale 549 AL. 2
+
+	**Codifié par**:
+
+	  - Décret n°77-372 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-372 1977-03-28 JORF ET JONC 5 AVRIL 1977
+
+	**Abrogé par**:
+
+	  - Loi n°84-53 1984-01-26 ART. 119 JORF 27 JANVIER 1984
+
+
+###### Article L415-21
+
+Sous peine des sanctions [*disciplinaires*] prévues à l'article précédent, l'agent bénéficiaire d'un congé de longue durée,
+obtenu en application des articles L. 415-14 et L. 415-15 [*congé de maladie*], doit se soumettre au contrôle exercé par
+l'administration et, en outre, aux prescriptions que comporte son état de santé.
+
+Le temps pendant lequel la rémunération a été suspendue compte dans la période de congé en cours.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°77-372 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-372 1977-03-28 JORF ET JONC 5 AVRIL 1977
+
+	**Abrogé par**:
+
+	  - Loi n°84-53 1984-01-26 ART. 119 JORF 27 JANVIER 1984
+
+	**Cite**:
+
+	  - CODE DES COMMUNES. - art. L415-14 (Ab)
+	  - Code des communes L415-14, L415-15 et L415-20
+
+	**Anciens textes**:
+
+	  - Code de l'administration communale 549 AL. 3
+
+
+###### Article L415-22
+
+L'agent atteint, à la suite d'un accident survenu dans l'exercice ou à l'occasion de l'exercice de ses fonctions, d'une
+invalidité partielle permanente qui ne lui permet pas d'assurer son emploi peut, sur avis de la commission de réforme
+[**]conditions de forme[**], être pourvu d'un emploi correspondant à ses aptitudes physiques.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Arrêté  1959-02-28 (accident aérien ou maritime, indemnité)
+
+	**Codifié par**:
+
+	  - Décret n°77-372 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-372 1977-03-28 JORF ET JONC 5 AVRIL 1977
+
+	**Abrogé par**:
+
+	  - Loi n°84-53 1984-01-26 ART. 119 JORF 27 JANVIER 1984
+
+	**Cité par**:
+
+	  - Arrêté du 28 octobre 1958 - art. 18 (V)
+	  - CODE DES COMMUNES. - art. R*415-6 (V)
+
+	**Anciens textes**:
+
+	  - Code de l'administration communale 550 AL. 1
+
+
+###### Article L415-23
+
+La commune est subrogée dans les droits éventuels de l'agent victime d'un accident provoqué par un tiers jusqu'à concurrence
+du montant des charges qu'elle a supportées ou supporte du fait de cet accident.
+
+La commune dispose de plein droit contre ce tiers d'une action en remboursement [**]recours[**] conformément aux dispositions
+de l'ordonnance n° 59-76 du 7 janvier 1959 relative aux actions en réparation civile de l'Etat et de certaines autres
+personnes publiques.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Code de l'administration communale 550 AL. 3
+
+	**Cite**:
+
+	  - Ordonnance 59-76 1959-01-07
+
+	**Codifié par**:
+
+	  - Décret n°77-372 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-372 1977-03-28 JORF ET JONC 5 AVRIL 1977
+
+	**Abrogé par**:
+
+	  - Loi n°84-53 1984-01-26 ART. 119 JORF 27 JANVIER 1984
+
+	**Cité par**:
+
+	  - Arrêté du 28 octobre 1958 - art. 18 (V)
+
+
+###### Article L415-24
+
+Les congés de maladie sont considérés comme services accomplis   .
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°77-372 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-372 1977-03-28 JORF ET JONC 5 AVRIL 1977
+
+	**Abrogé par**:
+
+	  - Loi n°84-53 1984-01-26 ART. 119 JORF 27 JANVIER 1984
+
+
+###### Article L415-25
+
+Une caisse d'assurance couvre les charges financières incombant aux communes adhérentes du fait de l'attribution du capital
+décès et des avantages prévus aux articles L. 415-12 à L. 415-16 [*sur les congés de maladie*] et L. 415-51 [*la mise en
+disponibilité n'est prononcée qu'à l'expiration des congés de maladie*].
+
+La gestion de la caisse est confiée à la caisse des dépôts et consignations.
+
+Le conseil d'administration de la caisse comprend une représentation prépondérante des maires.
+
+Un règlement d'administration publique fixe les conditions de fonctionnement de la caisse.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Code de l'administration communale 609
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Décret n°47-2045 1947-10-20 ART. 8 modifié
+	  - TXT_ASSOCIE: Décret n°56-717 1956-07-16
+
+	**Codifié par**:
+
+	  - Décret n°77-372 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-372 1977-03-28 JORF ET JONC 5 AVRIL 1977
+
+	**Abrogé par**:
+
+	  - Loi n°84-53 1984-01-26 ART. 119 JORF 27 JANVIER 1984
+
+	**Cite**:
+
+	  - CODE DES COMMUNES. - art. L415-51 (Ab)
+	  - Code des communes L415-12 à L415-16
+
+
+##### Les congés de maternité .
+
+###### Article L415-26
+
+Le personnel féminin des communes, soumis au présent titre         , bénéficie d'un congé avec traitement pour couches et
+allaitement ou pour adoption. 
+
+La durée de ce congé est égale à celle prévue par la législation sur la sécurité sociale. 
+
+Le congé prévu au premier alinéa est considéré comme service accompli.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - SPEC_APPLI: *Dispositions applicables aux agents nommés dans des emplois permanents à temps non complet*
+	  - SPEC_APPLI: Code des communes L421-1 :
+
+	**Codifié par**:
+
+	  - Décret n°77-372 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-372 1977-03-28 JORF ET JONC 5 AVRIL 1977
+
+	**Abrogé par**:
+
+	  - Loi n°84-53 1984-01-26 ART. 119 JORF 27 JANVIER 1984
+
+	**Cité par**:
+
+	  - CODE DES COMMUNES. - art. L421-1 (Ab)
+	  - CODE DES COMMUNES. - art. R*415-6-1 (Ab)
+	  - CODE DES COMMUNES. - art. R415-6-A (M)
+	  - CODE DES COMMUNES. - art. R415-6-B (M)
+
+
+##### Les congés exceptionnels .
+
+###### Article L415-27
+
+Les congés exceptionnels rémunérés sont considérés comme services accomplis   .
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°77-372 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-372 1977-03-28 JORF ET JONC 5 AVRIL 1977
+
+	**Abrogé par**:
+
+	  - Loi n°84-53 1984-01-26 ART. 119 JORF 27 JANVIER 1984
+
+
+##### Les autorisations d'absence .
+
+###### Article L415-28
+
+Un arrêté du maire, pris après avis de la commission paritaire communale ou intercommunale, suivant le cas [**]conditions de
+forme[**], détermine les conditions dans lesquelles des autorisations d'absence peuvent être accordées aux agents à
+l'occasion de certains événements familiaux.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - SPEC_APPLI: *Dispositions applicables aux agents nommés dans des emplois permanents à temps non complet*
+	  - SPEC_APPLI: Code des communes L421-1 :
+
+	**Anciens textes**:
+
+	  - Code de l'administration communale 540
+
+	**Codifié par**:
+
+	  - Décret n°77-372 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-372 1977-03-28 JORF ET JONC 5 AVRIL 1977
+
+	**Abrogé par**:
+
+	  - Loi n°84-53 1984-01-26 ART. 119 JORF 27 JANVIER 1984
+
+
+###### Article L415-29
+
+Des autorisations spéciales d'absence qui n'entrent pas en compte dans le calcul des congés annuels sont accordées
+[*conditions*] :
+
+1° Aux agents qui occupent des fonctions publiques électives pour la durée totale des sessions des assemblées dont ils font
+partie ;
+
+2° Aux représentants dûment mandatés des syndicats à l'occasion de la convocation des congrès professionnels syndicaux,
+fédéraux, confédéraux et internationaux, ainsi que des organismes directeurs des syndicats dont ils sont membres élus ;
+
+3° Aux membres des commissions paritaires et conseils de discipline ;
+
+4° Aux agents qui fréquentent les cours de formation professionnelle dans le cadre de l'administration municipale.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - SPEC_APPLI: *Dispositions applicables aux agents nommés dans des emplois permanents à temps non complet*
+	  - SPEC_APPLI: Code des communes L421-1 :
+
+	**Codifié par**:
+
+	  - Décret n°77-372 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-372 1977-03-28 JORF ET JONC 5 AVRIL 1977
+
+	**Abrogé par**:
+
+	  - Loi n°84-53 1984-01-26 ART. 119 JORF 27 JANVIER 1984
+
+	**Cité par**:
+
+	  - CODE DES COMMUNES. - art. R421-26 (Ab)
+
+	**Anciens textes**:
+
+	  - Code de l'administration communale 541
+
+
+##### ACTIVITE
+
+##### CONGES ANNUELS .
+
+###### Article L415-7
+
+L'agent originaire des départements de la Guadeloupe, de la Guyane, de la Martinique et de la Réunion exerçant en métropole
+peut cumuler ses congés dans les mêmes conditions que les fonctionnaires de l'Etat originaires de ces départements.
+
+Il peut bénéficier en matière de congé des avantages accordés, par décret, aux fonctionnaires de l'Etat à condition que la
+charge financière qui en résulte n'excède pas les ressources propres de la collectivité locale intéressée.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - SPEC_APPLI: *Dispositions applicables aux agents nommés dans des emplois permanents à temps non complet*
+	  - SPEC_APPLI: Code des communes L421-1 :
+
+	**Anciens textes**:
+
+	  - Code de l'administration communale 539 complété AL. 3
+
+	**Codifié par**:
+
+	  - Décret n°77-372 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-372 1977-03-28 JORF et JONC 5 avril 1977
+
+
+##### CONGE POSTNATAL .
+
+###### Article L415-30
+
+Le congé postnatal est la position de l'agent féminin qui, après un congé pour couches et allaitement ou l'adoption d'un
+enfant de moins de trois ans, est placé hors de son administration ou service d'origine pour élever son enfant.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Code de l'administration communale 577-1 AL. 1
+
+	**Codifié par**:
+
+	  - Décret n°77-372 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-372 1977-03-28 JORF et JONC 5 avril 1977
+
+	**Modifié par**:
+
+	  - Loi n°78-753 1978-07-17 art. 21 V JORF 18 juillet 1978
+
+	**Cité par**:
+
+	  - CODE DES COMMUNES. - art. R*415-6-1 (Ab)
+	  - CODE DES COMMUNES. - art. R*415-6-2 (Ab)
+	  - CODE DES COMMUNES. - art. R415-6-A (M)
+
+
+###### Article L415-31
+
+Dans la position de congé postnatal, accordée de droit sur simple demande et pour une durée maximale de deux ans,
+l'intéressée cesse de bénéficier de ses droits à la retraite ; elle conserve ses droits à l'avancement d'échelon, réduits de
+moitié.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Code de l'administration communale 577-1 AL. 2 PHR. 1
+
+	**Codifié par**:
+
+	  - Décret n°77-372 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-372 1977-03-28 JORF et JONC 5 avril 1977
+
+	**Modifié par**:
+
+	  - Loi n°78-753 1978-07-17 art. 21 V JORF 18 juillet 1978
+
+
+###### Article L415-32
+
+A l'expiration du congé postnatal, l'intéressée est réintégrée de plein droit, au besoin en surnombre, dans son
+administration d'origine.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Code de l'administration communale 577-1 AL. 2 PHR. 2
+
+	**Codifié par**:
+
+	  - Décret n°77-372 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-372 1977-03-28 JORF et JONC 5 avril 1977
+
+	**Modifié par**:
+
+	  - Loi n°78-753 1978-07-17 art. 21 V JORF 18 juillet 1978
+
+	**Cité par**:
+
+	  - CODE DES COMMUNES. - art. R415-6-G (M)
+
+
+##### Le congé postnatal .
+
+###### Article L415-33
+
+Les modalités d'application de la présente section sont déterminées par décret.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Code de l'administration communale 577-1 AL. 3
+
+	**Codifié par**:
+
+	  - Décret n°77-372 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-372 1977-03-28 JORF et JONC 5 avril 1977
+
+	**Modifié par**:
+
+	  - Loi n°78-753 1978-07-17 art. 21 V JORF 18 juillet 1978
+
+	**Cité par**:
+
+	  - CODE DES COMMUNES. - art. R422-47 (Ab)
+
+
+##### Le détachement .
+
+###### Article L415-34
+
+Le détachement d'un agent est autorisé par arrêté du maire.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Code de l'administration communale 555 PHR. 1
+
+	**Codifié par**:
+
+	  - Décret n°77-372 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-372 1977-03-28 JORF ET JONC 5 AVRIL 1977
+
+	**Abrogé par**:
+
+	  - Loi n°84-53 1984-01-26 ART. 119 JORF 27 JANVIER 1984
+
+
+###### Article L415-35
+
+Il existe deux sortes de détachements    : 
+
+1° Le détachement de courte durée ou délégation ; 
+
+2° Le détachement de longue durée.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Code de l'administration communale 555 PHR. 2
+
+	**Codifié par**:
+
+	  - Décret n°77-372 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-372 1977-03-28 JORF ET JONC 5 AVRIL 1977
+
+	**Abrogé par**:
+
+	  - Loi n°84-53 1984-01-26 ART. 119 JORF 27 JANVIER 1984
+
+
+###### Article L415-36
+
+Le détachement de courte durée ne peut excéder six mois ni faire l'objet d'un renouvellement.
+
+A l'expiration du détachement et, en tout état de cause, de ce délai de six mois, l'agent détaché est réintégré dans son
+emploi antérieur.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Code de l'administration communale 556
+
+	**Codifié par**:
+
+	  - Décret n°77-372 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-372 1977-03-28 JORF ET JONC 5 AVRIL 1977
+
+	**Abrogé par**:
+
+	  - Loi n°84-53 1984-01-26 ART. 119 JORF 27 JANVIER 1984
+
+
+###### Article L415-37
+
+Le détachement de longue durée ne peut excéder cinq années.
+
+Toutefois, il peut être indéfiniment renouvelé [**]fréquence[**] par arrêté du maire par période de cinq années.
+
+L'agent qui fait l'objet d'un détachement de longue durée peut être aussitôt remplacé dans son emploi.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Code de l'administration communale 557 AL. 1 et 3
+
+	**Codifié par**:
+
+	  - Décret n°77-372 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-372 1977-03-28 JORF ET JONC 5 AVRIL 1977
+
+	**Abrogé par**:
+
+	  - Loi n°84-53 1984-01-26 ART. 119 JORF 27 JANVIER 1984
+
+
+###### Article L415-38
+
+A l'expiration du détachement de longue durée, l'agent est réintégré, à la première vacance, dans son grade d'origine et
+réaffecté à un emploi correspondant à son grade.
+
+Il a priorité pour être affecté au poste qu'il occupait avant son détachement.
+
+Lorsqu'il refuse le poste qui lui est assigné, il ne peut être nommé au poste auquel il peut prétendre ou à un poste
+équivalent que lorsqu'une vacance est budgétairement ouverte.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Code de l'administration communale 558
+
+	**Codifié par**:
+
+	  - Décret n°77-372 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-372 1977-03-28 JORF ET JONC 5 AVRIL 1977
+
+	**Abrogé par**:
+
+	  - Loi n°84-53 1984-01-26 ART. 119 JORF 27 JANVIER 1984
+
+	**Cité par**:
+
+	  - CODE DES COMMUNES. - art. L415-44 (Ab)
+
+
+###### Article L415-39
+
+L'agent détaché conserve son droit à l'avancement de classe et de grade.
+
+Il reste tributaire de la caisse nationale de retraites des agents des collectivités locales et effectue les versements fixés
+par le règlement de cette caisse, sur le traitement d'activité afférent à son grade et à son échelon dans le service dont il
+est détaché.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Code de l'administration communale 560
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Décret n°1947-09-19
+	  - TXT_ASSOCIE: Ordonnance 45-993 1945-05-17 ART. 3
+	  - TXT_ASSOCIE: Décret n°65-773 1965-09-09
+
+	**Cite**:
+
+	  - Ordonnance 45-993 1945-05-17 ART. 3
+	  - Décret n°47-1846 1947-09-19
+	  - Décret n°65-773 1965-09-09
+
+	**Codifié par**:
+
+	  - Décret n°77-372 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-372 1977-03-28 JORF ET JONC 5 AVRIL 1977
+
+	**Abrogé par**:
+
+	  - Loi n°84-53 1984-01-26 ART. 119 JORF 27 JANVIER 1984
+
+
+###### Article L415-40
+
+Conformément à l'article 15 de la loi n° 73-6 du 3 janvier 1973 instituant un médiateur, les collaborateurs du médiateur qui
+ont la qualité de fonctionnaire des communes bénéficient de garanties, quant à leur réintégration dans leur corps d'origine.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - SPEC_APPLI: *Dispositions applicables aux agents nommés dans des emplois permanents à temps non complet*
+	  - SPEC_APPLI: Code des communes L421-2 :
+
+	**Cite**:
+
+	  - Loi n°73-6 du 3 janvier 1973 - art. 15, v. init.
+
+	**Codifié par**:
+
+	  - Décret n°77-372 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-372 1977-03-28 JORF ET JONC 5 AVRIL 1977
+
+	**Abrogé par**:
+
+	  - Loi n°84-53 1984-01-26 ART. 119 JORF 27 JANVIER 1984
+
+	**Cité par**:
+
+	  - CODE DES COMMUNES. - art. L421-2 (Ab)
+	  - CODE DES COMMUNES. - art. R*415-11 (Ab)
+
+
+##### Position hors cadre .
+
+###### Article L415-41
+
+L'agent comptant au moins quinze années de services effectifs [**]ancienneté[**] accomplis en position d'activité ou sous les
+drapeaux dans un emploi conduisant à pension de la caisse nationale de retraites des agents des collectivités locales,
+détaché :
+
+1° Soit auprès des administrations dans un emploi ne conduisant pas à pension du régime général des retraites ou à pension
+d'un des régimes fixés par le code des pensions civiles et militaires de retraites ;
+
+2° Soit auprès d'un organisme d'intérêt communal ou intercommunal, peut, dans le délai de trois mois suivant son détachement,
+être placé, sur sa demande, en position hors cadre.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Code de l'administration communale 561 AL. 1
+
+	**Cite**:
+
+	  - Ordonnance 45-993 1945-05-17 ART. 3
+	  - Décret n°47-1846 1947-09-19
+	  - Décret n°65-773 1965-09-09
+	  - Code des pensions civiles et militaires de retraite
+
+	**Codifié par**:
+
+	  - Décret n°77-372 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-372 1977-03-28 JORF ET JONC 5 AVRIL 1977
+
+	**Abrogé par**:
+
+	  - Loi n°84-53 1984-01-26 ART. 119 JORF 27 JANVIER 1984
+
+
+###### Article L415-42
+
+La mise hors cadre d'un agent est prononcée, sur sa demande, par arrêté du maire.
+
+Elle ne comporte aucune limitation de durée.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Code de l'administration communale 561 AL. 3
+
+	**Codifié par**:
+
+	  - Décret n°77-372 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-372 1977-03-28 JORF ET JONC 5 AVRIL 1977
+
+	**Abrogé par**:
+
+	  - Loi n°84-53 1984-01-26 ART. 119 JORF 27 JANVIER 1984
+
+
+###### Article L415-43
+
+L'agent en position hors cadre cesse de bénéficier de ses droits à l'avancement et à la retraite.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Code de l'administration communale 561 AL. 2
+
+	**Codifié par**:
+
+	  - Décret n°77-372 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-372 1977-03-28 JORF ET JONC 5 AVRIL 1977
+
+	**Abrogé par**:
+
+	  - Loi n°84-53 1984-01-26 ART. 119 JORF 27 JANVIER 1984
+
+
+###### Article L415-44
+
+L'agent en position hors cadre peut demander sa réintégration dans son cadre d'origine.
+
+La réintégration est prononcée dans les conditions prévues à l'article L. 415-38 [*relatif à la réintégration à l'expiration
+du congé de longue durée*].
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Code de l'administration communale 562
+
+	**Codifié par**:
+
+	  - Décret n°77-372 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-372 1977-03-28 JORF ET JONC 5 AVRIL 1977
+
+	**Abrogé par**:
+
+	  - Loi n°84-53 1984-01-26 ART. 119 JORF 27 JANVIER 1984
+
+	**Cite**:
+
+	  - CODE DES COMMUNES. - art. L415-38 (Ab)
+
+
+###### Article L415-45
+
+L'agent en position hors cadre est soumis aux régimes statutaire et de retraite régissant la fonction qu'il exerce dans cette
+position.
+
+Les retenues au titre du régime de retraites des agents des collectivités locales ne sont pas exigibles.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°77-372 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-372 1977-03-28 JORF ET JONC 5 AVRIL 1977
+
+	**Abrogé par**:
+
+	  - Loi n°84-53 1984-01-26 ART. 119 JORF 27 JANVIER 1984
+
+
+###### Article L415-46
+
+Lorsqu'il cesse d'être en position hors cadre et n'est pas réintégré dans son cadre d'origine, l'agent peut être mis à la
+retraite et prétendre à la pension du régime de retraites des agents des collectivités locales.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Code de l'administration communale 564 AL. 1
+
+	**Codifié par**:
+
+	  - Décret n°77-372 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-372 1977-03-28 JORF et JONC 5 avril 1977
+
+	**Abrogé par**:
+
+	  - Loi n°84-53 1984-01-26 ART. 119 JORF 27 JANVIER 1984
+
+	**Cité par**:
+
+	  - CODE DES COMMUNES. - art. R*415-13 (Ab)
+
+
+###### Article L415-47
+
+Lorsque l'agent cesse d'être en position hors cadre et qu'il fait l'objet d'une réintégration dans son cadre d'origine, ses
+droits à pension, au regard de la caisse nationale de retraites des agents des collectivités locales, recommencent à courir à
+compter de la date de la réintégration.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - CODE DES COMMUNES. - art. L415-48 (Ab)
+
+	**Anciens textes**:
+
+	  - Code de l'administration communale 564 AL. 2
+
+	**Codifié par**:
+
+	  - Décret n°77-372 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-372 1977-03-28 JORF ET JONC 5 AVRIL 1977
+
+	**Abrogé par**:
+
+	  - Loi n°84-53 1984-01-26 ART. 119 JORF 27 JANVIER 1984
+
+
+###### Article L415-48
+
+Toutefois, dans le cas où il pourrait prétendre à pension au titre du régime de retraite auquel il a été affilié pendant sa
+mise hors cadre, l'agent peut, dans les trois mois suivant sa réintégration, solliciter la prise en compte, par la caisse
+nationale de retraites des agents des collectivités locales, de la période considérée, sous réserve du versement de la
+retenue correspondant à cette période calculée sur les émoluments attachés à l'emploi dans lequel il est réintégré.
+
+L'organisme dans lequel l'intéressé a été employé verse, sur les mêmes bases, la retenue pour le régime de retraites de
+agents des collectivités locales.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Code de l'administration communale 564 AL. 3 et AL. 4 (partie)
+
+	**Codifié par**:
+
+	  - Décret n°77-372 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-372 1977-03-28 JORF et JONC 5 avril 1977
+
+	**Abrogé par**:
+
+	  - Loi n°84-53 1984-01-26 ART. 119 JORF 27 JANVIER 1984
+
+	**Cite**:
+
+	  - CODE DES COMMUNES. - art. L415-47 (Ab)
+
+	**Cité par**:
+
+	  - CODE DES COMMUNES. - art. R*415-14 (Ab)
+
+
+##### La disponibilité .
+
+###### Article L415-49
+
+La disponibilité est la position de l'agent qui, placé hors de son cadre d'origine, cesse de bénéficier, dans cette position,
+de ses droits à l'avancement et à la retraite. 
+
+Il existe, en outre, à l'égard du personnel féminin, une disponibilité spéciale accordée conformément aux dispositions de
+l'article L. 415-57                      .
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Code de l'administration communale 566 AL. 1 et 3
+
+	**Codifié par**:
+
+	  - Décret n°77-372 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-372 1977-03-28 JORF ET JONC 5 AVRIL 1977
+
+	**Abrogé par**:
+
+	  - Loi n°84-53 1984-01-26 ART. 119 JORF 27 JANVIER 1984
+
+	**Cite**:
+
+	  - CODE DES COMMUNES. - art. L415-57 (Ab)
+
+
+###### Article L415-50
+
+La disponibilité est prononcée par arrêté du maire, soit d'office, soit à la demande de l'intéressé.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Code de l'administration communale 566 AL. 2
+
+	**Codifié par**:
+
+	  - Décret n°77-372 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-372 1977-03-28 JORF ET JONC 5 AVRIL 1977
+
+	**Abrogé par**:
+
+	  - Loi n°84-53 1984-01-26 ART. 119 JORF 27 JANVIER 1984
+
+
+###### Article L415-51
+
+La mise en disponibilité ne peut être prononcée d'office qu'à l'expiration des congés de maladie prévus aux articles L.
+415-11 et L. 415-17 [*congé de longue durée, prolongation*].
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Code de l'administration communale 567 AL. 1
+
+	**Codifié par**:
+
+	  - Décret n°77-372 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-372 1977-03-28 JORF ET JONC 5 AVRIL 1977
+
+	**Abrogé par**:
+
+	  - Loi n°84-53 1984-01-26 ART. 119 JORF 27 JANVIER 1984
+
+	**Cité par**:
+
+	  - CODE DES COMMUNES. - art. L415-25 (Ab)
+	  - CODE DES COMMUNES. - art. R*415-15 (Ab)
+
+	**Cite**:
+
+	  - Code des communes L415-11 et L415-17
+
+
+###### Article L415-52
+
+La durée de la disponibilité prononcée d'office ne peut excéder une année.
+
+Elle peut être renouvelée à deux reprises pour une durée égale.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Code de l'administration communale 568 AL. 1
+
+	**Codifié par**:
+
+	  - Décret n°77-372 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-372 1977-03-28 JORF ET JONC 5 AVRIL 1977
+
+	**Abrogé par**:
+
+	  - Loi n°84-53 1984-01-26 ART. 119 JORF 27 JANVIER 1984
+
+	**Cité par**:
+
+	  - CODE DES COMMUNES. - art. R*415-15 (Ab)
+
+
+###### Article L415-53
+
+A l'expiration de la durée de la disponibilité prononcée d'office, l'agent est, soit réintégré dans les cadres de son
+administration ou service d'origine, soit mis à la retraite, soit, s'il n'a pas droit à pension, rayé des cadres par
+licenciement.
+
+Toutefois, si, à l'expiration de la troisième année de disponibilité [*délai*], l'agent est inapte à reprendre son service,
+mais qu'il résulte d'un avis du comité médical départemental chargé d'examiner les fonctionnaires de l'Etat qu'il doit
+normalement pouvoir reprendre ses fonctions avant l'expiration d'une nouvelle année, la disponibilité peut faire l'objet d'un
+troisième renouvellement.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Code de l'administration communale 568 AL. 2 et AL. 3
+
+	**Codifié par**:
+
+	  - Décret n°77-372 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-372 1977-03-28 JORF ET JONC 5 AVRIL 1977
+
+	**Abrogé par**:
+
+	  - Loi n°84-53 1984-01-26 ART. 119 JORF 27 JANVIER 1984
+
+	**Cité par**:
+
+	  - CODE DES COMMUNES. - art. R*415-15 (Ab)
+
+
+###### Article L415-54
+
+La mise en disponibilité sur demande de l'agent intéressé ne peut être accordée que dans les cas suivants :
+
+1° Accident ou maladie grave du conjoint ou d'un enfant :
+
+la durée de la disponibilité ne peut, en ce cas, excéder trois années, mais est renouvelable deux fois pour une durée égale ;
+
+2° Etudes ou recherches présentant un intérêt général :
+
+la durée de la disponibilité ne peut, en ce cas, excéder trois années, mais est renouvelable une fois pour une durée égale ;
+
+3° Pour convenances personnelles : la durée de la disponibilité ne peut, en ce cas, excéder un an, mais est renouvelable une
+fois pour une durée égale ;
+
+4° Pour contracter un engagement dans une formation militaire : la durée de la disponibilité ne peut, en ce cas, excéder
+trois années, mais peut être renouvelée une fois pour une durée égale.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Code de l'administration communale 569
+
+	**Codifié par**:
+
+	  - Décret n°77-372 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-372 1977-03-28 JORF ET JONC 5 AVRIL 1977
+
+	**Abrogé par**:
+
+	  - Loi n°84-53 1984-01-26 ART. 119 JORF 27 JANVIER 1984
+
+
+###### Article L415-55
+
+La disponibilité peut être également prononcée, sur la demande de l'agent, pour exercer une activité relevant de sa
+compétence, dans une entreprise publique ou privée, à condition :
+
+- qu'il soit constaté que cette mise en disponibilité est compatible avec les nécessités du service ;
+
+- que l'intéressé ait accompli au moins dix années de services effectifs dans l'administration [*ancienneté*] ;
+
+- que l'activité présente un caractère d'intérêt public à raison de la fin qu'elle poursuit ou de l'importance du rôle
+qu'elle joue dans l'économie nationale ;
+
+- que l'intéressé n'ait pas eu, au cours des cinq dernières années, soit à exercer un contrôle sur l'entreprise, soit à
+participer à l'élaboration ou à la passation de marchés avec elle.
+
+La durée de la disponibilité prévue au présent article ne peut excéder trois années mais peut être renouvelée une fois pour
+une durée égale.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Code de l'administration communale 570
+
+	**Codifié par**:
+
+	  - Décret n°77-372 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-372 1977-03-28 JORF ET JONC 5 AVRIL 1977
+
+	**Abrogé par**:
+
+	  - Loi n°84-53 1984-01-26 ART. 119 JORF 27 JANVIER 1984
+
+
+###### Article L415-56
+
+Le maire peut, à tout moment, et doit, au moins deux fois par an [*fréquence*], faire procéder aux enquêtes nécessaires en
+vue de s'assurer que l'activité de l'agent mis en disponibilité correspond réellement aux motifs pour lesquels il a été placé
+dans cette position.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Code de l'administration communale 571
+
+	**Codifié par**:
+
+	  - Décret n°77-372 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-372 1977-03-28 JORF ET JONC 5 AVRIL 1977
+
+	**Abrogé par**:
+
+	  - Loi n°84-53 1984-01-26 ART. 119 JORF 27 JANVIER 1984
+
+
+###### Article L415-57
+
+La mise en disponibilité spéciale est accordée de droit à la femme agent de la commune et sur sa demande pour élever un
+enfant âgé de moins de cinq ans ou atteint d'une infirmité exigeant des soins continus.
+
+Cette mise en disponibilité dure aussi longtemps que sont remplies les conditions prévues à l'alinéa précédent, dans la
+limite maximum de deux ans.
+
+Elle peut être renouvelée, à la demande de l'intéressée, aussi longtemps que sont remplies ces conditions.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Code de l'administration communale 572
+
+	**Codifié par**:
+
+	  - Décret n°77-372 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-372 1977-03-28 JORF ET JONC 5 AVRIL 1977
+
+	**Abrogé par**:
+
+	  - Loi n°84-53 1984-01-26 ART. 119 JORF 27 JANVIER 1984
+
+	**Cité par**:
+
+	  - CODE DES COMMUNES. - art. L415-49 (Ab)
+	  - CODE DES COMMUNES. - art. L415-58 (Ab)
+
+
+###### Article L415-58
+
+L'agent mis en disponibilité sur sa demande n'a droit à aucune rémunération.
+
+Toutefois, dans le cas [*où la femme agent communal doit élever un enfant âgé de moins de cinq ans ou atteint d'infirmité*],
+prévu à l'article précédent la femme agent de la commune perçoit la totalité des prestations familiales obligatoires.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Code de l'administration communale 573
+
+	**Codifié par**:
+
+	  - Décret n°77-372 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-372 1977-03-28 JORF ET JONC 5 AVRIL 1977
+
+	**Abrogé par**:
+
+	  - Loi n°84-53 1984-01-26 ART. 119 JORF 27 JANVIER 1984
+
+	**Cite**:
+
+	  - CODE DES COMMUNES. - art. L415-57 (Ab)
+
+
+###### Article L415-59
+
+La réintégration de l'agent mis en disponibilité sur sa demande est de droit à l'une des trois premières vacances, si la
+durée de la disponibilité n'a pas excédé trois années.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Code de l'administration communale 574
+
+	**Codifié par**:
+
+	  - Décret n°77-372 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-372 1977-03-28 JORF ET JONC 5 AVRIL 1977
+
+	**Abrogé par**:
+
+	  - Loi n°84-53 1984-01-26 ART. 119 JORF 27 JANVIER 1984
+
+
+###### Article L415-60
+
+L'agent mis en disponibilité qui, lors de sa réintégration, refuse le poste qui lui est assigné peut être rayé des cadres par
+licenciement, après avis de la commission paritaire compétente [**]conditions de forme[**].
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Code de l'administration communale 575
+
+	**Codifié par**:
+
+	  - Décret n°77-372 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-372 1977-03-28 JORF ET JONC 5 AVRIL 1977
+
+	**Abrogé par**:
+
+	  - Loi n°84-53 1984-01-26 ART. 119 JORF 27 JANVIER 1983
+
+
+###### Article L415-61
+
+Les agents qui, antérieurement au 1er mai 1952 [*date*], ont été appelés à remplir des fonctions soit électives, soit
+syndicales, soit d'un caractère communal ou intercommunal, dont les statuts particuliers ne prévoyaient pas le détachement et
+les avantages y afférents et qui ont dû, pour remplir leurs fonctions, solliciter leur mise en disponibilité, bénéficient
+d'une reconstitution de carrière permettant la prise en compte de leurs années tant au point de vue avancement de classe
+qu'au point de vue validation pour leur retraite, à dater du 19 octobre 1946.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Code de l'administration communale 613
+
+	**Codifié par**:
+
+	  - Décret n°77-372 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-372 1977-03-28 JORF ET JONC 5 AVRIL 1977
+
+	**Abrogé par**:
+
+	  - Loi n°84-53 1984-01-26 ART. 119 JORF 27 JANVIER 1984
+
+
+##### Position "sous les drapeaux" .
+
+###### Article L415-62
+
+Pendant la durée légale de son service militaire, l'agent est placé dans une position spéciale, dite " sous les drapeaux ". 
+
+Il perd alors son traitement d'activité et ne perçoit que sa solde militaire   .
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Code de l'administration communale 576 AL. 1 et 2
+
+	**Codifié par**:
+
+	  - Décret n°77-372 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-372 1977-03-28 JORF ET JONC 5 AVRIL 1977
+
+	**Abrogé par**:
+
+	  - Loi n°84-53 1984-01-26 ART. 119 JORF 27 JANVIER 1984
+
+
+###### Article L415-63
+
+L'agent qui accomplit une période d'instruction obligatoire est mis en congé avec traitement pour la durée de cette période.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Code de l'administration communale 577
+
+	**Codifié par**:
+
+	  - Décret n°77-372 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-372 1977-03-28 JORF ET JONC 5 AVRIL 1977
+
+	**Abrogé par**:
+
+	  - Loi n°84-53 1984-01-26 ART. 119 JORF 27 JANVIER 1984
+
+	**Cité par**:
+
+	  - CODE DES COMMUNES. - art. L415-3 (Ab)
+
+
+###### Article L415-64
+
+En cas de mobilisation générale ou de rappel sous les drapeaux, les fonctionnaires et agents communaux bénéficient des mêmes
+dispositions que les fonctionnaires de l'Etat, en ce qui concerne leur situation administrative et leurs traitements.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Code de l'administration communale 576 AL. 3
+
+	**Codifié par**:
+
+	  - Décret n°77-372 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-372 1977-03-28 JORF ET JONC 5 AVRIL 1977
+
+	**Cite**:
+
+	  - Décret-loi 1939-09-01 modifié
+
+	**Abrogé par**:
+
+	  - Loi n°84-53 1984-01-26 ART. 119 JORF 27 JANVIER 1984
+
+
+#### Cessation de fonctions
+
+##### L'admission à la retraite .
+
+###### Article L416-3
+
+Les dispositions législatives ou réglementaires relatives à la fixation des limites d'âge des fonctionnaires de l'Etat sont
+applicables aux agents soumis au présent titre.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Code de l'administration communale 589
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Loi n°46-195 1946-02-15
+	  - TXT_ASSOCIE: Décret n°53-711 1953-08-09
+	  - TXT_ASSOCIE: Décret n°77-810 du 13 juillet 1977 - art. 1 (V)
+	  - TXT_ASSOCIE: Décret n°77-810 du 13 juillet 1977 - art. 3 (V)
+	  - TXT_ASSOCIE: Loi n°1936-08-18
+
+	**Codifié par**:
+
+	  - Décret n°77-372 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-372 1977-03-28 JORF ET JONC 5 AVRIL 1977
+
+	**Cité par**:
+
+	  - Décret n°77-810 du 13 juillet 1977 - art. 2 (V)
+	  - Décret n°77-810 du 13 juillet 1977 - art. 3 (V)
+
+	**Abrogé par**:
+
+	  - Loi n°84-53 1984-01-26 ART. 119 JORF 27 JANVIER 1984
+
+
+##### La démission .
+
+###### Article L416-5
+
+La démission ne peut résulter que d'une demande écrite de l'agent marquant sa volonté non équivoque de cesser ses fonctions
+[*conditions de forme*].
+
+Elle n'a d'effet qu'autant qu'elle est acceptée par l'autorité investie du pouvoir de nomination et prend effet à la date
+fixée par cette autorité.
+
+La décision de l'autorité compétente doit intervenir dans le délai d'un mois.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Code de l'administration communale 579
+
+	**Codifié par**:
+
+	  - Décret n°77-372 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-372 1977-03-28 JORF ET JONC 5 AVRIL 1977
+
+	**Abrogé par**:
+
+	  - Loi n°84-53 1984-01-26 ART. 119 JORF 27 JANVIER 1984
+
+
+###### Article L416-6
+
+L'acceptation de la démission [*demandée par un agent communal*] rend celle-ci irrévocable.
+
+Cette acceptation ne fait pas obstacle, le cas échéant, à l'exercice de l'action disciplinaire, en raison de faits qui
+seraient révélés postérieurement.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Code de l'administration communale 580
+
+	**Codifié par**:
+
+	  - Décret n°77-372 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-372 1977-03-28 JORF ET JONC 5 AVRIL 1977
+
+	**Abrogé par**:
+
+	  - Loi n°84-53 1984-01-26 ART. 119 JORF 27 JANVIER 1984
+
+
+###### Article L416-7
+
+Lorsque l'autorité compétente refuse d'accepter la démission [*d'un agent communal*], l'agent intéressé peut saisir la
+commission paritaire.
+
+Celle-ci émet un avis motivé qu'elle transmet à l'autorité compétente.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Code de l'administration communale 581
+
+	**Codifié par**:
+
+	  - Décret n°77-372 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-372 1977-03-28 JORF ET JONC 5 AVRIL 1977
+
+	**Abrogé par**:
+
+	  - Loi n°84-53 1984-01-26 ART. 119 JORF 27 JANVIER 1984
+
+
+###### Article L416-8
+
+L'agent qui cesse ses fonctions avant la date fixée par l'autorité compétente pour accepter la démission peut faire l'objet
+d'une sanction disciplinaire.
+
+Lorsqu'il a droit à pension, il peut subir une retenue correspondant au plus à la rémunération des services non effectués ;
+cette retenue est répartie sur les premiers versements qui lui sont faits à ce titre, à concurrence d'un cinquième du montant
+de ces versements [*pourcentage*].
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Code de l'administration communale 583
+
+	**Codifié par**:
+
+	  - Décret n°77-372 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-372 1977-03-28 JORF ET JONC 5 AVRIL 1977
+
+	**Abrogé par**:
+
+	  - Loi n°84-53 1984-01-26 ART. 119 JORF 27 JANVIER 1984
+
+
+##### Le licenciement .
+
+###### Article L416-9
+
+En dehors de l'application d'une sanction disciplinaire, le dégagement des cadres d'un agent ne peut être prononcé qu'à la
+suite d'une suppression d'emploi décidée par mesure d'économie.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Code de l'administration communale 584 AL. 1
+
+	**Codifié par**:
+
+	  - Décret n°77-372 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-372 1977-03-28 JORF ET JONC 5 AVRIL 1977
+
+	**Abrogé par**:
+
+	  - Loi n°84-53 1984-01-26 ART. 119 JORF 27 JANVIER 1984
+
+	**Cité par**:
+
+	  - CODE DES COMMUNES. - art. L416-10 (Ab)
+
+
+###### Article L416-10
+
+L'agent licencié dans les conditions prévues à l'article précédent [*à la suite d'une suppression d'emploi décidée par mesure
+d'économie*], sans avoir droit à pension, bénéficie d'un reclassement par priorité dans l'un des emplois vacants similaires
+des communes du département, sous réserve qu'il remplisse les conditions d'aptitude nécessaires.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Code de l'administration communale 584 AL. 2
+
+	**Codifié par**:
+
+	  - Décret n°77-372 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-372 1977-03-28 JORF ET JONC 5 AVRIL 1977
+
+	**Abrogé par**:
+
+	  - Loi n°84-53 1984-01-26 ART. 119 JORF 27 JANVIER 1984
+
+	**Cite**:
+
+	  - CODE DES COMMUNES. - art. L416-9 (Ab)
+
+
+###### Article L416-11
+
+L'agent titulaire dont l'emploi a été supprimé et qui ne peut être affecté à un emploi équivalent reçoit une indemnité en
+capital égale à un mois de traitement [*montant*] par année de service, à moins de remplir, au moment du licenciement, les
+conditions exigées pour avoir droit à une pension de retraite proportionnelle avec jouissance immédiate.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Code de l'administration communale 585
+
+	**Codifié par**:
+
+	  - Décret n°77-372 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-372 1977-03-28 JORF ET JONC 5 AVRIL 1977
+
+	**Abrogé par**:
+
+	  - Loi n°84-53 1984-01-26 ART. 119 JORF 27 JANVIER 1984
+
+	**Cité par**:
+
+	  - Loi n°84-53 du 26 janvier 1984 - art. 119 (V)
+	  - CODE DES COMMUNES. - art. L431-3 (M)
+
+
+###### Article L416-12
+
+L'agent qui fait preuve d'insuffisance professionnelle et qui ne peut être reclassé dans un autre service peut, soit être
+admis à faire valoir ses droits à la retraite, soit être licencié.
+
+La décision est prise par le maire [*compétence*] après avis du conseil de discipline [**]conditions de forme[**], suivant la
+procédure prévue au chapitre IV du présent titre [*relatif aux emplois permanents à temps complet*].
+
+L'agent licencié pour insuffisance professionnelle peut recevoir une indemnité de licenciement.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Code de l'administration communale 586
+
+	**Codifié par**:
+
+	  - Décret n°77-372 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-372 1977-03-28 JORF ET JONC 5 AVRIL 1977
+
+	**Abrogé par**:
+
+	  - Loi n°84-53 1984-01-26 ART. 119 JORF 27 JANVIER 1984
+
+	**Cite**:
+
+	  - Code des communes L414-1 à L414-24
+
+
+#### PRESTATIONS FAMILIALES .
+
+###### Article L417-2
+
+Les communes et les établissements communaux supportent la charge des prestations familiales pour leurs agents respectifs.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - SPEC_APPLI: *Dispositions applicables aux agents nommés dans des emplois permanents à temps non complet et aux agents non titulaires*
+	  - SPEC_APPLI: *Dispositions non applicables aux communes du département de Saint-Pierre-et-Miquelon*
+	  - SPEC_APPLI: CODE DES COMMUNES. - art. L421-2 (M)
+	  - SPEC_APPLI: Code des communes L421-2, L422-1 :
+
+	**Codifié par**:
+
+	  - Décret n°77-372 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-372 1977-03-28 JORF ET JONC 5 AVRIL 1977
+
+	**Cité par**:
+
+	  - Loi n°84-53 du 26 janvier 1984 - art. 119 (V)
+	  - CODE DES COMMUNES. - art. L421-2 (Ab)
+
+	**Anciens textes**:
+
+	  - Code de l'administration communale 604
+
+
+###### Article L417-3
+
+Un fonds national de compensation répartit entre les communes et les établissements publics communaux et intercommunaux les
+charges résultant pour ces collectivités du paiement des prestations familiales qu'elles versent à leur personnel.
+
+La compensation est opérée sur la base du montant total des salaires payés aux agents des collectivités locales, affiliées au
+fonds national de compensation, et dans la limite des taux minimums des allocations et des primes.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - SPEC_APPLI: *Dispositions non applicables aux communes du département de Saint-Pierre-et-Miquelon*
+	  - SPEC_APPLI: Code des communes L442-2 :
+
+	**Anciens textes**:
+
+	  - Code de l'administration communale 605
+
+	**Codifié par**:
+
+	  - Décret n°77-372 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-372 1977-03-28 JORF ET JONC 5 AVRIL 1977
+
+	**Nouveaux textes**:
+
+	  - CODE DES COMMUNES. - art. L413-11 (M)
+	  - CODE DES COMMUNES. - art. L413-11 (V)
+
+
+###### Article L417-4
+
+Les communes et les établissements publics communaux et intercommunaux sont tenus de s'affilier au fonds national de
+compensation.
+
+Les dépenses qui résultent tant du paiement des allocations et des primes que du fonctionnement du fonds constituent des
+dépenses obligatoires [**]définition[**] pour ces collectivités.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - SPEC_APPLI: *Dispositions non applicables aux communes du département de Saint-Pierre-et-Miquelon*
+	  - SPEC_APPLI: Code des communes L442-2 :
+
+	**Anciens textes**:
+
+	  - Code de l'administration communale 606
+
+	**Codifié par**:
+
+	  - Décret n°77-372 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-372 1977-03-28 JORF ET JONC 5 AVRIL 1977
+
+	**Nouveaux textes**:
+
+	  - CODE DES COMMUNES. - art. L413-12 (M)
+	  - CODE DES COMMUNES. - art. L413-12 (V)
+
+
+###### Article L417-5
+
+Le fonds national de compensation est géré par la caisse des dépôts et consignations [**]compétence[**].
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - SPEC_APPLI: *Dispositions non applicables aux communes du département de Saint-Pierre-et-Miquelon*
+	  - SPEC_APPLI: Code des communes L442-2 :
+
+	**Anciens textes**:
+
+	  - Code de l'administration communale 607 AL. 1
+
+	**Codifié par**:
+
+	  - Décret n°77-372 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-372 1977-03-28 JORF ET JONC 5 AVRIL 1977
+
+	**Nouveaux textes**:
+
+	  - CODE DES COMMUNES. - art. L413-13 (V)
+
+
+###### Article L417-6
+
+Une commission supérieure chargée de donner son avis sur les questions relatives au fonds national de compensation [*qui
+répartit entre les communes et établissements publics communaux les charges résultant des prestations familiales*] est
+instituée auprès de la caisse des dépôts et consignations.
+
+Elle est composée d'un nombre égal respectivement [*proportion*] de représentants de l'Etat, d'élus des collectivités locales
+et de représentants des personnels.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - SPEC_APPLI: *Dispositions non applicables aux communes du département de Saint-Pierre-et-Miquelon*
+	  - SPEC_APPLI: Code des communes L442-2 :
+
+	**Codifié par**:
+
+	  - Décret n°77-372 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-372 1977-03-28 JORF ET JONC 5 AVRIL 1977
+
+	**Nouveaux textes**:
+
+	  - CODE DES COMMUNES. - art. L413-14 (V)
+
+	**Cité par**:
+
+	  - CODE DES COMMUNES. - art. R417-2 (T)
+
+	**Anciens textes**:
+
+	  - Code de l'administration communale 607 AL. 2 et 3 (Partie)
+
+
+###### Article L417-7
+
+Un règlement d'administration publique détermine les règles suivant lesquelles sont fixées les modalités d'organisation et de
+fonctionnement du fonds ainsi que les autres conditions d'application des articles L. 417-3 à L. 417-6.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - SPEC_APPLI: *Dispositions non applicables aux communes du département de Saint-Pierre-et-Miquelon*
+	  - SPEC_APPLI: Code des communes L442-2 :
+
+	**Anciens textes**:
+
+	  - Code de l'administration communale 608
+
+	**Codifié par**:
+
+	  - Décret n°77-372 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-372 1977-03-28 JORF ET JONC 5 AVRIL 1977
+
+	**Nouveaux textes**:
+
+	  - CODE DES COMMUNES. - art. L413-15 (M)
+	  - CODE DES COMMUNES. - art. L413-15 (V)
+
+	**Cite**:
+
+	  - Code des communes L417-3 à L417-6
+
+
+#### Sécurité sociale, pensions, hygiène et sécurité
+
+##### Pensions .
+
+###### Article L417-10
+
+Les régimes de retraites des personnels des communes et de leurs établissements publics ne peuvent en aucun cas comporter
+d'avantages supérieurs à ceux qui sont consentis par les régimes généraux de retraites des personnels de l'Etat [*exception :
+pour les agents des réseaux souterrains des égouts s'ils remplissent certaines conditions*].
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - SPEC_APPLI: *Dispositions applicables aux agents nommés dans des emplois permanents à temps non complet*
+	  - SPEC_APPLI: Code des communes L421-2 :
+
+	**Anciens textes**:
+
+	  - Code de l'administration communale 596
+
+	**Créé par**:
+
+	  - Décret n°77-373 1977-03-28 JORF ET JONC 5 AVRIL 1977
+
+	**Codifié par**:
+
+	  - Décret n°77-372 1977-03-28
+
+	**Abrogé par**:
+
+	  - Loi n°84-53 1984-01-26 ART. 119 JORF 27 JANVIER 1984
+
+
+###### Article L417-12
+
+Aucune allocation, indemnité ou secours, périodique ou non, de quelque nature que ce soit, ne peut être accordé aux agents
+communaux qui ont cessé leurs fonctions postérieurement au 1er juillet 1941 [*date*] et qui bénéficient d'une pension de
+retraite, qu'après approbation de l'autorité supérieure [*conditions de forme*].
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - SPEC_APPLI: *Dispositions applicables aux agents nommés dans des emplois permanents à temps non complet*
+	  - SPEC_APPLI: Code des communes L421-2 :
+
+	**Anciens textes**:
+
+	  - Code de l'administration communale 597
+
+	**Créé par**:
+
+	  - Décret n°77-373 1977-03-28 JORF ET JONC 5 AVRIL 1977
+
+	**Codifié par**:
+
+	  - Décret n°77-372 1977-03-28
+
+	**Abrogé par**:
+
+	  - Loi n°82-213 1982-03-02 art. 21-I JORF 3 mars 1982
+
+	**Cite**:
+
+	  - CODE DES COMMUNES. - art. L417-11 (V)
+
+	**Cité par**:
+
+	  - CODE DES COMMUNES. - art. L417-16 (V)
+
+
+### Personnels divers
+
+#### Agents nommés dans des emplois permanents à temps non complet
+
+###### Article L421-1
+
+La section III du chapitre IV du titre Ier du présent livre ainsi que les articles L. 415-2 à L. 415-7, L. 415-10 et L.
+415-11, L. 415-26, L. 415-28 et L. 415-29 sont applicables aux agents qui remplissent à titre permanent un emploi à temps non
+complet [*discipline, activité, congés des agents nommés dans des emplois permanents à temps complet*].
+
+Un règlement d'administration publique fixe les modalités d'application de ces dispositions.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°77-372 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-372 1977-03-28 JORF ET JONC 5 AVRIL 1977
+
+	**Abrogé par**:
+
+	  - Loi n°84-53 1984-01-26 ART. 119 JORF 27 JANVIER 1984
+
+	**Liens**:
+
+	  - SPEC_APPLI: CODE DES COMMUNES. - art. L414-17 (Ab)
+
+	**Cite**:
+
+	  - CODE DES COMMUNES. - art. L415-26 (Ab)
+	  - Code des communes L415-2 à L415-7
+
+	**Cité par**:
+
+	  - CODE DES COMMUNES. - art. L421-6 (V)
+
+	**Anciens textes**:
+
+	  - Code de l'administration communale 614 al. 1 et 2
+
+
+###### Article L421-3
+
+La limite d'âge prévue par les statuts pour l'accès aux emplois permanents à temps non complet est prolongée du temps passé
+au service des communes en qualité d'auxiliaire depuis le 1er septembre 1939 [*date*].
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Code de l'administration communale 615
+
+	**Codifié par**:
+
+	  - Décret n°77-372 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-372 1977-03-28 JORF ET JONC 5 AVRIL 1977
+
+	**Abrogé par**:
+
+	  - Loi n°84-53 1984-01-26 ART. 119 JORF 27 JANVIER 1983
+
+	**Cité par**:
+
+	  - Loi n°96-370 du 3 mai 1996 - art. 24 (V)
+	  - CODE DES COMMUNES. - art. L421-4 (V)
+
+
+###### Article L421-5
+
+La rémunération des agents permanents à temps non complet comprend le traitement et, sous réserve qu'ils ne soient pas perçus
+à un titre différent, les autres éléments énumérés par l'article L. 413-1 [*indemnité de résidence, supplément familial de
+traitement, prestations familiales obligatoires*].
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Code de l'administration communale 616 complété al. 2
+
+	**Codifié par**:
+
+	  - Décret n°77-372 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-372 1977-03-28 JORF ET JONC 5 AVRIL 1977
+
+	**Abrogé par**:
+
+	  - Loi n°84-53 1984-01-26 ART. 119 JORF 27 JANVIER 1984
+
+	**Cité par**:
+
+	  - Loi n°96-370 du 3 mai 1996 - art. 24 (V)
+
+	**Cite**:
+
+	  - CODE DES COMMUNES. - art. L413-1 (Ab)
+
+
+###### Article L421-6
+
+Les dispositions de l'article L. 413-2, en tant qu'elles concernent la valeur des éléments de la rémunération, sont
+applicables aux agents permanents à temps non complet.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°77-372 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-372 1977-03-28 JORF ET JONC 5 AVRIL 1977
+
+	**Abrogé par**:
+
+	  - Loi n°84-53 1984-01-26 ART. 119 JORF 27 JANVIER 1984
+
+	**Cite**:
+
+	  - CODE DES COMMUNES. - art. L413-2 (Ab)
+
+	**Anciens textes**:
+
+	  - Code de l'administration communale 616 complété al. 3
+
+
+###### Article L421-8
+
+Tout agent permanent à temps non complet qui occupe un emploi de la liste [*des emplois permanents à temps non complet*]
+prévue à l'article L. 421-4 bénéficie de l'échelle indiciaire de référence afférente à cet emploi.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Code de l'administration communale 616 complété al. 4
+
+	**Codifié par**:
+
+	  - Décret n°77-372 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-372 1977-03-28 JORF ET JONC 5 AVRIL 1977
+
+	**Abrogé par**:
+
+	  - Loi n°84-53 1984-01-26 ART. 119 JORF 27 JANVIER 1984
+
+	**Cite**:
+
+	  - CODE DES COMMUNES. - art. L421-4 (M)
+
+
+###### Article L421-9
+
+Le traitement et les indemnités ayant le caractère de complément de traitement sont calculés au prorata [*proportion*] du
+nombre d'heures de service fixé par délibération du ou des conseils municipaux [**]attributions[**] selon que l'agent exerce
+dans une ou plusieurs communes [*lieu*].
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Arrêté du 8 février 1971 - art. 4 (V)
+	  - Arrêté du 25 mars 1958 - art. 4 (V)
+
+	**Anciens textes**:
+
+	  - Code de l'administration communale 616 complété al. 5
+
+	**Codifié par**:
+
+	  - Décret n°77-372 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-372 1977-03-28 JORF ET JONC 5 AVRIL 1977
+
+	**Abrogé par**:
+
+	  - Loi n°84-53 1984-01-26 ART. 119 JORF 27 JANVIER 1984
+
+
+###### Article L421-11
+
+Les communes qui n'occupent qu'un ou plusieurs agents permanents à temps non complet sont affiliées au syndicat de communes
+pour le personnel communal, prévu à l'article L. 411-26.
+
+Les représentants des communes qui n'occupent que des agents permanents à temps non complet n'ont voix délibérative au sein
+du comité du syndicat et de son bureau que pour les questions intéressant ces agents.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - SPEC_APPLI: *Dispositions applicables aux agents non titulaires*
+	  - SPEC_APPLI: Code des communes L422-1 :
+
+	**Anciens textes**:
+
+	  - Code de l'administration communale 617
+
+	**Codifié par**:
+
+	  - Décret n°77-372 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-372 1977-03-28 JORF ET JONC 5 AVRIL 1977
+
+	**Abrogé par**:
+
+	  - Loi n°84-53 1984-01-26 ART. 119 JORF 27 JANVIER 1984
+
+	**Cite**:
+
+	  - CODE DES COMMUNES. - art. L411-26 (Ab)
+
+
+###### Article L421-12
+
+Conformément à l'article L. 451-5 du code du travail, un décret en Conseil d'Etat détermine les conditions d'application des
+dispositions des articles L. 451-1 à L. 451-4 de ce code [*dispositions relatives au congé d'éducation ouvrière*] aux agents
+permanents à temps non complet.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°77-372 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-372 1977-03-28 JORF ET JONC 5 AVRIL 1977
+
+	**Abrogé par**:
+
+	  - Loi n°84-53 1984-01-26 ART. 119 JORF 27 JANVIER 1984
+
+	**Cite**:
+
+	  - Code du travail L451-1 à L451-5
+
+
+###### Article L421-13
+
+Les limites d'âge des agents permanents à temps non complet ne peuvent être inférieures à celles des fonctionnaires
+civils   .
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Code de l'administration communale 619
+
+	**Codifié par**:
+
+	  - Décret n°77-372 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-372 1977-03-28 JORF ET JONC 5 AVRIL 1977
+
+	**Abrogé par**:
+
+	  - Loi n°84-53 1984-01-26 ART. 119 JORF 27 JANVIER 1984
+
+
+###### Article L421-14
+
+Dans les communes de plus de 10.000 habitants [*nombre*], les délibérations des conseils municipaux portant suppression
+totale ou partielle des services communaux entraînant une perte d'emploi pour tout ou partie du personnel titularisé dans un
+emploi permanent à temps non complet doivent contenir une clause assurant aux agents licenciés un emploi ou des compensations
+en rapport avec la situation perdue.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - SPEC_APPLI: *Dispositions non applicables aux communes des départements de la Guadeloupe, de la Guyane, de la Martinique et de la Réunion*
+	  - SPEC_APPLI: Code des communes L442-1 :
+
+	**Anciens textes**:
+
+	  - Code de l'administration communale 620
+
+	**Codifié par**:
+
+	  - Décret n°77-372 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-372 1977-03-28 JORF ET JONC 5 AVRIL 1977
+
+	**Abrogé par**:
+
+	  - Loi n°84-53 1984-01-26 ART. 119 JORF 27 JANVIER 1984
+
+	**Cité par**:
+
+	  - CODE DES COMMUNES. - art. L442-1 (Ab)
+
+
+###### Article L421-15
+
+Les agents permanents à temps non complet peuvent être affiliés à la caisse nationale de retraites des agents des
+collectivités locales.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Code de l'administration communale 621
+
+	**Cite**:
+
+	  - Ordonnance 45-993 1945-05-17 art. 3
+
+	**Codifié par**:
+
+	  - Décret n°77-372 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-372 1977-03-28 JORF ET JONC 5 AVRIL 1977
+
+	**Abrogé par**:
+
+	  - Loi n°84-53 1984-01-26 ART. 119 JORF 27 JANVIER 1984
+
+
+###### Article L421-16
+
+Les agents communaux titularisés dans des emplois permanents à temps non complet, qui ne sont pas tributaires du régime de
+retraites de la caisse nationale de retraites des agents des collectivités locales, sont affiliés à une institution de
+retraite complémentaire régie par l'article L. 4 du code de la sécurité sociale en vue de leur accorder des avantages
+s'ajoutant à ceux qui résultent de l'organisation de la sécurité sociale.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - SPEC_APPLI: *Dispositions non applicables aux communes du département de Saint-Pierre-et-Miquelon*
+	  - SPEC_APPLI: Code des communes L442-2 :
+
+	**Anciens textes**:
+
+	  - Loi n°72-1223 1972-12-29 art. 4 (partie)
+
+	**Codifié par**:
+
+	  - Décret n°77-372 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-372 1977-03-28 JORF ET JONC 5 AVRIL 1977
+
+	**Abrogé par**:
+
+	  - Loi n°84-53 1984-01-26 ART. 119 JORF 27 JANVIER 1984
+
+	**Cite**:
+
+	  - Code de la sécurité sociale L4
+
+
+#### Agents non titulaires .
+
+###### Article L422-2
+
+Les communes et leurs établissements publics ne peuvent recruter d'agents temporaires pour les emplois permanents qu'en vue
+d'assurer le remplacement des titulaires momentanément indisponibles.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Code de l'administration communale 622
+
+	**Codifié par**:
+
+	  - Décret n°77-372 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-372 1977-03-28 JORF ET JONC 5 AVRIL 1977
+
+	**Abrogé par**:
+
+	  - Loi n°84-53 1984-01-26 ART. 119 JORF 27 JANVIER 1984
+
+
+###### Article L422-4
+
+Conformément aux dispositions du premier alinéa de l'article L. 351-18 du code du travail, les agents non titulaires des
+communes et de leurs établissements publics administratifs ont droit, en cas de licenciement et à condition d'avoir été
+employés de manière permanente, à une allocation servie par la collectivité intéressée et dont les conditions d'attribution
+et de calcul sont déterminées par décret en Conseil d'Etat.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code du travail l351-18 al. 1
+
+	**Codifié par**:
+
+	  - Décret n°77-372 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-372 1977-03-28 JORF ET JONC 5 AVRIL 1977
+
+	**Cité par**:
+
+	  - Loi n°84-53 du 26 janvier 1984 - art. 136 (V)
+	  - CODE DES COMMUNES. - art. L422-6 (V)
+	  - CODE DES COMMUNES. - art. R*422-38 (Ab)
+
+
+###### Article L422-5
+
+Conformément aux dispositions du troisième alinéa de l'article L. 351-18 du code du travail, les agents non titulaires des
+communes et de leurs établissements publics administratifs, qui ont accompli un service continu pendant une durée déterminée
+alors même qu'ils n'ont pas été employés à titre permanent, ont droit, en cas de licenciement, à une allocation servie par la
+collectivité intéressée ; les catégories de personnels intéressés, les conditions d'ouverture du droit à l'allocation et
+notamment la durée du service continu exigée sont déterminées par voie réglementaire.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°77-372 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-372 1977-03-28 JORF ET JONC 5 AVRIL 1977
+
+	**Cité par**:
+
+	  - CODE DES COMMUNES. - art. L422-6 (V)
+	  - CODE DES COMMUNES. - art. R*422-40 (Ab)
+
+	**Cite**:
+
+	  - Code du travail L351-18 al. 3
+
+
+#### Indemnités accordées sur les budgets communaux aux fonctionnaires de l'Etat
+
+###### Article L423-1
+
+Les communes et leurs établissements publics ne peuvent attribuer d'indemnités ou d'avantages quelconques aux fonctionnaires
+et agents de l'Etat.
+
+Des dérogations peuvent toutefois être accordées dans des conditions précisées par décret en Conseil d'Etat.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Code de l'administration communale 626 remplacé
+
+	**Cité par**:
+
+	  - Ordonnance n°45-993 du 17 mai 1945 - art. 7 (Ab)
+	  - Loi n°82-213 du 2 mars 1982 - art. 97 (V)
+	  - CODE DES COMMUNES. - art. L442-2 (Ab)
+	  - Code des communes - art. R*423-1 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°77-372 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-372 1977-03-28 JORF ET JONC 5 AVRIL 1977
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°82-213 1982-03-02 ART. 97 : *les dérogations accordées en application du présent article resteront en vigueur jusqu'au 3 septembre 1982*
+
+	**Abrogé par**:
+
+	  - Loi n°82-213 1982-03-02 ART. 97 JORF 3 MARS 1982
+
+
+### AGENTS NOMMES DANS DES EMPLOIS PERMANENTS A TEMPS NON COMPLET .
+
+###### Article L421-2
+
+Sont applicables aux agents soumis aux dispositions du présent chapitre les articles L. 411-3, L. 411-6 à L. 411-15, L.
+411-22 à L. 411-25, L. 412-1, L. 412-4 à L. 412-9, L. 412-45 à L. 412-50, L. 413-7, L. 415-8, L. 415-9, L. 415-40, le 3° de
+l'article L. 416-1, //les articles L. 417-1 à L. 417-7// modifié par décret 78-31 : L417-1 et L417-7//, L417-10 à L417-13 et
+L417-16.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°77-372 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-372 1977-03-28 JORF ET JONC 5 AVRIL 1977
+
+	**Cite**:
+
+	  - CODE DES COMMUNES L411-3, L411-6 à L411-15, L411-22 à L411-25, L412-1, L412-4 à L412-9, L412-45 à L412-50, L413-7, L415-8, L415-9, L415-40, L416-1, L417-1 à L417-7
+	  - CODE DES COMMUNES. - art. L411-3 (Ab)
+	  - CODE DES COMMUNES. - art. L412-1 (Ab)
+	  - CODE DES COMMUNES. - art. L413-7 (Ab)
+	  - CODE DES COMMUNES. - art. L415-40 (Ab)
+	  - CODE DES COMMUNES. - art. L415-8 (Ab)
+	  - CODE DES COMMUNES. - art. L415-9 (Ab)
+	  - CODE DES COMMUNES. - art. L416-1 (V)
+
+	**Liens**:
+
+	  - SPEC_APPLI: CODE DES COMMUNES. - art. L411-10 (Ab)
+	  - SPEC_APPLI: CODE DES COMMUNES. - art. L411-11 (Ab)
+	  - SPEC_APPLI: CODE DES COMMUNES. - art. L411-12 (Ab)
+	  - SPEC_APPLI: CODE DES COMMUNES. - art. L411-13 (Ab)
+	  - SPEC_APPLI: CODE DES COMMUNES. - art. L411-14 (M)
+	  - SPEC_APPLI: CODE DES COMMUNES. - art. L411-15 (Ab)
+	  - SPEC_APPLI: CODE DES COMMUNES. - art. L411-22 (Ab)
+	  - SPEC_APPLI: CODE DES COMMUNES. - art. L411-24 (Ab)
+	  - SPEC_APPLI: CODE DES COMMUNES. - art. L411-25 (Ab)
+	  - SPEC_APPLI: CODE DES COMMUNES. - art. L411-6 (Ab)
+	  - SPEC_APPLI: CODE DES COMMUNES. - art. L411-7 (Ab)
+	  - SPEC_APPLI: CODE DES COMMUNES. - art. L411-8 (Ab)
+	  - SPEC_APPLI: CODE DES COMMUNES. - art. L411-9 (Ab)
+	  - SPEC_APPLI: CODE DES COMMUNES. - art. L412-1 (Ab)
+	  - SPEC_APPLI: CODE DES COMMUNES. - art. L412-4 (Ab)
+	  - SPEC_APPLI: CODE DES COMMUNES. - art. L412-46 (VT)
+	  - SPEC_APPLI: CODE DES COMMUNES. - art. L412-5 (Ab)
+	  - SPEC_APPLI: CODE DES COMMUNES. - art. L412-6 (Ab)
+	  - SPEC_APPLI: CODE DES COMMUNES. - art. L412-7 (Ab)
+	  - SPEC_APPLI: CODE DES COMMUNES. - art. L412-8 (Ab)
+	  - SPEC_APPLI: CODE DES COMMUNES. - art. L412-9 (Ab)
+	  - SPEC_APPLI: CODE DES COMMUNES. - art. L413-7 (Ab)
+	  - SPEC_APPLI: CODE DES COMMUNES. - art. L415-8 (Ab)
+	  - SPEC_APPLI: CODE DES COMMUNES. - art. L415-9 (Ab)
+	  - SPEC_APPLI: CODE DES COMMUNES. - art. L417-18 (Ab)
+	  - SPEC_APPLI: CODE DES COMMUNES. - art. L417-19 (Ab)
+	  - SPEC_APPLI: CODE DES COMMUNES. - art. L417-2 (V)
+	  - SPEC_APPLI: CODE DES COMMUNES. - art. L417-20 (Ab)
+	  - SPEC_APPLI: CODE DES COMMUNES. - art. L417-21 (Ab)
+	  - SPEC_APPLI: CODE DES COMMUNES. - art. L417-22 (Ab)
+	  - SPEC_APPLI: CODE DES COMMUNES. - art. L417-23 (Ab)
+	  - SPEC_APPLI: CODE DES COMMUNES. - art. L417-24 (Ab)
+	  - SPEC_APPLI: CODE DES COMMUNES. - art. L417-25 (Ab)
+	  - SPEC_APPLI: CODE DES COMMUNES. - art. L417-26 (Ab)
+	  - SPEC_APPLI: CODE DES COMMUNES. - art. L417-27 (Ab)
+
+	**Anciens textes**:
+
+	  - Code de l'administration communale 614 al. 3
+
+
+###### Article L421-4
+
+Une décision de l'autorité supérieure prise après avis de la commission nationale paritaire du personnel communal fixe à
+titre indicatif la liste des emplois permanents à temps non complet.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Code de l'administration communale 616 al. 1 (partie) remplacé
+
+	**Codifié par**:
+
+	  - Décret n°77-372 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-372 1977-03-28 JORF ET JONC 5 AVRIL 1977
+
+	**Cité par**:
+
+	  - Loi n°96-370 du 3 mai 1996 - art. 24 (V)
+	  - CODE DES COMMUNES. - art. L421-6 (V)
+	  - CODE DES COMMUNES. - art. L421-8 (Ab)
+	  - CODE DES COMMUNES. - art. R421-3 (Ab)
+	  - CODE DES COMMUNES. - art. R421-6 (Ab)
+
+
+###### Article L421-7
+
+Une décision de l'autorité supérieure détermine, suivant la procédure fixée à l'article L. 413-3 [*après avis de la
+commission nationale paritaire du personnel communal*], les échelles indiciaires de référence afférentes aux emplois
+permanents à temps non complet prévus à l'article L. 421-4.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Arrêté 1971-02-08 modifié
+	  - TXT_ASSOCIE: Arrêté 1972-01-06
+	  - TXT_ASSOCIE: Arrêté 1974-07-23
+
+	**Anciens textes**:
+
+	  - Code de l'administration communale 616 complété al. 1 (partie)
+
+	**Codifié par**:
+
+	  - Décret n°77-372 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-372 1977-03-28 JORF ET JONC 5 AVRIL 1977
+
+	**Cite**:
+
+	  - Code des communes L413-3 et L413-4
+
+
+###### Article L421-10
+
+Une décision de l'autorité supérieure prise après avis de la commission nationale paritaire du personnel communal fixe les
+conditions de l'avancement des agents permanents à temps non complet.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: CODE DES COMMUNES. - art. R421-3 (Ab)
+
+	**Anciens textes**:
+
+	  - Code de l'administration communale 616 complété al. 6 (partie)
+
+	**Codifié par**:
+
+	  - Décret n°77-372 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-372 1977-03-28 JORF ET JONC 5 AVRIL 1977
+
+
+### AGENTS NON TITULAIRES.
+
+###### Article L422-1
+
+Sont applicables aux agents non titulaires les dispositions des articles L. 411-6 à L. 411-15, L. 411-22, L. 411-24 et L.
+411-25, L. 412-1, L. 412-4 à L. 412-9, L. 412-45 et L. 412-46, L. 413-7, L. 414-17, L. 415-8 et L. 415-9, //L. 417-2 à L.
+417-7 //modifié par le décret n° 78-31 du 3 janvier 1978 :
+
+L. 417-2// et L. 421-11 [*dispositions concernant les agents nommés dans des emplois permanents à temps complet*].
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°77-372 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-372 1977-03-28 JORF ET JONC 5 AVRIL 1977
+
+	**Cite**:
+
+	  - Décret n°78-31 1978-01-03
+	  - CODE DES COMMUNES L411-6 à L411-15, L411-22, L411-24, L411-25, L412-1, L412-4 à L412-9, L412-45, L412-46, L413-7, L414-17, L415-8, L415-9
+	  - CODE DES COMMUNES. - art. L411-22 (Ab)
+	  - CODE DES COMMUNES. - art. L411-24 (Ab)
+	  - CODE DES COMMUNES. - art. L411-25 (Ab)
+	  - CODE DES COMMUNES. - art. L412-1 (Ab)
+	  - CODE DES COMMUNES. - art. L412-45 (Ab)
+	  - CODE DES COMMUNES. - art. L412-46 (V)
+	  - CODE DES COMMUNES. - art. L413-7 (Ab)
+	  - CODE DES COMMUNES. - art. L414-17 (Ab)
+	  - CODE DES COMMUNES. - art. L415-8 (Ab)
+	  - CODE DES COMMUNES. - art. L415-9 (Ab)
+
+
+###### Article L422-3
+
+La rémunération maximum susceptible d'être allouée aux agents non titulaires des communes et de leurs établissements publics
+est déterminée par un ou plusieurs barèmes types qui font l'objet de décisions de l'autorité supérieure prises après avis du
+conseil national des services publics départementaux et communaux.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°77-372 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-372 1977-03-28 JORF et JONC 5 avril 1977
+
+	**Liens**:
+
+	  - TXT_SOURCE: Arrêté du 5 mai 1978 - art. 1 (V)
+	  - TXT_SOURCE: Arrêté du 5 mai 1978 - art. 2 (V)
+	  - TXT_SOURCE: Arrêté du 5 mai 1978 - art. 3 (V)
+	  - TXT_SOURCE: Arrêté du 5 mai 1978 - art. 4 (V)
+	  - TXT_SOURCE: Arrêté du 19 avril 1982 - art. 1 (V)
+	  - TXT_SOURCE: Arrêté du 19 avril 1982 - art. 2 (V)
+	  - TXT_SOURCE: Arrêté du 19 avril 1982 - art. 3 (V)
+	  - TXT_SOURCE: Arrêté du 19 avril 1982 - art. 4 (V)
+	  - TXT_SOURCE: Arrêté du 19 avril 1982 - art. Annexe I (V)
+	  - TXT_SOURCE: Arrêté du 19 avril 1982 - art. Annexe II (V)
+	  - TXT_SOURCE: Arrêté du 19 avril 1982 - art. Annexe III (V)
+
+	**Cité par**:
+
+	  - CODE DES COMMUNES. - art. R*422-2 (Ab)
+
+
+### Dispositions applicables en cas de fusion de communes ou de création de communauté urbaine
+
+#### Fusion de communes .
+
+###### Article L431-1
+
+Les personnels soumis aux dispositions du présent code et les personnels soumis aux dispositions du code du travail qui
+remplissent leurs fonctions dans les communes fusionnées sont pris en charge par la nouvelle commune à compter de l'acte
+prononçant la fusion et demeurent soumis aux dispositions de leur statut.
+
+Jusqu'au règlement définitif de leur situation, ils sont maintenus dans leur situation administrative antérieure et
+continuent d'être rémunérés dans les mêmes conditions qu'ils l'étaient par leur commune d'origine.
+
+En tout état de cause, ils conservent, dans la nouvelle commune, leurs droits acquis et l'ensemble des avantages dont ils
+bénéficiaient et qui comportent notamment la garantie des mêmes modalités de rémunération que dans leur commune d'origine.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - SPEC_APPLI: *Dispositions non applicables aux communes des départements de la Guadeloupe, de la Guyane, de la Martinique, de la Réunion et de Saint-Pierre-et-Miquelon*
+	  - SPEC_APPLI: CODE DES COMMUNES. - art. L442-1 (Ab)
+	  - SPEC_APPLI: Code des communes L442-1, L442-2 :
+
+	**Anciens textes**:
+
+	  - Loi n°71-588 1971-07-16 art. 10 I
+	  - Loi n°71-588 du 16 juillet 1971 - art. 10 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°77-372 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-372 1977-03-28 JORF ET JONC 5 AVRIL 1977
+
+	**Cité par**:
+
+	  - Loi n°84-53 du 26 janvier 1984 - art. 119 (V)
+
+
+###### Article L431-2
+
+Pour pourvoir les emplois de la nouvelle commune, il ne peut être fait appel à des personnels extérieurs qu'à défaut de
+candidats issus des personnels des anciennes communes.
+
+Dans tous les cas et quels que soient les grades ou emplois concernés, les qualifications exigées doivent être conformes à
+celles prévues par les dispositions du présent code.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - SPEC_APPLI: *Dispositions non applicables aux communes des départements de la Guadeloupe, de la Guyane, de la Martinique, de la Réunion et de Saint-Pierre-et-Miquelon*
+	  - SPEC_APPLI: CODE DES COMMUNES. - art. L442-1 (Ab)
+	  - SPEC_APPLI: Code des communes L442-1, L442-2 :
+
+	**Anciens textes**:
+
+	  - Loi n°71-588 1971-07-16 art. 10 II al. 1
+	  - Loi n°71-588 du 16 juillet 1971 - art. 10 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°77-372 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-372 1977-03-28 JORF ET JONC 5 AVRIL 1977
+
+	**Cité par**:
+
+	  - Loi n°84-53 du 26 janvier 1984 - art. 119 (V)
+
+
+###### Article L431-3
+
+Les agents titulaires, qui se trouvent non pourvus d'emploi dans la nouvelle commune, sont maintenus en surnombre dans leur
+emploi d'origine jusqu'à leur reclassement éventuel en priorité dans l'un des emplois vacants similaires de la nouvelle
+commune ou des communes du département, sous réserve qu'ils remplissent les conditions d'aptitude requises.
+
+Les délibérations du conseil municipal de la nouvelle commune qui ont pour effet d'entraîner une perte d'emploi permanent à
+temps non complet d'une ancienne commune doivent contenir une clause assurant aux agents licenciés un emploi ou une indemnité
+calculée conformément aux dispositions de l'article L. 416-11 [*indemnité en capital égale à un mois de traitement par année
+de service*].
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - SPEC_APPLI: *Dispositions non applicables aux communes des départements de la Guadeloupe, de la Guyane, de la Martinique, de la Réunion et de Saint-Pierre-et-Miquelon*
+	  - SPEC_APPLI: CODE DES COMMUNES. - art. L442-1 (Ab)
+	  - SPEC_APPLI: Code des communes L442-1, L442-2 :
+
+	**Anciens textes**:
+
+	  - Loi n°71-588 1971-07-16 art. 10 II al. 2 et art. 10 III
+	  - Loi n°71-588 du 16 juillet 1971 - art. 10 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°77-372 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-372 1977-03-28 JORF ET JONC 5 AVRIL 1977
+
+	**Cité par**:
+
+	  - Loi n°84-53 du 26 janvier 1984 - art. 119 (V)
+
+	**Cite**:
+
+	  - CODE DES COMMUNES. - art. L416-11 (Ab)
+
+
+#### Création de communauté urbaine .
+
+###### Article L432-1
+
+Les personnels soumis aux dispositions du présent code et les personnels soumis aux dispositions du code du travail qui
+remplissent leurs fonctions dans les services transférés à la communauté urbaine sont mis à la disposition de la communauté à
+compter de la date à laquelle l'exigent les nécessités du service et demeurent soumis aux dispositions de leur statut à cette
+date.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - SPEC_APPLI: *Dispositions non applicables aux communes des départements de la Guadeloupe, de la Guyane, de la Martinique, de la Réunion et de Saint-Pierre-et-Miquelon*
+	  - SPEC_APPLI: CODE DES COMMUNES. - art. L442-1 (Ab)
+	  - SPEC_APPLI: Code des communes L442-1, L442-2 :
+
+	**Anciens textes**:
+
+	  - Loi n°66-1069 1966-12-31 art. 24 al. 1
+	  - Loi n°66-1069 du 31 décembre 1966 - art. 24 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°77-372 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-372 1977-03-28 JORF ET JONC 5 AVRIL 1977
+
+	**Cité par**:
+
+	  - CODE DES COMMUNES. - art. L432-7 (V)
+
+
+###### Article L432-8
+
+Les dispositions du présent code s'appliquent aux agents de la communauté urbaine.
+
+Le président et le conseil de communauté exercent à leur égard les pouvoirs respectivement dévolus au maire et au conseil
+municipal.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - SPEC_APPLI: *Dispositions non applicables aux communes des départements de la Guadeloupe, de la Guyane, de la Martinique, de la Réunion et de Saint-Pierre-et-Miquelon*
+	  - SPEC_APPLI: CODE DES COMMUNES. - art. L442-1 (Ab)
+	  - SPEC_APPLI: Code des communes L442-1, L442-2 :
+
+	**Anciens textes**:
+
+	  - Loi n°66-1069 du 31 décembre 1966 - art. 28 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°77-372 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-372 1977-03-28 JORF ET JONC 5 AVRIL 1977
+
+
+### Dispositions particulières
+
+#### Dispositions applicables aux communes des départements de la Moselle, du Bas-Rhin et du Haut-Rhin *Alsace-Lorraine*.
+
+###### Article L441-1
+
+Les dispositions du présent livre sont applicables dans les départements de la Moselle, du Bas-Rhin et du Haut-Rhin, à
+l'exception des articles L. 412-47, L. 412-49 et L. 414-24 et sous réserve des dispositions ci-après.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°77-372 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-372 1977-03-28 JORF ET JONC 5 AVRIL 1977
+
+	**Cite**:
+
+	  - CODE DES COMMUNES. - art. L412-48 (M)
+	  - Code des communes L412-50 à L414-23
+
+	**Anciens textes**:
+
+	  - Loi   1884-04-05 modifiée et lois et décrets d'extension
+
+
+###### Article L441-2
+
+Par dérogation aux dispositions de l'article L. 412-47 [*les gardes champêtres sont agréés par l'autorité supérieure*], dans
+les communes de 25.000 habitants et au-dessus et les communes assimilées le maire [**]attributions[**] nomme seul les gardes
+champêtres.
+
+Il les suspend et les révoque dans les conditions déterminées pour les agents permanents à temps complet.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°77-372 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-372 1977-03-28 JORF ET JONC 5 AVRIL 1977
+
+	**Cite**:
+
+	  - Code des communes L414-23 et L414-24
+
+	**Anciens textes**:
+
+	  - Loi   1936-02-20 art. 2
+
+
+#### Dispositions applicables aux communes des départements d'Outre-mer
+
+##### Dispositions particulières aux communes des départements de la Guadeloupe, de la Guyane, de la Martinique et de la Réunion .
+
+###### Article L442-1
+
+Les dispositions des titres I et II du présent livre sont applicables dans les départements de la Guadeloupe, de la Guyane,
+de la Martinique et de la Réunion à l'exception des articles L. 412-48 et L. 421-14.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°77-372 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-372 1977-03-28 JORF ET JONC 5 AVRIL 1977
+
+	**Abrogé par**:
+
+	  - Loi n°84-53 1984-01-26 ART. 119 JORF 27 JANVIER 1984
+
+	**Cite**:
+
+	  - CODE DES COMMUNES. - art. L412-48 (M)
+	  - CODE DES COMMUNES. - art. L421-14 (Ab)
+
+	**Liens**:
+
+	  - SPEC_APPLI: CODE DES COMMUNES. - art. L431-1 (V)
+	  - SPEC_APPLI: CODE DES COMMUNES. - art. L431-2 (V)
+	  - SPEC_APPLI: CODE DES COMMUNES. - art. L431-3 (V)
+	  - SPEC_APPLI: CODE DES COMMUNES. - art. L432-1 (V)
+	  - SPEC_APPLI: CODE DES COMMUNES. - art. L432-2 (V)
+	  - SPEC_APPLI: CODE DES COMMUNES. - art. L432-3 (V)
+	  - SPEC_APPLI: CODE DES COMMUNES. - art. L432-4 (V)
+	  - SPEC_APPLI: CODE DES COMMUNES. - art. L432-5 (V)
+	  - SPEC_APPLI: CODE DES COMMUNES. - art. L432-6 (V)
+	  - SPEC_APPLI: CODE DES COMMUNES. - art. L432-7 (V)
+	  - SPEC_APPLI: CODE DES COMMUNES. - art. L432-8 (V)
+
+	**Anciens textes**:
+
+	  - Code de l'administration communale 628 al. 1 (Partie)
+
+
+#### Dispositions applicables aux communes des départements de la région d'Ile-de-France .
+
+###### Article L443-1
+
+Les dispositions des titres I à III du présent livre sont applicables aux communes des départements de la région d'Ile-de-
+France sous réserve des dispositions ci-après.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°77-372 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-372 1977-03-28 JORF ET JONC 5 AVRIL 1977
+
+	**Abrogé par**:
+
+	  - Loi n°84-53 1984-01-26 ART. 119 JORF 27 JANVIER 1984
+
+	**Cite**:
+
+	  - Code des communes L411-1 à L432-8
+
+
+###### Article L443-2
+
+Par dérogation aux dispositions de l'article L. 411-31, l'ensemble des communes des départements des Hauts-de-Seine, de la
+Seine-Saint-Denis et du Val-de-Marne est obligatoirement affilié à un syndicat de communes pour le personnel communal.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Code de l'administration communale 495 al. 1 remplacé
+
+	**Codifié par**:
+
+	  - Décret n°77-372 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-372 1977-03-28 JORF ET JONC 5 AVRIL 1977
+
+	**Abrogé par**:
+
+	  - Loi n°84-52 1984-01-26 ART. 119 JORF 27 JANVIER 1984
+
+	**Cité par**:
+
+	  - Loi n°84-53 du 26 janvier 1984 - art. 121 (V)
+	  - Loi n°84-53 du 26 janvier 1984 - art. 17 (V)
+	  - CODE DES COMMUNES. - art. R443-2 (Ab)
+
+	**Cite**:
+
+	  - CODE DES COMMUNES. - art. L411-26 (Ab)
+	  - CODE DES COMMUNES. - art. L411-31 (Ab)
+
+
+###### Article L443-3
+
+Les communes des départements de l'Essonne, des Yvelines et du Val-d'Oise qui possèdent moins de cent agents titularisés
+[*nombre*] dans un emploi permanent à temps complet sont affiliées à un syndicat de communes pour le personnel communal,
+unique.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Code de l'administration communale 495 al. 2 remplacé
+
+	**Codifié par**:
+
+	  - Décret n°77-372 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-372 1977-03-28 JORF ET JONC 5 AVRIL 1977
+
+	**Abrogé par**:
+
+	  - Loi n°84-53 1984-01-26 ART. 119 JORF 27 JANVIER 1984
+
+	**Cité par**:
+
+	  - Loi n°84-53 du 26 janvier 1984 - art. 121 (V)
+	  - CODE DES COMMUNES. - art. R443-3 (Ab)
+
+
+###### Article L443-4
+
+Les syndicats [*de communes des départements de la région d'Ile de France*] prévus aux deux articles précédents ont pour
+objet de faciliter aux communes affiliées l'application du statut du personnel communal et d'exercer les attributions prévues
+par ce statut.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Code de l'administration communale 495 AL. 3 remplacé
+
+	**Codifié par**:
+
+	  - Décret n°77-372 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-372 1977-03-28 JORF ET JONC 5 AVRIL 1977
+
+	**Abrogé par**:
+
+	  - Loi n°84-53 1984-01-26 ART. 119 JORF 27 JANVIER 1984
+
+
+#### Dispositions applicables à la ville de Paris .
+
+###### Article L444-1
+
+La commune de Paris dispose d'un personnel communal soumis à un statut qui lui est propre.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°75-1331 1975-12-31 ART. 25 AL. 1 (Partie)
+	  - Loi n°75-1331 du 31 décembre 1975 - art. 25 (M)
+
+	**Codifié par**:
+
+	  - Décret n°77-372 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-372 1977-03-28 JORF ET JONC 5 AVRIL 1977
+
+	**Abrogé par**:
+
+	  - Loi n°84-53 1984-01-26 ART. 119 JORF 27 JANVIER 1984
+
+
+###### Article L444-2
+
+Les dispositions statutaires applicables aux personnels de la commune de Paris peuvent déroger aux dispositions du présent
+livre. Elles sont fixées par décret en Conseil d'Etat.
+
+//Complété par la loi n° 78-1183 du 20 décembre 1978 :
+
+Les dispositions de la section V du chapitre VII du titre 1er du présent livre ne sont pas applicables à la ville de Paris
+[*hygiène et sécurité*].
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°75-1331 1975-12-31 ART. 26 (Partie)
+	  - Loi n°75-1331 du 31 décembre 1975 - art. 26 (M)
+
+	**Codifié par**:
+
+	  - Décret n°77-372 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-372 1977-03-28 JORF et JONC 5 avril 1977
+
+
+###### Article L444-4
+
+La commune de Paris dispose également des fonctionnaires de l'Etat détachés auprès d'elle.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°75-1331 1975-12-31 ART. 25 AL. 3 (Partie)
+	  - Loi n°75-1331 du 31 décembre 1975 - art. 25 (M)
+
+	**Codifié par**:
+
+	  - Décret n°77-372 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-372 1977-03-28 JORF ET JONC 5 AVRIL 1977
+
+	**Abrogé par**:
+
+	  - Loi n°84-53 1984-01-26 ART. 119 JORF 27 JANVIER 1984
+
+
+## LIVRE 4 : Personnel communal
+
+### TITRE 1 : Agents nommés dans des emplois permanents à temps complet
+
+#### CHAPITRE 1 : Dispositions générales et organiques
+
+##### SECTION 3 : Syndicats de communes pour le personnel communal.
+
+###### Article L411-26
+
+Dans chaque département, les communes qui occupent moins de cent agents titularisés [*nombre*] dans un emploi permanent à
+temps complet sont obligatoirement affiliées à un syndicat de communes pour le personnel communal.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Arrêté  1976-06-23
+
+	**Anciens textes**:
+
+	  - Code de l'administration communale 493 al. 1
+
+	**Codifié par**:
+
+	  - Décret n°77-372 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-372 1977-03-28 JORF ET JONC 5 AVRIL 1977
+
+	**Abrogé par**:
+
+	  - Loi n°84-53 1984-01-26 ART. 119 JORF 27 JANVIER 1984
+
+	**Liens**:
+
+	  - SPEC_APPLI: Les articles L411-26 à L411-30 du code des communes sont remis en vigueur jusqu'au 31 décembre 1986
+	  - SPEC_APPLI: Loi n°85-1221 1985-11-22 art. 28 :
+
+	**Cité par**:
+
+	  - Loi n°84-53 du 26 janvier 1984 - art. 121 (V)
+	  - CODE DES COMMUNES. - art. L421-11 (Ab)
+	  - CODE DES COMMUNES. - art. L443-2 (Ab)
+	  - CODE DES COMMUNES. - art. R411-37 (Ab)
+
+	**Modifié par**:
+
+	  - Loi n°85-1221 du 22 novembre 1985 - art. 28 (V) JORF 23 NOVEMBRE 1985
+
+
+###### Article L411-27
+
+Le conseil municipal d'une commune qui occupe au moins cent agents titularisés dans un emploi permanent à temps complet
+[*nombre*] peut demander, par délibération, son affiliation au syndicat de communes pour le personnel communal.
+
+L'affiliation est prononcée par décision de l'autorité supérieure après avis conforme du comité du syndicat [**]conditions de
+forme[**].
+
+Lorsque l'affiliation a été prononcée, la commune est soumise aux dispositions du statut du personnel communal applicable
+dans les communes qui occupent moins de cent agents.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Arrêté du 23 juin 1976 - art. 1 (V)
+	  - Arrêté du 23 juin 1976 - art. 15 (V)
+	  - CODE DES COMMUNES. - art. R411-18 (Ab)
+
+	**Anciens textes**:
+
+	  - Code de l'administration communale 493 al. 2 (partie)
+
+	**Codifié par**:
+
+	  - Décret n°77-372 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-372 1977-03-28 JORF ET JONC 5 AVRIL 1977
+
+
+###### Article L411-28
+
+Le syndicat de communes pour le personnel communal a pour objet de faciliter aux communes l'application du statut du
+personnel communal, notamment en exerçant les attributions qui lui sont conférées par le présent titre.
+
+Il peut, sur la demande des maires intéressés, assurer la coordination entre les communes membres du syndicat pour le
+recrutement et la gestion des agents intercommunaux mentionnés au deuxième alinéa de l'article L. 411-5 ; toutefois le maire
+conserve les attributions qui lui sont conférées par l'article L. 412-1 [*le maire nomme à tous les emplois communaux ; il
+suspend et révoque les titulaires de ces emplois*].
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Arrêté du 23 juin 1976 - art. 1 (V)
+	  - Arrêté du 23 juin 1976 - art. 15 (V)
+
+	**Anciens textes**:
+
+	  - Code de l'administration communale 493 al. 3
+
+	**Codifié par**:
+
+	  - Décret n°77-372 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-372 1977-03-28 JORF ET JONC 5 AVRIL 1977
+
+	**Abrogé par**:
+
+	  - Loi n°84-53 1984-01-26 ART. 119 JORF 27 JANVIER 1984
+
+	**Liens**:
+
+	  - SPEC_APPLI: Les articles L411-26 à L411-30 du code des communes sont remis en vigueur jusqu'au 31 décembre 1986
+	  - SPEC_APPLI: Loi n°85-1221 1985-11-22 art. 28 :
+
+	**Modifié par**:
+
+	  - Loi n°85-1221 du 22 novembre 1985 - art. 28 (V) JORF 23 NOVEMBRE 1985
+
+	**Cite**:
+
+	  - Code des communes L411-5 al. 2 et L412-1
+
+
+###### Article L411-29
+
+Lorsque la décision en a été prise par l'assemblée générale du comité, le syndicat de communes pour le personnel communal
+peut recruter et gérer directement les agents qu'il affecte à des missions ou à des services intercommunaux.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Code de l'administration communale 493 al. 4
+
+	**Codifié par**:
+
+	  - Décret n°77-372 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-372 1977-03-28 JORF ET JONC 5 AVRIL 1977
+
+	**Abrogé par**:
+
+	  - Loi n°84-53 1984-01-26 ART. 119 JORF 27 JANVIER 1984
+
+	**Liens**:
+
+	  - SPEC_APPLI: Les articles L411-26 à L411-30 du code des communes sont remis en vigueur jusqu'au 31 décembre 1986
+	  - SPEC_APPLI: Loi n°85-1221 1985-11-22 art. 28 :
+
+	**Modifié par**:
+
+	  - Loi n°85-1221 du 22 novembre 1985 - art. 28 (V) JORF 23 NOVEMBRE 1985
+
+
+###### Article L411-30
+
+Le comité d'administration du syndicat de communes pour le personnel communal répartit entre les collectivités adhérentes les
+dépenses engagées pour le fonctionnement du syndicat, de la commission paritaire intercommunale, du conseil de discipline
+intercommunal et du conseil de discipline départemental.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Code de l'administration communale 499
+
+	**Codifié par**:
+
+	  - Décret n°77-372 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-372 1977-03-28 JORF et JONC 5 avril 1977
+
+
+#### CHAPITRE 2 : Recrutement, formation et promotion sociale
+
+##### SECTION 2 : Centre de formation des personnels communaux.
+
+###### Article L412-28
+
+Le centre de formation des personnels communaux [*CFPC*] est un établissement public intercommunal [*nature juridique*] doté
+de la personnalité civile et de l'autonomie financière.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Arrêté du 9 mars 1973 - art. 1 (V)
+	  - Loi n°84-53 du 26 janvier 1984 - art. 119 (V)
+	  - Loi n°85-1221 du 22 novembre 1985 - art. 29 (V)
+
+	**Anciens textes**:
+
+	  - Code de l'administration communale 508-4 al. 1 phr. 1
+	  - Code de l'administration communale 508-5
+
+	**Codifié par**:
+
+	  - Décret n°77-372 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-372 1977-03-28 JORF ET JONC 5 AVRIL 1977
+
+	**Abrogé par**:
+
+	  - Loi n°84-594 1984-07-12 ART. 26 JORF 13 JUILLET 1984
+
+	**Modifié par**:
+
+	  - Loi n°85-1221 1985-11-22 ART. 29 JORF 23 NOVEMBRE 1985
+
+	**Liens**:
+
+	  - SPEC_APPLI: Les articles L412-28, L412-33 à L412-38, l412-40, L412-45 sont remis en vigueur jusqu'au 31 décembre 1986
+	  - SPEC_APPLI: Loi n°85-1221 du 22 novembre 1985 - art. 29 (M)
+	  - SPEC_APPLI: Loi n°86-972 1986-08-19 art. 30 :
+
+
+##### SOUS-SECTION 1 : Rôle.
+
+###### Article L412-33
+
+Le centre de formation des personnels communaux a également pour mission, en liaison avec les collectivités locales
+intéressées, de rechercher et de promouvoir les mesures propres à assurer la formation et le perfectionnement professionnel
+des agents communaux.
+
+Il dispense les enseignements nécessaires soit directement, soit en passant des conventions avec des établissements
+qualifiés.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°77-372 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-372 1977-03-28 JORF ET JONC 5 AVRIL 1977
+
+	**Abrogé par**:
+
+	  - Loi n°84-594 1984-07-12 ART. 26 JORF 13 JUILLET 1984
+
+	**Modifié par**:
+
+	  - Loi n°85-1221 1985-11-22 ART. 29 JORF 23 NOVEMBRE 1985
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°85-1221 du 22 novembre 1985 - art. 29 (M)
+	  - SPEC_APPLI: Loi n°86-972 1986-08-19 art. 30 :
+	  - SPEC_APPLI: Les articles L412-28, L412-33 à L412-38, l412-40, L412-45 sont remis en vigueur jusqu'au 31 décembre 1986
+
+	**Cité par**:
+
+	  - CODE DES COMMUNES. - art. R*412-99 (Ab)
+
+	**Anciens textes**:
+
+	  - Code de l'administration communale 508-4 al. 5
+
+
+##### SOUS-SECTION 2 : Le Conseil d'Administration.
+
+###### Article L412-34
+
+Le centre de formation des personnels communaux est administré par un conseil d'administration composé en majorité de
+représentants élus en nombre égal, d'une part, des communes et des établissements publics intéressés, d'autre part, des
+personnels intéressés.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - TXT_SOURCE: Arrêté du 9 mars 1973 - art. 1 (V)
+	  - TXT_SOURCE: Arrêté du 9 mars 1973 - art. 10 (V)
+	  - TXT_SOURCE: Arrêté du 9 mars 1973 - art. 11 (V)
+	  - TXT_SOURCE: Arrêté du 9 mars 1973 - art. 12 (V)
+	  - TXT_SOURCE: Arrêté du 9 mars 1973 - art. 13 (V)
+	  - TXT_SOURCE: Arrêté du 9 mars 1973 - art. 14 (V)
+	  - TXT_SOURCE: Arrêté du 9 mars 1973 - art. 15 (V)
+	  - TXT_SOURCE: Arrêté du 9 mars 1973 - art. 16 (V)
+	  - TXT_SOURCE: Arrêté du 9 mars 1973 - art. 17 (V)
+	  - TXT_SOURCE: Arrêté du 9 mars 1973 - art. 18 (V)
+	  - TXT_SOURCE: Arrêté du 9 mars 1973 - art. 19 (V)
+	  - TXT_SOURCE: Arrêté du 9 mars 1973 - art. 2 (V)
+	  - TXT_SOURCE: Arrêté du 9 mars 1973 - art. 20 (V)
+	  - TXT_SOURCE: Arrêté du 9 mars 1973 - art. 21 (V)
+	  - TXT_SOURCE: Arrêté du 9 mars 1973 - art. 22 (V)
+	  - TXT_SOURCE: Arrêté du 9 mars 1973 - art. 23 (V)
+	  - TXT_SOURCE: Arrêté du 9 mars 1973 - art. 24 (V)
+	  - TXT_SOURCE: Arrêté du 9 mars 1973 - art. 25 (V)
+	  - TXT_SOURCE: Arrêté du 9 mars 1973 - art. 26 (V)
+	  - TXT_SOURCE: Arrêté du 9 mars 1973 - art. 27 (V)
+	  - TXT_SOURCE: Arrêté du 9 mars 1973 - art. 28 (V)
+	  - TXT_SOURCE: Arrêté du 9 mars 1973 - art. 29 (V)
+	  - TXT_SOURCE: Arrêté du 9 mars 1973 - art. 3 (V)
+	  - TXT_SOURCE: Arrêté du 9 mars 1973 - art. 4 (V)
+	  - TXT_SOURCE: Arrêté du 9 mars 1973 - art. 5 (V)
+	  - TXT_SOURCE: Arrêté du 9 mars 1973 - art. 6 (V)
+	  - TXT_SOURCE: Arrêté du 9 mars 1973 - art. 7 (V)
+	  - TXT_SOURCE: Arrêté du 9 mars 1973 - art. 8 (V)
+	  - TXT_SOURCE: Arrêté du 9 mars 1973 - art. 9 (V)
+	  - SPEC_APPLI: Les articles L412-28, L412-33 à L412-38, l412-40, L412-45 sont remis en vigueur jusqu'au 31 décembre 1986
+	  - SPEC_APPLI: Loi n°85-1221 du 22 novembre 1985 - art. 29 (M)
+	  - SPEC_APPLI: Loi n°86-972 1986-08-19 art. 30 :
+
+	**Anciens textes**:
+
+	  - Code de l'administration communale 508-6 al. 1 (partie) et al. 2
+
+	**Codifié par**:
+
+	  - Décret n°77-372 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-372 1977-03-28 JORF ET JONC 5 AVRIL 1977
+
+	**Abrogé par**:
+
+	  - Loi n°84-594 du 12 juillet 1984 - art. 6 (M) JORF 13 JUILLET 1984
+
+	**Modifié par**:
+
+	  - Loi n°85-1221 1985-11-22 ART. 29 JORF 23 NOVEMBRE 1985
+
+
+###### Article L412-35
+
+Le président du conseil d'administration du centre de formation des personnels communaux est élu par les membres du conseil
+parmi les représentants des maires.
+
+Il est assisté de deux vice-présidents élus l'un parmi les représentants des maires, l'autre parmi les représentants du
+personnel.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Code de l'administration communale 508-6 al. 3
+
+	**Codifié par**:
+
+	  - Décret n°77-372 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-372 1977-03-28 JORF ET JONC 5 AVRIL 1977
+
+	**Abrogé par**:
+
+	  - Loi n°84-594 1984-07-12 ART. 26 JORF 13 JUILLET 1984
+
+	**Modifié par**:
+
+	  - Loi n°85-1221 1985-11-22 ART. 29 JORF 23 NOVEMBRE 1985
+
+	**Liens**:
+
+	  - SPEC_APPLI: Les articles L412-28, L412-33 à L412-38, l412-40, L412-45 sont remis en vigueur jusqu'au 31 décembre 1986
+	  - SPEC_APPLI: Loi n°85-1221 du 22 novembre 1985 - art. 29 (M)
+	  - SPEC_APPLI: Loi n°86-972 1986-08-19 art. 30 :
+
+
+###### Article L412-36
+
+Les délégués départementaux et interdépartementaux du centre de formation des personnels communaux sont choisis par le
+conseil d'administration parmi les présidents des syndicats de communes pour le personnel communal, les maires des communes
+non affiliées à ces syndicats ou parmi les personnalités ayant exercé l'une ou l'autre de ces fonctions.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Code de l'administration communale 508-6 al. 4
+
+	**Codifié par**:
+
+	  - Décret n°77-372 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-372 1977-03-28 JORF ET JONC 5 AVRIL 1977
+
+	**Abrogé par**:
+
+	  - Loi n°84-594 1984-07-12 ART. 26 JORF 13 JUILLET 1984
+
+	**Modifié par**:
+
+	  - Loi n°85-1221 1985-11-22 ART. 29 JORF 23 NOVEMBRE 1985
+
+	**Cité par**:
+
+	  - CODE DES COMMUNES. - art. R412-91 (Ab)
+
+	**Liens**:
+
+	  - SPEC_APPLI: Les articles L412-28, L412-33 à L412-38, l412-40, L412-45 sont remis en vigueur jusqu'au 31 décembre 1986
+	  - SPEC_APPLI: Loi n°85-1221 du 22 novembre 1985 - art. 29 (M)
+	  - SPEC_APPLI: Loi n°86-972 1986-08-19 art. 30 :
+
+
+##### SOUS-SECTION 3 : Le budget.
+
+###### Article L412-37
+
+Les ressources du centre de formation des personnels communaux sont constituées par :
+
+1° Les cotisations obligatoires des communes et de leurs établissements publics intéressés qui ont au moins, au 1er janvier
+de l'année de recouvrement [*date*], un emploi administratif à temps complet inscrit à leur budget ;
+
+2° Les participations volontaires des communes autres que celles mentionnées ci-dessus ;
+
+3° Les subventions des départements ;
+
+4° Les subventions versées au titre de l'article L. 940-1 du code du travail relatif à la formation professionnelle
+permanente ;
+
+5° Les redevances pour prestations de services ;
+
+6° Les dons et legs ;
+
+7° Les emprunts.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°77-372 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-372 1977-03-28 JORF ET JONC 5 AVRIL 1977
+
+	**Abrogé par**:
+
+	  - Loi n°84-594 1984-07-12 ART. 26 JORF 13 JUILLET 1984
+
+	**Modifié par**:
+
+	  - Loi n°85-1221 1985-11-22 ART. 29 JORF 23 NOVEMBRE 1985
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°85-1221 du 22 novembre 1985 - art. 29 (M)
+	  - SPEC_APPLI: Loi n°86-972 1986-08-19 art. 30 :
+	  - SPEC_APPLI: Les articles L412-28, L412-33 à L412-38, l412-40, L412-45 sont remis en vigueur jusqu'au 31 décembre 1986
+
+	**Cité par**:
+
+	  - CODE DES COMMUNES. - art. L412-38 (Ab)
+	  - CODE DES COMMUNES. - art. R412-79 (Ab)
+
+	**Anciens textes**:
+
+	  - Code de l'administration communale 508-7 al. 1 (partie) modifié
+
+	**Cite**:
+
+	  - Code du travail - art. L940-1 (T)
+
+
+##### SECTION 4 : Formation professionnelle continue.
+
+###### Article L412-45
+
+Conformément à l'article L. 970-5 du code du travail relatif à l'organisation de la formation professionnelle continue dans
+le cadre de l'éducation permanente, des décrets en Conseil d'Etat, pris après consultation des organisations syndicales et de
+la commission nationale paritaire du personnel communal [**]conditions de forme[**], fixent les conditions dans lesquelles
+les agents des communes et de leurs établissements publics peuvent bénéficier des dispositions du titre VII du livre IX du
+code précité [*dispositions du code du travail relatives aux agents de l'Etat et des collectivités locales, pour la formation
+professionnelle continue dans le cadre de l'éducation permanente*].
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°77-372 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-372 1977-03-28 JORF ET JONC 5 AVRIL 1977
+
+	**Liens**:
+
+	  - SPEC_APPLI: Les articles L412-28, L412-33 à L412-38, l412-40, L412-45 sont remis en vigueur jusqu'au 31 décembre 1986
+	  - SPEC_APPLI: Loi n°85-1221 du 22 novembre 1985 - art. 29 (M)
+	  - SPEC_APPLI: Loi n°86-972 1986-08-19 art. 30 :
+
+	**Cité par**:
+
+	  - Loi n°84-53 du 26 janvier 1984 - art. 136 (V)
+	  - Loi n°84-53 du 26 janvier 1984 - art. 119 (V)
+	  - Loi n°85-1221 du 22 novembre 1985 - art. 29 (V)
+	  - CODE DES COMMUNES. - art. L422-1 (M)
+
+	**Abrogé par**:
+
+	  - Loi n°84-594 1984-07-12 ART. 26 JORF 13 JUILLET 1984
+
+	**Modifié par**:
+
+	  - Loi n°85-1221 1985-11-22 ART. 29 JORF 23 NOVEMBRE 1985
+
+	**Cite**:
+
+	  - Code du travail L970-1 à L970-5, R970-1 à R970-37
+
+
+##### SECTION 5 : Dispositions applicables à certains personnels
+
+##### SOUS-SECTION 1 : Dispositions applicables aux gardes champêtres et aux agents de la police municipale.
+
+###### Article L412-46
+
+Les gardes champêtres sont nommés par le maire.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Code de l'administration communale 591 phr. 1
+
+	**Créé par**:
+
+	  - Décret n°77-372 1977-03-28 JORF ET JONC 5 AVRIL 1977
+
+	**Codifié par**:
+
+	  - Décret n°77-372 du 28 mars 1977
+
+	**Cité par**:
+
+	  - Loi n°84-53 du 26 janvier 1984 - art. 119 (V)
+	  - CODE DES COMMUNES. - art. L422-1 (M)
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2012-351 du 12 mars 2012 - art. 19 (V)
+
+	**Nouveaux textes**:
+
+	  - Code de la sécurité intérieure - art. L522-1 (VD)
+
+	**Liens**:
+
+	  - SPEC_APPLI: CODE DES COMMUNES. - art. L421-2 (M)
+	  - SPEC_APPLI: Code des communes L421-2, L422-1 :
+
+	**Cite**:
+
+	  - Code de procédure pénale
+
+
+###### Article L412-50
+
+Les agents de la police municipale de la commune où le régime de la police d'Etat est institué en application des articles L.
+132-6 et L. 132-9 peuvent être intégrés dans les cadres de la police nationale dans des conditions déterminées par décret en
+Conseil d'Etat.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - SPEC_APPLI: *Dispositions applicables aux agents nommés dans des emplois permanents à temps non complet*
+	  - SPEC_APPLI: Code des communes L421-2 :
+
+	**Anciens textes**:
+
+	  - Code de l'administration communale 114 al. 2 remplacé
+
+	**Codifié par**:
+
+	  - Décret n°77-372 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-372 1977-03-28 JORF ET JONC 5 AVRIL 1977
+
+	**Cite**:
+
+	  - Code des communes L132-6 et L132-9
+
+
+#### CHAPITRE 6 : Cessation de fonctions
+
+##### SECTION 1 : L'admission à la retraite.
+
+###### Article L416-1
+
+L'agent soumis au présent titre [*emplois permanents à temps complet*] peut, soit sur sa demande, soit d'office, être admis à
+faire valoir ses droits à la retraite :
+
+1° A l'âge de soixante ans s'il occupe un emploi de la catégorie A ;
+
+2° A l'âge de cinquante-cinq ans s'il occupe un emploi de la catégorie B ;
+
+3° A l'âge de cinquante ans pour les agents des réseaux souterrains des égouts, qui ont accompli au moins dix années dans ces
+services, dont cinq années consécutives lors de leur admission à la retraite, et pour les agents des services insalubres.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - SPEC_APPLI: *Dispositions du 3° applicables aux agents nommés dans des emplois permanents à temps non complet*
+	  - TXT_ASSOCIE: Arrêté 1973-11-05 complété
+	  - SPEC_APPLI: Code des communes L421-2 :
+
+	**Anciens textes**:
+
+	  - Code de l'administration communale 587
+
+	**Codifié par**:
+
+	  - Décret n°77-372 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-372 1977-03-28 JORF ET JONC 5 AVRIL 1977
+
+	**Cité par**:
+
+	  - Loi n°84-53 du 26 janvier 1984 - art. 119 (V)
+	  - Loi n°2010-1330 du 9 novembre 2010 - art. 35 (V)
+	  - Loi n°2010-1330 du 9 novembre 2010 - art. 45 (V)
+	  - CODE DES COMMUNES. - art. L421-2 (Ab)
+	  - CODE DES COMMUNES. - art. L444-5 (V)
+	  - CODE DES COMMUNES. - art. R*416-2 (V)
+
+
+###### Article L416-2
+
+La liste des services insalubres est déterminée par décret.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°77-372 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-372 1977-03-28 JORF et JONC 5 avril 1977
+
+	**Cité par**:
+
+	  - Loi n°84-53 du 26 janvier 1984 - art. 119 (V)
+	  - CODE DES COMMUNES. - art. R*416-2 (V)
+
+
+###### Article L416-4
+
+Les agents soumis au présent titre, décédés en service, ouvrent droit, au profit de leurs ayants cause, dans les mêmes
+conditions que les fonctionnaires de l'Etat, au paiement du reliquat des appointements du mois en cours et du capital décès
+prévu par le régime de sécurité sociale applicable à ces derniers.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Code de l'administration communale 590
+
+	**Codifié par**:
+
+	  - Décret n°77-372 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-372 1977-03-28 JORF ET JONC 5 AVRIL 1977
+
+	**Cité par**:
+
+	  - Loi n°84-53 du 26 janvier 1984 - art. 26 (V)
+	  - Loi n°84-53 du 26 janvier 1984 - art. 119 (V)
+	  - Décret n°86-552 du 14 mars 1986 - art. 1 (V)
+
+
+#### CHAPITRE 7 : Sécurité sociale, pensions, hygiène et sécurité
+
+##### SECTION 1 : Sécurité sociale.
+
+###### Article L417-1
+
+Conformément aux dispositions de l'article 3 du code de la sécurité sociale, une organisation spéciale de sécurité sociale
+dotée de l'ensemble des attributions définies à l'article 1er de ce code est établie pour les communes.
+
+Cette organisation peut comporter l'intervention de l'organisation générale de la sécurité sociale pour une partie des
+prestations.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - SPEC_APPLI: *Dispositions applicables aux agents nommés dans des emplois permanents à temps non complet*
+	  - SPEC_APPLI: *Dispositions non applicables aux communes du département de Saint-Pierre-et-Miquelon*
+	  - SPEC_APPLI: Code des communes L421-2 :
+
+	**Anciens textes**:
+
+	  - Code de l'administration communale 594
+
+	**Créé par**:
+
+	  - Décret n°77-373 1977-03-28 JORF ET JONC 5 AVRIL 1977
+
+	**Codifié par**:
+
+	  - Décret n°77-372 1977-03-28
+
+	**Cité par**:
+
+	  - Loi n°84-53 du 26 janvier 1984 - art. 119 (V)
+	  - CODE DES COMMUNES. - art. L421-2 (Ab)
+
+	**Cite**:
+
+	  - Code de la sécurité sociale 1 et 3
+
+
+##### SECTION 3 : Allocation temporaire d'invalidité.
+
+###### Article L417-8
+
+Les communes et les établissements publics communaux et intercommunaux sont tenus d'allouer aux agents qui ont été atteints
+d'une invalidité résultant d'un accident de service ayant entraîné une incapacité permanente au moins égale à un taux minimum
+déterminé par l'autorité supérieure ou d'une maladie professionnelle une allocation temporaire d'invalidité cumulable avec le
+traitement, dans les mêmes conditions que pour les fonctionnaires de l'Etat.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - SPEC_APPLI: *Dispositions non applicables aux communes du département de Saint-Pierre-et-Miquelon*
+	  - SPEC_APPLI: Code des communes L442-2 :
+
+	**Anciens textes**:
+
+	  - Loi n°61-1393 1961-12-20 ART. 6 AL. 1 (Partie) modifié
+
+	**Créé par**:
+
+	  - Décret n°77-373 1977-03-28 JORF ET JONC 5 AVRIL 1977
+
+	**Codifié par**:
+
+	  - Décret n°77-372 1977-03-28
+
+	**Cité par**:
+
+	  - Décret n°82-265 du 25 mars 1982 - art. 5 (V)
+	  - Loi n°84-53 du 26 janvier 1984 - art. 119 (V)
+	  - Loi n°96-1093 du 16 décembre 1996 - art. 45 (V)
+	  - Arrêté du 5 juin 1998 - art. 1 (V)
+	  - Décret n°2004-618 du 23 juin 2004 - art. 2 (V)
+	  - Arrêté du 4 août 2004 - art. 1 (V)
+	  - Décret n°2008-580 du 18 juin 2008 - art. 6 (V)
+	  - Code du travail - art. L323-5 (V)
+
+
+###### Article L417-9
+
+Les conditions d'attribution et les modalités de concession, de liquidation, de paiement et de révision de l'allocation
+temporaire d'invalidité sont fixées par voie réglementaire.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - SPEC_APPLI: *Dispositions non applicables aux communes du département de Saint-Pierre-et-Miquelon*
+	  - SPEC_APPLI: Code des communes L442-2 :
+
+	**Anciens textes**:
+
+	  - Loi n°61-1393 1961-12-20 ART. 6 AL. 3
+
+	**Créé par**:
+
+	  - Décret n°77-373 1977-03-28 JORF ET JONC 5 AVRIL 1977
+
+	**Codifié par**:
+
+	  - Décret n°77-372 1977-03-28
+
+	**Cité par**:
+
+	  - Loi n°84-53 du 26 janvier 1984 - art. 119 (V)
+	  - Loi n°96-1093 du 16 décembre 1996 - art. 45 (V)
+
+
+##### SECTION 4 : Pensions.
+
+###### Article L417-11
+
+Par dérogation aux dispositions de l'article précédent les agents des réseaux souterrains des égouts qui remplissent les
+conditions énumérées au 3° de l'article L. 416-1 peuvent prétendre à une bonification de 50 p. 100 du temps effectivement
+passé dans ces services, sans que cette bonification puisse être supérieure à dix années.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - SPEC_APPLI: *Dispositions applicables aux agents nommés dans des emplois permanents à temps non complet*
+	  - SPEC_APPLI: Code des communes L421-2 :
+
+	**Anciens textes**:
+
+	  - Code de l'administration communale 603
+
+	**Créé par**:
+
+	  - Décret n°77-373 1977-03-28 JORF ET JONC 5 AVRIL 1977
+
+	**Codifié par**:
+
+	  - Décret n°77-372 1977-03-28
+
+	**Cité par**:
+
+	  - Loi n°84-53 du 26 janvier 1984 - art. 119 (V)
+	  - CODE DES COMMUNES. - art. L417-12 (Ab)
+	  - CODE DES COMMUNES. - art. L444-5 (V)
+
+	**Cite**:
+
+	  - Code des communes L416-1 3° et L417-10
+
+
+###### Article L417-13
+
+Les paiements au titre des pensions, secours ou indemnités attribués à des agents retraités des communes et des
+établissements publics communaux sont effectués par l'intermédiaire de la caisse des dépôts et consignations.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - SPEC_APPLI: *Dispositions applicables aux agents nommés dans des emplois permanents à temps non complet*
+	  - SPEC_APPLI: Code des communes L421-2 :
+
+	**Anciens textes**:
+
+	  - Code de l'administration communale 598
+
+	**Créé par**:
+
+	  - Décret n°77-373 1977-03-28 JORF ET JONC 5 AVRIL 1977
+
+	**Codifié par**:
+
+	  - Décret n°77-372 1977-03-28
+
+
+###### Article L417-14
+
+Les agents soumis au présent titre sont obligatoirement affiliés à la caisse nationale de retraites des agents des
+collectivités locales.
+
+Un règlement d'administration publique détermine l'organisation et le fonctionnement de cette caisse.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Code de l'administration communale 599
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Ordonnance 45-993 1945-05-17
+	  - TXT_ASSOCIE: Loi n°63-156 1963-03-23 ART. 51
+
+	**Créé par**:
+
+	  - Décret n°77-373 1977-03-28 JORF ET JONC 5 AVRIL 1977
+
+	**Codifié par**:
+
+	  - Décret n°77-372 1977-03-28
+
+
+###### Article L417-15
+
+Les agents communaux qui ont bénéficié au 1er mai 1952 d'un régime de retraites plus avantageux et qui conservent le bénéfice
+de leurs avantages ne sont pas soumis aux dispositions du premier alinéa de l'article précédent.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Code de l'administration communale 600
+
+	**Créé par**:
+
+	  - Décret n°77-373 1977-03-28 JORF ET JONC 5 AVRIL 1977
+
+	**Codifié par**:
+
+	  - Décret n°77-372 1977-03-28
+
+	**Cite**:
+
+	  - Code des communes L417-14 AL. 1
+
+
+###### Article L417-16
+
+Les agents communaux tributaires de la caisse nationale de retraites des agents des collectivités locales qui, antérieurement
+à leur affiliation à cet organisme, ont été assujettis à un règlement particulier régulièrement approuvé et dont les pensions
+ont été révisées, ou ont été ou seront concédées en vertu du décret n° 49-1416 du 5 octobre 1949, conservent également, sous
+réserve de l'application des dispositions de l'article 15 de ce décret, le bénéfice du nombre et du taux des annuités
+résultant du règlement particulier pour les services antérieurs au 1er juillet 1941.
+
+Toute révision des pensions qui résulte postérieurement au 31 décembre 1954 d'une modification des émoluments leur servant de
+base est effectuée suivant les mêmes modalités de calcul.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - SPEC_APPLI: *Dispositions applicables aux agents nommés dans des emplois permanents à temps non complet*
+	  - SPEC_APPLI: Code des communes L421-2 :
+
+	**Anciens textes**:
+
+	  - Code de l'administration communale 601
+
+	**Cite**:
+
+	  - Décret n°65-773 1965-09-09 MODIFIE
+	  - CODE DES COMMUNES. - art. L417-12 (Ab)
+
+	**Créé par**:
+
+	  - Décret n°77-373 1977-03-28 JORF ET JONC 5 AVRIL 1977
+
+	**Codifié par**:
+
+	  - Décret n°77-372 1977-03-28
+
+	**Cité par**:
+
+	  - CODE DES COMMUNES. - art. L421-2 (Ab)
+
+
+###### Article L417-17
+
+Tout agent communal qui est susceptible de bénéficier d'une pension de retraite et tout fonctionnaire qui a effectué une
+carrière mixte, d'une part, au service des communes et des établissements publics communaux et intercommunaux, d'autre part,
+au service de l'Etat, est en droit de solliciter la liquidation d'une retraite tenant compte de la totalité de cette
+carrière.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Code de l'administration communale 602
+
+	**Créé par**:
+
+	  - Décret n°77-373 1977-03-28 JORF ET JONC 5 AVRIL 1977
+
+	**Codifié par**:
+
+	  - Décret n°77-372 1977-03-28
+
+
+### TITRE 2 : Personnels divers
+
+#### CHAPITRE 2 : Agents non titulaires.
+
+###### Article L422-6
+
+Conformément aux dispositions de l'article L. 122-8 du code du travail, les dispositions des articles L. 122-6 et L. 122-7 de
+ce code sont applicables aux agents non titulaires des communes et de leurs établissements publics administratifs, mentionnés
+aux articles L. 422-4 et L. 422-5 ci-dessus, dès lors que les intéressés remplissent les conditions prévues à ces articles.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°77-372 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-372 1977-03-28 JORF ET JONC 5 AVRIL 1977
+
+	**Cite**:
+
+	  - CODE DES COMMUNES. - art. L422-4 (M)
+	  - CODE DES COMMUNES. - art. L422-5 (M)
+	  - Code du travail - art. L122-6 (Ab)
+	  - Code du travail - art. L122-7 (Ab)
+	  - Code du travail - art. L122-8 (M)
+
+
+###### Article L422-7
+
+Tout agent non titulaire des communes et de leurs établissements publics peut, sur sa demande, être maintenu en activité
+jusqu'à l'âge de soixante-cinq ans s'il réunit les conditions intellectuelles et physiques suffisantes.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Code de l'administration communale 624
+
+	**Codifié par**:
+
+	  - Décret n°77-372 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-372 1977-03-28 JORF ET JONC 5 AVRIL 1977
+
+	**Cité par**:
+
+	  - CODE DES COMMUNES. - art. R*142-13 (Ab)
+
+
+###### Article L422-8
+
+Les agents non titulaires des communes et de leurs établissements publics sont affiliés à une institution de retraite
+complémentaire régie par l'article L. 4 du code de la sécurité sociale, en vue de leur accorder des avantages s'ajoutant à
+ceux qui résultent de l'organisation de la sécurité sociale.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - SPEC_APPLI: *Dispositions non applicables aux communes du département de Saint-Pierre-et-Miquelon*
+	  - SPEC_APPLI: Code des communes L442-2 :
+
+	**Cite**:
+
+	  - Décret n°70-1277 1970-12-23 modifié
+	  - Code de la sécurité sociale L4
+
+	**Anciens textes**:
+
+	  - Loi n°72-1223 1972-12-29 art. 4 (Partie)
+
+	**Codifié par**:
+
+	  - Décret n°77-372 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-372 1977-03-28 JORF ET JONC 5 AVRIL 1977
+
+
+### TITRE 3 : Dispositions applicables en cas de fusion de communes ou de création de communauté urbaine
+
+#### CHAPITRE 2 : Création de communauté urbaine.
+
+###### Article L432-2
+
+Les questions relatives au transfert définitif des personnels sont réglées par accord entre les communes, syndicats de
+communes ou districts dont certains services seulement sont transférés, et la communauté urbaine, après avis des commissions
+paritaires communales et intercommunales intéressées.
+
+Un décret en Conseil d'Etat après consultation de la commission nationale paritaire du personnel communal fixe les conditions
+de ce règlement.
+
+A défaut d'accord amiable, ce décret en Conseil d'Etat arrête également les modalités du transfert.
+
+Jusqu'au règlement définitif de leur situation, les personnels intéressés sont maintenus dans leur situation administrative
+antérieure et continuent d'être rémunérés par leur commune, syndicat ou district d'origine.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - SPEC_APPLI: *Dispositions non applicables aux communes des départements de la Guadeloupe, de la Guyane, de la Martinique, de la Réunion et de Saint-Pierre-et-Miquelon*
+	  - SPEC_APPLI: CODE DES COMMUNES. - art. L442-1 (Ab)
+	  - SPEC_APPLI: Code des communes L442-1, L442-2 :
+
+	**Anciens textes**:
+
+	  - Loi n°66-1069 1966-12-31 art. 24 al. 2 et 3
+	  - Loi n°66-1069 du 31 décembre 1966 - art. 24 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°77-372 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-372 1977-03-28 JORF ET JONC 5 AVRIL 1977
+
+
+###### Article L432-3
+
+Les personnels transférés à la communauté urbaine ou demeurés au service de leur commune, syndicat de communes ou district
+d'origine conservent leurs droits acquis et l'ensemble des avantages dont ils bénéficiaient et qui comportent notamment la
+garantie des mêmes possibilités d'avancement d'échelon et de grade, ainsi que de durée de carrière, et des mêmes modalités de
+rémunération que dans leur commune, syndicat de communes ou district d'origine.
+
+Les agents qui ont opté pour un statut local ou pour un régime de pension local continuent à jouir des dispositions pour
+lesquelles ils ont opté.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - SPEC_APPLI: *Dispositions non applicables aux communes des départements de la Guadeloupe, de la Guyane, de la Martinique, de la Réunion et de Saint-Pierre-et-Miquelon*
+	  - SPEC_APPLI: CODE DES COMMUNES. - art. L442-1 (Ab)
+	  - SPEC_APPLI: Code des communes L442-1, L442-2 :
+
+	**Anciens textes**:
+
+	  - Loi n°66-1069 1966-12-31 art. 24 al. 4 et 5
+	  - Loi n°66-1069 du 31 décembre 1966 - art. 24 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°77-372 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-372 1977-03-28 JORF ET JONC 5 AVRIL 1977
+
+
+###### Article L432-4
+
+Pour pourvoir les emplois de la communauté urbaine, il ne peut être fait appel à des personnels extérieurs aux personnels des
+communes, des syndicats de communes ou des districts qui sont inclus dans la communauté et dont tout ou partie des services
+sont transférés, qu'à défaut de candidats issus des personnels de ces communes, syndicats et districts.
+
+Dans tous les cas et quels que soient les grades ou emplois concernés, les qualifications exigées doivent être conformes à
+celles prévues par les dispositions du présent code.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - SPEC_APPLI: *Dispositions non applicables aux communes des départements de la Guadeloupe, de la Guyane, de la Martinique, de la Réunion et de Saint-Pierre-et-Miquelon*
+	  - SPEC_APPLI: CODE DES COMMUNES. - art. L442-1 (Ab)
+	  - SPEC_APPLI: Code des communes L442-1, L442-2 :
+
+	**Anciens textes**:
+
+	  - Loi n°66-1069 1966-12-31 art. 25 al. 1
+	  - Loi n°66-1069 du 31 décembre 1966 - art. 25 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°77-372 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-372 1977-03-28 JORF ET JONC 5 AVRIL 1977
+
+
+###### Article L432-5
+
+Les agents qui se trouvent non pourvus d'emplois après la constitution des services de la communauté urbaine et la
+réorganisation consécutive des services des communes, sont maintenus en surnombre dans leur cadre d'origine jusqu'à leur
+reclassement éventuel en priorité dans l'un des emplois vacants similaires de la communauté urbaine ou des communes du
+département, sous réserve qu'ils remplissent les conditions d'aptitude nécessaires.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - SPEC_APPLI: *Dispositions non applicables aux communes des départements de la Guadeloupe, de la Guyane, de la Martinique, de la Réunion et de Saint-Pierre-et-Miquelon*
+	  - SPEC_APPLI: CODE DES COMMUNES. - art. L442-1 (Ab)
+	  - SPEC_APPLI: Code des communes L442-1, L442-2 :
+
+	**Anciens textes**:
+
+	  - Loi n°66-1069 1966-12-31 art. 25 al. 2
+	  - Loi n°66-1069 du 31 décembre 1966 - art. 25 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°77-372 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-372 1977-03-28 JORF ET JONC 5 AVRIL 1977
+
+
+###### Article L432-6
+
+Les dépenses supplémentaires résultant pour les communes, syndicats de communes ou districts de l'application des
+dispositions des deux articles précédents, sont couvertes en partie par une contribution exceptionnelle de la communauté
+urbaine.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - SPEC_APPLI: *Dispositions non applicables aux communes des départements de la Guadeloupe, de la Guyane, de la Martinique, de la Réunion et de Saint-Pierre-et-Miquelon*
+	  - SPEC_APPLI: CODE DES COMMUNES. - art. L442-1 (Ab)
+	  - SPEC_APPLI: Code des communes L442-1, L442-2 :
+
+	**Anciens textes**:
+
+	  - Loi n°66-1069 1966-12-31 art. 26 al. 1
+	  - Loi n°66-1069 du 31 décembre 1966 - art. 26 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°77-372 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-372 1977-03-28 JORF ET JONC 5 AVRIL 1977
+
+
+###### Article L432-7
+
+Les premières affectations de personnel aux emplois de la communauté urbaine, en application des dispositions de l'article L.
+432-1, sont prononcées par le président du conseil de communauté après avis d'une commission spéciale.
+
+Cette commission est présidée par le président de la commission nationale paritaire du personnel communal et comprend un
+nombre égal de maires de communes faisant partie de la communauté urbaine et de représentants du personnel élus dans les
+conditions fixées par un arrêté du ministre de l'intérieur après consultation de la commission nationale paritaire du
+personnel communal.
+
+Par dérogation aux dispositions des alinéas précédents, le président de la communauté urbaine et le président du syndicat de
+communes pour le personnel communal du département du siège de la communauté sont membres de droit de la commission.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - SPEC_APPLI: *Dispositions non applicables aux communes des départements de la Guadeloupe, de la Guyane, de la Martinique, de la Réunion et de Saint-Pierre-et-Miquelon*
+	  - SPEC_APPLI: CODE DES COMMUNES. - art. L442-1 (Ab)
+	  - SPEC_APPLI: Code des communes L442-1, L442-2 :
+
+	**Anciens textes**:
+
+	  - Loi n°66-1069 1966-12-31 art. 27
+	  - Loi n°66-1069 du 31 décembre 1966 - art. 27 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°77-372 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-372 1977-03-28 JORF ET JONC 5 AVRIL 1977
+
+	**Cite**:
+
+	  - CODE DES COMMUNES. - art. L432-1 (M)
+
+	**Cité par**:
+
+	  - CODE DES COMMUNES. - art. R*432-3 (V)
+
+
+### TITRE 4 : Dispositions particulières
+
+#### CHAPITRE 1 : Dispositions applicables aux communes des départements de la Moselle, du Bas-Rhin et du Haut-Rhin.
+
+###### Article L441-3
+
+Les agents de la police municipale sont nommés par le maire. Ils peuvent être suspendus et révoqués dans les conditions
+prévues pour les agents permanents à temps complet.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Code de l'administration communale 500 remplacé
+
+	**Codifié par**:
+
+	  - Décret n°77-372 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-372 1977-03-28 JORF ET JONC 5 AVRIL 1977
+
+	**Abrogé par**:
+
+	  - Loi n°99-291 du 15 avril 1999 - art. 12 (V)
+
+	**Cité par**:
+
+	  - Loi n°99-291 du 15 avril 1999 - art. 12 (V)
+
+	**Cite**:
+
+	  - Code des communes L414-23 et L414-24
+
+
+###### Article L441-4
+
+La communauté urbaine participe, au prorata du nombre d'années passées à son service, au paiement des pensions des agents qui
+sont encore soumis aux régimes locaux de retraite institués par les collectivités du Bas-Rhin, du Haut-Rhin et de la Moselle.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°66-1069 1966-12-31 art. 26 al. 2
+	  - Loi n°66-1069 du 31 décembre 1966 - art. 26 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°77-372 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-372 1977-03-28 JORF ET JONC 5 AVRIL 1977
+
+
+#### CHAPITRE 4 : Dispositions applicables à la ville de Paris.
+
+###### Article L444-3
+
+Le préfet de police exerce les pouvoirs du maire sur les personnels de la commune placés sous son autorité.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°75-1331 1975-12-31 ART. 25 AL. 2 (Partie)
+	  - Loi n°75-1331 du 31 décembre 1975 - art. 25 (M)
+
+	**Codifié par**:
+
+	  - Décret n°77-372 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-372 1977-03-28 JORF ET JONC 5 AVRIL 1977
+
+	**Cité par**:
+
+	  - Loi n°84-53 du 26 janvier 1984 - art. 119 (V)
+
+
+###### Article L444-5
+
+Le bénéfice des dispositions du 3° de l'article L. 416-1 et de l'article L. 417-11 est étendu au corps des identificateurs de
+l'institut médico-légal de la préfecture de police.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°75-931 1975-10-14
+
+	**Codifié par**:
+
+	  - Décret n°77-372 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-372 1977-03-28 JORF ET JONC 5 AVRIL 1977
+
+	**Cité par**:
+
+	  - Loi n°84-53 du 26 janvier 1984 - art. 119 (V)
+	  - Loi n°2010-1330 du 9 novembre 2010 - art. 45 (V)
+
+	**Cite**:
+
+	  - CODE DES COMMUNES. - art. L416-1 (V)
+	  - CODE DES COMMUNES. - art. L417-11 (V)
 
 
 ## LIVRE 5 : Dispositions finales.
@@ -88975,5 +98726,16040 @@ Il peut être créé dans chaque corps de sapeurs-pompiers professionnels ou vol
 	**Cite**:
 
 	  - Loi   1901-07-01
+
+
+## LIVRE 4 : Personnel communal
+
+### TITRE 1 : Agents nommés dans des emplois permanents à temps complet
+
+#### CHAPITRE 1 : Dispositions générales et organiques
+
+##### SECTION 1 : Dispositions générales.
+
+###### Article R*411-1
+
+Il est tenu pour chaque agent soumis aux dispositions du présent titre un dossier individuel qui doit contenir toutes les
+pièces qui intéressent sa situation administrative.
+
+Ces pièces sont enregistrées, numérotées et classées sans discontinuité.
+
+Le dossier suit l'intéressé lorsque celui-ci prend un emploi dans une autre commune.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - SPEC_APPLI: *Dispositions applicables aux agents nommés dans des emplois permanents à temps non complet et aux agents non titulaires*
+	  - SPEC_APPLI: Code des communes R421-7, R422-1 :
+
+	**Anciens textes**:
+
+	  - Code de l'administration communale 490 AL. 1 (PARTIE) et 2
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
+
+
+###### Article R*411-2
+
+La collectivité locale doit couvrir l'agent des condamnations civiles prononcées contre lui et des frais de procédure,
+lorsqu'il a été poursuivi par un tiers pour faute de service et que le conflit d'attribution n'a pas été élevé.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°62-544 1962-05-05 ART. 1 AL. 2
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
+
+
+###### Article R*411-3
+
+En application de l'article L. 411-13, les dispositions du décret n° 58-430 du 11 avril 1958 fixant les conditions
+d'application de l'article 12 du décret du 29 octobre 1936 relatif aux cumuls de retraites, de rémunérations et de fonctions
+sont applicables aux agents communaux soumis au présent titre.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - SPEC_APPLI: *Dispositions applicables aux agents nommés dans des emplois permanents à temps non complet*
+	  - SPEC_APPLI: Code des communes R421-7 :
+
+	**Cite**:
+
+	  - Décret n°1936-10-29 ART. 12
+	  - Décret n°58-430 1958-04-11 modifié
+	  - Décret n°72-201 1972-03-09
+	  - CODE DES COMMUNES. - art. L411-13 (Ab)
+	  - Loi n°58-430 1958-04-11
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-373 1977-03-28 JORF et JONC 5 avril 1977
+
+
+##### SECTION 2 : Syndicat de communes pour le personnel communal
+
+##### SOUS-SECTION 1 : Constitution du syndicat.
+
+###### Article R411-11
+
+Dans chaque département, sont obligatoirement affiliées à un syndicat de communes pour le personnel communal : 
+
+1° Les communes qui occupent moins de cent agents   titularisés dans un emploi permanent à temps complet ; 
+
+2° Les communes qui n'occupent qu'un ou plusieurs agents titularisés dans un emploi permanent à temps non complet. 
+
+Sont considérés comme agents faisant partie du personnel communal les agents de la commune et de ses établissements publics,
+à l'exception des personnels soumis pour l'ensemble de leur statut à un régime législatif ou réglementaire spécial et des
+personnels des établissements à caractère industriel ou commercial.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°66-857 1966-11-18 ART. 1 AL. 1 et 2
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
+
+	**Abrogé par**:
+
+	  - Décret n°85-643 1985-06-26 art. 118 jorf 28 juin 1985
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°85-643 du 26 juin 1985 - art. 118 (M)
+
+	**Cité par**:
+
+	  - CODE DES COMMUNES. - art. R411-14 (Ab)
+	  - CODE DES COMMUNES. - art. R411-16 (Ab)
+	  - CODE DES COMMUNES. - art. R443-3 (Ab)
+
+
+###### Article R411-12
+
+Les établissements publics intercommunaux qui occupent moins de cent agents [*nombre*] titularisés dans un emploi permanent à
+temps complet sont rattachés directement au syndicat de communes du département.
+
+Lorsqu'un établissement intercommunal groupe des communes de plusieurs départements, il est rattaché au département auquel
+appartient la commune siège de l'établissement.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°66-857 1966-11-18 ART. 1 AL. 3
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
+
+	**Abrogé par**:
+
+	  - Décret n°85-643 1985-06-26 art. 118 jorf 28 juin 1985
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°85-643 du 26 juin 1985 - art. 118 (M)
+
+
+###### Article R411-14
+
+L'arrêté préfectoral [*fixant la liste des communes et des établissements publics affiliés au syndicat*] comporte deux listes
+distinctes : la première comprend les collectivités mentionnées au 1° de l'article R. 411-11 [*les communes avec moins de
+cent agents titularisés dans un emploi permanent à temps complet*], la seconde les communes mentionnées au 2° de cet article
+[*les communes n'ayant qu'un ou plusieurs agents titularisés dans un emploi permanent à temps non complet*].
+
+Les affiliations au syndicat de communes pour le personnel communal et les radiations ultérieures sont publiées au recueil
+des actes administratifs du département.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°66-857 1966-11-18 ART. 2 AL. 3 et 4
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
+
+	**Abrogé par**:
+
+	  - Décret n°85-643 1985-06-26 art. 118 jorf 28 juin 1985
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°85-643 du 26 juin 1985 - art. 118 (M)
+
+	**Cite**:
+
+	  - CODE DES COMMUNES. - art. R411-11 (Ab)
+
+	**Cité par**:
+
+	  - CODE DES COMMUNES. - art. R411-16 (Ab)
+	  - CODE DES COMMUNES. - art. R411-17 (Ab)
+
+
+###### Article R411-15
+
+Lorsqu'une commune ou un établissement public omet ou refuse d'établir la liste des emplois permanents, le préfet
+[**]attributions[**] invite le conseil municipal ou le conseil chargé de l'administration de l'établissement à prendre une
+délibération spéciale à ce sujet dans un délai qu'il détermine.
+
+Dans le cas où, à l'expiration de ce délai, le conseil maintient son opposition ou ne prend aucune délibération, il est
+procédé d'office, par arrêté du préfet, à l'établissement de la liste des emplois permanents [*substitution*].
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°66-857 1966-11-18 ART. 2 AL. 5 et 6
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
+
+	**Abrogé par**:
+
+	  - Décret n°85-643 1985-06-26 art. 118 jorf 28 juin 1985
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°85-643 du 26 juin 1985 - art. 118 (M)
+
+	**Cite**:
+
+	  - CODE DES COMMUNES. - art. L411-1 (Ab)
+
+
+###### Article R411-16
+
+Lorsque, dans une commune ou un établissement intercommunal affilié, le nombre des emplois permanents à temps complet atteint
+au moins cent, la commune ou l'établissement cesse de faire partie du syndicat de communes pour le personnel communal, à
+compter de la date à laquelle prend effet la délibération portant création du nouvel emploi et inscription du crédit
+correspondant au chapitre budgétaire intéressé.
+
+Cette délibération est immédiatement [**]délai[**] notifiée par le préfet au syndicat.
+
+Dans le cas où le nombre de ces emplois devient inférieur à cent, il est procédé conformément à l'article R. 411-14 ; la
+notification de la radiation est également faite au syndicat.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°66-857 1966-11-18 ART. 3 AL. 1 et 2
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
+
+	**Abrogé par**:
+
+	  - Décret n°85-643 1985-06-26 art. 118 jorf 28 juin 1985
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°85-643 du 26 juin 1985 - art. 118 (M)
+
+	**Cite**:
+
+	  - CODE DES COMMUNES. - art. R411-11 (Ab)
+	  - CODE DES COMMUNES. - art. R411-14 (Ab)
+
+
+###### Article R411-17
+
+Lorsque, dans une commune n'occupant qu'un ou plusieurs agents titularisés dans un emploi permanent à temps non complet, il
+est créé, dans les conditions prévues à l'article L. 411-1, un ou plusieurs emplois à temps complet, l'arrêté préfectoral
+[*qui dresse les listes de communes affiliées obligatoirement au syndicat*] prévu à l'article R. 411-14 radie cette commune
+de la liste sur laquelle elle était inscrite [*liste d'affiliation comprenant les communes qui n'occupent qu'un ou plusieurs
+agents titularisés dans un emploi permanent à temps non complet*] et procède à son inscription sur celle comprenant les
+communes employant au moins un agent à temps complet [**]compétence[**].
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°66-857 1966-11-18 ART. 3 AL. 3
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
+
+	**Abrogé par**:
+
+	  - Décret n°85-643 1985-06-26 art. 118 jorf 28 juin 1985
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°85-643 du 26 juin 1985 - art. 118 (M)
+
+	**Cite**:
+
+	  - CODE DES COMMUNES. - art. L411-1 (Ab)
+	  - CODE DES COMMUNES. - art. R411-14 (Ab)
+
+
+###### Article R411-18
+
+La collectivité qui compte au moins cent agents [*nombre*] titularisés dans un emploi permanent à temps complet peut être
+admise à faire partie du syndicat de communes pour le personnel communal.
+
+La délibération doit recueillir l'avis conforme du comité du syndicat [**]conditions de forme[**].
+
+La délibération du comité du syndicat qui accepte une nouvelle adhésion est adressée au préfet.
+
+La décision prévue à l'article L. 411-27 qui prononce l'affiliation d'un nouveau membre au syndicat est prise par arrêté du
+préfet dans les formes prévues aux articles R. 411-13 et R. 411-14 [*arrêté publié au recueil des actes administratifs du
+département*].
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Code de l'administration communale 493 AL. 2 (PARTIE)
+	  - Décret n°66-857 1966-11-18 ART. 4
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
+
+	**Abrogé par**:
+
+	  - Décret n°85-643 1985-06-26 art. 118 jorf 28 juin 1985
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°85-643 du 26 juin 1985 - art. 118 (M)
+
+	**Cite**:
+
+	  - CODE DES COMMUNES. - art. L411-27 (M)
+	  - Code des communes R411-13 et R411-14
+
+
+##### SOUS-SECTION 2 : Formation du comité du syndicat.
+
+###### Article R411-19
+
+Chaque collectivité, ainsi que les établissements qui en dépendent, est représentée dans le comité du syndicat de communes
+pour le personnel communal par son maire ou son président.
+
+Cette représentation s'accroît d'un délégué lorsque le nombre des agents employés s'élève de cinq à trente-neuf et d'un
+deuxième délégué lorsque ce chiffre atteint au moins quarante.
+
+Le ou les délégués sont choisis par le conseil municipal soit parmi les conseillers municipaux, soit parmi les membres des
+assemblées délibérantes des établissements publics communaux.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°66-857 1966-11-18 ART. 5 AL. 1 à 4
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
+
+	**Abrogé par**:
+
+	  - Décret n°85-643 1985-06-26 art. 118 jorf 28 juin 1985
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°85-643 du 26 juin 1985 - art. 118 (M)
+
+	**Cité par**:
+
+	  - CODE DES COMMUNES. - art. R411-20 (Ab)
+
+
+###### Article R411-20
+
+Dans le cas où le nombre des emplois permanents à temps complet des établissements publics communaux est égal ou supérieur à
+celui des emplois proprement communaux, le deuxième délégué est le président de la commission administrative, du conseil
+d'administration ou du comité de l'établissement qui comporte le plus grand nombre d'emplois ou dont le budget est le plus
+élevé si le nombre d'emplois est le même. 
+
+Lorsque le président est le maire de la commune, il est remplacé par un autre délégué qui est élu par le conseil chargé de la
+gestion de l'établissement.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°66-857 1966-11-18 ART. 5 AL. 5
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
+
+	**Abrogé par**:
+
+	  - Décret n°85-643 1985-06-26 art. 118 jorf 28 juin 1985
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°85-643 du 26 juin 1985 - art. 118 (M)
+
+	**Cite**:
+
+	  - CODE DES COMMUNES. - art. R411-19 (Ab)
+
+
+###### Article R411-21
+
+Les établissements intercommunaux sont représentés au comité du syndicat de communes pour le personnel communal par leur
+président et, en outre, par un délégué supplémentaire lorsqu'ils emploient de cinq à trente-neuf agents, et par deux délégués
+lorsque le nombre des emplois est égal ou supérieur à quarante.
+
+Ces délégués sont désignés par le conseil ou le comité de ces établissements.
+
+Lorsque le président ou l'un ou l'autre des délégués sont maires, déjà membres du comité à ce titre, ils sont remplacés par
+une autre personnalité qui est élue par le conseil ou le comité.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°66-857 1966-11-18 ART. 5 AL. 6 et 7
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
+
+	**Abrogé par**:
+
+	  - Décret n°85-643 1985-06-26 art. 118 jorf 28 juin 1985
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°85-643 du 26 juin 1985 - art. 118 (M)
+
+
+###### Article R411-22
+
+Lorsque le conseil municipal ou le conseil d'administration de l'établissement public ne désignent pas les délégués prévus
+aux articles précédents, la commune ou l'établissement sont valablement représentés par le maire ou le président qui ne
+dispose que d'une voix [*nombre*].
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°66-857 1966-11-18 ART. 5 AL. 8
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
+
+	**Abrogé par**:
+
+	  - Décret n°85-643 1985-06-26 art. 118 jorf 28 juin 1985
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°85-643 du 26 juin 1985 - art. 118 (M)
+
+	**Cite**:
+
+	  - Code des communes R411-19 à R411-21
+
+
+###### Article R411-23
+
+Lorsque plusieurs communes comptent au plus cinq emplois [*nombre*] permanents à temps complet, elles peuvent, par
+délibérations concordantes de leurs conseils municipaux, décider de se grouper pour se faire représenter par un délégué
+unique au comité de syndicat de communes pour le personnel communal.
+
+Ce délégué est désigné par les délibérations concordantes des conseils municipaux intéressés. Il a au sein du comité autant
+de voix qu'il représente de communes.
+
+Chaque groupement ne peut comprendre plus du quart [*proportion*] des communes mentionnées au 1° de l'article R. 411-11
+[*communes qui occupent moins de cent agents titularisés dans un emploi permanent à temps complet*].
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°66-857 1966-11-18 ART. 6 AL. 1 à 3
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
+
+	**Abrogé par**:
+
+	  - Décret n°85-643 1985-06-26 art. 118 jorf 28 juin 1985
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°85-643 du 26 juin 1985 - art. 118 (M)
+
+	**Cité par**:
+
+	  - CODE DES COMMUNES. - art. R411-24 (Ab)
+
+	**Cite**:
+
+	  - Code des communes R411-11 1°
+
+
+###### Article R411-24
+
+Les communes qui ne comptent qu'un ou plusieurs agents permanents à temps non complet peuvent se grouper pour être
+représentées au comité dans les conditions prévues à l'article précédent [*délibérations concordantes de leurs conseils
+municipaux pour une représentation par un délégué unique*].
+
+Chaque groupement ne peut comprendre plus du quart [*proportion*] des communes mentionnées au 2° de l'article R. 411-11
+[*communes qui n'occupent qu'un ou plusieurs agents titularisés dans un emploi permanent à temps non complet*].
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°66-857 1966-11-18 ART. 6 AL. 4
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
+
+	**Abrogé par**:
+
+	  - Décret n°85-643 1985-06-26 art. 118 jorf 28 juin 1985
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°85-643 du 26 juin 1985 - art. 118 (M)
+
+	**Cite**:
+
+	  - CODE DES COMMUNES. - art. R411-23 (Ab)
+	  - Code des communes R411-11 2°
+
+
+###### Article R411-25
+
+En cas d'empêchement ou d'absence d'un maire, pour quelque cause que ce soit, il est remplacé au comité du syndicat de
+communes pour le personnel communal dans les conditions prévues par l'article L. 122-13.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°66-857 1966-11-18 ART. 7
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
+
+	**Abrogé par**:
+
+	  - Décret n°85-643 1985-06-26 art. 118 jorf 28 juin 1985
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°85-643 du 26 juin 1985 - art. 118 (M)
+
+	**Cite**:
+
+	  - CODE DES COMMUNES. - art. L122-13 (Ab)
+
+
+###### Article R411-26
+
+Le mandat des membres du comité du syndicat de communes pour le personnel communal prend fin en même temps que celui des
+assemblées délibérantes qu'ils représentent [**]durée[**].
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°66-857 1966-11-18 ART. 8
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
+
+	**Abrogé par**:
+
+	  - Décret n°85-643 1985-06-26 art. 118 jorf 28 juin 1985
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°85-643 du 26 juin 1985 - art. 118 (M)
+
+
+##### SOUS-SECTION 3 : Fonctionnement du comité du syndicat.
+
+###### Article R411-27
+
+La commune, siège du syndicat de communes pour le personnel communal, est désignée par le comité du syndicat au cours de sa
+première réunion, qui se tient au chef-lieu du département à l'initiative du préfet.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°66-857 1966-11-18 ART. 9
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
+
+	**Abrogé par**:
+
+	  - Décret n°85-643 1985-06-26 art. 118 jorf 28 juin 1985
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°85-643 du 26 juin 1985 - art. 118 (M)
+
+
+###### Article R411-28
+
+Le comité du syndicat de communes pour le personnel communal tient chaque année [**]fréquence[**] une session ordinaire
+obligatoire.
+
+La date d'ouverture des sessions ordinaires est fixée par le comité à sa première réunion.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°66-857 1966-11-18 ART. 10 AL. 1 et 2
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
+
+	**Abrogé par**:
+
+	  - Décret n°85-643 1985-06-26 art. 118 jorf 28 juin 1985
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°85-643 du 26 juin 1985 - art. 118 (M)
+
+
+###### Article R411-29
+
+Le comité peut être convoqué en session extraordinaire par son président qui en avertit le préfet huit jours au moins avant
+la réunion [*délai*].
+
+Le président est tenu de convoquer le comité à la demande soit du préfet soit de la moitié [**]proportion[**] au moins des
+membres du comité habilités à se prononcer sur les questions inscrites à l'ordre du jour.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°66-857 1966-11-18 ART. 10 AL. 3 et 4
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
+
+	**Abrogé par**:
+
+	  - Décret n°85-643 1985-06-26 art. 118 jorf 28 juin 1985
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°85-643 du 26 juin 1985 - art. 118 (M)
+
+
+###### Article R411-30
+
+Le comité choisit son bureau parmi ses membres. 
+
+Le bureau comprend au moins cinq maires   et au maximum vingt-cinq membres. Il est composé d'un président, de deux vices-
+présidents, d'un secrétaire et d'assesseurs. 
+
+Le président et les vice-présidents sont des maires de communes qui comptent au moins un emploi permanent à temps complet. 
+
+Le président peut déléguer une partie de ses pouvoirs à l'un des vice-présidents.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°66-857 1966-11-18 ART. 11 AL. 1 à 4
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
+
+	**Abrogé par**:
+
+	  - Décret n°85-643 1985-06-26 art. 118 jorf 28 juin 1985
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°85-643 du 26 juin 1985 - art. 118 (M)
+
+
+###### Article R411-31
+
+Le comité fixe le nombre des membres du bureau et détermine les modalités de leur élection.
+
+La moitié au moins des membres du bureau doit représenter des communes ou établissements intercommunaux qui comptent plus de
+cinq emplois [*nombre*] permanents à temps complet.
+
+Les communes qui ne comptent que des emplois permanents à temps non complet sont représentées au bureau par un maire au
+moins, et au maximum par un nombre de maires égal au cinquième [*proportion*] du nombre total des membres du bureau.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°66-857 1966-11-18 ART. 11 AL. 5 à 7
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
+
+	**Abrogé par**:
+
+	  - Décret n°85-643 1985-06-26 art. 118 jorf 28 juin 1985
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°85-643 du 26 juin 1985 - art. 118 (M)
+
+
+###### Article R411-32
+
+Le comité ne peut délibérer que lorsque le tiers au moins des membres en exercice assiste à la séance [*quorum*].
+
+Quand, après une première convocation régulièrement faite selon les dispositions de l'article L. 121-10 [*relatif à la
+convocation du conseil municipal : convocation faite par le président, mentionnée au registre des délibérations, affichée ou
+publiée, et adressée aux membres du comité par écrit, à domicile, trois jours au moins avant la réunion, sauf urgence*], le
+comité ne s'est pas réuni en nombre suffisant, la délibération prise après la seconde convocation à trois jours au moins
+d'intervalle [**]délai[**] est valable quel que soit le nombre des membres présents.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°66-857 1966-11-18 ART. 12 COMPLETE AL. 3 et 4
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
+
+	**Abrogé par**:
+
+	  - Décret n°85-643 1985-06-26 art. 118 jorf 28 juin 1985
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°85-643 du 26 juin 1985 - art. 118 (M)
+
+	**Cite**:
+
+	  - CODE DES COMMUNES. - art. L121-10 (M)
+
+
+###### Article R411-33
+
+Les représentants des communes qui ne comptent que des emplois permanents à temps non complet n'ont voix délibérative au
+comité et au bureau que pour les questions intéressant les titulaires de ces emplois.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°66-857 1966-11-18 ART. 12 AL. 2
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
+
+	**Abrogé par**:
+
+	  - Décret n°85-643 1985-06-26 art. 118 jorf 28 juin 1985
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°85-643 du 26 juin 1985 - art. 118 (M)
+
+
+###### Article R411-34
+
+Le comité délibère [**]attributions[**] sur les affaires dont il est saisi par son bureau, par ses membres, par le préfet et
+par les maires des communes ou les présidents des conseils chargés de l'administration des établissements publics communaux
+et intercommunaux.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°66-857 1966-11-18 ART. 12 AL. 1
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
+
+	**Abrogé par**:
+
+	  - Décret n°85-643 1985-06-26 art. 118 jorf 28 juin 1985
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°85-643 du 26 juin 1985 - art. 118 (M)
+
+
+##### SOUS-SECTION 4 : Dispositions diverses.
+
+###### Article R411-35
+
+Les fonctions de membre du comité [*du syndicat*] sont gratuites [*rémunération : non*].
+
+Toutefois, les frais occasionnés par le déplacement et le séjour des délégués pour le fonctionnement du comité, de son bureau
+et des autres organismes prévus par la loi peuvent leur être remboursés dans les conditions prévues par délibération du
+comité soumise à l'approbation préfectorale.
+
+L'approbation préfectorale est donnée selon les règles fixées à l'article L. 121-39 [*relatif à l'approbation des
+délibérations des conseils municipaux*].
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°66-857 1966-11-18 ART. 13
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
+
+	**Abrogé par**:
+
+	  - Décret n°85-643 1985-06-26 art. 118 jorf 28 juin 1985
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°85-643 du 26 juin 1985 - art. 118 (M)
+
+	**Cite**:
+
+	  - CODE DES COMMUNES. - art. L121-39 (Ab)
+
+
+###### Article R411-36
+
+Les syndicats de communes pour le personnel communal, constitués pour l'application du statut général du personnel des
+communes et des établissements publics communaux et intercommunaux, ne peuvent être dissous.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°66-857 1966-11-18 ART. 15
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
+
+	**Abrogé par**:
+
+	  - Décret n°85-643 1985-06-26 art. 118 jorf 28 juin 1985
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°85-643 du 26 juin 1985 - art. 118 (M)
+
+
+###### Article R411-37
+
+Les dispositions des articles L. 163-1 à L. 163-18 et L. 251-1 à L. 251-7, ainsi que celles des articles R. 163-1 à R. 163-6,
+sont applicables aux syndicats de communes pour le personnel communal constitués en application de l'article L. 411-26 dans
+la mesure où il n'y est pas dérogé par les dispositions de la présente section.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°66-857 1966-11-18 ART. 14
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
+
+	**Abrogé par**:
+
+	  - Décret n°85-643 1985-06-26 art. 118 jorf 28 juin 1985
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°85-643 du 26 juin 1985 - art. 118 (M)
+
+	**Cite**:
+
+	  - CODE DES COMMUNES. - art. L411-26 (Ab)
+	  - Code des communes L163-1 à L163-18
+
+
+##### SECTION 4 : Commission paritaire communale.
+
+###### Article R*411-38
+
+Lors des réunions de la commission paritaire communale, le maire peut se faire assister, à titre consultatif, par les chefs
+de services municipaux.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Code de l'administration communale 494 AL. 4
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°85-1003 1985-09-24 art. 38
+
+
+#### CHAPITRE 2 : Recrutement, formation et promotion sociale
+
+##### SECTION 1 : Recrutement
+
+##### SOUS-SECTION 1 : Dispositions générales.
+
+###### Article R*412-1
+
+L'approbation, prévue à l'article L. 412-2, des délibérations du conseil municipal ou du comité du syndicat de communes pour
+le personnel communal est donnée par le préfet.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Code de l'administration communale 501 AL. 1 (partie)
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-373 1977-03-28 JORF et JONC 5 avril 1977
+
+	**Cite**:
+
+	  - CODE DES COMMUNES. - art. L412-2 (M)
+
+
+###### Article R412-3
+
+Le candidat justifie de son aptitude à remplir l'emploi qu'il postule.
+
+Des conditions d'aptitude spéciales à certains emplois peuvent en outre être exigées.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°62-544 1962-05-05 ART. 3 AL. 2 et 3
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
+
+	**Cité par**:
+
+	  - Arrêté du 26 novembre 1976 - art. 1 (Ab)
+
+
+###### Article R412-4
+
+A l'exception des bénéficiaires de la législation sur les emplois réservés et sauf pour les emplois prévus à l'article L.
+412-17, nul ne peut être nommé à un emploi permanent à temps complet, dans les services communaux, s'il a dépassé quarante
+ans au 1er janvier de l'année en cours, pour les communes de plus de 2.500 habitants.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°62-544 1962-05-05 ART. 4 AL. 1 PHR. 1
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-373 1977-03-28 JORF ET JONC 5 AVRIL 1977
+
+	**Cite**:
+
+	  - Décret n°78-603 1978-05-12 ART. 2
+	  - CODE DES COMMUNES. - art. L412-17 (M)
+	  - Décret n°72-1262 1972-12-22
+
+	**Cité par**:
+
+	  - CODE DES COMMUNES. - art. R412-5 (V)
+
+
+###### Article R412-5
+
+La limite d'âge est reculée d'un temps égal à celui passé effectivement dans le service national actif dans les conditions
+fixées par le décret n° 70-508 du 15 juin 1970.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°62-544 1962-05-05 ART. 4 AL. 2 PHR. 1 (PARTIE)
+
+	**Cite**:
+
+	  - Décret n°70-508 1970-06-15
+	  - CODE DES COMMUNES. - art. R412-4 (V)
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
+
+
+###### Article R412-6
+
+La limite d'âge est reculée de la durée des services accomplis en qualité de titulaire ou d'auxiliaire, soit au compte de
+l'Etat, soit au compte d'une collectivité locale.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°62-544 1962-05-05 ART. 4 AL. 2 PHR. 1 (PARTIE)
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
+
+
+###### Article R412-7
+
+La limite d'âge est reculée d'une année par enfant à charge au profit des pères et mères de famille.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°62-544 1962-05-05 ART. 4 AL. 2 PHR. 2
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
+
+
+###### Article R412-8
+
+Les agents autres que ceux qui sont soumis aux dispositions du présent titre, détachés dans un emploi permanent communal à
+temps complet, ne peuvent être titularisés dans cet emploi lorsqu'ils ne satisfont pas aux conditions prévues au présent
+chapitre.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - SPEC_APPLI: *Dispositions applicables aux agents nommés dans des emplois permanents à temps non complet*
+	  - SPEC_APPLI: Code des communes R421-7 :
+
+	**Anciens textes**:
+
+	  - Décret n°59-979 1959-08-12 ART. 1 AL. 3
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
+
+
+##### SOUS-SECTION 2 : Modalités de recrutement communes à tous les emplois.
+
+###### Article R412-9
+
+Un arrêté du ministre de l'intérieur fixe, après avis de la commission nationale paritaire du personnel communal, les titres,
+les diplômes et les programmes des concours ou examens exigés pour l'accès aux emplois communaux prévus à l'article L. 412-3.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°62-544 1962-05-05 ART. 5 (PARTIE)
+
+	**Liens**:
+
+	  - TXT_SOURCE: Arrêté du 27 juin 1962 - art. 1 (V)
+	  - TXT_SOURCE: Arrêté du 27 juin 1962 - art. 2 (V)
+	  - TXT_SOURCE: Arrêté du 27 juin 1962 - art. 3 (V)
+	  - TXT_SOURCE: Arrêté du 27 juin 1962 - art. ANNEXE 1 A (V)
+	  - TXT_SOURCE: Arrêté du 27 juin 1962 - art. Annexe 1 B (V)
+	  - TXT_SOURCE: Arrêté du 27 juin 1962 - art. Annexe 1 C (V)
+	  - TXT_SOURCE: Arrêté du 27 juin 1962 - art. Annexe 1 D (V)
+	  - TXT_SOURCE: Arrêté du 27 juin 1962 - art. Annexe 10 (V)
+	  - TXT_SOURCE: Arrêté du 27 juin 1962 - art. Annexe 2 (V)
+	  - TXT_SOURCE: Arrêté du 27 juin 1962 - art. Annexe 3 (V)
+	  - TXT_SOURCE: Arrêté du 27 juin 1962 - art. Annexe 3 bis (V)
+	  - TXT_SOURCE: Arrêté du 27 juin 1962 - art. Annexe 4 (Ab)
+	  - TXT_SOURCE: Arrêté du 27 juin 1962 - art. Annexe 4 (V)
+	  - TXT_SOURCE: Arrêté du 27 juin 1962 - art. Annexe 5 (Ab)
+	  - TXT_SOURCE: Arrêté du 27 juin 1962 - art. Annexe 6 (V)
+	  - TXT_SOURCE: Arrêté du 27 juin 1962 - art. Annexe 7 (V)
+	  - TXT_SOURCE: Arrêté du 27 juin 1962 - art. Annexe 8 (V)
+	  - TXT_SOURCE: Arrêté du 27 juin 1962 - art. Annexe 9 (V)
+	  - TXT_SOURCE: Arrêté du 28 février 1963 - art. 1 (V)
+	  - TXT_SOURCE: Arrêté du 28 février 1963 - art. 2 (V)
+	  - TXT_SOURCE: Arrêté du 28 février 1963 - art. 3 (V)
+	  - TXT_SOURCE: Arrêté du 28 février 1963 - art. ANNEXE 1 (V)
+	  - TXT_SOURCE: Arrêté du 28 février 1963 - art. Annexe 10 (Ab)
+	  - TXT_SOURCE: Arrêté du 28 février 1963 - art. Annexe 11 (V)
+	  - TXT_SOURCE: Arrêté du 28 février 1963 - art. Annexe 12 (V)
+	  - TXT_SOURCE: Arrêté du 28 février 1963 - art. Annexe 13 (V)
+	  - TXT_SOURCE: Arrêté du 28 février 1963 - art. Annexe 2 (V)
+	  - TXT_SOURCE: Arrêté du 28 février 1963 - art. Annexe 3 (V)
+	  - TXT_SOURCE: Arrêté du 28 février 1963 - art. Annexe 4 (V)
+	  - TXT_SOURCE: Arrêté du 28 février 1963 - art. Annexe 5 (V)
+	  - TXT_SOURCE: Arrêté du 28 février 1963 - art. Annexe 6 (Ab)
+	  - TXT_SOURCE: Arrêté du 28 février 1963 - art. Annexe 7 (Ab)
+	  - TXT_SOURCE: Arrêté du 28 février 1963 - art. Annexe 8 (V)
+	  - TXT_SOURCE: Arrêté du 28 février 1963 - art. Annexe 9 (V)
+	  - TXT_SOURCE: Arrêté du 15 novembre 1978 - art. 1 (V)
+	  - TXT_SOURCE: Arrêté du 15 novembre 1978 - art. 10 (V)
+	  - TXT_SOURCE: Arrêté du 15 novembre 1978 - art. 11 (Ab)
+	  - TXT_SOURCE: Arrêté du 15 novembre 1978 - art. 12 (V)
+	  - TXT_SOURCE: Arrêté du 15 novembre 1978 - art. 13 (V)
+	  - TXT_SOURCE: Arrêté du 15 novembre 1978 - art. 14 (V)
+	  - TXT_SOURCE: Arrêté du 15 novembre 1978 - art. 15 (V)
+	  - TXT_SOURCE: Arrêté du 15 novembre 1978 - art. 16 (V)
+	  - TXT_SOURCE: Arrêté du 15 novembre 1978 - art. 17 (V)
+	  - TXT_SOURCE: Arrêté du 15 novembre 1978 - art. 18 (V)
+	  - TXT_SOURCE: Arrêté du 15 novembre 1978 - art. 19 (V)
+	  - TXT_SOURCE: Arrêté du 15 novembre 1978 - art. 2 (V)
+	  - TXT_SOURCE: Arrêté du 15 novembre 1978 - art. 20 (V)
+	  - TXT_SOURCE: Arrêté du 15 novembre 1978 - art. 21 (V)
+	  - TXT_SOURCE: Arrêté du 15 novembre 1978 - art. 22 (V)
+	  - TXT_SOURCE: Arrêté du 15 novembre 1978 - art. 22 BIS (V)
+	  - TXT_SOURCE: Arrêté du 15 novembre 1978 - art. 23 (V)
+	  - TXT_SOURCE: Arrêté du 15 novembre 1978 - art. 3 (V)
+	  - TXT_SOURCE: Arrêté du 15 novembre 1978 - art. 4 (V)
+	  - TXT_SOURCE: Arrêté du 15 novembre 1978 - art. 5 (V)
+	  - TXT_SOURCE: Arrêté du 15 novembre 1978 - art. 6 (V)
+	  - TXT_SOURCE: Arrêté du 15 novembre 1978 - art. 7 (V)
+	  - TXT_SOURCE: Arrêté du 15 novembre 1978 - art. 8 (V)
+	  - TXT_SOURCE: Arrêté du 15 novembre 1978 - art. 9 (V)
+	  - TXT_SOURCE: Arrêté du 15 novembre 1978 - art. ANNEXE 1 (V)
+	  - TXT_SOURCE: Arrêté du 15 novembre 1978 - art. ANNEXE 2 (V)
+	  - TXT_SOURCE: Arrêté du 15 novembre 1978 - art. Annexe 1 option B (Ab)
+	  - TXT_SOURCE: Arrêté du 15 novembre 1978 - art. Annexe 2 (V)
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
+
+	**Cite**:
+
+	  - CODE DES COMMUNES. - art. L412-3 (Ab)
+
+
+###### Article R412-10
+
+Dans le cas où un syndicat de communes pour le personnel communal décide l'ouverture d'un concours intercommunal pour le
+recrutement de certains emplois, il est établi une liste d'aptitude arrêtée et publiée par le président du syndicat.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°59-979 1959-08-12 ART. 1 AL. 4
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
+
+
+###### Article R412-11
+
+L'ordre d'inscription sur la liste d'aptitude ne s'impose pas à l'autorité investie du pouvoir de nomination qui peut faire
+appel au candidat de son choix sur la liste d'aptitude.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°59-979 1959-08-12 ART. 1 AL. 5
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
+
+	**Cité par**:
+
+	  - CODE DES COMMUNES. - art. R*412-112 (Ab)
+
+
+###### Article R412-12
+
+A l'exception des bénéficiaires de la législation sur les emplois réservés titulaires d'un emploi de début à ce titre, nul ne
+peut être titularisé dans un emploi permanent à temps complet s'il n'a effectué un stage d'un an dans l'emploi qu'il
+sollicite.
+
+Le stage ne peut être renouvelé que pour une seule année ; à son terme, une décision définitive est prise à l'égard de
+l'agent en cause.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - SPEC_APPLI: *Dispositions applicables aux agents nommés dans des emplois permanents à temps non complet*
+	  - SPEC_APPLI: Code des communes R421-7 :
+
+	**Anciens textes**:
+
+	  - Décret n°59-979 1959-08-12 ART. 1 AL. 1 REMPLACE
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
+
+
+###### Article R412-13
+
+La décision de l'autorité supérieure, prévue à l'article L. 412-17, est un arrêté du ministre de l'intérieur.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Code de l'administration communale 507 AL. 1 (partie) remplacé
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-373 1977-03-28 JORF et JONC 5 avril 1977
+
+	**Cite**:
+
+	  - CODE DES COMMUNES. - art. L412-17 (M)
+
+
+###### Article R412-14
+
+L'agrément, prévu au deuxième alinéa de l'article L. 412-18, des agents nommés par le maire est donné par le préfet ou le
+sous-préfet.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-373 1977-03-28 JORF et JONC 5 avril 1977
+
+	**Cite**:
+
+	  - CODE DES COMMUNES. - art. L412-18 (M)
+
+
+##### SOUS-SECTION 3 : Modalités de recrutement applicables à certains emplois.
+
+###### Article R412-15
+
+Les décisions de l'autorité supérieure, prévues à l'article L. 412-19, sont des arrêtés du ministre de l'intérieur.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Code de l'administration communale 504 AL. 1 et AL. 2 (partie)
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-373 1977-03-28 JORF et JONC 5 avril 1977
+
+	**Cite**:
+
+	  - CODE DES COMMUNES. - art. L412-19 (M)
+
+	**Cité par**:
+
+	  - CODE DES COMMUNES. - art. R412-26 (V)
+
+
+###### Article R412-16
+
+les candidats reçus à l'un des concours sur épreuves ou sur titres organisés en vertu des articles L. 412-29 et L. 412-30,
+afin de pourvoir un emploi défini en application du premier alinéa de l'article L. 412-19, sont inscrits, sur leur demande,
+sur une ou plusieurs listes d'aptitude départementales ou interdépartementales selon le cas.
+
+Ils adressent leur demande accompagnée d'un certificat du président du jury du concours au président de la ou des commissions
+départementales ou interdépartementales de leur choix prévues à l'article L. 412-21.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°73-292 1973-03-13 ART. 1 AL. 1
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
+
+	**Cite**:
+
+	  - CODE DES COMMUNES. - art. L412-21 (Ab)
+	  - Code des communes L412-19 AL. 1
+
+	**Cité par**:
+
+	  - CODE DES COMMUNES. - art. R412-17 (V)
+
+
+###### Article R412-17
+
+La candidature à un concours prévu à l'article précédent vaut, en cas de succès à ce concours, demande d'inscription en
+priorité  sur la liste d'aptitude de la circonscription pour laquelle ce concours est organisé.
+
+Si ce dernier est destiné à pourvoir des postes ressortissant à des circonscriptions différentes, le candidat précise sur
+quelle liste d'aptitude il désire être inscrit en priorité.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°73-292 1973-03-13 ART. 1 AL. 2
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
+
+	**Cite**:
+
+	  - CODE DES COMMUNES. - art. R412-16 (V)
+
+
+###### Article R412-18
+
+Au début de chaque année et au plus tard le 31 janvier chaque commission enregistre dans l'ordre alphabétique, sur la liste
+concernant l'emploi considéré, les candidats qui en font la demande et remplissent les conditions requises.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°73-292 1973-03-13 ART. 2
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
+
+
+###### Article R412-19
+
+La liste peut être complétée en cours d'année pour tenir compte des concours sur épreuves ou sur titres qui ont lieu lors des
+trois premiers trimestres ou des concours organisés au niveau local dans la circonscription considérée, pour le recrutement à
+un poste dont l'urgence a été signalée par le maire.
+
+Dans ces deux cas, les candidats font parvenir leur demande à la commission dans un délai de quinze jours à compter de la
+date de la proclamation des résultats du concours.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°73-292 1973-03-13 ART. 3
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
+
+
+###### Article R412-20
+
+La commission raye immédiatement de la liste d'aptitude :
+
+1° Tout candidat inscrit sur la liste qui a refusé plus de trois propositions de nomination ;
+
+2° Tout candidat qui a dépassé la limite d'âge pour le recrutement à l'emploi considéré.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°73-292 1973-03-13 ART. 4
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
+
+
+###### Article R412-21
+
+Chaque maire du département ou du groupe de départements du ressort de la commission, qui doit procéder à une nomination, lui
+demande communication de la liste d'aptitude.
+
+La commission lui fait parvenir, immédiatement, une ampliation de cette liste.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°73-292 1973-03-13 ART. 5 AL. 1
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
+
+
+###### Article R412-22
+
+Le maire fait connaître à la commission par lettre recommandée le nom de l'agent nommé par lui qui est alors rayé de la
+liste.
+
+L'agent nommé demande, sous couvert du maire, sa radiation des autres listes d'aptitude sur lesquelles il s'est fait
+inscrire.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°73-292 1973-03-13 ART. 5 AL. 2
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
+
+
+###### Article R412-23
+
+Les candidats inscrits sur une ou plusieurs listes, qui ne seraient pas nommés avant le 31 décembre, sont inscrits sur la ou
+les mêmes listes de l'année suivante après que la commission a reçu confirmation de leur candidature avant cette date.
+
+Cette réinscription ne peut être opérée que deux fois de suite.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°73-292 1973-03-13 ART. 6
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
+
+	**Cité par**:
+
+	  - Arrêté du 15 novembre 1978 - art. 10 (V)
+
+
+###### Article R412-24
+
+La liste d'aptitude est publiée au recueil des actes administratifs du ou des départements concernés ; notification de
+l'inscription est faite aux candidats intéressés.
+
+Cette notification fait courir le délai de recours devant le tribunal administratif contre la décision de la commission.
+
+Lorsque le tribunal administratif est saisi d'un recours, il statue dans les huit jours.
+
+Les maires et les présidents d'établissement sont tenus de porter à la connaissance de leur personnel la liste dans les huit
+jours de sa publication au recueil des actes administratifs du département.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Code de l'administration communale 504-1 AL. 2 (PARTIE)
+	  - Décret n°73-292 1973-03-13 ART. 8
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
+
+
+###### Article R412-25
+
+Le rôle dévolu au maire par les articles R. 412-19, R. 412-21 et R. 412-22 appartient, en ce qui concerne les établissements
+publics communaux et intercommunaux, au président de ces organismes.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°73-292 1973-03-13 ART. 9
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
+
+
+###### Article R412-26
+
+Les commissions prévues à l'article L. 412-23 sont départementales ou interdépartementales selon l'importance de l'emploi
+considéré.
+
+L'arrêté du ministre de l'intérieur prévu à l'article R. 412-15 pour l'application du premier alinéa de l'article L. 412-19,
+détermine, pour chaque emploi, si la liste est départementale ou interdépartementale.
+
+Sauf dérogation prévue par cet arrêté, la compétence des commissions interdépartementales s'exerce sur une région.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°73-292 1973-03-13 ART. 10
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
+
+	**Cite**:
+
+	  - CODE DES COMMUNES. - art. L412-19 (M)
+	  - CODE DES COMMUNES. - art. L412-23 (Ab)
+	  - CODE DES COMMUNES. - art. R412-15 (V)
+
+	**Cité par**:
+
+	  - CODE DES COMMUNES. - art. R412-27 (V)
+
+
+###### Article R412-27
+
+Les commissions départementales ou interdépartementales prévues à l'article précédent sont composées respectivement de trois
+ou quatre maires titulaires et trois ou quatre maires suppléants et de trois ou quatre représentants titulaires et trois ou
+quatre représentants suppléants des personnels.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°73-292 1973-03-13 ART. 11 AL. 1 REMPLACE
+
+	**Cité par**:
+
+	  - Arrêté du 9 janvier 1975 - art. 13 (V)
+	  - Arrêté du 15 novembre 1978 - art. 2 (V)
+	  - Arrêté du 21 juillet 1983 - art. 2 (V)
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
+
+	**Cite**:
+
+	  - CODE DES COMMUNES. - art. R412-26 (V)
+
+
+###### Article R412-28
+
+Les maires, titulaires et suppléants, sont élus par les maires membres titulaires et suppléants des commissions paritaires
+communales et intercommunales de la circonscription de la commission et parmi les maires des communes de cette
+circonscription.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°73-292 1973-03-13 ART. 11 I REMPLACE
+
+	**Cité par**:
+
+	  - Arrêté du 9 janvier 1975 - art. 13 (V)
+	  - Arrêté du 15 novembre 1978 - art. 2 (V)
+	  - Arrêté du 21 juillet 1983 - art. 2 (V)
+	  - CODE DES COMMUNES. - art. R412-31 (V)
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code des communes R412-31 REMPLACE
+
+
+###### Article R412-29
+
+Les représentants, titulaires et suppléants, des personnels sont élus par les délégués titulaires et suppléants des
+personnels de la catégorie intéressée, au sens des articles L. 411-32 et L. 411-39 des commissions paritaires communales,
+intercommunales ou des établissements publics communaux de la circonscription de la commission.
+
+Sont éligibles les agents titulaires des communes et établissements publics communaux de la circonscription de la commission
+occupant l'emploi auquel le concours donne accès et le ou les emplois d'avancement déterminés par arrêté du ministre de
+l'intérieur.
+
+**Nota:**
+
+Voir arrêté ministériel du 24 novembre 1966 fixant les modalités de désignation des membres des commissions paritaires
+communales et des commissions paritaires intercommunales du personnel des communes et des établissements publics communaux,
+modifié par arrêté du 17 mai 1975 (J.O. 1er décembre 1966 et 11 juin 1975).
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°73-292 1973-03-13 ART. 11-II REMPLACE
+
+	**Cité par**:
+
+	  - Arrêté du 9 janvier 1975 - art. 13 (V)
+	  - Arrêté du 15 novembre 1978 - art. 2 (V)
+	  - Arrêté du 21 juillet 1983 - art. 2 (V)
+	  - CODE DES COMMUNES. - art. R412-31 (V)
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
+
+
+###### Article R412-30
+
+L'élection des maires et des représentants des personnels, prévue aux deux articles précédents, a lieu au scrutin de liste à
+la représentation proportionnelle suivant le système du plus fort reste.
+
+Les listes électorales des maires et celles des agents intéressés sont établies, selon le cas, par le préfet ou par le préfet
+de région, avec la collaboration des préfets des départements de la commission.
+
+Un arrêté du ministre de l'intérieur fixe les modalités de l'élection.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°73-292 1973-03-13 ART. 12 et 14 REMPLACES
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
+
+	**Cite**:
+
+	  - Code des communes R412-28 et R412-29
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code des communes R412-31 REMPLACE
+
+
+###### Article R412-33
+
+Chaque commission élit son président parmi les maires.
+
+Le secrétariat administratif en est assuré, selon le cas, par la préfecture ou la préfecture de région.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°73-292 1973-03-13 ART. 15 REMPLACE PHR. 1 et 2
+
+	**Cité par**:
+
+	  - Arrêté du 9 janvier 1975 - art. 4 (V)
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
+
+
+###### Article R412-34
+
+Les frais résultant des élections ainsi que les frais de fonctionnement de la commission sont répartis entre les communes et
+les établissements publics intéressés selon les modalités fixées par un arrêté du ministre de l'intérieur.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°73-292 1973-03-13 ART. 15 REMPLACE PHR. 3
+
+	**Cité par**:
+
+	  - Arrêté du 9 janvier 1975 - art. 4 (V)
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
+
+
+##### SOUS-SECTION 4 : Bourse de l'emploi.
+
+###### Article R412-35
+
+Le fonctionnement de la bourse de l'emploi est assuré par les soins du centre de formation des personnels communaux.
+
+**Nota:**
+
+[*Cet article est abrogé à compter de la date d'installation du premie conseil d'administration du centre national de la
+fonction publique territoriale. *]
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°73-294 1973-03-14 ART. 1 REMPLACE
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°87-811 du 5 octobre 1987 - art. 52 (M)
+
+
+###### Article R412-36
+
+La décision de l'autorité supérieure, prévue au deuxième alinéa de l'article L. 412-27, est un arrêté du ministre de
+l'intérieur (1).
+
+(1) Arrêté du 19 décembre 1973 fixant la liste des emplois communaux dont la vacance est déclarée à la bourse de l'emploi
+prévu à l'article 507-1 du code de l'administration communale (J.O. 6 janvier 1974).
+
+**Nota:**
+
+Cet article est abrogé à compter de la date d'installation du premier conseil d'administration du centre national de la
+fonction publique territoriale.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - TXT_SOURCE: Arrêté du 19 décembre 1973 - art. 1 (V)
+	  - TXT_SOURCE: Arrêté du 19 décembre 1973 - art. 2 (V)
+	  - SPEC_APPLI: Décret n°87-811 du 5 octobre 1987 - art. 52 (M)
+
+	**Cite**:
+
+	  - CODE DES COMMUNES. - art. L412-27 (Ab)
+
+	**Cité par**:
+
+	  - CODE DES COMMUNES. - art. R412-37 (Ab)
+	  - CODE DES COMMUNES. - art. R412-39 (Ab)
+
+	**Anciens textes**:
+
+	  - Code de l'administration communale 507-1 (partie)
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-373 1977-03-28 JORF et JONC 5 avril 1977
+
+
+###### Article R412-37
+
+Lorsqu'une vacance survient ou est susceptible de survenir dans un des emplois mentionnés sur la liste [*des emplois
+communaux qui ont été déterminés par l'autorité supérieure*] prévue à l'article précédent, l'autorité investie du pouvoir de
+nomination en fait la déclaration à la bourse de l'emploi.
+
+**Nota:**
+
+[*Cet article est abrogé à compter de la date d'installation du premie conseil d'administration du centre national de la
+fonction publique territoriale. *]
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°73-294 1973-03-14 ART. 2
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°87-811 du 5 octobre 1987 - art. 52 (M)
+
+	**Cite**:
+
+	  - CODE DES COMMUNES. - art. R412-36 (Ab)
+
+	**Cité par**:
+
+	  - CODE DES COMMUNES. - art. R412-38 (Ab)
+
+
+###### Article R412-38
+
+La déclaration [*faite à la bourse de l'emploi, par l'autorité investie du pouvoir de nomination lorsque survient une vacance
+dans un emploi déterminé par l'autorité supérieure*] mentionnée à l'article précédent est envoyée immédiatement [**]délai[**]
+si la vacance est inopinée, par suite de décès ou de démission notamment.
+
+Si la vacance résulte d'un événement prévisible tel que la mise à la retraite ou une création d'emploi, la déclaration est
+faite dès que sa date est certaine.
+
+Si la vacance concerne un emploi d'avancement, la déclaration n'est faite que si le poste n'a pas été pourvu par avancement
+de grade d'un agent de la commune ou de l'établissement.
+
+Si la vacance concerne un emploi qui est pourvu selon la procédure prévue par la législation sur les emplois réservés aux
+victimes de guerre et aux handicapés physiques, la déclaration n'est adressée que si le poste n'a pu être pourvu après
+application de cette procédure.
+
+**Nota:**
+
+[*Cet article est abrogé à compter de la date d'installation du premie conseil d'administration du centre national de la
+fonction publique territoriale. *]
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°73-294 1973-03-14 ART. 3
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°87-811 du 5 octobre 1987 - art. 52 (M)
+
+	**Cite**:
+
+	  - CODE DES COMMUNES. - art. R412-37 (Ab)
+
+
+###### Article R412-39
+
+Tout agent qui recherche un emploi inscrit sur la liste [*fixée par l'autorité supérieure*] prévue à l'article R. 412-36,
+dans une autre commune ou dans un autre établissement public communal ou intercommunal obtient, sur demande écrite, un
+extrait du répertoire des déclarations de vacances pour l'emploi considéré [**]conditions de forme[**].
+
+Cet extrait lui est délivré sans frais par la bourse de l'emploi.
+
+**Nota:**
+
+[*Cet article est abrogé à compter de la date d'installation du premie conseil d'administration du centre national de la
+fonction publique territoriale. *]
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°73-294 1973-03-14 ART. 4
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°87-811 du 5 octobre 1987 - art. 52 (M)
+
+	**Cite**:
+
+	  - CODE DES COMMUNES. - art. R412-36 (Ab)
+
+	**Cité par**:
+
+	  - CODE DES COMMUNES. - art. R412-41 (Ab)
+
+
+###### Article R412-40
+
+Lorsqu'un emploi qui a fait l'objet d'une déclaration de vacance est pourvu, l'autorité investie du pouvoir de nomination en
+informe immédiatement [**]délai[**] la bourse de l'emploi.
+
+**Nota:**
+
+[*Cet article est abrogé à compter de la date d'installation du premie conseil d'administration du centre national de la
+fonction publique territoriale. *]
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°73-294 1973-03-14 ART. 5
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°87-811 du 5 octobre 1987 - art. 52 (M)
+
+
+###### Article R412-41
+
+Tout agent [*cherchant un emploi figurant dans la liste d'emplois fixée par l'autorité supérieure, dans une autre commune, ou
+dans un autre établissement public communal ou intercommunal*] qui a formulé une demande [*en vue d'obtenir un extrait du
+répertoire des déclarations de vacances pour un emploi considéré*] conformément à l'article R. 412-39 informe immédiatement
+[**]délai[**] la bourse de l'emploi de sa nomination dans l'emploi qu'il recherchait ou éventuellement de sa renonciation.
+
+**Nota:**
+
+[*Cet article est abrogé à compter de la date d'installation du premie conseil d'administration du centre national de la
+fonction publique territoriale. *]
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°73-294 1973-03-14 ART. 6
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°87-811 du 5 octobre 1987 - art. 52 (M)
+
+	**Cite**:
+
+	  - CODE DES COMMUNES. - art. R412-39 (Ab)
+
+
+###### Article R412-42
+
+Toute déclaration de vacance d'emploi, si cet emploi n'a pas été pourvu, ou toute demande d'emploi, si celle-ci n'a pas été
+satisfaite, est renouvelée à l'expiration d'un délai de quatre mois.
+
+**Nota:**
+
+[*Cet article est abrogé à compter de la date d'installation du premie conseil d'administration du centre national de la
+fonction publique territoriale. *]
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°73-294 1973-03-14 ART. 8
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°87-811 du 5 octobre 1987 - art. 52 (M)
+
+
+###### Article R412-43
+
+Les formulaires à utiliser pour l'application des dispositions de la présente sous-section sont établis par la bourse de
+l'emploi, qui les met gratuitement à la disposition des intéressés.
+
+**Nota:**
+
+[*Cet article est abrogé à compter de la date d'installation du premie conseil d'administration du centre national de la
+fonction publique territoriale. *]
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°73-294 1973-03-14 ART. 7
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°87-811 du 5 octobre 1987 - art. 52 (M)
+
+
+##### SECTION 2 : Centre de formation des personnels communaux
+
+##### SOUS-SECTION 1 : Rôle.
+
+###### Article R412-44
+
+Le siège du centre de formation des personnels communaux est fixé par arrêté du ministre de l'intérieur après consultation du
+conseil d'administration.
+
+(1) Arrêté ministériel du 17 août 1973 portant fixation du siège du centre de formation des personnels communaux (J.O. 4
+septembre 1973).
+
+**Nota:**
+
+Cet article est abrogé à compter de la date d'installation du premier conseil d'administration du centre national de la
+fonction publique territoriale.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°73-290 1973-03-09 ART. 1
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
+
+	**Abrogé par**:
+
+	  - décret 85-915 1985-08-27 art. 16 jorf 30 août 1985
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°87-811 du 5 octobre 1987 - art. 52 (M)
+
+
+###### Article R412-45
+
+Afin de permettre l'organisation [*par le centre de formation des personnels communaux*] des concours sur épreuves et sur
+titres [* qui peuvent être organisés, à la demande d'un maire ou du président d'un établissement public communal ou
+intercommunal, au niveau de la commune ou de l'établissement public*] prévus aux articles L. 412-29 et L. 412-30 les maires
+ou les présidents des établissements publics communaux et intercommunaux informent le délégué du centre de formation des
+personnels communaux des vacances d'emploi existantes ou à pourvoir en cours d'année.
+
+Ils lui précisent en même temps celui de ces articles en application duquel le concours doit être organisé.
+
+La déclaration est faite par le président du syndicat de communes pour le personnel communal pour toutes les collectivités
+qui y sont affiliées.
+
+**Nota:**
+
+[*Cet article est abrogé à compter de la date d'installation du premie conseil d'administration du centre national de la
+fonction publique territoriale. *]
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°73-291 1973-03-13 ART. 1 AL. 1
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
+
+	**Abrogé par**:
+
+	  - décret 85-915 1985-08-27 art. 16 jorf 30 août 1985
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°87-811 du 5 octobre 1987 - art. 52 (M)
+
+	**Cité par**:
+
+	  - CODE DES COMMUNES. - art. R412-46 (Ab)
+	  - CODE DES COMMUNES. - art. R412-47 (Ab)
+
+	**Cite**:
+
+	  - Code des communes L412-29 et L412-30
+
+
+###### Article R412-46
+
+Si une vacance concerne un emploi qui est pourvu selon la procédure prévue par la législation sur les emplois réservés aux
+victimes de guerre et aux handicapés physiques, la déclaration prévue à l'article précédent n'est adressée que si le poste
+n'a pu être pourvu après application de cette procédure.
+
+**Nota:**
+
+[*Cet article est abrogé à compter de la date d'installation du premie conseil d'administration du centre national de la
+fonction publique territoriale. *]
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°73-291 1973-03-13 ART. 1 AL. 2
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
+
+	**Abrogé par**:
+
+	  - décret 85-915 1985-08-27 art. 16 jorf 30 août 1985
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°87-811 du 5 octobre 1987 - art. 52 (M)
+
+	**Cite**:
+
+	  - CODE DES COMMUNES. - art. R412-45 (Ab)
+
+
+###### Article R412-47
+
+La déclaration [*de vacance d'emploi faite par les maires, présidents d'établissements publics, présidents de syndicats de
+communes*] prévue à l'article R. 412-45 est faite aux dates fixées par le centre de formation des personnels communaux.
+
+Toutefois, elle est faite immédiatement [**]délai[**] lorsque la collectivité intéressée décide d'organiser son propre
+concours ou de demander l'organisation d'un concours sur le plan local en application des articles L. 412-30 et L. 412-31.
+
+**Nota:**
+
+[*Cet article est abrogé à compter de la date d'installation du premie conseil d'administration du centre national de la
+fonction publique territoriale. *]
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°73-291 1973-03-13 ART. 2
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
+
+	**Abrogé par**:
+
+	  - décret 85-915 1985-08-27 art. 16 jorf 30 août 1985
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°87-811 du 5 octobre 1987 - art. 52 (M)
+
+	**Cite**:
+
+	  - CODE DES COMMUNES. - art. R412-45 (Ab)
+	  - Code des communes L412-30 et L412-31
+
+
+###### Article R412-48
+
+Lorsque le centre de formation organise un concours en application de l'article L. 412-29, il ne doit ouvrir ce concours que
+pour un nombre de postes résultant de la différence, majorée de 20 p. 100 [*pourcentage*], entre le nombre des vacances
+signalées et celui des candidats qui demeurent inscrits sur les listes d'aptitude des circonscriptions intéressées.
+
+Ces derniers renseignements lui sont fournis, sur sa demande, par le président de la commission [*départementale ou
+interdépartementale chargée d'arrêter les listes d'aptitude*] compétente prévue à l'article L. 412-23.
+
+**Nota:**
+
+[*Cet article est abrogé à compter de la date d'installation du premie conseil d'administration du centre national de la
+fonction publique territoriale. *]
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°73-291 1973-03-13 ART. 3
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
+
+	**Abrogé par**:
+
+	  - décret 85-915 1985-08-27 art. 16 jorf 30 août 1985
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°87-811 du 5 octobre 1987 - art. 52 (M)
+
+	**Cite**:
+
+	  - CODE DES COMMUNES. - art. L412-23 (Ab)
+	  - CODE DES COMMUNES. - art. L412-29 (Ab)
+
+
+###### Article R412-49
+
+L'autorité, qui organise les concours [*d'accès aux emplois communaux*], leur assure la plus large publicité en demandant
+notamment, aux préfets des départements intéressés, l'insertion des avis de concours au recueil des actes administratifs de
+leur département, deux mois au moins et trois mois au plus avant la date limite du dépôt des candidatures.
+
+Un délai d'un mois doit séparer cette date de celle à laquelle a lieu le concours.
+
+Pour certains emplois déterminés par arrêté du ministre de l'intérieur, une publicité est également opérée par insertion au
+Journal officiel.
+
+En outre, les maires et les présidents des établissements publics sont tenus de porter les avis de concours à la connaissance
+de leur personnel dans les huit jours qui suivent la publication au recueil des actes administratifs du département.
+
+**Nota:**
+
+[*Cet article est abrogé à compter de la date d'installation du premie conseil d'administration du centre national de la
+fonction publique territoriale. *]
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°73-291 1973-03-13 ART. 4
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
+
+	**Abrogé par**:
+
+	  - décret 85-915 1985-08-27 art. 16 jorf 30 août 1985
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°87-811 du 5 octobre 1987 - art. 52 (M)
+
+
+###### Article R412-50
+
+Les jurys [*concours d'accès aux emplois communaux*] comportent au moins six membres [*nombre*].
+
+**Nota:**
+
+[*Cet article est abrogé à compter de la date d'installation du premie conseil d'administration du centre national de la
+fonction publique territoriale. *]
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°73-291 1973-03-13 ART. 5
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
+
+	**Abrogé par**:
+
+	  - Décret n°85-915 1985-08-27 art. 16 jorf 30 août 1985
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°87-811 du 5 octobre 1987 - art. 52 (M)
+
+
+###### Article R412-51
+
+Le nombre des candidats admis au concours [*d'accès aux emplois communaux*], en application des articles L. 412-30 et L.
+412-31, ne peut dépasser de plus de 20 p. 100 [*pourcentage*] celui des emplois vacants.
+
+**Nota:**
+
+[*Cet article est abrogé à compter de la date d'installation du premie conseil d'administration du centre national de la
+fonction publique territoriale. *]
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°73-291 1973-03-13 ART. 6
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
+
+	**Abrogé par**:
+
+	  - Décret n°85-915 1985-08-27 art. 16 jorf 30 août 1985
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°87-811 du 5 octobre 1987 - art. 52 (M)
+
+	**Cite**:
+
+	  - Code des communes L412-30 et L412-31
+
+
+###### Article R412-52
+
+Les frais d'organisation des concours [*d'accès aux emplois communaux*] ouverts en vertu des articles L. 412-29 et L. 412-30
+sont pris en charge par le centre de formation des personnels communaux.
+
+Ceux des concours organisés en application de l'article L. 412-31 sont pris en charge par les collectivités intéressées.
+
+**Nota:**
+
+[*Cet article est abrogé à compter de la date d'installation du premie conseil d'administration du centre national de la
+fonction publique territoriale. *]
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°73-291 1973-03-13 ART. 7
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
+
+	**Abrogé par**:
+
+	  - Décret n°85-915 1985-08-27 art. 16 jorf 30 août 1985
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°87-811 du 5 octobre 1987 - art. 52 (M)
+
+	**Cite**:
+
+	  - Code des communes L412-29 A L412-31
+
+
+###### Article R412-53
+
+Pour l'application de l'article L. 412-31, les listes des membres des jurys, établies par le tribunal administratif, doivent
+être adaptées à la nature des emplois à pourvoir.
+
+Elles sont fournies au maire ou au président de l'établissement public et au délégué du centre sur leur demande.
+
+**Nota:**
+
+[*Cet article est abrogé à compter de la date d'installation du premie conseil d'administration du centre national de la
+fonction publique territoriale. *]
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°73-291 1973-03-13 ART. 8
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Abrogé par**:
+
+	  - Décret n°85-915 1985-08-27 art. 16 jorf 30 août 1985
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°87-811 du 5 octobre 1987 - art. 52 (M)
+
+	**Cite**:
+
+	  - CODE DES COMMUNES. - art. L412-31 (Ab)
+
+
+###### Article R412-54
+
+Le ou les représentants du personnel au sein du jury prévu à l'article L. 412-31 sont désignés par le président du jury parmi
+les représentants de la catégorie de personnel intéressée à la commission paritaire communale ou intercommunale ou, à défaut,
+parmi les représentants d'une catégorie équivalente ou supérieure.
+
+**Nota:**
+
+[*Cet article est abrogé à compter de la date d'installation du premie conseil d'administration du centre national de la
+fonction publique territoriale. *]
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°73-291 1973-03-13 ART. 9
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Abrogé par**:
+
+	  - Décret n°85-915 1985-08-27 art. 16 jorf 30 août 1985
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°87-811 du 5 octobre 1987 - art. 52 (M)
+
+	**Cite**:
+
+	  - CODE DES COMMUNES. - art. L412-31 (Ab)
+
+
+##### SOUS-SECTION 2 : Le Conseil d'Administration.
+
+###### Article R412-55
+
+Les représentants élus membres du conseil d'administration du centre de formation des personnels communaux sont au nombre de
+dix pour les communes et les établissements publics intéressés et de dix pour les personnels intéressés.
+
+Le conseil d'administration comprend en outre : [*composition*]        Deux représentants du ministre de l'intérieur ;
+
+Un représentant du ministre chargé de l'éducation.
+
+Il s'adjoint deux autres membres choisis en raison de leur expérience en matière d'administration locale.
+
+**Nota:**
+
+[*Cet article est abrogé à compter de la date d'installation du premie conseil d'administration du centre national de la
+fonction publique territoriale. *]
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Code de l'administration communale 508-6 AL. 1 (PARTIE) et 2
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
+
+	**Abrogé par**:
+
+	  - Décret n°85-915 1985-08-27 art. 16 jorf 30 août 1985
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°87-811 du 5 octobre 1987 - art. 52 (M)
+
+	**Cité par**:
+
+	  - CODE DES COMMUNES. - art. R412-66 (Ab)
+
+
+###### Article R412-56
+
+L'élection des représentants des communes et des établissements publics communaux et intercommunaux ne présentant pas un
+caractère industriel ou commercial, ainsi que celle des représentants des personnels, au conseil d'administration a lieu au
+scrutin de liste à la représentation proportionnelle suivant le système du plus fort reste.
+
+**Nota:**
+
+[*Cet article est abrogé à compter de la date d'installation du premie conseil d'administration du centre national de la
+fonction publique territoriale. *]
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°73-290 1973-03-09 ART. 2 AL. 1
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
+
+	**Abrogé par**:
+
+	  - Décret n°85-915 1985-08-27 art. 16 jorf 30 août 1985
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°87-811 du 5 octobre 1987 - art. 52 (M)
+
+
+###### Article R412-57
+
+Les maires des communes et les présidents d'établissements publics qui emploient du personnel administratif à temps complet
+sont répartis en deux collèges élisant chacun cinq maires au conseil d'administration.
+
+Le premier collège comprend les maires des communes dont la population totale est inférieure à 5.000 habitants [*nombre*] et
+les présidents des établissements publics qui occupent moins de dix agents titulaires.
+
+Le deuxième collège comprend les maires des autres communes et les présidents des autres établissements publics communaux et
+intercommunaux n'ayant pas un caractère industriel ou commercial.
+
+**Nota:**
+
+[*Cet article est abrogé à compter de la date d'installation du premie conseil d'administration du centre national de la
+fonction publique territoriale. *]
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°73-290 1973-03-09 ART. 2 AL. 2 à 4
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
+
+	**Abrogé par**:
+
+	  - Décret n°85-915 1985-08-27 art. 16 jorf 30 août 1985
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°87-811 du 5 octobre 1987 - art. 52 (M)
+
+
+###### Article R412-58
+
+Les représentants des personnels sont élus par les représentants titulaires des personnels aux commissions paritaires
+communales, intercommunales ou d'établissement.
+
+**Nota:**
+
+[*Cet article est abrogé à compter de la date d'installation du premie conseil d'administration du centre national de la
+fonction publique territoriale. *]
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°73-290 1973-03-09 ART. 2 AL. 5
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
+
+	**Abrogé par**:
+
+	  - Décret n°85-915 1985-08-27 art. 16 jorf 30 août 1985
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°87-811 du 5 octobre 1987 - art. 52 (M)
+
+
+###### Article R412-59
+
+Les modalités d'application des articles précédents sont fixées par arrêté du ministre de l'intérieur (1).
+
+(1) Arrêté ministériel du 9 mars 1973 relatif aux modalités de désignation des membres élus du conseil d'administration du
+centre de formation des personnels communaux (J.O. 17 mars 1973).
+
+**Nota:**
+
+Cet article est abrogé à compter de la date d'installation du premier conseil d'administration du centre national de la
+fonction publique territoriale.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°73-290 1973-03-09 ART. 2 AL. 6
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
+
+	**Abrogé par**:
+
+	  - Décret n°85-915 1985-08-27 art. 16 jorf 30 août 1985
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°87-811 du 5 octobre 1987 - art. 52 (M)
+
+	**Cite**:
+
+	  - Code des communes R412-55 à R412-58
+
+
+###### Article R412-60
+
+Les frais relatifs aux élections au conseil d'administration sont à la charge du centre de formation des personnels
+communaux.
+
+**Nota:**
+
+[*Cet article est abrogé à compter de la date d'installation du premie conseil d'administration du centre national de la
+fonction publique territoriale. *]
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°73-290 1973-03-09 ART. 3
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
+
+	**Abrogé par**:
+
+	  - Décret n°85-915 1985-08-27 art. 16 jorf 30 août 1985
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°87-811 du 5 octobre 1987 - art. 52 (M)
+
+
+###### Article R412-61
+
+A l'issue de chaque renouvellement et sous la présidence de leur doyen d'âge, les membres composant le conseil
+d'administration élisent à la majorité relative et au scrutin secret les deux membres choisis en raison de leur expérience en
+matière d'administration locale.
+
+**Nota:**
+
+[*Cet article est abrogé à compter de la date d'installation du premie conseil d'administration du centre national de la
+fonction publique territoriale. *]
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°73-290 1973-03-09 ART. 4
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
+
+	**Abrogé par**:
+
+	  - Décret n°85-915 1985-08-27 art. 16 jorf 30 août 1985
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°87-811 du 5 octobre 1987 - art. 52 (M)
+
+
+###### Article R412-62
+
+La durée du mandat des membres du conseil d'administration élus ou choisis par le conseil est de six ans.
+
+Ce mandat est continué jusqu'à la désignation des membres du nouveau conseil.
+
+Le conseil d'administration est renouvelé dans les six mois [*délai*] qui suivent le renouvellement général des conseils
+municipaux.
+
+Le mandat des membres sortants peut être renouvelé.
+
+**Nota:**
+
+[*Cet article est abrogé à compter de la date d'installation du premie conseil d'administration du centre national de la
+fonction publique territoriale. *]
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°73-290 1973-03-09 ART. 5 AL. 1 et 2
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
+
+	**Abrogé par**:
+
+	  - Décret n°85-915 1985-08-27 art. 16 jorf 30 août 1985
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°87-811 du 5 octobre 1987 - art. 52 (M)
+
+
+###### Article R412-63
+
+Cessent de plein droit de faire partie du conseil d'administration les membres qui n'exercent plus les fonctions ou qui ont
+perdu les mandats qui avaient motivé leur élection.
+
+**Nota:**
+
+[*Cet article est abrogé à compter de la date d'installation du premie conseil d'administration du centre national de la
+fonction publique territoriale. *]
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°73-290 1973-03-09 ART. 5 AL. 3
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
+
+	**Abrogé par**:
+
+	  - Décret n°85-915 1985-08-27 art. 16 jorf 30 août 1985
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°87-811 du 5 octobre 1987 - art. 52 (M)
+
+
+###### Article R412-65
+
+Les membres élus qui, sans excuse valable, n'auraient pas personnellement assisté à trois réunions consécutives peuvent être
+déclarés démissionnaires d'office par une décision du conseil d'administration [*sanctions*].
+
+En cas de vacance par décès, démission ou pour toute autre cause, les membres élus sont remplacés par les membres suppléants
+pour la durée du mandat restant à accomplir.
+
+**Nota:**
+
+[*Cet article est abrogé à compter de la date d'installation du premie conseil d'administration du centre national de la
+fonction publique territoriale. *]
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°73-290 1973-03-09 ART. 5 AL. 5 et 6
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
+
+	**Abrogé par**:
+
+	  - Décret n°85-915 1985-08-27 art. 16 jorf 30 août 1985
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°87-811 du 5 octobre 1987 - art. 52 (M)
+
+
+###### Article R412-66
+
+Les membres du conseil d'administration désignés par un ministre en vertu de l'article R. 412-55 peuvent se faire
+représenter.
+
+**Nota:**
+
+[*Cet article est abrogé à compter de la date d'installation du premie conseil d'administration du centre national de la
+fonction publique territoriale. *]
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°73-290 1973-03-09 ART. 5 AL. 7
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-373 1977-03-28 JORF et JONC 5 avril 1977
+
+	**Abrogé par**:
+
+	  - Décret n°85-915 1985-08-27 art. 16 jorf 30 août 1985
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°87-811 du 5 octobre 1987 - art. 52 (M)
+
+	**Cite**:
+
+	  - CODE DES COMMUNES. - art. R412-55 (Ab)
+
+
+###### Article R412-67
+
+Le conseil d'administration se réunit au moins deux fois par an, sur convocation du président [**]fréquence[**].
+
+Il est, en outre, convoqué toutes les fois qu'il est nécessaire par son président, soit sur l'initiative de ce dernier, soit
+sur la demande de l'un des ministres représentés au conseil, soit sur la proposition du quart au moins [**]proportion[**] de
+ses membres.
+
+Dans ces deux derniers cas, la convocation est faite dans le mois de la demande [*délai*].
+
+**Nota:**
+
+[*Cet article est abrogé à compter de la date d'installation du premie conseil d'administration du centre national de la
+fonction publique territoriale. *]
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°73-290 1973-03-09 ART. 6
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Abrogé par**:
+
+	  - Décret n°85-915 1985-08-27 art. 16 jorf 30 août 1985
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°87-811 du 5 octobre 1987 - art. 52 (M)
+
+
+###### Article R412-68
+
+Le conseil d'administration ne peut délibérer que si la moitié au moins des membres en exercice assiste à la séance.
+
+Dans le cas où le quorum n'est pas obtenu, il est procédé dans un délai de quinze jours à une nouvelle convocation par lettre
+recommandée avec demande d'avis de réception [*conditions de forme*].
+
+Le conseil d'administration peut alors délibérer quel que soit le nombre des membres présents.
+
+**Nota:**
+
+[*Cet article est abrogé à compter de la date d'installation du premie conseil d'administration du centre national de la
+fonction publique territoriale. *]
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°73-290 1973-03-09 ART. 7 AL. 1 et 2
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-373 1977-03-28 JORF et JONC 5 avril 1977
+
+	**Abrogé par**:
+
+	  - Décret n°85-915 1985-08-27 art. 16 jorf 30 août 1985
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°87-811 du 5 octobre 1987 - art. 52 (M)
+
+
+###### Article R412-69
+
+Les décisions du conseil d'administration sont prises à la majorité des membres présents.
+
+En cas de partage, la voix du président de séance est prépondérante.
+
+**Nota:**
+
+[*Cet article est abrogé à compter de la date d'installation du premie conseil d'administration du centre national de la
+fonction publique territoriale. *]
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°73-290 1973-03-09 ART. 7 AL. 3 et 4
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-373 1977-03-28 JORF et JONC 5 avril 1977
+
+	**Abrogé par**:
+
+	  - Décret n°85-915 1985-08-27 art. 16 jorf 30 août 1985
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°87-811 du 5 octobre 1987 - art. 52 (M)
+
+
+###### Article R412-70
+
+Le secrétariat de séance est assuré par un agent du centre de formation des personnels communaux.
+
+Il est dressé procès-verbal de chaque séance du conseil d'administration.
+
+**Nota:**
+
+[*Cet article est abrogé à compter de la date d'installation du premie conseil d'administration du centre national de la
+fonction publique territoriale. *]
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°73-290 1973-03-09 ART. 7 AL. 5 et 6
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-373 1977-03-28 JORF et JONC 5 avril 1977
+
+	**Abrogé par**:
+
+	  - Décret n°85-915 1985-08-27 art. 16 jorf 30 août 1985
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°87-811 du 5 octobre 1987 - art. 52 (M)
+
+
+###### Article R412-71
+
+Le conseil d'administration [**]attributions[**] délibère sur toutes les questions d'ordre général concernant l'organisation
+intérieure et l'administration du centre de formation des personnels communaux, notamment sur :
+
+1° Le règlement intérieur ;
+
+2° Les principes de la mise en oeuvre des missions du centre, telles qu'elles sont fixées par la loi ;
+
+3° L'adoption du budget ;
+
+4° La fixation du pourcentage à appliquer à la masse salariale pour déterminer la cotisation des communes et des
+établissements publics communaux et intercommunaux ;
+
+5° Les conditions des emprunts ;
+
+6° L'achat et la vente, ou l'échange, de tous biens mobiliers ou immobiliers ;
+
+7° L'acceptation des dons et legs ;
+
+8° La gestion du patrimoine ;
+
+9° L'exercice de toute action en justice, tant en demande qu'en défense ;
+
+10° Les effectifs et les échelles de rémunération des agents du centre, dans les conditions et selon les règles prévues par
+le présent code ;
+
+11° L'approbation des comptes administratifs et de gestion.
+
+**Nota:**
+
+[*Cet article est abrogé à compter de la date d'installation du premie conseil d'administration du centre national de la
+fonction publique territoriale. *]
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°73-290 1973-03-09 ART. 8 MODIFIE
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-373 1977-03-28 JORF et JONC 5 avril 1977
+
+	**Abrogé par**:
+
+	  - Décret n°85-915 1985-08-27 art. 16 jorf 30 août 1985
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°87-811 du 5 octobre 1987 - art. 52 (M)
+
+
+###### Article R412-72
+
+Le président du conseil d'administration [**]attributions[**] assume la direction générale du centre de formation des
+personnels communaux.
+
+Il représente le centre en justice et dans tous les actes de la vie civile.
+
+Il peut déléguer certains de ses pouvoirs au directeur du centre.
+
+**Nota:**
+
+[*Cet article est abrogé à compter de la date d'installation du premie conseil d'administration du centre national de la
+fonction publique territoriale. *]
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°73-290 1973-03-09 ART. 9 AL. 1 à 3
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-373 1977-03-28 JORF et JONC 5 avril 1977
+
+	**Abrogé par**:
+
+	  - Décret n°85-915 1985-08-27 art. 16 jorf 30 août 1985
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°87-811 du 5 octobre 1987 - art. 52 (M)
+
+
+###### Article R412-73
+
+Le président du conseil d'administration est ordonnateur des recettes et des dépenses et passe les marchés [*attributions*].
+
+Il peut confier une partie de ses pouvoirs au directeur du centre, aux délégués interdépartementaux et aux délégués des
+départements d'outre-mer, qui agissent alors en son nom et par délégation.
+
+**Nota:**
+
+[*Cet article est abrogé à compter de la date d'installation du premie conseil d'administration du centre national de la
+fonction publique territoriale. *]
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°73-290 1973-03-09 ART. 9 COMPLETE AL. 4
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-373 1977-03-28 JORF et JONC 5 avril 1977
+
+	**Abrogé par**:
+
+	  - Décret n°85-915 1985-08-27 art. 16 jorf 30 août 1985
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°87-811 du 5 octobre 1987 - art. 52 (M)
+
+
+##### SOUS-SECTION 3 : Le budget.
+
+###### Article R*412-74
+
+L'approbation, prévue au deuxième alinéa de l'article L. 412-38, de la délibération du conseil d'administration du centre de
+formation des personnels communaux est donnée par le ministre de l'intérieur.
+
+**Nota:**
+
+[*Cet article est abrogé à compter de la date d'installation du premie conseil d'administration du centre national de la
+fonction publique territoriale. *]
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Code de l'administration communale 508-7 AL. 1 (partie)
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-373 1977-03-28 JORF et JONC 5 avril 1977
+
+	**Abrogé par**:
+
+	  - Décret n°85-915 1985-08-27 art. 16 jorf 30 août 1985
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°87-811 du 5 octobre 1987 - art. 52 (M)
+
+	**Cite**:
+
+	  - CODE DES COMMUNES. - art. L412-38 (M)
+
+
+###### Article R412-75
+
+Le président du conseil d'administration soumet le budget du centre de formation des personnels communaux au vote du conseil
+d'administration au cours du mois de septembre de l'année qui précède celle à laquelle le budget s'applique [*date*].
+
+**Nota:**
+
+[*Cet article est abrogé à compter de la date d'installation du premie conseil d'administration du centre national de la
+fonction publique territoriale. *]
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°73-290 1973-03-09 ART. 12 AL. 1
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-373 1977-03-28 JORF et JONC 5 avril 1977
+
+	**Abrogé par**:
+
+	  - Décret n°85-915 1985-08-27 art. 16 jorf 30 août 1985
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°87-811 du 5 octobre 1987 - art. 52 (M)
+
+
+###### Article R412-76
+
+L'approbation, prévue à l'article L. 412-39, du budget du centre est donnée par le ministre de l'intérieur auquel le
+président de son conseil d'administration transmet le budget dans un délai de quinze jours à compter de la date de son
+adoption par ce conseil.
+
+**Nota:**
+
+[*Cet article est abrogé à compter de la date d'installation du premie conseil d'administration du centre national de la
+fonction publique territoriale. *]
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Code de l'administration communale 508-8 (partie)
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-373 1977-03-28 JORF et JONC 5 avril 1977
+
+	**Abrogé par**:
+
+	  - Décret n°85-915 1985-08-27 art. 16 jorf 30 août 1985
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°87-811 du 5 octobre 1987 - art. 52 (M)
+
+	**Cite**:
+
+	  - CODE DES COMMUNES. - art. L412-39 (Ab)
+
+
+###### Article R412-77
+
+Le budget du centre de formation des personnels communaux est exécutoire de plein droit lorsque aucune décision n'est
+intervenue à son égard dans un délai de deux mois à compter de la date de sa réception par le ministre de l'intérieur.
+
+le ministre de l'intérieur notifie sa décision au président du conseil d'administration.
+
+**Nota:**
+
+[*Cet article est abrogé à compter de la date d'installation du premie conseil d'administration du centre national de la
+fonction publique territoriale. *]
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°73-290 1973-03-09 ART. 12 AL. 3 et 4 PHR. 1
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-373 1977-03-28 JORF et JONC 5 avril 1977
+
+	**Abrogé par**:
+
+	  - Décret n°85-915 1985-08-27 art. 16 jorf 30 août 1985
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°87-811 du 5 octobre 1987 - art. 52 (M)
+
+
+###### Article R412-78
+
+Le refus d'approbation [*du budget*] du ministre de l'intérieur est dûment motivé et accompagné de propositions de
+redressement que le président du conseil d'administration soumet, dans un délai de vingt jours, à ce conseil.
+
+Si le conseil d'administration vote les mesures de redressement proposées, le budget est exécutoire de plein droit à
+l'expiration d'un délai de quinze jours à compter de la date de réception de la délibération par le ministre de l'intérieur.
+
+Si le conseil n'adopte pas les mesures de redressement proposées et ne vote pas au cours de sa seconde délibération un budget
+en équilibre réel, le ministre de l'intérieur [*pouvoirs de substitutions*] règle le budget et fixe le pourcentage [*des
+cotisations*] prévu à l'article L. 412-38.
+
+**Nota:**
+
+[*Cet article est abrogé à compter de la date d'installation du premie conseil d'administration du centre national de la
+fonction publique territoriale. *]
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°73-290 1973-03-09 ART. 12 AL. 4 PHR. 2, AL. 5 et 6 MODIFIE
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-373 1977-03-28 JORF et JONC 5 avril 1977
+
+	**Abrogé par**:
+
+	  - Décret n°85-915 1985-08-27 art. 16 jorf 30 août 1985
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°87-811 du 5 octobre 1987 - art. 52 (M)
+	  - TXT_ASSOCIE: CODE DES COMMUNES. - art. R412-79 (Ab)
+
+	**Cite**:
+
+	  - CODE DES COMMUNES. - art. L412-38 (M)
+
+
+###### Article R412-79
+
+La cotisation obligatoire prévue à l'article L. 412-37 est calculée [*périodicité*] chaque année sur la masse des
+rémunérations du personnel permanent telles qu'elles apparaissent à la ligne 610 des comptes administratifs de l'avant-
+dernier exercice.
+
+Le recouvrement de cette cotisation est opéré par le centre de formation des personnels communaux auprès des communes non
+affiliées aux syndicats de communes pour le personnel communal et, pour les autres communes, auprès de ces syndicats.
+
+Le syndicat poursuit auprès des communes affiliées le recouvrement des sommes qu'il a versées.
+
+Les titres de recouvrement sont rendus exécutoires par le président du conseil d'administration du centre de formation des
+personnels communaux.
+
+**Nota:**
+
+[*Cet article est abrogé à compter de la date d'installation du premie conseil d'administration du centre national de la
+fonction publique territoriale. *]
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°73-290 1973-03-09 ART. 13 MODIFIE
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-373 1977-03-28 JORF et JONC 5 avril 1977
+
+	**Abrogé par**:
+
+	  - Décret n°85-915 1985-08-27 art. 16 jorf 30 août 1985
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°87-811 du 5 octobre 1987 - art. 52 (M)
+	  - TXT_ASSOCIE: CODE DES COMMUNES. - art. R412-78 (Ab)
+
+	**Cite**:
+
+	  - CODE DES COMMUNES. - art. L412-37 (Ab)
+
+
+###### Article R412-80
+
+Un compte administratif est dressé à la fin de chaque année [*fréquence*].
+
+Il est transmis au ministre de l'intérieur avec un rapport sur le fonctionnement administratif, pédagogique et financier du
+centre de formation des personnels communaux.
+
+**Nota:**
+
+[*Cet article est abrogé à compter de la date d'installation du premie conseil d'administration du centre national de la
+fonction publique territoriale. *]
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°73-290 1973-03-09 ART. 14
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-373 1977-03-28 JORF et JONC 5 avril 1977
+
+	**Abrogé par**:
+
+	  - Décret n°85-915 1985-08-27 art. 16 jorf 30 août 1985
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°87-811 du 5 octobre 1987 - art. 52 (M)
+
+
+###### Article R412-81
+
+Les dépenses du centre de formation des personnels communaux comprennent les frais de fonctionnement et d'équipement et,
+d'une manière générale, toutes celles qui sont nécessaires à l'activité de l'établissement.
+
+**Nota:**
+
+[*Cet article est abrogé à compter de la date d'installation du premie conseil d'administration du centre national de la
+fonction publique territoriale. *]
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°73-290 1973-03-09 ART. 15
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-373 1977-03-28 JORF et JONC 5 avril 1977
+
+	**Abrogé par**:
+
+	  - Décret n°85-915 1985-08-27 art. 16 jorf 30 août 1985
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°87-811 du 5 octobre 1987 - art. 52 (M)
+
+
+###### Article R412-82
+
+Les fonctions de membres du conseil d'administration sont gratuites [*rémunération, non*].
+
+Elles peuvent donner lieu au remboursement des frais de déplacement ou, pour le président, des frais de représentation.
+
+**Nota:**
+
+[*Cet article est abrogé à compter de la date d'installation du premie conseil d'administration du centre national de la
+fonction publique territoriale. *]
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°73-290 1973-03-09 ART. 16
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-373 1977-03-28 JORF et JONC 5 avril 1977
+
+	**Abrogé par**:
+
+	  - Décret n°85-915 1985-08-27 art. 16 jorf 30 août 1985
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°87-811 du 5 octobre 1987 - art. 52 (M)
+
+
+###### Article R412-83
+
+Les règles relatives au fonctionnement administratif et financier des communes sont applicables au centre de formation des
+personnels communaux sous réserve des dispositions de la présente section.
+
+Sous la même réserve, les pouvoirs de contrôle administratif incombant aux préfets à l'égard des communes sont exercés par le
+préfet du département où se trouve situé le siège du centre [*compétence*].
+
+Le centre de formation des personnels communaux est soumis aux règles de la comptabilité communale.
+
+**Nota:**
+
+[*Cet article est abrogé à compter de la date d'installation du premie conseil d'administration du centre national de la
+fonction publique territoriale. *]
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°73-290 1973-03-09 ART. 17
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-373 1977-03-28 JORF et JONC 5 avril 1977
+
+	**Abrogé par**:
+
+	  - Décret n°85-915 1985-08-27 art. 16 jorf 30 août 1985
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°87-811 du 5 octobre 1987 - art. 52 (M)
+
+
+###### Article R412-84
+
+Les marchés sont passés dans les formes et les conditions prescrites pour les marchés des communes d'une population
+supérieure à 40.000 habitants [*nombre*].
+
+**Nota:**
+
+[*Cet article est abrogé à compter de la date d'installation du premie conseil d'administration du centre national de la
+fonction publique territoriale. *]
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°73-290 1973-03-09 ART. 18
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-373 1977-03-28 JORF et JONC 5 avril 1977
+
+	**Abrogé par**:
+
+	  - Décret n°85-915 1985-08-27 art. 16 jorf 30 août 1985
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°87-811 du 5 octobre 1987 - art. 52 (M)
+
+
+###### Article R412-85
+
+L'agent comptable du centre de formation des personnels communaux est nommé par arrêté du ministre de l'intérieur et du
+ministre de l'économie et des finances après avis du conseil d'administration [**]conditions de forme[**] : il est recruté
+parmi les fonctionnaires appartenant à la catégorie A.
+
+Il est mis fin à ses fonctions dans les mêmes formes.
+
+**Nota:**
+
+[*Cet article est abrogé à compter de la date d'installation du premie conseil d'administration du centre national de la
+fonction publique territoriale. *]
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°73-290 1973-03-09 ART. 19
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-373 1977-03-28 JORF et JONC 5 avril 1977
+
+	**Abrogé par**:
+
+	  - Décret n°85-915 1985-08-27 art. 16 jorf 30 août 1985
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°87-811 du 5 octobre 1987 - art. 52 (M)
+
+
+###### Article R412-86
+
+Le compte de gestion du centre de formation des personnels communaux est établi par l'agent comptable à la clôture de
+l'exercice.
+
+Il est visé par le président du conseil d'administration qui certifie que le montant des titres à recouvrer et des mandats
+est conforme aux écritures.
+
+Il est présenté par le président au conseil d'administration.
+
+Le compte de gestion est apuré et réglé définitivement dans les formes applicables aux comptes des communes.
+
+**Nota:**
+
+[*Cet article est abrogé à compter de la date d'installation du premie conseil d'administration du centre national de la
+fonction publique territoriale. *]
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°73-290 1973-03-09 ART. 20 MODIFIE
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-373 1977-03-28 JORF et JONC 5 avril 1977
+
+	**Abrogé par**:
+
+	  - Décret n°85-915 1985-08-27 art. 16 jorf 30 août 1985
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°87-811 du 5 octobre 1987 - art. 52 (M)
+
+
+###### Article R412-87
+
+Des régies des recettes et des dépenses peuvent être créées.
+
+**Nota:**
+
+[*Cet article est abrogé à compter de la date d'installation du premie conseil d'administration du centre national de la
+fonction publique territoriale. *]
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°73-290 1973-03-09 ART. 21
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-373 1977-03-28 JORF et JONC 5 avril 1977
+
+	**Abrogé par**:
+
+	  - Décret n°85-915 1985-08-27 art. 16 jorf 30 août 1985
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°87-811 du 5 octobre 1987 - art. 52 (M)
+
+
+##### SOUS-SECTION 4 : Le personnel.
+
+###### Article R412-88
+
+L'agrément, prévu à l'article L. 412-40, à la nomination du directeur et du directeur adjoint du centre de formation des
+personnels communaux est donné par le ministre de l'intérieur.
+
+**Nota:**
+
+[*Cet article est abrogé à compter de la date d'installation du premie conseil d'administration du centre national de la
+fonction publique territoriale. *]
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Code de l'administration communale 508-9 (partie)
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-373 1977-03-28 JORF et JONC 5 avril 1977
+
+	**Abrogé par**:
+
+	  - Décret n°85-915 1985-08-27 art. 16 jorf 30 août 1985
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°87-811 du 5 octobre 1987 - art. 52 (M)
+
+	**Cite**:
+
+	  - CODE DES COMMUNES. - art. L412-40 (M)
+
+
+###### Article R412-89
+
+Le directeur du centre de formation des personnels communaux [**]attributions[**] assure sous la responsabilité du président
+du conseil d'administration le fonctionnement du centre, en exécution des délibérations du conseil d'administration.
+
+Il prépare le règlement intérieur, le budget et les délibérations du conseil d'administration.
+
+Il assiste au conseil d'administration avec voix consultative.
+
+**Nota:**
+
+[*Cet article est abrogé à compter de la date d'installation du premie conseil d'administration du centre national de la
+fonction publique territoriale. *]
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°73-290 1973-03-09 ART. 10 AL. 1, 2 et 4
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-373 1977-03-28 JORF et JONC 5 avril 1977
+
+	**Abrogé par**:
+
+	  - Décret n°85-915 1985-08-27 art. 16 jorf 30 août 1985
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°87-811 du 5 octobre 1987 - art. 52 (M)
+
+
+###### Article R412-90
+
+Le personnel du centre de formation des personnels communaux, à l'exception du directeur et du directeur adjoint, est soumis
+au statut du personnel des communes de plus de 40.000 habitants [*nombre*].
+
+Les attributions dévolues par ce statut au conseil municipal et au maire sont exercées pour le personnel de l'établissement
+par le conseil d'administration et le président.
+
+Les délibérations soumises par ce statut au visa ou à l'approbation de l'autorité supérieure sont transmises au préfet du
+département où est situé le siège du centre.
+
+**Nota:**
+
+[*Cet article est abrogé à compter de la date d'installation du premie conseil d'administration du centre national de la
+fonction publique territoriale. *]
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°73-290 1973-03-09 ART. 11
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-373 1977-03-28 JORF et JONC 5 avril 1977
+
+	**Abrogé par**:
+
+	  - Décret n°85-915 1985-08-27 art. 16 jorf 30 août 1985
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°87-811 du 5 octobre 1987 - art. 52 (M)
+
+
+###### Article R412-91
+
+Le personnel enseignant du centre de formation des personnels communaux comprend :
+
+- Des membres de l'enseignement public ;
+
+- D'autres fonctionnaires de l'Etat ou des agents des collectivités locales ;
+
+- Des personnes choisies en raison de leur compétence.
+
+Les membres du personnel enseignant sont désignés, dans les conditions fixées par le règlement intérieur, par le directeur du
+centre de formation des personnels communaux ou par les délégués départementaux ou interdépartementaux [*choisis par le
+conseil d'administration parmi les présidents des syndicats de communes pour le personnel communal, les maires des communes
+non affiliées à ces syndicats ou parmi les personnalités ayant exercé l'une ou l'autre de ces fonctions*] prévus à l'article
+L. 412-36 [*recrutement*].
+
+**Nota:**
+
+[*Cet article est abrogé à compter de la date d'installation du premie conseil d'administration du centre national de la
+fonction publique territoriale. *]
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°73-290 1973-03-09 ART. 22
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-373 1977-03-28 JORF et JONC 5 avril 1977
+
+	**Abrogé par**:
+
+	  - Décret n°85-915 1985-08-27 art. 16 jorf 30 août 1985
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°87-811 du 5 octobre 1987 - art. 52 (M)
+
+	**Cite**:
+
+	  - CODE DES COMMUNES. - art. L412-36 (Ab)
+
+
+##### SOUS-SECTION 5 : Organisation des études.
+
+###### Article R412-92
+
+Le directeur du centre de formation des personnels communaux consulte sur l'organisation générale des études et des stages un
+comité des études qui comprend notamment un représentant du ministre chargé de l'éducation et un représentant du ministre de
+l'intérieur.
+
+La composition et le rôle du comité des études sont définis par le règlement intérieur.
+
+**Nota:**
+
+[*Cet article est abrogé à compter de la date d'installation du premie conseil d'administration du centre national de la
+fonction publique territoriale. *]
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°73-290 1973-03-09 ART. 23
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-373 1977-03-28 JORF et JONC 5 avril 1977
+
+	**Abrogé par**:
+
+	  - Décret n°85-915 1985-08-27 art. 16 jorf 30 août 1985
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°87-811 du 5 octobre 1987 - art. 52 (M)
+
+
+###### Article R412-93
+
+Le règlement intérieur du centre de formation des personnels communaux fixe les modalités de l'organisation de la scolarité.
+
+**Nota:**
+
+[*Cet article est abrogé à compter de la date d'installation du premie conseil d'administration du centre national de la
+fonction publique territoriale. *]
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°73-290 1973-03-09 ART. 24
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
+
+	**Abrogé par**:
+
+	  - Décret n°85-915 1985-08-27 art. 16 jorf 30 août 1985
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°87-811 du 5 octobre 1987 - art. 52 (M)
+
+
+##### SECTION 3 : Promotion sociale.
+
+###### Article R412-94
+
+Pour assurer la promotion sociale des agents mentionnés à l'article L. 412-44, remplissant les conditions fixées, pour
+certains emplois, par arrêté du ministre de l'intérieur, une proportion des emplois vacants est réservée lors de l'ouverture
+de chaque concours soit sur épreuves, soit sur titres, selon les modalités prévues à la présente section.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°73-293 1973-03-13 ART. 1
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
+
+	**Cite**:
+
+	  - CODE DES COMMUNES. - art. L412-44 (Ab)
+
+
+###### Article R412-95
+
+La proportion des postes à pourvoir qui sont réservés à la promotion sociale est fixée, pour chaque emploi, par arrêté du
+ministre de l'intérieur.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°73-293 1973-03-13 ART. 2
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
+
+	**Cité par**:
+
+	  - CODE DES COMMUNES. - art. R412-96 (V)
+
+
+###### Article R412-96
+
+Lorsqu'un concours sur épreuves ou sur titres est ouvert par une commune ou un établissement public pour le recrutement à des
+emplois de début, une fraction de ces derniers, conformément à la réservation de postes prévue à l'article précédent, est
+déduite du nombre des emplois mis au concours pour être pourvus au titre de la promotion sociale.
+
+Pour le calcul de cette fraction, il est fait masse le cas échéant des emplois mis au concours au titre de deux ou plusieurs
+concours successifs et en particulier de ceux qui, au titre d'un concours, n'ont pas été en nombre suffisant pour justifier
+la réservation d'un poste pour la promotion sociale.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - HISTO: 5 Avril 1977)
+
+	**Anciens textes**:
+
+	  - Décret n°73-293 1973-03-13 ART. 3
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Cite**:
+
+	  - CODE DES COMMUNES. - art. R412-95 (V)
+
+
+###### Article R412-97
+
+Les nominations au titre de la promotion sociale sont prononcées par le maire ou le président de l'établissement public après
+avis, selon les cas, de la commission paritaire communale, intercommunale ou d'établissement.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - HISTO: 5 Avril 1977)
+
+	**Anciens textes**:
+
+	  - Décret n°73-293 1973-03-13 ART. 4
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+
+###### Article R412-98
+
+Le comité d'un syndicat de communes pour le personnel communal peut décider l'établissement d'une liste d'aptitude commune à
+l'ensemble des collectivités affiliées.
+
+Lors de chaque concours sur épreuves ou sur titres, le nombre des postes à réserver au titre de la promotion sociale est
+calculé par le président du syndicat sur l'ensemble des postes vacants mis au concours dans les collectivités affiliées.
+
+Les propositions d'inscription sur la liste d'aptitude sont adressées au président du syndicat par les maires ou les
+présidents des établissements publics.
+
+La liste d'aptitude est arrêtée par le président du syndicat conformément aux décisions de la commission paritaire
+intercommunale qui statue dans les conditions fixées par arrêté du ministre de l'intérieur.
+
+La nomination est prononcée par le maire.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - HISTO: 5 Avril 1977)
+
+	**Anciens textes**:
+
+	  - Décret n°73-293 1973-03-13 ART. 5
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+
+##### SECTION 5 : Dispositions applicables à certains personnels
+
+##### SOUS-SECTION 1 : Dispositions applicables aux gardes champêtres et aux agents de la police municipale.
+
+###### Article R*412-116
+
+Les gardes champêtres doivent être âgés d'au moins vingt et un ans et être de bonne vie et moeurs.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - SPEC_APPLI: *Dispositions applicables aux agents nommés dans des emplois permanents à temps non complet*
+	  - SPEC_APPLI: Code des communes R421-7 :
+
+	**Anciens textes**:
+
+	  - Décret n°72-101 1972-01-31 ART. 2
+
+	**Créé par**:
+
+	  - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
+
+	**Codifié par**:
+
+	  - Décret n°77-373 du 28 mars 1977
+
+	**Abrogé par**:
+
+	  - Décret n°2013-1113 du 4 décembre 2013 - art. 9
+
+
+###### Article R*412-117
+
+L'agrément et la commission des gardes champêtres prévus par l'article L. 412-47 sont donnés par le sous-préfet ou par le
+préfet dans l'arrondissement du chef-lieu.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - SPEC_APPLI: *Dispositions applicables aux agents nommés dans des emplois permanents à temps non complet*
+	  - SPEC_APPLI: *Dispositions non applicables aux communes des départements de la Moselle, du Bas-Rhin et du Haut-Rhin (Alsace-Lorraine)*
+	  - SPEC_APPLI: Code des communes R441-1 :
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-373 1977-03-28 JORF et JONC 5 avril 1977
+
+	**Abrogé par**:
+
+	  - Décret n°2013-1113 du 4 décembre 2013 - art. 9
+
+	**Cite**:
+
+	  - Code des communes - art. L412-47
+
+
+###### Article R*412-118
+
+L'agrément des agents de la police municipale prévu par l'article L. 412-49 est donné par le sous-préfet ou par le préfet
+dans l'arrondissement du chef-lieu.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - SPEC_APPLI: *Dispositions applicables aux agents nommés dans des emplois permanents à temps non complet*
+	  - SPEC_APPLI: *Dispositions non applicables aux communes des départements de la Moselle, du Bas-Rhin et du Haut-Rhin (Alsace-Lorraine)*
+	  - SPEC_APPLI: Code des communes R441-1 :
+
+	**Anciens textes**:
+
+	  - Code de l'administration communale 593
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-373 1977-03-28 JORF et JONC 5 avril 1977
+
+	**Nouveaux textes**:
+
+	  - Code de la sécurité intérieure - art. R511-2 (VD)
+
+	**Abrogé par**:
+
+	  - Décret n°2013-1113 du 4 décembre 2013 - art. 9
+
+	**Cite**:
+
+	  - Code des communes - art. L412-49
+
+
+###### Article R412-119
+
+Les gardes champêtres et les agents de la police municipale peuvent recevoir un diplôme donnant droit au port de la médaille
+d'honneur de la police.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - SPEC_APPLI: *Dispositions applicables aux agents nommés dans des emplois permanents à temps non complet*
+	  - SPEC_APPLI: Code des communes R421-7 :
+
+	**Anciens textes**:
+
+	  - Décret n°47-1505 1947-08-11 ART. 1 (PARTIE)
+
+	**Créé par**:
+
+	  - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
+
+	**Codifié par**:
+
+	  - Décret n°77-373 du 28 mars 1977
+
+	**Nouveaux textes**:
+
+	  - Code de la sécurité intérieure - art. D511-41 (VD)
+	  - Code de la sécurité intérieure - art. D522-3 (VD)
+
+	**Abrogé par**:
+
+	  - Décret n°2013-1113 du 4 décembre 2013 - art. 9
+
+
+##### SOUS-SECTION 2 : Dispositions applicables aux personnels affectés au traitement de l'information.
+
+###### Article R412-120
+
+Les agents des communes et des établissements publics communaux et intercommunaux soumis aux dispositions du présent livre,
+qui justifient de la qualification requise, ont vocation à être affectés au traitement de l'information.
+
+Un arrêté du ministre de l'intérieur fixe les conditions d'application du présent article.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°73-780 1973-07-23 ART. 1
+
+	**Liens**:
+
+	  - TXT_SOURCE: Arrêté du 23 juillet 1973 - art. 1 (V)
+	  - TXT_SOURCE: Arrêté du 23 juillet 1973 - art. 10 (V)
+	  - TXT_SOURCE: Arrêté du 23 juillet 1973 - art. 11 (V)
+	  - TXT_SOURCE: Arrêté du 23 juillet 1973 - art. 12 (V)
+	  - TXT_SOURCE: Arrêté du 23 juillet 1973 - art. 13 (V)
+	  - TXT_SOURCE: Arrêté du 23 juillet 1973 - art. 14 (V)
+	  - TXT_SOURCE: Arrêté du 23 juillet 1973 - art. 15 (V)
+	  - TXT_SOURCE: Arrêté du 23 juillet 1973 - art. 16 (V)
+	  - TXT_SOURCE: Arrêté du 23 juillet 1973 - art. 17 (V)
+	  - TXT_SOURCE: Arrêté du 23 juillet 1973 - art. 18 (V)
+	  - TXT_SOURCE: Arrêté du 23 juillet 1973 - art. 19 (V)
+	  - TXT_SOURCE: Arrêté du 23 juillet 1973 - art. 2 (V)
+	  - TXT_SOURCE: Arrêté du 23 juillet 1973 - art. 20 (V)
+	  - TXT_SOURCE: Arrêté du 23 juillet 1973 - art. 21 (V)
+	  - TXT_SOURCE: Arrêté du 23 juillet 1973 - art. 22 (V)
+	  - TXT_SOURCE: Arrêté du 23 juillet 1973 - art. 23 (V)
+	  - TXT_SOURCE: Arrêté du 23 juillet 1973 - art. 24 (V)
+	  - TXT_SOURCE: Arrêté du 23 juillet 1973 - art. 25 (V)
+	  - TXT_SOURCE: Arrêté du 23 juillet 1973 - art. 26 (V)
+	  - TXT_SOURCE: Arrêté du 23 juillet 1973 - art. 3 (V)
+	  - TXT_SOURCE: Arrêté du 23 juillet 1973 - art. 4 (V)
+	  - TXT_SOURCE: Arrêté du 23 juillet 1973 - art. 5 (V)
+	  - TXT_SOURCE: Arrêté du 23 juillet 1973 - art. 6 (V)
+	  - TXT_SOURCE: Arrêté du 23 juillet 1973 - art. 7 (V)
+	  - TXT_SOURCE: Arrêté du 23 juillet 1973 - art. 8 (V)
+	  - TXT_SOURCE: Arrêté du 23 juillet 1973 - art. 9 (V)
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
+
+	**Cité par**:
+
+	  - CODE DES COMMUNES. - art. R412-121 (V)
+
+
+###### Article R412-121
+
+Dans les limites et conditions définies par l'arrêté prévu à l'article précédent, les agents qui sont affectés au traitement
+de l'information à la date d'entrée en vigueur de cet arrêté peuvent être intégrés et reclassés dans des emplois statutaires
+en tenant compte de leurs aptitudes professionnelles et après avis de la commission paritaire compétente.
+
+Ces intégrations et reclassements prennent effet à la date fixée par cet arrêté.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°73-780 1973-07-23 ART. 2
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
+
+	**Cite**:
+
+	  - CODE DES COMMUNES. - art. R412-120 (V)
+
+
+###### Article R412-122
+
+Les bénéficiaires des dispositions de l'article précédent peuvent par dérogation aux règles statutaires, être admis à se
+présenter aux concours ou examens professionnels prévus pour l'accès à certains emplois.
+
+Les modalités d'application de ces dérogations sont précisées par l'arrêté prévu à l'article R. 412-120.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°73-780 1973-07-23 ART. 3
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
+
+	**Cite**:
+
+	  - Code des communes R412-120 et R412-121
+
+
+##### SOUS-SECTION 3 : Dispositions applicables aux personnels des écoles d'art et musées.
+
+###### Article R*412-123
+
+Dans le cas prévu à l'article L. 412-51, l'agrément à la nomination des directeurs et des professeurs des écoles d'art est
+donné par le ministre chargé de la culture.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-373 1977-03-28 JORF et JONC 5 avril 1977
+
+	**Cite**:
+
+	  - CODE DES COMMUNES. - art. L412-51 (Ab)
+
+	**Anciens textes**:
+
+	  - Décret-loi 1935-10-30 ART. 1 (partie)
+
+
+###### Article R*412-124
+
+Aucune limite d'âge n'est fixée pour le personnel enseignant des conservatoires nationaux de région, des écoles nationales de
+musique, des écoles régionales d'art et des écoles municipales d'art qui sont régies par l'autorité municipale.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - HISTO: 5 Avril 1977)
+
+	**Anciens textes**:
+
+	  - Décret n°62-544 1962-05-05 ART. 4 AL. 3
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+
+###### Article R412-125
+
+Conformément aux dispositions de l'article 21 du décret n° 45-2075 du 31 août 1945, le conservateur et l'assistant d'un musée
+classé sont nommés par le ministre chargé de la culture qui les choisit sur une liste de trois candidats présentés par le
+maire.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - HISTO: 5 Avril 1977)
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Cité par**:
+
+	  - CODE DES COMMUNES. - art. R412-126 (V)
+
+
+###### Article R412-126
+
+Conformément aux dispositions de l'article 25 du décret n° 45-2075 du 31 août 1945, la nomination du personnel scientifique
+d'un musée contrôlé, ainsi que celle des membres du personnel scientifique d'un musée classé autres que le conservateur de ce
+musée et que l'assistant du musée de Lyon, sont soumises aux mêmes règles que celle du conservateur d'un musée classé.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - HISTO: 5 Avril 1977)
+
+	**Cite**:
+
+	  - Décret n°45-2075 1945-08-31 ART. 25
+	  - CODE DES COMMUNES. - art. R412-125 (V)
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+
+#### CHAPITRE 3 : Rémunération et effectifs.
+
+###### Article R*413-1
+
+La décision de l'autorité supérieure, prévue à l'article L. 413-3 est un arrêté du ministre de l'intérieur après avis du
+ministre de l'économie et des finances.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Code de l'administration communale 510 AL. 2 (partie)
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-373 1977-03-28 JORF et JONC 5 avril 1977
+
+	**Cite**:
+
+	  - CODE DES COMMUNES. - art. L413-3 (M)
+
+
+###### Article R413-2
+
+L'arrêté prévu à l'article L. 413-8 est pris par le ministre de l'intérieur.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-373 1977-03-28 JORF et JONC 5 avril 1977
+
+	**Cite**:
+
+	  - CODE DES COMMUNES. - art. L413-8 (Ab)
+
+	**Anciens textes**:
+
+	  - Code de l'administration communale 510 AL. 2 (partie)
+
+
+#### CHAPITRE 4 : Notation, avancement et discipline
+
+##### SECTION 1 : Notation.
+
+###### Article R414-1
+
+Il est établi pour chaque agent une fiche annuelle de notes comportant les indications prévues à l'article L. 414-1.
+
+La fiche annuelle de notes est annexée au dossier de l'agent.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Code de l'administration communale 516
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
+
+	**Cite**:
+
+	  - CODE DES COMMUNES. - art. L414-1 (Ab)
+
+
+##### SECTION 2 : Avancement.
+
+###### Article R*414-2
+
+L'avancement de grade a lieu exclusivement au choix d'après la liste d'aptitude dressée selon les dispositions prévues à
+l'article L. 414-9.
+
+Le ministre de l'intérieur fixe l'ancienneté minimum exigée pour l'accès aux emplois dont il détermine les échelles de
+traitement maximums.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°62-544 1962-05-05 ART. 6
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
+
+	**Cite**:
+
+	  - CODE DES COMMUNES. - art. L414-9 (Ab)
+
+
+###### Article R*414-3
+
+La décision de l'autorité supérieure prévue à l'article L. 414-6 est un arrêté du ministre de l'intérieur.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Arrêté 1978-08-03
+
+	**Anciens textes**:
+
+	  - Code de l'administration communale 519 AL. 2 (partie)
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-373 1977-03-28 JORF et JONC 5 avril 1977
+
+	**Cite**:
+
+	  - CODE DES COMMUNES. - art. L414-6 (Ab)
+
+
+###### Article R*414-4
+
+L'agent promu ou recruté dans un autre emploi de sa commune ou d'une autre collectivité est classé, dans son nouveau grade, à
+l'échelon qui comporte un traitement égal ou, à défaut, immédiatement supérieur à celui dont il bénéficiait dans son ancien
+grade.
+
+Dans la limite de l'ancienneté maximum exigée pour une promotion à l'échelon supérieur, il conserve l'ancienneté d'échelon
+acquise dans le précédent grade lorsque sa nomination ne comporte pas une augmentation de traitement au moins égale à celle
+qui aurait résulté d'un avancement d'échelon dans le précédent emploi.
+
+Lorsqu'il avait atteint l'échelon le plus élevé de son ancien grade, il conserve son ancienneté d'échelon dans les mêmes
+conditions et dans les mêmes limites si sa nomination ne comporte pas un avantage pécuniaire au moins égal à celui que lui
+avait procuré son accession à cet échelon.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°62-544 1962-05-05 ART. 7
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code des communes R414-10
+
+
+###### Article R*414-5
+
+Lorsque les agents communaux titulaires d'emplois situés au niveau de la catégorie C ou de la catégorie D sont nommés, selon
+les règles statutaires normales, dans un emploi situé au niveau de la catégorie B dont la liste est fixée par arrêté du
+ministre de l'intérieur, ils sont classés dans le grade de début de leur nouvel emploi sur la base de la durée maximum de
+service exigée pour chaque avancement d'échelon en prenant compte une fraction de leur ancienneté dans leur emploi d'origine.
+
+L'ancienneté dans l'emploi d'origine correspond dans la limite maximale de vingt-neuf ans pour un emploi situé au niveau de
+la catégorie D et de trente-deux ans pour un emploi situé au niveau de la catégorie C, au temps nécessaire pour parvenir sur
+la base des durées maximales de service à l'échelon occupé par l'intéressé, augmenté de l'ancienneté acquise dans cet
+échelon.
+
+Cette ancienneté est retenue à raison des :
+
+Trois douzièmes lorsqu'il s'agit d'un emploi de niveau D ;
+
+Huit douzièmes pour les douze premières années et sept douzièmes pour le surplus lorsqu'il s'agit d'un emploi de niveau C.
+
+Pour les agents classés dans le groupe immédiatement supérieur à celui où se trouve classé leur grade antérieur, il est tenu
+compte, dans les conditions et les limites déterminées ci-dessus, de leur ancienneté dans le groupe de classement de leur
+emploi.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Arrêté  1970-05-25
+	  - Arrêté  1970-05-25 ART. 4
+
+	**Anciens textes**:
+
+	  - Décret n°62-544 1962-05-05 ART. 7 BIS I A
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
+
+
+###### Article R*414-6
+
+Les autres agents communaux nommés selon les règles statutaires normales dans un emploi situé au niveau de la catégorie B,
+dont la liste est fixée par arrêté du ministre de l'intérieur, sont classés à l'échelon du grade de début de leur nouvel
+emploi qui comporte un traitement égal ou, à défaut, immédiatement supérieur au traitement perçu en dernier lieu dans leur
+emploi.
+
+Dans la limite de l'ancienneté maximum de service exigée pour une promotion à l'échelon supérieur, ils conservent
+l'ancienneté d'échelon qu'ils avaient acquise dans leur précédent emploi lorsque l'augmentation de traitement consécutive à
+leur nomination est inférieure à celle que leur aurait procurée un avancement d'échelon dans leur ancienne situation.
+
+Les agents nommés alors qu'ils ont atteint l'échelon le plus élevé de leur précédent emploi conservent leur ancienneté
+d'échelon dans les mêmes conditions et limites lorsque l'augmentation de traitement consécutive à leur nomination est
+inférieure à celle que leur avait procurée leur nomination à cet échelon.
+
+Les intéressés peuvent opter pour le régime institué par l'article précédent en faveur des agents de niveau C. Dans ce cas,
+les durées maximales du temps passé dans chaque échelon de leur précédent emploi sont celles prévues pour cet emploi.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°62-544 1962-05-05 ART. 7 BIS I B
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
+
+	**Cite**:
+
+	  - Code des communes R414-5
+
+
+###### Article R*414-7
+
+Les agents communaux non titulaires, nommés selon les règles statutaires normales dans un emploi situé au niveau de la
+catégorie B dont la liste est fixée par arrêté du ministre de l'intérieur, sont classés dans le grade de début de leur nouvel
+emploi à un échelon déterminé en prenant en compte les services accomplis dans un emploi situé au niveau de la catégorie B, à
+raison des trois quarts de leur durée et ceux accomplis dans un emploi situé à un niveau inférieur à raison de la moitié de
+leur durée.
+
+Ce reclassement ne doit en aucun cas aboutir à des situations plus favorables que celles qui résulteraient d'un reclassement
+à un échelon comportant un traitement égal ou, à défaut, immédiatement supérieur à celui perçu dans l'ancien emploi avec
+conservation de l'ancienneté d'échelon dans les conditions définies à l'article précédent.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°62-544 1962-05-05 ART. 7 BIS II
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
+
+	**Cite**:
+
+	  - Code des communes R414-6
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code des communes R414-8
+
+
+###### Article R*414-10
+
+Par dérogation aux dispositions de l'article R. 414-4, l'agent promu ou recruté dans sa commune ou une autre collectivité
+dans un des emplois d'exécution dont la liste est fixée par arrêté du ministre de l'intérieur est maintenu dans son nouveau
+grade à l'échelon auquel il était parvenu dans son précédent grade.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°62-544 1962-05-05 ART. 8 REMPLACE AL. 1
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
+
+	**Cite**:
+
+	  - Code des communes R414-4
+
+
+###### Article R*414-11
+
+Lorsque la nomination ou promotion à l'échelon déterminé par application de l'article précédent a pour résultat d'accorder
+aux intéressés un gain excédant 60 points indiciaires bruts, elle est prononcée à l'échelon inférieur le plus voisin, tel que
+ce gain n'excède pas le chiffre précité.
+
+Toutefois, en cas de nomination ou de promotion à certains emplois déterminés par l'arrêté prévu à l'article précédent, ce
+gain indiciaire maximum est porté à 75 points bruts.
+
+Si la nomination, prononcée dans les conditions prévues à l'article précédent, a pour effet d'attribuer à l'intéressé un
+traitement inférieur à celui dont il bénéficiait dans son ancien grade, elle est prononcée à l'échelon comportant un
+traitement égal ou immédiatement supérieur.
+
+L'intéressé conserve, dans la limite de l'ancienneté maximum de service exigée pour l'accès à l'échelon supérieur de son
+nouvel emploi, l'ancienneté d'échelon qu'il avait acquise dans l'emploi antérieur.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°62-544 1962-05-05 ART. 8 REMPLACE AL. 2 à 4
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
+
+	**Cite**:
+
+	  - Code des communes R414-10
+
+
+###### Article R*414-12
+
+Dans le cas où l'application des dispositions des deux articles précédents aboutit à classer dans un même échelon des agents
+appartenant à deux ou plusieurs échelons successifs d'un même grade, ces agents sont rangés dans cet échelon d'après les
+modalités suivantes :
+
+1° Lorsque les intéressés appartiennent à deux échelons successifs, seuls les agents issus du plus élevé de ces échelons
+conservent, dans la limite prévue au troisième alinéa de l'article R. 414-11, l'ancienneté d'échelon qu'ils avaient acquise
+dans leur grade antérieur ;
+
+2° Lorsque les intéressés appartiennent à plusieurs échelons successifs, seuls les agents issus des deux échelons les plus
+élevés bénéficient, dans leur nouvel échelon, d'une ancienneté déterminée conformément aux conditions du tableau ci-
+dessous : 
+
+<table>
+    <tbody>
+      <tr>
+        <td>
+
+ECHELON 
+
+dans le grade antérieur. 
+
+</td>
+        <td>
+
+ANCIENNETE D'ECHELON
+
+dans le nouveau grade. 
+
+</td>
+      </tr>
+      <tr>
+        <td>
+
+Agent issu de l'échelon 
+
+le plus élevé 
+
+</td>
+        <td>
+
+Ancienneté d'échelon acquise dans le grade
+
+antérieur majorée de la moitié de la 
+
+durée maximum de service exigée pour
+
+l'accès à l'échelon supérieur du nouveau
+
+grade, l'ancienneté totale ne pouvant
+
+excéder cette durée maximum. 
+
+</td>
+      </tr>
+      <tr>
+        <td>
+
+Agent issu de l'échelon
+
+immédiatement inférieur 
+
+</td>
+        <td>
+
+Ancienneté d'échelon acquise dans le grade
+
+antérieur dans la limite de la moitié de 
+
+la durée maximum de service exigée
+
+pour l'accès à l'échelon supérieur du
+
+nouveau grade 
+
+</td>
+      </tr>
+    </tbody>
+  </table>
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°62-544 1962-05-05 ART. 8 REMPLACE AL. 5
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
+
+	**Cite**:
+
+	  - Code des communes R414-10 et R414-11
+
+
+###### Article R*414-13
+
+Lorsque le recrutement à l'un des grades ou emplois mentionnés à l'article R. 414-10, effectué selon les règles statutaires
+normales, concerne des agents communaux non titulaires, ceux-ci sont classés sur la base de la durée maximum de service
+exigée pour chaque avancement d'échelon en prenant en compte, à raison des trois quarts de leur durée, les services civils à
+temps complet qu'ils ont accomplis.
+
+Ce classement ne doit, en aucun cas, aboutir à des situations plus favorables que celles qui résultent d'un reclassement à un
+échelon comportant un traitement égal ou, à défaut, immédiatement supérieur à celui perçu dans l'ancien emploi avec
+conservation de l'ancienneté d'échelon dans les conditions définies au quatrième alinéa de l'article R. 414-11 et à l'article
+R. 414-12.
+
+Le présent article ne peut toutefois avoir pour conséquence de placer les intéressés dans une situation moins favorable que
+celle qui résulterait de l'application des dispositions statutaires qui fixent les conditions de nomination dans le corps
+auquel ils accèdent.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°62-544 1962-05-05 ART. 8 BIS
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-373 1977-03-28 JORF et JONC 5 avril 1977
+
+	**Cite**:
+
+	  - Code des communes R414-12
+
+
+###### Article R*414-14
+
+Lorsqu'un agent est affecté dans les conditions prévues à l'article L. 415-12, sans avancement de grade, d'un service à un
+autre dans lequel son grade n'est pas prévu, il conserve, à titre personnel, le bénéfice de son grade et de son échelon.
+
+Il ne peut bénéficier, cependant, d'un avancement dans son ancien grade ni conserver les indemnités ou avantages accessoires
+qui y étaient attachés.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°62-544 1962-05-05 ART. 9
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
+
+	**Cite**:
+
+	  - CODE DES COMMUNES. - art. L415-12 (Ab)
+
+
+##### SECTION 3 : Discipline
+
+##### SOUS-SECTION 1 : Le conseil de discipline.
+
+###### Article R*414-15
+
+Le conseil de discipline communal est présidé par le juge du tribunal d'instance comprenant dans son ressort la commune qui
+emploie l'agent en cause.
+
+Le conseil de discipline intercommunal est présidé par le juge du tribunal d'instance comprenant dans son ressort la commune
+où siège le syndicat de communes pour le personnel communal.
+
+Dans les tribunaux d'instance comportant plusieurs juges, le juge directeur ou celui qui en fait fonction préside le conseil
+de discipline communal ou intercommunal.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°59-1191 1959-10-19 ART. 1 AL. 1 à 3
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°89-677-1989-09-18 art. 36
+	  - SPEC_APPLI: Décret n°85-1141 du 23 octobre 1985 - art. 22 (Ab)
+
+
+###### Article R*414-16
+
+Le magistrat président du conseil de discipline procède au tirage au sort des membres du conseil de discipline en présence de
+deux membres de la commission paritaire, l'un représentant le personnel, l'autre le conseil municipal ou les maires.
+
+Le conseil de discipline ne peut comporter de membres qui sont parties à l'affaire ou qui l'ont précédemment connu en premier
+ressort.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°59-1191 1959-10-19 ART. 1 AL. 4 à 5
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°89-677-1989-09-18 art. 36
+	  - SPEC_APPLI: Décret n°85-1141 du 23 octobre 1985 - art. 22 (Ab)
+
+
+##### SOUS-SECTION 2 : Les sanctions disciplinaires.
+
+###### Article R*414-22
+
+Toute faute commise par un agent dans l'exercice ou à l'occasion de l'exercice de ses fonctions l'expose à une sanction
+disciplinaire, sans préjudice, le cas échéant, des peines prévues par la loi pénale.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°62-544 1962-05-05 ART. 1 AL. 1
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°85-1141 1985-10-23 art. 22 Décret 89-677-1989-09-18 art. 36
+
+
+###### Article R*414-23
+
+Lorsqu'une faute grave est commise par un agent, qu'il s'agisse d'un manquement à ses obligations professionnelles ou d'une
+infraction de droit commun, l'auteur de cette faute peut être immédiatement suspendu par le maire.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°59-979 1959-08-12 ART. 5 AL. 1
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°89-677-1989-09-18 art. 36
+	  - SPEC_APPLI: Décret n°85-1141 du 23 octobre 1985 - art. 22 (Ab)
+
+
+###### Article R*414-24
+
+L'agent qui est l'objet d'une mesure de suspension continue, pendant la durée de celle-ci, à percevoir soit l'intégralité de
+son traitement, soit une fraction de celui-ci.
+
+Dans ce dernier cas, la décision qui prononce la suspension détermine la quotité de la retenue. Celle-ci ne peut être
+supérieure à la moitié du traitement.
+
+Dans tous les cas, l'intéressé continue à percevoir la totalité des suppléments pour charges de famille lorsqu'il reste sans
+emploi et qu'il n'est pas affilié à une caisse de compensation des allocations familiales pendant la durée de la suspension.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°59-979 1959-08-12 ART. 5 AL. 2 à 4
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°85-1141 1985-10-23 ART. 22 Décret 89-677-1989-09-18 art. 36
+
+
+###### Article R*414-25
+
+En cas de suspension préalable d'un agent, le juge, président du conseil de discipline, en est immédiatement avisé par le
+maire. 
+
+Il convoque le conseil de discipline dans un délai d'un mois.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°59-979 1959-08-12 ART. 5 AL. 5
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°85-1141 1985-10-23 ART. 22 Décret 89-677-1989-09-18 art. 36
+
+
+###### Article R*414-28
+
+L'agent révoqué sans pension ou ses ayants droit bénéficient des dispositions des articles 61, 67 et 68 du décret n° 65-773
+du 9 septembre 1965 relatif au régime de retraite des tributaires de la caisse nationale de retraites des agents des
+collectivités locales.
+
+**Nota:**
+
+Le décret n° 65-773 du 9 septembre 1965 a été modifié par les décrets n° 70-719 du 31 juillet 1970, n° 73-302 du 13 mars
+1973, n° 74-844 du 7 octobre 1974 et n° 76-366 du 16 avril 1976.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Décret n°65-773 1965-09-09 MODIFIE ART. 61, 67 et 68
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°89-677-1989-09-18 art. 36
+	  - SPEC_APPLI: Décret n°85-1141 du 23 octobre 1985 - art. 22 (Ab)
+
+
+###### Article R414-26
+
+La situation de l'agent qui est l'objet d'une mesure de suspension est définitivement réglée par l'autorité qui exerce le
+pouvoir de discipline dans un délai de quatre mois lorsque l'agent est déféré devant un conseil de discipline issu d'une
+commission paritaire communale, de six mois lorsque l'agent est déféré devant un conseil de discipline issu d'une commission
+paritaire intercommunale et, dans les deux cas, à compter du jour où la décision de suspension a pris effet.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°59-979 1959-08-12 ART. 5 AL. 6 PAR. 1
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°85-1141 1985-10-23 ART. 22 Décret 89-677-1989-09-18 art. 36
+
+
+###### Article R414-27
+
+Lorsque aucune décision n'est intervenue à l'expiration du délai de quatre ou six mois, l'agent intéressé reçoit à nouveau
+l'intégralité de son traitement, sauf lorsqu'il est l'objet de poursuites pénales.
+
+Lorsque l'intéressé n'a subi aucune sanction ou n'a été l'objet que d'un avertissement ou d'un blâme ou lorsqu'à l'expiration
+des délais prévus à l'alinéa précédent, il n'a pu être statué sur son cas, il a droit au remboursement des retenues opérées
+sur son traitement.
+
+Toutefois, lorsque l'agent est l'objet de poursuites pénales, sa situation n'est définitivement réglée qu'après que la
+décision rendue par la juridiction saisie est devenue définitive.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°59-979 1959-08-12 ART. 5 AL. 6 PHR. 2 et AL. 7 et 8
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°85-1141 1985-10-23 ART. 22 Décret 89-677-1989-09-18 art. 36
+
+
+#### CHAPITRE 5 : Positions
+
+##### SECTION 1 : Activités, congés
+
+##### SOUS-SECTION 1 : Les congés annuels.
+
+###### Article R*415-2
+
+Les agents des communes et de leurs établissements publics, qui désirent obtenir le congé prévu à l'article L. 415-9,
+présentent une demande écrite au maire ou au président du comité ou du conseil d'administration au moins trente jours à
+l'avance.
+
+Cette demande précise la date et la durée de l'absence sollicitée et le nom de l'organisme responsable de la session ou du
+stage.
+
+Pendant la durée du congé, les émoluments du bénéficiaire sont réduits au montant des retenues légales pour la retraite et
+pour la sécurité sociale afférentes à son grade ou emploi.
+
+L'intéressé conserve, en outre, ses droits à la totalité des suppléments pour charges de famille.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - SPEC_APPLI: *Dispositions applicables aux agents nommés dans des emplois permanents à temps non complet*
+	  - SPEC_APPLI: Code des communes R421-7 :
+
+	**Anciens textes**:
+
+	  - Décret n°63-501 1963-05-20 ART. 1 (PARTIE)
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
+
+	**Cite**:
+
+	  - CODE DES COMMUNES. - art. L415-9 (Ab)
+
+
+###### Article R*415-3
+
+Le bénéfice du congé prévu par l'article L. 415-9 est de droit, sauf dans le cas où les nécessités du service s'y opposent.
+
+Le congé ne peut être refusé qu'après consultation de la commission administrative compétente.
+
+Toutefois, la commission peut déléguer ses pouvoirs à deux personnes choisies dans son sein.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - SPEC_APPLI: *Dispositions applicables aux agents nommés dans des emplois permanents à temps non complet*
+	  - SPEC_APPLI: Code des communes R421-7 :
+
+	**Anciens textes**:
+
+	  - Décret n°63-501 1963-05-20 ART. 2 (PARTIE)
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
+
+	**Cite**:
+
+	  - CODE DES COMMUNES. - art. L415-9 (Ab)
+
+
+###### Article R*415-4
+
+L'organisme responsable de la session ou du stage mentionné à l'article L. 415-9 délivre une attestation à l'agent qui y a
+participé.
+
+L'attestation est remise par l'intéressé au maire ou au président du comité ou du conseil d'administration au moment de la
+reprise de ses fonctions.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - SPEC_APPLI: *Dispositions applicables aux agents nommés dans des emplois permanents à temps non complet*
+	  - SPEC_APPLI: Code des communes R421-7 :
+
+	**Anciens textes**:
+
+	  - Décret n°63-501 1963-05-20 ART. 3 (PARTIE)
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
+
+	**Cite**:
+
+	  - CODE DES COMMUNES. - art. L415-9 (Ab)
+
+
+###### Article R*415-5
+
+A titre exceptionnel et pour une seule fois, peuvent être admis au bénéfice des dispositions de l'article R. 415-2 les agents
+qui sont âgés de plus de vingt-cinq ans et qui justifient, par une attestation délivrée par l'inspecteur départemental de la
+jeunesse et des sports :
+
+Qu'ils ont participé, depuis trois ans au moins, à l'encadrement d'activités d'animation organisées par des associations
+figurant sur la liste prévue par le décret n° 63-263 du 18 mars 1963 relatif à l'établissement de la liste des organismes
+dont les activités ouvrent droit au congé non rémunéré prévu par la loi n° 61-1448 du 29 décembre 1961 ;
+
+Et qu'ils sont désignés pour prendre part à un stage de formation supérieure d'animateurs.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - SPEC_APPLI: *Dispositions applicables aux agents nommés dans des emplois permanents à temps non complet*
+	  - TXT_ASSOCIE: CODE DES COMMUNES. - art. L415-9 (Ab)
+	  - SPEC_APPLI: Code des communes R421-7 :
+
+	**Cite**:
+
+	  - Loi n°61-1448 1961-12-29
+	  - Décret n°63-263 1963-03-18
+	  - Code des communes R415-2
+
+	**Anciens textes**:
+
+	  - Décret n°63-501 1963-05-20 ART. 4 (PARTIE)
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
+
+
+###### Article R415-1
+
+Le règlement d'administration publique prévu à l'article L. 415-8 est pris sur le rapport du ministre de l'intérieur.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - SPEC_APPLI: *Dispositions applicables aux agents nommés dans des emplois permanents à temps non complet*
+	  - TXT_ASSOCIE: Arrêté 1981-02-26
+	  - TXT_ASSOCIE: Décret n°62-1225 1962-10-18
+	  - SPEC_APPLI: Code des communes R421-7 :
+
+	**Anciens textes**:
+
+	  - Loi n°52-432 1952-04-28 ART. 47 bis (partie)
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-373 1977-03-28 JORF et JONC 5 avril 1977
+
+	**Cite**:
+
+	  - CODE DES COMMUNES. - art. L415-8 (Ab)
+
+
+##### SOUS-SECTION 2 : Les congés de maladie.
+
+###### Article R*415-6
+
+Lorsqu'un agent est affecté dans les conditions prévues à l'article L. 415-22, les avantages assurés à l'intéressé lui sont
+maintenus suivant les modalités prévues à l'article R. 414-14.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Code de l'administration communale 550 AL. 2
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
+
+	**Cite**:
+
+	  - CODE DES COMMUNES. - art. L415-22 (Ab)
+	  - Code des communes R414-14
+
+
+#### CHAPITRE 6 : Cessation de fonctions.
+
+###### Article R*416-1
+
+La cessation des fonctions entraînant radiation des cadres et perte de la qualité d'agent communal résulte :
+
+1° De l'admission à la retraite ;
+
+2° De la démission régulièrement acceptée ;
+
+3° Du licenciement ;
+
+4° De la révocation.
+
+Produisent les mêmes effets la perte de la nationalité française ou des droits civiques et la non-réintégration de l'agent
+qui, à l'expiration de la période de disponibilité, n'a pas présenté de demande de réintégration dans le délai prescrit.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°62-544 1962-05-05 ART. 11
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
+
+
+##### SECTION 1 : L'admission à la retraite.
+
+###### Article R*416-2
+
+Le décret prévu à l'article L. 416-2 fixant la liste des services insalubres mentionnés à l'article L. 416-1, est pris sur le
+rapport du ministre de l'intérieur et du ministre chargé de la santé.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-373 1977-03-28 JORF et JONC 5 avril 1977
+
+	**Cite**:
+
+	  - CODE DES COMMUNES. - art. L416-1 (V)
+	  - CODE DES COMMUNES. - art. L416-2 (V)
+
+
+##### SECTION 4 : Nomination dans une autre commune.
+
+###### Article R*416-3
+
+Lorsqu'un agent est, pour convenances personnelles, soit nommé d'une collectivité dans une autre, soit muté, il n'a droit à
+aucune indemnité pour frais de déplacement ou de déménagement.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°69-979 1969-08-12 ART. 6 AL. 2
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
+
+
+##### SECTION 2 : Nomination dans une autre commune.
+
+###### Article R*416-4
+
+La nomination d'un agent dans une autre commune est prononcée par arrêté du maire de cette dernière [*compétence*] après
+préavis de trois mois par l'agent au maire de la commune dans laquelle il exerçait ses fonctions.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°69-979 1969-08-12 ART. 6 AL. 1
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
+
+	**Abrogé par**:
+
+	  - Décret n°85-643 1985-06-26 art. 118 jorf 28 JUIN 1985
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°85-643 du 26 juin 1985 - art. 118 (M)
+
+
+#### CHAPITRE 7 : Sécurité sociale, pensions, hygiène et sécurité
+
+##### SECTION 1 : Sécurité sociale.
+
+###### Article R417-1
+
+L'organisation spéciale de sécurité sociale applicable aux agents soumis au présent titre est fixée par le décret n° 60-58 du
+11 janvier 1960 relatif au régime de sécurité sociale des agents permanents des départements, des communes et de leurs
+établissements publics n'ayant pas le caractère industriel ou commercial.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - SPEC_APPLI: *Dispositions applicables aux agents nommés dans des emplois permanents à temps non complet*
+	  - HISTO: 5 Avril 1977)
+	  - SPEC_APPLI: Code des communes R421-7 :
+
+	**Cite**:
+
+	  - Décret n°60-58 1960-01-11
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+
+##### SECTION 3 : Allocation temporaire d'invalidité.
+
+###### Article R417-5
+
+Les communes et leurs établissements publics n'ayant pas le caractère industriel ou commercial sont tenus dans les conditions
+prévues par la présente section [*relative à l'allocation temporaire d'invalidité*] de faire bénéficier leurs agents
+permanents non rémunérés à l'heure ou à la journée, affiliés à la caisse nationale de retraites des agents des collectivités
+locales ou à un régime spécial de retraite, d'une allocation temporaire d'invalidité.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - HISTO: 5 Avril 1977)
+
+	**Cite**:
+
+	  - Décret n°47-1846 1947-09-19 MODIFIE
+	  - Décret n°65-773 1965-09-09 MODIFIE
+	  - Code des communes R421-7 et R422-1
+
+	**Anciens textes**:
+
+	  - Décret n°63-1346 1963-12-24 ART. 1 REMPLACE
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Cité par**:
+
+	  - Arrêté du 5 juin 1998 - art. 25 (V)
+	  - Arrêté du 4 août 2004 - art. 25 (V)
+	  - CODE DES COMMUNES. - art. R417-19 (Ab)
+	  - CODE DES COMMUNES. - art. R417-21 (Ab)
+
+	**Abrogé par**:
+
+	  - Décret n°2005-442 2005-05-02 art. 17 1° JORF 11 mai 2005
+
+
+###### Article R417-6
+
+Les dispositions de la présente section [*relative à l'allocation temporaire d'invalidité*] s'appliquent aux agents qui
+étaient en fonctions à la date du 29 décembre 1959 et à ceux qui ont été ou sont recrutés postérieurement à cette date.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - HISTO: 5 Avril 1977)
+
+	**Anciens textes**:
+
+	  - Décret n°63-1346 1963-12-24 ART. 2 REMPLACE
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Abrogé par**:
+
+	  - Décret n°2005-442 2005-05-02 art. 17 1° JORF 11 mai 2005
+
+	**Cite**:
+
+	  - Code des communes R317- 5 et R317-7 à R317-21
+
+
+###### Article R417-7
+
+L'allocation temporaire d'invalidité n'est susceptible d'être accordée qu'aux agents qui sont maintenus en activité et
+justifient d'une invalidité permanente résultant soit d'un accident de service ayant entraîné une incapacité d'un taux
+rémunérable au moins égal à 10 p. 100 [**]pourcentage[**], soit de l'une des maladies d'origine professionnelle énumérées par
+les tableaux prévus à l'article L. 496 du code de la sécurité sociale, quelle que soit la date à laquelle l'accident est
+survenu ou la maladie a été constatée.
+
+Les agents qui sont atteints d'une de ces maladies ne peuvent bénéficier de cette allocation que dans la mesure où
+l'affection serait susceptible, s'ils relevaient du régime général de la sécurité sociale, de leur ouvrir droit à une rente
+en application des dispositions du livre IV  du code de la sécurité sociale et de ses textes d'application.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°63-1346 1963-12-24 ART. 3 AL. 1 COMPLETE et AL. 2
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
+
+	**Abrogé par**:
+
+	  - Décret n°2005-442 2005-05-02 art. 17 1° JORF 11 mai 2005
+
+	**Cite**:
+
+	  - Code de la sécurité sociale L496
+
+
+###### Article R417-9
+
+L'allocation temporaire d'invalidité est cumulable avec le traitement.
+
+Son montant est fixé à la fraction du traitement brut afférent à l'indice 100 prévu par l'article 1er du décret n° 48-1108 du
+10 juillet 1948 et les textes subséquents, correspondant au taux d'invalidité.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - HISTO: 5 Avril 1977)
+
+	**Cite**:
+
+	  - Décret n°48-1108 du 10 juillet 1948 - art. 1 (V)
+
+	**Anciens textes**:
+
+	  - Décret n°63-1346 1963-12-24 ART. 4 AL. 1
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Cité par**:
+
+	  - Décret n°85-1148 du 24 octobre 1985 - art. 7 (M)
+
+	**Abrogé par**:
+
+	  - Décret n°2005-442 2005-05-02 art. 17 1° JORF 11 mai 2005
+
+
+###### Article R417-10
+
+Le taux d'invalidité rémunérable est déterminé compte tenu du barème indicatif prévu à l'article L. 28 du code des pensions
+civiles et militaires de retraite.
+
+Dans le cas d'aggravation d'infirmités préexistantes, le taux d'invalidité à prendre en considération est apprécié par
+rapport à la validité restante de l'agent.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - HISTO: 5 Avril 1977)
+
+	**Anciens textes**:
+
+	  - Décret n°63-1346 1963-12-24 ART. 4 AL. 2 MODIFIE et 3
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Abrogé par**:
+
+	  - Décret n°2005-442 2005-05-02 art. 17 1° JORF 11 mai 2005
+
+	**Cite**:
+
+	  - Code des pensions civiles et militaires de retrait - art. L28 (M)
+
+
+###### Article R417-11
+
+La réalité des infirmités invoquées par l'agent, leur imputabilité au service, les conséquences ainsi que le taux
+d'invalidité qu'elles entraînent sont appréciés par la commission départementale de réforme prévue par le régime des
+retraites des agents des collectivités locales.
+
+Le pouvoir de décision appartient, sous réserve de l'avis conforme de la caisse des dépôts et consignations, à l'autorité qui
+a qualité pour procéder à la nomination.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - HISTO: 5 Avril 1977)
+
+	**Cite**:
+
+	  - Décret n°47-1846 1947-09-19 MODIFIE
+	  - Décret n°65-773 1965-09-09 MODIFIE
+
+	**Anciens textes**:
+
+	  - Décret n°63-1346 1963-12-24 ART. 5
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Abrogé par**:
+
+	  - Décret n°2005-442 2005-05-02 art. 17 1° JORF 11 mai 2005
+
+	**Cité par**:
+
+	  - CODE DES COMMUNES. - art. R417-13 (Ab)
+	  - CODE DES COMMUNES. - art. R417-14 (Ab)
+	  - CODE DES COMMUNES. - art. R417-16 (M)
+
+
+###### Article R417-17
+
+Lorsque la radiation des cadres est prononcée, dans les conditions prévues à l'article 30 du décret n° 65-773 du 9 septembre
+1965 relatif au régime de retraite des tributaires de la caisse nationale de retraites des agents des collectivités locales,
+pour aggravation de l'invalidité qui a ouvert le droit à l'allocation temporaire, celle-ci est remplacée par la rente
+d'invalidité prévue à l'article 31 de ce décret.
+
+Le taux d'invalidité à prendre en considération pour le calcul de cette rente est apprécié au jour de la radiation des
+cadres.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°63-1346 1963-12-24 ART. 9 REMPLACE AL. 1
+
+	**Cite**:
+
+	  - Décret n°65-773 1965-09-09 ART. 30 et 31
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
+
+	**Abrogé par**:
+
+	  - Décret n°2005-442 2005-05-02 art. 17 1° JORF 11 mai 2005
+
+	**Cité par**:
+
+	  - CODE DES COMMUNES. - art. R417-16 (Ab)
+
+
+##### SECTION 4 : Pensions.
+
+###### Article R417-22
+
+L'organisation et le fonctionnement de la caisse nationale de retraites des agents des collectivités locales sont déterminés
+conformément aux dispositions du décret n° 47-1846 du 19 septembre 1947.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - SPEC_APPLI: *Dispositions applicables aux agents nommés dans des emplois permanents à temps non complet*
+	  - HISTO: 5 Avril 1977)
+	  - SPEC_APPLI: Code des communes R421-7 :
+
+	**Cite**:
+
+	  - Décret n°47-1846 1947-09-19 MODIFIE
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+
+###### Article R417-23
+
+Les agents soumis au présent titre et leurs ayants cause bénéficient des pensions de la caisse nationale de retraites des
+agents des collectivités locales conformément aux dispositions du décret n° 65-773 du 9 septembre 1965.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - SPEC_APPLI: *Dispositions applicables aux agents nommés dans des emplois permanents à temps non complet*
+	  - HISTO: 5 Avril 1977)
+	  - SPEC_APPLI: Code des communes R421-7 :
+
+	**Cite**:
+
+	  - Décret n°65-773 1965-09-09 MODIFIE
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+
+### TITRE 2 : Personnels divers
+
+#### CHAPITRE 1 : Agents nommés dans des emplois permanents à temps non complet
+
+##### SECTION 1 : Dispositions générales.
+
+###### Article R*421-7
+
+Sont applicables aux agents permanents à temps non complet les dispositions des articles R. 411-1, R. 411-3, R. 411-39, R.
+412-8, R. 412-12, R. 412-116 à R. 412-119, R. 415-1 à R. 415-5, R. 415-11, R. 417-1, R. 417-22 et R. 417-23.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Abrogé par**:
+
+	  - Décret n°91-298 1991-03-20 art. 45 jorf 22 mars 1991
+
+	**Cite**:
+
+	  - CODE DES COMMUNES. - art. R411-39 (Ab)
+	  - Code des communes R411-1 et R411-3
+
+	**Créé par**:
+
+	  - Décret n°77-378 1977-03-28 JORF et JONC 5 Avril 1977
+
+
+###### Article R421-1
+
+Les dispositions du présent chapitre s'appliquent aux agents titulaires des communes et des établissements publics communaux
+et intercommunaux qui occupent un ou plusieurs emplois permanents et dont la durée totale de service est inférieure à celle
+prévue par les dispositions législatives ou réglementaires en vigueur.
+
+Elles ne s'appliquent pas aux personnels placés sous le régime de droit commun des établissements communaux et
+intercommunaux, personnalisés ou non, qui présentent un caractère industriel ou commercial.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - HISTO: 5 Avril 1977)
+	  - TXT_ASSOCIE: CODE DES COMMUNES. - art. R421-2 (Ab)
+
+	**Anciens textes**:
+
+	  - Décret n°55-1542 1955-11-29 ART. 1 AL. 1 REMPLACE
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Abrogé par**:
+
+	  - Décret n°91-298 1991-03-20 art. 45 jorf 22 mars 1991
+
+	**Cite**:
+
+	  - Code des communes R421-2 à R421-27
+
+
+###### Article R421-2
+
+Ne sont pas considérées comme agents occupant des emplois   pour l'application du présent chapitre les personnes : 
+
+1° Qui assurent leur service sous le contrôle et pour le compte d'une autre administration ; 
+
+2° Qui sont liées par un contrat de droit commun ; 
+
+3° Qui ne reçoivent une indemnité de la commune que pour les services qu'elles lui rendent dans l'exercice de leur profession
+principale ; 
+
+4° Qui sont rémunérées par des indemnités pour un travail qui ne présente aucun caractère de régularité.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - HISTO: 5 Avril 1977)
+	  - TXT_ASSOCIE: CODE DES COMMUNES. - art. R421-1 (Ab)
+
+	**Anciens textes**:
+
+	  - Décret n°55-1542 1955-11-29 ART. 2
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Abrogé par**:
+
+	  - Décret n°91-298 1991-03-20 art. 45 jorf 22 mars 1991
+
+
+###### Article R421-3
+
+Les décisions prévues aux articles L. 421-4 (1), L. 421-7 et L. 421-10 (2) sont prises par arrêté du ministre de l'intérieur.
+
+**Nota:**
+
+(1) Arrêté ministériel du 8 février 1971, modifié par les arrêtés du 6 janvier 1972, du 23 juillet 1974 et du 20 juillet
+1977, fixant la liste des emplois communaux permanents à temps non complet (J. O. 20 février 1971,21 janvier 1972,7 août 1974
+et 4 août 1977). 
+
+(2) Arrêté ministériel du 8 février 1971 relatif aux conditions d'avancement des agents communaux à temps non complet (J. O.
+20 février 1971).
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - HISTO: 5 Avril 1977)
+	  - TXT_ASSOCIE: CODE DES COMMUNES. - art. L421-10 (Ab)
+
+	**Cite**:
+
+	  - CODE DES COMMUNES. - art. L421-4 (M)
+	  - Code des communes L421-4, L421-7 et L421-10
+
+	**Anciens textes**:
+
+	  - Code de l'administration communale 616 AL. 1 ET 6 (PARTIES)
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Abrogé par**:
+
+	  - Décret n°91-298 1991-03-20 art. 45 jorf 22 mars 1991
+
+
+###### Article R421-4
+
+Dans chaque commune, le conseil municipal [**]attributions[**] dresse la liste des emplois permanents à temps non complet.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - HISTO: 5 Avril 1977)
+	  - TXT_ASSOCIE: CODE DES COMMUNES. - art. R421-5 (Ab)
+
+	**Anciens textes**:
+
+	  - Décret n°55-1542 1955-11-29 ART. 3 (PARTIE) REMPLACE
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Abrogé par**:
+
+	  - Décret n°91-298 1991-03-20 art. 45 jorf 22 mars 1991
+
+	**Cité par**:
+
+	  - CODE DES COMMUNES. - art. R*411-13 (Ab)
+
+
+###### Article R421-5
+
+Le conseil d'administration, la commission administrative ou le comité de gestion, pour les établissements publics communaux
+ou intercommunaux [**]compétence[**] dresse la liste des emplois permanents à temps non complet, par une délibération soumise
+à approbation [*conditions de forme*].
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - HISTO: 5 Avril 1977)
+	  - TXT_ASSOCIE: CODE DES COMMUNES. - art. R421-4 (Ab)
+
+	**Anciens textes**:
+
+	  - Décret n°55-1542 1955-11-29 ART. 3 (PARTIE REMPLACE)
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Abrogé par**:
+
+	  - Décret n°91-298 1991-03-20 art. 45 jorf 22 mars 1991
+
+	**Cité par**:
+
+	  - CODE DES COMMUNES. - art. R*411-13 (Ab)
+
+
+###### Article R421-6
+
+Les délibérations du conseil municipal relatives à la rémunération des agents permanents à temps non complet, autres que ceux
+qui sont mentionnés aux articles L. 421-4 et L. 421-8 [*agents permanents à temps non complet occupant des emplois figurant
+sur la liste des emplois permanents à temps non complet*], sont approuvées par le préfet.
+
+Les délibérations [*des conseils municipaux fixant le nombre d'heures de service des agents à temps non complet*] prévues à
+l'article L. 421-9 sont approuvées dans les mêmes conditions [*de forme*].
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - HISTO: 5 Avril 1977)
+
+	**Anciens textes**:
+
+	  - Décret n°59-37 1959-01-05 ART. 8 MODIFIE
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Abrogé par**:
+
+	  - Décret n°91-298 1991-03-20 art. 45 jorf 22 mars 1991
+
+	**Cite**:
+
+	  - CODE DES COMMUNES. - art. L421-4 (M)
+	  - Code des communes L421-8 et L421-9
+
+	**Cité par**:
+
+	  - CODE DES COMMUNES. - art. R411-13 (M)
+
+
+##### SECTION 2 : Représentation aux commissions paritaires.
+
+###### Article R421-8
+
+Les agents titularisés dans un emploi permanent à temps non complet sont représentés au sein de la commission paritaire
+communale ou de la commission paritaire intercommunale selon que la commune dont ils relèvent n'est pas ou est affiliée au
+syndicat de communes pour le personnel communal.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - HISTO: 5 Avril 1977)
+
+	**Anciens textes**:
+
+	  - Décret n°66-855 1966-11-18 ART. 1
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Abrogé par**:
+
+	  - Décret n°91-298 1991-03-20 art. 45 jorf 22 mars 1991
+
+
+###### Article R421-9
+
+Les représentants des agents à la commission paritaire communale sont élus à la majorité par ces agents.
+
+Les électeurs sont, selon l'importance des effectifs et en vertu d'une délibération du conseil municipal, soit groupés en une
+seule catégorie, soit répartis en deux catégories. Dans ce dernier cas, la première comprend les membres du personnel
+administratif, la seconde, les autres agents.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - HISTO: 5 Avril 1977)
+
+	**Anciens textes**:
+
+	  - Décret n°66-855 1966-11-18 ART. 2 AL. 1
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Abrogé par**:
+
+	  - Décret n°91-298 1991-03-20 art. 45 jorf 22 mars 1991
+
+
+###### Article R421-10
+
+Les représentants du conseil municipal à la commission paritaire communale sont désignés en son sein par le maire, en nombre
+égal à celui des représentants du personnel.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - HISTO: 5 Avril 1977)
+
+	**Anciens textes**:
+
+	  - Décret n°66-855 1966-11-18 ART. 2 AL. 2
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Abrogé par**:
+
+	  - Décret n°91-298 1991-03-20 art. 45 jorf 22 mars 1991
+
+
+###### Article R421-11
+
+Les représentants des agents à la commission paritaire intercommunale sont élus au scrutin de liste avec représentation
+proportionnelle par ces agents, après répartition des électeurs en deux catégories : la première catégorie comprend les
+membres du personnel administratif, la seconde, les autres agents.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - HISTO: 5 Avril 1977)
+
+	**Anciens textes**:
+
+	  - Décret n°66-855 1966-11-18 ART. 3 AL. 1
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Abrogé par**:
+
+	  - Décret n°91-298 1991-03-20 art. 45 jorf 22 mars 1991
+
+
+###### Article R421-12
+
+Le comité du syndicat de communes pour le personnel communal désigne, pour siéger au sein de la commission paritaire
+intercommunale, des maires choisis, en nombre égal à celui des représentants du personnel, parmi les maires des communes
+affiliées au syndicat et occupant au moins un agent titularisé dans un emploi permanent à temps non complet.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - HISTO: 5 Avril 1977)
+
+	**Anciens textes**:
+
+	  - Décret n°66-855 1966-11-18 ART. 3 AL. 2
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Abrogé par**:
+
+	  - Décret n°91-298 1991-03-20 art. 45 jorf 22 mars 1991
+
+	**Cité par**:
+
+	  - CODE DES COMMUNES. - art. R421-17 (Ab)
+	  - CODE DES COMMUNES. - art. R421-19 (Ab)
+
+
+###### Article R421-13
+
+Un arrêté du ministre de l'intérieur, pris après avis de la commission nationale paritaire du personnel communal, fixe les
+modalités d'élection des représentants des agents soumis au présent chapitre aux commissions paritaires communales et
+intercommunales (1).
+
+NOTA : (1) Arrêté ministériel du 23 juin 1976 fixant les modalités de désignation des membres des commissions paritaires
+communales et des commissions paritaires intercommunales du personnel des communes et des établissements publics communaux
+(J.O. 17 août 1976).
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - HISTO: 5 Avril 1977)
+
+	**Anciens textes**:
+
+	  - Décret n°66-855 1966-11-18 ART. 4
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Abrogé par**:
+
+	  - Décret n°91-298 1991-03-20 art. 45 jorf 22 mars 1991
+
+
+##### SECTION 3 : Garanties disciplinaires.
+
+###### Article R421-14
+
+Les sanctions disciplinaires applicables aux agents soumis au présent chapitre sont celles   que prévoit l'article L. 414-18.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - HISTO: 5 Avril 1977)
+
+	**Anciens textes**:
+
+	  - Décret n°55-1542 1955-11-29 ART. 4 REMPLACE AL. 1 PHR. 1
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Abrogé par**:
+
+	  - Décret n°91-298 1991-03-20 art. 45 jorf 22 mars 1991
+
+	**Cite**:
+
+	  - CODE DES COMMUNES. - art. L414-18 (Ab)
+
+	**Cité par**:
+
+	  - Code de l'urbanisme - art. R*421-39 (M)
+
+
+###### Article R421-15
+
+Les sanctions prévues aux 8° et 9° de l'article L. 414-18 [*mise à la retraite d'office et révocation avec ou sans suspension
+des droits à pension*] ne sont applicables qu'aux agents qui sont affiliés à la caisse nationale de retraites des agents des
+collectivités locales ou qui sont tributaires d'autres régimes de retraites.
+
+Dans le cas où les agents intéressés ne sont pas tributaires d'un régime de retraites, la révocation pure et simple peut être
+prononcée à leur encontre après avis du conseil de discipline [**]conditions de forme[**].
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - HISTO: 5 Avril 1977)
+
+	**Anciens textes**:
+
+	  - Décret n°55-1542 1955-11-29 ART. 4 REMPLACE AL. 1 PHR. 2 et AL. 2
+
+	**Cite**:
+
+	  - Décret n°65-773 1965-09-09 MODIFIE
+	  - Code des communes L414-18 8° et 9°
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Abrogé par**:
+
+	  - Décret n°91-298 1991-03-20 art. 45 jorf 22 mars 1991
+
+
+###### Article R421-16
+
+Le conseil de discipline compétent à l'égard des agents employés par une commune est       celui qui a compétence à l'égard
+des agents qu'elle emploie à temps complet. 
+
+Lorsque l'agent en cause relève d'une commune qui n'emploie qu'un ou plusieurs agents à temps non complet, le conseil de
+discipline compétent est le conseil de discipline intercommunal.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - HISTO: 5 Avril 1977)
+
+	**Anciens textes**:
+
+	  - Décret n°55-1542 1955-11-29 ART. 5 REMPLACE
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Abrogé par**:
+
+	  - Décret n°91-298 1991-03-20 art. 45 jorf 22 mars 1991
+
+	**Cite**:
+
+	  - Code des communes R414-15 à R414-21
+
+
+###### Article R421-17
+
+Les représentants des maires au conseil de discipline intercommunal sont tirés au sort parmi les maires siégeant à la
+commission paritaire intercommunale, en application des dispositions de l'article R. 421-12.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - HISTO: 5 Avril 1977)
+
+	**Anciens textes**:
+
+	  - Décret n°55-1542 1955-11-29 ART. 6 REMPLACE
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Abrogé par**:
+
+	  - Décret n°91-298 1991-03-20 art. 45 jorf 22 mars 1991
+
+	**Cite**:
+
+	  - CODE DES COMMUNES. - art. R421-12 (Ab)
+
+
+###### Article R421-18
+
+Les représentants du personnel [*au conseil de discipline intercommunal ou communal*] sont tirés au sort parmi les membres de
+la commission paritaire communale ou intercommunale, selon les cas, représentant la catégorie d'agents à temps non complet à
+laquelle appartient l'agent en cause.
+
+Lorsque, dans une commission paritaire communale, il n'existe pas un nombre suffisant de délégués pour assurer la
+représentation de la catégorie à laquelle appartient l'agent en cause, il est fait appel par tirage au sort aux représentants
+des agents à temps complet de la même catégorie au sein de la commission paritaire.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - HISTO: 5 Avril 1977)
+
+	**Anciens textes**:
+
+	  - Décret n°55-1542 1955-11-29 ART. 7 REMPLACE
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Abrogé par**:
+
+	  - Décret n°91-298 1991-03-20 art. 45 jorf 22 mars 1991
+
+
+###### Article R421-19
+
+Lorsqu'un agent a saisi le conseil de discipline départemental, les représentants des maires à cet organisme sont tirés au
+sort par le président parmi les maires siégeant à la commission paritaire intercommunale en application des dispositions de
+l'article R. 421-12, parmi les membres du bureau du syndicat de communes pour le personnel communal et parmi les maires
+présidents des commissions paritaires communales.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - HISTO: 5 Avril 1977)
+
+	**Anciens textes**:
+
+	  - Décret n°55-1542 1955-11-29 ART. 8 REMPLACE
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Abrogé par**:
+
+	  - Décret n°91-298 1991-03-20 art. 45 jorf 22 mars 1991
+
+	**Cite**:
+
+	  - CODE DES COMMUNES. - art. R421-12 (Ab)
+
+
+###### Article R421-20
+
+Les délégués du personnel au conseil de discipline départemental sont tirés au sort parmi les représentants des agents soumis
+aux dispositions du présent chapitre [*emplois permanents à temps non complet*] aux commissions paritaires communales et
+intercommunales.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - HISTO: 5 Avril 1977)
+
+	**Anciens textes**:
+
+	  - Décret n°55-1542 1955-11-29 ART. 9 REMPLACE
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Abrogé par**:
+
+	  - Décret n°91-298 1991-03-20 art. 45 jorf 22 mars 1991
+
+
+###### Article R421-21
+
+L'agent qui fait preuve d'insuffisance professionnelle ne peut être licencié qu'après avis du conseil de discipline constitué
+dans les conditions prévues aux articles R. 421-16 à R. 421-19 suivant la procédure [*disciplinaire applicable aux agents
+nommés dans des emplois permanents à temps complet*] fixée à la section III du chapitre IV du titre Ier du présent livre.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - HISTO: 5 Avril 1977)
+
+	**Anciens textes**:
+
+	  - Décret n°55-1542 1955-11-29 ART. 10 REMPLACE
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Abrogé par**:
+
+	  - Décret n°91-298 1991-03-20 art. 45 jorf 22 mars 1991
+
+	**Cite**:
+
+	  - Code des communes R414-11 à R414-24
+
+
+###### Article R421-22
+
+Les frais de déplacement des membres du conseil de discipline intercommunal et du conseil de discipline départemental
+siégeant dans les conditions fixées aux articles précédents sont supportés par le syndicat de communes pour le personnel
+communal lorsque l'agent relève d'une commune affiliée à un syndicat.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - HISTO: 5 Avril 1977)
+
+	**Anciens textes**:
+
+	  - Décret n°55-1542 1955-11-29 ART. 11 REMPLACE
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Abrogé par**:
+
+	  - Décret n°91-298 1991-03-20 art. 45 jorf 22 mars 1991
+
+	**Cite**:
+
+	  - Code des communes R421-17 à R421-21
+
+
+###### Article R421-23
+
+Il n'est pas dérogé aux dispositions législatives ou réglementaires qui créent à l'égard de certaines catégories d'agents un
+régime disciplinaire spécial.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - HISTO: 5 Avril 1977)
+
+	**Anciens textes**:
+
+	  - Décret n°55-1542 1955-11-29 ART. 1 AL. 3
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Abrogé par**:
+
+	  - Décret n°91-298 1991-03-20 art. 45 jorf 22 mars 1991
+
+
+##### SECTION 4 : Congés.
+
+###### Article R421-24
+
+Les agents qui occupent des emplois dans plusieurs communes ou dans plusieurs établissements publics bénéficient, sur leur
+demande, de leur congé annuel à la même époque dans chacune des collectivités qui les emploient. 
+
+En cas de désaccord entre les maires intéressés, la période retenue est celle qui       est arrêtée par le maire de la
+commune à laquelle l'agent consacre la plus grande partie de son activité. 
+
+Dans le cas où la durée de son travail est la même dans plusieurs communes, le critère retenu est le chiffre de la
+population.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - HISTO: 5 Avril 1977)
+
+	**Anciens textes**:
+
+	  - Décret n°55-1542 1955-11-29 ART. 12 AL. 1
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Abrogé par**:
+
+	  - Décret n°91-298 1991-03-20 art. 45 jorf 22 mars 1991
+
+
+###### Article R421-25
+
+La période de congé attribuée aux agents dont les fonctions municipales ne sont que l'accessoire d'une autre fonction
+publique coïncide avec la période de congé qui est accordée au titre de l'activité principale.
+
+En particulier, la période de congé des secrétaires de mairie instituteurs coïncide avec une des périodes de vacances
+scolaires.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - HISTO: 5 Avril 1977)
+
+	**Anciens textes**:
+
+	  - Décret n°55-1542 1955-11-29 ART. 12 AL. 2
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Abrogé par**:
+
+	  - Décret n°91-298 1991-03-20 art. 45 jorf 22 mars 1991
+
+
+###### Article R421-26
+
+Lorsqu'un agent sollicite une autorisation [*spéciale*] d'absence [*qui n'entre pas en compte dans le calcul des congés
+annuels*] dans les conditions prévues à l'article L. 415-29, en vue d'un objet étranger à l'intérêt communal ou à l'emploi
+qu'il occupe dans la commune, sa rémunération peut être suspendue pendant la durée de l'autorisation dont il bénéficie.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - HISTO: 5 Avril 1977)
+
+	**Anciens textes**:
+
+	  - Décret n°55-1542 1955-11-29 ART. 13
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Abrogé par**:
+
+	  - Décret n°91-298 1991-03-20 art. 45 jorf 22 mars 1991
+
+	**Cite**:
+
+	  - CODE DES COMMUNES. - art. L415-29 (Ab)
+
+
+##### SECTION 5 : Régime particulier de retraite.
+
+###### Article R421-27
+
+Les agents qui ne relèvent pas de la caisse nationale de retraites des agents des collectivités locales bénéficient, à titre
+complémentaire du régime général ou du régime agricole des assurances sociales, du régime de retraite par répartition géré
+par l'Institution de retraite complémentaire des agents non titulaires de l'Etat et des collectivités publiques
+(I.R.C.A.N.T.E.C.) dans les conditions fixées par le décret n° 70-1277 du 23 décembre 1970 portant création d'un régime de
+retraites complémentaires des assurances sociales en faveur des agents de l'Etat et des collectivités publiques.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - HISTO: 5 Avril 1977)
+
+	**Cite**:
+
+	  - Décret n°70-1277 1970-12-23
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Abrogé par**:
+
+	  - Décret n°91-298 1991-03-20 art. 45 jorf 22 mars 1991
+
+
+#### CHAPITRE 2 : Agents non titulaires
+
+##### SECTION 1 : Dispositions générales.
+
+###### Article R*422-1
+
+Sont applicables aux agents non titulaires les dispositions de l'article R. 411-1.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-373 1977-03-28 JORF et JONC 5 avril 1977
+
+	**Cite**:
+
+	  - Code des communes R411-1
+
+
+##### SECTION 2 : Formation professionnelle continue.
+
+###### Article R*422-3
+
+Les agents non titulaires des communes et des établissements publics communaux et intercommunaux n'ayant pas le caractère
+industriel et commercial bénéficient de la formation professionnelle continue dans les conditions fixées par la présente
+section.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - HISTO: 5 Avril 1977)
+
+	**Anciens textes**:
+
+	  - Décret n°76-700 1976-07-13 ART. 1 AL. 1
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Cite**:
+
+	  - Code des communes R422-4 à R422-36
+
+
+###### Article R*422-4
+
+Les dispositions de la présente section ne sont pas applicables :
+
+Aux sapeurs-pompiers communaux ;
+
+Aux agents non titulaires des établissements mentionnés à l'article L. 792 du code de la santé publique, des offices publics
+d'habitation à loyer modéré et des caisses de crédit municipal ;
+
+Aux fonctionnaires de l'Etat et des établissements publics de l'Etat et aux agents titulaires des communes et des
+établissements publics communaux et intercommunaux n'ayant pas le caractère industriel et commercial, qui occupent, à la
+suite d'un détachement, un emploi d'agent contractuel ;
+
+Aux agents non titulaires de la ville de Paris.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - HISTO: 5 Avril 1977)
+
+	**Anciens textes**:
+
+	  - Décret n°76-700 1976-07-13 ART. 1 AL. 2 ET 3
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Cite**:
+
+	  - Code des communes R422-5 à R422-36
+	  - Code de la santé publique - art. L792 (M)
+
+
+##### SOUS-SECTION 1 : Actions de formation.
+
+###### Article R*422-5
+
+Les agents non titulaires peuvent participer, dans la limite des crédits ou éventuellement des emplois prévus à cet effet :
+
+Soit aux cycles de formation, stages et autres actions organisées à l'initiative des communes ou des établissements publics
+communaux ou intercommunaux n'ayant pas le caractère industriel et commercial en vue soit de permettre à des agents
+titulaires de maintenir ou de parfaire leur qualification professionnelle, soit d'assurer l'adaptation des agents à
+l'évolution des techniques ou des structures administratives ainsi qu'à l'évolution culturelle, économique et sociale et à la
+conversion découlant de ces évolutions ;
+
+Soit à des cycles de formation, des stages et autres actions ayant le même objet ;
+
+Soit à des cycles d'adaptation à un premier ou à un nouvel emploi, organisés par les communes ou les établissements publics
+communaux ou intercommunaux n'ayant pas le caractère industriel et commercial pour des agents non titulaires.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - HISTO: 5 Avril 1977)
+
+	**Anciens textes**:
+
+	  - Décret n°76-700 du 13 juillet 1976 - art. 2 (V)
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+
+###### Article R*422-6
+
+Les agents non titulaires qui suivent et ceux qui dispensent une formation à l'initiative des communes ou des établissements
+publics communaux ou intercommunaux n'ayant pas le caractère industriel et commercial bénéficient du maintien de leur
+traitement ainsi que, dans les conditions et selon les modalités fixées par arrêté du ministre de l'intérieur pris après avis
+du ministre de l'économie et des finances et de la commission nationale paritaire du personnel communal, du maintien de leurs
+indemnités.
+
+Les dépenses afférentes aux actions de formation professionnelle continue définies dans la présente sous-section qui ne sont
+pas assumées par le centre de formation des personnels communaux, soit directement, soit en vertu d'une convention conclue
+avec la collectivité locale ou l'établissement intéressé, restent à la charge de la collectivité locale ou de l'établissement
+intéressé.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - HISTO: 5 Avril 1977)
+
+	**Anciens textes**:
+
+	  - Décret n°76-700 du 13 juillet 1976 - art. 3 (V)
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+
+###### Article R*422-7
+
+Lorsqu'un agent non titulaire a été admis à participer à une action de formation définie à la présente sous-section, il est
+tenu de suivre l'ensemble des enseignements dispensés. Le temps de formation est considéré comme service effectif.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - HISTO: 5 Avril 1977)
+
+	**Anciens textes**:
+
+	  - Décret n°76-700 du 13 juillet 1976 - art. 4 (V)
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Cite**:
+
+	  - Code des communes R422-5, R422-6 ET R422-8
+
+
+###### Article R*422-8
+
+L'accès des agents contractuels aux cycles et stages définis à l'article R. 422-5 peut être subordonné, dans les conditions
+fixées par arrêté du ministre de l'intérieur, à l'engagement d'accomplir postérieurement au cycle ou stage, une période
+d'activité effective au service de la commune ou de l'établissement.
+
+En cas de rupture de l'engagement du fait de l'intéressé celui-ci rembourse sa quote-part des frais d'organisation du cycle
+ou stage et le montant de la rémunération qui lui a été versée pendant la période correspondante.
+
+Les dispositions du présent article ne sont applicables qu'à des cycles ou stages d'une durée supérieure à deux mois.
+L'engagement de servir dans la commune ou l'établissement ne peut excéder deux ans. Toutefois, la durée de l'engagement peut
+être augmentée et portée jusqu'à cinq années, pour certains stages d'une nature et d'un coût particuliers, par arrêté du
+ministre de l'intérieur.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - HISTO: 5 Avril 1977)
+
+	**Anciens textes**:
+
+	  - Décret n°76-700 du 13 juillet 1976 - art. 5 (V)
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Cite**:
+
+	  - Code des communes R422-5
+
+
+##### SOUS-SECTION 2 : Participation des agents non titulaires aux cycles ou stages pour la préparation à l'accès aux emplois.
+
+###### Article R*422-9
+
+Les agents non titulaires peuvent participer à des cycles ou stages organisés ou agréés par une commune ou un établissement
+public communal ou intercommunal n'ayant pas le caractère industriel et commercial dans les conditions fixées aux articles R.
+412-105 et R. 412-106 en vue de la préparation à des concours ou à des examens professionnels, lorsque les intéressés
+remplissent ou sont susceptibles de remplir à la fin du cycle ou du stage les conditions requises pour se présenter aux
+concours ou examens.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - HISTO: 5 Avril 1977)
+
+	**Anciens textes**:
+
+	  - Décret n°76-700 du 13 juillet 1976 - art. 6 (V)
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Cite**:
+
+	  - Code des communes R412-105 ET R412-106
+
+
+###### Article R*422-10
+
+Lorsque les cours sont donnés pendant les heures normalement consacrées au service, les agents intéressés sont déchargés
+d'une partie de leurs obligations afin de leur permettre de suivre ces cours ou de les dispenser.
+
+L'autorisation est donnée, selon les modalités définies par le maire ou par le président de l'établissement public compétent,
+dans la mesure où elle est compatible avec le bon fonctionnement du service.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - HISTO: 5 Avril 1977)
+
+	**Anciens textes**:
+
+	  - Décret n°76-700 1976-07-13 ART. 7 I et II
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+
+###### Article R*422-11
+
+Dans le cas où un agent non titulaire, désireux de bénéficier d'autorisations d'absence pour suivre pendant son temps de
+service une action de préparation à un concours administratif ou à un examen professionnel donné, se voit opposer deux fois
+de suite un refus, dans le cadre du même service, il peut formuler un recours gracieux auprès du maire ou du président de
+l'établissement public, qui statue après avoir recueilli l'avis de la commission paritaire compétente, s'il en existe, ou, à
+défaut, de la commission paritaire compétente pour les agents titulaires de la même catégorie.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - HISTO: 5 Avril 1977)
+
+	**Anciens textes**:
+
+	  - Décret n°76-700 1976-07-13 ART. 7 III
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+
+###### Article R*422-12
+
+L'agent non titulaire qui est appelé à suivre des cours ou à les dispenser est rémunéré par application des textes en vigueur
+dont les dispositions sont éventuellement précisées par arrêté du ministre de l'intérieur pris après avis du ministère de
+l'économie et des finances et de la commission nationale paritaire du personnel communal.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - HISTO: 5 Avril 1977)
+
+	**Anciens textes**:
+
+	  - Décret n°76-700 1976-07-13 ART. 7 IV
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+
+###### Article R*422-13
+
+Les dispositions de l'article R. 422-7 sont applicables aux agents non titulaires qui participent aux cycles ou stages
+définis à la présente sous-section.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - HISTO: 5 Avril 1977)
+
+	**Anciens textes**:
+
+	  - Décret n°76-700 1976-07-13 ART. 7 V
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Cite**:
+
+	  - Code des communes R422-7
+
+
+###### Article R*422-14
+
+Sauf dispositions réglementaires contraires, l'agent non titulaire qui a déjà bénéficié d'autorisations d'absence pour suivre
+pendant son temps de service une action de préparation à un concours administratif ou à un examen professionnel pour l'accès
+aux emplois des communes ou des établissements publics communaux ou intercommunaux n'ayant pas le caractère industriel et
+commercial ne peut prétendre au bénéfice d'un autre cycle pédagogique de même nature avant l'expiration d'un délai de douze
+mois à compter de la fin de la session de formation.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°76-700 du 13 juillet 1976 - art. 8 (V)
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
+
+
+##### SOUS-SECTION 3 : Actions de formation choisies par les agents non titulaires en vue de leur formation personnelle.
+
+###### Article R*422-15
+
+Les agents non titulaires à temps plein qui comptent plus de trois ans de services effectifs et continus dans
+l'administration communale et désirent suivre, en vue de leur formation personnelle, une des actions de formation ayant reçu
+l'agrément du ministre de l'intérieur ont droit à un congé sur demande adressée au maire ou au président de l'établissement.
+
+Cependant, peuvent être prises en compte les interruptions de service dont la durée totale n'excède pas deux mois au cours de
+la période considérée.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°76-700 1976-07-13 ART. 9 I
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
+
+
+###### Article R*422-16
+
+Dans chaque commune ou établissement public, la satisfaction de certaines demandes est différée lorsque le nombre d'heures de
+congé, accordées en application de la présente sous-section, dépasse 1 p. 100 du nombre total des heures de travail
+effectuées dans l'année précédente par l'ensemble des agents non titulaires de la commune ou de l'établissement.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°76-700 1976-07-13 ART. 9 II
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
+
+	**Cite**:
+
+	  - Code des communes R422-15 et R422-17 à R422-32
+
+
+###### Article R*422-17
+
+Le congé correspond à la durée du stage, sans pouvoir excéder trois mois lorsqu'il s'agit d'un stage continu à temps plein ou
+trois cents heures lorsqu'il s'agit de stages constituant un cycle pédagogique comportant des enseignements discontinus ou à
+temps partiel.
+
+Le stage peut toutefois excéder trois mois ou trois cents heures lorsqu'il s'agit d'un stage ayant fait l'objet d'un agrément
+spécial.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°76-700 1976-07-13 ART. 9 III
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
+
+
+###### Article R*422-18
+
+L'agrément prévu à l'article R. 422-15 et l'agrément spécial prévu à l'article précédent sont accordés par arrêté du ministre
+de l'intérieur après avis de la commission nationale paritaire du personnel communal.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°76-700 1976-07-13 ART. 9 IV
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
+
+
+###### Article R*422-19
+
+Les agents non titulaires bénéficiaires du congé défini à l'article R. 422-17 perçoivent une rémunération égale à 75 p. 100
+de leur traitement brut soumis à retenue pour cotisation de sécurité sociale et augmenté de l'indemnité de résidence.
+
+La période de stage pendant laquelle les agents perçoivent cette rémunération ne peut excéder un jour ouvrable par deux mois
+de présence effective dans l'administration communale au-delà des trois premières années.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°76-700 du 13 juillet 1976 - art. 10 (V)
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
+
+	**Cite**:
+
+	  - Code des communes R422-17
+
+
+###### Article R*422-20
+
+Lorsque les dispositions des articles R. 422-15 à R. 422-17 ne permettent pas de satisfaire toutes les demandes, la priorité
+est accordée dans l'ordre :
+
+Aux demandes présentées et qui ont déjà été différées ;
+
+Aux demandes qui sont formulées par les agents ayant le plus d'ancienneté dans l'administration communale.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°76-700 1976-07-13 ART. 11 I
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
+
+	**Cite**:
+
+	  - Code des communes R422-15 à R422-17
+
+
+###### Article R*422-21
+
+L'agent non titulaire qui a bénéficié d'une action ou d'un congé de formation prévu aux sous-sections I, II et III de la
+présente section, ne peut prétendre au bénéfice d'un nouveau congé de formation avant l'expiration d'un délai qui est exprimé
+en mois et dont la durée est égale au huitième de la durée, exprimée en heures, de l'action précédemment suivie.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°76-700 1976-07-13 ART. 11 II
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
+
+	**Cite**:
+
+	  - Code des communes R422-5 à R422-32
+
+
+###### Article R*422-22
+
+Le nombre d'heures de congé auxquelles ont droit les agents au titre des articles R. 422-15 à R. 422-17 peut être reporté
+d'une année à l'autre à la demande des intéressés.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°76-700 1976-07-13 ART. 11 III
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
+
+	**Cite**:
+
+	  - Code des communes R422-15 à R422-17
+
+
+###### Article R*422-23
+
+Le congé total peut être utilisé en une ou plusieurs fois pour suivre des stages, continus ou discontinus, à temps plein ou à
+temps partiel.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°76-700 1976-07-13 ART. 11 IV
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
+
+
+###### Article R*422-24
+
+L'agent non titulaire bénéficiaire du congé de formation remet, à la fin de chaque mois et au moment de la reprise du
+travail, au maire ou au président de l'établissement public une attestation de fréquentation effective du stage.
+
+La non-fréquentation du stage sans motif valable entraîne la suppression du congé de formation accordé à l'intéressé et le
+remboursement des rémunérations perçues.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°76-700 du 13 juillet 1976 - art. 12 (V)
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
+
+
+###### Article R*422-25
+
+Les agents non titulaires qui exercent à temps plein des fonctions dans une commune ou dans un établissement public communal
+ou intercommunal n'ayant pas le caractère industriel et commercial ont droit, pendant les premières années de présence dans
+l'administration communale et jusqu'à ce qu'ils atteignent l'âge de vingt ans révolus, à un congé pour suivre une action de
+formation ayant reçu l'agrément du ministre de l'intérieur.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°76-700 1976-07-13 ART. 13 I PHR. 1
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code des communes R422-28
+
+
+###### Article R*422-26
+
+La demande de congé prévu à l'article précédent est formulée au plus tard trente jours à l'avance.
+
+Elle indique avec précision la date d'ouverture de l'action de formation, la désignation et la durée de celle-ci ainsi que le
+nom de l'organisme qui en est responsable.
+
+Dans les dix jours suivant la réception de la demande, le maire ou le président de l'établissement public communal fait
+connaître à l'agent soit son accord, soit les raisons qui motivent le rejet ou le report de la demande.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°76-700 1976-07-13 ART. 13 IV (PARTIE)
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
+
+	**Cite**:
+
+	  - Code des communes R422-25
+
+
+###### Article R*422-27
+
+Le droit à congé prévu à l'article R. 422-25 est ouvert aux agents intéressés lorsqu'ils ont accompli six mois de services
+effectifs dans l'administration communale.
+
+Ce congé est assimilé à une période de service effectif.
+
+La durée du congé, qui ne peut excéder cent heures par an, ne peut être imputée sur la durée du congé payé annuel.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°76-700 1976-07-13 ART. 13 I PHR. 2, II et III
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
+
+	**Cite**:
+
+	  - Code des communes R422-25
+
+
+###### Article R*422-28
+
+Les articles R. 422-20, R. 422-22 et R. 422-23 sont applicables aux agents mentionnés à l'article R. 422-25.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°76-700 1976-07-13 ART. 13 IV (PARTIE)
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
+
+	**Cite**:
+
+	  - Code des communes R422-20, R422-22, R422-23 et R422-25
+
+
+###### Article R*422-29
+
+La durée pendant laquelle le congé peut être différé par le maire ou le président de l'établissement public communal en
+raison des nécessités du service ne peut excéder trois mois.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°76-700 1976-07-13 ART. 13 IV (PARTIE)
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
+
+
+###### Article R*422-30
+
+Le report de congé résultant de l'article R. 422-22 et de l'article précédent n'entraîne pas suppression du droit à congé
+pour les agents mentionnés à l'article R. 422-25 qui atteindraient l'âge de vingt ans ou trois ans de présence dans
+l'administration communale après le dépôt de leur demande. Ils conservent au-delà de l'âge de vingt ans ou après plus de
+trois années de présence au service de la commune ou de l'établissement public le droit de prendre le congé défini à
+l'article R. 422-25, sans préjudice de l'application éventuelle des articles R. 422-15 à R. 422-18.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°76-700 1976-07-13 ART. 13 V (PARTIE)
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
+
+	**Cite**:
+
+	  - Code des communes R422-22, R422-25 et R422-29
+
+
+###### Article R*422-31
+
+Les agents perçoivent leur rémunération pendant la durée de leur congé.
+
+Cette rémunération est à la charge de la commune ou de l'établissement public dont relève l'intéressé.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°76-700 1976-07-13 ART. 13 VI
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
+
+
+###### Article R*422-32
+
+Le bénéficiaire d'un congé accordé en application de l'article R. 422-25 remet, à la fin de chaque mois et au moment de la
+reprise du travail, à l'autorité dont il relève une attestation de fréquentation effective du stage.
+
+La non-fréquentation du stage sans motif valable entraîne la suppression du congé et le remboursement des rémunérations
+perçues.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°76-700 1976-07-13 ART. 13 VII
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
+
+	**Cite**:
+
+	  - Code des communes R422-25
+
+
+##### SOUS-SECTION 4 : Participation des agents non titulaires à temps plein aux stages de conversion ou de promotion professionnelle .
+
+###### Article R*422-33
+
+Les agents non titulaires à temps plein qui, après leur départ de l'administration, s'inscrivent à l'un des stages de
+conversion ou de promotion professionnelle mentionnée à l'article L. 940-2 du livre IX du code du travail peuvent bénéficier
+des aides financières accordées par l'Etat aux stagiaires de formation professionnelle en application du titre VI du même
+livre.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°76-700 du 13 juillet 1976 - art. 14 (V)
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
+
+	**Cite**:
+
+	  - Code du travail L940-2 et TITRE VI
+
+
+###### Article R*422-34
+
+Les agents non titulaires à temps plein qui comptent au moins trois années de services effectifs et continus dans
+l'administration communale et auxquels une décision de licenciement a été notifiée sont de droit mis en congé, sauf si cette
+décision constitue une sanction disciplinaire ou a pour motif l'insuffisance professionnelle, lorsqu'ils s'inscrivent, entre
+la date du préavis et celle du licenciement, à un stage de conversion ou de promotion professionnelle agréé par l'Etat dans
+les conditions fixées à l'article L. 960-2 du Livre IX du code du travail.
+
+Sont prises en compte au titre des services effectifs continus les interruptions de service régulières et dont le total
+n'excède pas deux mois au cours de la période considérée.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°76-700 1976-07-13 ART. 15 AL. 1 et 2
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
+
+	**Cite**:
+
+	  - Code du travail - art. L940-2 (M)
+	  - Code du travail - art. L960-2 (M)
+
+
+###### Article R*422-35
+
+Pendant la période de stage prévue au premier alinéa de l'article précédent, les agents intéressés continuent à percevoir
+leur rémunération.
+
+Lorsque le stage se poursuit après la date de licenciement, l'intéressé bénéficie jusqu'à la fin du stage des aides
+financières calculées dans les conditions prévues au titre VI du livre IX du code du travail.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°76-700 1976-07-13 ART. 15 AL. 3
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
+
+	**Cite**:
+
+	  - Code des communes R422-34 AL. 1
+	  - Code du travail L960-1 à L960-18
+
+
+###### Article R*422-36
+
+La perception d'une rémunération dans les conditions fixées à l'article précédent ne fait pas obstacle au versement de
+l'indemnité de licenciement prévue à l'article L. 122-11 du livre Ier du code du travail.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°76-700 du 13 juillet 1976 - art. 16 (V)
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
+
+	**Cite**:
+
+	  - Code des communes R422-35
+	  - Code du travail - art. L122-11 (Ab)
+
+
+##### SECTION 4 : Régime particulier de retraite.
+
+###### Article R422-41
+
+Les agents non titulaires des communes et de leurs établissements publics bénéficient, à titre complémentaire du régime
+général ou du régime agricole des assurances sociales, du régime de retraite par répartition géré par l'institution de
+retraite complémentaire des agents non titulaires de l'Etat et des collectivités publiques (I.R.C.A.N.T.E.C.) dans les
+conditions fixées par le décret n° 70-1277 du 23 décembre 1970 portant création d'un régime de retraites complémentaires des
+assurances sociales en faveur des agents de l'Etat et des collectivités publiques.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - SPEC_APPLI: *Dispositions non applicables aux communes du département de Saint-Pierre-et-Miquelon*
+	  - SPEC_APPLI: Code des communes R442-2 :
+
+	**Cite**:
+
+	  - Circulaire  1976-07-29 MODIFIEE
+	  - Décret n°70-1277 1970-12-23 MODIFIE
+	  - Décret n°73-433 1973-03-27
+	  - Décret n°76-12 1976-01-06
+	  - Décret n°76-695 1976-07-21 (régime de protection sociale des agents non titulaires de l'Etat)
+	  - Décret n°77-1264 1977-11-17 (protection sociale des membres des professions médicales et paramédicales employés par les communes)
+	  - Décret n°78-44 1978-01-16
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
+
+
+#### CHAPITRE 3 : Indemnités accordées sur les budgets communaux aux fonctionnaires de l'Etat.
+
+###### Article R*423-1
+
+Les dérogations prévues à l'article L. 423-1 font l'objet d'un arrêté signé du ministre de l'intérieur et du ministre de
+l'économie et des finances, sur la proposition du ministre dont relèvent les fonctionnaires ou agents de l'Etat intéressés.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Circulaire 30 1981-04-02 intérieur
+
+	**Anciens textes**:
+
+	  - Décret n°72-513 1972-06-22 ART. 1 AL. 1
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
+
+	**Abrogé par**:
+
+	  - Décret n°2014-551 du 27 mai 2014 - art. 5
+
+	**Cite**:
+
+	  - Code des communes - art. L423-1
+
+
+###### Article R*423-2
+
+Lorsqu'il n'a pas été statué par arrêté interministériel de caractère général et que le montant des indemnités ou avantages
+n'excède pas 3.600 F par an, ces dérogations peuvent faire l'objet d'un arrêté individuel du préfet, sur la proposition du
+chef de service de l'intéressé et l'avis favorable du trésorier-payeur général du département.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°72-513 1972-06-22 ART. 1 AL. 2 MODIFIE
+
+	**Créé par**:
+
+	  - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
+
+	**Codifié par**:
+
+	  - Décret n°77-373 du 28 mars 1977
+
+	**Abrogé par**:
+
+	  - Décret n°2014-551 du 27 mai 2014 - art. 5
+
+	**Cite**:
+
+	  - Code des communes
+
+
+###### Article R*423-3
+
+Ne peuvent donner lieu à dérogation, en application de l'article R. 423-1, que les indemnités ou avantages correspondant à
+des travaux ou déplacements que la collectivité supportant la dépense n'est pas en mesure de faire exécuter par ses propres
+agents et qui n'entrent pas dans les attributions réglementaires des services de l'Etat.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°72-513 du 22 juin 1972 - art. 2 (V)
+
+	**Créé par**:
+
+	  - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
+
+	**Codifié par**:
+
+	  - Décret n°77-373 du 28 mars 1977
+
+	**Abrogé par**:
+
+	  - Décret n°2014-551 du 27 mai 2014 - art. 5
+
+	**Cite**:
+
+	  - Code des communes
+
+
+### TITRE 3 : Dispositions applicables en cas de fusion de communes ou de création de communauté urbaine
+
+#### CHAPITRE 2 : Création de communauté urbaine
+
+##### SECTION 1 : Mise à la disposition de la communauté urbaine de personnels communaux.
+
+###### Article R*432-1
+
+Pour préparer la mise en place des services de la communauté urbaine, le président du conseil de communauté peut, dès son
+élection et en accord avec les maires intéressés, se faire assister par des agents des cadres supérieurs administratifs et
+techniques des communes membres.
+
+Les tâches accomplies par ces personnels en dehors des heures de service donnent lieu à une rémunération particulière.
+
+Cette rémunération est versée à l'agent intéressé par la commune à laquelle il appartient, à titre d'avance à la communauté.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - SPEC_APPLI: *Dispositions non applicables aux communes des départements de la Guadeloupe, de la Guyane, de la Martinique, de la Réunion et de Saint-Pierre-et-Miquelon*
+	  - SPEC_APPLI: CODE DES COMMUNES. - art. R442-1 (V)
+	  - SPEC_APPLI: Code des communes R442-1, R442-2 :
+
+	**Anciens textes**:
+
+	  - Décret n°67-875 1967-10-06 ART. 1
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
+
+
+###### Article R*432-2
+
+Les maires des communes et les présidents des syndicats de communes et des districts dont les services sont transférés en
+entier ou en partie à la communauté urbaine mettent à sa disposition les personnels qui y exercent leurs fonctions aux dates
+auxquelles prend effet le transfert des compétences.
+
+Cette mise à la disposition peut être partielle lorsque l'activité d'un agent concerne pour partie une compétence transférée,
+pour partie une compétence qui demeure communale.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - SPEC_APPLI: *Dispositions non applicables aux communes des départements de la Guadeloupe, de la Guyane, de la Martinique, de la Réunion et de Saint-Pierre-et-Miquelon*
+	  - SPEC_APPLI: CODE DES COMMUNES. - art. R442-1 (V)
+	  - SPEC_APPLI: Code des communes R442-1, R442-2 :
+
+	**Anciens textes**:
+
+	  - Décret n°67-875 1967-10-06 ART. 2 AL. 1 et 2
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
+
+
+###### Article R*432-3
+
+Le président de la communauté, le maire ou le président de syndicat ou de district intéressés peuvent, le cas échéant, saisir
+la commission spéciale instituée par l'article L. 432-7, qui donne son avis dans le délai d'un mois.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - SPEC_APPLI: *Dispositions non applicables aux communes des départements de la Guadeloupe, de la Guyane, de la Martinique, de la Réunion et de Saint-Pierre-et-Miquelon*
+	  - SPEC_APPLI: CODE DES COMMUNES. - art. R442-1 (V)
+	  - SPEC_APPLI: Code des communes R442-1, R442-2 :
+
+	**Anciens textes**:
+
+	  - Décret n°67-875 1967-10-06 ART. 2 AL. 3
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
+
+	**Cite**:
+
+	  - CODE DES COMMUNES. - art. L432-7 (V)
+
+
+##### SECTION 2 : Transfert définitif des personnels.
+
+###### Article R*432-4
+
+Dans le délai maximum d'un mois suivant la date à laquelle prend effet le transfert d'une compétence, le conseil de
+communauté fixe, dans les conditions prévues par les articles L. 411-1 et L. 411-3, la liste des emplois permanents de la
+communauté nécessaires à l'exercice de cette compétence.
+
+Le président du conseil de communauté notifie sans délai cette liste au président de la commission spéciale instituée par
+l'article L. 432-7. Il lui communique également la liste nominative des agents communaux qui, mis à la disposition de la
+communauté urbaine, exercent provisoirement les fonctions correspondantes.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - SPEC_APPLI: *Dispositions non applicables aux communes des départements de la Guadeloupe, de la Guyane, de la Martinique, de la Réunion et de Saint-Pierre-et-Miquelon*
+	  - SPEC_APPLI: CODE DES COMMUNES. - art. R442-1 (V)
+	  - SPEC_APPLI: Code des communes R442-1, R442-2 :
+
+	**Anciens textes**:
+
+	  - Décret n°67-875 1967-10-06 ART. 3
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
+
+	**Cite**:
+
+	  - CODE DES COMMUNES. - art. L411-1 (Ab)
+	  - Code des communes L411-1, L411-3 et L432-7
+
+
+###### Article R*432-5
+
+Pour chaque emploi de la communauté urbaine, le président du conseil de communauté fait appel aux candidatures des agents des
+communes membres et des agents des syndicats de communes et des districts dont une partie des services est transférée à la
+communauté.
+
+Les candidatures sont déposées dans un délai d'un mois.
+
+A l'expiration de ce délai, le président du conseil de communauté communique la liste des candidats au président de la
+commission spéciale.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - SPEC_APPLI: *Dispositions non applicables aux communes des départements de la Guadeloupe, de la Guyane, de la Martinique, de la Réunion et de Saint-Pierre-et-Miquelon*
+	  - SPEC_APPLI: CODE DES COMMUNES. - art. R442-1 (V)
+	  - SPEC_APPLI: Code des communes R442-1, R442-2 :
+
+	**Anciens textes**:
+
+	  - Décret n°67-875 1967-10-06 ART. 4
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
+
+
+###### Article R*432-6
+
+Le président de la commission spéciale transmet sans délai aux présidents des différentes commissions paritaires communales
+et intercommunales la liste des personnels mentionnés aux deux articles précédents qui relèvent de la compétence de chaque
+commission.
+
+Chaque commission paritaire communale ou intercommunale émet un avis sur le transfert définitif à la communauté urbaine de
+chacun des agents.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - SPEC_APPLI: *Dispositions non applicables aux communes des départements de la Guadeloupe, de la Guyane, de la Martinique, de la Réunion et de Saint-Pierre-et-Miquelon*
+	  - SPEC_APPLI: CODE DES COMMUNES. - art. R442-1 (V)
+	  - SPEC_APPLI: Code des communes R442-1, R442-2 :
+
+	**Anciens textes**:
+
+	  - Décret n°67-875 1967-10-06 ART. 5
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
+
+
+###### Article R*432-7
+
+La commission spéciale, après examen des avis émis par les commissions paritaires communales et intercommunales, dresse, pour
+chaque emploi de la communauté urbaine, la liste alphabétique de tous les agents réunissant les qualifications exigées par le
+statut général du personnel communal pour être nommés à ces emplois et donne son avis sur chacun d'eux.
+
+La commission spéciale examine également le dossier des agents auxiliaires candidats qui ont été mis à la disposition de la
+communauté et les inscrit éventuellement dans les mêmes conditions sur la liste alphabétique.
+
+Lorsque ces listes sont établies, le président de la commission spéciale les communique au président du conseil de communauté
+avec les avis émis par la commission spéciale et par les commissions paritaires communales et intercommunales.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - SPEC_APPLI: *Dispositions non applicables aux communes des départements de la Guadeloupe, de la Guyane, de la Martinique, de la Réunion et de Saint-Pierre-et-Miquelon*
+	  - SPEC_APPLI: CODE DES COMMUNES. - art. R442-1 (V)
+	  - SPEC_APPLI: Code des communes R442-1, R442-2 :
+
+	**Anciens textes**:
+
+	  - Décret n°67-875 1967-10-06 ART. 6
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
+
+
+###### Article R*432-8
+
+Le président du conseil de communauté choisit parmi les agents figurant sur les listes prévues à l'article précédent ceux
+qu'il entend nommer aux emplois de la communauté urbaine.
+
+Il procède à cette nomination après accord du maire de la commune d'origine de l'agent ou du président du syndicat ou du
+district d'origine, lorsque ce dernier n'est pas dissous de plein droit en application des dispositions de l'article L.
+165-18.
+
+Lorsque le maire ou le président du syndicat ou du district refuse de donner son accord, le président du conseil de
+communauté nomme l'agent à l'expiration d'un délai de préavis qu'il notifie au maire ou au président du syndicat ou du
+district intéressé. Ce délai est d'un mois pour les agents qui étaient déjà mis à la disposition de la communauté dans les
+conditions prévues au premier alinéa de l'article R. 423-7 ; il est de trois mois pour les autres agents.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - SPEC_APPLI: *Dispositions non applicables aux communes des départements de la Guadeloupe, de la Guyane, de la Martinique, de la Réunion et de Saint-Pierre-et-Miquelon*
+	  - SPEC_APPLI: CODE DES COMMUNES. - art. R442-1 (V)
+	  - SPEC_APPLI: Code des communes R442-1, R442-2 :
+
+	**Anciens textes**:
+
+	  - Décret n°67-875 1967-10-06 ART. 7
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
+
+	**Cite**:
+
+	  - CODE DES COMMUNES. - art. L165-18 (M)
+	  - Code des communes R432-7
+
+
+###### Article R*432-9
+
+Le président du conseil de communauté peut recruter, dans les conditions prévues par le présent livre, des personnels autres
+que ceux qui figurent sur les listes établies par la commission spéciale seulement lorsqu'il demeure des emplois vacants
+après épuisement des listes correspondantes.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - SPEC_APPLI: *Dispositions non applicables aux communes des départements de la Guadeloupe, de la Guyane, de la Martinique, de la Réunion et de Saint-Pierre-et-Miquelon*
+	  - SPEC_APPLI: CODE DES COMMUNES. - art. R442-1 (V)
+	  - SPEC_APPLI: Code des communes R442-1, R442-2 :
+
+	**Anciens textes**:
+
+	  - Décret n°67-875 1967-10-06 ART. 8
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
+
+	**Cite**:
+
+	  - Code des communes R411-1 à R444-186
+
+
+### TITRE 4 : Dispositions particulières
+
+#### CHAPITRE 1 : Dispositions applicables aux communes des départements de la Moselle, du Bas-Rhin et du Haut-Rhin.
+
+###### Article R441-1
+
+Les dispositions du présent livre sont applicables dans les départements de la Moselle, du Bas-Rhin et du Haut-Rhin, à
+l'exception des articles R. 412-117 et R. 412-118.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
+
+	**Anciens textes**:
+
+	  - Décret n°85-317 du 8 mars 1985 - art. 1 (Ab)
+
+	**Abrogé par**:
+
+	  - Décret n°2013-1113 du 4 décembre 2013 - art. 9
+
+	**Cite**:
+
+	  - Code des communes
+
+
+#### CHAPITRE 2 : Dispositions applicables aux communes des départements d'Outre-mer
+
+##### SECTION 1 : Dispositions applicables aux communes des départements de la Guadeloupe, de la Guyane, de la Martinique et de la Réunion .
+
+###### Article R442-1
+
+Les dispositions des titres Ier et II du présent livre sont applicables dans les départements de la Guadeloupe, de la Guyane,
+de la Martinique et de la Réunion, à l'exception des articles R. 422-37 à R. 422-40.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
+
+	**Cité par**:
+
+	  - Décret n°78-1173 du 22 novembre 1978 - art. 5 (V)
+
+	**Liens**:
+
+	  - SPEC_APPLI: CODE DES COMMUNES. - art. R*422-37 (Ab)
+	  - SPEC_APPLI: CODE DES COMMUNES. - art. R*422-38 (Ab)
+	  - SPEC_APPLI: CODE DES COMMUNES. - art. R*422-39 (Ab)
+	  - SPEC_APPLI: CODE DES COMMUNES. - art. R*422-40 (Ab)
+	  - SPEC_APPLI: CODE DES COMMUNES. - art. R*432-1 (V)
+	  - SPEC_APPLI: CODE DES COMMUNES. - art. R*432-2 (V)
+	  - SPEC_APPLI: CODE DES COMMUNES. - art. R*432-3 (V)
+	  - SPEC_APPLI: CODE DES COMMUNES. - art. R*432-4 (V)
+	  - SPEC_APPLI: CODE DES COMMUNES. - art. R*432-5 (V)
+	  - SPEC_APPLI: CODE DES COMMUNES. - art. R*432-6 (V)
+	  - SPEC_APPLI: CODE DES COMMUNES. - art. R*432-7 (V)
+	  - SPEC_APPLI: CODE DES COMMUNES. - art. R*432-8 (V)
+	  - SPEC_APPLI: CODE DES COMMUNES. - art. R*432-9 (V)
+
+	**Cite**:
+
+	  - Code des communes R421-1 à R422-36
+
+
+#### CHAPITRE 3 : Dispositions applicables aux communes des départements de la région d'Ile-de-France.
+
+###### Article R443-1
+
+Les dispositions des titres Ier à III [*agents nommés dans des emplois permanents à temps complet ou non complet, agents non
+titulaires, indemnités accordées sur les budgets communaux aux fonctionnaires de l'Etat, dispositions applicables en cas de
+fusion de communes ou de création de communautés urbaines*] du présent livre sont applicables aux communes des départements
+de la région d'Ile-de-France sous réserve des dispositions ci-après.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
+
+	**Abrogé par**:
+
+	  - Décret n°85-643 1985-06-26 art. 118 jorf 28 juin 1985
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°85-643 du 26 juin 1985 - art. 118 (M)
+
+	**Cite**:
+
+	  - Code des communes R443-2 et R443-3
+
+
+###### Article R443-2
+
+Par dérogation aux articles R. 411-11, R. 411-12 et R. 411-19 à R. 411-22, le comité d'administration du syndicat de communes
+pour le personnel communal prévu à l'article L. 443-2 comprend [*composition*] le maire de chaque commune, un second délégué
+lorsque la commune compte de deux cents à quatre cents emplois permanents à temps complet et un troisième délégué lorsqu'elle
+compte plus de quatre cents de ces emplois [*nombre, proportion*].
+
+La même règle est appliquée pour la représentation des établissements publics intercommunaux.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°66-857 1966-11-18 ART. 16
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
+
+	**Abrogé par**:
+
+	  - Décret n°85-643 1985-06-26 art. 118 jorf 28 juin 1985
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°85-643 du 26 juin 1985 - art. 118 (M)
+
+	**Cite**:
+
+	  - CODE DES COMMUNES. - art. L443-2 (Ab)
+	  - Code des communes R411-11 et R411-12, R411-19 à R411-22
+
+
+###### Article R443-3
+
+Les communes des départements de l'Essonne, des Yvelines et du Val-d'Oise sont affiliées au syndicat de communes pour le
+personnel communal prévu à l'article L. 443-3 lorsqu'elles réunissent les conditions prévues à l'article R. 411-11 [*si elles
+occupent moins de cent agents titulaires dans un emploi permanent à temps complet, ou un ou plusieurs agents titularisés dans
+un emploi permanent à temps non complet*].
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°66-857 1966-11-18 ART. 17
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
+
+	**Abrogé par**:
+
+	  - Décret n°85-643 1985-06-26 art. 118 jorf 28 juin 1985
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°85-643 du 26 juin 1985 - art. 118 (M)
+
+	**Cite**:
+
+	  - CODE DES COMMUNES. - art. L443-3 (Ab)
+	  - CODE DES COMMUNES. - art. R411-11 (Ab)
+
+
+#### CHAPITRE 4 : Dispositions applicables à la ville de Paris
+
+##### SECTION 1 : Dispositions générales et organiques
+
+##### SOUS-SECTION 1 : Dispositions générales.
+
+###### Article R*444-1
+
+Les personnes qui sont nommées dans un emploi permanent et ont été titularisées dans un grade de la hiérarchie des cadres de
+la commune de Paris et de ses établissements publics sont soumises aux dispositions du présent statut.
+
+Ces personnes sont dans une situation statutaire et réglementaire.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°76-1041 1976-11-16 ART. 1 AL. 1 et 2
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code des communes R444-2
+
+
+###### Article R*444-2
+
+Ne sont pas soumis aux dispositions du présent statut : 
+
+1° Les personnels de l'administration générale de l'assistance publique à Paris ;
+
+2° Les personnels de l'office public d'habitations à loyer modéré de la ville de Paris ;
+
+3° Les personnels des établissements publics communaux qui présentent un caractère industriel et commercial.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°76-1041 1976-11-16 ART. 1 AL. 3
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
+
+
+###### Article R*444-3
+
+Le conseil de Paris fixe par délibération les statuts particuliers des personnels soumis aux dispositions du présent statut.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°76-1041 1976-11-16 ART. 2
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
+
+
+###### Article R*444-4
+
+Lorsque les statuts particuliers diffèrent des dispositions qui ont été fixées par le ministre de l'intérieur et qui sont
+applicables aux emplois homologues des communes, ils sont soumis à l'approbation préfectorale.
+
+Ils peuvent, en ce qui concerne certains personnels des caisses des écoles, prévoir des dispositions particulières aux
+emplois à temps non complet.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°76-1041 1976-11-16 ART. 3
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
+
+
+###### Article R*444-5
+
+Un décret en conseil d'Etat détermine les conditions de nomination aux emplois de secrétaire général, secrétaire général
+adjoint, directeur général, directeur, sous-directeur et d'ingénieur général.
+
+**Nota:**
+
+Voir les décrets : 
+
+N° 77-185 du 1er mars 1977 relatif aux règles de nomination aux emplois de secrétaire général, secrétaire général adjoint,
+directeur général et directeur de la commune de Paris ; 
+
+N° 77-186 du 1er mars 1977 relatif aux règles de nomination aux emplois d'ingénieur général de la commune de Paris ; 
+
+N° 77-187 du 1er mars 1977 relatif aux conditions d'accès dans les emplois de sous-directeur de la commune de Paris.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°76-1041 1976-11-16 ART. 4
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
+
+
+###### Article R*444-6
+
+Un décret en Conseil d'Etat fixe les statuts particuliers :
+
+- des corps d'administrateurs  et d'attachés;
+
+- des corps d'enseignants.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°76-1041 1976-11-16 ART. 5
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
+
+
+###### Article R*444-7
+
+Un arrêté du ministre de l'intérieur, pris après avis du ministre de l'économie et des finances et sans consultation du
+conseil administratif supérieur prévu à la présente section, fixe la rémunération correspondant aux corps, grades et emplois
+mentionnés aux deux articles précédents.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°76-1041 1976-11-16 ART. 7
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
+
+	**Cite**:
+
+	  - Code des communes R444-5 et R444-6
+
+
+###### Article R*444-8
+
+Les attributions dévolues par le présent chapitre au conseil de Paris et au maire sont exercées :
+
+En ce qui concerne le personnel des établissements publics communaux soumis au présent statut, par la commission
+administrative, le conseil d'administration ou le comité chargé de l'établissement public et leur président ;
+
+En ce qui concerne les services et les corps de fonctionnaires placés sous l'autorité du préfet de police, par le conseil de
+Paris et le préfet de police.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°76-1041 1976-11-16 ART. 6
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
+
+
+###### Article R*444-9
+
+Toute nomination ou toute promotion de grade qui n'a pas pour objet exclusif de pourvoir régulièrement à une vacance est
+interdite.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°76-1041 1976-11-16 ART. 8
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
+
+
+###### Article R*444-10
+
+Le droit syndical est reconnu aux fonctionnaires soumis au présent statut ; leurs syndicats professionnels sont régis par le
+livre IV du code du travail.
+
+L'appartenance ou la non-appartenance à un syndicat ne doit entraîner aucune conséquence en ce qui concerne le recrutement,
+l'avancement, l'affectation et, d'une manière générale, la situation des agents soumis au présent statut.
+
+Toute organisation syndicale de fonctionnaires est tenue de déposer, dans les deux mois de sa création, ses statuts et la
+liste de ses administrateurs auprès de la direction ou du service du personnel de l'administration dont dépendent ces
+fonctionnaires.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°76-1041 1976-11-16 ART. 9
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
+
+	**Cite**:
+
+	  - Code du travail - art. D412-1 (M)
+	  - Code du travail R411-1 à R412-3
+
+
+###### Article R*444-11
+
+Pour application du présent statut, aucune distinction [*discrimination sexiste*] n'est faite entre les hommes et les femmes.
+
+Cependant, lorsque la nature des fonctions ou les conditions de leur exercice le justifient, il peut être prévu, pour
+certains corps dont la liste est établie par arrêté du ministre de l'intérieur, après avis du conseil administratif supérieur
+et des comités techniques paritaires de la commune de Paris, un recrutement exclusif d'hommes ou de femmes, ou, à titre
+exceptionnel, selon les modalités prévues dans le même arrêté, des recrutements et conditions d'accès distincts pour les
+hommes et les femmes.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°76-1041 1976-11-16 ART. 10
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
+
+
+###### Article R*444-12
+
+Il est interdit à tout fonctionnaire d'exercer, à titre professionnel, une activité privée lucrative de quelque nature que ce
+soit.
+
+Les conditions dans lesquelles il peut être exceptionnellement dérogé à cette interdiction sont celles qui s'appliquent aux
+fonctionnaires de l'Etat.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°76-1041 1976-11-16 ART. 11
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
+
+
+###### Article R*444-13
+
+Il est interdit à tout fonctionnaire, quelle que soit sa position, d'avoir par lui-même ou par personne interposée et sous
+quelque dénomination que ce soit, dans une entreprise soumise au contrôle de son administration ou service, ou en relation
+avec ceux-ci, des intérêts de nature à compromettre son indépendance.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°76-1041 1976-11-16 ART. 12
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
+
+
+###### Article R*444-14
+
+Lorsque le conjoint d'un fonctionnaire exerce à titre professionnel une activité privée lucrative, déclaration doit en être
+faite à la direction ou au service du personnel de l'administration dont relève le fonctionnaire.
+
+L'autorité compétente prend, s'il y a lieu, les mesures propres à sauvegarder les intérêts du service, après avis de la
+commission administrative paritaire prévue à la présente section.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°76-1041 1976-11-16 ART. 13
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
+
+	**Cite**:
+
+	  - Code des communes R444-25
+
+
+###### Article R*444-15
+
+Tout fonctionnaire, quel que soit son rang dans la hiérarchie, est responsable de l'exécution des tâches qui lui sont
+confiées.
+
+En cas d'empêchement du fonctionnaire chargé d'un travail déterminé, et en cas d'urgence, aucun autre fonctionnaire qui a
+reçu d'une autorité responsable l'ordre d'exécuter ce travail ne peut s'y soustraire pour le motif qu'il n'entre pas dans sa
+spécialité ou n'est pas en rapport avec ses attributions ou son grade.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°76-1041 1976-11-16 ART. 14
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
+
+
+###### Article R*444-16
+
+Le fonctionnaire chargé d'assurer la marche d'un service est responsable à l'égard de ses chefs de l'autorité qui lui a été
+conférée pour cet objet et de l'exécution des ordres qu'il a donnés.
+
+Il n'est dégagé d'aucune des responsabilités qui lui incombent par la responsabilité propre de ses subordonnés.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°76-1041 1976-11-16 ART. 15
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
+
+
+###### Article R*444-17
+
+Indépendamment des règles instituées dans le code pénal en matière de secret professionnel, tout fonctionnaire est lié par
+l'obligation de discrétion professionnelle pour tout ce qui concerne les faits et informations dont il a connaissance dans
+l'exercice ou à l'occasion de l'exercice de ses fonctions.
+
+Tout détournement, toute communication contraire aux règlements de pièces ou documents de service à des tiers sont interdits.
+
+En dehors des cas prévus par la réglementation en vigueur, le fonctionnaire ne peut être délié de cette obligation de
+discrétion ou relevé de l'interdiction édictée par l'alinéa précédent qu'avec l'autorisation du maire de Paris.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°76-1041 1976-11-16 ART. 16
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
+
+	**Cite**:
+
+	  - Code pénal
+
+
+###### Article R*444-18
+
+Dans le cas où un fonctionnaire a été poursuivi par un tiers pour une faute de service et où le conflit d'attribution n'a pas
+été élevé, la commune de Paris doit, dans la mesure où une faute personnelle détachable de l'exercice de ses fonctions n'est
+pas imputable à ce fonctionnaire, le couvrir des condamnations civiles prononcées contre lui et des frais de procédure.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°76-1041 1976-11-16 ART. 17 AL. 2
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
+
+
+###### Article R*444-19
+
+Les fonctionnaires ont droit, conformément aux règles fixées par le code pénal et les lois spéciales, à une protection contre
+les violences, menaces, outrages, injures ou diffamations dont ils peuvent être l'objet.
+
+La commune de Paris est tenue de protéger les fonctionnaires contre les violences, menaces et attaques, de quelque nature que
+ce soit, dont ils peuvent être l'objet à l'occasion de l'exercice de leurs fonctions et de réparer, le cas échéant, le
+préjudice qui en est résulté.
+
+En outre, les frais résultant des poursuites judiciaires engagées par eux contre les auteurs de ces agissements sont à la
+charge de la commune de Paris sauf le cas où ils ont été déboutés de leur action.
+
+La commune de Paris, tenue dans les conditions définies par le deuxième alinéa du présent article, est subrogée aux droits de
+la victime pour obtenir des auteurs des menaces ou attaques la restitution des sommes versées à son agent.
+
+Elle dispose, en outre, aux mêmes fins, d'une action directe qu'elle peut exercer au besoin par voie de constitution de
+partie civile devant la juridiction pénale.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°76-1041 1976-11-16 ART. 18
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
+
+	**Cite**:
+
+	  - Code pénal
+
+
+###### Article R*444-20
+
+Le dossier individuel du fonctionnaire contient toutes les pièces intéressant sa situation administrative.
+
+Ces pièces sont enregistrées, numérotées et classées sans discontinuité.
+
+Aucune mention des opinions politiques, philosophiques ou religieuses de l'intéressé ne peut figurer au dossier.
+
+Les décisions de sanction disciplinaire sont versées au dossier. Il en est de même, le cas échéant, des avis de
+recommandations émis par le conseil de discipline ou le conseil administratif supérieur et de tous documents ou pièces
+annexes.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°76-1041 1976-11-16 ART. 19
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
+
+
+##### SOUS-SECTION 3 : Les commissions et comités paritaires.
+
+###### Article R*444-24
+
+Des commissions administratives paritaires et des comités techniques paritaires sont institués pour les fonctionnaires de la
+commune de Paris.
+
+**Nota:**
+
+Les dispositions contraires au décret 85-565 du 30 mai 1985 sont abrogées (décret 85-565 du 30 mai 1985 art. 34).
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°76-1041 1976-11-16 ART. 22
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
+
+	**Abrogé par**:
+
+	  - Decret 85-565 1985-05-30 art. 34 jorf 2 juin 1985
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°85-1003 1985-09-24 art. 38
+
+	**Cite**:
+
+	  - Décret n°85-565 du 30 mai 1985 - art. 34 (M)
+
+
+###### Article R*444-25
+
+Les commissions administratives paritaires sont compétentes, dans les limites fixées par le présent statut et par les arrêtés
+d'application, en matière de recrutement, de notation, d'avancement, d'affectation, de discipline et, plus généralement, pour
+toutes questions concernant le personnel.
+
+Ces commissions comprennent : [*composition*]
+
+D'une part, le maire de Paris [*attributions*] ou son représentant, président, et des délégués choisis par lui parmi les
+chefs de service de la commune ;
+
+D'autre part, en nombre égal, des représentants du personnel élus au bulletin secret à la proportionnelle par les
+fonctionnaires en activité ou détachés auprès de la commune.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°76-1041 1976-11-16 ART. 23
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°85-1003 1985-09-24 art. 38
+
+	**Abrogé par**:
+
+	  - Décret n°85-565 1985-05-30 art. 34 jorf 2 juin 1985
+
+	**Cite**:
+
+	  - Code des communes R444-1 A R444-186
+
+
+###### Article R*444-27
+
+Le conseil de Paris fixe par délibération [*attributions*] les modalités d'organisation et de fonctionnement des commissions
+administratives paritaires et des comités techniques paritaires.
+
+**Nota:**
+
+Les dispositions contraires au décret 85-565 du 30 mai 1985 sont abrogées (décret 85-565 du 30 mai 1985 art. 34).
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°76-1041 1976-11-16 ART. 25
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°85-1003 1985-09-24 art. 38
+
+	**Abrogé par**:
+
+	  - Décret n°85-565 1985-05-30 art. 34 jorf 2 juin 1985
+
+	**Cite**:
+
+	  - Décret n°85-565 du 30 mai 1985 - art. 34 (M)
+
+
+##### SECTION 2 : Recrutement.
+
+###### Article R*444-28
+
+Le maire de Paris nomme à tous les emplois de la commune de Paris dans les conditions fixées ci-après et dans les statuts
+particuliers.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°76-1041 1976-11-16 ART. 26
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
+
+	**Cite**:
+
+	  - Code des communes R444-29 A R444-36
+
+
+###### Article R*444-30
+
+Les fonctionnaires de la commune de Paris appartiennent à des corps qui comprennent un ou plusieurs grades et sont classés,
+selon leur niveau de recrutement, en catégories.
+
+Les corps groupent les fonctionnaires soumis au même statut particulier et ayant vocation aux mêmes grades ; sauf dérogation
+exceptionnelle, ces corps sont répartis en quatre catégories désignées dans l'ordre hiérarchique décroissant par les lettres
+A, B, C, D et définies par délibération du conseil de Paris.
+
+Les statuts particuliers fixent le classement de chaque corps dans l'une ou l'autre de ces catégories.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°76-1041 1976-11-16 ART. 28
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
+
+
+###### Article R*444-33
+
+Les statuts particuliers peuvent déroger aux conditions normales de recrutement prévues au présent statut soit pour la
+constitution initiale d'un nouveau corps, soit pour le recrutement des fonctionnaires de la commune de Paris des catégories C
+et D.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°76-1041 1976-11-16 ART. 31
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
+
+	**Cite**:
+
+	  - Code des communes R444-29 à R444-32
+
+
+###### Article R*444-34
+
+Sous réserve des mesures prévues par la législation sur les emplois réservés, nul ne peut être nommé à un emploi permanent de
+la commune de Paris et de ses établissements publics s'il a dépassé la limite d'âge fixée par les statuts particuliers.
+
+Cette limite d'âge est reculée :
+
+D'un temps égal à celui passé effectivement dans le service national actif accompli dans l'une des formes du titre III du
+code du service national ;
+
+D'un temps égal à celui des empêchements à l'exercice de la fonction publique prévus par l'ordonnance du 15 juin 1945
+modifiée ;
+
+D'une année par enfant à charge dans les conditions prévues par l'article 36 du code de la famille et de l'aide sociale.
+
+Nonobstant toutes dispositions contraires, la limite d'âge applicable au recrutement par concours des fonctionnaires de
+catégorie A et assimilés de la commune de Paris et de ses établissements publics est portée à quarante-cinq ans en faveur des
+femmes élevant leur enfant ou ayant élevé au moins un enfant.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°76-1041 1976-11-16 ART. 32 AL. 1 et 2
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
+
+	**Cite**:
+
+	  - Code du service national R110 à R227
+	  - Code de la famille et de l'aide sociale. - art. 36 (Ab)
+	  - Ordonnance  1945-06-15 MODIFIEE
+
+
+###### Article R*444-35
+
+Les nominations à des emplois de début et les promotions de grade des fonctionnaires appartenant aux catégories A et B sont
+publiées au bulletin municipal officiel de la commune de Paris.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°76-1041 1976-11-16 ART. 32 AL. 3
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
+
+
+###### Article R*444-36
+
+Les conditions de stage sont fixées par les statuts particuliers.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°76-1041 1976-11-16 ART. 33
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
+
+
+##### SECTION 3 : Rémunération.
+
+###### Article R*444-37
+
+Le fonctionnaire a droit, après service fait, à une rémunération comportant le traitement, les suppléments pour charges de
+famille et l'indemnité de résidence. Le montant du traitement est fixé en fonction soit du grade de l'agent et de l'échelon
+auquel il est parvenu, soit de l'emploi auquel il a été nommé.
+
+Peuvent s'ajouter au traitement des indemnités représentatives de frais, des indemnités rétribuant les travaux
+supplémentaires effectifs, des indemnités justifiées par des sujétions ou des risques inhérents à l'emploi, des indemnités
+tenant compte de la manière de servir et, éventuellement, des indemnités différentielles.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°76-1041 1976-11-16 ART. 34
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
+
+
+###### Article R*444-38
+
+Les dispositions relatives à la valeur du traitement correspondant à l'indice de base des fonctionnaires de l'Etat, de
+l'indemnité de résidence, des prestations familiales, du supplément familial de traitement, ainsi que de toutes autres
+indemnités instituées par un texte législatif ou réglementaire et ayant le caractère de complément de traitement, sont
+applicables de plein droit aux fonctionnaires de la commune de Paris.
+
+Tout titulaire d'un emploi de cette collectivité, doté d'une échelle indiciaire fixée dans les conditions prévues par le
+présent statut, doit bénéficier de cette échelle.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°76-1041 1976-11-16 ART. 35
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
+
+
+###### Article R*444-39
+
+Les délibérations du conseil de Paris relatives aux indices de traitement des corps de fonctionnaires de la commune de Paris,
+mentionnés au premier alinéa de l'article R. 444-4, sont prises après avis du conseil administratif supérieur et approuvées
+par arrêté du ministre de l'intérieur pris après avis du ministre de l'économie et des finances.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°76-1041 1976-11-16 ART. 36
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
+
+	**Cite**:
+
+	  - Code des communes R444-4 AL. 1
+
+
+###### Article R*444-41
+
+Le fonctionnaire qui a été atteint d'une invalidité résultant d'un accident de service ayant entraîné une incapacité
+permanente d'au moins 10 p. 100 ou d'une maladie professionnelle peut prétendre à une allocation temporaire d'invalidité
+cumulable avec son traitement.
+
+L'indice servant de base au calcul de cette allocation est le même que celui prévu pour le calcul du montant de l'allocation
+temporaire d'invalidité des fonctionnaires de l'Etat.
+
+Le conseil de Paris fixe, par délibération soumise à l'approbation préfectorale, les conditions d'attribution, ainsi que les
+modalités de concession, de liquidation, de paiement et de révision de l'allocation temporaire d'invalidité.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°76-1041 1976-11-16 ART. 38
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
+
+
+##### SECTION 4 : Notation et avancement
+
+##### SOUS-SECTION 1 : Notation.
+
+###### Article R*444-42
+
+Le maire de Paris exerce le pouvoir de notation après avis du chef de service compétent. Il peut déléguer son pouvoir aux
+chefs de services administratifs et techniques de la commune de Paris.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°76-1041 1976-11-16 ART. 39 AL. 2
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
+
+
+###### Article R*444-43
+
+Il est attribué, chaque année, à tout fonctionnaire en activité ou en service détaché, une note chiffrée suivie d'une
+appréciation générale qui exprime sa valeur professionnelle.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°76-1041 1976-11-16 ART. 39 AL. 1
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
+
+
+###### Article R*444-44
+
+La note chiffrée prévue à l'article précédent est établie selon une cotation de 0 à 20 par le maire de Paris ou son délégué,
+après avis, le cas échéant, des supérieurs hiérarchiques du fonctionnaire à noter.
+
+Les éléments à prendre en considération pour l'appréciation générale sont déterminés par arrêté du maire de Paris, après avis
+du conseil administratif supérieur.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°76-1041 1976-11-16 ART. 40
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
+
+	**Cite**:
+
+	  - Code des communes R444-43
+
+
+###### Article R*444-45
+
+Il est établi, pour chaque fonctionnaire, une fiche annuelle de notation comportant les indications prévues à l'article R.
+444-43.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°76-1041 1976-11-16 ART. 41
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
+
+	**Cite**:
+
+	  - Code des communes R444-43
+
+
+###### Article R*444-46
+
+Il peut être procédé à une péréquation générale de la notation dans les services de la commune de Paris et des établissements
+mentionnés à l'article R. 444-1.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°76-1041 1976-11-16 ART. 42
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
+
+	**Cite**:
+
+	  - Code des communes R444-1
+
+
+###### Article R*444-47
+
+Les notes chiffrées ainsi attribuées sont obligatoirement portées à la connaissance des intéressés.
+
+L'appréciation générale prévue à l'article R. 444-43 n'est portée à la connaissance de l'intéressé que s'il en fait la
+demande dans les quinze jours qui suivent la notification de la note chiffrée.
+
+Les commissions administratives paritaires peuvent, d'autre part, à la requête de l'intéressé, demander au maire de Paris la
+révision de la note attribuée.
+
+Dans ce cas, communication est faite aux commissions de tous éléments utiles d'information.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°76-1041 1976-11-16 ART. 43
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
+
+	**Cite**:
+
+	  - Code des communes R444-43
+
+
+###### Article R*444-48
+
+La notation du personnel ouvrier peut faire l'objet de dispositions spéciales.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°76-1041 1976-11-16 ART. 44
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
+
+
+##### SOUS-SECTION 2 : Avancement.
+
+###### Article R*444-49
+
+L'avancement des fonctionnaires de la commune de Paris comprend l'avancement d'échelon et l'avancement de grade.
+
+Ces deux formes d'avancement ont lieu de façon continue, d'échelon en échelon et de grade à grade, sauf dérogation prévue par
+les statuts particuliers.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°76-1041 1976-11-16 ART. 45
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
+
+
+###### Article R*444-51
+
+L'avancement d'échelon se traduit par une augmentation de traitement.
+
+Il est fonction à la fois de l'ancienneté et de la notation du fonctionnaire.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°76-1041 1976-11-16 ART. 47
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
+
+
+###### Article R*444-52
+
+La hiérarchie des grades dans chaque corps, le nombre d'échelons dans chaque grade, les règles d'avancement d'échelon et de
+promotion au grade supérieur sont fixés par les statuts particuliers.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°76-1041 1976-11-16 ART. 48
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
+
+
+###### Article R*444-53
+
+La durée du service national est prise en considération pour l'avancement d'échelon et de grade, conformément aux règles
+applicables en l'espèce aux fonctionnaires de l'Etat.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°76-1041 1976-11-16 ART. 49
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
+
+
+###### Article R*444-54
+
+Le passage d'une catégorie à une catégorie supérieure ne peut avoir lieu que dans les conditions prévues à la section II du
+présent statut relative au recrutement.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°76-1041 1976-11-16 ART. 50
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
+
+	**Cite**:
+
+	  - Code des communes R444-28 A R444-36
+
+
+###### Article R*444-55
+
+Le fonctionnaire qui fait l'objet d'un avancement de grade est placé à l'échelon de son nouveau grade comportant un
+traitement égal ou, à défaut d'équivalence, le traitement immédiatement supérieur à celui qu'il recevait dans son ancienne
+situation.
+
+Dans le premier cas, il conserve le bénéfice de son ancienneté d'échelon antérieure en vue de sa promotion d'échelon dans son
+nouveau grade.
+
+Dans le second cas, cette ancienneté n'est reprise en compte dans le nouveau grade que si le reclassement au traitement
+immédiatement supérieur n'apporte pas à l'agent un avantage pécuniaire au moins égal à celui qui aurait résulté d'un
+avancement d'échelon dans l'ancien grade.
+
+Lorsque le fonctionnaire avait atteint l'échelon le plus élevé de son ancien grade, il conserve son ancienneté d'échelon dans
+les mêmes conditions si sa promotion ne se traduit pas par un avantage pécuniaire au moins égal à celui que lui avait procuré
+son accession à cet échelon.
+
+Le fonctionnaire qui fait l'objet d'un changement de corps est nommé à l'échelon de début de son nouveau grade et bénéficie,
+le cas échéant, d'une indemnité compensatrice.
+
+Les statuts particuliers peuvent prévoir des dérogations aux règles édictées au présent article.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°76-1041 1976-11-16 ART. 51
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
+
+
+###### Article R*444-56
+
+A l'exception des postes mentionnés aux articles R. 444-5 et R. 444-6 et sauf dispositions contraires des statuts
+particuliers, l'avancement de grade, quand il est accordé au choix, ne peut intervenir qu'au profit de fonctionnaires
+inscrits sur un tableau d'avancement.
+
+Le tableau est préparé chaque année par l'administration. Il est soumis aux commissions administratives paritaires qui
+fonctionnent alors comme commissions d'avancement. Le chef de l'administration communale arrête le tableau au vu de l'avis
+émis par lesdites commissions.
+
+Le tableau est arrêté quinze jours au plus tard avant la date à laquelle il doit prendre effet. Il cesse d'être valable à
+l'expiration de la période annuelle pour laquelle il a été dressé.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°76-1041 1976-11-16 ART. 52
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
+
+	**Cite**:
+
+	  - Code des communes R444-5 ET R444-6
+
+
+###### Article R*444-57
+
+Pour l'établissement du tableau il est procédé à un examen approfondi de la valeur professionnelle de l'agent, en tenant
+compte principalement des notes obtenues par l'intéressé et des propositions motivées formulées par les directeurs ou chefs
+de service. Les fonctionnaires sont inscrits au tableau par ordre de mérite.
+
+Les candidats dont le mérite est jugé égal sont départagés par l'ancienneté et, en cas d'égalité, par l'âge.
+
+Sous réserve des nécessités du service, les promotions ont lieu dans l'ordre du tableau.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°57-1041 1957-11-16 ART. 53
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
+
+
+###### Article R*444-58
+
+Lorsque les commissions administratives paritaires fonctionnent comme commissions d'avancement, leur composition est modifiée
+de telle façon qu'en aucun cas un fonctionnaire d'un grade donné ne soit appelé à formuler une proposition relative à
+l'avancement d'un fonctionnaire d'un grade hiérarchiquement supérieur.
+
+Les fonctionnaires qui ont vocation à être inscrits au tableau ne peuvent pas prendre part aux délibérations de la
+commission.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°76-1041 1976-11-16 ART. 54
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
+
+
+###### Article R*444-59
+
+Le tableau d'avancement est publié au Bulletin municipal officiel de la commune de Paris dans un délai de huit jours à
+compter de la date à laquelle il a été arrêté.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°76-1041 1976-11-16 ART. 55
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
+
+
+###### Article R*444-60
+
+Lorsque l'autorité compétente s'oppose, pendant deux années successives, à l'inscription au tableau d'un fonctionnaire qui a
+fait l'objet lors de l'établissement de chaque tableau annuel, d'une proposition de la commission d'avancement, celle-ci
+peut, à la requête de l'intéressé, saisir dans un délai de quinze jours, le conseil administratif supérieur.
+
+Après examen de la valeur professionnelle de l'agent et appréciation de ses aptitudes à remplir les fonctions du grade
+supérieur, le conseil administratif supérieur, compte tenu des observations produites par l'autorité compétente pour
+justifier sa décision, émet, ou bien un avis déclarant qu'il n'y a pas lieu de donner suite à la requête dont il a été saisi,
+ou bien une recommandation motivée tendant à l'inscription dont il s'agit.
+
+Lorsque l'autorité compétente a inscrit au tableau un fonctionnaire qui n'a pas été proposé par la commission d'avancement,
+celle-ci peut également saisir le conseil administratif supérieur. Ce dernier émet, dans les conditions prévues à l'alinéa
+précédent, soit un avis déclarant qu'il n'y a pas lieu de donner suite à la requête dont il a été saisi, soit une
+recommandation motivée tendant à radier du tableau le fonctionnaire dont il s'agit. Cette radiation n'a aucun caractère
+disciplinaire.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°76-1041 1976-11-16 ART. 56
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
+
+
+###### Article R*444-61
+
+Le nombre des candidats inscrits au tableau d'avancement ne peut excéder de plus de 50 p. 100 le nombre de vacances à prévoir
+pendant la période de validité du tableau.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°76-1041 1976-11-16 ART. 57
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
+
+
+###### Article R*444-62
+
+En cas d'épuisement du tableau, il est procédé à l'établissement d'un tableau supplémentaire.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°76-1041 1976-11-16 ART. 58
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
+
+
+###### Article R*444-63
+
+Tout fonctionnaire qui bénéficie d'un avancement de grade est tenu d'accepter l'emploi qui lui est assigné dans son nouveau
+grade.
+
+Son refus peut entraîner sa radiation du tableau d'avancement, sous réserve des dispositions prévues à la sous-section VIII
+de la section VI.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°76-1041 1976-11-16 ART. 59
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
+
+	**Cite**:
+
+	  - Code des communes R444-169 à R444-171
+
+
+###### Article R*444-64
+
+Les dispositions de la présente section relatives à l'avancement de grade s'appliquent à l'avancement de classe lorsque
+l'accès à une classe est subordonné à un choix.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°76-1041 1976-11-16 ART. 60
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
+
+	**Cite**:
+
+	  - Code des communes R444-49, R444-50, R444-52, R444-53, R444-55 à R444-63
+
+
+##### SECTION 5 : Discipline.
+
+###### Article R*444-65
+
+Toute faute commise par un fonctionnaire dans l'exercice ou à l'occasion de l'exercice de ses fonctions l'expose à une
+sanction disciplinaire, sans préjudice, le cas échéant, des peines prévues par la loi pénale.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°76-1041 1976-11-16 ART. 17 AL. 1
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°89-677-1989-09-18 art. 36
+	  - SPEC_APPLI: Décret n°85-1141 du 23 octobre 1985 - art. 22 (Ab)
+
+
+###### Article R*444-66
+
+Les sanctions disciplinaires sont : 
+
+1° L'avertissement ;
+
+2° Le blâme ;
+
+3° Le déplacement d'office par mesure disciplinaire ;
+
+4° La mise à pied jusqu'à un maximum de cinq jours ;
+
+5° Le retard dans l'avancement d'échelon pour un an au maximum ;
+
+6° La radiation du tableau d'avancement ;
+
+7° L'abaissement d'un ou plusieurs échelons ;
+
+8° L'exclusion temporaire de fonctions pour une durée supérieure à cinq jours mais ne pouvant dépasser six mois ;
+
+9° La rétrogradation ;
+
+10° La mise à la retraite d'office ;
+
+11° La révocation sans suspension des droits à pension ;
+
+12° La révocation avec suspension des droits à pension .
+
+Le fonctionnaire de la commune de Paris frappé de mise à pied ou d'exclusion temporaire ne reçoit aucune rémunération à
+l'exception des prestations familiales légales s'il reste sans emploi et non affilié à une caisse d'allocations familiales.
+
+Les sanctions 1, 2, 4 à 9 inclus peuvent être assorties d'un déplacement d'office prononcé dans l'intérêt du service.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°76-1041 1976-11-16 ART. 61
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°89-677-1989-09-18 art. 36
+	  - SPEC_APPLI: Décret n°85-1141 du 23 octobre 1985 - art. 22 (Ab)
+
+
+###### Article R*444-67
+
+Le maire de Paris exerce le pouvoir disciplinaire, sauf dispositions législatives ou réglementaires contraires.
+
+Il peut déléguer ce pouvoir à un chef de service pour les quatre premières peines.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°76-1041 1976-11-16 ART. 62
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°89-677-1989-09-18 art. 36
+	  - SPEC_APPLI: Décret n°85-1141 du 23 octobre 1985 - art. 22 (Ab)
+
+	**Cite**:
+
+	  - Code des communes R444-66
+
+
+###### Article R*444-68
+
+Les commissions administratives paritaires jouent le rôle de conseils de discipline.
+
+Leur composition est fixée de telle façon qu'en aucun cas un fonctionnaire d'un grade donné ne soit appelé à formuler une
+proposition à l'égard d'un fonctionnaire d'un grade hiérarchiquement supérieur.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°76-1041 1976-11-16 ART. 63
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°89-677-1989-09-18 art. 36
+	  - SPEC_APPLI: Décret n°85-1141 du 23 octobre 1985 - art. 22 (Ab)
+
+
+###### Article R*444-69
+
+Les quatre premières peines sont prononcées directement par l'autorité ayant pouvoir disciplinaire ou les fonctionnaires
+délégués à cet effet sans consultation du conseil de discipline, mais après l'accomplissement des formalités prescrites par
+l'article 65 de la loi du 22 avril 1905.
+
+Les autres sanctions disciplinaires sont prononcées après avis du conseil de discipline.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°76-1041 1976-11-16 ART. 64
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°85-1141 du 23 octobre 1985 - art. 22 (Ab)
+	  - TXT_ASSOCIE: Code des communes R444-67
+	  - SPEC_APPLI: Décret n°89-677-1989-09-18 art. 36
+
+	**Cite**:
+
+	  - Code des communes R444-66
+	  - Loi   1905-04-22 ART. 65
+
+
+###### Article R*444-70
+
+La procédure devant le conseil de discipline ainsi que devant le conseil administratif supérieur est contradictoire : elle
+est organisée suivant les dispositions des articles ci-après.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°76-1041 1976-11-16 ART. 65
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°85-1141 du 23 octobre 1985 - art. 22 (Ab)
+	  - SPEC_APPLI: Décret n°89-677-1989-09-18 art. 36
+
+	**Cite**:
+
+	  - Code des communes R444-71 A R444-87
+
+
+###### Article R*444-71
+
+Le maire de Paris saisit le conseil de discipline par un rapport qui indique clairement les faits répréhensibles et, s'il y a
+lieu, les circonstances dans lesquelles ils ont été commis.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°76-1041 1976-11-16 ART. 66
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°89-677-1989-09-18 art. 36
+	  - SPEC_APPLI: Décret n°85-1141 du 23 octobre 1985 - art. 22 (Ab)
+
+
+###### Article R*444-72
+
+Le fonctionnaire incriminé a le droit d'obtenir, aussitôt que l'action disciplinaire est engagée, la communication intégrale
+de son dossier individuel et de tous documents annexes.
+
+Il peut présenter devant le conseil de discipline des observations écrites ou verbales, citer des témoins et se faire
+assister par un défenseur de son choix.
+
+Le droit de citer des témoins appartient également à la commune de Paris.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°76-1041 1976-11-16 ART. 67
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°89-677-1989-09-18 art. 36
+	  - SPEC_APPLI: Décret n°85-1141 du 23 octobre 1985 - art. 22 (Ab)
+
+
+###### Article R*444-73
+
+Le conseil de discipline peut ordonner une enquête lorsqu'il ne se juge pas suffisamment éclairé sur les faits reprochés à
+l'intéressé ou sur les circonstances dans lesquelles ces faits ont été commis.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°76-1041 1976-11-16 ART. 68
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°89-677-1989-09-18 art. 36
+	  - SPEC_APPLI: Décret n°85-1141 du 23 octobre 1985 - art. 22 (Ab)
+
+
+###### Article R*444-74
+
+Au vu des observations écrites produites devant lui et compte tenu, le cas échéant, des observations verbales de l'intéressé
+et des témoins, ainsi que des résultats de l'enquête à laquelle il a pu être procédé, le conseil de discipline émet un avis
+motivé sur la sanction que lui paraissent devoir entraîner les faits reprochés et transmet cet avis à l'autorité investie du
+pouvoir disciplinaire.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°76-1041 1976-11-16 ART. 69
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code des communes R444-67
+	  - SPEC_APPLI: Décret n°89-677-1989-09-18 art. 36
+	  - SPEC_APPLI: Décret n°85-1141 du 23 octobre 1985 - art. 22 (Ab)
+
+
+###### Article R*444-75
+
+L'avis du conseil de discipline doit intervenir dans le délai d'un mois à compter du jour où ce conseil a été saisi.
+
+Ce délai est porté à trois mois lorsqu'il est procédé à une enquête.
+
+En cas de poursuites devant une juridiction répressive, la situation du fonctionnaire n'est définitivement réglée qu'après
+que la décision rendue par la juridiction saisie est devenue définitive.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°76-1041 1976-11-16 ART. 70
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°89-677-1989-09-18 art. 36
+	  - SPEC_APPLI: Décret n°85-1141 du 23 octobre 1985 - art. 22 (Ab)
+
+
+###### Article R*444-76
+
+Lorsqu'il a été prononcé une peine supérieure à la mise à pied jusqu'à un maximum de cinq jours, contrairement à l'avis
+exprimé par le conseil de discipline, ce dernier peut, à la requête de l'intéressé, saisir le conseil administratif supérieur
+de la décision, dans un délai d'un mois à compter de la date de la notification.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°76-1041 1976-11-16 ART. 71
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code des communes R444-77
+	  - SPEC_APPLI: Décret n°89-677-1989-09-18 art. 36
+	  - SPEC_APPLI: Décret n°85-1141 du 23 octobre 1985 - art. 22 (Ab)
+
+
+###### Article R*444-77
+
+Les dispositions de l'article précédent ne font pas obstacle à l'exécution immédiate de la peine prononcée par l'autorité
+investie du pouvoir disciplinaire.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°76-1041 1976-11-16 ART. 72
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°85-1141 du 23 octobre 1985 - art. 22 (Ab)
+	  - TXT_ASSOCIE: Code des communes R444-67
+	  - SPEC_APPLI: Décret n°89-677-1989-09-18 art. 36
+
+	**Cite**:
+
+	  - Code des communes R444-76
+
+
+###### Article R*444-78
+
+Les moyens invoqués, dans le cas prévu à l'article R. 444-76, devant le conseil administratif supérieur par le fonctionnaire
+frappé de l'une des peines mentionnées à cet article, sont communiqués à l'autorité investie du pouvoir disciplinaire.
+
+Celle-ci produit ses observations dans le délai qui lui est fixé par le conseil administratif supérieur.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°76-1041 1976-11-16 ART. 73
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°89-677-1989-09-18 art. 36
+	  - SPEC_APPLI: Décret n°85-1141 du 23 octobre 1985 - art. 22 (Ab)
+
+	**Cite**:
+
+	  - Code des communes R444-76
+
+
+###### Article R*444-79
+
+Le conseil administratif supérieur peut ordonner une enquête lorsqu'il ne s'estime pas suffisamment éclairé sur les faits qui
+sont reprochés à l'intéressé ou sur les circonstances dans lesquelles ces faits ont été commis.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°76-1041 1976-11-16 ART. 74
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°85-1141 du 23 octobre 1985 - art. 22 (Ab)
+	  - SPEC_APPLI: Décret n°89-677-1989-09-18 art. 36
+
+	**Cite**:
+
+	  - Code des communes R444-76
+
+
+###### Article R*444-80
+
+Au vu, tant de l'avis précédemment émis par le conseil de discipline que des observations écrites et orales produites devant
+lui et compte tenu des résultats de l'enquête à laquelle il a pu être procédé, le conseil administratif supérieur émet soit
+un avis déclarant qu'il n'y a pas lieu de donner suite à la requête de l'intéressé, soit une recommandation tendant à faire
+lever ou modifier la sanction infligée.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°76-1041 1976-11-16 ART. 75
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°85-1141 du 23 octobre 1985 - art. 22 (Ab)
+	  - SPEC_APPLI: Décret n°89-677-1989-09-18 art. 36
+
+	**Cite**:
+
+	  - Code des communes R444-76
+
+
+###### Article R*444-81
+
+L'avis ou la recommandation doit intervenir dans le délai de deux mois à compter du jour où le conseil administratif
+supérieur a été saisi.
+
+Ce délai est porté à quatre mois lorsqu'il est procédé à une enquête.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°76-1041 1976-11-16 ART. 76
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
+
+	**Cite**:
+
+	  - Code des communes R444-76
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°89-677-1989-09-18 art. 36
+	  - SPEC_APPLI: Décret n°85-1141 du 23 octobre 1985 - art. 22 (Ab)
+
+
+###### Article R*444-82
+
+L'avis ou la recommandation émis par le conseil administratif supérieur est transmis à l'autorité investie du pouvoir
+disciplinaire.
+
+Si celle-ci décide de se conformer à la recommandation, la décision a effet rétroactif.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°76-1041 1976-11-16 ART. 77
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code des communes R444-67
+	  - SPEC_APPLI: Décret n°89-677-1989-09-18 art. 36
+	  - SPEC_APPLI: Décret n°85-1141 du 23 octobre 1985 - art. 22 (Ab)
+
+	**Cite**:
+
+	  - Code des communes R444-76
+
+
+###### Article R*444-83
+
+Les délais de recours contentieux ouverts contre la décision de sanction sont suspendus jusqu'à la notification soit de
+l'avis du conseil administratif supérieur déclarant qu'il n'y a pas lieu de donner suite à la requête de l'intéressé, soit de
+la décision définitive de l'autorité investie du pouvoir disciplinaire.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°76-1041 1976-11-16 ART. 78
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°89-677-1989-09-18 art. 36
+	  - SPEC_APPLI: Décret n°85-1141 du 23 octobre 1985 - art. 22 (Ab)
+	  - TXT_ASSOCIE: Code des communes R444-67
+
+	**Cite**:
+
+	  - Code des communes R444-76
+
+
+###### Article R*444-84
+
+En cas de faute grave commise par un fonctionnaire, qu'il s'agisse d'un manquement à ses obligations professionnelles ou
+d'une infraction de droit commun, le maire de Paris peut immédiatement suspendre l'auteur de cette faute.
+
+La décision qui prononce la suspension précise si l'intéressé conserve, pendant le temps où il est suspendu, le bénéfice de
+son traitement ou détermine la quotité de la retenue qu'il subit. Celle-ci ne peut être supérieure à la moitié du traitement.
+
+En tout état de cause, il continue à percevoir les prestations familiales légales s'il reste sans emploi et non affilié à une
+caisse d'allocations familiales pendant sa suspension.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°76-1041 1976-11-16 ART. 79 AL. 1 à 3
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°89-677-1989-09-18 art. 36
+	  - SPEC_APPLI: Décret n°85-1141 du 23 octobre 1985 - art. 22 (Ab)
+
+
+###### Article R*444-85
+
+Le maire de Paris saisit sans délai de l'affaire le conseil de discipline.
+
+Il règle la situation du fonctionnaire suspendu en application de l'article précédent, sous réserve des dispositions du
+troisième alinéa de l'article R. 444-75, dans un délai de quatre mois à compter du jour où la décision a pris effet. A
+défaut, l'intéressé reçoit à nouveau l'intégralité de son traitement.
+
+Lorsque l'intéressé n'a subi aucune sanction ou n'a été l'objet que de l'une des six premières peines prévues ou si, à
+l'expiration du délai prévu à l'article précédent et sous les mêmes réserves, il n'a pas été statué sur son cas, il a droit
+au remboursement des retenues opérées sur son traitement.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°76-1041 1976-11-16 ART. 79 AL. 4 à 6
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
+
+	**Cite**:
+
+	  - Code des communes R444-66, R444-75 et R444-84
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°89-677-1989-09-18 art. 36
+	  - SPEC_APPLI: Décret n°85-1141 du 23 octobre 1985 - art. 22 (Ab)
+
+
+###### Article R*444-86
+
+La décision qui est motivée, peut prescrire que la sanction et ses motifs seront rendus publics.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°76-1041 1976-11-16 ART. 80
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°89-677-1989-09-18 art. 36
+	  - SPEC_APPLI: Décret n°85-1141 du 23 octobre 1985 - art. 22 (Ab)
+
+
+###### Article R*444-87
+
+Lorsqu'un fonctionnaire qui a encouru une peine ne dépassant pas cinq jours de mise à pied n'a pas, durant les trois années
+qui suivent, fait de nouveau l'objet d'une sanction disciplinaire, il n'est pas tenu compte de cette peine pour ses
+avancements ultérieurs et il n'en est pas conservé trace à son dossier.
+
+Le fonctionnaire frappé de toute autre peine et qui n'a pas été exclu des cadres peut, après dix années, introduire auprès du
+maire de Paris, une demande tendant à ce qu'aucune trace de la sanction prononcée ne subsiste à son dossier. Si, par son
+comportement, l'intéressé a donné toute satisfaction depuis la sanction dont il a été l'objet, il doit être fait droit à sa
+demande. L'autorité investie du pouvoir disciplinaire statue après avis du conseil de discipline.
+
+Pour répondre aux prescriptions de l'article R. 444-20 relatives à la composition du dossier, celui-ci devra, dans tous les
+cas prévus au présent article, être reconstitué dans sa nouvelle composition sous le contrôle du conseil de discipline.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°76-1041 1976-11-16 ART. 81
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°85-1141 du 23 octobre 1985 - art. 22 (Ab)
+	  - SPEC_APPLI: Décret n°89-677-1989-09-18 art. 36
+
+	**Cite**:
+
+	  - Code des communes R444-20
+
+
+##### SECTION 6 : Positions.
+
+###### Article R*444-88
+
+Tout fonctionnaire de la commune de Paris est placé dans une des positions suivantes : 
+
+1° En activité ;
+
+2° En service détaché ;
+
+3° Hors cadre ;
+
+4° En disponibilité ;
+
+5° Sous les drapeaux ;
+
+6° En congé post-natal.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°76-1041 1976-11-16 ART. 82
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
+
+
+##### SOUS-SECTION 1 : Activité, congés.
+
+###### Article R*444-89
+
+L'activité est la position du fonctionnaire qui, régulièrement titulaire du grade, exerce effectivement les fonctions de l'un
+des emplois correspondants.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°76-1041 1976-11-16 ART. 83
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
+
+
+##### PARAGRAPHE 2 : Congés annuels.
+
+###### Article R*444-102
+
+Tout fonctionnaire de la commune de Paris en activité a droit, pour une année de services accomplis, à un congé de même durée
+que celui dont bénéficient les fonctionnaires de l'Etat.
+
+L'administration communale conserve toute liberté pour échelonner les congés.
+
+Le maire de Paris fixe les règles suivant lesquelles le congé peut être fractionné. Il peut s'opposer à tout fractionnement
+si l'intérêt du service l'exige.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°76-1041 1976-11-16 ART. 91 AL. 1, 3, et 4
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
+
+
+###### Article R*444-103
+
+Le fonctionnaire chargé de famille bénéficie, autant que possible, d'une priorité pour le choix des périodes de congés
+annuels.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°76-1041 1976-11-16 ART. 91 AL. 5
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
+
+
+###### Article R*444-104
+
+Le congé dû pour une année de services accomplis ne peut se reporter sur l'année suivante, sauf autorisation exceptionnelle
+donnée par le maire de Paris.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°76-1041 1976-11-16 ART. 92 AL. 1
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
+
+
+###### Article R*444-105
+
+Les fonctionnaires originaires des départements de la Haute-Corse et de la Corse-du-Sud peuvent bénéficier, sur leur demande,
+d'un congé bloqué de soixante jours tous les deux ans pour se rendre dans leur département d'origine.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°76-1041 1976-11-16 ART. 92 AL. 2
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
+
+
+###### Article R*444-106
+
+Les fonctionnaires originaires des départements de la Guadeloupe, de la Guyane, de la Martinique et de la Réunion peuvent
+cumuler leurs congés dans les mêmes conditions que les fonctionnaires de l'Etat originaires de ces départements.
+
+Ils peuvent bénéficier, en matière de congés, des mêmes avantages que ceux accordés par décret aux fonctionnaires de l'Etat,
+sous réserve que la charge financière nouvelle en résultant n'excède pas les ressources propres de la commune de Paris ou de
+ses établissements publics mentionnés à l'article R. 444-1.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°76-1041 1976-11-16 ART. 93 AL. 3
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
+
+	**Cite**:
+
+	  - Code des communes R444-1
+
+
+###### Article R*444-107
+
+Les fonctionnaires originaires des territoires d'outre-mer peuvent bénéficier, sur leur demande, d'un congé bloqué de
+soixante jours tous les deux ans pour se rendre dans leur territoire d'origine.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°76-1041 1976-11-16 ART. 93 AL. 4
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
+
+
+###### Article R*444-108
+
+Un congé d'une durée maximale de douze jours ouvrables par an, pris en une ou deux fois, est accordé dans des conditions
+analogues à celles prévues pour les travailleurs du secteur privé en vue de favoriser l'éducation ouvrière, au fonctionnaire
+qui en fait la demande.
+
+Pendant la durée de ce congé, les émoluments du fonctionnaire sont réduits au montant des retenues légales pour retraite et
+sécurité sociale afférentes à son grade. L'intéressé conserve, en outre, ses droits à la totalité des suppléments pour
+charges de famille.
+
+Le conseil de Paris détermine par une délibération les conditions d'application du présent article.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°76-1041 1976-11-16 ART. 94
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
+
+
+##### PARAGRAPHE 3 : Autorisations spéciales d'absence.
+
+###### Article R*444-109
+
+Des autorisations spéciales d'absence, n'entrant pas en compte dans le calcul des congés payés annuels, peuvent être
+accordées :
+
+1° Aux fonctionnaires occupant des fonctions publiques électives dans la limite de la durée totale des sessions des
+assemblées dont ils font partie, lorsque la condition à laquelle le 5° de l'article R. 444-127 subordonne le détachement
+n'est pas réalisée ;
+
+2° Aux représentants dûment mandatés des syndicats à l'occasion de la convocation des congrès professionnels, syndicaux,
+fédéraux, confédéraux et internationaux ainsi que des organismes directeurs dont ils sont membres élus ;
+
+3° A l'occasion de certains événements de famille ;
+
+4° Aux fonctionnaires participant aux congrès nationaux ou internationaux de leur spécialité ;
+
+5° Aux fonctionnaires fréquentant les cours de formation professionnelle et de perfectionnement qui leur sont destinés.
+
+En outre, des avantages spéciaux peuvent être accordés aux personnels des services de radiologie et de radiothérapie.
+
+Le conseil de Paris fixe par des délibérations les modalités d'application du présent article.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°76-1041 1976-11-16 ART. 93
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
+
+	**Cite**:
+
+	  - Code des communes R144-127 5°
+
+
+##### PARAGRAPHE 4 : Congés de maladie.
+
+###### Article R*444-120
+
+Le fonctionnaire atteint, soit à la suite d'un accident survenu dans l'exercice ou à l'occasion de l'exercice de ses
+fonctions, soit à la suite d'une maladie longue et sérieuse ou susceptible de rechute, d'une invalidité partielle permanente
+ne lui permettant pas d'assurer son emploi peut, sur avis de la commission de réforme, être pourvu d'un emploi correspondant
+à ses aptitudes physiques ou affecté à un service moins pénible.
+
+Dans ce cas, il conserve à titre personnel le bénéfice de son grade et de son échelon.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°76-1041 1976-11-16 ART. 104
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
+
+
+##### PARAGRAPHE 5 : Congés de maternité.
+
+###### Article R*444-122
+
+La femme fonctionnaire bénéficie d'un congé avec traitement pour couches et allaitement ou pour adoption.
+
+La durée de ce congé est égale à celle prévue pour les fonctionnaires de l'Etat.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°76-1041 1976-11-16 ART. 106
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
+
+
+##### PARAGRAPHE 6 : Dispositions diverses.
+
+###### Article R*444-123
+
+La commune de Paris est subrogée dans les droits éventuels du fonctionnaire victime d'un accident provoqué par un tiers
+jusqu'à concurrence du montant des charges qu'elle a supportées ou supportera du fait de cet accident.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°76-1041 1976-11-16 ART. 105
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
+
+
+###### Article R*444-124
+
+Sont maintenus les avantages accordés en matière de soins à certaines catégories de personnels de la commune de Paris.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°76-1041 1976-11-16 ART. 107
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
+
+
+##### SOUS-SECTION 8 : Mutations.
+
+###### Article R*444-169
+
+Le maire de Paris décide des mutations et affectations des fonctionnaires de la commune.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°76-1041 1976-11-16 ART. 140 AL. 1
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
+
+
+###### Article R*444-170
+
+Seules les mutations comportant changement de résidence sont soumises à l'avis des commissions administratives paritaires.
+
+Toutefois, elles peuvent être prononcées sous réserve d'examen ultérieur par ces commissions dans le cas où il s'agit de
+remplir des vacances d'emploi qui compromettent le fonctionnement des services et auxquelles il n'est pas possible de
+pourvoir par d'autres moyens, même provisoirement.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°76-1041 1976-11-16 ART. 140 AL. 2
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
+
+
+###### Article R*444-171
+
+Les affectations tiennent compte des demandes formulées par les intéressés et de leur situation de famille dans la mesure
+compatible avec l'intérêt du service.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°76-1041 1976-11-16 ART. 140 AL. 3
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
+
+
+##### SECTION 7 : Cessation de fonctions.
+
+###### Article R*444-172
+
+La cessation de fonctions entraînant perte de la qualité de fonctionnaire de la commune de Paris résulte :
+
+1° De la démission régulièrement acceptée ;
+
+2° Du licenciement ;
+
+3° De la radiation des cadres ;
+
+4° De la révocation ;
+
+5° De l'admission à la retraite.
+
+La perte de la nationalité française ou des droits civiques et la non-réintégration à l'expiration de la période de
+disponibilité produisent les mêmes effets.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°76-1041 1976-11-16 ART. 141
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
+
+
+###### Article R*444-173
+
+La démission ne peut résulter que d'une demande écrite de l'intéressé marquant sa volonté non équivoque de quitter les cadres
+de la commune de Paris.
+
+Elle n'a d'effet qu'autant qu'elle est acceptée par le maire de Paris et prend effet à la date fixée par celui-ci.
+
+La décision de l'autorité compétente doit intervenir dans le délai de quatre mois.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°76-1041 1976-11-16 ART. 142
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
+
+
+###### Article R*444-174
+
+L'acceptation de la démission la rend irrévocable.
+
+Cette acceptation ne fait pas obstacle, le cas échéant, à l'exercice de l'action disciplinaire en raison de faits qui
+n'auraient été révélés à l'administration qu'après cette acceptation.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°76-1041 1976-11-16 ART. 143 AL. 1
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
+
+
+###### Article R*444-175
+
+Lorsque le maire de Paris refuse d'accepter la démission, l'intéressé peut saisir la commission administrative paritaire.
+
+Celle-ci émet un avis motivé qu'elle transmet à l'autorité compétente.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°76-1041 1976-11-16 ART. 143 AL. 2
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
+
+
+###### Article R*444-176
+
+Le fonctionnaire qui cesse ses fonctions avant la date fixée par l'autorité compétente pour l'acceptation de la démission
+peut faire l'objet d'une sanction disciplinaire.
+
+Lorsqu'il a droit à pension, il peut subir une retenue sur les premiers versements qui lui sont faits à ce titre, à
+concurrence d'un cinquième du montant de ces versements.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°76-1041 1976-11-16 ART. 144
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
+
+
+###### Article R*444-177
+
+Le dégagement des cadres des fonctionnaires de la commune de Paris ne peut être prononcé par le maire de Paris qu'à la suite
+de suppression d'emplois décidée par mesure d'économie ou de réorganisation des services.
+
+Les fonctionnaires dégagés des cadres dans les conditions prévues ci-dessus, sans avoir droit à pension, bénéficient d'un
+reclassement par priorité dans l'un des emplois vacants similaires de la commune de Paris ou de ses établissements publics,
+dont les personnels sont soumis au présent statut.
+
+Les fonctionnaires, dont les emplois ont été supprimés et qui ne peuvent être affectés à des emplois équivalents, reçoivent
+une indemnité en capital égale à un mois de traitement par année de service, à moins de remplir, au moment du licenciement,
+les conditions exigées pour avoir droit à une pension de retraite avec jouissance immédiate.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°76-1041 1976-11-16 ART. 145
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
+
+
+###### Article R*444-179
+
+Le maire de Paris prononce par arrêté les licenciements prévus aux deux articles précédents.
+
+Toutefois, le licenciement pour insuffisance professionnelle prévu à l'article R. 444-178 ne peut intervenir qu'après
+observation des formalités prescrites en matière disciplinaire.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°76-1041 1976-11-16 ART. 147
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
+
+	**Liens**:
+
+	  - SPEC_APPLI: Decret 85-1141 1985-10-23
+
+	**Cite**:
+
+	  - Code des communes R444-178
+
+
+###### Article R*444-180
+
+Le conseil de Paris fixe par délibération les activités privées qu'un fonctionnaire qui a cessé ses fonctions ou qui a été
+mis en disponibilité ne peut exercer, en raison de leur nature. Il fixe la durée de cette interdiction.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°76-1041 1976-11-16 ART. 148 AL. 1
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code des communes R444-181
+
+
+###### Article R*444-181
+
+Le fonctionnaire retraité peut faire l'objet de retenues sur pension et éventuellement être déchu de ses droits à pension, en
+cas de violation de l'interdiction prévue à l'article précédent.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°76-1041 1976-11-16 ART. 148 AL. 2
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code des communes R444-183
+
+	**Cite**:
+
+	  - Code des communes R444-81
+
+
+###### Article R*444-182
+
+L'interdiction prévue par l'article R. 444-13 s'applique pendant les délais fixés par les délibérations du conseil de Paris
+prévues à l'article R. 444-180 et, sous peine des mêmes sanctions, au fonctionnaire qui a définitivement cessé ses fonctions.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°76-1041 1976-11-16 ART. 149
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
+
+	**Cite**:
+
+	  - Code des communes R444-13, R444-180 et R444-181
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code des communes R444-183
+
+
+###### Article R*444-183
+
+Dans les cas prévus aux deux articles précédents, la décision de l'autorité compétente ne peut intervenir qu'après avis de la
+commission paritaire dont relevait l'intéressé qui peut user de la procédure prévue aux articles R. 444-76 à R. 444-82.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°76-1041 1976-11-16 ART. 150
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
+
+	**Cite**:
+
+	  - Code des communes R444-181 et R444-182
+
+
+###### Article R*444-184
+
+Les dispositions législatives ou réglementaires relatives à la fixation des limites d'âge des fonctionnaires de l'Etat sont
+applicables aux fonctionnaires de la commune de Paris.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°76-1041 1976-11-16 ART. 151
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
+
+
+###### Article R*444-185
+
+Les veuves et orphelins mineurs des fonctionnaires qui, soumis au présent statut, sont décédés en activité ont droit au
+paiement du reliquat des appointements du mois en cours dans les mêmes conditions que les ayants droit des fonctionnaires de
+l'Etat.
+
+Un capital décès est attribué aux ayants droit du fonctionnaire décédé dans les conditions prévues par le régime de sécurité
+sociale applicable aux fonctionnaires de l'Etat.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°76-1041 1976-11-16 ART. 152
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
+
+
+## Personnel communal
+
+### Agents nommés dans des emplois permanents à temps complet
+
+#### Dispositions générales et organiques
+
+##### Commission nationale paritaire du personnel communal .
+
+###### Article R*411-4
+
+La commission nationale paritaire du personnel communal comprend : [*composition*]        Le président de la section du
+personnel du conseil national des services publics départementaux et communaux, président ;
+
+Six maires [*nombre*] élus à la majorité relative par l'ensemble des maires des communes dont le personnel est soumis au
+présent titre :
+
+Deux maires désignés par l'association des maires de France ;
+
+Deux maires désignés par l'association des présidents de syndicats de communes pour le personnel communal ;
+
+Six représentants du personnel élus au scrutin de liste à la représentation proportionnelle avec attribution des sièges
+suivant le système dit du plus fort reste ;
+
+Quatre représentants du personnel désignés par les organisations représentatives du personnel à la représentation
+proportionnelle avec répartition des sièges suivant le système dit de la plus forte moyenne, le résultat du scrutin pour
+l'élection des six représentants du personnel étant pris comme base de répartition ;
+
+Deux maires et deux agents communaux nommés par le ministre de l'intérieur et choisis parmi les personnes connues pour leurs
+travaux ou leur expérience en matière de fonction publique communale.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Arrêté 1976-06-23
+	  - SPEC_APPLI: Décret n°84-346 1984-05-10 ART. 37 AL. 1
+
+	**Anciens textes**:
+
+	  - Code de l'administration communale 492 AL. 2 (PARTIE)
+	  - Décret n°65-727 1965-08-26 ART. 1
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
+
+	**Abrogé par**:
+
+	  - Decret 84-346 1984-05-10 art. 37 JORF 11 mai 1984
+
+	**Cité par**:
+
+	  - Décret n°84-346 du 10 mai 1984 - art. 37 (V)
+
+
+###### Article R*411-5
+
+Trois délégués [*nombre*] de l'administration désignés par le ministre de l'intérieur sont en outre adjoints à la commission
+nationale paritaire du personnel communal, à titre consultatif.
+
+La commission [*composition*] peut s'adjoindre d'autres membres, mais à titre consultatif seulement.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Code de l'administration communale 492 AL. 3 et 4
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
+
+	**Abrogé par**:
+
+	  - Decret 84-346 1984-05-10 art. 37 jorf 11 mai 1984
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°84-346 1984-05-10 ART. 37 AL. 1
+
+
+###### Article R*411-7
+
+La durée du mandat des membres de la commission nationale paritaire du personnel communal est de six années.
+
+Toutefois, lorsque les élections ont lieu au cours d'une période d'une durée maximum de six mois avant ou après le
+renouvellement général des conseils municipaux, la durée des fonctions des membres élus peut être prolongée ou réduite d'une
+même période par arrêté du ministre de l'intérieur [*conditions de forme*].
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Code de l'administration communale 492 AL. 7
+	  - Décret n°65-727 1965-08-26
+
+	**Abrogé par**:
+
+	  - Decret 84-346 1984-05-10 art. 37 jorf 11 mai 1984
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°84-346 1984-05-10 ART. 37 AL. 1
+
+
+###### Article R*411-8
+
+La commission nationale paritaire se réunit sur convocation de son président ou à la demande d'un tiers [**]proportion[**] de
+ses membres [**]conditions de forme[**].
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Code de l'administration communale 492 AL. 5 et 6
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
+
+	**Abrogé par**:
+
+	  - Decret 84-346 1984-05-10 art. 37 jorf 11 mai 1984
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°84-346 1984-05-10 ART. 37 AL. 1
+
+
+###### Article R*411-9
+
+Les membres de la commission peuvent, en cas d'absence, déléguer, par écrit, leur droit de vote.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Code de l'administration communale 492 AL. 8
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
+
+	**Abrogé par**:
+
+	  - Decret 84-346 1984-05-10 art. 37 jorf 11 mai 1984
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°84-346 1984-05-10 ART. 37 AL. 1
+
+
+###### Article R*411-10
+
+Un règlement intérieur précise les conditions de fonctionnement de la commission.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Code de l'administration communale 492 AL. 9
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
+
+	**Abrogé par**:
+
+	  - Decret 84-346 1984-05-10 art. 37 jorf 11 mai 1984
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°84-346 1984-05-10 ART. 37 AL. 1
+
+
+###### Article R411-6
+
+L'arrêté ministériel prévu à l'article L. 411-25 est pris par le ministre de l'intérieur.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Code de l'administration communale 492 dernier alinéa (partie)
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-373 1977-03-28 JORF et JONC 5 avril 1977
+
+	**Abrogé par**:
+
+	  - Decret 84-346 1984-05-10 art. 37 jorf 11 mai 1984
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°84-346 1984-05-10 ART. 37 AL. 1
+
+	**Cité par**:
+
+	  - Arrêté du 23 juin 1976 - art. 1 (V)
+
+	**Cite**:
+
+	  - CODE DES COMMUNES. - art. L411-25 (Ab)
+
+
+##### SYNDICAT DE  COMMUNES POUR LE PERSONNEL COMMUNAL
+
+##### CONSTITUTION .
+
+###### Article R411-13
+
+Le préfet fixe, par un arrêté publié au recueil des actes administratifs du département, la liste des communes et des
+établissements publics affiliés au syndicat, en tenant compte, d'une part, des délibérations qui ont été prises en
+application des articles L. 411-1 et R. 421-6 et, d'autre part, des effectifs qui figurent au budget de la commune ou de
+l'établissement intéressé.
+
+Lorsque la liste des emplois permanents prévue à l'article L. 411-1 ne concorde pas avec la liste qui figure au budget, cette
+dernière liste détermine l'affiliation ou non de la collectivité intéressée au syndicat de communes pour le personnel
+communal.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°66-857 1966-11-18 ART. 2 AL. 1 et 2
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-373 1977-03-28 JORF et JONC 5 avril 1977
+
+	**Cite**:
+
+	  - CODE DES COMMUNES. - art. L411-1 (Ab)
+	  - CODE DES COMMUNES. - art. R421-6 (Ab)
+
+
+##### Commission paritaire communale .
+
+###### Article R411-39
+
+La commission paritaire communale connaît, en matière de recrutement, des propositions de titularisation prévues à l'article
+L. 412-10.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - SPEC_APPLI: *Dispositions applicables aux agents nommés dans des emplois permanents à temps non complet*
+	  - SPEC_APPLI: Code des communes R421-7 :
+
+	**Anciens textes**:
+
+	  - Décret n°75-280 1975-04-15 ART. 1 (PARTIE)
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
+
+	**Abrogé par**:
+
+	  - Décret n°85-1003 du 19 septembre 1985 - art. 38 (Ab) JORF 24 Septembre 1985
+
+	**Cité par**:
+
+	  - Décret n°85-1003 du 19 septembre 1985 - art. 38 (Ab)
+	  - CODE DES COMMUNES. - art. R*421-7 (Ab)
+
+	**Cite**:
+
+	  - CODE DES COMMUNES. - art. L412-10 (Ab)
+
+
+##### Commission paritaire intercommunale .
+
+###### Article R411-40
+
+La commission paritaire intercommunale connaît, en matière de recrutement, des propositions de titularisation prévues à
+l'article L. 412-10.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°75-280 1975-04-15 ART. 1 (PARTIE)
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
+
+	**Abrogé par**:
+
+	  - Décret n°85-1003 du 19 septembre 1985 - art. 38 (Ab) JORF 24 septembre 1985
+
+	**Cité par**:
+
+	  - Décret n°85-1003 du 19 septembre 1985 - art. 38 (Ab)
+
+	**Cite**:
+
+	  - CODE DES COMMUNES. - art. L412-10 (Ab)
+
+
+##### La médaille d'honneur départementale et communal .
+
+###### Article R411-41
+
+La médaille d'ancienneté, dite médaille d'honneur départementale et communale, est destinée à récompenser les services des
+agents de toute nature des départements, des communes et des établissements publics départementaux et communaux qui
+remplissent les conditions prévues aux articles ci-après.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°45-1197 1945-06-07 ART. 2 AL. 1 MODIFIE
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
+
+	**Cité par**:
+
+	  - CODE DES COMMUNES. - art. R411-42 (M)
+
+	**Cite**:
+
+	  - Code des communes R411-42 à R411-54
+
+
+###### Article R411-42
+
+La médaille d'honneur départementale et communale peut également être attribuée aux personnes titulaires de mandats électifs
+des départements et des communes, dans les mêmes conditions que pour les agents des services désignés à l'article précédent
+[*agents des communes, des départements et de leurs établissements publics*].
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°45-1197 1945-06-07 ART. 2 AL. 1 COMPLETE
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
+
+	**Cite**:
+
+	  - CODE DES COMMUNES. - art. R411-41 (M)
+
+
+###### Article R411-43
+
+Les services rendus par les sapeurs-pompiers, en faveur desquels existe la médaille d'ancienneté spéciale, dite médaille
+d'honneur des sapeurs-pompiers, ne sont pas susceptibles d'être récompensés en tant que tels par la médaille d'honneur
+départementale et communale.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°45-1197 1945-06-07 ART. 2 AL. 2 REMPLACE
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
+
+
+###### Article R411-45
+
+La médaille d'honneur départementale et communale peut être décernée, à titre posthume, aux personnes qui sont décédées par
+suite de l'exercice de leurs fonctions ou en raison de leur attitude patriotique et qui totalisent au moment de leur décès:
+
+- Dix ans de services pour la médaille d'argent ;
+
+- Vingt-cinq ans de services pour la médaille de vermeil ;
+
+- Trente-cinq ans de services pour la médaille d'or [*conditions d'attribution, ancienneté*].
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°45-1197 1945-06-07 ART. 3 REMPLACE AL. 5
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
+
+
+###### Article R411-46
+
+Par dérogation aux dispositions de l'article R. 411-44, les médailles d'argent et de vermeil peuvent être décernées, après
+respectivement vingt ans et trente ans de services [*conditions d'attribution, ancienneté*], aux agents des réseaux
+souterrains des égouts, bénéficiaires des avantages prévus par le décret n° 50-1128 du 14 septembre 1950 tendant à accorder
+des avantages spéciaux pour l'ouverture du droit à pension aux personnels du service actif des égouts.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°45-1197 1945-06-07 ART. 3 BIS
+
+	**Cite**:
+
+	  - Décret n°50-1128 1950-09-14
+	  - CODE DES COMMUNES. - art. R411-44 (M)
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
+
+	**Cité par**:
+
+	  - CODE DES COMMUNES. - art. R411-48 (V)
+
+
+###### Article R411-47
+
+Les années de services sont prises en compte à partir de l'âge de seize ans pour l'obtention de la médaille d'honneur
+départementale et communale [*calcul de l'ancienneté*].
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°45-1197 1945-06-07 ART. 5 REMPLACE
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
+
+
+###### Article R411-48
+
+Le temps passé sous les drapeaux en période de guerre est compté dans la durée des services [*pour l'obtention de la médaille
+- calcul de l'ancienneté*].
+
+Le service militaire du temps de paix n'y est compté que pour la durée légale du service obligatoire.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°45-1197 1945-06-07 ART. 6 AL. 1 et 2
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
+
+
+###### Article R411-49
+
+Après un délai de cinq ans à compter de la date à laquelle un agent a été mis à la retraite ou, lorsqu'il n'est pas
+titulaire, a cessé ses fonctions, aucune proposition ne peut être formulée en vue de provoquer en sa faveur l'octroi de la
+médaille d'honneur départementale et communale.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°45-1197 1945-06-07 ART. 7
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
+
+
+###### Article R411-50
+
+Les candidats à la médaille d'honneur départementale, et communale doivent avoir mené une vie parfaitement honorable, exempte
+de toute condamnation pénale grave [*conditions d'attribution*].
+
+Leur loyalisme patriotique doit être au-dessus de tout soupçon.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°45-1197 1945-06-07 ART. 8
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
+
+
+###### Article R411-51
+
+La médaille d'honneur départementale et communale est accordée par arrêté préfectoral.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°45-1197 1945-06-07 ART. 9 AL. 1 REMPLACE
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
+
+
+###### Article R411-52
+
+Elle se perd de plein droit [**]sanction[**] :
+
+1° Par la déchéance de la nationalité française ;
+
+2° Par la condamnation à une peine afflictive ou infamante ;
+
+3° Par une condamnation à l'emprisonnement ;
+
+4° Par la révocation.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°45-1197 1945-06-07 ART. 9 AL. 2 MODIFIE
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
+
+
+###### Article R411-53
+
+Elle peut être retirée en cas de sanction intervenue à la suite d'une faute disciplinaire ; dans ce dernier cas, la médaille
+d'honneur départementale et communale ne peut être retirée à l'agent qu'après avis du conseil de discipline de
+l'administration auquel il appartient. Cette décision est prise par arrêté préfectoral [**]conditions de forme[**].
+
+En cas d'indignité dûment constatée du titulaire, elle peut être retirée par arrêté du préfet.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°45-1197 1945-06-07 ART. 9 AL. 3 et 4 REMPLACES
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
+
+
+###### Article R411-54
+
+Le modèle de la médaille, la couleur et la disposition du ruban sont fixés par arrêté du ministre de l'intérieur.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°45-1197 1945-06-07 ART. 11
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
+
+	**Abrogé par**:
+
+	  - Décret n°87-594 du 22 juillet 1987 - art. 1 () JORF 31 juillet 1987
+
+
+##### MEDAILLE  D'HONNEUR DEPARTEMENTALE ET COMMUNALE .
+
+###### Article R411-44
+
+La médaille d'honneur départementale et communale comporte trois échelons :
+
+La médaille d'argent est décernée après vingt-cinq ans [*ancienneté*] de services aux agents qui ont manifesté une réelle
+compétence professionnelle et un dévouement constant dans l'exercice de leurs fonctions ; [*conditions d'attribution*]
+La médaille de vermeil peut être décernée après trente-cinq ans de services aux agents qui ont fait preuve de mérites
+particuliers au cours de leur carrière. A l'intérieur de chaque promotion, elle ne peut être accordée que dans la limite de
+25 p. 100 des médailles d'argent décernées [*pourcentage*].
+
+La médaille d'or peut être décernée après quarante-cinq ans de services [**]ancienneté[**] aux agents qui ont fait preuve au
+cours de leur carrière de mérites exceptionnels. A l'intérieur de chaque promotion, elle ne peut être accordée que dans la
+limite de 2 p. 100 [*pourcentage*] des médailles d'argent décernées.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°45-1197 1945-06-07 ART. 3 REMPLACE AL. 1 à 4
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-373 1977-03-28 JORF et JONC 5 avril 1977
+
+	**Cité par**:
+
+	  - CODE DES COMMUNES. - art. R411-46 (M)
+
+
+#### RECRUTEMENT
+
+##### MODALITES DE RECRUTEMENT APPLICABLES A  CERTAINS EMPLOIS .
+
+###### Article R412-31
+
+Les membres de la commission *départementale ou interdépartementale qui arrête la liste d'aptitude sont élus pour six ans
+*durée du mandat* et renouvelés immédiatement après ceux des commissions paritaires communales et intercommunales.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°73-292 1973-03-13 ART. 13 REMPLACE AL. 1
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-373 1977-03-28 JORF ET JONC 5 AVRIL 1977
+
+
+###### Article R412-32
+
+En cas de vacance par suite de décès, de perte de mandat ou de la fonction qui avait motivé la candidature d'un titulaire ou
+pour toute autre cause, le suppléant devient titulaire.
+
+Les membres de la commission ainsi désignés restent en fonction jusqu'à un prochain renouvellement général des commissions.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°73-292 1973-03-13 ART. 13 REMPLACE AL. 2 et 3
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-373 1977-03-28 JORF et JONC 5 avril 1977
+
+
+#### CENTRE DE FORMATION DES PERSONNELS COMMUNAUX
+
+##### LE  CONSEIL D'ADMINISTRATION .
+
+###### Article R412-64
+
+Chacun des vingt membres [*nombre*] élus du conseil d'administration est remplacé, le cas échéant, par un suppléant élu dans
+les même conditions.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°73-290 1973-03-09 ART. 5 AL. 4
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-373 1977-03-28 JORF et JONC 5 avril 1977
+
+
+#### Recrutement, formation et promotion sociale
+
+##### Formation professionnelle continue .
+
+###### Article R*412-99
+
+La formation professionnelle et la promotion sociale des agents titulaires des communes et des établissements publics
+administratifs communaux et intercommunaux soumis au présent titre [*emplois permanents à temps complet*] sont assurées, dans
+les limites fixées par l'article L. 412-33, par le centre de formation des personnels communaux, au moyen de cycles de
+formation, de stages ou d'autres actions :
+
+Organisés à l'initiative de la collectivité ou de l'établissement public intéressé en vue de la formation professionnelle
+continue des agents ;
+
+Offerts ou agréés par la commune ou l'établissement public en vue de la préparation aux concours et examens d'accès aux
+emplois communaux ;
+
+Choisis à l'initiative des agents en vue de leur formation personnelle.
+
+Les agents titulaires peuvent participer à ces cycles et stages pour y suivre ou y dispenser un enseignement dans les
+conditions définies à la présente section.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°75-236 du 11 avril 1975 - art. 1 (V)
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
+
+	**Abrogé par**:
+
+	  - Décret n°85-1076 du 9 octobre 1985 - art. 19 (V)
+
+	**Cite**:
+
+	  - CODE DES COMMUNES. - art. L412-33 (Ab)
+	  - Code des communes R412-100 à R412-115
+
+
+##### Actions de formation .
+
+###### Article R*412-100
+
+Les cycles, stages ou autres actions ont pour objet, dans la limite des crédits ou éventuellement des emplois prévus à cet
+effet :
+
+De donner aux agents recrutés conformément aux dispositions de l'article L. 412-11 une formation professionnelle à la fois
+théorique et pratique avant leur titularisation ;
+
+De permettre à des agents titulaires de maintenir ou de parfaire leur qualification professionnelle ;
+
+D'assurer l'adaptation des agents titulaires à l'évocation des techniques ou des structures administratives ainsi qu'à
+l'évolution culturelle, économique et sociale et à la conversion découlant de ces évolutions.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°75-236 du 11 avril 1975 - art. 2 (V)
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
+
+	**Abrogé par**:
+
+	  - Décret n°85-1076 du 9 octobre 1985 - art. 19 (V)
+
+	**Cite**:
+
+	  - CODE DES COMMUNES. - art. L412-11 (Ab)
+
+
+###### Article R*412-101
+
+Les agents titulaires qui suivent ou qui dispensent une formation à l'initiative de la collectivité ou de l'établissement
+public dont ils dépendent sont maintenus en position d'activité.
+
+Ils peuvent également être placés en position de détachement.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°75-236 1975-04-11 ART. 3 AL. 1
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
+
+	**Abrogé par**:
+
+	  - Décret n°85-1076 du 9 octobre 1985 - art. 18 (V) JORF 11 Octobre 1985
+
+
+###### Article R*412-102
+
+Les agents en formation bénéficient du maintien de leur traitement ainsi que du maintien de leurs indemnités dans les
+conditions et selon les modalités fixées par arrêté du ministre de l'intérieur, pris après avis du ministre de l'économie et
+des finances et de la commission nationale paritaire du personnel communal [**]consultations - conditions de forme[**].
+
+Ils ne bénéficient pas des dispositions du précédent alinéa lorsqu'il existe des dispositions particulières à une catégorie
+d'emploi ou lorsque le centre de formation des personnels communaux les prend en charge.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Circulaire 19 1978-01-10 intérieur
+	  - TXT_ASSOCIE: Circulaire 209 1977-04-25 intérieur
+	  - TXT_ASSOCIE: Circulaire 313 1977-07-07 intérieur
+	  - TXT_ASSOCIE: Circulaire 562 1976-12-09 intérieur
+
+	**Anciens textes**:
+
+	  - Décret n°75-236 1975-04-11 ART. 3 AL. 3
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
+
+	**Abrogé par**:
+
+	  - Décret n°85-1076 du 9 octobre 1985 - art. 18 (V) JORF 11 Octobre 1985
+
+
+###### Article R*412-103
+
+Les dépenses de la formation professionnelle continue qui ne sont pas assumées par le centre de formation des personnels
+communaux soit à titre obligatoire, soit en vertu d'une convention conclue avec la collectivité locale ou l'établissement
+public intéressé, restent à la charge de cette collectivité ou de cet établissement.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°75-236 1975-04-11 ART. 3 AL. 2
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
+
+	**Abrogé par**:
+
+	  - Décret n°85-1076 du 9 octobre 1985 - art. 18 (V) JORF 11 Octobre 1985
+
+
+###### Article R*412-104
+
+Lorsqu'un agent titulaire a été admis à participer à une action de formation organisée par la collectivité ou l'établissement
+public dont il relève, il est tenu de suivre l'ensemble des enseignements dispensés. 
+
+Le temps de formation est considéré comme service effectif       .
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°75-236 du 11 avril 1975 - art. 4 (V)
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
+
+	**Abrogé par**:
+
+	  - Décret n°85-1076 du 9 octobre 1985 - art. 18 (V) JORF 11 Octobre 1985
+
+
+##### Cycles de formation, stages ou autres actions pour la préparation de l'accès aux emplois .
+
+###### Article R*412-105
+
+Les cycles de formation, stages ou autres actions offerts ou agréés par la collectivité pour la préparation aux concours sur
+titres ou sur épreuves ou aux examens en vue de l'accès aux emplois, ont pour objet de permettre aux agents titulaires de se
+préparer à une promotion de grade ou à un changement de catégorie d'emploi par la voie des examens professionnels ou concours
+prévus à l'article L. 412-11 et réservés aux agents ayant accompli un temps de service déterminé [*conditions d'ancienneté*].
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°75-236 du 11 avril 1975 - art. 5 (V)
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
+
+	**Abrogé par**:
+
+	  - Décret n°85-1076 du 9 octobre 1985 - art. 18 (V) JORF 11 0ctobre 1985
+
+	**Cite**:
+
+	  - CODE DES COMMUNES. - art. L412-11 (Ab)
+
+
+###### Article R*412-106
+
+Les cycles de formation, stages ou autres actions prévus à l'article précédent prennent notamment la forme :
+
+De cours donnés en tout ou partie pendant la durée normale de travail lorsque la nature de la préparation le justifie ;
+
+De cours organisés en dehors des heures consacrées à l'exécution du service ;
+
+De cours par correspondance.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°75-236 du 11 avril 1975 - art. 6 (V)
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1985
+
+	**Abrogé par**:
+
+	  - Décret n°85-1076 du 9 octobre 1985 - art. 18 (V) JORF 11 Octobre 1985
+
+	**Cite**:
+
+	  - Code des communes R412-105
+
+
+###### Article R*412-107
+
+Lorsque les cours sont donnés pendant les heures normalement consacrées au service, les agents sont déchargés d'une partie de
+leurs obligations afin de leur permettre de suivre ces cours ou de les dispenser.
+
+L'autorisation est donnée par le maire ou le président de l'établissement public compétent dans la mesure où elle est
+compatible avec le bon fonctionnement du service et dans la limite des places offertes.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°75-236 1975-04-11 ART. 7 AL. 1
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
+
+	**Abrogé par**:
+
+	  - Décret n°85-1076 du 9 octobre 1985 - art. 18 (V) JORF 11 Octobre 1985
+
+
+###### Article R*412-108
+
+Dans le cas où un agent titulaire désireux de bénéficier d'autorisations d'absences pour suivre, pendant son temps de
+service, une action de préparation à un concours ou à un examen se voit opposer deux fois de suite un refus, le maire ou le
+président de l'établissement public statue sur le recours de l'intéressé après avoir recueilli l'avis de la commission
+paritaire compétente [*procédure*].
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Circulaire 56 1978-01-31 INTERIEUR (EMPLOI ET REMUNERATION DES PERSONNELS DES CANTINES, PISCINES, PARKINGS ET REGIES DE RECETTES)
+
+	**Anciens textes**:
+
+	  - Décret n°75-236 1975-04-11 ART. 7 AL. 2
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
+
+	**Abrogé par**:
+
+	  - Décret n°85-1076 du 9 octobre 1985 - art. 18 (V) JORF 11 octobre 1985
+
+
+###### Article R*412-109
+
+L'agent titulaire qui est appelé à suivre des cours ou à les dispenser est rémunéré par application des textes en vigueur
+dont les dispositions sont éventuellement précisées par arrêté du ministre de l'intérieur pris après avis du ministre de
+l'économie et des finances et de la commission nationale paritaire du personnel communal [**]conditions de forme[**].
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°75-236 1975-04-11 ART. 7 AL. 3
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
+
+	**Abrogé par**:
+
+	  - Décret n°85-1076 du 9 octobre 1985 - art. 18 (V) JORF 11 octobre 1985
+
+
+###### Article R*412-110
+
+L'agent titulaire qui a déjà bénéficié d'autorisations d'absence pour suivre pendant son temps de service une action de
+préparation à un concours sur titres ou sur épreuves ou à un examen organisé en vue de l'accès aux emplois, ne peut prétendre
+au bénéfice d'un autre cycle pédagogique de même nature avant l'expiration d'un délai de douze mois à compter de la fin de la
+session de formation.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°75-236 du 11 avril 1975 - art. 8 (V)
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
+
+	**Abrogé par**:
+
+	  - Décret n°85-1076 du 9 octobre 1985 - art. 18 (V) JORF 11 octobre 1985
+
+
+##### Actions de formation choisies par les agents en vue de leur formation personnelle .
+
+###### Article R*412-111
+
+Les agents titulaires des communes et des établissements publics administratifs communaux et intercommunaux soumis au présent
+titre [*emplois permanents à temps complet*] ont la possibilité de demander leur mise en disponibilité :
+
+1° Pour effectuer des études ou recherches présentant un intérêt général en application du 2° de l'article L. 415-54 ;
+
+2° Pour convenances personnelles en application du 3° de l'article L. 415-54 afin de leur permettre de parfaire leur
+formation personnelle ou de participer, en qualité d'éducateur, à des actions de formation professionnelle continue.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°75-236 du 11 avril 1975 - art. 9 (V)
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-373 1977-03-28 JORF et JONC 5 avril 1977
+
+	**Abrogé par**:
+
+	  - Décret n°85-1076 du 9 octobre 1985 - art. 19 (V) JORF 11 octobre 1985
+
+	**Cite**:
+
+	  - Code des communes L415-54 2° et 3°
+
+
+###### Article R*412-112
+
+Lorsque la mise en disponibilité est accordée en application de l'article précédent pour lui permettre de parfaire sa
+formation professionnelle, l'agent peut bénéficier des aides financières accordées par l'Etat aux stagiaires de formation
+professionnelle dans les conditions définies par le titre VI du livre IX du code du travail relatif à la formation
+professionnelle continue dans le cadre de l'éducation permanente et les textes pris pour son application.
+
+Lorsque l'agent ne peut pas bénéficier de ces aides et que la disponibilité a été accordée en application du 1° de l'article
+précédent, un contrat d'études peut lui être alloué.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Circulaire 62 1980-02-08 intérieur
+
+	**Anciens textes**:
+
+	  - Décret n°75-236 du 11 avril 1975 - art. 10 (V)
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
+
+	**Abrogé par**:
+
+	  - Décret n°85-1076 du 9 octobre 1985 - art. 19 (V)
+
+	**Cite**:
+
+	  - CODE DES COMMUNES. - art. R412-11 (V)
+	  - Code du travail R960-1 à R960-43
+
+
+###### Article R*412-113
+
+Les dispositions [*relatives à la formation professionnelle continue*] de la présente section ne s'appliquent pas aux congés
+prévus à l'article L. 415-8 destinés à favoriser l'éducation ouvrière.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°75-236 du 11 avril 1975 - art. 11 (V)
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
+
+	**Abrogé par**:
+
+	  - Décret n°85-1076 du 9 octobre 1985 - art. 19 (V) JORF 11 octobre 1985
+
+	**Cite**:
+
+	  - CODE DES COMMUNES. - art. L415-8 (Ab)
+	  - Code des communes R412-99 à R412-115
+
+
+##### Coordination des actions de formation en faveur des personnels communaux .
+
+###### Article R*412-114
+
+Le conseil d'administration du centre de formation des personnels communaux définit les orientations de la politique de
+formation professionnelle des agents des communes et des établissements publics administratifs communaux et intercommunaux
+soumis au présent titre.
+
+Il se prononce sur les programmes tendant à la mise en oeuvre de cette politique.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°75-236 du 11 avril 1975 - art. 12 (V)
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
+
+	**Abrogé par**:
+
+	  - Décret n°85-1076 du 9 octobre 1985 - art. 19 (V)
+
+
+###### Article R*412-115
+
+Le ministre de l'intérieur présente chaque année [**]fréquence[**] au comité interministériel de la formation professionnelle
+et de la promotion sociale un rapport d'ensemble sur la politique menée en la matière au bénéfice des agents [*titulaires des
+communes et établissements publics administratifs communaux et intercommunaux*] mentionnés à l'article R. 412-99.
+
+Le comité veille à la coordination de cette politique avec celle qui est prévue à l'article L. 910-1 du titre Ier du livre IX
+du code du travail relatif à la formation professionnelle continue dans le cadre de l'éducation permanente.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°75-236 du 11 avril 1975 - art. 13 (V)
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
+
+	**Abrogé par**:
+
+	  - Décret n°85-1076 du 9 octobre 1985 - art. 19 (V)
+
+	**Cite**:
+
+	  - Code des communes R412-99
+	  - Code du travail - art. L910-1 (M)
+
+
+##### Dispositions applicables à certains personnels
+
+##### Dispositions applicables aux personnels divers.
+
+###### Article R*412-127
+
+La femme de service, attachée à toute école maternelle et à toute classe enfantine, est nommée par le maire sur la
+proposition de la directrice [*recrutement*].
+
+Le traitement de la femme de service est exclusivement à la charge de la commune.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Circulaire 56 1978-01-31 Intérieur (emploi et rémunération des personnels des cantines, piscines, parkings et régies de recettes)
+
+	**Anciens textes**:
+
+	  - Décret  1887-01-18 ART. 8 (PARTIE) MODIFIE
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-373 1977-03-28 JORF et JONC 5 avril 1977
+
+
+#### AVANCEMENT .
+
+###### Article R*414-8
+
+Les dispositions des articles R. 414-5 à R. 414-7 sont applicables aux agents communaux accédant, en vertu de la législation
+sur les emplois réservés, aux emplois situés au niveau de la catégorie B dont la liste est fixée par arrêté du ministre de
+l'intérieur.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°62-544 1962-05-05 ART. 7 BIS III
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
+
+	**Cite**:
+
+	  - Code des communes R414-5 à R414-7
+
+
+###### Article R*414-9
+
+Lorsque l'application de l'article R. 414-5 aboutit à classer les agents intéressés à un échelon doté d'un indice inférieur à
+celui qu'ils détenaient dans leur emploi précédent, les intéressés conservent, à titre personnel, le bénéfice de leur indice
+antérieur [*durée*] jusqu'au jour où ils bénéficient dans le nouvel emploi d'un indice au moins égal.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°62-544 1962-05-05 ART. 7 TER
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
+
+	**Cite**:
+
+	  - Code des communes R414-5
+
+
+#### Notation, avancement et discipline
+
+##### Discipline
+
+##### Le conseil de discipline .
+
+###### Article R*414-17
+
+Lorsque le maire a prononcé une sanction plus sévère que celle qui a été proposée par le conseil de discipline communal ou
+par le conseil de discipline intercommunal, l'agent intéressé peut saisir le conseil de discipline départemental de la
+décision du maire dans un délai de quinze jours à compter de la date de la notification de la sanction [*recours*].
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°59-1191 1959-10-19 ART. 2 AL. 1
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
+
+	**Abrogé par**:
+
+	  - Decret 84-346 1984-05-10 art. 37 jorf 11 mai 1984
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°84-346 1984-05-10 ART. 37 AL.1
+	  - SPEC_APPLI: Décret n°85-1141 du 23 octobre 1985 - art. 22 (Ab)
+
+	**Cité par**:
+
+	  - Décret n°84-346 du 10 mai 1984 - art. 37 (V)
+
+
+###### Article R*414-18
+
+Le conseil de discipline départemental est présidé par le président du tribunal de grande instance comprenant dans son
+ressort le chef-lieu du département.
+
+Il comprend trois représentants des maires tirés au sort par le président parmi les membres du bureau du syndicat de communes
+et parmi les maires présidents des commissions paritaires communales et trois représentants du personnel tirés au sort parmi
+les membres du personnel des commissions paritaires communales et intercommunales.
+
+L'article L. 414-13 et le deuxième alinéa de l'article R. 414-16 sont applicables au conseil de discipline départemental.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°59-1191 1959-10-19 ART. 2 AL. 2 et 3
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
+
+	**Abrogé par**:
+
+	  - Decret 84-346 1984-05-10 art. 37 jorf 11 mai 1984
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°84-346 du 10 mai 1984 - art. 37 (M)
+	  - SPEC_APPLI: Décret n°85-1141 du 23 octobre 1985 - art. 22 (Ab)
+
+	**Cite**:
+
+	  - Code des communes L414-13 et R414-16 AL. 2
+
+
+###### Article R*414-19
+
+Le conseil de discipline départemental statue à la majorité de ses membres.
+
+Le vote a lieu à bulletins secrets.
+
+Dans ces cas, le maire ne peut prononcer de sanctions plus sévères que celles prévues par l'avis émis par le conseil de
+discipline départemental.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°59-1191 1959-10-19 ART. 2 AL. 4
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
+
+	**Abrogé par**:
+
+	  - Decret 84-346 1984-05-10 art. 37 jorf 11 mai 1984
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°84-346 1984-05-10 ART. 37 AL. 1
+	  - SPEC_APPLI: Décret n°85-1141 du 23 octobre 1985 - art. 22 (Ab)
+
+
+###### Article R*414-20
+
+Le secrétariat [*du conseil de discipline départemental*] est assuré par les services de la préfecture du département.
+
+Les frais de déplacement des membres du conseil de discipline départemental sont supportés [*charge*] par le syndicat
+intercommunal départemental.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°59-1191 1959-10-19 ART. 2 AL. 5 et 6
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
+
+	**Abrogé par**:
+
+	  - Decret 84-346 1984-05-10 art. 37 jorf 11 mai 1984
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°84-346 1984-05-10 ART. 37 AL. 1
+	  - SPEC_APPLI: Décret n°85-1141 du 23 octobre 1985 - art. 22 (Ab)
+
+
+#### DISCIPLINE .
+
+###### Article R*414-29
+
+La femme de service attachée à toute école maternelle et à toute classe enfantine est révoquée par le maire [*compétence*]
+sur la proposition de la directrice.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret  1887-01-18 ART. 8 (PARTIE) MODIFIE
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-373 1977-03-28 JORF et JONC 5 avril 1977
+
+
+#### POSITIONS
+
+##### Le détachement .
+
+###### Article R*415-8
+
+Dans le cas prévu au 4° de l'article précédent, il peut être mis fin au détachement sur la demande du ministre chargé de la
+recherche scientifique.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Code de l'administration communale 554
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
+
+	**Abrogé par**:
+
+	  - Décret n°86-68 1986-01-13 art. 35 JORF 16 janvier 1986
+
+	**Cite**:
+
+	  - Code des communes R415-8 4°
+
+
+###### Article R*415-9
+
+Dans le cas prévu au 4° de l'article R. 415-7, un détachement de longue durée prononcé sur la demande de l'agent ne peut être
+renouvelé qu'à titre exceptionnel et pour une période de cinq années.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Code de l'administration communale 557 AL. 2
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
+
+	**Abrogé par**:
+
+	  - Décret n°86-68 1986-01-13 art. 35 JORF 16 janvier 1986
+
+	**Cite**:
+
+	  - Code des communes R415-7 4°
+
+
+###### Article R*415-10
+
+L'agent détaché est noté par le chef de service dont il dépend dans l'administration ou le service où il est détaché. Sa
+fiche de notation est transmise à son administration d'origine.
+
+En cas de détachement de courte durée, le chef de service transmet, à l'expiration du détachement, une appréciation sur
+l'activité de l'agent détaché.
+
+La note attribuée à l'agent est corrigée, le cas échéant, de façon à tenir compte de l'écart entre la moyenne de la notation
+des agents de même grade dans son service d'origine, d'une part, et dans le service où il est détaché, d'autre part.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Code de l'administration communale 559
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
+
+	**Abrogé par**:
+
+	  - Décret n°86-68 1986-01-13 art. 35 JORF 16 janvier 1986
+
+
+###### Article R*415-11
+
+Dans le cas de l'article L. 415-40, l'agent placé en position de détachement près du médiateur est réintégré, à l'expiration
+de son détachement, dans un emploi de sa collectivité d'origine dans les conditions définies à l'article 5 du décret n°
+73-254 du 9 mars 1973 relatif à certains collaborateurs du médiateur.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - SPEC_APPLI: *Dispositions applicables aux agents nommés dans des emplois permanents à temps non complet*
+	  - SPEC_APPLI: Code des communes R421-7 :
+
+	**Cite**:
+
+	  - Décret n°73-254 du 9 mars 1973 - art. 5 (V)
+	  - CODE DES COMMUNES. - art. L415-40 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
+
+	**Abrogé par**:
+
+	  - Décret n°86-68 1986-01-13 art. 35 JORF 16 janvier 1986
+
+
+##### DETACHEMENT .
+
+###### Article R*415-7
+
+L'agent soumis au présent titre peut obtenir, sur sa demande, son détachement :
+
+1° Auprès d'une administration publique ou d'une collectivité décentralisée de la République ;
+
+2° Auprès d'un organisme d'intérêt communal ou intercommunal ;
+
+3° Auprès du ministre des affaires étrangères ou du ministre chargé de la coopération pour être mis à la disposition d'un
+Etat membre de la Communauté, d'un Etat étranger ou d'une organisation internationale ;
+
+4° Auprès d'une entreprise privée, pour y effectuer des travaux nécessités par l'exécution du programme des recherches
+d'intérêt national défini par le conseil supérieur de la recherche scientifique ;
+
+5° Pour remplir une fonction publique élective ou un mandat syndical ;
+
+6° Pour la durée du stage, dans les conditions prévues à l'article L. 412-12.
+
+Dans ces deux derniers cas, le détachement est accordé de plein droit.
+
+L'agent titulaire placé en position de détachement pour la durée du stage ne peut être remplacé dans son emploi que s'il est
+titularisé dans son nouveau cadre.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°62-544 1962-05-05 ART. 10
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-373 1977-03-28 JORF et JONC 5 avril 1977
+
+	**Cite**:
+
+	  - CODE DES COMMUNES. - art. L412-12 (Ab)
+
+
+##### Position hors cadre .
+
+###### Article R*415-12
+
+L'agent placé en position hors cadre n'est pas soumis aux retenues de 6 p. 100 et de 12 p. 100  pour la retraite, prévues au
+décret n° 47-1846 du 19 septembre 1947 portant règlement d'administration publique pour la constitution de la caisse
+nationale de retraites des agents des collectivités locales (C.N.R.A.C.L.) (1).
+
+(1) Le décret n° 47-1846 du 19 septembre 1947 a été modifié par les décrets n° 49-1416 du 5 octobre 1949, n° 53-108 du 18
+février 1953, n° 55-87 du 18 janvier 1955, n° 60-169 du 19 février 1960, n° 61-1496 du 30 décembre 1961, n° 70-767 du 27 août
+1970, n° 73-303 du 13 mars 1973, n° 74-163 du 26 février 1974, n° 77-247 du 16 mars 1977.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Décret n°47-1846 1947-09-19 MODIFIE
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
+
+	**Abrogé par**:
+
+	  - Décret n°86-68 1986-01-13 art. 35 JORF 16 janvier 1986
+
+
+###### Article R*415-13
+
+Dans le cas de l'article L. 415-46, la pension à laquelle l'agent peut prétendre, est celle prévue à l'article 6 du décret n°
+65-773 du 9 septembre 1965 portant règlement d'administration publique et relatif au régime de retraite des tributaires de la
+caisse nationale de retraites des agents des collectivités locales (1).
+
+**Nota:**
+
+(1) Le décret n° 65-773 du 9 septembre 1965 a été modifié par les décrets n° 70-719 du 31 juillet 1970, n° 73-302 du 13 mars
+1973, n° 74-844 du 7 octobre 1974 et n° 76-366 du 16 avril 1976.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-373 1977-03-28 JORF et JONC 5 avril 1977
+
+	**Abrogé par**:
+
+	  - Décret n°86-68 1986-01-13 art. 35 JORF 16 janvier 1986
+
+	**Cite**:
+
+	  - CODE DES COMMUNES. - art. L415-46 (Ab)
+
+	**Anciens textes**:
+
+	  - Code de l'administration communale 564 AL. 1 (partie)
+
+
+###### Article R*415-14
+
+Dans le cas prévu au premier alinéa de l'article L. 415-48, la retenue versée par l'agent est la retenue de 6 p. 100
+[*pourcentage, taux*].
+
+La retenue qui est versée par l'organisme qui a employé l'agent pendant sa mise hors cadre est la retenue de 12 p. 100 prévue
+par le décret n° 47-1846 du 19 septembre 1947.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Code de l'administration communale 564 AL. 3 et AL. 4 (parties)
+
+	**Cite**:
+
+	  - Décret n°47-1846 1947-09-19 modifié
+	  - CODE DES COMMUNES. - art. L415-48 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-373 1977-03-28 JORF et JONC 5 avril 1977
+
+	**Abrogé par**:
+
+	  - Décret n°86-68 1986-01-13 art. 35 JORF 16 janvier 1986
+
+
+##### La disponibilité .
+
+###### Article R*415-15
+
+L'agent mis en disponibilité sur sa demande doit solliciter sa réintégration deux mois au moins avant l'expiration de la
+période de disponibilité en cours.
+
+La réintégration est subordonnée à la vérification par un médecin assermenté de l'aptitude physique de l'agent à l'exercice
+des fonctions afférentes à son grade.
+
+Le comité médical peut être saisi, soit par le maire, soit par l'intéressé, des conclusions du médecin assermenté.
+L'intéressé peut faire entendre, par le comité, le médecin de son choix.
+
+L'agent qui a formulé avant l'expiration de la période de mise en disponibilité une demande de réintégration est maintenu en
+disponibilité jusqu'à ce qu'un poste lui soit assigné. Toutefois, au cas où il ne peut être réintégré pour cause d'inaptitude
+physique, il est soit mis en disponibilité d'office dans les conditions prévues aux articles L. 415-51 à L. 415-53, soit
+radié des cadres, s'il est reconnu définitivement inapte.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Code de l'administration communale 574 PHR. 1
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-373 1977-03-28 JORF et JONC 5 avril 1977
+
+	**Abrogé par**:
+
+	  - Décret n°86-68 1986-01-13 art. 35 JORF 16 janvier 1986
+
+	**Cite**:
+
+	  - CODE DES COMMUNES. - art. L415-51 (Ab)
+	  - CODE DES COMMUNES. - art. L415-52 (Ab)
+	  - CODE DES COMMUNES. - art. L415-53 (Ab)
+
+
+##### SERVICE A MI-TEMPS .
+
+###### Article R415-16
+
+Les agents titulaires, en activité ou en service détaché, qui occupent un emploi conduisant à pension du régime de retraite
+des agents des collectivités locales, peuvent, sur leur demande et dans les cas et conditions déterminés par arrêté du
+ministre de l'intérieur, être autorisés, compte tenu des nécessités du fonctionnement du service, à accomplir un service à
+mi-temps.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Arrêté 1976-03-18
+	  - TXT_ASSOCIE: Circulaire 363 1977-08-16 intérieur
+
+	**Anciens textes**:
+
+	  - Décret n°73-300 1973-03-13 ART. 1
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-373 1977-03-28 JORF ET JONC 5 AVRIL 1977
+
+	**Abrogé par**:
+
+	  - Décret n°82-722 du 16 août 1982 - art. 4 (Ab) JORF 19 AOUT 1982 date d'entrée en vigueur 2 AVRIL 1982
+
+	**Cité par**:
+
+	  - Décret n°82-722 du 16 août 1982 - art. 4 (Ab)
+	  - Arrêté du 23 juin 1976 - art. 17 (V)
+	  - CODE DES COMMUNES. - art. R415-17 (Ab)
+
+
+###### Article R415-17
+
+La date et les modalités d'application des dispositions de l'article précédent aux agents mentionnés à cet article, en
+fonctions hors du territoire métropolitain, sont fixées par arrêté interministériel.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°73-300 1973-03-13 ART. 2
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-373 1977-03-28 JORF ET JONC 5 AVRIL 1977
+
+	**Abrogé par**:
+
+	  - Décret n°82-722 du 16 août 1982 - art. 4 (Ab) JORF 19 AOUT 1982 date d'entrée en vigueur 2 AVRIL 1982
+
+	**Cité par**:
+
+	  - Décret n°82-722 du 16 août 1982 - art. 4 (Ab)
+	  - Arrêté du 23 juin 1976 - art. 17 (V)
+
+	**Cite**:
+
+	  - CODE DES COMMUNES. - art. R415-16 (Ab)
+
+
+#### PRESTATIONS FAMILIALES .
+
+###### Article R417-2
+
+La commission supérieure [*chargée de donner un avis sur les questions relatives au fonds national de compensation*] prévue à
+l'article L. 417-6 comprend [*composition*] :
+
+un conseiller d'Etat, président ;
+
+un conseiller-maître à la Cour des comptes ;
+
+un représentant du ministre de l'intérieur ;
+
+un représentant du ministre chargé des prestations familiales ;
+
+un représentant du ministre de l'économie et des finances ;
+
+le directeur général de la caisse des dépôts et consignations ou son représentant ;
+
+deux conseillers généraux ;
+
+quatre représentants de l'association des maires de France ;
+
+cinq représentants du personnel des services publics départementaux et communaux ;
+
+un représentant du personnel hospitalier.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - SPEC_APPLI: *Dispositions applicables aux agents nommés dans des emplois permanents à temps non complet et aux agents non titulaires*
+	  - SPEC_APPLI: Code des communes R421-7, R422-1 :
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-373 1977-03-28 JORF ET JONC 5 AVRIL 1977
+
+	**Cite**:
+
+	  - CODE DES COMMUNES. - art. L417-6 (T)
+	  - Code des communes R421-7 et R422-1
+
+	**Nouveaux textes**:
+
+	  - CODE DES COMMUNES. - art. R413-3 (Ab)
+
+	**Anciens textes**:
+
+	  - Code de l'administration communale 607 AL. 3 (PARTIE)
+
+
+###### Article R417-3
+
+Les membres de la commission supérieure [*chargée de donner un avis sur les questions relatives au fonds national de
+compensation, prévue à l'article L417-6*] autres que le directeur général de la caisse des dépôts et consignations sont
+nommés [*durée*] pour trois ans par le ministre de l'intérieur.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - SPEC_APPLI: *Dispositions applicables aux agents nommés dans des emplois permanents à temps non complet et aux agents non titulaires*
+	  - SPEC_APPLI: Code des communes R421-7, R422-1 :
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-373 1977-03-28 JORF ET JONC 5 AVRIL 1977
+
+	**Nouveaux textes**:
+
+	  - CODE DES COMMUNES. - art. R413-4 (Ab)
+
+	**Anciens textes**:
+
+	  - Code de l'administration communale 607 AL. 4
+
+	**Cite**:
+
+	  - Code des communes R421-7 et R422-1
+
+
+###### Article R417-4
+
+Un rapport est fait annuellement [*fréquence*] aux ministres de l'intérieur, de l'économie et des finances, ainsi qu'au
+ministre chargé des prestations familiales, sur le fonctionnement du fonds [*national de compensation*], par le directeur
+général de la caisse des dépôts et consignations.
+
+Ce rapport est publié au Journal officiel.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - SPEC_APPLI: *Dispositions applicables aux agents nommés dans des emplois permanents à temps non complet et aux agents non titulaires*
+	  - SPEC_APPLI: Code des communes R421-7, R422-1 :
+
+	**Anciens textes**:
+
+	  - Code de l'administration communale 607 AL. 5 et 6
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-373 1977-03-28 JORF ET JONC 5 AVRIL 1977
+
+	**Nouveaux textes**:
+
+	  - CODE DES COMMUNES. - art. R413-5 (Ab)
+
+	**Cite**:
+
+	  - Code des communes R421-7 et R422-1
+
+
+#### ALLOCATION TEMPORAIRE D'INVALIDITE .
+
+###### Article R417-8
+
+La demande d'allocation est, à peine de déchéance, présentée dans le délai d'un an à compter du jour où l'agent a repris ses
+fonctions après la consolidation de sa blessure ou de son état de santé.
+
+Toutefois, lorsque, avant la reprise des fonctions, l'agent atteint la limite d'âge de son emploi et est rayé d'office des
+cadres, le droit à l'allocation peut lui être reconnu si la demande d'allocation est présentée [**]délai[**] dans l'année qui
+suit la date de consolidation de sa blessure ou de son état de santé.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°63-1346 1963-12-24 ART. 3 COMPLETE AL. 3 et 4
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-373 1977-03-28 JORF ET JONC 5 AVRIL 1977
+
+	**Cité par**:
+
+	  - CODE DES COMMUNES. - art. R417-12 (Ab)
+	  - CODE DES COMMUNES. - art. R417-15 (Ab)
+
+
+###### Article R417-12
+
+L'entrée en jouissance de l'allocation temporaire d'invalidité est fixée à la date de la reprise des fonctions ou, dans le
+cas prévu au premier alinéa de l'article R. 417-8 [*relatif au délai à respecter pour une demande d'allocation temporaire
+d'invalidité*] à la date de consolidation de la blessure ou de l'état de santé de l'intéressé.
+
+Le paiement de l'allocation temporaire d'invalidité est effectué trimestriellement [**]fréquence[**] et à terme échu.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°63-1346 1963-12-24 ART. 6 REMPLACE AL. 1
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-373 1977-03-28 JORF ET JONC 5 AVRIL 1977
+
+	**Cité par**:
+
+	  - CODE DES COMMUNES. - art. R417-15 (Ab)
+
+	**Cite**:
+
+	  - Code des communes R417-8 AL. 1
+
+
+###### Article R417-13
+
+Au vu de la décision [*relative à la réalité de l'infirmité, son imputabilité au service, ses conséquences et le taux
+d'invalidité qu'elle entraîne*] prise dans les conditions fixées à l'article R. 417-11, le directeur général de la caisse des
+dépôts et consignations procède [**]attributions[**] à la liquidation, à la concession et au paiement de l'allocation
+temporaire d'invalidité qui fait l'objet éventuellement des suspensions prévues aux articles 56 et 57 du décret n° 65-773 du
+9 septembre 1965 relatif au régime de retraite des tributaires de la caisse nationale de retraites des agents des
+collectivités locales.
+
+Les dispositions de l'article 64-1 de ce décret sont applicables, sous réserve des modalités de révision prévues ci-après.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°63-1346 1963-12-24 ART. 6 REMPLACE AL. 2
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-373 1977-03-28 JORF ET JONC 5 AVRIL 1977
+
+	**Cite**:
+
+	  - CODE DES COMMUNES. - art. R417-11 (Ab)
+
+
+###### Article R417-14
+
+En cas d'aggravation ou de diminution de l'invalidité constatée durant l'activité de l'agent lors d'examens quinquennaux
+[*fréquence*], l'allocation temporaire d'invalidité est révisée et, le cas échéant, suspendue dans les conditions fixées à
+l'article R. 417-11.
+
+L'allocation ne peut faire l'objet d'une revision qu'après l'expiration d'une période de cinq années à compter de la date de
+la concession initiale ou de la précédente révision.
+
+La révision, la suspension ou le rétablissement de l'allocation prennent effet du premier jour de chaque période quinquennale
+considérée et ces opérations sont effectuées par le directeur général de la caisse des dépôts et consignations.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°63-1346 1963-12-24 ART. 7 AL. 1
+
+	**Cite**:
+
+	  - Décret n°65-773 1965-09-09 MODIFIE
+	  - CODE DES COMMUNES. - art. R417-11 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-373 1977-03-28 JORF ET JONC 5 AVRIL 1977
+
+	**Cité par**:
+
+	  - CODE DES COMMUNES. - art. R417-15 (Ab)
+	  - CODE DES COMMUNES. - art. R417-16 (Ab)
+	  - CODE DES COMMUNES. - art. R417-18 (Ab)
+
+
+###### Article R417-15
+
+Lorsque, au cours de la période quinquennale [*durant laquelle l'allocation d'invalidité ne peut faire l'objet d'une
+révision*] prévue à l'article précédent, une demande d'allocation est présentée au titre d'une invalidité résultant d'un
+nouvel accident, le nouveau taux d'invalidité constaté dans les conditions fixées à l'article R. 417-11 [*appréciation de la
+commission départementale de réforme prévue par le régime de retraite des agents des collectivités locales, avis de la caisse
+des dépôts et consignations, décision de l'autorité qui a le pouvoir de nomination*] est apprécié en fonction de l'ensemble
+des infirmités.
+
+La nouvelle allocation est accordée à compter de la reprise des fonctions consécutive au nouvel accident.
+
+L'allocation antérieure est supprimée à compter de la même date.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°63-1346 1963-12-24 ART. 7 AL. 2 REMPLACE
+
+	**Cite**:
+
+	  - Décret n°65-773 1965-09-09 MODIFIE
+	  - Code des communes R417-11 et R417-14
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-373 1977-03-28 JORF ET JONC 5 AVRIL 1977
+
+	**Cité par**:
+
+	  - CODE DES COMMUNES. - art. R417-16 (Ab)
+	  - CODE DES COMMUNES. - art. R417-18 (Ab)
+
+
+###### Article R417-16
+
+Après la radiation des cadres et sous réserve des dispositions de l'article suivant [*en vertu duquel l'allocation
+d'invalidité est remplacée par une rente d'invalidité lorsque la radiation des cadres est prononcée pour aggravation de
+l'invalidité*], l'allocation continue à être servie sur la base du taux d'invalidité constatée, nonobstant les dispositions
+des deux articles précédents [*relatives aux conditions de révision du taux*] au moment de la cessation définitive de
+fonctions.
+
+Ce taux est déterminé après examen dans les conditions fixées à l'article R. 417-11 [*appréciation par la commission
+départementale de réforme prévue par le régime de retraite des agents des collectivités locales, avis de la caisse des dépôts
+et consignations, décision de l'autorité qui a le pouvoir de nomination*] ; il ne peut faire l'objet d'une appréciation
+ultérieure en fonction de l'évolution de l'invalidité qui a ouvert le droit à l'allocation.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°63-1346 1963-12-24 ART. 8 REMPLACE
+
+	**Cite**:
+
+	  - Décret n°65-773 1965-09-09 MODIFIE
+	  - CODE DES COMMUNES. - art. R417-11 (Ab)
+	  - Code des communes R417-11, R417-14, R417-15 et R417-17
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-373 1977-03-28 JORF ET JONC 5 AVRIL 1977
+
+	**Cité par**:
+
+	  - CODE DES COMMUNES. - art. R417-14 (Ab)
+	  - CODE DES COMMUNES. - art. R417-18 (Ab)
+
+
+###### Article R417-18
+
+Lorsque la radiation des cadres résulte d'une invalidité imputable au service mais indépendante de l'infirmité qui a ouvert
+le droit à l'allocation temporaire, celle-ci est maintenue dans les conditions fixées à l'article R. 417-16 [*sur la base du
+taux d'invalidité constatée au moment de la cessation définitive des fonctions*].
+
+Dans ce cas, la rente d'invalidité, prévue à l'article 31 du décret n° 65-773 du 9 septembre 1965 relatif au régime de
+retraite des tributaires de la caisse nationale de retraites des agents de collectivités locales, ne rémunère que la nouvelle
+invalidité qui est appréciée par rapport à la validité restante de l'agent.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°63-1346 1963-12-24 ART. 9 REMPLACE AL. 2
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-373 1977-03-28 JORF et JONC 5 avril 1977
+
+	**Cité par**:
+
+	  - CODE DES COMMUNES. - art. R417-16 (Ab)
+
+
+###### Article R417-19
+
+Les agents permanents des départements, des communes et de leurs établissements publics n'ayant pas le caractère industriel
+et commercial, régulièrement placés en position de détachement en vertu du statut particulier qui leur est applicable ou de
+dispositions législatives ou réglementaires spéciales, bénéficient par priorité dans l'emploi de détachement du régime
+d'assurance qui leur est appliqué par l'organisme employeur.
+
+Toutefois, ceux d'entre ces agents qui sont détachés, soit dans un emploi d'agent titulaire d'une autre collectivité ou d'un
+autre établissement, soit pour exercer les fonctions du membre du Gouvernement ou un mandat électif ou syndical, soit enfin
+dans les conditions prévues au deuxième alinéa de l'article 8 du décret n° 60-1089 du 6 octobre 1960 tel qu'il a été modifié
+par le décret n° 61-1038 du 11 septembre 1961 et le décret n° 68-604 du 9 août 1966, bénéficient d'une allocation
+différentielle, lorsque le total des prestations servies par le régime d'assurance mentionné au premier alinéa est inférieur
+au montant de l'allocation qu'ils auraient obtenue s'ils se trouvaient en position d'activité au sein de la collectivité
+locale ou de l'établissement public dont ils sont détachés.
+
+Un arrêté des ministres de l'économie et des finances, de l'intérieur, ainsi que des ministres chargés de l'équipement, de la
+santé et du travail fixe les modalités de calcul de l'allocation différentielle qui leur est servie, notamment lorsque le
+régime d'assurance de l'organisme employeur comporte des prestations qui n'ont pas un caractère viager.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Décret n°60-1089 1960-10-06 ART. 8 AL. 2 MODIFIE
+	  - Décret n°61-1038 1961-09-11
+	  - Décret n°66-604 1966-08-09
+
+	**Anciens textes**:
+
+	  - Décret n°63-1346 1963-12-24 ART. 9 REMPLACE AL. 2
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-373 1977-03-28 JORF ET JONC 5 AVRIL 1977
+
+
+###### Article R417-20
+
+Lorsqu'un fonctionnaire des collectivités locales est nommé dans un emploi d'Etat ou, à l'inverse, lorsqu'un fonctionnaire de
+l'Etat est titularisé dans un emploi conduisant à pension de la caisse nationale de retraites des agents des collectivités
+locales, l'allocation temporaire d'invalidité continue, le cas échéant, d'être servie à l'agent au titre et dans les
+conditions du régime dont il était antérieurement bénéficiaire.
+
+Toutefois lorsque l'aggravation de l'infirmité qui a ouvert le droit à l'allocation temporaire entraîne la radiation des
+cadres, l'agent peut prétendre, au titre du régime de retraite dont il relève en dernier lieu, à une pension et à une rente
+viagère pour invalidité imputable au service et l'allocation temporaire d'invalidité est supprimée.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Décret n°47-1846 1947-09-19 modifié
+	  - TXT_ASSOCIE: Décret n°65-773 1965-09-09 modifié
+
+	**Anciens textes**:
+
+	  - Décret n°63-1346 1963-12-24 ART. 10 BIS
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-373 1977-03-28 JORF et JONC 5 avril 1977
+
+
+###### Article R417-21
+
+Les communes et leurs établissements publics versent à la caisse des dépôts et consignations une cotisation mensuelle dont le
+montant est basé, selon un taux fixé par un arrêté des ministres de l'économie et des finances, de l'intérieur, ainsi que des
+ministres chargés de l'équipement et de la santé et du travail, sur les sommes payées aux agents mentionnés à l'article R.
+417-5 à titre de traitement fixe et de supplément définitif de traitement, à l'exclusion notamment des allocations accordées
+à titre de gratification pour travaux supplémentaires, pour cherté de vie, des indemnités de résidence, des prestations
+familiales et des suppléments familiaux de traitement ainsi que des indemnités allouées pour l'exécution de travaux n'entrant
+pas dans les attributions normales des agents.
+
+La cotisation due par les communes et leurs établissements publics est versée dans les dix premiers jours de chaque mois.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - SPEC_APPLI: *Dispositions non applicables aux communes du département de Saint-Pierre-et-Miquelon*
+	  - TXT_ASSOCIE: Décret n°63-1346 1963-12-24
+	  - SPEC_APPLI: Code des communes R442-2 :
+
+	**Anciens textes**:
+
+	  - Décret n°63-1346 1963-12-24 ART. 11 MODIFIE
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-373 1977-03-28 JORF et JONC 5 avril 1977
+
+	**Cite**:
+
+	  - CODE DES COMMUNES. - art. R417-5 (Ab)
+
+
+### Personnels divers
+
+#### Agents non titulaires
+
+##### Dispositions générales .
+
+###### Article R*422-2
+
+Les décisions prévues à l'article L. 422-3 sont prises par arrêtés concertés du ministre de l'intérieur et du ministre de
+l'économie et des finances après avis de la section compétente du conseil national des services publics départementaux et
+communaux.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-373 1977-03-28 JORF et JONC 5 avril 1977
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Décret n°78-907 1978-09-04
+
+	**Cité par**:
+
+	  - Décret n°88-145 du 15 février 1988 - art. 50 (V)
+
+	**Abrogé par**:
+
+	  - Décret n°88-145 1988-02-15 art. 50 jorf 16 février 1988
+
+	**Cite**:
+
+	  - CODE DES COMMUNES. - art. L422-3 (M)
+
+
+##### Cessation de fonctions .
+
+###### Article R*422-37
+
+Les agents non titulaires des communes et de leurs établissements publics administratifs ont droit, en cas de licenciement, à
+une indemnité de licenciement déterminée dans les mêmes conditions que l'indemnité de licenciement versée aux agents civils
+non-fonctionnaires de l'Etat et des établissements publics de l'Etat.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - SPEC_APPLI: *Dispositions non applicables aux communes des départements de la Guadeloupe, de la Guyane, de la Martinique, de la Réunion et de Saint-Pierre-et-Miquelon*
+	  - SPEC_APPLI: CODE DES COMMUNES. - art. R442-1 (V)
+	  - SPEC_APPLI: Code des communes R442-1, R442-2 :
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
+
+	**Cité par**:
+
+	  - Décret n°88-145 du 15 février 1988 - art. 50 (V)
+
+	**Abrogé par**:
+
+	  - Décret n°88-145 1988-02-15 art. 50 jorf 16 février 1988
+
+
+###### Article R*422-38
+
+Les agents non titulaires des communes et de leurs établissements publics administratifs ont droit, en cas de licenciement et
+à condition d'avoir été employés de manière permanente, à l'allocation [*servie par la collectivité intéressée*] mentionnée à
+l'article L. 422-4 et désignée par l'expression "allocation pour perte d'emploi", dans les conditions fixées par le décret n°
+68-1130 du 16 décembre 1968.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - SPEC_APPLI: *Dispositions non applicables aux communes des départements de la Guadeloupe, de la Guyane, de la Martinique, de la Réunion et de Saint-Pierre-et-Miquelon*
+	  - SPEC_APPLI: CODE DES COMMUNES. - art. R442-1 (V)
+	  - SPEC_APPLI: Code des communes R442-1, R442-2 :
+
+	**Cite**:
+
+	  - Décret n°68-1130 1968-12-16
+	  - CODE DES COMMUNES. - art. L422-4 (M)
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
+
+	**Abrogé par**:
+
+	  - Décret n°88-145 1988-02-15 art. 50 jorf 16 février 1988
+
+
+###### Article R*422-39
+
+Les agents non titulaires des communes et de leurs établissements publics administratifs, mentionnés à l'article précédent,
+peuvent prétendre [*en cas de licenciement et à condition d'avoir été employés de manière permanente*] à l'allocation
+supplémentaire d'attente dans les conditions et suivant les modalités fixées par le décret n° 75-246 du 14 avril 1975.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - SPEC_APPLI: *Dispositions non applicables aux communes des départements de la Guadeloupe, de la Guyane, de la Martinique, de la Réunion et de Saint-Pierre-et-Miquelon*
+	  - SPEC_APPLI: CODE DES COMMUNES. - art. R442-1 (V)
+	  - SPEC_APPLI: Code des communes R442-1, R442-2 :
+
+	**Cite**:
+
+	  - Décret n°75-246 1975-04-14
+	  - Code des communes R422-38
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
+
+	**Abrogé par**:
+
+	  - Décret n°88-145 1988-02-15 art. 50 jorf 16 février 1988
+
+
+###### Article R*422-40
+
+Les agents non titulaires des communes et de leurs établissements publics administratifs, qui ont accompli un service continu
+pendant une durée déterminée alors même qu'ils n'ont pas été employés à titre permanent, ont droit, en cas de licenciement, à
+l'allocation [*servie par la collectivité intéressée*] mentionnée à l'article L. 422-5 et désignée par l'expression
+"allocation pour perte d'emploi" dans les conditions fixées par le décret n° 75-256 du 16 avril 1975.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - SPEC_APPLI: *Dispositions non applicables aux communes des départements de la Guadeloupe, de la Guyane, de la Martinique, de la Réunion et de Saint-Pierre-et-Miquelon*
+	  - SPEC_APPLI: CODE DES COMMUNES. - art. R442-1 (V)
+	  - SPEC_APPLI: Code des communes R442-1, R442-2 :
+
+	**Cite**:
+
+	  - Décret n°75-256 1975-04-16
+	  - CODE DES COMMUNES. - art. L422-5 (M)
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
+
+	**Abrogé par**:
+
+	  - Décret n°88-145 1988-02-15 art. 50 jorf 16 février 1988
+
+
+### Dispositions particulières
+
+#### Dispositions applicables à la ville de Paris
+
+##### Dispositions générales et organiques
+
+##### Le conseil administratif supérieur .
+
+###### Article R*444-21
+
+Le conseil administratif supérieur de la commune et du département de Paris, présidé par un conseiller d'Etat nommé par
+décret, comprend une section communale et une section départementale [*composition*].
+
+Ce conseil a compétence pour toutes les questions d'ordre général intéressant le personnel. Il soumet le résultat de ses
+travaux ou formule des suggestions à l'autorité intéressée.
+
+Le président a voix prépondérante en cas de partage des voix.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°76-1041 1976-11-16 ART. 20 AL. 1, 4 et 5
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
+
+	**Abrogé par**:
+
+	  - Decret 84-346 1984-05-10 art. 37 jorf 11 mai 1984
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°84-346 1984-05-10 ART. 37 AL. 1
+
+	**Cité par**:
+
+	  - Décret n°84-346 du 10 mai 1984 - art. 37 (V)
+
+
+###### Article R*444-22
+
+La section communale [*du conseil administratif supérieur*] est composée de deux sous-sections.
+
+Chacune de ces sous-sections est composée, outre le président du conseil administratif supérieur, de vingt-deux membres dont
+la liste est arrêtée respectivement par le maire et le préfet de police, à savoir :
+
+Onze membres du conseil de Paris ; [*nombre*]        Onze représentants du personnel désignés sur la proposition des
+organisations syndicales de fonctionnaires.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°76-1041 1976-11-16 ART. 20 AL. 2 et 3
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
+
+	**Abrogé par**:
+
+	  - Decret 84-346 1984-05-10 art. 37 jorf 11 mai 1984
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°84-346 1984-05-10 ART. 37 AL. 1
+
+
+###### Article R*444-23
+
+Le conseil de Paris fixe par délibération les modalités de désignation des membres et de fonctionnement du conseil
+administratif supérieur.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°76-1041 1976-11-16 ART. 21
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
+
+	**Abrogé par**:
+
+	  - Decret 84-346 1984-05-10 art. 37 jorf 11 mai 1984
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°84-346 1984-05-10 ART. 37 AL. 1
+
+
+##### Les commissions et comités paritaires .
+
+###### Article R*444-26
+
+Les comités techniques paritaires sont compétents pour connaître des questions relatives :
+
+1° A l'organisation des établissements et services de la commune de Paris ;
+
+2° Au fonctionnement des établissements et services ;
+
+3° Aux programmes de modernisation des méthodes et techniques de travail et à leurs incidences sur la situation des
+personnels ;
+
+4° A l'élaboration et à la modification des règles statutaires [*particulières, fixées par le conseil de Paris, pour les
+personnels soumis au présent statut*] ;
+
+5° A l'examen des grandes orientations à définir pour l'accomplissement des tâches incombant aux services et établissements
+de la commune ;
+
+6° Aux problèmes d'hygiène et de sécurité.
+
+La consultation des comités techniques paritaires est obligatoire dans les cas prévus aux 3°, 4°, 5° et 6° ci-dessus.
+
+Les comités techniques paritaires comprennent : [*composition*]        D'une part, le maire de Paris [*attributions*] ou son
+représentant, président, et des délégués choisis par lui parmi les chefs de service de la commune ;
+
+D'autre part, en nombre égal, des représentants du personnel désignés par les organisations syndicales les plus
+représentatives.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°76-1041 1976-11-16 ART. 24
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
+
+	**Abrogé par**:
+
+	  - Décret n°85-565 1985-05-30 art. 34 JORF 2 Juin 1985
+
+	**Cite**:
+
+	  - Code des communes R444-3
+
+
+##### Recrutement .
+
+###### Article R*444-29
+
+Nul ne peut être nommé à un emploi permanent de la commune de Paris et de ses établissements publics mentionnés à l'article
+R. 444-1 : [*conditions normales de recrutement*]        1° S'il ne possède la nationalité française, ou s'il est frappé des
+incapacités prévues par le code de la nationalité française ;
+
+2° S'il ne jouit de ses droits civiques et s'il n'est de bonne moralité ;
+
+3° S'il ne se trouve en position régulière au regard des dispositions du code du service national ;
+
+4° S'il ne remplit les conditions d'âge et d'aptitude physique exigées pour l'exercice de la fonction et s'il n'est reconnu,
+soit indemne de toute affection tuberculeuse, cancéreuse ou nerveuse, soit définitivement guéri.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°76-1041 1976-11-16 ART. 27
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
+
+	**Cite**:
+
+	  - Code des communes R444-1
+	  - Code de la nationalité
+	  - Code du service national
+
+
+###### Article R*444-31
+
+Sous réserve des mesures prévues par la législation sur les emplois réservés en ce qui concerne les catégories B, C et D, les
+fonctionnaires de la commune de Paris sont recrutés par voie de concours [*conditions normales de recrutement*].
+
+Les concours donnent lieu à l'établissement de listes classant par ordre de mérite les candidats déclarés aptes par un jury.
+Les nominations sont faites suivant cet ordre.
+
+Le maire de Paris peut désigner comme délégués, au sein des jurys, les chefs de service de la commune.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°76-1041 1976-11-16 ART. 29
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-373 1977-03-28 JORF et JONC 5 avril 1977
+
+
+###### Article R*444-32
+
+Les candidats aux fonctions des catégories A, B et C sont recrutés suivant l'une des modalités ci-après ou suivant l'une ou
+l'autre de ces modalités : [*conditions normales de recrutement*]        1° Concours distincts ouverts, d'une part, aux
+candidats justifiant de certains diplômes ou de l'accomplissement de certaines études et, d'autre part, aux candidats
+fonctionnaires de la commune de Paris ou aux agents en fonctions de cette collectivité ayant accompli une certaine durée de
+services ;
+
+2° Concours réservés aux fonctionnaires de la commune de Paris et de ses établissements [*publics*] mentionnés à l'article R.
+444-1, qui ont accompli un temps de service déterminé et, le cas échéant, reçu une certaine formation.
+
+Des dispositions réglementaires doivent assurer des facilités de formation et d'accès aux catégories supérieures à tous les
+fonctionnaires de la commune de Paris qui ont les aptitudes nécessaires.
+
+Les statuts particuliers peuvent, à titre exceptionnel, en vue d'assurer aux fonctionnaires de certains corps de la commune
+de Paris le développement normal de leur carrière, autoriser cet accès soit par voie d'examen professionnel, soit par voie
+d'inscription au tableau d'avancement.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°76-1041 1976-11-16 ART. 30
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-373 1977-03-28 JORF et JONC 5 avril 1977
+
+	**Cite**:
+
+	  - Code des communes R444-1
+
+
+##### REMUNERATION .
+
+###### Article R*444-40
+
+Le conseil de Paris fixe par délibération les indemnités des personnels soumis au présent statut dans la limite du plafond
+déterminé par arrêté du ministre de l'intérieur pour les emplois homologues des communes.
+
+Toutefois pour les indemnités des titulaires d'emplois non homologues aux emplois communaux, la délibération du conseil de
+Paris est soumise à l'approbation du ministre de l'intérieur après avis du ministre de l'économie et des finances.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°76-1041 1976-11-16 ART. 37
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-373 1977-03-28 JORF et JONC 5 avril 1977
+
+
+##### AVANCEMENT .
+
+###### Article R*444-50
+
+Le grade est [**]définition[**] le titre qui confère à ses bénéficiaires vocation à occuper l'un des emplois qui leur sont
+réservés.
+
+L'avancement de grade a lieu :
+
+1° Soit au choix par voie d'inscription à un tableau annuel d'avancement établi après avis de la commission administrative
+paritaire [**]conditions de forme[**] par appréciation de la valeur professionnelle des agents ou après une sélection
+professionnelle réalisée sur épreuves par voie d'examen ou de concours ;
+
+2° Soit par sélection opérée exclusivement par voie d'épreuves professionnelles sous forme d'examen ou de concours.
+
+Les statuts particuliers de chaque corps fixent les principes et les modalités de la sélection, et notamment les grades et
+échelons dont les titulaires sont admis à participer aux épreuves.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°76-1041 1976-11-16 ART. 46
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-373 1977-03-28 JORF et JONC 5 avril 1977
+
+
+##### Positions
+
+##### Activité, congés
+
+##### Service à temps partiel .
+
+###### Article R*444-90
+
+Le fonctionnaire titulaire en activité ou en service détaché, qui occupe un emploi conduisant à pension de la caisse
+nationale de retraites des agents des collectivités locales, peut, sur sa demande et dans les cas et conditions déterminés au
+présent paragraphe [*relatif au service à mi-temps*], être autorisé, compte tenu des nécessités de fonctionnement du service,
+à accomplir un service à mi-temps.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Ordonnance 45-993 1945-05-17 ART. 3
+	  - Décret n°47-1846 1947-09-19 MODIFIE
+	  - Décret n°65-773 1965-09-09 MODIFIE
+	  - CODE DES COMMUNES. - art. R*444-93 (M)
+
+	**Anciens textes**:
+
+	  - Décret n°76-1041 1976-11-16 ART. 84
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
+
+
+###### Article R*444-91
+
+Lorsqu'un fonctionnaire bénéficiaire d'une autorisation de travail à mi-temps est appelé à suivre un stage préalable à une
+titularisation dans un nouveau grade ou un nouveau corps, cette autorisation peut être maintenue ou renouvelée pendant le
+stage dont la durée est alors doublée.
+
+Cette disposition ne s'applique pas aux stages accomplis dans une école de formation.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°76-1041 1976-11-16 ART. 85
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
+
+
+###### Article R*444-92
+
+Est considéré comme effectué à mi-temps un service hebdomadaire d'une durée au moins égale à la moitié de la durée requise
+des agents exerçant à temps plein les mêmes fonctions [*définition*].
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°76-1041 1976-11-16 ART. 86 AL. 1
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
+
+
+##### Service à mi-temps.
+
+###### Article R*444-95
+
+Le maire de Paris peut à tout moment faire procéder aux enquêtes nécessaires en vue de s'assurer que les conditions
+auxquelles est subordonnée l'autorisation d'exercice d'une fonction à mi-temps sont réunies.
+
+Au cas où ces conditions ne sont plus réunies, le fonctionnaire intéressé est tenu de reprendre des fonctions à plein temps
+sous réserve [*qu'un emploi à temps plein soit vacant*] des dispositions du troisième alinéa de l'article R. 444-101.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°76-1041 1976-11-16 ART. 88
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-373 1977-03-28 JORF ET JONC 5 AVRIL 1977
+
+	**Cite**:
+
+	  - Code des communes R444-101 AL. 3
+
+
+###### Article R*444-96
+
+Pour le calcul de l'ancienneté exigée pour l'avancement d'échelon et de grade, la période pendant laquelle les intéressés ont
+été affectés à des fonctions à mi-temps est comptée pour la totalité de sa durée.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°76-1041 1976-11-16 ART. 89 AL. 1
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-373 1977-03-28 JORF ET JONC 5 AVRIL 1977
+
+
+###### Article R*444-97
+
+Le fonctionnaire qui exerce une fonction à mi-temps perçoit 50 p. 100 [*pourcentage*] du traitement, de l'indemnité de
+résidence et du supplément familial de traitement afférents à son emploi, grade, classe et échelon.
+
+Le conseil de Paris [**]compétence[**] détermine, par délibération, les modalités particulières de fixation des indemnités
+auxquelles ont droit les fonctionnaires qui exercent une fonction à mi-temps, dans la limite du plafond fixé par l'arrêté du
+ministre de l'intérieur.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°76-1041 1976-11-16 ART. 89 AL. 2 et 3
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-373 1977-03-28 JORF ET JONC 5 AVRIL 1977
+
+
+###### Article R*444-98
+
+Le fonctionnaire qui exerce une fonction à mi-temps a droit aux congés dans les mêmes conditions que le fonctionnaire en
+activité ou en service détaché.
+
+Il perçoit pendant ces congés des émoluments égaux à 50 p. 100 [*pourcentage*] de ceux prévus pour le fonctionnaire
+travaillant à temps plein.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°76-1041 1976-11-16 ART. 89 AL. 4
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-373 1977-03-28 JORF ET JONC 5 AVRIL 1977
+
+
+###### Article R*444-99
+
+Pendant la période de mi-temps, le fonctionnaire qui bénéficie du congé pour couches et allaitement ou du congé de maladie de
+longue durée perçoit la moitié des émoluments auxquels il aurait eu droit dans cette situation s'il travaillait à temps plein
+[*proportion*].
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°76-1041 1976-11-16 ART. 89 AL. 5
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-373 1977-03-28 JORF ET JONC 5 AVRIL 1977
+
+
+###### Article R*444-100
+
+A l'issue de la période au cours de laquelle il a bénéficié de la situation de fonctionnaire à mi-temps, l'intéressé recouvre
+les droits du fonctionnaire qui exerce à temps plein.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°76-1041 1976-11-16 ART. 89 AL. 6
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-373 1977-03-28 JORF ET JONC 5 AVRIL 1977
+
+
+###### Article R*444-101
+
+Les fonctionnaires qui exercent une fonction à mi-temps sont rémunérés sur la base des crédits ouverts pour des emplois à
+temps plein.
+
+Un emploi budgétaire peut être occupé par deux fonctionnaires qui exercent une fonction à mi-temps.
+
+Sous réserve qu'un emploi soit vacant et dès la cessation de ses fonctions à mi-temps, l'intéressé est de nouveau chargé de
+fonctions à temps plein.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°76-1041 1976-11-16 ART. 90
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-373 1977-03-28 JORF ET JONC 5 AVRIL 1977
+
+
+##### Congés de maladie .
+
+###### Article R*444-110
+
+En cas de maladie, dûment constatée et mettant le fonctionnaire dans l'impossibilité d'exercer ses fonctions, celui-ci est de
+droit mis en congé, après avis du médecin de l'administration communale assermenté ou éventuellement à la suite d'une
+expertise effectuée par un comité médical [**]conditions de forme[**].
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°76-1041 1976-11-16 ART. 95
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
+
+	**Abrogé par**:
+
+	  - Décret n°87-602 du 30 juillet 1987 - art. 42 (V) JORF 1 août 1987
+
+
+###### Article R*444-111
+
+Le préfet de Paris [**]attributions[**] institue, pour le personnel de la commune de Paris, dans les conditions prévues par
+l'article 5 du décret n° 59-310 du 14 février 1959, un comité médical compétent pour les fonctionnaires de la commune de
+Paris placés sous l'autorité du maire, et un autre pour les fonctionnaires de la commune de Paris placés sous l'autorité du
+préfet de police.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Décret n°59-310 1959-02-14 ART. 5
+
+	**Anciens textes**:
+
+	  - Décret n°76-1041 1976-11-16 ART. 96
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
+
+	**Abrogé par**:
+
+	  - Décret n°87-602 du 30 juillet 1987 - art. 42 (V) JORF 1 août 1987
+
+
+###### Article R*444-112
+
+Le fonctionnaire peut bénéficier du congé de maladie prévu à l'article R. 444-110 pendant une période de douze mois
+consécutifs ; il conserve alors l'intégralité de son traitement pendant une durée de trois mois ; ce traitement [*montant*]
+est réduit de moitié pendant les neuf mois suivants. Le fonctionnaire conserve en outre ses droits à la totalité des
+suppléments pour charges de famille.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°76-1041 1976-11-16 ART. 97
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
+
+	**Abrogé par**:
+
+	  - Décret n°87-602 du 30 juillet 1987 - art. 42 (V) JORF 1 août 1987
+
+	**Cite**:
+
+	  - Code des communes R444-110
+
+
+###### Article R*444-113
+
+Lorsque le fonctionnaire est atteint d'une affection dûment constatée qui le met dans l'impossibilité d'exercer ses fonctions
+et rend nécessaire un traitement et des soins coûteux et prolongés, il a droit à un congé de longue maladie d'une durée
+maximale de trois ans.
+
+Il conserve l'intégralité de son traitement [*montant*] pendant un an ; ce traitement est réduit de moitié pendant les deux
+années qui suivent.
+
+L'intéressé conserve en outre ses droits à la totalité des suppléments pour charges de famille.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°76-1041 1976-11-16 ART. 98 AL. 1
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
+
+	**Abrogé par**:
+
+	  - Décret n°87-602 du 30 juillet 1987 - art. 42 (V) JORF 1 août 1987
+
+
+###### Article R*444-114
+
+Le fonctionnaire qui a obtenu un congé de longue maladie ne peut bénéficier d'un autre congé de cette nature s'il n'a pas
+auparavant repris l'exercice de ses fonctions pendant un an.
+
+Les dispositions du deuxième alinéa de l'article suivant [*cas où la maladie provient de l'une des causes prévues à l'article
+L. 27 du code des pensions civiles et militaires de retraite*] sont applicables au congé de longue maladie.
+
+Les affections ouvrant droit au congé de longue maladie sont définies à l'article 36 bis du décret n° 59-310 du 14 février
+1959 modifié.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°76-1041 1976-11-16 ART. 98 AL. 2 et 3
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
+
+	**Abrogé par**:
+
+	  - Décret n°87-602 du 30 juillet 1987 - art. 42 (V) JORF 1 août 1987
+
+	**Cite**:
+
+	  - Code des communes R444-115 AL. 2
+	  - Code des pensions civiles et militaires de retrait - art. L27 (M)
+
+
+###### Article R*444-115
+
+Le fonctionnaire qui a obtenu pendant une période de douze mois consécutifs des congés de maladie d'une durée totale de douze
+mois et qui ne peut, à l'expiration de son dernier congé, reprendre son service, est soit mis en disponibilité [*d'office,
+pour raison de santé*] dans les conditions prévues à l'article R. 444-151, soit, sur sa demande et s'il est reconnu
+définitivement inapte, admis à la retraite.
+
+Toutefois, lorsque la maladie ou l'accident provient de l'une des causes prévues à l'article L. 27 du code des pensions
+civiles et militaires de retraite [*blessures ou maladies contractées ou aggravées, soit en service, soit en accomplissant un
+acte de dévouement dans un intérêt public, soit en exposant ses jours pour sauver la vie d'une ou plusieurs personnes*], le
+fonctionnaire conserve l'intégralité de son traitement [*durée*] jusqu'à ce qu'il soit en état de reprendre son service ou
+jusqu'à sa mise à la retraite. Il a droit en outre au remboursement des honoraires médicaux et des frais directement
+entraînés par la maladie ou l'accident.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°76-1041 1976-11-16 ART. 99
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
+
+	**Abrogé par**:
+
+	  - Décret n°87-602 du 30 juillet 1987 - art. 42 (V) JORF 1 août 1987
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code des communes R444-114 AL. 2
+
+	**Cite**:
+
+	  - Code des communes R444-151
+	  - Code des pensions civiles et militaires de retrait - art. L27 (M)
+
+
+###### Article R*444-116
+
+Le fonctionnaire atteint de l'une des maladies mentionnées au 3° de l'article 36 de l'ordonnance n° 59-244 du 4 février 1959
+relative au statut général des fonctionnaires de l'Etat est de droit mis en congé de longue durée. Il est aussitôt remplacé
+dans sa fonction. Il conserve pendant les trois premières années l'intégralité de son traitement. Pendant les deux années qui
+suivent, il subit une retenue de moitié [*quotité*].
+
+Toutefois, lorsque la maladie qui donne droit à un congé de longue durée a été contractée dans l'exercice des fonctions, les
+délais fixés par l'alinéa précédent sont respectivement portés à cinq et trois années, après avis du comité médical supérieur
+relevant du ministre de la santé [**]conditions de forme[**].
+
+Le bénéfice de cette prolongation est étendu dans les mêmes conditions aux agents déportés et internés de la Résistance à
+l'occasion de l'exercice de leurs fonctions, lorsque la maladie ouvrant droit à congé de longue durée a été contractée au
+cours de leur déportation ou de leur internement.
+
+Pendant ces congés [*de longue durée*], le fonctionnaire conserve, en outre, ses droits à la totalité des suppléments pour
+charge de famille. Il a également droit, dans le cas prévu au deuxième alinéa ci-dessus, au remboursement des honoraires
+médicaux et des frais directement entraînés par la maladie.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Ordonnance 59-244 1959-02-04 ART. 36 3°
+
+	**Anciens textes**:
+
+	  - Décret n°76-1041 1976-11-16 ART. 100
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
+
+	**Abrogé par**:
+
+	  - Décret n°87-602 du 30 juillet 1987 - art. 42 (V) JORF 1 août 1987
+
+
+###### Article R*444-117
+
+Les fonctionnaires soumis aux dispositions du présent statut, qui remplissent les conditions exigées des fonctionnaires de
+l'Etat pour bénéficier des dispositions de l'article 41 de la loi du 19 mars 1928 relative aux congés à plein traitement
+susceptibles d'être accordés aux fonctionnaires réformés de guerre, peuvent demander qu'il leur soit fait application de ces
+dispositions en ce qui concerne les cas d'indisponibilité résultant de leurs infirmités de guerre.
+
+Le bénéfice de ces dispositions [*de l'article 41 de la loi du 19 mars 1928, congés à plein traitement*] est étendu :
+
+1° Aux fonctionnaires atteints d'infirmités contractées ou aggravées au cours d'une guerre ou d'une expédition déclarée
+campagne de guerre ayant ouvert droit à pension au titre du livre Ier du code des pensions militaires d'invalidité et des
+victimes de guerre.
+
+2° Aux fonctionnaires atteints d'infirmités ayant ouvert droit à pension, au titre :
+
+Du titre III du livre II du code des pensions militaires d'invalidité et des victimes de guerre ;
+
+De la loi n° 55-1074 du 6 août 1955 relative aux avantages accordés aux personnels militaires participant au maintien de
+l'ordre dans certaines circonstances, complétée par l'ordonnance n° 59-261 du 4 février 1959 modifiant certaines dispositions
+du code des pensions militaires d'invalidité et des victimes de guerre (art. 1er) ;
+
+De la loi n° 59-901 du 31 juillet 1959 relative à la réparation des dommages physiques subis en métropole par les personnes
+de nationalité française par suite des événements qui se déroulent en Algérie.
+
+3° Aux agents déportés ou internés de la Résistance, atteints d'infirmités résultant de blessures reçues ou de maladies
+contractées au cours de leur déportation ou de leur internement pour faits de résistance ayant ouvert droit à pension suivant
+les dispositions du code des pensions militaires d'invalidité et des victimes de guerre.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code des pensions militaires d'invalidité et des victimes de la guerre LIVRE II TITRE III
+	  - Loi n°1928-03-19 ART. 41
+	  - Loi n°55-1074 1955-08-06 COMPLETEE
+	  - Ordonnance 59-261 1959-02-04
+	  - Loi n°59-901 1959-07-31
+
+	**Anciens textes**:
+
+	  - Décret n°76-1041 1976-12-16 ART. 101
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
+
+	**Abrogé par**:
+
+	  - Décret n°87-602 du 30 juillet 1987 - art. 42 (V) JORF 1 août 1987
+
+
+###### Article R*444-118
+
+Le fonctionnaire qui ne peut, à l'expiration de son congé de longue durée ou de son congé de longue maladie, reprendre son
+service est soit mis en disponibilité, soit, sur sa demande et s'il est définitivement inapte, admis à la retraite.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°76-1041 1976-11-16 ART. 102
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
+
+	**Abrogé par**:
+
+	  - Décret n°87-602 du 30 juillet 1987 - art. 42 (V) JORF 1 août 1987
+
+
+###### Article R*444-119
+
+Le fonctionnaire bénéficiaire d'un congé de maladie doit se soumettre au contrôle exercé par l'administration communale.
+
+Celui qui, au cours de ce congé, se livrerait à une activité lucrative quelconque ne recevrait aucune rémunération et serait
+passible de sanctions disciplinaires.
+
+Sous peine des mêmes sanctions [*disciplinaires*], le bénéficiaire d'un congé de longue durée ou d'un congé de longue maladie
+doit se soumettre au contrôle de l'administration et, en outre, au régime que comporte son état. En cas de contestation, la
+question est soumise au comité médical. Le temps pendant lequel sa rémunération a été suspendue compte dans la période de
+congé en cours.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°76-1041 1976-11-16 ART. 103
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
+
+	**Abrogé par**:
+
+	  - Décret n°87-602 du 30 juillet 1987 - art. 42 (V) JORF 1 août 1987
+
+
+###### Article R*444-121
+
+Les congés de maladie sont considérés comme services accomplis       .
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°76-1041 1976-11-16 ART. 91 AL. 2 (PARTIE)
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
+
+	**Abrogé par**:
+
+	  - Décret n°87-602 du 30 juillet 1987 - art. 42 (V) JORF 1 août 1987
+
+
+##### ACTIVITES, CONGES .
+
+###### Article R*444-93
+
+Les fonctionnaires peuvent être autorisés à exercer des fonctions à mi-temps dans les cas suivants :
+
+1° Pour élever un ou plusieurs enfants à charge de moins de douze ans ;
+
+2° Pour soigner un enfant atteint d'une infirmité exigeant des soins continus ;
+
+3° Pour assister le conjoint, un ascendant ou un enfant si leur état nécessite, à la suite d'un accident ou d'une maladie
+grave, la présence d'une tierce personne ;
+
+4° Sur avis conforme du comité médical [**]conditions de forme[**], pour les fonctionnaires auxquels a été reconnu un taux
+d'invalidité ou bénéficiaire de l'allocation temporaire d'invalidité d'au moins 85 p. 100 ouvrant droit à une pension
+militaire d'invalidité ou bénéficiaires de l'allocation temporaire d'invalidité prévue à l'article R. 444-41 et résultant
+d'une incapacité permanente d'au moins 50 p. 100 [*pourcentage*] ;
+
+5° Fonctionnaires pour lesquels, en raison d'un accident ou d'une maladie grave, le comité médical a émis un avis favorable à
+l'exercice d'une fonction à mi-temps :
+
+6° Fonctionnaires auxquels la commission technique d'orientation et de reclassement professionnel prévue par la loi n° 75-534
+du 30 juin 1975 d'orientation en faveur des travailleurs handicapés, a reconnu la qualité de personnes handicapées ;
+
+7° Fonctionnaires se trouvant dans la période de cinq ans précédant la limite d'âge de leur grade.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°75-534 1975-06-30
+	  - Code des communes R444-41
+
+	**Anciens textes**:
+
+	  - Décret n°76-1041 1976-11-16 ART. 86 AL. 2
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
+
+	**Cité par**:
+
+	  - CODE DES COMMUNES. - art. R*444-90 (M)
+
+
+###### Article R*444-94
+
+L'autorisation d'exercer une fonction à mi-temps est donnée pour une période maximale de trois ans renouvelable.
+
+Toutefois, l'exercice d'une fonction à mi-temps au titre du 5° de l'article précédent [*accident ou maladie grave*] ne peut
+être accordé que pour une durée d'un an maximum ; cette durée peut être renouvelée par période d'un an [**]fréquence[**]
+après avis du comité médical [**]conditions de forme[**] et dans les limites indiquées ci-après.
+
+L'application des dispositions du présent statut ne peut avoir pour effet de permettre à un fonctionnaire de demeurer plus de
+douze ans à mi-temps au cours de l'ensemble de sa carrière, hormis dans le cas prévu au 6° de l'article précédent [*personnes
+handicapées*] pour lequel la limitation doit correspondre à la durée du handicap reconnu par la commission technique
+d'orientation et de reclassement professionnel.
+
+Le fonctionnaire à mi-temps qui cesse de remplir l'une des conditions exigées pour l'exercice d'une fonction à mi-temps en
+avise sans délai son administration ; il est chargé de fonctions à temps plein.
+
+Le fonctionnaire qui exerce une fonction à mi-temps peut à tout moment demander à exercer des fonctions à temps plein.
+
+Les dispositions du présent article s'appliquent sous réserve [*qu'un emploi à temps plein soit vacant*] des dispositions du
+troisième alinéa de l'article R. 444-101.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°76-1041 1976-11-16 ART. 87
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
+
+	**Cite**:
+
+	  - Code des communes R444-101 AL. 3
+
+
+##### Détachement .
+
+###### Article R*444-125
+
+Le détachement       est la position du fonctionnaire de la commune de Paris qui est placé hors de son corps d'origine et
+continue à bénéficier, dans ce corps, de ses droits à l'avancement et à la retraite.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°76-1041 1976-11-16 ART. 108
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
+
+	**Abrogé par**:
+
+	  - Décret n°86-68 1986-01-13 art. 35 JORF 16 janvier 1986
+
+	**Cité par**:
+
+	  - Décret n°86-68 du 13 janvier 1986 - art. 35 (V)
+
+
+###### Article R*444-126
+
+Tout détachement est prononcé, par arrêté du maire de Paris, à la demande du fonctionnaire et en accord avec l'administration
+auprès de laquelle le détachement est sollicité.
+
+Il est essentiellement révocable.
+
+Dans le cas prévu au 6E et 8E de l'article R. 444-127, le détachement est accordé de plein droit.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°76-1041 1976-11-16 ART. 109
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-375 1977-03-28 JORF et JONC 5 avril 1977
+
+	**Abrogé par**:
+
+	  - Décret n°86-68 1986-01-13 art. 35 JORF 16 janvier 1986
+
+	**Cite**:
+
+	  - Code des communes R444-127 6 et 8
+
+
+###### Article R*444-127
+
+Le détachement ne peut avoir lieu que dans l'un des cas suivants :
+
+1° Détachement pour occuper un emploi conduisant à pension de la caisse nationale de retraites des agents des collectivités
+locales soit dans un autre corps de la même collectivité, soit auprès des départements, communes ou de leurs établissements
+publics ;
+
+2° Détachement auprès des administrations ou entreprises publiques de l'Etat, des offices ou établissements publics autres
+que départementaux ou communaux et des territoires d'outre-mer ;
+
+3° Détachement auprès des collectivités mentionnées au 1° ci-dessus dans un emploi ne conduisant pas à pension de la caisse
+nationale de retraites des agents des collectivités locales ou détachement auprès d'une entreprise privée, sous réserve que
+ce détachement satisfasse aux conditions exigées pour les fonctionnaires de l'Etat ;
+
+4° Détachement pour exercer un enseignement ou remplir une mission publique à l'étranger ou auprès d'organismes
+internationaux ;
+
+5° Détachement pour exercer les fonctions de membre du Gouvernement, une fonction publique élective ou un mandat syndical
+lorsque la fonction, ou le mandat, comporte des obligations empêchant d'assurer normalement l'exercice de la fonction ;
+
+6° Détachement auprès d'une entreprise privée pour y effectuer des travaux nécessités par l'exécution du programme de
+recherche d'intérêt national défini par le comité interministériel de la recherche scientifique et technique. Dans ce cas, il
+est mis fin au détachement lorsque le ministre chargé de la recherche
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°76-1041 1976-11-16 ART. 110
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-373 1977-03-28 JORF et JONC 5 avril 1977
+
+
+###### Article R*444-128
+
+Il existe deux sortes de détachement : 
+
+1° Le détachement de courte durée ou délégation   ; 2° Le détachement de longue durée.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°76-1041 1976-11-16 ART. 111
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
+
+	**Abrogé par**:
+
+	  - Décret n°86-68 1986-01-13 art. 35 JORF 16 janvier 1986
+
+
+###### Article R*444-129
+
+Le détachement de courte durée ne peut excéder six mois ni faire l'objet d'aucun renouvellement.
+
+A l'expiration du détachement et, en tout état de cause, de ce délai de six mois, le fonctionnaire détaché en application du
+présent article est réintégré dans son emploi antérieur.
+
+Le délai fixé au premier alinéa est porté à un an pour les fonctionnaires en service dans les territoires d'outre-mer ou à
+l'étranger.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°76-1041 1976-11-16 ART. 112
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
+
+	**Abrogé par**:
+
+	  - Décret n°86-68 1986-01-13 art. 35 JORF 16 janvier 1986
+
+
+###### Article R*444-130
+
+Le détachement de longue durée ne peut excéder cinq années.
+
+Toutefois, sous réserve des dispositions de l'article R. 444-13 [*détachement présentant pour le fonctionnaire des intérêts
+de nature à compromettre son indépendance*], il peut être indéfiniment renouvelé par période de cinq années
+[**]fréquence[**].          Le fonctionnaire qui fait l'objet d'un détachement de longue durée peut être aussitôt
+[**]délai[**] remplacé dans son emploi.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°76-1041 1976-11-16 ART. 113
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
+
+	**Abrogé par**:
+
+	  - Décret n°86-68 1986-01-13 art. 35 JORF 16 janvier 1986
+
+	**Cite**:
+
+	  - Code des communes R444-13
+
+
+###### Article R*444-131
+
+A l'expiration du détachement de longue durée, le fonctionnaire détaché est réintégré, à la première vacance, dans son corps
+d'origine et réaffecté à un emploi correspondant à son grade dans ce corps.
+
+Il a priorité pour être affecté au poste qu'il occupait avant son détachement. Lorsqu'il refuse le poste qui lui est assigné,
+il ne peut être nommé au poste auquel il peut prétendre ou à un poste équivalent dans la résidence où il exerçait avant son
+détachement que lorsqu'une vacance est budgétairement ouverte.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°76-1041 1976-11-16 ART. 114
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
+
+	**Abrogé par**:
+
+	  - Décret n°86-68 1986-01-13 art. 35 JORF 16 janvier 1986
+
+
+###### Article R*444-132
+
+Le fonctionnaire qui fait l'objet d'un détachement de longue durée pour servir dans un territoire d'outre-mer ou pour remplir
+une mission publique à l'étranger ou auprès d'un organisme international est réintégré immédiatement dans son corps
+d'origine, lorsqu'il est mis fin à son détachement pour une cause autre qu'une faute commise dans l'exercice de ses
+fonctions.
+
+Dans cette hypothèse, lorsqu'aucun emploi de son grade n'est vacant dans son corps d'origine, l'intéressé est réintégré en
+surnombre.
+
+Le surnombre ainsi créé est résorbé à la première vacance à s'ouvrir dans le grade considéré.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°76-1041 1976-11-16 ART. 115
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
+
+
+###### Article R*444-133
+
+Un détachement de longue durée, prononcé sur la demande du fonctionnaire dans le cas prévu au 6° de l'article R. 444-127
+[*détachement auprès d'une entreprise privée pour y effectuer des travaux nécessités par l'exécution du programme de
+recherche d'intérêt national défini par le comité interministériel de la recherche scientifique et technique*] ne peut être
+renouvelé qu'à titre exceptionnel et pour une seule période de cinq ans.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°76-1041 1976-11-16 ART. 116
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-373 1977-03-28 JORF et JONC 5 avril 1977
+
+	**Cite**:
+
+	  - Code des communes R444-127 6°
+
+
+###### Article R*444-134
+
+Le fonctionnaire détaché est soumis à l'ensemble des règles régissant la fonction qu'il exerce par l'effet de son
+détachement.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°76-1041 1976-11-16 ART. 117
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
+
+	**Abrogé par**:
+
+	  - Décret n°86-68 1986-01-13 art. 35 JORF 16 janvier 1986
+
+
+###### Article R*444-135
+
+Le fonctionnaire bénéficiaire d'un détachement de longue durée est noté, dans les conditions prévues par la section IV
+[*notation et avancement*] du présent statut, par le chef de service dont il dépend dans l'administration ou le service où il
+est détaché. Sa fiche de notation est transmise à son administration d'origine.
+
+En cas de détachement de courte durée, le chef de service dont dépend le fonctionnaire détaché transmet par la voie
+hiérarchique au chef de l'administration d'origine, à l'expiration du détachement, une appréciation sur l'activité du
+fonctionnaire détaché.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°76-1041 1976-11-16 ART. 118
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
+
+	**Abrogé par**:
+
+	  - Décret n°86-68 1986-01-13 art. 35 JORF 16 janvier 1986
+
+	**Cite**:
+
+	  - Code des communes R444-42 à R444-64
+
+
+###### Article R*444-136
+
+La note attribuée, dans les conditions prévues au premier alinéa de l'article qui précède, au fonctionnaire détaché [*pour
+une longue durée*] est corrigée de façon à tenir compte de l'écart entre la moyenne de la notation des fonctionnaires de même
+grade dans son administration, d'une part, et dans l'administration ou service où il est détaché, d'autre part.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°76-1041 1976-11-16 ART. 119
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
+
+	**Abrogé par**:
+
+	  - Décret n°86-68 1986-01-13 art. 35 JORF 16 janvier 1986
+
+	**Cite**:
+
+	  - Code des communes R444-135 AL. 1
+
+
+###### Article R*444-137
+
+Le fonctionnaire détaché supporte la retenue de 6 p. 100 [*pourcentage*] pour la retraite sur les émoluments soumis à retenue
+afférents à son grade et à son échelon dans le service dont il est détaché sauf dans le cas où il lui est fait application de
+l'article suivant.
+
+A cette retenue, s'ajoutent dans les conditions fixées par le règlement de la caisse nationale de retraites des agents des
+collectivités locales les contributions prévues audit règlement.
+
+Ces contributions, qui sont versées à la caisse nationale de retraites des agents des collectivités locales par
+l'administration d'origine, sont à la charge de l'administration, service ou organisme auprès duquel le fonctionnaire est
+détaché.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°76-1041 1976-11-16 ART. 120
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
+
+	**Abrogé par**:
+
+	  - Décret n°86-68 1986-01-13 art. 35 JORF 16 janvier 1986
+
+	**Cite**:
+
+	  - Code des communes R444-138
+
+
+###### Article R*444-138
+
+Dans le cas où un fonctionnaire de la commune de Paris est détaché dans un emploi de cette collectivité dont le personnel est
+soumis au présent statut, et conduisant à pension de la caisse nationale de retraites des agents des collectivités locales,
+la retenue pour pension est calculée, si l'intéressé en fait la demande, sur le traitement afférent au nouvel emploi.
+
+Dans cette dernière éventualité, la limite d'âge [**]définition[**] applicable au fonctionnaire est celle de cet emploi.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Ordonnance 45-993 1945-05-17 ART. 3
+	  - Décret n°47-1846 1947-09-19 MODIFIE
+	  - Décret n°65-773 1965-09-09 MODIFIE
+
+	**Anciens textes**:
+
+	  - Décret n°76-1041 1976-11-16 ART. 121
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-373 1977-03-28 JORF et JONC 5 avril 1977
+
+
+###### Article R*444-139
+
+Les fonctionnaires titulaires qui appartiennent à un corps dont la gestion relève du préfet de police peuvent, après avis de
+la commission administrative compétente, être nommés et titularisés directement dans un corps soumis à des règles statutaires
+identiques à celles du corps auquel ils appartiennent et dont la gestion relève du maire de Paris [*transfert*]. Ils y
+conservent le bénéfice de leur grade, de leur échelon et de leur ancienneté.
+
+Les dispositions de l'alinéa précédent sont applicables, réciproquement, aux fonctionnaires titulaires de la commune de Paris
+qui appartiennent à des corps gérés par le maire et à l'égard de ceux qui relèvent du préfet de police.
+
+Ces dispositions s'appliquent aux fonctionnaires des établissements publics de la commune de Paris soumis au présent statut
+[*champ d'application*].
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°76-1041 1976-11-16 ART. 122
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
+
+	**Abrogé par**:
+
+	  - Décret n°86-68 1986-01-13 art. 35 JORF 16 janvier 1986
+
+
+###### Article R*444-140
+
+Les fonctionnaires titulaires du département de Paris peuvent, après avis de la commission administrative paritaire
+compétente [**]conditions de forme[**], être nommés et titularisés directement dans un corps de la commune de Paris soumis à
+des règles statutaires identiques à celles du corps auquel ils appartiennent [*transfert*].
+
+Ils y conservent le bénéfice de leur grade, de leur échelon et de leur ancienneté.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°76-1041 1976-11-16 ART. 123
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
+
+	**Abrogé par**:
+
+	  - Décret n°86-68 1986-01-13 art. 35 JORF 16 janvier 1986
+
+
+###### Article R*444-141
+
+A l'expiration de la deuxième année de leur détachement [**]délai[**], les fonctionnaires de la commune de Paris qui
+appartiennent à un corps dont la gestion relève du préfet de police et qui remplissent les conditions prévues par les
+dispositions statutaires relatives à l'accès aux corps de fonctionnaires gérés par le maire de Paris dans lequel ils sont
+détachés, peuvent y être définitivement intégrés [*transfert*].
+
+Les dispositions du précédent alinéa sont applicables, réciproquement, aux fonctionnaires appartenant à des corps gérés par
+le maire de Paris à l'égard de ceux qui relèvent du préfet de police.
+
+Ces dispositions s'appliquent aux fonctionnaires des établissements publics de la commune de Paris soumis au présent statut
+[*champ d'application*].
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°76-1041 1976-11-16 ART. 124
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
+
+	**Abrogé par**:
+
+	  - Décret n°86-68 1986-01-13 art. 35 JORF 16 janvier 1986
+
+
+###### Article R*444-142
+
+A l'expiration de la deuxième année de leur détachement [**]délai[**], les fonctionnaires du département de Paris qui
+remplissent les conditions prévues par les dispositions statutaires régissant l'accès au corps de fonctionnaires de la
+commune de Paris dans lequel ils sont détachés, peuvent y être définitivement intégrés [*transfert*].
+
+A l'expiration de leur détachement, les fonctionnaires de l'Etat et les agents des collectivités locales et de leurs
+établissements publics, qui n'ont pas le caractère industriel et commercial, peuvent être intégrés dans les corps de
+fonctionnaires de la commune de Paris, dans les mêmes conditions que celles prévues à l'alinéa précédent.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°52-1041 1952-11-16 ART. 125
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
+
+	**Abrogé par**:
+
+	  - Décret n°86-68 1986-01-13 art. 35 JORF 16 janvier 1986
+
+
+##### POSITION HORS CADRE .
+
+###### Article R*444-143
+
+Le fonctionnaire qui compte au moins quinze années de services accomplis en position d'activité ou sous les drapeaux
+[*condition d'ancienneté*] dans un emploi conduisant à pension de la caisse nationale de retraites des agents des
+collectivités locales, détaché :
+
+Soit auprès d'une administration ou d'une entreprise publique dans un emploi ne conduisant pas à pension du régime général
+des retraites ou de l'un des régimes fixés à l'article L. 5 (3°, 4°, 5° et 6°) du code des pensions civiles et militaires de
+retraites ;
+
+Soit auprès d'organismes internationaux, peut, dans le délai de trois mois suivant son détachement, être placé, sur sa
+demande, en position hors cadre pour continuer à servir dans la même administration ou entreprise ou dans le même organisme.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Ordonnance 45-993 1945-05-17 ART. 3
+	  - Décret n°47-1846 1947-09-19 MODIFIE
+	  - Décret n°65-773 1965-09-09 MODIFIE
+	  - Code des pensions civiles et militaires de retraite L5 3°, 4°, 5° et 6°
+
+	**Anciens textes**:
+
+	  - Décret n°76-1041 1976-11-16 ART. 126 AL. 1
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-373 1977-03-28 JORF et JONC 5 avril 1977
+
+
+###### Article R*444-144
+
+La mise hors cadre est prononcée par le maire de Paris [**]compétence[**].
+
+Elle ne comporte aucune limitation de durée.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°76-1041 1976-11-16 ART. 126 AL. 3
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
+
+	**Abrogé par**:
+
+	  - Décret n°86-68 1986-01-13 art. 35 JORF 16 janvier 1986
+
+
+###### Article R*444-145
+
+Le fonctionnaire, dans la position hors cadre, cesse de bénéficier de ses droits à l'avancement et à la retraite.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°76-1041 1976-11-16 ART. 126 AL. 2
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
+
+	**Abrogé par**:
+
+	  - Décret n°86-68 1986-01-13 art. 35 JORF 16 janvier 1986
+
+
+###### Article R*444-146
+
+Le fonctionnaire en position hors cadre peut demander sa réintégration dans son corps d'origine.
+
+Celle-ci est prononcée dans les conditions prévues aux articles R. 444-131 et R. 444-132 [*relatifs à la réintégration après
+détachement*].
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°76-1041 1976-11-16 ART. 126 AL. 4
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
+
+	**Abrogé par**:
+
+	  - Décret n°86-68 1986-01-13 art. 35 JORF 16 janvier 1986
+
+	**Cite**:
+
+	  - Code des communes R444-131 et R444-132
+
+
+###### Article R*444-147
+
+Le fonctionnaire en position hors cadre est soumis aux régimes statutaires et de retraite régissant la fonction qu'il exerce
+dans cette position.
+
+Les retenues et contributions pour la retraite prévues [*en cas de détachement*] à l'article R. 444-137 ne sont pas
+exigibles.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°76-1041 1976-11-16 ART. 126 AL. 5
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
+
+	**Abrogé par**:
+
+	  - Décret n°86-68 1986-01-13 art. 35 JORF 16 janvier 1986
+
+	**Cite**:
+
+	  - Code des communes R444-137
+
+
+###### Article R*444-148
+
+Le fonctionnaire, lorsqu'il cesse d'être en position hors cadre et n'est pas réintégré dans son cadre d'origine, peut être
+mis à la retraite et prétendre à la pension prévue à l'article 6 du décret n° 65-773 du 9 septembre 1965 [*relatif au régime
+de retraite des tributaires de la caisse nationale de retraites des agents des collectivités locales*].
+
+La jouissance de cette pension est immédiate lorsque la mise hors cadre prend fin en raison d'une invalidité mettant le
+fonctionnaire dans l'impossibilité définitive et absolue tant de continuer l'exercice de ses fonctions dans l'organisme
+auprès duquel il avait été placé en position hors cadre que d'être réintégré dans son administration d'origine.
+
+Cette invalidité est appréciée dans les conditions prévues à l'article 25 du décret du 9 septembre 1965 par la commission de
+réforme compétente [**]conditions de forme[**].
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Ordonnance 45-993 1945-05-17 ART. 3
+
+	**Anciens textes**:
+
+	  - Décret n°76-1041 1976-11-16 ART. 126 AL. 6 à 8
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
+
+	**Abrogé par**:
+
+	  - Décret n°86-68 1986-01-13 art. 35 JORF 16 janvier 1986
+
+
+###### Article R*444-149
+
+En cas de réintégration, les droits à pension de l'intéressé au regard du régime des retraites recommencent à courir à
+compter de la réintégration.
+
+Toutefois, dans le cas où il ne pourrait prétendre à pension au titre du régime de retraite auquel il a été affilié pendant
+sa mise hors cadre, il peut, dans les trois mois [**]délai[**] suivant sa réintégration, solliciter la prise en compte de la
+période considérée dans le régime de retraite auquel il se trouve à nouveau soumis, sous réserve du versement de la retenue
+de 6 p. 100 [**]pourcentage[**] correspondant à cette période, calculée sur les émoluments attachés à l'emploi dans lequel il
+est réintégré.
+
+L'organisme dans lequel l'intéressé a été employé verse sur ces mêmes bases les contributions réglementaires incombant à
+l'administration d'origine pour la constitution de la pension.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°76-1041 1976-11-16 ART. 126 AL. 9 à 11
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
+
+	**Abrogé par**:
+
+	  - Décret n°86-68 1986-01-13 art. 35 JORF 16 janvier 1986
+
+
+##### Disponibilité.
+
+###### Article R*444-150
+
+La disponibilité est prononcée par le maire de Paris.
+
+Elle est décidée soit d'office, soit à la demande du fonctionnaire.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°76-1041 1976-11-16 ART. 128
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-373 1977-03-28 JORF et JONC 5 avril 1977
+
+	**Abrogé par**:
+
+	  - Décret n°86-68 1986-01-13 art. 35 JORF 16 janvier 1986
+
+
+###### Article R*444-151
+
+La mise en disponibilité ne peut être prononcée d'office que dans les cas prévus aux articles R. 444-115 [*fonctionnaire qui
+a obtenu pendant douze mois consécutifs des congés de maladie et qui ne peut, à l'expiration de son dernier congé, reprendre
+son service*] et R. 444-118 [*fonctionnaire qui ne peut, à l'expiration d'un congé de longue durée ou d'un congé de longue
+maladie, reprendre son service*] pour raison de santé.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°76-1041 1976-11-16 ART. 129 AL. 1
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-373 1977-03-28 JORF et JONC 5 avril 1977
+
+	**Cite**:
+
+	  - Code des communes R444-115 et R444-118
+
+
+###### Article R*444-152
+
+La durée de la disponibilité prononcée d'office pour raison de santé ne peut excéder une année.
+
+Elle peut être renouvelée à deux reprises pour une durée égale.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°76-1041 1976-11-16 ART. 129 AL. 2 (PARTIE)
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
+
+	**Abrogé par**:
+
+	  - Décret n°86-68 1986-01-13 art. 35 JORF 16 janvier 1986
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code des communes R444-153
+
+	**Cite**:
+
+	  - Code des communes R444-153
+
+
+###### Article R*444-153
+
+A l'expiration de cette durée, le fonctionnaire est soit réintégré dans les cadres de l'administration, soit mis à la
+retraite.
+
+Toutefois, si, à l'expiration de la troisième année de disponibilité, le fonctionnaire est inapte à reprendre son service,
+mais qu'il résulte d'un avis du comité médical qu'il doit normalement pouvoir reprendre ses fonctions avant l'expiration
+d'une nouvelle année, la disponibilité peut faire l'objet d'un troisième renouvellement.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°76-1041 1976-11-16 ART. 129 AL. 2 (PARTIE) et 3
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
+
+	**Abrogé par**:
+
+	  - Décret n°86-68 1986-01-13 art. 35 JORF 16 janvier 1986
+
+
+###### Article R*444-154
+
+La mise en disponibilité sur demande de l'intéressé ne peut être accordée que dans les cas suivants :
+
+1° Pour accident ou maladie grave du conjoint ou d'un enfant :
+
+La durée de cette disponibilité ne peut excéder trois années mais est renouvelable à deux reprises pour une durée égale.
+
+2° Pour études ou recherches présentant un intérêt général :
+
+La durée de cette disponibilité ne peut excéder trois années mais est renouvelable une fois pour une durée égale.
+
+3° Pour convenances personnelles :
+
+La durée de cette disponibilité ne peut excéder six années pour l'ensemble de la carrière par périodes maximales de deux
+années consécutives. Le fonctionnaire qui a obtenu une mise en disponibilité doit, pour en obtenir une nouvelle, avoir repris
+effectivement ses fonctions pendant une durée au moins égale à celle de la dernière période de disponibilité pour convenances
+personnelles, sans pouvoir être inférieure à un an.
+
+4° Pour contracter un engagement dans une formation militaire :
+
+La durée de cette disponibilité ne peut excéder trois années mais peut être renouvelée une fois pour une durée égale.
+
+5° Pour élever un enfant de moins de huit ans [*âge*] ou atteint d'une infirmité exigeant des soins continus :
+
+Cette disponibilité est accordée de droit. Sa durée ne peut excéder deux années, mais peut être renouvelée dans les
+conditions requises pour l'obtenir.
+
+6° Pour le fonctionnaire dont le conjoint est astreint à établir sa résidence habituelle, à raison de sa profession, en un
+lieu éloigné de celui de l'exercice de l'activité du fonctionnaire :
+
+Cette disponibilité, d'une durée maximum de deux années, peut être accordée au fonctionnaire pour suivre son conjoint. Elle
+peut être renouvelée pour une durée égale sans pouvoir excéder dix années au total.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°76-1041 1976-11-16 ART. 130 (PARTIE)
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-373 1977-03-28 JORF et JONC 5 avril 1977
+
+
+###### Article R*444-155
+
+La mise en disponibilité prévue à l'article précédent peut être également accordée pour exercer, dans une entreprise publique
+ou privée, une activité relevant de la compétence de l'intéressé.
+
+Cette disponibilité est prononcée sous les conditions suivantes :
+
+1° Qu'il soit constaté qu'elle est compatible avec les nécessités du service ;
+
+2° Que l'intéressé ait accompli au moins dix années de services dans la commune de Paris ou ses établissements publics
+mentionnés à l'article R. 444-1 *condition d'ancienneté* ;
+
+3° Que l'activité présente un caractère d'intérêt public à raison de la fin qu'elle poursuit ou de l'importance du rôle
+qu'elle joue dans l'économie nationale ;
+
+4° Que l'intéressé n'ait pas eu, au cours des cinq dernières années, soit à exercer un contrôle sur l'entreprise, soit à
+participer à l'élaboration ou à la passation de marchés avec elle.
+
+La durée de disponibilité prévue au présent article ne peut excéder trois années, mais peut être renouvelée une fois pour une
+durée égale.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°76-1041 1976-11-16 ART. 130 e
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
+
+	**Abrogé par**:
+
+	  - Décret n°86-68 1986-01-13 art. 35 JORF 16 janvier 1986
+
+	**Cite**:
+
+	  - Code des communes R444-1 et R444-154
+
+
+###### Article R*444-156
+
+Le fonctionnaire mis en disponibilité sur sa demande n'a droit à aucun traitement.
+
+Toutefois, le fonctionnaire placé en disponibilité en application du 5° de l'article R. 444-154 [*pour élever un enfant de
+moins de huit ans ou atteint d'une infirmité exigeant des soins continus*] perçoit la totalité des prestations familiales
+obligatoires.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°76-1041 1976-11-16 ART. 131
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-373 1977-03-28 JORF et JONC 5 avril 1977
+
+	**Cite**:
+
+	  - Code des communes R444-154 5°
+
+
+###### Article R*444-157
+
+Dans la position de disponibilité, le fonctionnaire placé hors de son administration cesse de bénéficier de ses droits à
+l'avancement et à la retraite.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°76-1041 1976-11-16 ART. 127
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
+
+	**Abrogé par**:
+
+	  - Décret n°86-68 1986-01-13 art. 35 JORF 16 janvier 1986
+
+
+###### Article R*444-158
+
+Le maire de Paris peut à tout moment et doit, au moins deux fois par an, faire procéder aux enquêtes nécessaires en vue de
+s'assurer que l'activité du fonctionnaire mis en disponibilité correspond réellement aux motifs pour lesquels il a été placé
+dans cette position.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°76-1041 1976-11-16 ART. 132
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
+
+	**Abrogé par**:
+
+	  - Décret n°86-68 1986-01-13 art. 35 JORF 16 janvier 1986
+
+
+###### Article R*444-159
+
+Le fonctionnaire mis en disponibilité sur sa demande doit solliciter sa réintégration deux mois au moins avant l'expiration
+de la période en cours [*délai*].
+
+Cette réintégration est alors de droit à l'une des trois premières vacances si la durée de la disponibilité n'a pas excédé
+trois années.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°76-1041 1976-11-16 ART. 133 AL. 1
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-373 1977-03-28 JORF et JONC 5 avril 1977
+
+
+###### Article R*444-160
+
+Lorsque, à l'expiration d'une disponibilité sur demande, le fonctionnaire n'est pas reconnu physiquement apte à reprendre ses
+fonctions par le médecin de l'administration, il est maintenu dans la position de disponibilité sans traitement pour une
+durée ne pouvant excéder celle prévue à l'article R. 444-153 [*relatif à la durée de la disponibilité prononcée d'office pour
+raison de santé*].
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°76-1041 1976-11-16 ART. 133 AL. 2
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-373 1977-03-28 JORF et JONC 5 avril 1977
+
+	**Cite**:
+
+	  - Code des communes R444-153
+
+
+###### Article R*444-161
+
+Le fonctionnaire mis en disponibilité qui, lors de sa réintégration, refuse le poste qui lui est assigné peut être radié des
+cadres après avis de la commission administrative paritaire compétente.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°76-1041 1976-11-16 ART. 134
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
+
+	**Abrogé par**:
+
+	  - Décret n°86-68 1986-01-13 art. 35 JORF 16 janvier 1986
+
+
+##### Dispositions *applicables* au détachement et à la disponibilité.
+
+###### Article R*444-162
+
+Les statuts particuliers fixent pour chaque catégorie de personnel la proportion maximum des fonctionnaires susceptibles
+d'être détachés ou mis en disponibilité.
+
+Les détachements prévus au 5° de l'article R. 444-127 et les mises en disponibilité prononcées d'office ou au titre des 5° et
+6° de l'article R. 444-154 n'entrent pas en ligne de compte pour le calcul de cette proportion.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°76-1041 1976-11-16 ART. 135
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
+
+	**Cite**:
+
+	  - Code des communes R444-154 5° et 6°
+
+
+##### Dispositions communes au détachement et à la disponibilité .
+
+###### Article R*444-163
+
+Le maire de Paris ne peut refuser de donner suite à la demande de détachement ou de mise en disponibilité qu'après avoir
+recueilli l'avis de la commission administrative paritaire compétente [*conditions de forme*].
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°76-1041 1976-11-16 ART. 136
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
+
+	**Abrogé par**:
+
+	  - Décret n°86-68 1986-01-13 art. 35 JORF 16 janvier 1986
+
+
+##### Position "sous les drapeaux" .
+
+###### Article R*444-164
+
+Le fonctionnaire de la commune de Paris qui accomplit ses obligations de service national est placé dans une position
+spéciale dite " sous les drapeaux "   . 
+
+Il perd alors son traitement d'activité. 
+
+En cas de mobilisation générale ou de rappel sous les drapeaux, il bénéficie des mêmes dispositions que les fonctionnaires de
+l'Etat en ce qui concerne sa situation administrative et son traitement.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°76-1041 1976-11-16 ART. 137
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
+
+	**Abrogé par**:
+
+	  - Décret n°86-68 1986-01-13 art. 35 JORF 16 janvier 1986
+
+
+###### Article R*444-165
+
+Le fonctionnaire qui accomplit une période d'instruction obligatoire est mis en congé avec traitement pour la durée de cette
+période.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°76-1041 1976-11-16 ART. 138
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
+
+	**Abrogé par**:
+
+	  - Décret n°86-68 1986-01-13 art. 35 JORF 16 janvier 1986
+
+
+###### Article R*444-166
+
+Le congé mentionné à l'article précédent est considéré comme service accompli .
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°76-1041 1976-11-16 ART. 91 AL. 2 (PARTIE)
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
+
+	**Abrogé par**:
+
+	  - Décret n°86-68 1986-01-13 art. 35 JORF 16 janvier 1986
+
+	**Cite**:
+
+	  - Code des communes R444-165
+
+
+##### CONGE POSTNATAL .
+
+###### Article R*444-167
+
+Le congé postnatal [**]définition[**] est la position de la femme fonctionnaire de la commune de Paris qui, après un congé
+pour couches et allaitement ou l'adoption d'un enfant de moins de trois ans, est placée hors de son administration ou service
+d'origine pour élever son enfant.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°76-1041 1976-11-16 ART. 139 AL. 1
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-373 1977-03-28 JORF et JONC 5 avril 1977
+
+
+###### Article R*444-168
+
+Dans la position de congé postnatal, accordée de droit sur simple demande et pour une durée maximale de deux ans,
+l'intéressée cesse de bénéficier de ses droits à la retraite ; elle conserve ses droits à l'avancement d'échelon, réduits de
+moitié.
+
+A l'expiration de son congé, elle est réintégrée de plein droit au besoin en surnombre, dans son administration d'origine.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°76-1041 1976-11-16 ART. 139 AL. 2
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-373 1977-03-28 JORF et JONC 5 avril 1977
+
+	**Cite**:
+
+	  - Code des communes R415-6 A à R415-6 G
+
+
+##### Cessation de fonctions .
+
+###### Article R*444-178
+
+Le fonctionnaire qui fait preuve d'insuffisance professionnelle est, s'il ne peut être reclassé dans un autre service, soit
+admis à faire valoir ses droits à la retraite, soit licencié.
+
+Dans ce dernier cas, il peut recevoir une indemnité, suivant des modalités qui seront déterminées par délibérations du
+conseil de Paris.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°76-1041 1976-11-16 ART. 146
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code des communes R444-179
+
+
+###### Article R*444-186
+
+Le maire de Paris peut conférer au fonctionnaire admis à la retraite l'honorariat dans son grade ou son emploi, compte tenu
+notamment de la nature, de la qualité et de la durée des services rendus, et, éventuellement, de la nature des activités
+exercées après la radiation des cadres.
+
+Toutefois, l'honorariat ne peut être conféré que lorsque cet emploi a été tenu effectivement pendant une durée de deux ans au
+moins.
+
+La même autorité peut retirer l'honorariat [**]sanctions[**] lorsque le bénéficiaire exerce des activités incompatibles avec
+le titre de fonctionnaire honoraire ou enfreint la réserve qu'il impose.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°76-1041 1976-11-16 ART. 153
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-373 1977-03-28 JORF et JONC 5 avril 1977
 
 
