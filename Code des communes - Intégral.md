@@ -1,5 +1,5 @@
 # Code des communes  
-Version Consolidée au 1980-06-14
+Version Consolidée au 1980-06-21
 
 # ORGANISATION COMMUNALE
 
@@ -109491,6 +109491,32 @@ départementale et communale.
 	  - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
 
 
+###### Article R411-44
+
+La médaille d'honneur départementale et communale comporte trois échelons :
+
+La médaille d'argent est décernée après vingt-quatre ans de services [*ancienneté*] aux agents qui auront manifesté une
+réelle compétence professionnelle et un dévouement constant dans l'exercice de leurs fonctions ainsi qu'aux personnes
+titulaires de mandats électifs des départements et des communes.
+
+La médaille de vermeil peut être décernée après trente-cinq ans de services aux agents qui auront fait preuve de mérites
+particuliers au cours de leur carrière ainsi qu'aux personnes titulaires de mandats électifs des départements et des
+communes ;
+
+La médaille d'or peut être décernée après quarante-cinq ans de services aux agents qui auront fait preuve au cours de leur
+carrière de mérites exceptionnels ainsi qu'aux personnes titulaires de mandats électifs des départements et des communes.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°77-241 1977-03-07
+
+	**Cité par**:
+
+	  - CODE DES COMMUNES. - art. R411-46 (M)
+
+
 ###### Article R411-45
 
 La médaille d'honneur départementale et communale peut être décernée, à titre posthume, aux personnes qui sont décédées par
@@ -109723,41 +109749,6 @@ Le modèle de la médaille, la couleur et la disposition du ruban sont fixés pa
 	**Abrogé par**:
 
 	  - Décret n°87-594 du 22 juillet 1987 - art. 1 () JORF 31 juillet 1987
-
-
-##### MEDAILLE  D'HONNEUR DEPARTEMENTALE ET COMMUNALE .
-
-###### Article R411-44
-
-La médaille d'honneur départementale et communale comporte trois échelons :
-
-La médaille d'argent est décernée après vingt-cinq ans [*ancienneté*] de services aux agents qui ont manifesté une réelle
-compétence professionnelle et un dévouement constant dans l'exercice de leurs fonctions ; [*conditions d'attribution*]
-La médaille de vermeil peut être décernée après trente-cinq ans de services aux agents qui ont fait preuve de mérites
-particuliers au cours de leur carrière. A l'intérieur de chaque promotion, elle ne peut être accordée que dans la limite de
-25 p. 100 des médailles d'argent décernées [*pourcentage*].
-
-La médaille d'or peut être décernée après quarante-cinq ans de services [**]ancienneté[**] aux agents qui ont fait preuve au
-cours de leur carrière de mérites exceptionnels. A l'intérieur de chaque promotion, elle ne peut être accordée que dans la
-limite de 2 p. 100 [*pourcentage*] des médailles d'argent décernées.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°45-1197 1945-06-07 ART. 3 REMPLACE AL. 1 à 4
-
-	**Codifié par**:
-
-	  - Décret n°77-373 1977-03-28
-
-	**Créé par**:
-
-	  - Décret n°77-373 1977-03-28 JORF et JONC 5 avril 1977
-
-	**Cité par**:
-
-	  - CODE DES COMMUNES. - art. R411-46 (M)
 
 
 #### Recrutement, formation et promotion sociale
