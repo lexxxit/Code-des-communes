@@ -1,5 +1,5 @@
 # Code des communes  
-Version Consolidée au 1981-05-15
+Version Consolidée au 1981-05-16
 
 # ORGANISATION COMMUNALE
 
@@ -102029,6 +102029,26 @@ musée et que l'assistant du musée de Lyon, sont soumises aux mêmes règles qu
 	  - Décret n°77-373 1977-03-28
 
 
+##### SOUS-SECTION 4 : Dispositions applicables aux personnels divers.
+
+###### Article R*412-127
+
+Toute classe maternelle doit bénéficier des services d'un agent communal occupant l'emploi d'agent spécialisé des écoles
+maternelles et des classes enfantines.
+
+Cet agent est nommé par le maire après avis du directeur ou de la directrice.
+
+Son traitement est exclusivement à la charge de la commune.
+
+Pendant son service dans les locaux scolaires, il est placé sous l'autorité du directeur ou de la directrice.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+
 #### CHAPITRE 3 : Rémunération et effectifs.
 
 ###### Article R*413-1
@@ -102788,6 +102808,20 @@ décision rendue par la juridiction saisie est devenue définitive.
 	**Liens**:
 
 	  - SPEC_APPLI: Décret n°85-1141 1985-10-23 ART. 22 Décret 89-677-1989-09-18 art. 36
+
+
+##### SOUS-SECTION 4 : Dispositions applicables aux personnels divers.
+
+###### Article R*414-29
+
+Après avis du directeur ou de la directrice, le maire peut, dans les formes réglementaires, mettre fin aux fonctions d'un
+agent spécialisé des écoles maternelles et des classes enfantines.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
 
 
 #### CHAPITRE 5 : Positions
@@ -110280,36 +110314,6 @@ du code du travail relatif à la formation professionnelle continue dans le cadr
 	  - Code du travail - art. L910-1 (M)
 
 
-##### Dispositions applicables à certains personnels
-
-##### Dispositions applicables aux personnels divers.
-
-###### Article R*412-127
-
-La femme de service, attachée à toute école maternelle et à toute classe enfantine, est nommée par le maire sur la
-proposition de la directrice [*recrutement*].
-
-Le traitement de la femme de service est exclusivement à la charge de la commune.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Circulaire 56 1978-01-31 Intérieur (emploi et rémunération des personnels des cantines, piscines, parkings et régies de recettes)
-
-	**Anciens textes**:
-
-	  - Décret  1887-01-18 ART. 8 (PARTIE) MODIFIE
-
-	**Codifié par**:
-
-	  - Décret n°77-373 1977-03-28
-
-	**Créé par**:
-
-	  - Décret n°77-373 1977-03-28 JORF et JONC 5 avril 1977
-
-
 #### Rémunération et effectifs
 
 ###### Article R413-3
@@ -110608,28 +110612,6 @@ intercommunal départemental.
 
 	  - SPEC_APPLI: Décret n°84-346 1984-05-10 ART. 37 AL. 1
 	  - SPEC_APPLI: Décret n°85-1141 du 23 octobre 1985 - art. 22 (Ab)
-
-
-#### DISCIPLINE .
-
-###### Article R*414-29
-
-La femme de service attachée à toute école maternelle et à toute classe enfantine est révoquée par le maire [*compétence*]
-sur la proposition de la directrice.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret  1887-01-18 ART. 8 (PARTIE) MODIFIE
-
-	**Codifié par**:
-
-	  - Décret n°77-373 1977-03-28
-
-	**Créé par**:
-
-	  - Décret n°77-373 1977-03-28 JORF et JONC 5 avril 1977
 
 
 #### POSITIONS
