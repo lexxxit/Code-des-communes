@@ -1,5 +1,5 @@
 # Code des communes  
-Version Consolidée au 1988-06-08
+Version Consolidée au 1988-11-15
 
 # Statuts types d'une caisse communale de secours et de retraite de sapeurs-pompiers
 
@@ -66251,6 +66251,418 @@ est régie par le décret n° 76-921 du 8 octobre 1976.
 
 ### TITRE 4 : Bibliothèques et musées
 
+#### CHAPITRE 1 : Bibliothèques.
+
+###### Article R*341-15
+
+Les bibliothécaires [*des bibliothèques de première catégorie dites classées*] prévus à l'article L. 341-2 appartiennent au
+corps scientifique des bibliothèques de l'Etat.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - SPEC_APPLI: *Dispositions non applicables aux communes des départements de la Moselle, du Bas-Rhin et du Haut-Rhin (Alsace-Lorraine)*
+	  - SPEC_APPLI: Code des communes R391-1 :
+
+	**Codifié par**:
+
+	  - Décret n°77-241 1977-03-07
+
+	**Créé par**:
+
+	  - Décret n°77-241 1977-03-07 JORF et JONC 18 Mars 1977
+
+	**Modifié par**:
+
+	  - Décret n°88-1037 du 9 novembre 1988 - art. 2 ()
+
+	**Abrogé par**:
+
+	  - Décret n°2000-318 du 7 avril 2000 - art. 4 (V)
+
+	**Cite**:
+
+	  - CODE DES COMMUNES. - art. L341-2 (M)
+
+	**Anciens textes**:
+
+	  - Code de l'administration communale 433 DERNIER ALINEA (PARTIE)
+
+
+###### Article R*341-17
+
+Le règlement d'administration publique prévu à l'article L. 341-2 est pris sur le rapport du ministre chargé des
+bibliothèques et du ministre de l'économie et des finances.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - SPEC_APPLI: *Dispositions non applicables aux communes des départements de la Moselle, du Bas-Rhin et du Haut-Rhin (Alsace-Lorraine)*
+	  - SPEC_APPLI: Code des communes R391-1 :
+
+	**Anciens textes**:
+
+	  - Code de l'administration communale 433 AL. 2 (partie)
+
+	**Codifié par**:
+
+	  - Décret n°77-241 1977-03-07
+
+	**Créé par**:
+
+	  - Décret n°77-241 1977-03-07 JORF et JONC 18 mars 1977
+
+	**Modifié par**:
+
+	  - Décret n°88-1037 du 9 novembre 1988 - art. 2 ()
+
+	**Abrogé par**:
+
+	  - Décret n°2000-318 du 7 avril 2000 - art. 4 (V)
+
+	**Cite**:
+
+	  - CODE DES COMMUNES. - art. L341-2 (M)
+
+
+###### Article R341-1
+
+Les collections de l'Etat déposées dans les bibliothèques municipales, dont les communes ont l'usage et doivent assurer la
+conservation, sont placées sous la surveillance [*contrôle*] des municipalités.
+
+Ces collections peuvent être retirées par le ministre chargé des bibliothèques en cas d'insuffisance de soins ou d'abus de la
+part des communes[*sanctions*].
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - SPEC_APPLI: *Dispositions non applicables aux communes des départements de la Moselle, du Bas-Rhin et du Haut-Rhin (Alsace-Lorraine)*
+	  - SPEC_APPLI: Code des communes R391-1 :
+
+	**Anciens textes**:
+
+	  - Décret  1897-07-01 ART. 1
+
+	**Codifié par**:
+
+	  - Décret n°77-241 1977-03-07
+
+	**Créé par**:
+
+	  - Décret n°77-241 1977-03-07 JORF et JONC 18 Mars 1977
+
+	**Modifié par**:
+
+	  - Décret n°88-1037 du 9 novembre 1988 - art. 1 ()
+
+	**Abrogé par**:
+
+	  - Décret n°2000-318 du 7 avril 2000 - art. 4 (V)
+
+
+###### Article R341-2
+
+Les communes remettent chaque année  [*périodicité*] au préfet un rapport relatif à la situation, à l'activité et au
+fonctionnement de leurs bibliothèques, accompagné des éléments statistiques nécessaires à l'élaboration du rapport annuel sur
+les bibliothèques publiques.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret  1897-07-01 ART. 2
+
+	**Codifié par**:
+
+	  - Décret n°77-241 1977-03-07
+
+	**Modifié par**:
+
+	  - Décret n°88-1037 du 9 novembre 1988 - art. 1 ()
+
+	**Abrogé par**:
+
+	  - Décret n°2000-318 du 7 avril 2000 - art. 4 (V)
+
+
+###### Article R341-3
+
+Les communes informent le préfet de tout sinistre, soustraction ou détournement affectant des documents anciens, rares ou
+précieux dans une bibliothèque.
+
+Les échanges entre les bibliothèques d'objets appartenant aux communes font l'objet de délibérations concordantes des
+conseils municipaux. Dans leur nouvelle affectation, les objets bénéficient des conditions de conservation et de protection
+au moins aussi favorables que celles qui leur étaient appliquées antérieurement.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°1897-07-01 ART. 4 AL. 1, 2 et 4
+
+	**Codifié par**:
+
+	  - Décret n°77-241 1977-03-07
+
+	**Modifié par**:
+
+	  - Décret n°88-1037 1988-11-09 art. 3, 12 jorf 15 novembre 1988
+	  - Décret n°88-1037 du 9 novembre 1988 - art. 3 ()
+
+	**Abrogé par**:
+
+	  - Décret n°2000-318 du 7 avril 2000 - art. 4 (V)
+
+
+###### Article R341-4
+
+Les collections de l'Etat, c'est-à-dire   notamment les fonds déposés dans les bibliothèques à la suite des lois et décrets
+de la Révolution ou ajoutés depuis par des concessions ministérielles, ne peuvent faire l'objet d'échanges entre les
+bibliothèques qu'en vertu d'autorisations délivrées par les commissaires de la République des départements concernés. 
+
+Le préfet peut en interdire ou en ordonner la communication à l'extérieur après consultation de la commune intéressée.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°77-241 1977-03-07
+
+	**Modifié par**:
+
+	  - Décret n°88-1037 du 9 novembre 1988 - art. 4 ()
+
+	**Abrogé par**:
+
+	  - Décret n°2000-318 du 7 avril 2000 - art. 4 (V)
+
+	**Cité par**:
+
+	  - CODE DES COMMUNES. - art. R341-5 (Ab)
+
+	**Anciens textes**:
+
+	  - Décret  1897-07-01 ART. 4 AL. 3
+
+
+###### Article R341-5
+
+Les communications au-dehors des manuscrits et imprimés autres que ceux visés à l'article R. 341-4 sont autorisées par le
+maire.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CODE DES COMMUNES. - art. R341-4 (M)
+
+	**Anciens textes**:
+
+	  - Décret n°1897-07-01 ART. 5
+
+	**Codifié par**:
+
+	  - Décret n°77-241 1977-03-07
+
+	**Modifié par**:
+
+	  - Décret n°88-1037 1988-11-09 art. 5, 12 jorf 15 novembre 1988
+	  - Décret n°88-1037 du 9 novembre 1988 - art. 5 ()
+
+	**Abrogé par**:
+
+	  - Décret n°2000-318 du 7 avril 2000 - art. 4 (V)
+
+
+###### Article R341-6
+
+Le contrôle technique de l'Etat sur les bibliothèques des communes porte sur les conditions de constitution, de gestion, de
+traitement, de conservation et de communication des collections et des ressources documentaires et d'organisation des locaux.
+
+Il est destiné à assurer la sécurité des fonds, la qualité des collections, leur renouvellement, leur caractère pluraliste et
+diversifié, l'accessibilité des services pour tous les publics, la qualité technique des bibliothèques, la compatibilité des
+systèmes de traitement, la conservation des collections dans le respect des exigences techniques relatives à la
+communication, l'exposition, la reproduction, l'entretien et le stockage en magasin.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret  1897-07-01 ART. 7
+
+	**Codifié par**:
+
+	  - Décret n°77-241 1977-03-07
+
+	**Modifié par**:
+
+	  - Décret n°88-1037 du 9 novembre 1988 - art. 6 ()
+
+	**Abrogé par**:
+
+	  - Décret n°2000-318 du 7 avril 2000 - art. 4 (V)
+
+
+###### Article R341-7
+
+Le contrôle technique de l'Etat sur les bibliothèques des communes est exercé de façon permanente sous l'autorité du ministre
+chargé de la culture par l'inspection générale des bibliothèques. Le ministre peut également confier des missions
+spécialisées à des membres du personnel scientifique des bibliothèques ainsi qu'à des fonctionnaires de son ministère choisis
+en raison de leur compétence scientifique et technique.
+
+Le contrôle s'exerce sur pièces et sur place.
+
+Chaque inspection donne lieu à un rapport au ministre chargé de la culture, qui est transmis par le préfet au maire.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°61-1003 1961-09-01 ART. 1
+
+	**Codifié par**:
+
+	  - Décret n°77-241 1977-03-07
+
+	**Créé par**:
+
+	  - Décret n°88-1037 du 9 novembre 1988 - art. 7 ()
+
+	**Abrogé par**:
+
+	  - Décret n°2000-318 du 7 avril 2000 - art. 4 (V)
+
+
+###### Article R341-8
+
+Les communes informent le préfet de tout projet de construction, d'extension ou d'aménagement de bâtiments à usage de
+bibliothèques ainsi que des projets de travaux dans ces bâtiments.
+
+Le préfet dispose d'un délai de deux mois pour faire connaître l'avis technique de l'Etat à la collectivité territoriale
+intéressée. Les travaux ne peuvent commencer avant la transmission de cet avis ou l'expiration de ce délai.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°61-1003 1961-09-01 ART. 2
+
+	**Codifié par**:
+
+	  - Décret n°77-241 1977-03-07
+
+	**Créé par**:
+
+	  - Décret n°88-1037 du 9 novembre 1988 - art. 8 ()
+
+	**Abrogé par**:
+
+	  - Décret n°2000-318 du 7 avril 2000 - art. 4 (V)
+
+
+###### Article R341-9
+
+Les communes informent le ministre chargé de la culture de tout projet de restauration d'un document ancien, rare ou précieux
+avant la signature du contrat établi à cette fin ou à défaut avant l'intervention. Le dossier de transmission comporte
+l'identification du document, une description détaillée de son état avec photographies, le devis descriptif et estimatif
+détaillé de la restauration envisagée, les références du restaurateur.
+
+" Le ministre dispose d'un délai de trois mois pour faire connaître un avis après consultation du Conseil national
+scientifique du patrimoine des bibliothèques publiques composé, dans les conditions fixées par arrêté du ministre chargé de
+la culture, de représentants de l'Etat et du personnel scientifique des bibliothèques ainsi que de personnalités qualifiées.
+
+" Cet avis est communiqué au maire de la commune intéressée. Les travaux ne peuvent commencer avant la transmission de cet
+avis ou l'expiration de ce délai.
+
+" Le ministre peut interdire la restauration de tout document appartenant à l'Etat visé au présent article. "
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°61-1003 1961-09-01 ART. 3
+
+	**Codifié par**:
+
+	  - Décret n°77-241 1977-03-07
+
+	**Créé par**:
+
+	  - Décret n°88-1037 du 9 novembre 1988 - art. 9 ()
+
+
+###### Article R341-10
+
+Les communes informent le ministre chargé de la culture de tout projet de désaffectation des documents anciens, rares ou
+précieux dont elles sont propriétaires.
+
+Le ministre dispose d'un délai de trois mois pour faire connaître au maire de la commune intéressée son avis pris après
+consultation du Conseil national scientifique du patrimoine des bibliothèques publiques. A l'expiration de ce délai, l'avis
+du ministre est réputé favorable. L'acte de désaffectation fait mention de cet avis.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°61-1003 1961-09-01 ART. 4
+
+	**Codifié par**:
+
+	  - Décret n°77-241 1977-03-07
+
+	**Créé par**:
+
+	  - Décret n°88-1037 du 9 novembre 1988 - art. 10 ()
+
+	**Abrogé par**:
+
+	  - Décret n°2000-318 du 7 avril 2000 - art. 4 (V)
+
+
+###### Article R341-16
+
+Lorsqu'un des emplois [*bibliothécaires des bibliothèques de 1ère catégorie dites classées*] prévus à l'article L. 341-2 est
+déclaré vacant, le ministre chargé des bibliothèques communique au maire de la commune les nom et titres du candidat qu'il se
+propose de choisir et l'invite à lui faire connaître son avis.
+
+A défaut de réponse du maire dans le délai d'un mois [*accord tacite*], le ministre chargé des bibliothèques [*compétence*]
+peut procéder à la nomination.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - SPEC_APPLI: *Dispositions non applicables aux communes des départements de la Moselle, du Bas-Rhin et du Haut-Rhin (Alsace-Lorraine)*
+	  - SPEC_APPLI: Code des communes R391-1 :
+
+	**Anciens textes**:
+
+	  - Décret n°43-2888 1943-11-03 ART. 2
+
+	**Codifié par**:
+
+	  - Décret n°77-241 1977-03-07
+
+	**Créé par**:
+
+	  - Décret n°77-241 1977-03-07 JORF et JONC 18 Mars 1977
+
+	**Modifié par**:
+
+	  - Décret n°88-1037 du 9 novembre 1988 - art. 2 ()
+
+	**Abrogé par**:
+
+	  - Décret n°2000-318 du 7 avril 2000 - art. 4 (V)
+
+	**Cite**:
+
+	  - CODE DES COMMUNES. - art. L341-2 (M)
+
+
 #### CHAPITRE 2 : Musées.
 
 ###### Article R342-1
@@ -82578,216 +82990,6 @@ armées et du ministre de l'intérieur.
 
 
 ## Administration et services communaux
-
-### Bibliothèques et musées
-
-#### Bibliothèques
-
-##### Organisation .
-
-###### Article R341-2
-
-Les communes envoient au ministre chargé des bibliothèques un rapport annuel [**]fréquence[**] sur la situation et le
-fonctionnement de leur bibliothèque.
-
-**Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - SPEC_APPLI: *Dispositions non applicables aux communes des départements de la Moselle, du Bas-Rhin et du Haut-Rhin (Alsace-Lorraine)*
-	  - SPEC_APPLI: Code des communes R391-1 :
-
-	**Anciens textes**:
-
-	  - Décret  1897-07-01 ART. 2
-
-	**Codifié par**:
-
-	  - Décret n°77-241 1977-03-07
-
-	**Créé par**:
-
-	  - Décret n°77-241 1977-03-07 JORF et JONC 18 Mars 1977
-
-
-###### Article R341-3
-
-Toute aliénation des livres, manuscrits, chartes, diplômes, médailles, estampes et objets quelconques contenus dans les
-bibliothèques publiques des communes est interdite.
-
-La commune, sous sa responsabilité, prévient immédiatement le ministre chargé des bibliothèques en cas d'incendie, de
-sinistre, de soustraction et de détournement dans une bibliothèque.
-
-Les échanges entre les bibliothèques d'objets appartenant aux communes font l'objet de délibérations concordantes des
-conseils municipaux. Dans leur nouvelle affectation, les objets bénéficient des conditions de conservation et de protection
-au moins aussi favorables que celles qui leur étaient appliquées antérieurement.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°1897-07-01 ART. 4 AL. 1, 2 et 4
-
-	**Codifié par**:
-
-	  - Décret n°77-241 1977-03-07
-
-
-###### Article R341-4
-
-Les collections de l'Etat, c'est-à-dire [*définition*] notamment les fonds déposés dans les bibliothèques à la suite des lois
-et décrets de la Révolution ou ajoutés depuis par des concessions ministérielles, ne peuvent faire l'objet d'échanges entre
-les bibliothèques qu'en vertu d'autorisations délivrées par les commissaires de la République des départements concernés.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°77-241 1977-03-07
-
-	**Cité par**:
-
-	  - CODE DES COMMUNES. - art. R341-5 (Ab)
-
-	**Anciens textes**:
-
-	  - Décret  1897-07-01 ART. 4 AL. 3
-
-
-###### Article R341-5
-
-Les communications au dehors des manuscrits et des imprimés sont autorisées par le maire, sous la responsabilité des
-communes.
-
-Le commissaire de la République de département peut ordonner ces communications en ce qui concerne les collections de l'Etat.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret  1897-07-01 ART. 5
-
-	**Codifié par**:
-
-	  - Décret n°77-241 1977-03-07
-
-
-###### Article R341-6
-
-Les décisions des autorités locales sur le service public, l'établissement du service de nuit et les crédits affectés aux
-dépenses du personnel, du matériel et des acquisitions sont adressées au ministère chargé des bibliothèques et y restent
-déposées.
-
-**Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - SPEC_APPLI: *Dispositions non applicables aux communes des départements de la Moselle, du Bas-Rhin et du Haut-Rhin (Alsace-Lorraine)*
-	  - SPEC_APPLI: Code des communes R391-1 :
-
-	**Anciens textes**:
-
-	  - Décret  1897-07-01 ART. 7
-
-	**Codifié par**:
-
-	  - Décret n°77-241 1977-03-07
-
-	**Créé par**:
-
-	  - Décret n°77-241 1977-03-07 JORF et JONC 18 Mars 1977
-
-
-##### Catégories de bibliothèques .
-
-###### Article R341-12
-
-Le contrôle des bibliothèques municipales qu'elles soient de première, deuxième ou troisième catégorie est assuré par
-l'inspection générale des bibliothèques.
-
-**Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - SPEC_APPLI: *Dispositions non applicables aux communes des départements de la Moselle, du Bas-Rhin et du Haut-Rhin (Alsace-Lorraine)*
-	  - SPEC_APPLI: Code des communes R391-1 :
-
-	**Anciens textes**:
-
-	  - Décret n°1933-04-29 ART. 7
-	  - Décret n°47-1222 1947-07-01 ART. 1
-
-	**Codifié par**:
-
-	  - Décret n°77-241 1977-03-07
-
-	**Créé par**:
-
-	  - Décret n°77-241 1977-03-07 JORF et JONC 18 Mars 1977
-
-	**Abrogé par**:
-
-	  - Décret n°88-1037 du 9 novembre 1988 - art. 12 (Ab)
-
-
-###### Article R341-13
-
-Des missions d'inspection permanentes ou temporaires [*contrôle*] peuvent être confiées par décision du ministre chargé des
-bibliothèques à des fonctionnaires d'Etat du corps scientifique des bibliothèques.
-
-**Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - SPEC_APPLI: *Dispositions non applicables aux communes des départements de la Moselle, du Bas-Rhin et du Haut-Rhin (Alsace-Lorraine)*
-	  - SPEC_APPLI: Code des communes R391-1 :
-
-	**Anciens textes**:
-
-	  - Décret n°47-1222 1947-07-01 ART. 2
-
-	**Codifié par**:
-
-	  - Décret n°77-241 1977-03-07
-
-	**Créé par**:
-
-	  - Décret n°77-241 1977-03-07 JORF et JONC 18 Mars 1977
-
-	**Abrogé par**:
-
-	  - Décret n°88-1037 du 9 novembre 1988 - art. 12 (Ab)
-
-
-###### Article R341-14
-
-Des missions d'inspections permanentes ou temporaires [*contrôle*] peuvent également être confiées par décision du ministre
-chargé des bibliothèques et des archives à des fonctionnaires d'Etat du corps scientifique des archives, sur la proposition
-du directeur du livre et après avis favorable du directeur général des archives de France [*conditions de formes*].
-
-**Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - SPEC_APPLI: *Dispositions non applicables aux communes des départements de la Moselle, du Bas-Rhin et du Haut-Rhin (Alsace-Lorraine)*
-	  - SPEC_APPLI: Code des communes R391-1 :
-
-	**Anciens textes**:
-
-	  - Décret n°47-1222 1947-07-01 ART. 3
-
-	**Codifié par**:
-
-	  - Décret n°77-241 1977-03-07
-
-	**Créé par**:
-
-	  - Décret n°77-241 1977-03-07 JORF et JONC 18 Mars 1977
-
-	**Abrogé par**:
-
-	  - Décret n°88-1037 du 9 novembre 1988 - art. 12 (Ab)
-
 
 ### Protection contre l'incendie
 
