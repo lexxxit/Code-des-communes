@@ -1,5 +1,5 @@
 # Code des communes  
-Version Consolidée au 1979-01-04
+Version Consolidée au 1979-01-05
 
 # ORGANISATION COMMUNALE
 
@@ -29056,6 +29056,54 @@ l'autorisation du conseil municipal.
 	  - Code général des collectivités territoriales - art. L1421-10 (Ab)
 
 
+###### Article L317-6
+
+Ainsi qu'il est dit à l'article 25 de la loi n° 79-18 du 3 janvier 1979 sur les archives, les tarifs des droits d'expédition
+ou d'extrait authentique des pièces conservées dans les dépôts d'archives des communes, du droit de visa perçu pour certifier
+authentiques les copies des plans conservés dans lesdites archives ainsi que pour authentifier les photocopies et toutes
+reproductions photographiques des documents conservés dans ces mêmes archives sont fixés par décret.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°77-240 1977-03-07
+
+	**Cite**:
+
+	  - Loi n°79-18 1979-01-03 ART. 25
+
+	**Abrogé par**:
+
+	  - Loi n°96-142 du 21 février 1996 - art. 12 (V)
+
+
+###### Article L317-7
+
+Le conseil municipal peut émettre des voeux tendant à ce qu'il soit fait usage par l'Etat, au profit de la commune, du droit
+de préemption ou du droit de rétention établi par la loi, sur les documents d'archives classés et non classés.
+
+Il peut déléguer l'exercice de cette compétence au maire dans les conditions prévues à l'article L. 122-21 du présent code.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°77-240 1977-03-07
+
+	**Abrogé par**:
+
+	  - Loi n°96-142 du 21 février 1996 - art. 12 (V) JORF 24 février 1996
+
+	**Cite**:
+
+	  - CODE DES COMMUNES. - art. L122-21 (M)
+
+	**Nouveaux textes**:
+
+	  - Code général des collectivités territoriales - art. L1421-11 (Ab)
+
+
 ### TITRE 2 : Services communaux
 
 #### CHAPITRE 1 : Dispositions générales applicables aux services communaux.
@@ -34871,32 +34919,6 @@ du département, quelles que soient l'importance de la commune et la date du doc
 	**Liens**:
 
 	  - TXT_ASSOCIE: Code des communes R317-3
-
-
-###### Article L317-6
-
-Conformément à l'article 9 de la loi n° 51-630 du 24 mai 1951, les tarifs des droits d'expédition ou d'extrait authentique
-des pièces conservées dans les dépôts d'archives des communes, du droit de visa perçu pour certifier authentiques les copies
-des plans conservés dans lesdites archives ainsi que pour authentifier les photocopies et toutes reproductions
-photographiques des documents conservés dans ces mêmes archives sont fixés par décret.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Code de l'administration communale 341
-
-	**Cite**:
-
-	  - Loi n°51-630 1951-05-24 ART. 9
-
-	**Codifié par**:
-
-	  - Décret n°77-240 1977-03-07
-
-	**Créé par**:
-
-	  - Décret n°77-240 1977-03-07 JORF ET JONC 18 MARS 1977
 
 
 ## Administration et services communaux
