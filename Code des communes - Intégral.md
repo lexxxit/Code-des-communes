@@ -1,5 +1,5 @@
 # Code des communes  
-Version Consolidée au 1991-05-14
+Version Consolidée au 1991-07-19
 
 # Statuts types d'une caisse communale de secours et de retraite de sapeurs-pompiers
 
@@ -3412,33 +3412,53 @@ procès-verbal.
 Le maire peut, en outre, par délégation du conseil municipal, être chargé, en tout ou en partie, et pour la durée de son
 mandat :
 
-1° D'arrêter et modifier l'affectation des propriétés communales utilisées par les services publics municipaux ;        2° De
-fixer, dans les limites déterminées par le conseil municipal, les tarifs des droits de voirie, de stationnement, de dépôt
-temporaire sur les voies et autres lieux publics, et, d'une manière générale, des droits prévus au profit de la commune qui
-n'ont pas un caractère fiscal ;        3° De procéder, dans les limites fixées par le conseil municipal, à la réalisation des
-emprunts destinés au financement des investissements prévus par le budget et de passer à cet effet les actes nécessaires ;
+1° D'arrêter et modifier l'affectation des propriétés communales utilisées par les services publics municipaux ;
+
+2° De fixer, dans les limites déterminées par le conseil municipal, les tarifs des droits de voirie, de stationnement, de
+dépôt temporaire sur les voies et autres lieux publics, et, d'une manière générale, des droits prévus au profit de la commune
+qui n'ont pas un caractère fiscal ;
+
+3° De procéder, dans les limites fixées par le conseil municipal, à la réalisation des emprunts destinés au financement des
+investissements prévus par le budget et de passer à cet effet les actes nécessaires ;
+
 4° De prendre toute décision concernant la préparation, la passation, l'exécution et le règlement des marchés de travaux, de
 fournitures et de services qui peuvent être réglementairement passés de gré à gré en raison de leur montant, lorsque les
-crédits sont prévus au budget ;        5° De décider de la conclusion et de la révision du louage de choses pour une durée
-n'excédant pas douze ans ;        6° De passer les contrats d'assurance ;        7° De créer les régies comptables
-nécessaires au fonctionnement des services municipaux ;        8° De prononcer la délivrance et la reprise des concessions
-dans les cimetières ;        9° D'accepter les dons et legs qui ne sont grevés ni de conditions ni de charges ;        10° De
-décider l'aliénation de gré à gré de biens mobiliers jusqu'à 30.000 F ;        11° De fixer les rémunérations et de régler
-les frais et honoraires des avocats, notaires, avoués, huissiers de justice et experts ;        12° De fixer, dans les
-limites de l'estimation des services fiscaux (domaines), le montant des offres de la commune à notifier aux expropriés et de
-répondre à leurs demandes ;        13° De décider de la création de classes dans les établissements d'enseignement ;
-14° De fixer les reprises d'alignement en application d'un document d'urbanisme.        15° D'exercer, au nom de la commune,
-les droit de préemption définis par le code de l'urbanisme, que la commune en soit titulaire, directement  ou par
-substitution, ou délégataire .        16° D'intenter au nom de la commune les actions en justice ou de défendre  la commune
-dans les actions intentées contre elle, dans les cas définis par le conseil municipal.        17° De régler les conséquences
-dommageables des accidents dans lesquels sont impliqués des véhicules municipaux dans la limite fixée par le conseil
-municipal. "
+crédits sont prévus au budget ;
+
+5° De décider de la conclusion et de la révision du louage de choses pour une durée n'excédant pas douze ans ;
+
+6° De passer les contrats d'assurance ;
+
+7° De créer les régies comptables nécessaires au fonctionnement des services municipaux ;
+
+8° De prononcer la délivrance et la reprise des concessions dans les cimetières ;
+
+9° D'accepter les dons et legs qui ne sont grevés ni de conditions ni de charges ;
+
+10° De décider l'aliénation de gré à gré de biens mobiliers jusqu'à 30000 F ;
+
+11° De fixer les rémunérations et de régler les frais et honoraires des avocats, notaires, avoués, huissiers de justice et
+experts ;
+
+12° De fixer, dans les limites de l'estimation des services fiscaux (domaines), le montant des offres de la commune à
+notifier aux expropriés et de répondre à leurs demandes ;
+
+13° De décider de la création de classes dans les établissements d'enseignement ;
+
+14° De fixer les reprises d'alignement en application d'un document d'urbanisme.
+
+15° D'exercer, au nom de la commune, les droits de préemption définis par le code de l'urbanisme, que la commune en soit
+titulaire ou délégataire, et, lorsque la commune en est titulaire, de déléguer l'exercice de ces droits à l'occasion de
+l'aliénation d'un bien selon les dispositions prévues au premier alinéa de l'article L. 213-3 de ce même code dans les
+conditions que fixe le conseil municipal.
+
+16° D'intenter au nom de la commune les actions en justice ou de défendre  la commune dans les actions intentées contre elle,
+dans les cas définis par le conseil municipal.
+
+17° De régler les conséquences dommageables des accidents dans lesquels sont impliqués des véhicules municipaux dans la
+limite fixée par le conseil municipal.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Code de l'administration communale 75 bis
 
 	**Codifié par**:
 
@@ -3458,11 +3478,20 @@ municipal. "
 
 	**Modifié par**:
 
-	  - Loi n°90-1067 du 28 novembre 1990 - art. 25 ()
+	  - Loi - art. 31 () JORF 19 juillet 1991
+
+	**Abrogé par**:
+
+	  - Loi n°96-142 du 21 février 1996 - art. 12 (V) JORF 24 février 1996
+
+	**Cite**:
+
+	  - Code des communes L213-3
 
 	**Nouveaux textes**:
 
 	  - Code général des collectivités territoriales - art. L2122-22 (V)
+	  - Code général des collectivités territoriales - art. L2122-22 (M)
 
 
 ###### Article L122-21
@@ -22392,6 +22421,8 @@ compétences transférées ;
 16. Le produit des participations aux dépenses d'équipement publics à la charge des bénéficiaires d'autorisations de
 construire en vertu des dispositions de l'article L. 332-9  du code de l'urbanisme.
 
+17. La participation à la diversité de l'habitat prévue à l'article L. 332-17 du code de l'urbanisme.
+
 (1) Voir également l'article 1609 bis du code général des impôts.
 
 **Liens relatifs à cet article**
@@ -22407,29 +22438,30 @@ construire en vertu des dispositions de l'article L. 332-9  du code de l'urbanis
 	  - Code de la santé publique - art. L35-4 (Ab)
 	  - Code de la santé publique - art. L35-5 (M)
 	  - Code de la santé publique - art. L35-8 (Ab)
+	  - Code de l'urbanisme - art. L332-17 (Ab)
 	  - Code de l'urbanisme - art. L332-9 (M)
 	  - Loi n°64-1245 1964-12-12 art. 12, art. 18
 
-	**Codifié par**:
-
-	  - Décret n°77-90 1977-01-27
-
 	**Liens**:
 
-	  - SPEC_APPLI: Code des communes L262-1 :
 	  - SPEC_APPLI: DISPOSITIONS NON APPLICABLES AUX COMMUNES DES DEPARTEMENTS DE LA GUADELOUPE, DE LA GUYANE, DE LA MARTINIQUE, DE LA REUNION ET DE SAINT-PIERRE-ET-MIQUELON
-
-	**Nouveaux textes**:
-
-	  - Code général des collectivités territoriales - art. L5215-32 (V)
+	  - SPEC_APPLI: Code des communes L262-1 :
 
 	**Anciens textes**:
 
 	  - Loi n°66-1069 du 31 décembre 1966 - art. 29 (Ab)
 
+	**Codifié par**:
+
+	  - Décret n°77-90 1977-01-27
+
 	**Modifié par**:
 
-	  - Loi n°85-729 du 18 juillet 1985 - art. 28 () JORF 19 juillet 1985
+	  - Loi - art. 17 ()
+
+	**Nouveaux textes**:
+
+	  - Code général des collectivités territoriales - art. L5215-32 (V)
 
 
 ###### Article L253-3
@@ -24425,14 +24457,13 @@ aux dispositions de ce code.
 
 ###### Article L263-4
 
-Le taux du versement exprimé en pourcentage des salaires définis à l'article précédent [*calculés conformément aux
-dispositions du code de la sécurité sociale*] est fixé par décret dans les limites :
+Le taux de versement exprimé en pourcentage des salaires définis à l'article précédent est fixé par décret dans les limites :
 
-- de 2,2 p. 100 à Paris et dans le département des      Hauts-de-Seine;
+" - de 2,4 p. 100 à Paris et dans le département des Hauts-de-Seine ;
 
-- de 1,8 p. 100 dans les départements de la Seine-Saint-Denis et      du Val-de-Marne ;
+" - de 1,8 p. 100 dans les départements de la Seine-Saint-Denis et du Val-de-Marne ;
 
-- de 1,5 p. 100 dans les départements de l'Essonne, des      Yvelines, du Val-d'Oise et de Seine-et-Marne.
+" - de 1,5 p. 100 dans les départements de l'Essonne, des Yvelines, du Val-d'Oise et de Seine-et-Marne. "
 
 **Liens relatifs à cet article**
 
@@ -24446,15 +24477,15 @@ dispositions du code de la sécurité sociale*] est fixé par décret dans les l
 
 	**Modifié par**:
 
-	  - Loi n°88-1193 du 29 décembre 1988 - art. 45 ()
+	  - Loi - art. 36 ()
+
+	**Cite**:
+
+	  - CODE DES COMMUNES. - art. L263-2 (Ab)
 
 	**Nouveaux textes**:
 
 	  - Code général des collectivités territoriales - art. L2531-4 (V)
-
-	**Cite**:
-
-	  - Code de la sécurité sociale
 
 
 ###### Article L263-6
