@@ -1,5 +1,5 @@
 # Code des communes  
-Version Consolidée au 2001-12-19
+Version Consolidée au 2002-01-01
 
 # Partie législative
 
@@ -3033,46 +3033,6 @@ Les intérêts moratoires prévus à l'article R. 236-45 sont versés au même t
 	**Cite**:
 
 	  - CODE DES COMMUNES. - art. R236-45 (Ab)
-
-
-## LIVRE 3 : Administration et services communaux
-
-### TITRE 7 : Dispositions particulières à certains services industriels et commerciaux
-
-#### CHAPITRE 2 : Assainissement et eaux usées
-
-##### SECTION 2 : Régime financier des services d'assainissement, redevance d'assainissement.
-
-###### Article R*372-11
-
-Lorsque l'usager est un exploitant agricole, il peut bénéficier d'un abattement sur le nombre de mètres cubes d'eau prélevés.
-
-A défaut de compteur particulier permettant de mesurer la consommation professionnelle à exonérer, l'assiette de la redevance
-est fixée forfaitairement selon les barèmes établis par arrêté du préfet.
-
-**Nota:**
-
-Décret 2000-318 2000-04-07 art. 4 1° c Cet article est abrogé mais demeure en vigueur en tant qu'il concerne les travaux,
-ouvrages ou installations de défense contre la mer.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°67-945 1967-10-24 ART. 7
-
-	**Codifié par**:
-
-	  - Décret n°77-241 1977-03-07
-
-	**Créé par**:
-
-	  - Décret n°77-241 1977-03-07 JORF et JONC 18 Mars 1977
-
-	**Abrogé par**:
-
-	  - Décret n°2000-237 du 13 mars 2000 - art. 13 (Ab)
-	  - Décret n°2000-318 2000-04-07 art. 4 1° d jorf 9 avril 2000
 
 
 ## LIVRE 4 : Personnel communal
