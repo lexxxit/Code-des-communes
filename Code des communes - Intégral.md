@@ -1,5 +1,5 @@
 # Code des communes  
-Version Consolidée au 1996-01-01
+Version Consolidée au 1996-02-01
 
 # Partie législative
 
@@ -61880,14 +61880,14 @@ syndicat des transports parisiens.
 
 ###### Article R263-8
 
-Le taux du versement de transport exprimé en pourcentage des salaires tels qu'ils sont définis aux articles R. 263-15 et R.
+Le taux de versement de transport exprimé en pourcentage des salaires tels qu'ils sont définis aux articles R. 263-15 et R.
 263-22 est fixé à :
 
-" 1° 2,4 p. 100 à Paris et dans le département des Hauts-de-Seine ;
+2,5 p. 100 à Paris et dans le département des Hauts-de-Seine ;
 
-" 2° 1,8 p. 100 dans les départements de la Seine-Saint-Denis et du Val-de-Marne ;
+1,6 p. 100 dans les départements de la Seine-Saint-Denis et du Val-de-Marne ;
 
-" 3° 1,2 p. 100 dans les départements de l'Essonne, des Yvelines, du Val-d'Oise et de Seine-et-Marne. "
+1 p. 100 dans les départements de l'Essonne, des Yvelines, du Val-d'Oise et de Seine-et-Marne.
 
 **Liens relatifs à cet article**
 
@@ -61901,11 +61901,16 @@ Le taux du versement de transport exprimé en pourcentage des salaires tels qu'i
 
 	**Modifié par**:
 
-	  - Décret n°91-776 du 9 août 1991 - art. 1 () JORF 11 août 1991 en vigueur le 1er septembre 1991
+	  - Décret n°96-17 du 10 janvier 1996 - art. 1 () JORF 11 janvier 1996 en vigueur le 1er février 1996
+
+	**Abrogé par**:
+
+	  - Décret n°2000-318 du 7 avril 2000 - art. 4 (V)
 
 	**Cite**:
 
-	  - Code des communes R263-15 et R263-22
+	  - CODE DES COMMUNES. - art. R263-15 (Ab)
+	  - CODE DES COMMUNES. - art. R263-22 (M)
 
 	**Nouveaux textes**:
 
