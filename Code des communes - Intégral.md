@@ -1,5 +1,5 @@
 # Code des communes  
-Version Consolidée au 1985-01-01
+Version Consolidée au 1985-01-03
 
 # Statuts types d'une caisse communale de secours et de retraite de sapeurs-pompiers
 
@@ -16399,6 +16399,43 @@ Les organismes ou services précités précomptent sur les sommes recouvrées un
 	  - Code des communes L253-58
 
 
+###### Article L233-64
+
+Le produit de la taxe est versé au budget de la commune ou de l'établissement public qui rembourse les versements effectués :
+
+1° Aux employeurs qui justifient avoir assuré le logement permanent sur les lieux de travail ou effectué intégralement et à
+titre gratuit le transport collectif de tous leurs salariés, ou de certains d'entre eux au prorata des effectifs transportés
+ou logés par rapport à l'effectif total ;
+
+2° Aux employeurs, pour les salariés employés à l'intérieur des périmètres d'urbanisation des villes nouvelles ou de
+certaines zones d'activité industrielle ou commerciale, prévues aux documents d'urbanisation, lorsque ces périmètres ou ces
+zones sont désignés par la délibération mentionnée à l'article L. 233-60.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°77-90 1977-01-27
+
+	**Abrogé par**:
+
+	  - Loi n°96-142 du 21 février 1996 - art. 12 (V) JORF 24 février 1996
+
+	**Cite**:
+
+	  - CODE DES COMMUNES. - art. L233-60 (Ab)
+
+	**Cité par**:
+
+	  - CODE DES COMMUNES. - art. L233-62 (Ab)
+	  - CODE DES COMMUNES. - art. L233-66 (Ab)
+	  - CODE DES COMMUNES. - art. R233-81 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code général des collectivités territoriales - art. L2333-70 (V)
+
+
 ###### Article L233-65
 
 La commune ou l'établissement public répartit le solde [*du produit de la taxe après remboursement aux employeurs en vertu de
@@ -22179,54 +22216,6 @@ versement-transport ne peut dépasser 0,5 p. 100 des salaires définis à l'arti
 	**Nouveaux textes**:
 
 	  - Code général des collectivités territoriales - art. L2333-67 (V)
-
-
-###### Article L233-64
-
-Le produit de la taxe [*affectation*] est versé au budget de la commune ou de l'établissement public qui rembourse les
-versements effectués :
-
-1° Aux employeurs qui justifient avoir assuré le logement permanent sur les lieux de travail ou effectué intégralement le
-transport collectif de tous leurs salariés ou de certains d'entre eux, au prorata des effectifs transportés ou logés par
-rapport à l'effectif total ; 
-
-2° Aux employeurs, pour les salariés employés à l'intérieur des périmètres d'urbanisation des villes nouvelles ou de
-certaines zones d'activité industrielle ou commerciale, prévues aux documents d'urbanisation, lorsque ces périmètres ou ces
-zones sont désignés par la délibération [*du conseil municipal ou de l'organe compétent de l'établissement communal ou
-intercommunal*] mentionnée à l'article L. 233-60.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°73-640 1973-07-11 art. 5 par. 2 al. 1 modifié
-
-	**Codifié par**:
-
-	  - Décret n°77-90 1977-01-27
-
-	**Créé par**:
-
-	  - Décret n°77-90 1977-01-27 JORF et JONC 3 février 1977 date d'entrée en vigueur élection des maires
-
-	**Cite**:
-
-	  - CODE DES COMMUNES. - art. L233-60 (Ab)
-
-	**Cité par**:
-
-	  - CODE DES COMMUNES. - art. L233-62 (Ab)
-	  - CODE DES COMMUNES. - art. L233-66 (Ab)
-	  - CODE DES COMMUNES. - art. R233-81 (Ab)
-
-	**Liens**:
-
-	  - TXT_ASSOCIE: CODE DES COMMUNES. - art. L233-69 (Ab)
-	  - TXT_ASSOCIE: CODE DES COMMUNES. - art. R233-83 (Ab)
-
-	**Nouveaux textes**:
-
-	  - Code général des collectivités territoriales - art. L2333-70 (V)
 
 
 ##### Taxe communale sur les emplacements publicitaires fixes .
