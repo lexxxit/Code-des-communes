@@ -1,5 +1,5 @@
 # Code des communes  
-Version Consolidée au 1985-12-03
+Version Consolidée au 1985-12-31
 
 # Statuts types d'une caisse communale de secours et de retraite de sapeurs-pompiers
 
@@ -13313,7 +13313,15 @@ conseil jusqu'à l'élection du maire, exercées parmi les conseillers municipau
 La procédure prévue au présent article s'applique également lorsque le maire ou l'adjoint se démettent simultanément du
 mandat de conseiller municipal.
 
+Par dérogation aux dispositions du premier alinéa, les démissions des maires et adjoints données en application des articles
+L. 46-1, L.O. 151 et L.O. 151-1 du code électoral dont définitives à compter leur réception par le représentant de l'Etat
+dans le département [*point de départ*].
+
 **Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Code de l'administration communale 63 AL. 2 ET SUIVANTS
 
 	**Codifié par**:
 
@@ -13325,15 +13333,18 @@ mandat de conseiller municipal.
 	  - Loi n°90-1247 du 29 décembre 1990 - art. 2 (Ab)
 	  - Code forestier - art. R*148-14 (M)
 
+	**Modifié par**:
+
+	  - Loi n°85-1406 du 30 décembre 1985 - art. 9 () JORF 31 décembre 1985
+
 	**Cite**:
 
 	  - CODE DES COMMUNES. - art. L122-15 (M)
 	  - CODE DES COMMUNES. - art. L122-16 (Ab)
 	  - CODE DES COMMUNES. - art. L122-8 (M)
-
-	**Anciens textes**:
-
-	  - Code de l'administration communale 63 AL. 2 ET SUIVANTS
+	  - Code électoral - art. L46-1 (M)
+	  - Code électoral - art. LO151 (M)
+	  - Code électoral - art. LO151-1 (M)
 
 	**Nouveaux textes**:
 
@@ -23701,83 +23712,6 @@ par le redevable. Toute infraction aux dispositions du présent article donne li
 
 
 #### Dotation globale de fonctionnement et autres recettes réparties par le comité des finances locales
-
-##### Dotation globale de fonctionnement
-
-##### Dotation de péréquation.
-
-###### Article L234-7
-
-Les ressources affectées à la dotation de péréquation se répartissent entre les communes en deux parts.
-
-La première part est répartie en partant de l'attribution moyenne par habitant calculée en divisant le montant de cette part
-par le nombre d'habitants concernés.
-
-Le calcul de la part revenant à chaque commune se fait à l'intérieur de son groupe démographique de communes, de façon à
-égaliser le potentiel fiscal par habitant à l'intérieur du groupe.    "L'attribution moyenne nationale est affectée d'un
-coefficient attaché à chaque groupe démographique, tel qu'il résulte du tableau suivant :
-
-Communes de       0 à      499 habitants       1,0000    Communes de     500 à      999 habitants       1,01065    Communes
-de   1.000 à    1.999 habitants       1,0213    Communes de   2.000 à    3.499 habitants       1,03195    Communes de   3.500
-à    4.999 habitants       1,0426    Communes de   5.000 à    7.499 habitants       1,05325    Communes de   7.500 à    9.999
-habitants       1,0639    Communes de  10.000 à   14.999 habitants       1,07455    Communes de  15.000 à   19.999 habitants
-1,0852    Communes de  20.000 à   34.999 habitants       1,09585    Communes de  35.000 à   49.999 habitants       1,1065
-Communes de  50.000 à   74.999 habitants       1,11715    Communes de  75.000 à   99.999 habitants       1,1278    Communes
-de 100.000 à  199.999 habitants       1,13845    Communes de 200.000 habitants et plus 1,15.
-
-Pour 1981, la part des ressources réparties en fonction du potentiel fiscal est fixée à 27,5 p. 100 de la dotation de
-péréquation. Pour les quatre années suivantes, ce chiffre est augmenté de 2,5 points par an.
-
-La seconde part est calculée proportionnellement au montant des impôts énumérés à l'article L. 234-9.
-
-Les groupes démographiques dans lesquels la péréquation est effectuée à partir du potentiel fiscal sont les suivants : 0 A
-499, 500 à 999, 1.000 à 1.999, 2.000 à 3.499, 3.500 à 4.999, 5.000 à 7.499, 7.500 A 9.999, 10.000 à 14.999, 15.000 à 19.999,
-20.000 à 34.999, 35.000 à 49.999, 50.000 à 74.999, 75.000 à 99.999, 100.000 à 199.999, 200.000 et plus.
-
-Pour les groupements de communes qui se sont dotés d'une fiscalité propre, la dotation de péréquation est intégralement
-répartie en fonction des impôts énoncés à l'article L. 234-9.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°77-90 1977-01-27
-
-	**Cité par**:
-
-	  - Loi n°79-15 du 3 janvier 1979 - art. 17 (Ab)
-	  - Loi n°79-15 du 3 janvier 1979 - art. 21 (Ab)
-	  - Loi n°82-1126 du 29 décembre 1982 - art. 91 (P)
-	  - Loi n°83-8 du 7 janvier 1983 - art. 103 (M)
-	  - Décret n°83-117 du 18 février 1983 - art. 16 (Ab)
-	  - Décret n°83-621 du 8 juillet 1983 - art. 1 (V)
-	  - Décret n°83-621 du 8 juillet 1983 - art. 4 (V)
-	  - Décret n°84-62 du 27 janvier 1984 - art. 4 (Ab)
-	  - Loi n°85-1268 du 29 novembre 1985 - art. 29 (M)
-	  - Loi n°85-1268 du 29 novembre 1985 - art. 38 (M)
-	  - CODE DES COMMUNES. - art. L233-29 (Ab)
-	  - CODE DES COMMUNES. - art. L233-45 (Ab)
-	  - CODE DES COMMUNES. - art. L234-10-3 (Ab)
-	  - CODE DES COMMUNES. - art. L234-11-1 (Ab)
-	  - CODE DES COMMUNES. - art. L234-5 (M)
-	  - CODE DES COMMUNES. - art. L234-7-1 (Ab)
-	  - CODE DES COMMUNES. - art. L234-9 (Ab)
-	  - CODE DES COMMUNES. - art. L262-10 (Ab)
-	  - CODE DES COMMUNES. - art. L262-5 (Ab)
-	  - CODE DES COMMUNES. - art. L263-13 (M)
-	  - CODE GENERAL DES IMPOTS ANNEXE 2, CGIAN2. - art. 327 DC (Ab)
-	  - CODE GENERAL DES IMPOTS, CGI. - art. 1648 B (M)
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°80-1102 1980-12-31 ART. 22 :  *Ces dispositions ne sont applicables que jusqu'au 1er janvier 1986*
-	  - TXT_ASSOCIE: Loi n°82-1126 du 29 décembre 1982 - art. 91, v. init.
-	  - SPEC_APPLI: Code des communes L262-10 :  *Dispositions non applicables aux communes du département de Saint-Pierre-et-Miquelon*
-
-	**Nouveaux textes**:
-
-	  - CODE DES COMMUNES. - art. L234-6 (M)
-
 
 ##### Dispositions applicables à la dotation globale de fonctionnement des communes et de leurs groupements
 
