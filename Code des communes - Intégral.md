@@ -1,5 +1,5 @@
 # Code des communes  
-Version Consolidée au 1978-04-22
+Version Consolidée au 1978-07-01
 
 # ORGANISATION COMMUNALE
 
@@ -72700,18 +72700,14 @@ conventions passées entre le syndicat des transports parisiens et ces entrepris
 	  - CODE DES COMMUNES. - art. L263-5 (Ab)
 
 
-#### Dispositions applicables aux communes de la région d'Ile-de-France *région parisienne*
-
-##### Versement destiné aux transports en commun
-
 ###### Article R263-8
 
-Le taux du versement de transport est fixé à : [**]définition[**]        1° 1,9 p. 100 du montant des salaires
-[*pourcentage*], tels qu'ils sont définis à l'article R. 263-15 et à l'article R. 263-22 dans les départements de Paris, de
-la Seine-Saint-Denis, des Hauts-de-Seine et du Val-de-Marne ;
+Le taux du versement de transport est fixé à : [*définition*]        1° 2 p. 100 [*pourcentage*] du montant des salaires tels
+qu'ils sont définis à l'article R. 263-15 et à l'article R. 263-22 du code des communes dans les départements de Paris, de la
+Seine-Saint-Denis, des Hauts-de-Seine et du Val-de-Marne.
 
-2° 1 p. 100 sur les mêmes bases dans la partie des départements de l'Essonne, des Yvelines, du Val-d'Oise et de la Seine-et-
-Marne située dans la région des transports parisiens mentionnée à l'article R. 263-9.
+2° 1,2 p.100 sur les mêmes bases dans la partie des départements de l'Essonne, des Yvelines, du Val-d'Oise et de Seine-et-
+Marne située dans la région des transports parisiens mentionnée à l'article R. 263-9 du code des communes.
 
 **Liens relatifs à cet article**
 
@@ -72719,14 +72715,23 @@ Marne située dans la région des transports parisiens mentionnée à l'article 
 
 	  - Décret n°77-91 1977-01-27
 
+	**Créé par**:
+
+	  - Décret n°78-663 1978-06-23 JORF 24 juin 1978 date d'entrée en vigueur 1er juillet 1978 rectifié par Décret 78-928 1978-08-28 JORF 8 septembre 1978
+
 	**Cite**:
 
-	  - Code des communes R263-9 modifié, R263-15 modifié et R263-22
+	  - CODE DES COMMUNES. - art. R263-9 (M)
+	  - Code des communes R263-9, R263-15 et R263-22
 
 	**Nouveaux textes**:
 
 	  - Code général des collectivités territoriales - art. D2531-6 (Ab)
 
+
+#### Dispositions applicables aux communes de la région d'Ile-de-France *région parisienne*
+
+##### Versement destiné aux transports en commun
 
 ##### Employeurs relevant de régimes autres que le régime des assurances sociales agricoles
 
