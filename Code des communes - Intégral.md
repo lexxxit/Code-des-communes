@@ -1,5 +1,5 @@
 # Code des communes  
-Version Consolidée au 1992-07-08
+Version Consolidée au 1992-07-14
 
 # Partie législative
 
@@ -32128,18 +32128,10 @@ titre II et, le cas échéant, du titre VIII du présent livre, ainsi qu'aux dis
 
 ###### Article L373-2
 
-Les communes ou leurs groupements assurent, éventuellement en liaison avec les départements et les établissements publics
-régionaux, l'élimination des déchets des ménages.
+Les communes ou leurs groupements assurent, éventuellement en liaison avec les départements et les régions, l'élimination des
+déchets des ménages.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°75-633 1975-07-15 art. 12 al. 1
-
-	**Cite**:
-
-	  - Loi n°75-633 du 15 juillet 1975 - art. 1 (M)
 
 	**Cité par**:
 
@@ -32151,36 +32143,34 @@ régionaux, l'élimination des déchets des ménages.
 
 	  - Décret n°77-240 1977-03-07
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°77-240 1977-03-07 JORF et JONC 18 mars 1977
+	  - Loi n°92-646 du 13 juillet 1992 - art. 2 () JORF 14 juillet 1992
+
+	**Abrogé par**:
+
+	  - Loi n°96-142 du 21 février 1996 - art. 12 (V) JORF 24 février 1996
 
 	**Nouveaux textes**:
 
 	  - Code général des collectivités territoriales - art. L2224-13 (V)
+	  - Code général des collectivités territoriales - art. L2224-13 (M)
 
 
 ###### Article L373-3
 
-Ces collectivités [*les communes ou leurs groupements*] assurent également l'élimination des autres déchets définis par
-décret, qu'elles peuvent, eu égard à leurs caractéristiques et aux quantités produites, collecter et traiter sans sujétions
-techniques particulières.
+Ces collectivités assurent également l'élimination des autres déchets définis par décret, qu'elles peuvent, eu égard à leurs
+caractéristiques et aux quantités produites, collecter et traiter sans sujétions techniques particulières.
 
-Elles peuvent à cet effet créer une redevance spéciale, lorsqu'elles n'ont pas institué la redevance prévue à l'article L.
-233-78.
+A compter du 1er janvier 1993, elles créent à cet effet une redevance spéciale lorsqu'elles n'ont pas institué la redevance
+prévue à l'article L. 233-78. Cette redevance se substitue pour les déchets concernés à celle prévue à l'article L. 233-77.
+Cette redevance est calculée en fonction de l'importance du service rendu et notamment de la quantité de déchets éliminés.
+Elle peut toutefois être fixée de manière forfaitaire pour l'élimination de petites quantités de déchets.
 
-Cette redevance se substitue à celle qui était prévue à l'article L. 233-77 [*redevance d'enlèvement des ordures ménagères*].
+Elles peuvent décider, par délibération motivée, d'exonérer de la taxe d'enlèvement des ordures ménagères les personnes
+assujetties à la redevance spéciale visée à l'alinéa précédent.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°75-633 1975-07-15 art. 12 al. 2
-
-	**Cite**:
-
-	  - Loi n°75-633 1975-07-15 art. 2 al. 2
-	  - Code des communes L233-77 et L233-78
 
 	**Cité par**:
 
@@ -32191,30 +32181,43 @@ Cette redevance se substitue à celle qui était prévue à l'article L. 233-77 
 
 	  - Décret n°77-240 1977-03-07
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°77-240 1977-03-07 JORF et JONC 18 mars 1977
+	  - Loi n°92-646 du 13 juillet 1992 - art. 2 () JORF 14 juillet 1992
+
+	**Abrogé par**:
+
+	  - Loi n°96-142 du 21 février 1996 - art. 12 (V) JORF 24 février 1996
+
+	**Cite**:
+
+	  - CODE DES COMMUNES. - art. L233-77 (Ab)
+	  - CODE DES COMMUNES. - art. L233-78 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code général des collectivités territoriales - art. L2224-14 (V)
+	  - Code général des collectivités territoriales - art. L2333-78 (M)
 
 
 ###### Article L373-4
 
-L'étendue des prestations afférentes à ce service et les délais dans lesquels ces prestations [*collecte, évacuation ou
-traitement des ordures ménagères*] doivent être effectivement assurées sont fixés, pour chaque département, par arrêté du
-représentant de l'Etat dans le département [*commissaire de la République*] [**]conditions de forme - compétence[**], dans
-les conditions déterminées par décret en Conseil d'état, en fonction des caractéristiques des communes et notamment de
-l'importance des populations totale, agglomérée et saisonnière et de l'état des dessertes routières.
+L'étendue des prestations afférentes aux services prévus aux articles L. 373-2 et L. 373-3 est fixée par les communes ou
+leurs groupements dans le cadre des plans d'élimination des déchets ménagers prévus à l'article 10-2 de la loi n° 75-633 du
+15 juillet 1975 relative à l'élimination des déchets et à la récupération des matériaux.
 
-Ce même décret détermine les conditions dans lesquelles l'autorité administrative, après avis des conseils municipaux
-intéressés, peut accorder des dérogations temporaires.
-
-L'ensemble des prestations prévues aux deux articles précédents doit, en tout état de cause, être assuré sur la totalité du
-territoire dans un délai de cinq ans à compter du 16 juillet 1975 [*date*].
+Un décret en Conseil d'Etat précise les conditions minimales d'exécution de ces services notamment quant aux fréquences de
+collecte, en fonction des caractéristiques démographiques et géographiques des communes. Ce même décret détermine les
+conditions dans lesquelles le représentant de l'Etat dans le département, après avis des conseils municipaux intéressés, peut
+accorder des dérogations temporaires.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Cite**:
 
-	  - Loi n°75-633 1975-07-15 art. 12 al. 3 et 4
+	  - Loi n°75-633 du 15 juillet 1975 - art. 10-2 (M)
+	  - CODE DES COMMUNES. - art. L373-2 (M)
+	  - CODE DES COMMUNES. - art. L373-3 (M)
 
 	**Codifié par**:
 
@@ -32222,21 +32225,22 @@ territoire dans un délai de cinq ans à compter du 16 juillet 1975 [*date*].
 
 	**Modifié par**:
 
-	  - Loi n°82-213 du 2 mars 1982 - art. 21 (V) JORF 3 MARS 1982
+	  - Loi n°92-646 du 13 juillet 1992 - art. 2 () JORF 14 juillet 1992
 
-	**Cite**:
+	**Abrogé par**:
 
-	  - Code des communes L373-2 et L373-3
+	  - Loi n°96-142 du 21 février 1996 - art. 12 (V) JORF 24 février 1996
 
 	**Nouveaux textes**:
 
 	  - Code général des collectivités territoriales - art. L2224-15 (V)
+	  - Code général des collectivités territoriales - art. L2224-15 (M)
 
 
 ###### Article L373-5
 
-Le maire [*attributions*] peut régler la présentation et les conditions de la remise des déchets en fonction de leurs
-caractéristiques.
+Le maire peut régler la présentation et les conditions de la remise des déchets en fonction de leurs caractéristiques. Il
+peut notamment fixer les modalités de collectes sélectives et imposer la séparation de certaines catégories de déchets.
 
 Le service communal, et le cas échéant, les personnes dûment autorisées peuvent seuls recevoir ces déchets.
 
@@ -32244,17 +32248,17 @@ L'élimination de ces déchets par la personne qui les produit peut être régle
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Loi n°75-633 du 15 juillet 1975 - art. 13 (MMN)
-
 	**Codifié par**:
 
 	  - Décret n°77-240 1977-03-07
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°77-240 1977-03-07 JORF et JONC 18 mars 1977
+	  - Loi n°92-646 du 13 juillet 1992 - art. 2 () JORF 14 juillet 1992
+
+	**Abrogé par**:
+
+	  - Loi n°96-142 du 21 février 1996 - art. 12 (V) JORF 24 février 1996
 
 	**Nouveaux textes**:
 
@@ -32288,33 +32292,6 @@ celle d'éliminer ou de faire éliminer les déchets qui s'y trouvent.
 	**Abrogé par**:
 
 	  - Loi n°96-142 du 21 février 1996 - art. 12 (V)
-
-
-###### Article L373-7
-
-Conformément aux dispositions de l'article 22 de la loi n° 75-633 du 15 juillet 1975 relative à l'élimination des déchets et
-à la récupération des matériaux, les communes sont représentées au conseil d'administration de l'agence nationale pour la
-récupération et l'élimination des déchets [*représentation fixée par le décret n° 76-473 du 25 mai 1976*].
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Loi n°75-633 1975-07-15 art. 22
-	  - Décret n°76-473 1976-05-25
-
-	**Codifié par**:
-
-	  - Décret n°77-240 1977-03-07
-
-	**Créé par**:
-
-	  - Décret n°77-240 1977-03-07 JORF et JONC 18 mars 1977
-
-	**Abrogé par**:
-
-	  - Loi n°92-646 1992-07-13 art. 2, V jorf 14 juillet 1992
-	  - Loi n°92-646 du 13 juillet 1992 - art. 2 ()
 
 
 #### CHAPITRE 4 : Gaz.
