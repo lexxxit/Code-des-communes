@@ -1,5 +1,5 @@
 # Code des communes  
-Version Consolidée au 1978-01-18
+Version Consolidée au 1978-04-04
 
 # ORGANISATION COMMUNALE
 
@@ -97751,46 +97751,6 @@ de la poudre de tan ou du charbon pulvérisé.
 	**Abrogé par**:
 
 	  - Décret n°87-28 1987-01-14 art. 32 JORF 18 janvier 1987
-
-
-#### Police des funérailles et des sépultures
-
-##### Moulages et autopsies.
-
-###### Article R364-16
-
-Toutefois, dans les établissements hospitaliers qui figurent sur une liste établie par le ministre chargé de la santé,
-lorsque le médecin chef de service juge qu'un intérêt scientifique ou de thérapeutique le commande, l'autopsie et les
-prélèvements peuvent, même en l'absence d'autorisation de la famille, être pratiqués sans délai.
-
-Dans ce dernier cas, le décès est constaté par deux médecins de l'établissement, qui emploient tous procédés reconnus
-valables par le ministre chargé de la santé, pour s'assurer de la réalité de la mort.
-
-Ils signent le procès-verbal de constat de décès qui mentionne l'heure et la date de celui-ci [*formalités*].
-
-Le médecin chef dresse un procès-verbal qui constate les motifs et les circonstances de l'opération.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret  1941-12-31 ART. 27 MODIFIE AL. 1 ET 2
-
-	**Codifié par**:
-
-	  - Décret n°77-241 1977-03-07
-
-	**Créé par**:
-
-	  - Décret n°77-241 1977-03-07 JORF et JONC 18 Mars 1977
-
-	**Cite**:
-
-	  - Décret n°78-501 1978-03-31 (prélèvements d'organes)
-
-	**Cité par**:
-
-	  - Décret n°78-501 du 31 mars 1978 - art. 23 (Ab)
 
 
 ### Dispositions particulières à certains services industriels et commerciaux
