@@ -1,5 +1,5 @@
 # Code des communes  
-Version Consolidée au 1986-06-01
+Version Consolidée au 1986-06-13
 
 # Statuts types d'une caisse communale de secours et de retraite de sapeurs-pompiers
 
@@ -48996,6 +48996,27 @@ ils sont remplacés par les personnes élues en même temps qu'eux à cet effet.
 	  - Décret n°77-91 1977-01-27
 
 
+###### Article R*234-3-1
+
+Les représentants des présidents des conseils régionaux sont élus par le collège des présidents des conseils régionaux
+[*mode*] au scrutin majoritaire de liste à un tour, avec dépôt de listes complètes, sans adjonction ni suppression de noms et
+sans modification de l'ordre de présentation.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°77-91 1977-01-27
+
+	**Créé par**:
+
+	  - Décret n°86-767 1986-06-12 art. 1 JORF 13 juin 1986
+
+	**Abrogé par**:
+
+	  - Décret n°94-366 du 10 mai 1994 - art. 1 () JORF 12 mai 1994
+
+
 ###### Article R*234-4
 
 Les représentants des présidents de conseils généraux sont élus par le collège des présidents de conseils généraux au scrutin
@@ -49124,6 +49145,30 @@ Nul ne peut figurer à la fois sur des listes de catégories différentes.
 	  - Code des communes de la Nouvelle-Calédonie - art. R234-8 (V)
 
 
+###### Article R*234-7-1
+
+L'élection des représentants des présidents des conseils régionaux a lieu par bulletins de vote [*par correspondance*]
+adressés par lettre recommandée au secrétariat de la commission de recensement prévu à l'article R. 234-10.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°77-91 1977-01-27
+
+	**Créé par**:
+
+	  - Décret n°86-767 1986-06-12 art. 2 JORF 13 Juin 1986
+
+	**Abrogé par**:
+
+	  - Décret n°94-366 du 10 mai 1994 - art. 1 () JORF 12 mai 1994
+
+	**Cite**:
+
+	  - CODE DES COMMUNES. - art. R234-10 (M)
+
+
 ###### Article R*234-8
 
 L'élection des représentants des présidents de conseils généraux a lieu par bulletins de vote adressés par lettre recommandée
@@ -49245,6 +49290,29 @@ nom, sa qualité, sa signature.
 	**Nouveaux textes**:
 
 	  - Code général des collectivités territoriales - art. R2334-5 (V)
+
+
+###### Article R*234-13
+
+Les onze représentants de l'Etat sont désignés de la façon suivante :
+
+Cinq représentants sur proposition du ministre de l'intérieur ;
+
+Quatre représentants sur proposition du ministre chargé de l'économie et des finances ;
+
+Un représentant sur proposition du ministre chargé du tourisme ;
+
+Un représentant sur proposition du ministre chargé des départements et territoires d'outre-mer.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°77-91 1977-01-27
+
+	**Modifié par**:
+
+	  - Décret n°86-767 1986-06-12 art. 3 JORF 13 Juin 1986
 
 
 ###### Article R*234-14
@@ -58433,33 +58501,6 @@ forme[**].
 #### Dotation globale de fonctionnement et autres recettes réparties par le comité des finances locales
 
 ##### Recettes réparties par le comité des finances locales
-
-##### Organisation du comité des finances locales .
-
-###### Article R*234-13
-
-Les neufs représentants de l'Etat sont désignés de la façon suivante [*répartition*] :
-
-Quatre représentants sur proposition du ministre de l'intérieur ;
-
-Trois représentants sur proposition du ministre du budget ;
-
-Un représentant sur proposition du ministre chargé du tourisme ;
-
-Un représentant sur proposition du ministre chargé des départements et territoires d'outre-mer.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°77-91 1977-01-27
-
-	**Liens**:
-
-	  - TXT_ASSOCIE: Loi n°79-15 du 3 janvier 1979 - art. 27 (V)
-	  - SPEC_APPLI: Loi n°80-1102 1980-12-31 : *Ces dispositions ne sont applicables que jusqu'au 1er janvier 1986*
-	  - SPEC_APPLI: Code des communes R262-1, R262-12 : *Dispositions non applicables aux communes des départements de la Guadeloupe, de la Martinique, de la Guyane, de la Réunion et de Saint-Pierre-et-Miquelon*
-
 
 ##### Dotation supplémentaire versée aux communes touristiques ou thermales et à leurs groupements
 
