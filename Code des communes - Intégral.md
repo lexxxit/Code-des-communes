@@ -1,5 +1,5 @@
 # Code des communes  
-Version Consolidée au 1977-06-08
+Version Consolidée au 1977-07-08
 
 # ORGANISATION COMMUNALE
 
@@ -51261,6 +51261,35 @@ décrets pris sur le rapport du ministre chargé de l'équipement et du ministre
 	**Anciens textes**:
 
 	  - Décret-loi 1938-05-24 art. 5 (partie)
+
+
+###### Article R*131-4
+
+Conformément aux dispositions de l'article R. 313-8 du code de l'urbanisme, l'arrêté du maire prescrivant la réparation ou la
+démolition d'un bâtiment menaçant ruine dans un secteur dit "secteur sauvegardé" est pris après avis de l'architecte des
+bâtiments de France.
+
+**Liens relatifs à cet article**
+
+	**Nouveaux textes**:
+
+	  - Code général des collectivités territoriales L
+
+	**Codifié par**:
+
+	  - Décret n°77-91 1977-01-27
+
+	**Créé par**:
+
+	  - Décret n°77-91 1977-01-27 JORF et JONC 3 février 1977 date d'entrée en vigueur élection des maires
+
+	**Abrogé par**:
+
+	  - Décret n°2000-318 du 7 avril 2000 - art. 4 (V)
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. R313-8 (M)
 
 
 ###### Article R*131-5
