@@ -1,5 +1,5 @@
 # Code des communes  
-Version Consolidée au 1991-09-01
+Version Consolidée au 1991-09-11
 
 # Statuts types d'une caisse communale de secours et de retraite de sapeurs-pompiers
 
@@ -51714,6 +51714,63 @@ Les sommes allouées, en application des articles qui précèdent, sont utilisé
 	  - TXT_ASSOCIE: Code des communes R263-39
 
 
+##### SOUS-SECTION 3 bis : Répartition de la dotation de solidarité urbaine
+
+###### Article R*234-33
+
+La dotation de solidarité urbaine prévue à l'article L. 234-14-1 du code des communes est répartie entre les communes
+éligibles autres que les communes des départements d'outre-mer :
+
+" a) Pour 70 p. 100 de son montant, en fonction de la population de la commune, majorée proportionnellement à l'écart entre
+le potentiel fiscal de référence et le potentiel fiscal par habitant de la commune, multiplié par l'effort fiscal de la
+commune pris en compte dans la limite de 1,20 ;
+
+" b) Pour 30 p. 100 de son montant, proportionnellement au nombre de logements sociaux recensés dans la commune, tels que
+mentionnés au 3° du premier alinéa de l'article L. 234-10 du code des communes.
+
+" Le potentiel fiscal par habitant de la commune est déterminé dans les conditions prévues à l'article L. 234-6 et à
+l'article L. 234-19-3 du code des communes.
+
+" Le potentiel fiscal de référence est égal :
+
+" - pour les communes de 10 000 habitants et plus, au potentiel fiscal moyen par habitant de l'ensemble des communes de plus
+de 10 000 habitants ;
+
+" - pour les communes de moins de 10 000 habitants, au potentiel fiscal moyen par habitant de l'ensemble des communes de
+moins de 10 000 habitants.
+
+" Le calcul de l'effort fiscal est opéré ainsi que prévu à l'article L. 234-5 du code des communes et, pour les communes
+membres d'un groupement de communes, au b du 1° du II de l'article L. 1648 B du code général des impôts. "
+
+**Nota:**
+
+Le décret n° 91-894 du 10 septembre 1991 a créé une sous-section II bis comprenant l'article R234-33, en fait il y a lieu de
+lire " sous-section III bis ".
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 1648 B
+	  - CODE DES COMMUNES. - art. L234-10 (M)
+	  - CODE DES COMMUNES. - art. L234-14-1 (Ab)
+	  - CODE DES COMMUNES. - art. L234-19-3 (M)
+	  - CODE DES COMMUNES. - art. L234-5 (M)
+	  - CODE DES COMMUNES. - art. L234-6 (M)
+
+	**Anciens textes**:
+
+	  - Décret n°73-127 1973-02-09 art. 5 (partie)
+
+	**Codifié par**:
+
+	  - Décret n°77-91 1977-01-27
+
+	**Créé par**:
+
+	  - Décret n°91-894 du 10 septembre 1991 - art. 1 () JORF 11 septembre 1991
+
+
 #### CHAPITRE 5 : Subventions
 
 ##### SECTION 1 : Subventions de fonctionnement sans affectation spéciale.
@@ -59587,6 +59644,308 @@ circulation*].
 	**Cite**:
 
 	  - Code des communes R263-38
+
+
+##### SECTION 4 : fonds de solidarité des communes de la région d'Ile-de-France.
+
+###### Article R*263-40
+
+---Le fonds de solidarité des communes de la région d'Ile-de-France prévu à l'article L. 263-15 du code des communes est
+réparti entre les communes éligibles :
+
+" a) Pour 60 p. 100 au moins et 80 p. 100 au plus de son montant, en fonction de la population de la commune, majorée
+proportionnellement à l'écart entre le potentiel fiscal de référence et le potentiel fiscal par habitant de la commune,
+multiplié par l'effort fiscal de la commune pris en compte dans la limite de 1,20 ;
+
+" b) Pour 20 p. 100 au moins et 40 p. 100 au plus de son montant, proportionnellement au nombre de logements sociaux recensés
+dans la commune, tels que mentionnés au 3° du premier alinéa de l'article L. 234-10 du code des communes.
+
+" Le potentiel fiscal par habitant de la commune est déterminé dans les conditions prévues à l'article L. 234-6 et à
+l'article L. 234-19-3 du code des communes.
+
+" Le potentiel fiscal de référence est égal :
+
+" - pour les communes de 10 000 habitants et plus, au potentiel fiscal moyen par habitant de l'ensemble des communes de la
+région d'Ile-de-France de plus de 10 000 habitants ;
+
+" - pour les communes de moins de 10 000 habitants, au potentiel fiscal moyen par habitant de l'ensemble des communes de la
+région d'Ile-de-France de moins de 10 000 habitants.
+
+" Le calcul de l'effort fiscal est opéré ainsi que prévu à l'article L. 234-5 du code des communes et, pour les communes
+membres d'un groupement de communes, au b du 1° du II de l'article L. 1648 B du code général des impôts. "
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 1648 B
+	  - CODE DES COMMUNES. - art. L234-10 (M)
+	  - CODE DES COMMUNES. - art. L234-19-3 (M)
+	  - CODE DES COMMUNES. - art. L234-5 (M)
+	  - CODE DES COMMUNES. - art. L234-6 (M)
+	  - CODE DES COMMUNES. - art. L263-15 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°77-91 1977-01-27
+
+	**Créé par**:
+
+	  - Décret n°91-895 1991-09-11 art. 1 jorf 11 septembre 1991
+
+
+###### Article R*263-41
+
+En cas d'empêchement, les membres du comité peuvent se faire représenter.
+
+Le remplacement des présidents du conseil régional et des conseils généraux est assuré par un vice-président.
+
+Le remplacement du maire de Paris est assuré par un adjoint ou, à défaut, par un conseiller de Paris.
+
+Le remplacement des représentants des groupements de communes et des maires est assuré par des suppléants élus en même temps
+qu'eux et selon les mêmes modalités.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°77-91 1977-01-27
+
+	**Créé par**:
+
+	  - Décret n°91-896 du 10 septembre 1991 - art. 1 ()
+
+	**Abrogé par**:
+
+	  - Décret n°2000-318 du 7 avril 2000 - art. 4 (V)
+
+
+###### Article R*263-42
+
+Les fonctions de membre du comité sont renouvelables.
+
+Les présidents du conseil régional et des conseils généraux et le maire de Paris siègent pour la durée de leur mandat.
+
+Le mandat des représentants élus des présidents de groupements de communes et des maires expire à l'occasion du
+renouvellement général des conseils municipaux.
+
+Toutefois le mandat des membres du comité se trouve prorogé jusqu'à l'installation des membres titulaires et suppléants qui
+les remplacent.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°77-91 1977-01-27
+
+	**Créé par**:
+
+	  - Décret n°91-896 du 10 septembre 1991 - art. 1 ()
+
+	**Abrogé par**:
+
+	  - Décret n°2000-318 du 7 avril 2000 - art. 4 (V)
+
+
+###### Article R*263-43
+
+Pour l'élection des représentants des présidents de groupements de communes et des maires, chaque électeur dispose d'une
+voix. Il ne peut voter que pour une liste complète, sans radiation ni adjonction de nom et sans modifier l'ordre de
+présentation des candidats. Chaque liste comprend autant de candidats que de sièges à pourvoir. Chaque candidature d'un
+représentant titulaire est assortie de celle d'un suppléant.
+
+Les candidats proclamés élus sont désignés selon l'ordre décroissant des voix revenant à chaque liste et, au sein de chaque
+liste, selon l'ordre de présentation qu'elle comporte. Toutefois, dans le cas où cette désignation conduirait à ne pas
+assurer la représentation, d'une part, de deux présidents de communautés ou de syndicats d'agglomération nouvelle, d'autre
+part, d'un président d'un autre groupement de communes, le siège est attribué au premier candidat de la liste attributaire
+ayant la qualité requise pour assurer cette représentation.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°77-91 1977-01-27
+
+	**Créé par**:
+
+	  - Décret n°91-896 du 10 septembre 1991 - art. 1 ()
+
+	**Abrogé par**:
+
+	  - Décret n°2000-318 du 7 avril 2000 - art. 4 (V)
+
+
+###### Article R*263-44
+
+En cas de décès ou de démission d'un membre titulaire élu ou de la perte de la qualité au titre de laquelle il a été élu, il
+est remplacé par son suppléant.
+
+Si, pour des motifs de même nature, le suppléant n'est pas en mesure de siéger, il est fait appel au premier candidat
+titulaire non élu dans l'ordre de présentation de la liste. Toutefois, pour le remplacement soit d'un président de communauté
+ou de syndicat d'agglomération, soit d'un président d'un autre groupement de communes, il ne peut être fait appel dans cet
+ordre de présentation qu'à un candidat ayant la même qualité.
+
+Lorsqu'il ne peut être procédé à un remplacement selon les modalités prévues à l'alinéa précédent avant le douzième mois
+précédant le renouvellement général des conseils municipaux, il est procédé dans un délai de trois mois à des élections
+partielles ; l'ensemble des membres du collège correspondant prend part au scrutin.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°77-91 1977-01-27
+
+	**Créé par**:
+
+	  - Décret n°91-896 du 10 septembre 1991 - art. 1 ()
+
+	**Abrogé par**:
+
+	  - Décret n°2000-318 du 7 avril 2000 - art. 4 (V)
+
+
+###### Article R*263-45
+
+L'élection des représentants de groupements de communes et des maires a lieu par bulletin de vote adressé par lettre
+recommandée à la préfecture de la région d'Ile-de-France.
+
+Les bulletins de vote sont recensés par une commission comprenant :
+
+1° Le préfet de la région d'Ile-de-France ou son représentant, président ;
+
+2° Un président de groupement de communes de la région d'Ile-de-France, désigné par le préfet de la région d'Ile-de-France ;
+
+3° Un maire de la région d'Ile-de-France, désigné par le préfet de la région d'Ile-de-France ;
+
+Le secrétariat est assuré par un fonctionnaire de la préfecture.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°77-91 1977-01-27
+
+	**Créé par**:
+
+	  - Décret n°91-896 du 10 septembre 1991 - art. 1 ()
+
+	**Abrogé par**:
+
+	  - Décret n°2000-318 du 7 avril 2000 - art. 4 (V)
+
+
+###### Article R*263-46
+
+Les candidatures doivent être déposées à la préfecture de la région d'Ile-de-France à une date fixée par arrêté préfectoral.
+
+Cet arrêté porte également la date limite d'envoi ou éventuellement du dépôt des bulletins de vote à la préfecture de la
+région d'Ile-de-France.
+
+Chaque bulletin est mis sous double enveloppe ; l'enveloppe extérieure doit porter la mention " élection des membres du
+comité d'élus de la région d'Ile-de-France ", l'indication du collège électoral auquel appartient le votant, son nom, sa
+qualité, sa signature.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°77-91 1977-01-27
+
+	**Créé par**:
+
+	  - Décret n°91-896 du 10 septembre 1991 - art. 1 ()
+
+	**Abrogé par**:
+
+	  - Décret n°2000-318 du 7 avril 2000 - art. 4 (V)
+
+
+###### Article R*263-47
+
+Le comité élit en son sein son président, au scrutin secret à la majorité absolue.
+
+Si, après deux tours de scrutin, aucun membre du comité n'a obtenu la majorité absolue, il est procédé à un troisième tour de
+scrutin et l'élection a lieu à la majorité relative.
+
+En cas d'égalité de suffrages, le plus âgé est déclaré élu.
+
+Le président est élu jusqu'au renouvellement des représentants des groupements de communes et maires consécutif au
+renouvellement général des conseils municipaux. Toutefois, il est procédé à une nouvelle élection en cas de décès, de
+démission ou de perte de la qualité au titre de laquelle il a été élu.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°77-91 1977-01-27
+
+	**Créé par**:
+
+	  - Décret n°91-896 du 10 septembre 1991 - art. 1 ()
+
+	**Abrogé par**:
+
+	  - Décret n°2000-318 du 7 avril 2000 - art. 4 (V)
+
+
+###### Article R*263-48
+
+Les élections des membres du comité et du président peuvent être contestées devant le Conseil d'Etat par tout électeur, par
+les candidats et par le ministre chargé des collectivités territoriales, dans les dix jours qui suivent la publication des
+résultats au Journal officiel, à l'initiative du préfet de la région d'Ile-de-France.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°77-91 1977-01-27
+
+	**Créé par**:
+
+	  - Décret n°91-896 du 10 septembre 1991 - art. 1 ()
+
+	**Abrogé par**:
+
+	  - Décret n°2000-318 du 7 avril 2000 - art. 4 (V)
+
+
+###### Article R*263-49
+
+Le comité établit son règlement intérieur. Celui-ci est approuvé par le ministre chargé des collectivités territoriales.
+
+Le ministre chargé de la ville et le ministre chargé des collectivités territoriales ou leurs représentants assistent aux
+séances du comité.
+
+Le comité se réunit au moins deux fois par an. Pour l'application du deuxième alinéa du II de l'article L. 236-15, le comité
+arrête la pondération des critères de répartition avant le 31 décembre de l'année qui précède celle au titre de laquelle
+seront répartis les crédits du fonds de solidarité des communes de la région d'Ile-de-France.
+
+Le secrétariat est assuré par le préfet de la région d'Ile-de-France, ou son représentant.
+
+Le comité est convoqué toutes les fois qu'il est nécessaire par son président soit d'office, soit à la demande de la moitié
+au moins des membres ; en outre, il peut être convoqué par décision du ministre chargé des collectivités territoriales.
+
+Toutefois, le comité ne peut délibérer valablement que si la moitié au moins de ses membres titulaires ou suppléants en
+exercice assiste à la séance. Dans le cas où le quorum n'est pas atteint, il est aussitôt procédé à une nouvelle convocation
+par lettre recommandée avec demande d'avis de réception. Le comité peut alors délibérer quel que soit le nombre des membres
+présents.
+
+Les décisions sont prises à la majorité absolue des membres présents ; en cas de partage égal des voix, la voix du président
+est prépondérante.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°77-91 1977-01-27
+
+	**Créé par**:
+
+	  - Décret n°91-896 du 10 septembre 1991 - art. 1 ()
+
+	**Abrogé par**:
+
+	  - Décret n°2000-318 du 7 avril 2000 - art. 4 (V)
 
 
 #### CHAPITRE 4 : Dispositions applicables à la ville de Paris.
