@@ -1,5 +1,5 @@
 # Code des communes  
-Version Consolidée au 1984-12-30
+Version Consolidée au 1985-01-01
 
 # Statuts types d'une caisse communale de secours et de retraite de sapeurs-pompiers
 
@@ -15091,6 +15091,122 @@ Les taxes ou portions de taxes attribuées à un fonds commun sont exclues des r
 
 #### CHAPITRE 3 : Taxes, redevances ou versements autres que ceux prévus par le code général des Impôts
 
+##### SECTION 1 : Taxe sur certaines fournitures d'électricité.
+
+###### Article L233-1
+
+Toute commune peut, par délibération du conseil municipal, établir une taxe sur les fournitures d'électricité sous faible ou
+moyenne puissance.
+
+Lorsqu'il existe un syndicat de communes pour l'électricité, la taxe prévue à l'alinéa précédent peut être établie et perçue
+par ledit syndicat aux lieu et place des communes adhérentes dont la population agglomérée au chef-lieu est inférieure à 2000
+habitants. Dans ce cas, lorsque les tarifs sont unifiés et la taxe correspondante fixée à un taux uniforme, celle-ci est
+recouvrée sans frais par le distributeur.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°77-90 1977-01-27
+
+	**Cité par**:
+
+	  - Loi n°77-744 du 8 juillet 1977 - art. 9 (Ab)
+	  - Loi n°84-1209 du 29 décembre 1984 - art. 24 (V)
+	  - CODE DES COMMUNES. - art. L233-2 (M)
+	  - CODE DES COMMUNES. - art. L233-3 (M)
+	  - CODE DES COMMUNES. - art. R233-49 (Ab)
+
+	**Modifié par**:
+
+	  - Loi n°84-1209 du 29 décembre 1984 - art. 23 () JORF 30 décembre 1984 en vigueur le 1er janvier 1985
+
+	**Abrogé par**:
+
+	  - Loi n°96-142 du 21 février 1996 - art. 12 (V) JORF 24 février 1996
+
+	**Nouveaux textes**:
+
+	  - Code général des collectivités territoriales - art. L2333-2 (V)
+	  - Code général des collectivités territoriales - art. L5212-24 (M)
+
+
+###### Article L233-2
+
+La taxe est due par les usagers pour les quantités d'électricité consommée sur le territoire de la commune, à l'exception de
+celles qui concernent l'éclairage de la voirie nationale, départementale et communale et de ses dépendances.
+
+Elle est assise :
+
+- sur 80 p. 100 du montant total hors taxes de la facture d'électricité lorsque la fourniture est faite par le distributeur
+sous une puissance souscrite inférieure ou égale à 36 kVA ;
+
+- et sur 30 p. 100 dudit montant lorsque la fourniture est faite sous une puissance souscrite supérieure à 36 kVA et
+inférieure ou égale à 250 kVA.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°77-90 1977-01-27
+
+	**Cité par**:
+
+	  - Loi n°77-744 du 8 juillet 1977 - art. 9 (Ab)
+	  - Loi n°84-1209 du 29 décembre 1984 - art. 24 (V)
+	  - CODE DES COMMUNES. - art. L233-3 (M)
+	  - CODE DES COMMUNES. - art. R233-84 (Ab)
+
+	**Modifié par**:
+
+	  - Loi n°84-1209 du 29 décembre 1984 - art. 23 () JORF 30 décembre 1984 en vigueur le 1er janvier 1985
+
+	**Abrogé par**:
+
+	  - Loi n°96-142 du 21 février 1996 - art. 12 (V) JORF 24 février 1996
+
+	**Nouveaux textes**:
+
+	  - Code général des collectivités territoriales - art. L2333-3 (V)
+	  - Code général des collectivités territoriales - art. L2333-3 (M)
+
+
+###### Article L233-4
+
+Par dérogation aux dispositions des articles L. 233-1, L. 233-2 et L. 233-3 ci-dessus, dans les communes et les départements
+où des conventions ont été passées, avant le 5 décembre 1984, avec des entreprises fournies en courant à moyenne ou haute
+tension, ces conventions restent en vigueur dès lors que la fourniture de courant est faite sous une puissance souscrite
+supérieure à 250 kVA.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°77-90 1977-01-27
+
+	**Modifié par**:
+
+	  - Loi n°84-1209 du 29 décembre 1984 - art. 23 () JORF 30 décembre 1984 en vigueur le 1er janvier 1985
+
+	**Cité par**:
+
+	  - Loi n°84-1209 du 29 décembre 1984 - art. 24 (V)
+	  - CODE DES COMMUNES. - art. R233-2 (Ab)
+
+	**Abrogé par**:
+
+	  - Loi n°96-142 du 21 février 1996 - art. 12 (V) JORF 24 février 1996
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: CODE DES COMMUNES. - art. L232-3 (M)
+
+	**Nouveaux textes**:
+
+	  - Code général des collectivités territoriales - art. L2333-5 (V)
+	  - Code général des collectivités territoriales - art. L3333-3 (V)
+
+
 ##### SECTION 2 : Taxes d'usage des abattoirs publics et de protection sanitaire et d'organisation du marché s des viandes
 
 ##### SOUS-SECTION 1 : Taxe d'usage des abattoirs publics.
@@ -21443,95 +21559,17 @@ L. 35-3, L. 35-4, L. 35-5 et L. 35-8 du code de la santé publique.
 
 #### Taxes, redevances ou versements autres que ceux prévus par le code général des impôts
 
-##### Taxe sur l'électricité
-
-##### Dispositions générales.
-
-###### Article L233-1
-
-Toute commune peut, par délibération du conseil municipal, établir une taxe sur l'électricité consommée pour le chauffage,
-l'éclairage et les usages domestiques.
-
-Un règlement d'administration publique fixe le maximum et détermine les modalités d'assiette et de perception de cette taxe,
-les exonérations ainsi que les dégrèvements autorisés pour les petites cotes et pour les charges de famille. Il peut prévoir
-plusieurs modes d'assiette et de perception entre lesquels les communes ont le choix.
-
-Le maximum établi en vertu de l'alinéa précédent ne peut être dépassé qu'à titre exceptionnel.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Code de l'administration communale 199
-
-	**Codifié par**:
-
-	  - Décret n°77-90 1977-01-27
-
-	**Cité par**:
-
-	  - Loi n°77-744 du 8 juillet 1977 - art. 9 (Ab)
-	  - Loi n°84-1209 du 29 décembre 1984 - art. 24 (V)
-	  - CODE DES COMMUNES. - art. L233-2 (M)
-	  - CODE DES COMMUNES. - art. L233-3 (M)
-	  - CODE DES COMMUNES. - art. R233-49 (Ab)
-
-	**Modifié par**:
-
-	  - Loi n°82-213 du 2 mars 1982 - art. 21 (V) JORF 3 MARS 1982
-
-
-###### Article L233-2
-
-Lorsqu'il existe un syndicat de communes pour l'électricité,
-
-la taxe prévue à l'article précédent peut être établie et perçue par ledit syndicat aux lieu et place des communes syndiquées
-dont la population agglomérée au chef-lieu est inférieure à 2.000 habitants [*nombre*]. 
-
-Lorsque les tarifs sont unifiés et la taxe correspondante fixée à un taux uniforme, celle-ci est recouvrée sans frais par le
-distributeur.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Code de l'administration communale 200
-
-	**Codifié par**:
-
-	  - Décret n°77-90 1977-01-27
-
-	**Créé par**:
-
-	  - Décret n°77-90 1977-01-27 JORF et JONC 3 février 1977 date d'entrée en vigueur élection des maires
-
-	**Cité par**:
-
-	  - Loi n°77-744 du 8 juillet 1977 - art. 9 (Ab)
-	  - Loi n°84-1209 du 29 décembre 1984 - art. 24 (V)
-	  - CODE DES COMMUNES. - art. L233-3 (M)
-	  - CODE DES COMMUNES. - art. R233-84 (Ab)
-
-	**Cite**:
-
-	  - CODE DES COMMUNES. - art. L233-1 (M)
-
-	**Nouveaux textes**:
-
-	  - Code général des collectivités territoriales - art. L2333-3 (V)
-
-
-##### Dispositions applicables à l'électricité livrée en basse tension par des distributeurs .
+##### Taxe sur certaines fournitures d'électricité
 
 ###### Article L233-3
 
-La taxe communale et intercommunale prévue par les articles L. 233-1 et L. 233-2 est, en ce qui concerne l'énergie électrique
-livrée par les distributeurs en basse tension et quelle qu'en soit l'utilisation, assise sur la part du montant de la facture
-d'électricité variant avec les consommations relevées, à l'exception de celles de ces consommations qui concernent
-l'éclairage du domaine public national, départemental et communal, dans des conditions déterminées par décret en Conseil
-d'Etat.
+Le taux [*maximal*] de cette taxe ne peut dépasser 8 p. 100.
 
-L'assiette de la taxe est uniforme, en fonction des tarifs, pour l'ensemble du territoire national.
+Les communes ou groupements de communes qui bénéficient à la date de promulgation de la loi de finances rectificative pour
+1984 n° 84-1209 du 29 décembre 1984 de la possibilité de dépasser le taux de 8 p. 100 conservent cette possibilité si elles
+peuvent justifier de charges d'électrification non couvertes par le taux maximum de la taxe mentionnée ci-dessus.
+
+La taxe est recouvrée par le distributeur dans les conditions fixées par décret en Conseil d'Etat.
 
 **Liens relatifs à cet article**
 
@@ -21543,6 +21581,14 @@ L'assiette de la taxe est uniforme, en fonction des tarifs, pour l'ensemble du t
 
 	  - Décret n°77-90 1977-01-27
 
+	**Cite**:
+
+	  - Loi n°84-1209 1984-12-29 finances rectificative pour 1984
+
+	**Modifié par**:
+
+	  - Loi n°84-1209 du 29 décembre 1984 - art. 23 () JORF 30 décembre 1984
+
 	**Cité par**:
 
 	  - Loi n°84-1209 du 29 décembre 1984 - art. 24 (V)
@@ -21550,196 +21596,9 @@ L'assiette de la taxe est uniforme, en fonction des tarifs, pour l'ensemble du t
 	  - CODE DES COMMUNES. - art. L233-7 (M)
 	  - CODE DES COMMUNES. - art. R*233-6 (Ab)
 
-	**Cite**:
-
-	  - CODE DES COMMUNES. - art. L233-1 (M)
-	  - CODE DES COMMUNES. - art. L233-2 (M)
-
-
-###### Article L233-4
-
-Le taux de la taxe est unique pour chaque collectivité intéressée.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°69-1160 1969-12-24 art. 8 I al. 2
-
-	**Codifié par**:
-
-	  - Décret n°77-90 1977-01-27
-
-	**Créé par**:
-
-	  - Décret n°77-90 1977-01-27 JORF et JONC 3 février 1977 date d'entrée en vigueur élection des maires
-
-	**Cité par**:
-
-	  - Loi n°84-1209 du 29 décembre 1984 - art. 24 (V)
-	  - CODE DES COMMUNES. - art. R233-2 (Ab)
-
 	**Liens**:
 
-	  - TXT_ASSOCIE: CODE DES COMMUNES. - art. L232-3 (M)
-
-
-###### Article L233-5
-
-Le taux limite de la taxation [*définition*] est, pour les communes et leurs groupements, de 8 p. 100 [*pourcentage*] des
-éléments de la facture soumis à taxation.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°69-1160 1969-12-24 art. 8 I al. 2
-
-	**Codifié par**:
-
-	  - Décret n°77-90 1977-01-27
-
-	**Créé par**:
-
-	  - Décret n°77-90 1977-01-27 JORF et JONC 3 février 1977 date d'entrée en vigueur élection des maires
-
-	**Modifié par**:
-
-	  - Loi n°84-1209 du 29 décembre 1984 - art. 23 () JORF 30 décembre 1984
-
-
-###### Article L233-6
-
-Les surtaxes ou majorations de tarifs, établies pour couvrir les charges d'électrification par les communes qui ont institué
-une distribution d'énergie électrique ou par leurs groupements,
-
-sont incorporées à la taxe [*communale et intercommunale*] prévue à l'article L. 233-3. 
-
-Elles sont assimilées à cette taxe quant à son caractère fiscal, l'uniformité de son assiette et l'unicité de son taux par
-commune ou groupement mentionné à l'alinéa précédent. 
-
-Leurs taux, fixés en pourcentage , sont ajoutés à ceux de la taxe sans que les taux cumulés puissent excéder la limite de
-taxation prévue à l'article précédent.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°69-1160 1969-12-24 art. 8 II al. 2
-
-	**Codifié par**:
-
-	  - Décret n°77-90 1977-01-27
-
-	**Créé par**:
-
-	  - Décret n°77-90 1977-01-27 JORF et JONC 3 février 1977 date d'entrée en vigueur élection des maires
-
-	**Modifié par**:
-
-	  - Loi n°84-1209 du 29 décembre 1984 - art. 23 () JORF 30 décembre 1984
-
-	**Cite**:
-
-	  - CODE DES COMMUNES. - art. L233-3 (M)
-
-
-###### Article L233-7
-
-Si l'application des articles L. 233-3 [*assiette de la taxe*] et L. 233-6 [*incorporation et assimilation à la taxe des
-surtaxes ou majorations de tarifs établies pour les charges spéciales d'électrification*] ne permet pas à une commune ou à un
-groupement de communes d'obtenir des ressources équivalentes à celles que lui procuraient, avant le 27 décembre 1969
-[*date*], la taxe sur l'électricité et les surtaxes ou majorations de tarifs, ces communes ou groupements peuvent majorer en
-conséquence les taux limites prévus à l'article L. 233-5.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°69-1160 1969-12-24 art. 8 III
-
-	**Codifié par**:
-
-	  - Décret n°77-90 1977-01-27
-
-	**Modifié par**:
-
-	  - Loi n°82-213 du 2 mars 1982 - art. 21 (V) JORF 3 MARS 1982
-	  - Loi n°84-1209 du 29 décembre 1984 - art. 23 () JORF 30 décembre 1984
-
-	**Cite**:
-
-	  - CODE DES COMMUNES. - art. L233-3 (M)
-	  - Code des communes L233-3, L233-5 et L233-6
-
-	**Liens**:
-
-	  - TXT_ASSOCIE: Code des communes R233-8
-
-
-###### Article L233-8
-
-Dans le cas où une commune ou un groupement de communes ayant institué la distribution d'énergie électrique ne peut faire
-face à ses charges d'électrification au moyen des ressources résultant de l'application des articles L. 233-3 à L. 233-7 ci-
-dessus la commune ou le groupement peut modifier temporairement les taux limites pour la durée et jusqu'au niveau nécessaire
-à la couverture des charges intégrales d'électrification que les ressources procurées par le taux limite ne permettent pas
-d'assurer.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°69-1160 1969-12-24 art. 8 IV
-
-	**Codifié par**:
-
-	  - Décret n°77-90 1977-01-27
-
-	**Modifié par**:
-
-	  - Loi n°82-213 du 2 mars 1982 - art. 21 (V) JORF 3 MARS 1982
-	  - Loi n°84-1209 du 29 décembre 1984 - art. 23 () JORF 30 décembre 1984
-
-	**Cité par**:
-
-	  - CODE DES COMMUNES. - art. R*233-10 (Ab)
-
-	**Cite**:
-
-	  - Code des communes L233-3 à L233-7
-
-	**Liens**:
-
-	  - TXT_ASSOCIE: Code des communes R233-10
-
-
-###### Article L233-9
-
-La taxe sur l'électricité prévue à l'article L. 233-6 créée en substitution de la surtaxe ou majoration de tarifs dont
-disposaient les communes ou leurs groupements ayant institué une distribution d'énergie électrique, afin de couvrir les
-charges d'électrification, continue, conformément à l'article 98 de la loi n° 70-1199 du 21 décembre 1970, à être établie et
-perçue directement par ceux-ci. 
-
-Il en est de même en cas de recours aux articles L. 233-7 et L. 233-8 [*autorisation de majorer les taux limites*].
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Loi n°70-1199 du 21 décembre 1970 - art. 98, v. init.
-	  - Code des communes L233-6 à L233-8
-
-	**Codifié par**:
-
-	  - Décret n°77-90 1977-01-27
-
-	**Créé par**:
-
-	  - Décret n°77-90 1977-01-27 JORF et JONC 3 février 1977 date d'entrée en vigueur élection des maires
-
-	**Modifié par**:
-
-	  - Loi n°84-1209 du 29 décembre 1984 - art. 23 () JORF 30 décembre 1984
+	  - SPEC_APPLI: Code des communes L233-4 *dérogation*
 
 
 ##### Taxes particulières aux stations
@@ -23640,8 +23499,27 @@ Le montant des crédits affectés à la dotation supplémentaire aux communes to
 le comité des finances locales. Il ne peut être inférieur à 20 p. 100 ni supérieur à 28 p. 100 des ressources affectées aux
 concours particuliers.
 
-Le montant de la dotation supplémentaire attribué à chaque commune touristique ou thermale ne peut, à capacité d'accueil
-inchangée ou en accroissement, être inférieur à la dotation reçue l'année précédente.
+La dotation supplémentaire attribuée aux communes touristiques ou thermales sera déterminée pour les années 1984 et 1985
+conformément aux dispositions suivantes :
+
+1° Les communes inscrites en 1983 sur la liste des communes touristiques ou thermales bénéficient en 1984 :
+
+a) lorsque leur capacité d'accueil est stable ou en accroissement, d'une dotation supplémentaire au moins égale à celle reçue
+en 1983 ;
+
+b) lorsque leur capacité d'accueil est en diminution, d'une dotation supplémentaire au moins égale aux deux tiers de celle
+reçue en 1983.
+
+2° Les communes inscrites sur la liste des communes touristiques ou thermales en 1984 bénéficient en 1985 :
+
+a) lorsque leur capacité d'accueil est stable ou en accroissement, d'une dotation supplémentaire au moins égale à celle reçue
+en 1984 ;
+
+b) lorsque leur capacité d'accueil est en diminution, d'une dotation au moins égale aux deux tiers de celle reçue en 1984.
+
+3° Les communes qui cessent en 1984 d'être inscrites sur la liste des communes touristiques ou thermales et qui ont bénéficié
+en 1984 de la garantie prévue par le b) du 1° du présent article reçoivent en 1985 une dotation égale au tiers de celle
+qu'elles ont reçue en 1983.
 
 Pour chaque collectivité bénéficiaire, le montant de la dotation supplémentaire ainsi calculé est diminué du dixième du
 produit de la taxe de séjour effectivement perçu l'année précédente. Les sommes ainsi prélevées sont d'abord affectées au
@@ -23684,6 +23562,10 @@ thermales.
 
 	  - Loi n°83-1186 1983-12-29 art. 10
 	  - CODE DES COMMUNES. - art. L234-20 (M)
+
+	**Modifié par**:
+
+	  - Loi n°84-1284 du 31 décembre 1984 - art. 2 () JORF 1er janvier 1985
 
 	**Liens**:
 
