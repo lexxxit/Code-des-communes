@@ -1,5 +1,5 @@
 # Code des communes  
-Version Consolidée au 1978-07-18
+Version Consolidée au 1978-12-19
 
 # ORGANISATION COMMUNALE
 
@@ -55322,6 +55322,38 @@ départements d'outre-mer.
 	  - Décret n°2000-318 du 7 avril 2000 - art. 4 (V)
 
 
+##### SECTION 2 : Dispositions applicables aux communes du département de Saint-Pierre-et-Miquelon.
+
+###### Article R*182-3
+
+Sont applicables aux communes du département de Saint-Pierre-et-Miquelon [*champ d'application*] les dispositions des titres
+Ier à VI du présent livre à l'exception de celles ci-après :
+
+Titre Ier, chapitre II, section II "Fusions de communes" [*R. 112-4 à R. 112-16*] ;
+
+Titre V, chapitre III "Communes associées" [*R. 153-1 à R. 153-3*] ;
+
+Titre VI, chapitre V "Communautés urbaines" [*R 165-1 à R. 165-14*].
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°77-91 1977-01-27
+
+	**Créé par**:
+
+	  - Décret n°78-1173 du 22 novembre 1978 - art. 2 (V) JORF 18 ET 19 DECEMBRE 1978 p. 4202
+
+	**Abrogé par**:
+
+	  - Décret n°2000-318 du 7 avril 2000 - art. 4 (V)
+
+	**Cite**:
+
+	  - Code des communes R153-1 à R153-3
+
+
 #### CHAPITRE 4 : Dispositions applicables à la ville de Paris
 
 ##### SECTION 1 : Dispositions générales.
@@ -72776,6 +72808,27 @@ chargé des départements d'outre-mer [*compétence*] dans la limite des crédit
 	**Cite**:
 
 	  - Code des communes R235-2
+
+
+##### COMMUNES DU DEPARTEMENT DE SAINT-PIERRE-ET-MIQUELON
+
+###### Article R*262-12
+
+Sont applicables aux communes du département de Saint-Pierre-et-Miquelon [*champ d'application*] les dispositions contenues
+dans les titres Ier à V du présent livre à l'exception de celles des articles R. 233-102, R. 233-106, R. 234-4 à R. 234-6, R.
+234-13 à R. 234-28, R. 235-46 à R. 235-48, R. 236-49, R. 236-50, R. 251-10 des chapitres III, V, VI et VII du titre V.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°77-91 1977-01-27
+
+	**Cite**:
+
+	  - CODE DES COMMUNES. - art. R236-49 (Ab)
+	  - CODE DES COMMUNES. - art. R251-10 (Ab)
+	  - Code des communes R234-4 à R234-6
 
 
 #### Dispositions applicables aux communes de la région d'Ile-de-France
@@ -90302,6 +90355,39 @@ et R. 375-6, R. 376-1, R. 376-2 et R. 376-5, R. 377-3 à R. 377-7.
 	  - Code des communes R311-1 à R312-1, R312-19 à R374-1, R374-3 à R375-1, R375-7 à R375-17, R376-3, R376-4, R377-1, R377-2, R378-1 à R381-33
 
 
+##### SECTION 2 : Dispositions applicables aux communes du département de Saint-Pierre-et-Miquelon.
+
+###### Article R392-2
+
+Sont applicables aux communes du département de Saint-Pierre-et-Miquelon [*champ d'application*] les dispositions contenues
+dans les titres Ier à VIII du présent livre à l'exception de celles des articles R. 311-8, R. 311-17, R. 353-120, R. 354-36 à
+R. 354-78, R. 371-8 à R. 371-13, R. 374-2, R. 375-2, R. 375-3, R. 375-5, R. 375-6, R. 376-3, R. 376-4, R. 377-2 à R. 377-7.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°77-241 1977-03-07
+
+	**Créé par**:
+
+	  - Décret n°78-1173 du 22 novembre 1978 - art. 4 (V) JORF 18 ET 19 DECEMBRE 1978 p. 4202
+
+	**Abrogé par**:
+
+	  - Décret n°2000-318 du 7 avril 2000 - art. 4 (V)
+
+	**Cite**:
+
+	  - CODE DES COMMUNES. - art. R353-120 (Ab)
+	  - CODE DES COMMUNES. - art. R374-2 (Ab)
+	  - CODE DES COMMUNES. - art. R375-2 (Ab)
+	  - CODE DES COMMUNES. - art. R375-3 (Ab)
+	  - CODE DES COMMUNES. - art. R375-5 (Ab)
+	  - CODE DES COMMUNES. - art. R375-6 (Ab)
+	  - Code des communes R311-8
+
+
 #### CHAPITRE 3 : Dispositions applicables aux communes des départements des Hauts-de-Seine, de la Seine-Saint-Denis et du Val-de-Marne.
 
 ###### Article R*393-1
@@ -106747,6 +106833,28 @@ de la Martinique et de la Réunion, à l'exception des articles R. 422-37 à R. 
 	**Cite**:
 
 	  - Code des communes R421-1 à R422-36
+
+
+##### SECTION 2 : Dispositions applicables aux communes du département de Saint-Pierre-et-Miquelon.
+
+###### Article R*442-2
+
+Sont applicables aux communes du département de Saint-Pierre-et-Miquelon les dispositions contenues dans les titres 1er et II
+du présent livre à l'exception de celles des articles R. 417-1 à R. 417-21, R. 422-37 à R. 422-41.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°78-1173 du 22 novembre 1978 - art. 5 (V) JORF 18 ET 19 DECEMBRE 1978 p. 4202
+
+	**Cite**:
+
+	  - Code des communes R417-1 à R417-21
 
 
 #### CHAPITRE 3 : Dispositions applicables aux communes des départements de la région d'Ile-de-France.
