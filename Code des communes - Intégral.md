@@ -1,5 +1,5 @@
 # Code des communes  
-Version Consolidée au 1981-01-01
+Version Consolidée au 1981-04-17
 
 # ORGANISATION COMMUNALE
 
@@ -65180,6 +65180,43 @@ ministre de l'intérieur et par les ministres compétents.
 	  - Décret n°2000-318 du 7 avril 2000 - art. 4 (V)
 
 
+###### Article R*241-4
+
+Les produits des communes, des établissements publics communaux et intercommunaux et de tout organisme public résultant d'une
+entente entre communes ou entre communes et toute autre collectivité publique ou établissement public, qui ne sont pas assis
+et liquidés par les services fiscaux de l'Etat en exécution des lois et règlements en vigueur, sont recouvrés :
+
+Soit en vertu de jugements ou de contrats exécutoires ;
+
+Soit en vertu d'arrêtés ou de rôles pris ou émis et rendus exécutoires par le maire en ce qui concerne la commune et par
+l'ordonnateur en ce qui concerne les établissements publics.
+
+Les poursuites pour le recouvrement de ces produits sont effectuées comme en matière de contributions directes.
+
+Toutefois, le maire ou l'ordonnateur de l'établissement public autorise l'émission des commandements et les actes de
+poursuite subséquents. Ils peuvent néanmoins dispenser le comptable chargé du recouvrement de solliciter l'autorisation
+afférente à l'émission des commandements.
+
+Le refus d'autorisation, ou l'absence de réponse dans le délai d'un mois, justifie la présentation en non-valeurs des
+créances dont le recouvrement n'a pu être obtenu à l'amiable.    Les oppositions, lorsque la matière est de la compétence des
+tribunaux judiciaires, sont jugées comme affaires sommaires.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - SPEC_APPLI: *Dispositions non applicables aux communes des départements de la Moselle, du Bas-Rhin et du Haut-Rhin *Alsace-Lorraine*
+	  - SPEC_APPLI: Code des communes R261-1 :
+
+	**Codifié par**:
+
+	  - Décret n°77-91 1977-01-27
+
+	**Abrogé par**:
+
+	  - Décret n°2000-318 du 7 avril 2000 - art. 4 (V)
+
+
 ###### Article R241-2
 
 Les recettes et les dépenses des communes ne peuvent être faites que conformément au budget de chaque exercice ou aux
@@ -71590,76 +71627,6 @@ a atteint pour la cinquième année.
 	**Abrogé par**:
 
 	  - Décret n°88-625 du 6 mai 1988 - art. 3 (Ab)
-
-
-### COMPTABILITE
-
-#### COMPTABILITES DU MAIRE ET DU COMPTABLE .
-
-###### Article R*241-4
-
-Les produits des communes et des établissements publics communaux et intercommunaux qui ne sont pas assis et liquidés par les
-services fiscaux de l'Etat, en exécution des lois et règlements en vigueur, sont recouvrés :
-
-- soit en vertu de contrats ou de jugements exécutoires ; 
-
-- soit en vertu d'arrêtés, d'états ou de rôles pris ou émis par le maire de la commune ou l'ordonnateur de l'établissement
-public, et rendus exécutoires par le préfet ou le sous-préfet [*compétence*].
-
-**Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - SPEC_APPLI: *Dispositions non applicables aux communes des départements de la Moselle, du Bas-Rhin et du Haut-Rhin (Alsace-Lorraine)*
-	  - TXT_ASSOCIE: Code des communes R241-5
-	  - SPEC_APPLI: Code des communes R261-1 :
-
-	**Anciens textes**:
-
-	  - Code de l'administration communale 273 remplacé al. 1 et 2
-
-	**Codifié par**:
-
-	  - Décret n°77-91 1977-01-27
-
-	**Créé par**:
-
-	  - Décret n°77-91 1977-01-27 JORF et JONC 3 février 1977 date d'entrée en vigueur 20 mars 1977
-
-
-#### Dispositions générales.
-
-###### Article R*241-5
-
-Les poursuites pour le recouvrement des produits [*qui ne sont pas assis et liquidés par les services fiscaux de l'Etat*]
-mentionnés à l'article précédent ont lieu comme en matière d'impôts directs.
-
-**Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - SPEC_APPLI: *Dispositions non applicables aux communes des départements de la Moselle, du Bas-Rhin et du Haut-Rhin (Alsace-Lorraine)*
-	  - SPEC_APPLI: Code des communes R261-1 :
-
-	**Anciens textes**:
-
-	  - Code de l'administration communale 273 remplacé al. 3 et 4
-
-	**Codifié par**:
-
-	  - Décret n°77-91 1977-01-27
-
-	**Créé par**:
-
-	  - Décret n°77-91 1977-01-27 JORF et JONC 3 février 1977 date d'entrée en vigueur 20 mars 1977
-
-	**Cité par**:
-
-	  - Code de l'urbanisme - art. R*332-20 (Ab)
-
-	**Cite**:
-
-	  - Code des communes R241-4
 
 
 ### Dispositions applicables à certains établissements communaux
