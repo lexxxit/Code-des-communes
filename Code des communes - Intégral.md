@@ -1,5 +1,5 @@
 # Code des communes  
-Version Consolidée au 1985-07-19
+Version Consolidée au 1985-07-26
 
 # Statuts types d'une caisse communale de secours et de retraite de sapeurs-pompiers
 
@@ -28843,6 +28843,39 @@ fonds de la commune et soumise aux règles de la comptabilité communale.
 
 ##### SECTION 1 : Lieux de sépultures ; inhumations et exhumations.
 
+###### Article L361-1
+
+Des terrains sont spécialement consacrés par chaque commune à l'inhumation desmorts. 
+
+Dans les communes urbaines et à l'intérieur du périmètre d'agglomération, la création d'un cimetière et son agrandissement à
+moins de 35 mètres des habitations sont autorisés par arrêté du représentant de l'Etat dans le département.
+
+Un décret en Conseil d'Etat fixe les conditions d'application du présent article.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°77-240 1977-03-07
+
+	**Modifié par**:
+
+	  - Loi n°85-772 du 25 juillet 1985 - art. 45 () JORF 26 juillet 1985
+
+	**Abrogé par**:
+
+	  - Loi n°96-142 du 21 février 1996 - art. 12 (V) JORF 24 février 1996
+
+	**Cité par**:
+
+	  - Code de l'urbanisme - art. IV (M)
+	  - Code de l'urbanisme - art. R*126-1, Annexe (V)
+
+	**Nouveaux textes**:
+
+	  - Code général des collectivités territoriales - art. L2223-1 (M)
+
+
 ###### Article L361-2
 
 Les terrains [*spécialement consacrés à l'inhumation des morts*] prévus au premier alinéa de l'article précédent sont cinq
@@ -33390,32 +33423,6 @@ arrêté du maire dans les limites fixées par décret.
 
 ### Administration de la commune
 
-#### Biens communaux
-
-##### Aliénation de biens.
-
-###### Article L*311-8
-
-En dehors des cas prévus par des dispositions spéciales et notamment par l'article 41 modifié de l'ordonnance n° 58-997 du 23
-octobre 1958 portant réforme des règles relatives à l'expropriation pour cause d'utilité publique, les immeubles ou droits
-immobiliers appartenant aux communes et à leurs établissements publics sont vendus par adjudication, avec publicité et
-concurrence, dans les conditions et sous réserve des dérogations qui sont fixées par arrêté ministériel.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Ordonnance 58-997 1958-10-23 ART. 41 modifié
-
-	**Codifié par**:
-
-	  - Décret n°77-240 1977-03-07
-
-	**Créé par**:
-
-	  - Décret n°77-240 1977-03-07 JORF et JONC 18 mars 1977
-
-
 ### Services communaux
 
 #### Dispositions communes, aux régies, aux concessions et aux affermages.
@@ -33450,50 +33457,6 @@ Il est interdit aux communes de prendre en charge dans leur budget propre, des d
 
 	  - Décret n°89-945 du 22 décembre 1989 - art. 3 (Ab)
 	  - CODE DES COMMUNES. - art. R*372-16 (M)
-
-
-### Pompes funèbres et cimetières
-
-#### Sépultures
-
-##### Lieux de sépultures ; inhumations et exhumations .
-
-###### Article L361-1
-
-Des terrains sont spécialement consacrés à l'inhumation des morts en dehors de l'enceinte de chaque ville ou bourg, à une
-distance minimum de trente-cinq mètres de celle-ci. 
-
-Toutefois, quand les circonstances l'exigent et lorsque les communes sont pourvues d'eau potable sous pression alimentant
-toutes les habitations situées à moins de trente-cinq mètres [*distance*] de leur cimetière, il peut être procédé, à titre
-exceptionnel :
-
-1° Par décret, à la réduction et même à la suppression de cette distance, pour l'agrandissement des cimetières sis en bordure
-du périmètre d'agglomération de ces communes ; 
-
-2° Par décret en Conseil d'Etat, à la réduction de cette distance pour l'agrandissement des cimetières sis à l'intérieur du
-périmètre d'agglomération de ces communes lorsqu'elles ne disposent d'aucun autre terrain à cet effet. 
-
-En ce cas, dans les terrains nouvellement affectés à l'agrandissement des cimetières, les inhumations ne peuvent avoir lieu
-que provisoirement et pour une durée qui est déterminée par le décret autorisant cet agrandissement.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°23 prairial an XII remplacé ART. 2 AL. 1
-
-	**Codifié par**:
-
-	  - Décret n°77-240 1977-03-07
-
-	**Créé par**:
-
-	  - Décret n°77-240 1977-03-07 JORF et JONC 18 mars 1977
-
-	**Cité par**:
-
-	  - Code de l'urbanisme - art. IV (M)
-	  - Code de l'urbanisme - art. R*126-1, Annexe (V)
 
 
 ### Dispositions particulières
