@@ -1,5 +1,5 @@
 # Code des communes  
-Version Consolidée au 1997-12-27
+Version Consolidée au 1998-07-25
 
 # Partie législative
 
@@ -38322,6 +38322,35 @@ Dans le cas prévu au troisième alinéa de l'article L. 361-4, la décision de 
 
 ##### SOUS-SECTION 2 : Inhumations.
 
+###### Article R361-10
+
+Le conseil municipal peut décider l'affectation de tout ou partie d'un cimetière au dépôt des urnes et à la dispersion des
+cendres des corps ayant fait l'objet d'une crémation.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°76-435 1976-05-18 ART. 23
+
+	**Codifié par**:
+
+	  - Décret n°77-241 1977-03-07
+
+	**Modifié par**:
+
+	  - Décret n°98-635 du 20 juillet 1998 - art. 1 ()
+
+	**Cité par**:
+
+	  - CODE DES COMMUNES. - art. R361-14 (Ab)
+	  - CODE DES COMMUNES. - art. R361-30 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code général des collectivités territoriales - art. R2223-9 (V)
+
+
 ###### Article R361-11
 
 L'inhumation dans le cimetière d'une commune du corps d'une personne décédée dans cette commune est autorisée par le maire de
@@ -38451,13 +38480,18 @@ préfet du département du lieu de l'inhumation[*compétence*], qui prescrit tou
 
 ###### Article R361-14
 
-Après la crémation [*incinération*] d'un corps, l'urne prévue à l'article R. 361-45 est remise à la famille pour être
-déposée, à sa convenance, dans une sépulture, un colombarium ou une propriété publique ou privée.
+Après la crémation d'un corps, l'urne prévue à l'article R 361-45 est remise à toute personne qui a qualité pour pourvoir aux
+funérailles.
 
-Les cendres contenues dans l'urne peuvent être dispersées en pleine nature, mais ne peuvent l'être sur les voies publiques.
+A la demande de toute personne qui a qualité pour pourvoir aux funérailles et après autorisation délivrée par le maire du
+lieu du dépôt, l'urne est déposée dans une sépulture, dans une case de columbarium ou scellée sur un monument funéraire.
 
-Le conseil municipal peut décider la création, dans l'enceinte d'un cimetière, d'un "jardin du souvenir" où les cendres
-pulvérisées des corps incinérés peuvent être répandues à la demande des familles.
+Elle peut aussi être déposée dans une propriété privée.
+
+Les cendres peuvent être dispersées en pleine nature, mais ne peuvent l'être sur les voies publiques.
+
+Le maire de la commune du lieu de la dispersion autorise, à la demande de toute personne qui a qualité pour pourvoir aux
+funérailles, la dispersion des cendres dans le lieu spécialement affecté à cet effet prévu à l'article R. 361-10.
 
 **Liens relatifs à cet article**
 
@@ -38469,17 +38503,18 @@ pulvérisées des corps incinérés peuvent être répandues à la demande des f
 
 	  - Décret n°77-241 1977-03-07
 
-	**Créé par**:
-
-	  - Décret n°77-241 1977-03-07 JORF et JONC 18 Mars 1977
-
 	**Cité par**:
 
 	  - Décret n°95-653 du 9 mai 1995 - art. 9-1 (Ab)
 	  - CODE DES COMMUNES. - art. R361-30 (M)
 
+	**Modifié par**:
+
+	  - Décret n°98-635 du 20 juillet 1998 - art. 2 ()
+
 	**Cite**:
 
+	  - CODE DES COMMUNES. - art. R361-10 (Ab)
 	  - CODE DES COMMUNES. - art. R361-45 (M)
 
 	**Nouveaux textes**:
@@ -39028,33 +39063,31 @@ transférés par décision du maire dans l'ossuaire spécial d'un autre cimetiè
 Lorsque la commune est membre d'un syndicat de communes, d'un district ou d'une communauté urbaine, le transfert peut avoir
 lieu dans les mêmes conditions sur le territoire d'une autre commune appartenant au même groupement de communes.
 
-Les cendres sont alors répandues dans le jardin du souvenir mentionné à l'article R. 361-14.
+Les cendres des restes exhumés sont déposées dans un columbarium, dans l'ossuaire ou dispersées dans le lieu spécialement
+affecté à cet effet prévu à l'article R. 361-10.
 
 Les noms des personnes, même si aucun reste n'a été retrouvé, sont consignés dans un registre tenu à la disposition du public
-et peuvent être gravés sur un dispositif établi en matériaux durables dans le jardin du souvenir ou au-dessus de l'ossuaire.
+et peuvent être gravés sur un dispositif établi en matériaux durables dans dans le lieu spécialement affecté à cet effet ou
+au-dessus de l'ossuaire.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret  1924-04-25 ART. 8 (PARTIE) REMPLACE ET COMPLETE
 
 	**Codifié par**:
 
 	  - Décret n°77-241 1977-03-07
-
-	**Modifié par**:
-
-	  - Loi n°96-142 du 21 février 1996 - art. 12 (V) JORF 24 février 1996
 
 	**Cité par**:
 
 	  - Loi n°96-142 du 21 février 1996 - art. 12 (V)
 	  - CODE DES COMMUNES. - art. R394-6 (Ab)
 
+	**Modifié par**:
+
+	  - Décret n°98-635 du 20 juillet 1998 - art. 3 ()
+
 	**Cite**:
 
-	  - CODE DES COMMUNES. - art. R361-14 (M)
+	  - CODE DES COMMUNES. - art. R361-10 (Ab)
 
 	**Liens**:
 
@@ -39064,6 +39097,10 @@ et peuvent être gravés sur un dispositif établi en matériaux durables dans l
 
 	  - Code général des collectivités territoriales - art. R2223-6 (V)
 	  - Code général des collectivités territoriales L2223-4 (al. 1 et 4 (phr 1) de R361-30
+
+	**Anciens textes**:
+
+	  - Décret  1924-04-25 ART. 8 (PARTIE) REMPLACE ET COMPLETE
 
 
 ###### Article R361-31
@@ -39438,6 +39475,8 @@ pourvoir aux funérailles et justifie de son état civil et de son domicile ;
 2° Un certificat du médecin chargé par l'officier d'état civil de s'assurer du décès et affirmant que celui-ci ne pose pas de
 problème médico-légal.
 
+3° Le cas échéant, l'attestation du médecin ou du thanatopracteur prévue au troisième alinéa de l'article R. 363-16.
+
 Lorsque le décès pose un problème médico-légal, la crémation ne peut avoir lieu qu'après l'autorisation du parquet
 [*conditions de forme*] qui peut subordonner celle-ci à une autopsie préalable, effectuée par un médecin légiste choisi sur
 la liste des experts et aux frais de la famille.
@@ -39456,17 +39495,21 @@ médecin.
 
 	  - Décret n°77-241 1977-03-07
 
-	**Nouveaux textes**:
-
-	  - Code général des collectivités territoriales - art. R2213-34 (V)
-
-	**Créé par**:
-
-	  - Décret n°87-28 1987-01-14 art. 10 JORF 18 janvier 1987
-
 	**Cité par**:
 
 	  - Décret n°95-653 du 9 mai 1995 - art. 9-1 (Ab)
+
+	**Modifié par**:
+
+	  - Décret n°98-635 du 20 juillet 1998 - art. 4 ()
+
+	**Cite**:
+
+	  - CODE DES COMMUNES. - art. R363-16 (M)
+
+	**Nouveaux textes**:
+
+	  - Code général des collectivités territoriales - art. R2213-34 (V)
 
 
 ###### Article R361-43
@@ -39541,13 +39584,8 @@ l'autorisation de transport du corps est produite au maire de la commune du lieu
 
 ###### Article R361-45
 
-Aussitôt après la crémation[*incinération*], les cendres sont pulvérisées, puis, en présence de la famille ou celle-ci dûment
-appelée, recueillies dans une urne munie extérieurement d'une plaque métallique portant le numéro de l'acte de décès.
-
-Lorsque l'urne est en matière fragile, telle que verre ou céramique, elle est protégée par une enveloppe rigide à moins que
-les cendres ne s'y trouvent enfermées dans un emballage en matière plastique.
-
-L'urne est remise à la famille.
+Aussitôt après la crémation, les cendres sont pulvérisées et recueillies dans une urne cinéraire munie extérieurement d'une
+plaque portant l'identité du défunt et le nom du crématorium.
 
 **Liens relatifs à cet article**
 
@@ -39559,9 +39597,9 @@ L'urne est remise à la famille.
 
 	  - Décret n°77-241 1977-03-07
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°77-241 1977-03-07 JORF et JONC 18 Mars 1977
+	  - Décret n°98-635 du 20 juillet 1998 - art. 5 ()
 
 	**Cité par**:
 
@@ -39575,8 +39613,8 @@ L'urne est remise à la famille.
 
 ###### Article R361-45-1
 
-La crémation des restes des corps exhumés est autorisée, sur demande des familles, par le maire de la commune du lieu
-d'exhumation.
+La crémation des restes des corps exhumés est autorisée, à la demande du plus proche parent, par le maire de la commune du
+lieu d'exhumation.
 
 **Liens relatifs à cet article**
 
@@ -39584,13 +39622,13 @@ d'exhumation.
 
 	  - Décret n°77-241 1977-03-07
 
+	**Modifié par**:
+
+	  - Décret n°98-635 du 20 juillet 1998 - art. 6 ()
+
 	**Nouveaux textes**:
 
 	  - Code général des collectivités territoriales - art. R2213-37 (V)
-
-	**Créé par**:
-
-	  - Décret n°87-28 1987-01-14 art. 12 JORF 18 janvier 1987
 
 
 ##### SECTION 5 : Dispositions diverses.
@@ -40392,11 +40430,8 @@ biodégradable. Elle doit répondre a des caractéristiques de composition, de r
 ministre chargé de la santé aprés avis du Conseil national d'hygiène publique de France et du Conseil national des opérations
 funéraires.
 
-Si la personne décédée était porteuse d'une prothèse renfermant des radio-éléments artificiels, un médecin atteste de la
-récupération de l'appareil avant la mise en bière.
-
-En cas de crémation du corps d'une personne porteuse d'une prothèse fonctionnant au moyen d'une pile, un médecin atteste de
-la récupération de l'appareil avant l'incinération.
+Si la personne décédée était porteuse d'une prothèse fonctionnant au moyen d'une pile, un médecin ou un thanatopracteur
+atteste de la récupération de l'appareil avant la mise en bière.
 
 **Liens relatifs à cet article**
 
@@ -40419,7 +40454,7 @@ la récupération de l'appareil avant l'incinération.
 
 	**Modifié par**:
 
-	  - Décret n°97-503 du 21 mai 1997 - art. 1 (V)
+	  - Décret n°98-635 du 20 juillet 1998 - art. 7 ()
 
 	**Nouveaux textes**:
 
