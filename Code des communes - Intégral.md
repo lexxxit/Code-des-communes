@@ -1,5 +1,5 @@
 # Code des communes  
-Version Consolidée au 1994-06-23
+Version Consolidée au 1994-08-19
 
 # Partie législative
 
@@ -61255,6 +61255,35 @@ l'économie et des finances [*compétence*] qui prennent également des instruct
 
 ##### SECTION 1 : Dispositions applicables aux communes des départements de la Guadeloupe, de la Guyane, de la Martinique et de la Réunion.
 
+###### Article R*262-1
+
+Sont applicables aux communes des départements d'outre-mer les dispositions des articles contenues dans les titres Ier à V du
+présent livre, à l'exception de celles des articles R.* 233-102 et R.* 233-106, R. 234-7 à R. 234-16, R.* 235-46 à R. 235-48,
+R. 236-8 et R. 236-9, R. 236-50, R. 251-10 et R. 253-1 à R. 253-14.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°77-91 1977-01-27
+
+	**Modifié par**:
+
+	  - Décret n°94-704 du 17 août 1994 - art. 2 ()
+
+	**Abrogé par**:
+
+	  - Décret n°2000-318 du 7 avril 2000 - art. 4 (V)
+
+	**Cite**:
+
+	  - CODE DES COMMUNES R233-106, R234-7 à R234-16, R235-46 à R235-48, R236-8, R236-9, R236-50, R251-10, R253-1 à R253-14
+	  - CODE DES COMMUNES. - art. R233-106 (T)
+	  - CODE DES COMMUNES. - art. R236-8 (Ab)
+	  - CODE DES COMMUNES. - art. R236-9 (Ab)
+	  - CODE DES COMMUNES. - art. R251-10 (Ab)
+
+
 ###### Article R262-2
 
 Pour l'application de l'article L. 233-58 instituant le versement destiné au financement des transports en commun, un décret
@@ -61296,45 +61325,10 @@ des douanes sont déterminées par le décret n° 69-116 du 27 janvier 1969.
 	  - Décret n°2000-318 du 7 avril 2000 - art. 4 (V)
 
 
-#### CHAPITRE 2 : Dispositions applicables aux départements d'Outre-mer
-
-##### SECTION 1 : Dispositions applicables aux communes des départements de la Guadeloupe, de la Guyane, de la Martinique et de la Réunion.
-
-###### Article R*262-1
-
-Sont applicables aux communes des départements de la Guadeloupe, de la Guyane, de la Martinique et de la Réunion :
-
-1° Les dispositions contenues dans les titres Ier à V du présent livre [*budget, dépenses, recettes, comptabilité et
-dispositions financières applicables à certains établissements communaux*], à l'exception de celles des articles R. 233-102
-et R. 233-106, R. 234-4 à R. 234-6, R. 234-13 à R. 234-28,
-
-R. 235-46 à R. 235-48, R. 236-8 et R. 236-9, R. 236-50, R. 251-10 et R. 253-1 à R. 253-14 ; 
-
-2° Les dispositions contenues dans les articles suivants du présent chapitre.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°77-91 1977-01-27
-
-	**Créé par**:
-
-	  - Décret n°77-91 1977-01-27 JORF et JONC 3 février 1977 date d'entrée en vigueur élection des maires
-
-	**Cite**:
-
-	  - CODE DES COMMUNES. - art. R*233-107 (T)
-	  - CODE DES COMMUNES. - art. R234-5 (M)
-	  - Code des communes R252-1 à R252-5
-
-
 ###### Article R262-4
 
-La quote-part de la dotation de péréquation visée à l'article L. 262-5 (2é alinéa) et à l'article L. 262-10 (2é) fait
-l'objet, après prélèvement au profit des collectivités locales du département de Saint-Pierre-et-Miquelon conformément à
-l'article R. 262-13, d'une répartition en quatre attributions globales entre les départements de la Guadeloupe, de la Guyane,
-de la Martinique et de la Réunion. Les bases de cette répartition sont fixées par l'article R. 262-6.
+La quote-part de la dotation d'aménagement prévue aux quatrième et cinquième alinéas de l'article L. 234-9 du code des
+communes est répartie entre les départements d'outre-mer au prorata de leur population.
 
 **Liens relatifs à cet article**
 
@@ -61342,12 +61336,21 @@ de la Martinique et de la Réunion. Les bases de cette répartition sont fixées
 
 	  - Décret n°77-91 1977-01-27
 
+	**Modifié par**:
+
+	  - Décret n°94-704 du 17 août 1994 - art. 3 ()
+
+	**Abrogé par**:
+
+	  - Décret n°2000-318 du 7 avril 2000 - art. 4 (V)
+
 	**Cite**:
 
-	  - CODE DES COMMUNES. - art. L262-10 (M)
-	  - CODE DES COMMUNES. - art. L262-5 (M)
+	  - CODE DES COMMUNES. - art. L234-9 (M)
+
+	**Cité par**:
+
 	  - CODE DES COMMUNES. - art. R262-6 (M)
-	  - Code des communes R262-13, R262-6
 
 	**Nouveaux textes**:
 
@@ -61356,12 +61359,8 @@ de la Martinique et de la Réunion. Les bases de cette répartition sont fixées
 
 ###### Article R262-5
 
-Chaque attribution globale est divisée en deux parts dont l'une revient au département, l'autre à l'ensemble des communes et
-groupements de communes à fiscalité propre conformément à l'article R. 262-7.
-
-La part fixée en exécution du premier alinéa du présent article pour l'ensemble des communes et groupements de communes d'un
-département d'outre-mer est répartie entre les communes et les groupements de communes selon les règles fixées à l'article R.
-262-8.
+La quote-part de la dotation d'aménagement revenant aux communes de chaque département d'outre-mer est répartie entre les
+communes de ce département proportionnellement à leur population.
 
 **Liens relatifs à cet article**
 
@@ -61369,235 +61368,77 @@ département d'outre-mer est répartie entre les communes et les groupements de 
 
 	  - Décret n°77-91 1977-01-27
 
-	**Cite**:
+	**Modifié par**:
 
-	  - CODE DES COMMUNES. - art. R262-7 (M)
-	  - CODE DES COMMUNES. - art. R262-8 (M)
+	  - Décret n°94-704 du 17 août 1994 - art. 4 ()
+
+	**Abrogé par**:
+
+	  - Décret n°2000-318 du 7 avril 2000 - art. 4 (V)
 
 	**Nouveaux textes**:
 
 	  - Code général des collectivités territoriales - art. R2563-4 (V)
 
 
-###### Article R262-6
-
-La répartition prévue à l'article R. 262-4 en quatre attributions globales de département s'effectue pour moitié au prorata
-d'un indice de population départementale et pour moitié au prorata d'un indice d'effort fiscal départemental.
-
-L'indice de population départementale s'obtient en ajoutant au chiffre résultant du dernier recensement général ou
-complémentaire les attributions de population fictive aux communes prévues par l'article R. 114-5 du code des communes.
-
-L'indice d'effort fiscal départemental s'obtient en partant du montant total des impôts directs et taxes assimilées qui ont
-été compris dans les rôles généraux émis au cours de l'année précédant celle au titre de laquelle est effectuée la
-répartition, au bénéfice du département, des communes de ce département et des groupements de collectivités locales du même
-département, et après déduction des frais d'assiette, de perception et de non-valeur.
-
-Ce montant total est affecté, pour déterminer l'indice d'effort fiscal départemental, d'un coefficient de recouvrement égal
-au rapport entre le montant des sommes encaissées par le Trésor pour l'ensemble des impôts directs mis en recouvrement dans
-le département intéressé au titre de la pénultième année et le montant global des sommes figurant sur les rôles d'impôts
-directs qui ont été émis au titre de cette même année dans le même département.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°77-91 1977-01-27
-
-	**Abrogé par**:
-
-	  - Décret n°94-704 du 17 août 1994 - art. 5 (V)
-
-	**Cité par**:
-
-	  - CODE DES COMMUNES. - art. R262-4 (M)
-
-
-###### Article R262-7
-
-La division en deux parts de l'attribution globale faite à chacun des départements d'outre-mer visés à l'article R. 262-4
-s'effectue entre le département d'une part, l'ensemble des communes et groupements de communes à fiscalité propre, d'autre
-part, au prorata des sommes que le département d'une part, les communes et groupements de communes d'autre part, ont reçues
-pour 1978 au titre du V.R.T.S. en application de l'article 45-2 de la loi du 6 janvier 1966.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°77-91 1977-01-27
-
-	**Abrogé par**:
-
-	  - Décret n°94-704 du 17 août 1994 - art. 5 (V)
-
-	**Cité par**:
-
-	  - CODE DES COMMUNES. - art. R262-5 (M)
-
-
-###### Article R262-8
-
-La répartition prévue au deuxième alinéa de l'article R. 262-5 entre les communes et groupements de communes à fiscalité
-propre s'effectue pour 75 p. 100 entre les communes seules au prorata d'un indice de population communale défini conformément
-au deuxième alinéa de l'article R. 262-6 et pour 25 p. 100 entre les communes et groupements de communes à fiscalité propre
-sur la base d'une indice d'effort fiscal local déterminé conformément à l'article R. 262-9.
-
-Toutefois :
-
-1° L'ensemble des communes de l'arrondissement de Saint-Laurent-du-Maroni perçoit, sur la part revenant aux communes et
-groupements de commune de la Guyane, une attribution proportionnelle à son indice de population par rapport à l'indice de
-population de la Guyane.
-
-2° Pour 1979 la commune de Saint-Barthélémy-de-la-Guadeloupe reçoit une attribution de dotation de péréquation au prorata de
-l'indice de population exclusivement.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°77-91 1977-01-27
-
-	**Abrogé par**:
-
-	  - Décret n°94-704 du 17 août 1994 - art. 5 (V)
-
-	**Cité par**:
-
-	  - CODE DES COMMUNES. - art. R262-5 (M)
-	  - CODE DES COMMUNES. - art. R262-9 (M)
-
-
-###### Article R262-9
-
-L'indice d'effort fiscal à retenir pour l'application du premier alinéa de l'article R. 262-8 est égal au montant total des
-sommes comprises dans les rôles généraux émis au profit de la commune ou du groupement de commune au titre de l'année
-précédant celle au titre de laquelle est effectuée la répartition pour les impositions suivantes visées à l'article L. 234-9
-du code des communes :
-
-La taxe foncière correspondant aux propriétés bâties affectées à l'habitation ou à la profession hôtelière, majorée de la
-somme correspondant aux exonérations dont ont bénéficié, en application des dispositions des articles 1283 à 1378 du code
-général des impôts, les constructions nouvelles, additions de constructions et reconstructions ;
-
-La taxe foncière sur les propriétés non bâties à concurrence de 30 p. 100 de son produit ;
-
-La taxe d'habitation ;
-
-La taxe d'enlèvement des ordures ménagères ou la redevance pour enlèvement des ordures ménagères, prévue à l'article L.
-233-78 du code des communes.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°77-91 1977-01-27
-
-	**Abrogé par**:
-
-	  - Décret n°94-704 du 17 août 1994 - art. 5 (V)
-
-	**Liens**:
-
-	  - TXT_ASSOCIE: CODE DES COMMUNES. - art. R262-8 (M)
-
-
-###### Article R262-10
-
-Les concours particuliers prévus aux articles L. 234-13 à L. 234-17 sont prélevés sur la part revenant à chaque département
-d'outre-mer.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°48-524 1948-03-30 ART. 4 (PARTIE)
-
-	**Codifié par**:
-
-	  - Décret n°77-91 1977-01-27
-
-	**Cité par**:
-
-	  - Décret n°80-282 du 22 avril 1980 - art. 4 (Ab)
-
-	**Abrogé par**:
-
-	  - Décret n°94-704 du 17 août 1994 - art. 5 (V)
-
-	**Cite**:
-
-	  - CODE DES COMMUNES. - art. L262-9 (Ab)
-
-	**Liens**:
-
-	  - TXT_ASSOCIE: CODE DES COMMUNES. - art. L262-9 (Ab)
-
-
 ##### SECTION 2 : Dispositions applicables aux communes du département de Saint-Pierre-et-Miquelon.
 
 ###### Article R*262-12
 
-Sont applicables aux communes du département de Saint-Pierre-et-Miquelon :
-
-1. Les dispositions contenues dans les titres I et V du présent livre à l'exception de celles des articles R. 233-102, R.
-233-106, R. 234-4 à R. 234-6, R. 234-13 à R. 234-28, R. 235-46 à R. 235-48, R. 236-49, R. 236-50, R. 251-10 des chapitres
-III, V, VI et VII du titre V, les dispositions de l'article R. 262-10 de la section 1 du présent chapitre ;
-
-2. Les dispositions contenues dans les articles suivants du présent chapitre.
+Sont applicables aux communes de la collectivité territoriale de Saint-Pierre-et-Miquelon les dispositions des articles
+contenus dans les titres Ier à V du présent livre, à l'exception de celles des articles R.* 233-102 et R.* 233-106, R. 234-7
+à R. 234-16, R.* 235-46 à R. 235-48, R. 236-49, R. 236-50, et des chapitres III, V, VI et VII du titre V..
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Décret n°77-91 1977-01-27
+
+	**Modifié par**:
+
+	  - Décret n°94-704 du 17 août 1994 - art. 6 ()
+
+	**Abrogé par**:
+
+	  - Décret n°2000-318 du 7 avril 2000 - art. 4 (V)
+
+	**Cite**:
+
+	  - CODE DES COMMUNES. - art. R233-106 (T)
+	  - CODE DES COMMUNES. - art. R236-49 (Ab)
 
 
 ###### Article R*262-13
 
-Sur la quote-part de la dotation de péréquation visée à l'article L. 262-5 (2é alinéa) et à l'article L. 262-10 (2é alinéa)
-un prélèvement est effectué au profit des collectivités locales du département de Saint-Pierre-et-Miquelon par application à
-cette quote-part du rapport existant entre la population du département de Saint-Pierre-et-Miquelon et celle des cinq
-départements d'outre-mer.
+Le montant de la quote-part de la dotation d'aménagement prévue aux quatrième et cinquième alinéas de l'article L. 234-9 du
+code des communes est réparti entre les communes de la collectivité territoriale de Saint-Pierre-et-Miquelon, à raison de :
+
+50 p. 100 proportionnellement à la population des communes ;
+
+50 p. 100 proportionnellement à la superficie des communes.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Décret n°77-91 1977-01-27
+
+	**Modifié par**:
+
+	  - Décret n°94-704 du 17 août 1994 - art. 7 ()
+
+	**Abrogé par**:
+
+	  - Décret n°2000-318 du 7 avril 2000 - art. 4 (V)
+
+	**Cite**:
+
+	  - CODE DES COMMUNES. - art. L234-9 (M)
 
 	**Cité par**:
 
 	  - Code général des collectivités territoriales - art. R2334-9-4 (T)
-
-
-###### Article R*262-14
-
-La somme ainsi obtenue est répartie entre le département de Saint-Pierre-et-Miquelon, d'une part, les communes de Saint-
-Pierre-et-Miquelon, d'autre part au prorata des attributions du versements représentatif de la taxe sur les salaires qui leur
-ont été faites en 1978.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°77-91 1977-01-27
-
-	**Abrogé par**:
-
-	  - Décret n°94-704 du 17 août 1994 - art. 8 ()
-
-
-###### Article R*262-15
-
-La part revenant aux communes de Saint-Pierre et de Miquelon-Langlade est répartie entre elles au prorata de leur population.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°77-91 1977-01-27
-
-	**Abrogé par**:
-
-	  - Décret n°94-704 du 17 août 1994 - art. 8 ()
 
 
 #### CHAPITRE 3 : Dispositions applicables aux communes de la région d'Ile-de-France.
