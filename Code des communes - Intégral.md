@@ -1,5 +1,5 @@
 # Code des communes  
-Version Consolidée au 1985-01-26
+Version Consolidée au 1985-02-09
 
 # Statuts types d'une caisse communale de secours et de retraite de sapeurs-pompiers
 
@@ -100592,34 +100592,5 @@ de la ville de Paris régis par le présent code.
 	**Cite**:
 
 	  - Code du travail L122-8-1
-
-
-##### Cessation de fonctions .
-
-###### Article R*444-178
-
-Le fonctionnaire qui fait preuve d'insuffisance professionnelle est, s'il ne peut être reclassé dans un autre service, soit
-admis à faire valoir ses droits à la retraite, soit licencié.
-
-Dans ce dernier cas, il peut recevoir une indemnité, suivant des modalités qui seront déterminées par délibérations du
-conseil de Paris.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°76-1041 1976-11-16 ART. 146
-
-	**Codifié par**:
-
-	  - Décret n°77-373 1977-03-28
-
-	**Créé par**:
-
-	  - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
-
-	**Liens**:
-
-	  - TXT_ASSOCIE: Code des communes R444-179
 
 
