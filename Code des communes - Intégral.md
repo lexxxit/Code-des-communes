@@ -1,5 +1,5 @@
 # Code des communes  
-Version Consolidée au 1996-06-15
+Version Consolidée au 1996-07-28
 
 # Partie législative
 
@@ -18270,163 +18270,15 @@ même nature, pondéré, le cas échéant, par le coefficient d'intégration fis
 
 ##### PARAGRAPHE 2 : Dotation de solidarité urbaine.
 
-###### Article R*234-7
-
-La valeur de l'indice synthétique de ressources et de charges prévu au III de l'article L. 234-12 est obtenue par l'addition
-des rapports visés aux 1°, 2°, 3° et 4° de ce III.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°77-91 1977-01-27
-
-	**Modifié par**:
-
-	  - Décret n°94-366 du 10 mai 1994 - art. 1 ()
-
-	**Cite**:
-
-	  - CODE DES COMMUNES. - art. L234-12 (M)
-
-	**Cité par**:
-
-	  - Code des communes de la Nouvelle-Calédonie - art. R234-8 (V)
-
-
-###### Article R*234-8
-
-La dotation de solidarité urbaine prévue à l'article L. 234-12 est répartie entre les communes éligibles de moins de 10 000
-habitants, en fonction du nombre de logements sociaux et du potentiel fiscal, dans les conditions suivantes :
-
-" a) Pour 45 p. 100 de son montant, proportionnellement au nombre de logements sociaux recensés dans la commune dans les
-conditions prévues à l'article R. 234-9 ;
-
-" b) Pour 55 p. 100 de son montant, en fonction du produit de la population de la commune, par l'écart entre le potentiel
-fiscal par habitant des communes de moins de 10 000 habitants et le potentiel fiscal par habitant de la commune, pondéré par
-l'effort fiscal de la commune, calculé selon les dispositions de l'article L. 234-5, pris en compte dans la limite de 1,3.
-
-" Le potentiel fiscal par habitant de la commune est déterminé dans les conditions prévues aux articles L. 234-2 et L. 234-4.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°77-91 1977-01-27
-
-	**Liens**:
-
-	  - TXT_ASSOCIE: Loi n°79-15 du 3 janvier 1979 - art. 27 (V)
-
-	**Modifié par**:
-
-	  - Décret n°94-366 du 10 mai 1994 - art. 1 ()
-
-	**Cite**:
-
-	  - CODE DES COMMUNES. - art. L234-12 (M)
-	  - CODE DES COMMUNES. - art. L234-2 (Ab)
-	  - CODE DES COMMUNES. - art. L234-4 (M)
-	  - CODE DES COMMUNES. - art. L234-5 (M)
-	  - CODE DES COMMUNES. - art. R234-9 (M)
-
-
-###### Article R*234-9
-
-Sont considérés comme logements sociaux pour l'application des dispositions de l'article L. 234-12 les logements satisfaisant
-à l'une des conditions suivantes :
-
-" A.  Logements à usage locatif définis ci-après :
-
-" 1. Logements appartenant aux organismes d'habitation à loyer modéré, ainsi que ceux appartenant aux collectivités locales
-et gérés par lesdits organismes ;
-
-" 2. Logements appartenant aux sociétés d'économie mixte ;
-
-" 3. Logements appartenant aux sociétés immobilières à participation majoritaire de la Caisse des dépôts et consignations ;
-
-" 4. Logements appartenant à l'Etat ;
-
-" 5. Logements appartenant aux collectivités locales ;
-
-" 6. Logements appartenant aux établissements publics, excepté les logements appartenant à des établissements publics
-bancaires, de crédit et d'assurances et aux filiales de ces organismes ;
-
-" 7. Logements appartenant à des bailleurs, personnes morales à vocation sociale et leurs filiales, dont le patrimoine
-locatif à usage d'habitation est composé d'au moins mille logements et qui :
-
-" a) Ou bien ont bénéficié de prêts spéciaux à la construction consentis par le Crédit foncier de France ou la Caisse
-française de développement ;
-
-" b) Ou bien sont régis par une convention conclue en application de l'article L. 351-2 (2°, 3° et 4°) du code de la
-construction et de l'habitation ;
-
-" c) Ou bien ont bénéficié de la participation des employeurs à l'effort de construction.
-
-" B.  Logements achevés depuis moins de dix ans et occupés par leur propriétaire si celui-ci a financé ce logement dans les
-conditions prévues par la section II du chapitre unique du titre III du livre III du code de la construction et de
-l'habitation.
-
-" Le seuil de cinq logements mentionné au 2° du III de l'article L. 234-12 s'apprécie à la date du permis de construire.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°77-91 1977-01-27
-
-	**Liens**:
-
-	  - TXT_ASSOCIE: Loi n°79-15 du 3 janvier 1979 - art. 27 (V)
-
-	**Modifié par**:
-
-	  - Décret n°94-366 du 10 mai 1994 - art. 1 ()
-
-	**Cite**:
-
-	  - CODE DES COMMUNES. - art. L234-12 (M)
-	  - Code de la construction et de l'habitation. - art. L351-2 (M)
-
-	**Cité par**:
-
-	  - CODE DES COMMUNES. - art. R*234-8 (Ab)
-
-
-###### Article R*234-10
-
-Sont également considérés comme logements sociaux et sont retenus à raison d'un logement pour trois lits les logements-foyers
-tels que définis à l'article R. 351-55 du code de la construction et de l'habitation et les résidences universitaires gérées
-par les centres régionaux des oeuvres universitaires et sociales.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°77-91 1977-01-27
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°94-366 1994-05-10 art. 7 : Les dispositions de l'article R234-10 du code des communes sont applicables à compter de la répartition de la dotation de solidarité urbaine pour l'année 1995
-
-	**Modifié par**:
-
-	  - Décret n°94-366 du 10 mai 1994 - art. 1 ()
-
-	**Cité par**:
-
-	  - CODE DES COMMUNES. - art. R*234-7-1 (Ab)
-
-	**Cite**:
-
-	  - Code de la construction et de l'habitation. - art. R351-55 (M)
-
-
 ###### Article R*234-11
 
 Le nombre de logements sociaux est apprécié au 1er janvier de l'année précédant celle au titre de laquelle est versée la
 dotation de solidarité urbaine.
 
+Le nombre total des bénéficiaires d'aides au logement, y compris leur conjoint et les personnes à charge vivant
+habituellement dans leur foyer, mentionnés au 3° de l'article L. 2334-17 du code général des collectivités territoriales est
+apprécié au 30 juin de l'année précédant celle au titre de laquelle est versée la dotation de solidarité urbaine.
+
 **Liens relatifs à cet article**
 
 	**Codifié par**:
@@ -18439,18 +18291,23 @@ dotation de solidarité urbaine.
 
 	**Modifié par**:
 
-	  - Décret n°94-366 du 10 mai 1994 - art. 1 ()
+	  - Décret n°96-673 du 26 juillet 1996 - art. 1 ()
 
 	**Nouveaux textes**:
 
 	  - Code général des collectivités territoriales - art. R2334-4 (V)
 
+	**Cite**:
+
+	  - Code général des collectivités territoriales - art. L2334-17 (M)
+
 
 ###### Article R*234-12
 
-Le nombre total de logements utilisé pour le calcul des rapports visés aux 2° et 3° du III de l'article L. 234-12 est égal au
-nombre d'articles du rôle général de taxe d'habitation, à l'exclusion des dépendances bâties non rattachées, l'année
-précédant l'exercice au cours duquel est répartie la dotation de solidarité urbaine.
+Le nombre total de logements utilisé pour le calcul des rapports visés aux 2° et 3° de l'article L. 2334-17 du code général
+des collectivités territoriales est égal au nombre d'articles du rôle général de taxe d'habitation, à l'exclusion des
+dépendances bâties non rattachées, l'année précédant l'exercice au cours duquel est répartie la dotation de solidarité
+urbaine.
 
 **Liens relatifs à cet article**
 
@@ -18460,15 +18317,15 @@ précédant l'exercice au cours duquel est répartie la dotation de solidarité 
 
 	**Modifié par**:
 
-	  - Décret n°94-366 du 10 mai 1994 - art. 1 ()
-
-	**Cite**:
-
-	  - CODE DES COMMUNES. - art. L234-12 (M)
+	  - Décret n°96-673 du 26 juillet 1996 - art. 2 ()
 
 	**Nouveaux textes**:
 
 	  - Code général des collectivités territoriales - art. R2334-5 (V)
+
+	**Cite**:
+
+	  - Code général des collectivités territoriales - art. L2334-17 (M)
 
 
 ##### PARAGRAPHE 3 : Dotation de solidarité rurale.
@@ -27113,27 +26970,16 @@ Les sommes allouées en application de l'article R. 263-38 sont utilisées au fi
 
 ###### Article R*263-40
 
----Le fonds de solidarité des communes de la région d'Ile-de-France prévu à l'article L. 263-15 du code des communes est
-réparti entre les communes éligibles :
+Le nombre total de logements utilisé pour le calcul des rapports visés aux 2° et 3° du II de l'article L. 2531-14 du code
+général des collectivités territoriales est égal au nombre d'articles du rôle général de taxe d'habitation, à l'exclusion des
+dépendances bâties non rattachées, l'année précédant l'exercice au cours duquel est réparti le fonds de solidarité des
+communes de la région d'Ile-de-France.
 
-" a) Pour 60 p. 100 au moins et 80 p. 100 au plus de son montant, en fonction de la population de la commune, majorée
-proportionnellement à l'écart entre le potentiel fiscal de référence et le potentiel fiscal par habitant de la commune,
-multiplié par l'effort fiscal de la commune pris en compte dans la limite de 1,20 ;
+**Nota:**
 
-" b) Pour 20 p. 100 au moins et 40 p. 100 au plus de son montant, proportionnellement au nombre de logements sociaux recensés
-dans la commune, tels que mentionnés au 2° III de l'article L. 234-12.
-
-" Le potentiel fiscal par habitant de la commune est déterminé dans les conditions prévues aux articles L. 234-2 et L. 234-4.
-
-" Le potentiel fiscal de référence est égal :
-
-" - pour les communes de 10 000 habitants et plus, au potentiel fiscal moyen par habitant de l'ensemble des communes de la
-région d'Ile-de-France de plus de 10 000 habitants ;
-
-" - pour les communes de moins de 10 000 habitants, au potentiel fiscal moyen par habitant de l'ensemble des communes de la
-région d'Ile-de-France de moins de 10 000 habitants.
-
-" Le calcul de l'effort fiscal est opéré dans les conditions prévues à l'article L. 234-5.
+Le journal officiel du 28 juillet 1996 comporte manifestement une erreur matérielle en ce que le décret n° 96-673 du 26
+juillet 1996 article 3, parle d'une modification de l'article R63-40 du code des communes lequel n'existe pas, il faut
+évidemment comprendre R263-40 de ce même code.
 
 **Liens relatifs à cet article**
 
@@ -27143,15 +26989,15 @@ région d'Ile-de-France de moins de 10 000 habitants.
 
 	**Modifié par**:
 
-	  - Décret n°94-366 du 10 mai 1994 - art. 3 ()
+	  - Décret n°96-673 du 26 juillet 1996 - art. 3 ()
+
+	**Abrogé par**:
+
+	  - Décret n°2000-318 du 7 avril 2000 - art. 4 (V)
 
 	**Cite**:
 
-	  - CODE DES COMMUNES. - art. L234-12 (M)
-	  - CODE DES COMMUNES. - art. L234-2 (Ab)
-	  - CODE DES COMMUNES. - art. L234-4 (M)
-	  - CODE DES COMMUNES. - art. L234-5 (M)
-	  - CODE DES COMMUNES. - art. L263-15 (Ab)
+	  - Code général des collectivités territoriales - art. L2531-14 (M)
 
 
 ###### Article R*263-41
