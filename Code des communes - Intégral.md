@@ -1,5 +1,5 @@
 # Code des communes  
-Version Consolidée au 1994-12-30
+Version Consolidée au 1995-01-24
 
 # Partie législative
 
@@ -5370,31 +5370,37 @@ d'entretien des espaces naturels.
 
 ###### Article L131-15
 
-Sans préjudice de la compétence générale de la gendarmerie nationale ou de la police nationale, le bon ordre, la sûreté, la
-sécurité et la salubrité publiques peuvent être placés  ar par le maire sous la surveillance d'agents de police municipale
-agréé par le procureur de la République dans les conditions prévues à l'article L. 412-49. "
+Sans préjudice de la compétence générale de la police nationale et de la gendarmerie nationale, les agents de police
+municipale exécutent, dans la limite de leurs attributions et sous son autorité, les tâches relevant de la compétence du
+maire que celui-ci leur confie en matière de prévention et de surveillance du bon ordre, de la tranquillité, de la sécurité
+et de la salubrité publiques.
+
+Ils sont chargés d'assurer l'exécution des arrêtés de police du maire.
+
+Ils exercent leurs fonctions sur le territoire communal, dans les conditions prévues aux quatrième à septième alinéas de
+l'article 21 du code de procédure pénale.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Code de l'administration communale 99 al. 3
 
 	**Codifié par**:
 
 	  - Décret n°77-90 1977-01-27
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°87-529 du 13 juillet 1987 - art. 57 () JORF 16 juillet 1987
+	  - Loi n°95-73 du 21 janvier 1995 - art. 9 () JORF 24 janvier 1995
 
-	**Cite**:
+	**Abrogé par**:
 
-	  - CODE DES COMMUNES. - art. L412-49 (M)
+	  - Loi n°96-142 du 21 février 1996 - art. 12 (V) JORF 24 février 1996
 
 	**Nouveaux textes**:
 
 	  - Code général des collectivités territoriales - art. L2212-5 (M)
+
+	**Cite**:
+
+	  - CODE DE PROCEDURE PENALE - art. 21 (M)
 
 
 #### CHAPITRE 2 : Dispositions particulières
@@ -5549,24 +5555,30 @@ Des dates différentes peuvent être prévues selon l'encépagement et la situat
 
 ###### Article L132-6
 
-Le régime de la police d'Etat est institué dans une commune par arrêté conjoint du ministre de l'intérieur et du ministre de
-l'économie et des finances pris sur la demande ou avec l'accord du conseil municipal [*conditions de forme*] . 
+Le régime de la police d'Etat peut être établi dans une commune en fonction de ses besoins en matière de sécurité. Ces
+besoins s'apprécient au regard de la population permanente et saisonnière, de la situation de la commune dans un ensemble
+urbain et des caractéristiques de la délinquance.
 
-Dans les autres cas, il est institué par décret en Conseil d'Etat.
+Il est institué par arrêté conjoint des ministres compétents lorsque la demande émane du conseil municipal ou en cas d'accord
+de celui-ci, par décret en Conseil d'Etat dans le cas contraire.
+
+La suppression du régime de la police d'Etat dans une commune est opérée dans les mêmes formes et selon les mêmes critères.
+
+Un décret en Conseil d'Etat fixe les modalités d'application du présent article.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Code de l'administration communale 114 remplacé
 
 	**Codifié par**:
 
 	  - Décret n°77-90 1977-01-27
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°77-90 1977-01-27 JORF et JONC 3 février 1977 date d'entrée en vigueur élection des maires
+	  - Loi n°95-73 du 21 janvier 1995 - art. 8 () JORF 24 janvier 1995
+
+	**Abrogé par**:
+
+	  - Loi n°96-142 du 21 février 1996 - art. 12 (V) JORF 24 février 1996
 
 	**Nouveaux textes**:
 
@@ -20887,51 +20899,53 @@ chacune d'elles pour le compte du groupement.
 
 ###### Article L234-12
 
-I.  La dotation de solidarité urbaine a pour objet de contribuer à l'amélioration des conditions de vie dans les communes
+I. La dotation de solidarité urbaine a pour objet de contribuer à l'amélioration des conditions de vie dans les communes
 urbaines confrontées à une insuffisance de leurs ressources et supportant des charges élevées.
 
-" II.  Bénéficient de cette dotation :
+II. Bénéficient de cette dotation :
 
-" 1° Les communes de 10 000 habitants et plus classées, en fonction d'un indice synthétique de ressources et de charges
-défini ci-après, dans l'une des trois premières catégories prévues au III ;
+1° Les communes de 10 000 habitants et plus classées, en fonction d'un indice synthétique de ressources et de charges défini
+ci-après, dans l'une des trois premières catégories prévues au III ;
 
-" 2° Les communes de moins de 10 000 habitants dont le nombre de logements sociaux est supérieur à 1 100 et dont le potentiel
+2° Les communes de moins de 10 000 habitants dont le nombre de logements sociaux est supérieur à 1 100 et dont le potentiel
 fiscal par habitant est inférieur au potentiel fiscal moyen national par habitant des communes de plus de 10 000 habitants.
 
-" III.  L'indice synthétique de ressources et de charges mentionné au II est constitué dans des conditions fixées par décret
-en Conseil d'Etat :
+III. L'indice synthétique de ressources et de charges mentionné au II est constitué dans des conditions fixées par décret en
+Conseil d'Etat :
 
-" 1° Du rapport entre le potentiel fiscal par habitant des communes de 10 000 habitants et plus et le potentiel fiscal par
+1° Du rapport entre le potentiel fiscal par habitant des communes de 10 000 habitants et plus et le potentiel fiscal par
 habitant de la commune, tel qu'il est défini à l'article L. 234-4 ;
 
-" 2° Du rapport entre la part des logements sociaux de la commune dans le total des logements de la commune et la part des
+2° Du rapport entre la part des logements sociaux de la commune dans le total des logements de la commune et la part des
 logements sociaux des communes de 10 000 habitants et plus dans le total des logements de ces mêmes communes ; les logements
 sociaux auxquels il est fait référence sont définis par décret en Conseil d'Etat, les logements sociaux en accession à la
-propriété étant pris en compte si leur nombre est au moins égal à cinq par opération ;
+propriété étant pris en compte si leur nombre est au moins égal à cinq par opération ; les logements vendus à leurs
+locataires en application de l'article L. 443-7 du code de la construction et de l'habitation sont également pris en compte
+pendant vingt ans à compter de la vente ;
 
-" 3° Du rapport entre la part des logements dont un occupant bénéficie de l'une des prestations prévues aux articles L. 351-1
+3° Du rapport entre la part des logements dont un occupant bénéficie de l'une des prestations prévues aux articles L. 351-1
 du code de la construction et de l'habitation, L. 542-1 et L. 831-1 du code de la sécurité sociale dans le nombre total des
 logements de la commune et la part du total des logements dont un occupant bénéficie des mêmes prestations dans le total des
 logements des communes de 10 000 habitants et plus ;
 
-" 4° Du rapport entre le revenu moyen par habitant des communes de 10 000 habitants et plus et le revenu par habitant de la
+4° Du rapport entre le revenu moyen par habitant des communes de 10 000 habitants et plus et le revenu par habitant de la
 commune, calculé en prenant en compte la population qui résulte des recensements généraux.
 
-" Le revenu pris en considération pour l'application de l'alinéa précédent est le dernier revenu imposable connu.
+Le revenu pris en considération pour l'application de l'alinéa précédent est le dernier revenu imposable connu.
 
-" L'indice synthétique de ressources et de charges est obtenu en pondérant le rapport défini au 1° par 50 p. 100, le rapport
+L'indice synthétique de ressources et de charges est obtenu en pondérant le rapport défini au 1° par 50 p. 100, le rapport
 défini au 2° par 20 p. 100, le rapport défini au 3° par 20 p. 100 et le rapport défini au 4° par 10 p. 100. Toutefois, chacun
 des pourcentages de pondération peut être majoré ou minoré pour l'ensemble des communes bénéficiaires d'au plus cinq points
 dans des conditions fixées par décret en Conseil d'Etat.
 
-" Les communes sont classées en fonction de la valeur décroissante de l'indice synthétique. Dans l'ordre de ce classement,
+Les communes sont classées en fonction de la valeur décroissante de l'indice synthétique. Dans l'ordre de ce classement,
 elles sont réparties en quatre catégories comportant un nombre égal de communes.
 
-" IV.  L'attribution revenant à chaque commune de 10 000 habitants et plus est égale au produit de sa population par la
-valeur de l'indice qui lui est attribué, pondéré par un coefficient correspondant à sa catégorie, qui est fixé à 1,5 pour la
-1re catégorie, 1 pour la 2e catégorie et 0,5 pour la 3e catégorie, ainsi que par l'effort fiscal dans la limite de 1,3.
+IV. L'attribution revenant à chaque commune de 10 000 habitants et plus est égale au produit de sa population par la valeur
+de l'indice qui lui est attribué, pondéré par un coefficient correspondant à sa catégorie, qui est fixé à 1,5 pour la 1re
+catégorie, 1 pour la 2e catégorie et 0,5 pour la 3e catégorie, ainsi que par l'effort fiscal dans la limite de 1,3.
 
-" L'attribution par habitant revenant aux communes éligibles de moins de 10 000 habitants est égale au produit de leur
+L'attribution par habitant revenant aux communes éligibles de moins de 10 000 habitants est égale au produit de leur
 population par le montant moyen par habitant revenant à l'ensemble des communes percevant une attribution.
 
 **Liens relatifs à cet article**
@@ -20972,9 +20986,25 @@ population par le montant moyen par habitant revenant à l'ensemble des communes
 	  - Code de la construction et de l'habitation. - art. L302-5-1 (Ab)
 	  - Code de la construction et de l'habitation. - art. L302-8 (M)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°93-1436 1994-01-04 art. 12 jorf 4 janvier 1994
+	  - Loi n°95-74 1995-01-21 art. 12 JORF 24 janvier 1995
+
+	**Abrogé par**:
+
+	  - Loi n°96-142 du 21 février 1996 - art. 12 (V) JORF 24 février 1996
+
+	**Nouveaux textes**:
+
+	  - Code général des collectivités territoriales - art. L2334-15 (M)
+	  - Code général des collectivités territoriales - art. L2334-16 (M)
+	  - Code général des collectivités territoriales - art. L2334-17 (M)
+	  - Code général des collectivités territoriales - art. L2334-18 (M)
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation. - art. L351-1 (V)
+	  - Code de la construction et de l'habitation. - art. L443-7 (M)
 
 
 ##### PARAGRAPHE 3 : Dotation de solidarité rurale.
@@ -23439,7 +23469,7 @@ ci-après.
 
 Les recettes du budget de la communauté urbaine comprennent :
 
-1. Le produit des impôts directs mentionnés aux A-1. de l'article L. 231-5 et, le cas échéant, aux articles 1609 quinquies C
+1. Le produit des impôts directs mentionnés aux A 1. de l'article L. 231-5 et, le cas échéant, aux articles 1609 quinquies C
 ou 1609 nonies C du code général des impôts ;
 
 2. Le produit de la taxe d'enlèvement des ordures ménagères, de la redevance d'enlèvement des ordures ménagères sur les
@@ -23473,9 +23503,10 @@ compétences transférées ;
 
 14. Le produit des dons et legs ;
 
-15. Le produit des emprunts.    16. Le produit des participations aux dépenses d'équipement publics à la charge des
-bénéficiaires d'autorisations de construire en vertu des dispositions de l'article L. 332-9  du code de l'urbanisme.    17.
-La participation à la diversité de l'habitat prévue à l'article L. 332-17 du code de l'urbanisme.
+15. Le produit des emprunts.
+
+16. Le produit des participations aux dépenses d'équipement publics à la charge des bénéficiaires d'autorisations de
+construire en vertu des dispositions de l'article L. 332-9 du code de l'urbanisme.
 
 **Liens relatifs à cet article**
 
@@ -23490,7 +23521,6 @@ La participation à la diversité de l'habitat prévue à l'article L. 332-17 du
 	  - Code de la santé publique - art. L35-4 (Ab)
 	  - Code de la santé publique - art. L35-5 (M)
 	  - Code de la santé publique - art. L35-8 (Ab)
-	  - Code de l'urbanisme - art. L332-17 (Ab)
 	  - Code de l'urbanisme - art. L332-9 (M)
 	  - Loi n°64-1245 1964-12-12 art. 12, art. 18
 
@@ -23504,16 +23534,16 @@ La participation à la diversité de l'habitat prévue à l'article L. 332-17 du
 
 	**Modifié par**:
 
-	  - Loi n°92-125 du 6 février 1992 - art. 100 ()
+	  - Loi n°95-74 du 21 janvier 1995 - art. 11 () JORF 24 janvier 1995
 
-	**Liens**:
+	**Abrogé par**:
 
-	  - SPEC_APPLI: Code des communes L262-1 :
-	  - SPEC_APPLI: DISPOSITIONS NON APPLICABLES AUX COMMUNES DES DEPARTEMENTS DE LA GUADELOUPE, DE LA GUYANE, DE LA MARTINIQUE, DE LA REUNION ET DE SAINT-PIERRE-ET-MIQUELON
+	  - Loi n°96-142 du 21 février 1996 - art. 12 (V) JORF 24 février 1996
 
 	**Nouveaux textes**:
 
 	  - Code général des collectivités territoriales - art. L5215-32 (V)
+	  - Code général des collectivités territoriales - art. L5215-32 (M)
 
 
 ###### Article L253-3
@@ -31941,9 +31971,11 @@ maires [*attributions*].
 
 ###### Article L364-5
 
-Les commissaires de police [*compétence*] et, dans les communes qui n'en ont point, les gardes champêtres peuvent seuls être
-délégués par l'autorité compétente pour assister aux opérations d'exhumation, de réinhumation et de translation de corps,
-afin d'assurer l'exécution des mesures de police prescrites par les lois et règlements.
+Afin d'assurer l'exécution des mesures de police prescrites par les lois et les règlements, les opérations d'exhumation, de
+réinhumation et de translation de corps s'effectuent, dans les communes dotées d'un régime de police d'Etat, sous la
+responsabilité du chef de circonscription, en présence du fonctionnaire de police délégué par ses soins, et, dans les autres
+communes, sous la responsabilité du maire, en présence du garde champêtre ou d'un agent de police municipale délégué par le
+maire.
 
 **Liens relatifs à cet article**
 
@@ -31951,9 +31983,13 @@ afin d'assurer l'exécution des mesures de police prescrites par les lois et rè
 
 	  - Décret n°77-240 1977-03-07
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°77-240 1977-03-07 JORF et JONC 18 mars 1977
+	  - Loi n°95-73 du 21 janvier 1995 - art. 24 () JORF 24 janvier 1995
+
+	**Abrogé par**:
+
+	  - Loi n°96-142 du 21 février 1996 - art. 12 (V) JORF 24 février 1996
 
 	**Cité par**:
 
@@ -31971,10 +32007,6 @@ afin d'assurer l'exécution des mesures de police prescrites par les lois et rè
 	  - CODE DES COMMUNES. - art. R364-7 (Ab)
 	  - CODE DES COMMUNES. - art. R364-9 (M)
 
-	**Anciens textes**:
-
-	  - Code de l'administration communale 473 al. 1
-
 	**Nouveaux textes**:
 
 	  - Code général des collectivités territoriales - art. L2213-14 (V)
@@ -31982,11 +32014,12 @@ afin d'assurer l'exécution des mesures de police prescrites par les lois et rè
 
 ###### Article L364-6
 
-Ces fonctionnaires [*commissaires de police ou gardes champêtres délégués pour assister aux opérations d'exhumation, de
-réinhumation et de translation de corps*] ont droit à des vacations fixées par le maire, après avis du conseil municipal, et
-dont un règlement d'administration publique détermine le minimum et le mode de perception [**]conditions de forme[**].
+Les opérations de surveillance mentionnées à l'article L. 364-5 donnent droit à des vacations fixées par le maire après avis
+du conseil municipal et dont un décret en Conseil d'Etat détermine le minimum et le mode de perception. Lorsque ces
+opérations sont effectuées par des fonctionnaires de la police nationale, les vacations sont soumises aux dispositions de
+l'article 25 de la loi n° 95-73 du 21 janvier 1995 d'orientation et de programmation relative à la sécurité.
 
-Toutefois, ils n'ont droit à aucune vacation :
+Aucune vacation n'est exigible :
 
 Lors des opérations qui constituent des actes d'instruction criminelle ;
 
@@ -31997,17 +32030,23 @@ Dans le cas où un certificat attestant l'insuffisance de ressources a été dé
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Code de l'administration communale 473 al. 2
-
 	**Codifié par**:
 
 	  - Décret n°77-240 1977-03-07
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°77-240 1977-03-07 JORF et JONC 18 mars 1977
+	  - Loi n°95-73 1995-01-21 art. 24 II, III JORF 24 janvier 1995
+	  - Loi n°95-73 du 21 janvier 1995 - art. 24 () JORF 24 janvier 1995
+
+	**Cite**:
+
+	  - Loi n°95-73 du 21 janvier 1995 - art. 25 (V)
+	  - CODE DES COMMUNES. - art. L364-5 (M)
+
+	**Abrogé par**:
+
+	  - Loi n°96-142 du 21 février 1996 - art. 12 (V) JORF 24 février 1996
 
 	**Nouveaux textes**:
 
