@@ -1,5 +1,5 @@
 # Code des communes  
-Version Consolidée au 1991-09-11
+Version Consolidée au 1991-12-31
 
 # Statuts types d'une caisse communale de secours et de retraite de sapeurs-pompiers
 
@@ -20573,23 +20573,19 @@ circonstances anormales entraînent des difficultés financières particulières
 
 ###### Article L235-6
 
-Conformément aux dispositions de l'article 138 de la loi n° 56-780 du 4 août 1956, le Gouvernement est autorisé à prendre
-toutes dispositions tendant à remédier à la perte de recettes résultant pour les communes des exonérations fiscales
-intéressant la construction.
+Lorsque les exonérations de taxe foncière sur les propriétés bâties, prévues aux articles 1384 et 1384 A du code général des
+impôts et aux I et II bis de l'article 1385 du même code, entraînent pour les communes une perte de recettes substantielles,
+ces collectivités ont droit à une compensation par l'Etat dans les conditions fixées par décret en Conseil d'Etat.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - Loi n°56-780 1956-08-04 art. 138
+	  - CGI 1384, 1384 A, 1385
 
 	**Codifié par**:
 
 	  - Décret n°77-90 1977-01-27
-
-	**Créé par**:
-
-	  - Décret n°77-90 1977-01-27 JORF et JONC 3 février 1977 date d'entrée en vigueur élection des maires
 
 	**Cité par**:
 
@@ -20598,9 +20594,18 @@ intéressant la construction.
 	  - CODE DES COMMUNES. - art. L253-5 (Ab)
 	  - CODE DES COMMUNES. - art. L262-10 (M)
 
+	**Modifié par**:
+
+	  - Loi - art. 128 () JORF 31 décembre 1991
+
+	**Abrogé par**:
+
+	  - Loi n°96-142 du 21 février 1996 - art. 12 (V) JORF 24 février 1996
+
 	**Nouveaux textes**:
 
 	  - Code général des collectivités territoriales - art. L2335-3 (V)
+	  - Code général des collectivités territoriales - art. L2335-3 (M)
 
 
 ###### Article L235-7
@@ -22248,30 +22253,29 @@ Cette décision demeure applicable tant qu'elle n'a pas été rapportée dans le
 
 Les pertes de recettes que le district subit du fait des exemptions temporaires dont bénéficient les constructions nouvelles
 au titre de la taxe foncière des propriétés bâties sont compensées par une subvention de l'Etat, déterminée dans les mêmes
-conditions que l'allocation servie aux communes conformément aux dispositions prises en application de l'article 138 de la
-loi n° 56-780 du 4 août 1956 pour les pertes de ressources de même nature.
+conditions que l'allocation servie aux communes, conformément aux dispositions de l'article L. 235-6 du même code.
 
 **Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Loi n°56-780 1956-08-04 art. 138
-
-	**Anciens textes**:
-
-	  - Loi n°70-1297 1970-12-31 art. 30 (partie)
 
 	**Codifié par**:
 
 	  - Décret n°77-90 1977-01-27
 
-	**Créé par**:
-
-	  - Décret n°77-90 1977-01-27 JORF et JONC 3 février 1977 date d'entrée en vigueur élection des maires
-
 	**Cité par**:
 
 	  - Loi n°83-1179 du 29 décembre 1983 - art. 14 (V)
+
+	**Modifié par**:
+
+	  - Loi - art. 128 () JORF 31 décembre 1991
+
+	**Abrogé par**:
+
+	  - Loi n°96-142 du 21 février 1996 - art. 12 (V) JORF 24 février 1996
+
+	**Cite**:
+
+	  - CODE DES COMMUNES. - art. L235-6 (M)
 
 	**Nouveaux textes**:
 
@@ -22540,20 +22544,9 @@ la circulation publique qui incombe aux propriétaires riverains (1).
 
 Les pertes de recettes que la communauté urbaine subit du fait des exemptions temporaires dont bénéficient les constructions
 nouvelles au titre de la taxe foncière des propriétés bâties sont compensées par une subvention de l'Etat, déterminée dans
-les mêmes conditions que l'allocation servie aux communes conformément aux dispositions prises en application de l'article
-138 de la loi n° 56-780 du 4 août 1956 pour les pertes de ressources de même nature.
+les mêmes conditions que l'allocation servie aux communes, conformément aux dispositions de l'article L. 235-6 du même code.
 
 **Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - SPEC_APPLI: *Dispositions non applicables aux communes des départements de la Guadeloupe, de la Guyane, de la Martinique, de la Réunion et de Saint-Pierre-et-Miquelon*
-	  - SPEC_APPLI: CODE DES COMMUNES. - art. L262-1 (M)
-	  - SPEC_APPLI: Code des communes L262-1, L262-10 :
-
-	**Cite**:
-
-	  - Loi n°56-780 1956-08-04 art. 138
 
 	**Anciens textes**:
 
@@ -22563,17 +22556,26 @@ les mêmes conditions que l'allocation servie aux communes conformément aux dis
 
 	  - Décret n°77-90 1977-01-27
 
-	**Créé par**:
-
-	  - Décret n°77-90 1977-01-27 JORF et JONC 3 février 1977 date d'entrée en vigueur élection des maires
-
 	**Cité par**:
 
 	  - Loi n°83-1179 du 29 décembre 1983 - art. 14 (V)
 
+	**Modifié par**:
+
+	  - Loi - art. 128 () JORF 31 décembre 1991
+
+	**Abrogé par**:
+
+	  - Loi n°96-142 du 21 février 1996 - art. 12 (V) JORF 24 février 1996
+
+	**Cite**:
+
+	  - CODE DES COMMUNES. - art. L235-6 (M)
+
 	**Nouveaux textes**:
 
 	  - Code général des collectivités territoriales - art. L5215-35 (V)
+	  - Code général des collectivités territoriales - art. L5215-35 (M)
 
 
 ###### Article L253-6
@@ -59946,6 +59948,67 @@ est prépondérante.
 	**Abrogé par**:
 
 	  - Décret n°2000-318 du 7 avril 2000 - art. 4 (V)
+
+
+###### Article R*263-50
+
+Pour le calcul du prélèvement sur les ressources fiscales des communes de la région d'Ile-de-France, le potentiel fiscal par
+habitant de chaque commune est déterminé dans les conditions prévues à l'article L. 234-6 et à l'article L. 234-19-3 du code
+des communes.
+
+" Sous réserve de l'application des dispositions du quatrième alinéa de l'article L. 263-14 du code des communes, le
+prélèvement est opéré mensuellement sur la base des données applicables au 1er janvier de l'année en cours. Toutefois,
+jusqu'à ce que ces données soient disponibles, il est effectué sur la base des données de l'année précédente, la
+régularisation devant intervenir avant le 30 juin de l'année en cours.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°77-91 1977-01-27
+
+	**Créé par**:
+
+	  - Décret n°91-1371 du 30 décembre 1991 - art. 1 ()
+
+	**Cite**:
+
+	  - CODE DES COMMUNES. - art. L234-19-3 (M)
+	  - CODE DES COMMUNES. - art. L234-6 (M)
+	  - CODE DES COMMUNES. - art. L263-14 (Ab)
+
+
+###### Article R*263-51
+
+L'attribution des ressources du fonds est effectuée en fonction des données applicables au 1er janvier de l'année en cours.
+Elle fait l'objet, dans la limite des disponibilités du fonds, de deux versements par moitié, l'un avant le 31 juillet et
+l'autre avant le 31 décembre de l'exercice en cours.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°77-91 1977-01-27
+
+	**Créé par**:
+
+	  - Décret n°91-1371 du 30 décembre 1991 - art. 1 ()
+
+
+###### Article R*263-52
+
+Le préfet de la région d'Ile-de-France est l'ordonnateur du fonds de solidarité des communes de la région d'Ile-de-France. Le
+receveur général des finances de Paris en est le comptable assignataire.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°77-91 1977-01-27
+
+	**Créé par**:
+
+	  - Décret n°91-1371 du 30 décembre 1991 - art. 1 ()
 
 
 #### CHAPITRE 4 : Dispositions applicables à la ville de Paris.
