@@ -1,5 +1,5 @@
 # Code des communes  
-Version Consolidée au 1986-06-13
+Version Consolidée au 1986-08-22
 
 # Statuts types d'une caisse communale de secours et de retraite de sapeurs-pompiers
 
@@ -18123,6 +18123,42 @@ groupement continue à remplir les conditions requises pour bénéficier de cett
 	  - CODE DES COMMUNES. - art. R*234-3 (M)
 
 
+###### Article L234-19-2
+
+Pour les communes qui remplissent les conditions pour bénéficier du concours particulier prévu à l'article L. 234-14, au
+titre de l'exercice considéré, la garantie d'évolution prévue à l'article L. 234-19-1 prend également en compte l'attribution
+reçue au titre de ce concours particulier.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°77-90 1977-01-27
+
+	**Cité par**:
+
+	  - Loi n°84-1209 du 29 décembre 1984 - art. 1 (P)
+	  - Loi n°86-972 du 19 août 1986 - art. 45 (V)
+	  - Loi n°93-1436 du 31 décembre 1993 - art. 16 (V)
+	  - CODE DES COMMUNES. - art. L234-12 (M)
+	  - CODE DES COMMUNES. - art. L234-16 (M)
+	  - CODE DES COMMUNES. - art. L234-7 (Ab)
+	  - Code général des collectivités territoriales - art. L2334-7 (M)
+
+	**Modifié par**:
+
+	  - Loi n°86-972 du 19 août 1986 - art. 45 (V) JORF 22 août 1986
+
+	**Cite**:
+
+	  - CODE DES COMMUNES. - art. L234-14 (M)
+	  - CODE DES COMMUNES. - art. L234-19-1 (M)
+
+	**Abrogé par**:
+
+	  - Loi n°93-1436 1994-01-04 art. 16 jorf 4 janvier 1994
+
+
 ##### SOUS-SECTION 6 : Comité des finances locales.
 
 ###### Article L234-21
@@ -23483,6 +23519,15 @@ Elle est établie et recouvrée par les soins de l'administration municipale sur
 par le redevable. Toute infraction aux dispositions du présent article donne lieu aux sanctions prévues aux articles L.
 233-25 et L. 233-26 du code des communes ainsi qu'à l'utilisation des moyens prévus à l'article L. 233-28 du même code.
 
+Lorsque l'emplacement publicitaire est créé après le 1er janvier dans une commune où la taxe est applicable, la taxe est due
+par l'exploitant de l'emplacement à la date de création de celui-ci ou, à défaut, par le propriétaire à cette même date, pour
+l'année entière, sauf si le conseil municipal, par une délibération de portée générale prise au plus tard avant le 1er
+juillet de l'année précédant celle de l'imposition, a décidé qu'elle serait due pour la fraction correspondante de l'année
+d'imposition.
+
+A titre exceptionnel, la délibération de portée générale visée ci-dessus doit intervenir, pour être applicable au 1er janvier
+1987, au plus tard le 30 novembre 1986.
+
 **Liens relatifs à cet article**
 
 	**Codifié par**:
@@ -23492,6 +23537,10 @@ par le redevable. Toute infraction aux dispositions du présent article donne li
 	**Anciens textes**:
 
 	  - Loi n°80-1094 du 30 décembre 1980 - art. 55, v. init.
+
+	**Modifié par**:
+
+	  - Loi n°86-972 du 19 août 1986 - art. 40 () JORF 22 août 1986
 
 	**Cité par**:
 
@@ -23836,8 +23885,8 @@ dotation globale de fonctionnement.
 
 ###### Article L234-21-1
 
-Pour 1986, la dotation globale de fonctionnement revenant à chaque commune et à chaque groupement comprend, sans préjudice de
-l'application de l'article L. 234-15, deux fractions :
+Pour 1986, et à défaut de nouvelles dispositions pour 1987 la dotation globale de fonctionnement revenant à chaque commune et
+à chaque groupement comprend, sans préjudice de l'application de l'article L. 234-15, deux fractions :
 
 a) 80 p. 100 des sommes reçues en 1985 au titre de la dotation globale de fonctionnement, à l'exception des dotations
 mentionnées à l'article L. 234-15 ;
@@ -23848,22 +23897,18 @@ Pour les années ultérieures, le pourcentage mentionné au a ci-dessus est dimi
 
 Pendant cette période transitoire, la garantie d'évolution prévue par l'article L. 234-19-1 s'applique au montant total des
 deux fractions de la dotation globale mentionnée ci-dessus, après déduction, dans chacune de ces deux fractions, des sommes
-correspondant aux concours particuliers.
+correspondant aux concours particuliers prévus aux articles L. 234-13 et L. 234-14.
 
 **Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - SPEC_APPLI: *ces dispositions ne seront applicables que jusqu'au 1er janvier 1986*
-	  - SPEC_APPLI: Loi n°80-1102 1980-12-31 ART. 22 :
 
 	**Codifié par**:
 
 	  - Décret n°77-90 1977-01-27
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°85-1268 1985-11-29 art. 1, art. 26 JORF 3 décembre 1985
+	  - Loi n°86-972 du 19 août 1986 - art. 44 () JORF 22 août 1986
+	  - Loi n°86-972 du 19 août 1986 - art. 45 (V) JORF 22 août 1986
 
 	**Cité par**:
 
