@@ -1,5 +1,5 @@
 # Code des communes  
-Version Consolidée au 1981-12-19
+Version Consolidée au 1981-12-20
 
 # ORGANISATION COMMUNALE
 
@@ -17124,6 +17124,53 @@ et établies au moyen de portatifs spéciaux installés sur des terrains ou sur 
 
 ##### SOUS-SECTION 2 : Assiette de la taxe et exonérations.
 
+###### Article L233-17
+
+La taxe frappe :
+
+1° Les affiches sur papier ordinaire, imprimées ou manuscrites ;
+
+2° Les affiches ayant subi une préparation quelconque en vue d'en assurer la durée, soit que le papier ait été transformé ou
+préparé, soit qu'elles se trouvent protégées par un verre, un vernis ou une substance quelconque, soit qu'antérieurement à
+leur apposition, ont les ait collées sur une toile, plaque de métal, etc.. Sont assimilées à ces affiches les affiches sur
+papier ordinaire, imprimées ou manuscrites, qui sont apposées soit dans un lieu couvert public, soit dans une voiture, quelle
+qu'elle soit, servant au transport du public ;
+
+3° Les affiches peintes et généralement toutes les affiches autres que celles sur papier, qui sont inscrites dans un lieu
+public, quand bien même ce ne serait ni sur un mur ni sur une construction ;
+
+4° Les affiches, réclames et enseignes lumineuses, constituées par la réunion de lettres ou de signes installés spécialement
+sur une charpente ou sur un support quelconque pour rendre une annonce visible tant la nuit que le jour, ainsi que les
+affiches éclairées apposées sur les éléments de mobilier urbain.
+
+Sont assimilées à ces affiches les affiches sur papier, les affiches peintes et les enseignes éclairées la nuit au moyen d'un
+dispositif spécial ;
+
+5° Les affiches, réclames et enseignes lumineuses obtenues soit au moyen de projections intermittentes ou successives sur un
+transparent ou sur un écran, soit au moyen de combinaisons de points lumineux susceptibles de former successivement les
+différentes lettres de l'alphabet dans le même espace, soit au moyen de tout procédé analogue.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°77-90 1977-01-27
+
+	**Cité par**:
+
+	  - Loi n°77-744 du 8 juillet 1977 - art. 9 (Ab)
+	  - Loi n°77-1466 du 30 décembre 1977 - art. 8 (P)
+	  - CODE DES COMMUNES. - art. L233-21 (Ab)
+	  - CODE DES COMMUNES. - art. L233-23 (Ab)
+	  - CODE DES COMMUNES. - art. L233-24 (Ab)
+	  - CODE DES COMMUNES. - art. R233-21 (M)
+	  - CODE DES COMMUNES. - art. R233-37 (Ab)
+
+	**Abrogé par**:
+
+	  - Loi n°96-142 du 21 février 1996 - art. 12 (V)
+
+
 ###### Article L233-18
 
 Les affiches et panneaux publicitaires de spectacles sont dispensés du paiement de la taxe instituée par l'article L. 233-15
@@ -17250,6 +17297,44 @@ superficie si elles contiennent plus de cinq [*nombre*] annonces distinctes.
 	**Cité par**:
 
 	  - CODE DES COMMUNES. - art. R233-37 (Ab)
+
+
+##### SOUS-SECTION 4 : Paiement et recouvrement de la taxe.
+
+###### Article L233-24
+
+Le recouvrement de la taxe sur la publicité est opéré par les soins de l'administration municipale.
+
+Il peut être poursuivi solidairement :
+
+1° contre ceux dans l'intérêt desquels l'affiche a été apposée ou l'annonce inscrite ;
+
+2° contre l'afficheur ou l'entrepreneur d'affichage ;
+
+3° contre l'imprimeur pour les affiches sorties de ses presses.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°77-90 1977-01-27
+
+	**Abrogé par**:
+
+	  - Loi n°96-142 du 21 février 1996 - art. 12 (V) JORF 24 février 1996
+
+	**Cite**:
+
+	  - CODE DES COMMUNES. - art. L233-17 (M)
+
+	**Cité par**:
+
+	  - CODE DES COMMUNES. - art. L233-27 (Ab)
+	  - CODE DES COMMUNES. - art. R233-35 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code général des collectivités territoriales - art. L2333-12 (V)
 
 
 ##### SOUS-SECTION 5 : Sanctions applicables.
@@ -18442,6 +18527,42 @@ Cette suppression prend effet :
 	**Cite**:
 
 	  - Code de la santé publique L33 à L35-8
+
+
+##### SECTION 10 : Taxe communale sur les emplacements publicitaires fixes.
+
+###### Article L233-82
+
+Sont exonérés de la taxe :
+
+Les emplacements dépendant des concessions municipales d'affichage, ainsi que les abri-bus et autres éléments de mobilier
+urbain ;
+
+Les emplacements utilisés pour recevoir des plans, des informations ou des annonces dans les conditions fixées par décret en
+Conseil d'Etat.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°77-90 1977-01-27
+
+	**Anciens textes**:
+
+	  - Loi n°80-1094 du 30 décembre 1980 - art. 55, v. init.
+
+	**Cité par**:
+
+	  - Ordonnance n°91-755 du 22 juillet 1991 - art. 2 (VT)
+	  - CODE DES COMMUNES. - art. R233-110 (Ab)
+
+	**Abrogé par**:
+
+	  - Loi n°96-142 du 21 février 1996 - art. 12 (V) JORF 24 février 1996
+
+	**Nouveaux textes**:
+
+	  - Code général des collectivités territoriales - art. L2333-22 (V)
 
 
 #### CHAPITRE 4 : Dotation globale de fonctionnement et autres recettes réparties par le comité des finances locales
@@ -23296,56 +23417,7 @@ territoire, dans les conditions déterminées par la présente section.
 	  - Code des communes L233-16 à L233-20
 
 
-##### ASSIETTE DE LA TAXE ET EXONERATIONS .
-
-###### Article L233-17
-
-La taxe frappe :
-
-1° Les affiches sur papier ordinaire, imprimées ou manuscrites ;
-
-2° Les affiches ayant subi une préparation quelconque en vue d'en assurer la durée, soit que le papier ait été transformé ou
-préparé, soit qu'elles se trouvent protégées par un verre, un vernis ou une substance quelconque, soit qu'antérieurement à
-leur apposition, on les ait collées sur une toile, plaque de métal, etc.. Sont assimilées à ces affiches les affiches sur
-papier ordinaire, imprimées ou manuscrites, qui sont apposées soit dans un lieu couvert public, soit dans une voiture, quelle
-qu'elle soit, servant au transport du public ;
-
-3° Les affiches peintes et généralement toutes les affiches autres que celles sur papier, qui sont inscrites dans un lieu
-public, quand bien même ce ne serait ni sur un mur ni sur une construction ;
-
-4° Les affiches, réclames et enseignes lumineuses, constituées par la réunion de lettres ou de signes installés spécialement
-sur une charpente ou sur un support quelconque pour rendre une annonce visible tant la nuit que le jour.
-
-Sont assimilées à ces affiches les affiches sur papier, les affiches peintes et les enseignes éclairées la nuit au moyen d'un
-dispositif spécial ;
-
-5° Les affiches, réclames et enseignes lumineuses obtenues soit au moyen de projections intermittentes ou successives sur un
-transparent ou sur un écran, soit au moyen de combinaisons de points lumineux susceptibles de former successivement les
-différentes lettres de l'alphabet dans le même espace, soit au moyen de tout procédé analogue.
-
-6° Les supports publicitaires, autres que les abris pour les voyageurs des transports en commun et les autres éléments de
-mobilier urbain, dont la surface occupée par la publicité n'excède pas 2 mètres carrés, implantés sur les voies ou dans les
-jardins publics ; la perception de la taxe due au titre de ces supports ne fait pas obstacle à l'application de la taxe sur
-la publicité aux affiches, réclames et enseignes qui y sont apposées ou installées.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°77-90 1977-01-27
-
-	**Cité par**:
-
-	  - Loi n°77-744 du 8 juillet 1977 - art. 9 (Ab)
-	  - Loi n°77-1466 du 30 décembre 1977 - art. 8 (P)
-	  - CODE DES COMMUNES. - art. L233-21 (Ab)
-	  - CODE DES COMMUNES. - art. L233-23 (Ab)
-	  - CODE DES COMMUNES. - art. L233-24 (Ab)
-	  - CODE DES COMMUNES. - art. R233-21 (M)
-	  - CODE DES COMMUNES. - art. R233-37 (Ab)
-
-
-##### Assiette de la taxe et exonération.
+##### TAUX DE LA TAXE .
 
 ###### Article L233-21
 
@@ -23355,7 +23427,7 @@ Les taux de la taxe sur la publicité sont les suivants :
 
 2° Pour les affiches mentionnées au 2° du même article :
 
-La taxe est égale à trois fois celle des affiches sur papier ordinaire ; toutefois, le tarif n'est que doublé pour les
+la taxe est égale à trois fois celle des affiches sur papier ordinaire ; toutefois, le tarif n'est que doublé pour les
 affiches sur papier qui sont apposées soit dans un lieu couvert public, soit dans une voiture quelle qu'elle soit servant au
 transport du public ;
 
@@ -23383,25 +23455,22 @@ carrés.
 
 Par mètre carré ou fraction de mètre carré et par mois, quel que soit le nombre des annonces, à :
 
-8 F dans les communes dont la population n'excède pas 100.000 habitants ;
+8 F dans les communes, dont la population n'excède pas 100.000 habitants ;
 
 12 F dans les communes dont la population dépasse 100.000 habitants.
 
 Ces tarifs mensuels sont doublés pour la fraction de la superficie des affiches, réclames et enseignes excédant 50 mètres
 carrés.
 
-6° Pour les supports publicitaires visés au 6° de l'article L. 233-17, le taux de la taxe sur la publicité est fixé à 30 F
-par année et par mètre carré ou fraction de mètre carré de superficie affectée à la publicité ;
-
-7° Les conseils municipaux ont la faculté de doubler tous les taux prévus au présent article.
+6° Les conseils municipaux ont la faculté de doubler tous les taux prévus au présent article.
 
 Ils peuvent, en outre, dans les villes de plus de 100.000 habitants :
 
-Soit tripler ou quadrupler les tarifs prévus aux 4°, 5° et 6° ci-dessus ;
+Soit tripler ou quadrupler les tarifs prévus aux 4° et 5° ci-dessus ;
 
-Soit instituer, pour les affiches, réclames, enseignes lumineuses et supports publicitaires mentionnés aux 4°, 5° et 6° ci-
-dessus, une échelle de tarifs variables selon les rues et allant du double au quadruple des tarifs prévus aux 4°, 5° et 6°
-ci-dessus.
+Soit instituer, pour les affiches, réclames, enseignes lumineuses et supports publicitaires mentionnés aux 4° et 5° ci-
+dessus, une échelle de tarifs variables selon les rues et allant du double au quadruple des tarifs prévus aux 4° et 5° ci-
+dessus.
 
 **Liens relatifs à cet article**
 
@@ -23415,6 +23484,10 @@ ci-dessus.
 	  - CODE DES COMMUNES. - art. L233-22 (Ab)
 	  - CODE DES COMMUNES. - art. L264-17 (Ab)
 	  - CODE DES COMMUNES. - art. R233-37 (Ab)
+
+	**Cite**:
+
+	  - CODE DES COMMUNES. - art. L233-17 (M)
 
 
 ##### Paiement et recouvrement de la taxe.
@@ -23453,37 +23526,6 @@ Lorsqu'elle est exigible par périodes mensuelles, toute fraction de mois est co
 	**Cite**:
 
 	  - Code des communes L233-17 1°, 2°
-
-
-###### Article L233-24
-
-Le recouvrement de la taxe sur la publicité est opéré par les soins de l'administration municipale.
-
-Il peut être poursuivi solidairement :
-
-1° Contre ceux dans l'intérêt desquels l'affiche a été apposée ou l'annonce inscrite ;
-
-2° Contre l'afficheur ou l'entrepreneur d'affichage ;
-
-3° Contre l'imprimeur pour les affiches sorties de ses presses.
-
-Toutefois, le recouvrement de la taxe due au titre des supports publicitaires mentionnés au 6° de l'article L. 233-17 est
-poursuivi à l'encontre des seuls exploitants des emplacements publicitaires.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°77-90 1977-01-27
-
-	**Cité par**:
-
-	  - CODE DES COMMUNES. - art. L233-27 (Ab)
-	  - CODE DES COMMUNES. - art. R233-35 (Ab)
-
-	**Nouveaux textes**:
-
-	  - Code général des collectivités territoriales - art. L2333-12 (V)
 
 
 ##### Taxes particulières aux stations
@@ -24249,6 +24291,155 @@ intercommunal*] mentionnée à l'article L. 233-60.
 	**Nouveaux textes**:
 
 	  - Code général des collectivités territoriales - art. L2333-70 (V)
+
+
+##### Taxe communale sur les emplacements publicitaires fixes .
+
+###### Article L233-81
+
+Les conseils municipaux [*autorité compétente*] peuvent décider, par délibération prise avant le 1er juillet d'une année, la
+création d'une taxe annuelle applicable à compter de l'année suivante. Cette taxe est assise sur la superficie des
+emplacements publicitaires fixes visibles de toute voie ouverte à la circulation publique au sens de la loi n° 79-1150 du 29
+décembre 1979 relative à la publicité, aux enseignes et préenseignes.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°77-90 1977-01-27
+
+	**Cite**:
+
+	  - Loi n°79-1150 1979-12-29
+
+	**Anciens textes**:
+
+	  - Loi n°80-1094 du 30 décembre 1980 - art. 55, v. init.
+
+	**Cité par**:
+
+	  - Ordonnance n°91-755 du 22 juillet 1991 - art. 2 (VT)
+	  - CODE DES COMMUNES. - art. L233-15 (Ab)
+	  - CODE DES COMMUNES. - art. R*233-108 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code général des collectivités territoriales - art. L2333-21 (V)
+
+
+###### Article L233-83
+
+Le tarif de la taxe est fixé, par mètre carré ou fraction de mètre carré, à :
+
+20 F pour les emplacements non éclairés ;
+
+40 F pour les emplacements éclairés par un dispositif lumineux extérieur à l'emplacement ou fixé sur ce dernier ;
+
+60 F pour les caissons publicitaires destinés à supporter des affiches éclairées par transparence ainsi que pour les
+dispositifs lumineux installés sur toitures, balcons ou murs-pignons.
+
+Ce tarif est revisé chaque année proportionnellement à la variation du produit de la taxe foncière sur les propriétés bâties
+constatée au plan national.
+
+Tarif fixé par la loi de finances 1160 du 30 décembre 1981 art. 81 :
+
+III - Le tarif de la taxe est fixé, par mètre carré ou fraction de mètre carré, à :
+
+50 F pour les emplacements non éclairés ;
+
+100 F pour les emplacements éclairés par un dispositif lumineux extérieur à l'emplacement ou fixé sur ce dernier ;
+
+150 F pour les caissons publicitaires destinés à supporter des affiches éclairées par transparence ainsi que pour les
+dispositifs lumineux installés sur toitures, balcons ou murs-pignons.
+
+Ce tarif est révisé chaque année proportionnellement à la variation du produit de la taxe foncière sur les propriétés bâties
+constatées au plan national.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°77-90 1977-01-27
+
+	**Anciens textes**:
+
+	  - Loi n°80-1094 1980-12-30 ART. 55 modifié par LOI 80-1160 1980-12-30
+
+	**Cité par**:
+
+	  - CODE DES COMMUNES. - art. R233-111 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code général des collectivités territoriales - art. L2333-23 (V)
+
+	**Cite**:
+
+	  - Loi n°80-1160 1980-12-30 ART. 81
+
+
+###### Article L233-84
+
+La taxe est due par l'exploitant de l'emplacement au 1er janvier de l'année d'imposition ou, à défaut, par le propriétaire à
+cette même date.
+
+Elle est établie et recouvrée par les soins de l'administration municipale sur la base d'une déclaration annuelle souscrite
+par le redevable. Toute infraction aux dispositions du présent article donne lieu aux sanctions prévues aux articles L.
+233-25 et L. 233-26 du code des communes ainsi qu'à l'utilisation des moyens prévus à l'article L. 233-28 du même code.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°77-90 1977-01-27
+
+	**Anciens textes**:
+
+	  - Loi n°80-1094 du 30 décembre 1980 - art. 55, v. init.
+
+	**Cité par**:
+
+	  - Ordonnance n°91-755 du 22 juillet 1991 - art. 2 (VT)
+	  - CODE DES COMMUNES. - art. R233-111 (Ab)
+	  - CODE DES COMMUNES. - art. R233-112 (Ab)
+
+	**Cite**:
+
+	  - CODE DES COMMUNES. - art. L233-25 (Ab)
+	  - CODE DES COMMUNES. - art. L233-26 (Ab)
+	  - CODE DES COMMUNES. - art. L233-28 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code général des collectivités territoriales - art. L2333-24 (V)
+
+
+###### Article L233-85
+
+L'institution de la taxe communale sur les emplacements publicitaires fixes exclut celle de la taxe communale sur la
+publicité prévue aux articles L. 233-15 et suivants du code des communes.
+
+La perception du droit de timbre des affiches sur un emplacement exclut sur celui-ci la perception de la taxe communale
+prévue par les articles L. 233-80 et suivants du code des communes.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°77-90 1977-01-27
+
+	**Anciens textes**:
+
+	  - Loi n°80-1094 du 30 décembre 1980 - art. 55, v. init.
+
+	**Cite**:
+
+	  - CODE DES COMMUNES. - art. L233-15 (M)
+	  - CODE DES COMMUNES. - art. L233-80 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code général des collectivités territoriales - art. L2333-25 (V)
 
 
 #### Dotation globale de fonctionnement et autres recettes réparties par le comité des finances locales
@@ -59580,6 +59771,42 @@ département[*publicité*].
 
 ##### SOUS-SECTION 2 : Assiette de la taxe et exonérations.
 
+###### Article R233-21
+
+Sont assujettis à la taxe :
+
+1° Les affiches mentionnées aux 2° et 3° de l'article L. 233-17 et apposées avant que cette taxe ne devienne applicable ;
+
+2° Les affiches, réclames et enseignes lumineuses mentionnées aux 4° et 5° de l'article L. 233-17 existant au moment de
+l'entrée en vigueur de ladite taxe ;
+
+La situation de ces deux catégories d'affiches est régularisée dans les conditions prévues par les dispositions de la
+présente section et dans le délai de deux mois à compter de la mise en application de la délibération du conseil municipal
+instituant la taxe.
+
+L'affranchissement de la taxe peut toutefois être accordé s'il est procédé à la suppression des affiches dans ce délai de
+deux mois ; les mêmes dispositions sont applicables en cas de retrait ou de désaffectation des supports publicitaires dans le
+même délai.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°77-91 1977-01-27
+
+	**Abrogé par**:
+
+	  - Décret n°2000-318 du 7 avril 2000 - art. 4 (V)
+
+	**Cite**:
+
+	  - Code des communes L233-17 2°, 3°, 4°, 5°
+
+	**Nouveaux textes**:
+
+	  - Code général des collectivités territoriales - art. R2333-12 (V)
+
+
 ###### Article R233-22
 
 Si une affiche comporte plusieurs faces, chaque face est considérée comme une affiche distincte et donne lieu au paiement de
@@ -59637,6 +59864,38 @@ ministre de l'économie et des finances.
 
 
 ##### SOUS-SECTION 4 : Paiement et recouvrement de la taxe.
+
+###### Article R*233-29
+
+La taxe est acquittée préalablement à l'apposition ou à la modification des affiches, réclames et enseignes mentionnées aux
+3°, 4° et 5° de l'article L. 233-17 sur déclaration établie dans les conditions prévues à l'article R. 233-30 ci-après.
+
+Le même mode de paiement est employé pour les affiches mentionnées à l'article R. 233-24 lorsque leur nature ne permet pas
+l'emploi de timbres mobiles.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°77-91 1977-01-27
+
+	**Abrogé par**:
+
+	  - Décret n°2000-318 du 7 avril 2000 - art. 4 (V)
+
+	**Cité par**:
+
+	  - CODE DES COMMUNES. - art. R233-24 (Ab)
+
+	**Cite**:
+
+	  - CODE DES COMMUNES. - art. R233-30 (Ab)
+	  - Code des communes L233-17 3°, 4°, 5°
+
+	**Nouveaux textes**:
+
+	  - Code général des collectivités territoriales - art. R2333-20 (VT)
+
 
 ###### Article R233-24
 
@@ -59855,6 +60114,50 @@ dessus.
 	  - Code général des collectivités territoriales - art. D2333-21 (VT)
 
 
+###### Article R233-31
+
+La déclaration prévue à l'article R. 233-30 est conservée à la mairie où elle est enregistrée sur un carnet à souche numéroté
+comportant deux volants détachables.
+
+Le représentant de la commune liquide les droits à payer et en reporte le montant ainsi que les bases d'imposition sur la
+souche et les deux volants. Le volant n° 1 est adressé au receveur municipal par la voie administrative normale, pour valoir
+titre de perception ; le volant n° 2 formant bulletin provisoire de versement est remis au redevable pour lui permettre de
+s'acquitter sans délai des droits auprès du receveur municipal ou du régisseur de recettes. Une quittance détachée d'un
+carnet à souche est alors remise au redevable pour justifier son versement.
+
+Pour assurer le contrôle, le volant n° 2 est ensuite renvoyé à la mairie par le comptable avec mention du paiement, dès que
+le volant n° 1 lui est parvenu et a pu être rattaché au paiement.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°77-91 1977-01-27
+
+	**Abrogé par**:
+
+	  - Décret n°2000-318 du 7 avril 2000 - art. 4 (V)
+
+	**Cité par**:
+
+	  - CODE DES COMMUNES. - art. R233-112 (Ab)
+	  - CODE DES COMMUNES. - art. R233-113 (M)
+	  - CODE DES COMMUNES. - art. R233-32 (Ab)
+	  - CODE DES COMMUNES. - art. R233-34 (Ab)
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: CODE DES COMMUNES. - art. R233-24 (Ab)
+
+	**Cite**:
+
+	  - CODE DES COMMUNES. - art. R233-30 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code général des collectivités territoriales - art. R2333-22 (VT)
+
+
 ###### Article R233-32
 
 Pour les affiches [*autres que sur papier, inscrites dans un lieu public*] mentionnées au 3° de l'article L. 233-17, la somme
@@ -59895,6 +60198,40 @@ afférente à la première période d'imposition.
 	**Nouveaux textes**:
 
 	  - Code général des collectivités territoriales - art. D2333-23 (VT)
+
+
+###### Article R233-33
+
+Pour les affiches, réclames et enseignes lumineuses mentionnées au 4° de l'article L. 233-17, la somme versée représente la
+taxe afférente à une période d'une année décomptée à partir de la date du paiement.
+
+Dans le délai d'un mois suivant l'expiration de cette période d'un an, le redevable est tenu de verser, selon les mêmes
+modalités que celles prévues à l'article R. 233-31 (alinéa 2), la taxe relative à une nouvelle période d'une année courant de
+l'expiration de la période précédente. Cependant la taxe n'est pas due si, dans ce délai d'un mois, le redevable déclare
+l'affichage supprimé.
+
+Toutefois, si le redevable en fait la demande, la taxe peut, pour les seules affiches, réclames et enseignes lumineuses
+mentionnées au 4° de l'article L. 233-17, être acquittée mensuellement dans les conditions prévues à l'article R. 233-34 ci-
+après.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°77-91 1977-01-27
+
+	**Abrogé par**:
+
+	  - Décret n°2000-318 du 7 avril 2000 - art. 4 (V)
+
+	**Cite**:
+
+	  - CODE DES COMMUNES. - art. R233-34 (Ab)
+	  - Code des communes L233-17 4°
+
+	**Nouveaux textes**:
+
+	  - Code général des collectivités territoriales - art. R2333-24 (VT)
 
 
 ###### Article R233-34
@@ -59997,6 +60334,34 @@ infractions aux dispositions relatives à la taxe communale sur la publicité.
 	**Abrogé par**:
 
 	  - Décret n°2000-318 du 7 avril 2000 - art. 4 (V)
+
+
+###### Article R233-37
+
+Toute infraction aux dispositions des articles L. 233-15, L. 233-17, L. 233-19, L. 233-21 à L. 233-23 ainsi qu'à celles des
+articles R. 233-24 à R. 233-34 et des arrêtés pris pour leur application sera punie des peines d'amendes prévues pour les
+contraventions de la 1ère classe. Chaque affiche, réclame ou enseigne donne lieu à une infraction distincte. Pour les
+affiches lumineuses mentionnées au 5° de l'article L. 233-17, cette amende est encourue pour chaque annonce.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°77-91 1977-01-27
+
+	**Abrogé par**:
+
+	  - Décret n°2000-318 du 7 avril 2000 - art. 4 (V)
+
+	**Cite**:
+
+	  - CODE DES COMMUNES. - art. L233-15 (M)
+	  - CODE DES COMMUNES. - art. L233-17 (M)
+	  - CODE DES COMMUNES. - art. L233-19 (Ab)
+	  - CODE DES COMMUNES. - art. L233-21 (M)
+	  - CODE DES COMMUNES. - art. L233-22 (Ab)
+	  - CODE DES COMMUNES. - art. L233-23 (M)
+	  - Code des communes L233-15, L233-17, L233-19, L233-21, L233-22, L233-23, R233-24 à R233-34
 
 
 ###### Article R233-38
@@ -61431,6 +61796,121 @@ sous la section suivante un autre article R. 233-108, sans abroger le premier.
 	**Anciens textes**:
 
 	  - Code des communes R233-107 (1ERE VERSION)
+
+
+##### SECTION 10 : Taxe communale sur les emplacements publicitaires fixes
+
+##### SOUS-SECTION 1 : Dispositions générales.
+
+###### Article R*233-108
+
+Les emplacements publicitaires fixes mentionnés à l'article L. 233-81 du présent code sont ceux qui, en raison de leurs
+caractéristiques ou de leurs aménagements, sont affectés à la publicité, telle que celle-ci est définie à l'article 3 de la
+loi n° 79-1150 du 29 décembre 1979, ou constituent des préenseignes soumises aux dispositions régissant la publicité en vertu
+du premier alinéa de l'article 18 de la même loi.
+
+**Nota:**
+
+Le présent article R. 233-108 a été créé par le décret 81-1124 du 17 décembre 1981 alors que cet article existait déjà sous
+la section précédente.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Décret n°67-945 1967-10-24
+	  - Loi n°79-1150 du 29 décembre 1979 - art. 18 (M)
+	  - Loi n°79-1150 du 29 décembre 1979 - art. 3 (Ab)
+	  - CODE DES COMMUNES. - art. L233-81 (M)
+
+	**Codifié par**:
+
+	  - Décret n°77-91 1977-01-27
+
+	**Abrogé par**:
+
+	  - Décret n°2000-318 du 7 avril 2000 - art. 4 (V)
+
+
+##### SOUS-SECTION 2 : Assiette de la taxe et exonérations.
+
+###### Article R233-109
+
+La superficie retenue pour l'assiette de la taxe est la superficie effectivement utilisable du support, déduction faite de la
+superficie de l'encadrement.
+
+Pour la publicité et pour la préenseigne lumineuse, la superficie est celle du rectangle dont les côtés passent par les
+points extrêmes de l'inscription, forme ou image.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°77-91 1977-01-27
+
+	**Abrogé par**:
+
+	  - Décret n°2000-318 du 7 avril 2000 - art. 4 (V)
+
+	**Nouveaux textes**:
+
+	  - Code général des collectivités territoriales - art. R2333-36 (VT)
+
+
+###### Article R233-110
+
+Les emplacements utilisés pour recevoir les plans, les informations ou les annonces mentionnés à l'article L. 233-82 du
+présent code sont ceux qui ne reçoivent, au cours de l'année d'imposition, que des plans, des informations ou des annonces
+d'intérêt général ou local et excluant toute publicité commerciale directe ou indirecte.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°77-91 1977-01-27
+
+	**Abrogé par**:
+
+	  - Décret n°2000-318 du 7 avril 2000 - art. 4 (V)
+
+	**Cite**:
+
+	  - CODE DES COMMUNES. - art. L233-82 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code général des collectivités territoriales - art. R2333-37 (VT)
+
+
+##### SOUS-SECTION 4 : Recouvrement et paiement de la taxe.
+
+###### Article R233-114
+
+Sont punis des peines [*sanctions*] prévues pour les contraventions de la 1ère classe le fait de ne pas avoir déclaré un
+emplacement ou de ne pas l'avoir déclaré dans le délai prévu à l'article R. 233-111, le fait d'avoir souscrit une déclaration
+inexacte ou incomplète. Chaque emplacement donne lieu à une infraction distincte.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°77-91 1977-01-27
+
+	**Abrogé par**:
+
+	  - Décret n°2000-318 du 7 avril 2000 - art. 4 (V)
+
+	**Cite**:
+
+	  - CODE DES COMMUNES. - art. R233-111 (M)
+
+	**Cité par**:
+
+	  - CODE DES COMMUNES. - art. R233-113 (M)
+
+	**Nouveaux textes**:
+
+	  - Code général des collectivités territoriales - art. R2333-41 (VT)
 
 
 #### CHAPITRE 4 : Dotation globale de fonctionnement et autres recettes réparties par le comité des finances locales
@@ -70147,190 +70627,29 @@ la facture établie par le distributeur à l'exception de toute prime fixe ou re
 	  - Code des communes L233-1 et L233-2
 
 
-##### TAXE SUR LA  PUBLICITE
-
-##### ASSIETTE DE LA TAXE ET EXONERATIONS .
-
-###### Article R233-21
-
-Sont assujettis à la taxe :
-
-1° Les affiches mentionnées aux 2° et 3° de l'article L. 233-17 et apposées avant que cette taxe ne devienne applicable ;
-
-2° Les affiches, réclames et enseignes lumineuses mentionnées aux 4° et 5° de l'article L. 233-17 existant au moment de
-l'entrée en vigueur de ladite taxe ;
-
-3° Les supports publicitaires mentionnés au 6° de l'article L. 233-17 implantés au moment de l'entrée en vigueur de la
-délibération du conseil municipal instituant la taxe.
-
-La situation de ces deux catégories d'affiches et celle des supports publicitaires est régularisée dans les conditions
-prévues par les dispositions de la présente section et dans le délai de deux mois à compter de la mise en application de la
-délibération du conseil municipal instituant la taxe.
-
-L'affranchissement de la taxe peut toutefois être accordé s'il est procédé à la suppression des affiches dans ce délai de
-deux mois ; les mêmes dispositions sont applicables en cas de retrait ou de désaffectation des supports publicitaires dans le
-même délai.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°77-91 1977-01-27
-
-	**Cite**:
-
-	  - Code des communes L233-17 2°, 3°, 4°, 5°, 6°
-
-	**Nouveaux textes**:
-
-	  - Code général des collectivités territoriales - art. R2333-12 (V)
-
-
-###### Article R233-30-1
-
-La taxe due au titre des supports publicitaires mentionnés au 6° de l'article L. 233-17 donne lieu à la souscription d'une
-déclaration spéciale par l'exploitant des emplacements publicitaires. Celle-ci est déposée à la mairie de la commune sur le
-territoire de laquelle le support publicitaire est implanté.
-
-Cette déclaration, datée et signée, contient les énonciations suivantes :
-
-1° Les nom, prénom, profession ou raison sociale, le domicile ou le siège social de l'exploitant des emplacements ;
-
-2° La surface des supports imposables destinée à la publicité ;
-
-3° La localisation exacte des supports imposables.
-
-Elle doit être souscrite sans préjudice du dépôt de la déclaration prévue à l'article R. 233-30 ci-dessus relative à
-l'apposition ou à la modification des affiches, réclames et enseignes.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°77-91 1977-01-27
-
-	**Cité par**:
-
-	  - CODE DES COMMUNES. - art. R233-29 (M)
-	  - CODE DES COMMUNES. - art. R233-31 (M)
-
-	**Cite**:
-
-	  - CODE DES COMMUNES. - art. R233-30 (Ab)
-	  - Code des communes L233-17 6°
-
-
-##### PAIEMENT ET RECOUVREMENT DE LA TAXE .
-
-###### Article R233-31
-
-Les déclarations prévues respectivement aux articles R. 233-30 et R. 233-30-1 sont conservées à la mairie où elles sont
-enregistrées sur un carnet à souche numéroté comportant deux volants détachables.
-
-Le représentant de la commune liquide les droits à payer et en reporte le montant ainsi que les bases d'imposition sur la
-souche et les deux volants. Le volant n° 1 est adressé au receveur municipal par la voie administrative normale, pour valoir
-titre de perception ; le volant n° 2 formant bulletin provisoire de versement est remis au redevable pour lui permettre de
-s'acquitter sans délai des droits auprès du receveur municipal ou du régisseur de recettes. Une quittance détachée d'un
-carnet à souche est alors remise au redevable pour justifier son versement.
-
-Pour assurer le contrôle, le volant n° 2 est ensuite renvoyé à la mairie par le comptable avec mention du paiement, dès que
-le volant n° 1 lui est parvenu et a pu être rattaché au paiement.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°77-91 1977-01-27
-
-	**Cité par**:
-
-	  - CODE DES COMMUNES. - art. R233-112 (Ab)
-	  - CODE DES COMMUNES. - art. R233-113 (M)
-	  - CODE DES COMMUNES. - art. R233-32 (Ab)
-	  - CODE DES COMMUNES. - art. R233-34 (Ab)
-
-	**Liens**:
-
-	  - TXT_ASSOCIE: CODE DES COMMUNES. - art. R233-24 (Ab)
-
-	**Cite**:
-
-	  - CODE DES COMMUNES. - art. R233-30 (Ab)
-	  - CODE DES COMMUNES. - art. R233-30-1 (Ab)
-
-	**Nouveaux textes**:
-
-	  - Code général des collectivités territoriales - art. R2333-22 (VT)
-
-
-##### SANCTIONS APPLICABLES .
-
-###### Article R233-33
-
-Pour les affiches, réclames et enseignes lumineuses mentionnées au 4° de l'article L. 233-17 ainsi que pour les supports
-publicitaires visés au 6° du même article, la somme versée représente la taxe afférente à une période d'une année décomptée à
-partir de la date du paiement.
-
-Dans le délai d'un mois suivant l'expiration de cette période d'un an, le redevable est tenu de verser, selon les mêmes
-modalités que celles prévues à l'article R. 233-31 (alinéa 2), la taxe relative à une nouvelle période d'une année courant de
-l'expiration de la période précédente. Cependant la taxe n'est pas due si dans ce délai d'un mois le redevable déclare
-l'affichage supprimé, ou le support supprimé ou désaffecté de son usage publicitaire.
-
-Toutefois, si le redevable en fait la demande, la taxe peut, pour les seules affiches, réclames et enseignes lumineuses
-mentionnées au 4° de l'article L. 233-17, être acquittée mensuellement dans les conditions prévues à l'article R. 233-34 ci-
-après.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°77-91 1977-01-27
-
-	**Cite**:
-
-	  - Code des communes L233-17 4 et 6
-
-	**Nouveaux textes**:
-
-	  - Code général des collectivités territoriales - art. R2333-24 (VT)
-
-
-###### Article R233-37
-
-Toute contravention aux dispositions des articles L. 233-15, L. 233-17, L. 233-19, L. 233-21 à L. 233-23, ainsi qu'à celles
-des articles R. 233-24 à R. 233-34 et des arrêtés pris pour leur application est punie d'une amende de 80 F à 160 F par
-affiche, réclame ou enseigne et par support publicitaire imposable.
-
-Pour les affiches lumineuses mentionnées au 5° de l'article L. 233-17, cette amende est encourue pour chaque annonce.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°77-91 1977-01-27
-
-	**Cite**:
-
-	  - CODE DES COMMUNES. - art. L233-15 (M)
-	  - CODE DES COMMUNES. - art. L233-17 (M)
-	  - CODE DES COMMUNES. - art. L233-19 (Ab)
-	  - Code des communes L233-15, L233-17, L233-19, L233-21 à L233-23, R233-24 à R233-34
-
-
 ##### Taxe communale sur les emplacements publicitaires fixes
 
-##### Taxe sur la publicité
+##### Recouvrement et paiement de la taxe .
 
-##### Paiement et recouvrement de la taxe.
+###### Article R233-111
 
-###### Article R233-29
+La déclaration prévue par l'article L. 233-84 du code est souscrite par l'exploitant ou, à défaut, par le propriétaire d'un
+ou des emplacements publicitaires fixes existant au 1er janvier. Elle est déposée avant le 1er mars de l'année d'imposition à
+la mairie de la commune sur le territoire de laquelle sont situés le ou les emplacements publicitaires.
 
-La taxe est acquittée préalablement à l'apposition ou à la modification des affiches, réclames et enseignes mentionnées aux
-3°, 4° et 5° de l'article L. 233-17 ou à l'installation des supports publicitaires mentionnés au 6° du même article sur
-déclaration établie dans les conditions prévues aux articles R. 233-30 et R. 233-30-1 ci-après.
+Cette déclaration contient notamment les énonciations suivantes :
 
-Le même mode de paiement est employé pour les affiches mentionnées à l'article R. 233-24 lorsque leur nature ne permet pas
-l'emploi de timbres mobiles.
+1° Les nom, prénoms et raison sociale ainsi que le domicile ou le siège social du déclarant ;
+
+2° La localisation exacte de chaque emplacement publicitaire passible de la taxe ;
+
+3° La nature de chaque emplacement, selon les catégories définies à l'article L. 233-83 ;
+
+4° Pour chaque emplacement, la superficie utilisable pour recevoir des annonces publicitaires et déterminée dans les
+conditions prévues à l'article R. 233-109.
+
+Le maire peut établir un modèle de déclaration récapitulant les renseignements nécessaires à l'assiette et au recouvrement de
+la taxe. Ce modèle est alors mis à la disposition du déclarant par les services municipaux.
 
 **Liens relatifs à cet article**
 
@@ -70340,18 +70659,71 @@ l'emploi de timbres mobiles.
 
 	**Cite**:
 
-	  - CODE DES COMMUNES. - art. 4 (Ab)
-	  - CODE DES COMMUNES. - art. R233-30 (Ab)
-	  - CODE DES COMMUNES. - art. R233-30-1 (Ab)
-	  - Code des communes L233-17 3, 4, 5 et 6
+	  - CODE DES COMMUNES. - art. L233-83 (M)
+	  - CODE DES COMMUNES. - art. L233-84 (M)
+	  - Code des communes L233-83, L233-84, L233-109
 
 	**Cité par**:
 
-	  - CODE DES COMMUNES. - art. R233-24 (Ab)
+	  - CODE DES COMMUNES. - art. R233-113 (Ab)
+	  - CODE DES COMMUNES. - art. R233-114 (Ab)
 
 	**Nouveaux textes**:
 
-	  - Code général des collectivités territoriales - art. R2333-20 (VT)
+	  - Code général des collectivités territoriales - art. R2333-38 (VT)
+
+
+###### Article R233-112
+
+La taxe est recouvrée selon les modalités pratiques prévues par l'article R. 233-31 pour la taxe sur la publicité. Toutefois,
+elle doit être acquittée par le redevable avant le 15 septembre [*date*] de l'année d'imposition.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°77-91 1977-01-27
+
+	**Cité par**:
+
+	  - CODE DES COMMUNES. - art. R233-113 (Ab)
+
+	**Cite**:
+
+	  - CODE DES COMMUNES. - art. R233-31 (M)
+
+	**Nouveaux textes**:
+
+	  - Code général des collectivités territoriales - art. R2333-39 (VT)
+
+
+###### Article R233-113
+
+Lorsqu'un emplacement publicitaire n'a fait l'objet d'aucune déclaration à la date du 1er mars [*date*] de l'année
+d'imposition, le maire met en demeure l'exploitant ou, à défaut, le propriétaire de l'emplacement, par lettre recommandée
+avec demande d'avis de réception, de souscrire une déclaration dans les trente jours.
+
+Faute de déclaration dans ce délai, le maire établit d'office, suivant les éléments en sa possession, l'assiette et le
+montant de la taxe. Il la met en recouvrement dans les conditions prévues par l'article R. 233-31 pour la taxe sur la
+publicité.
+
+La procédure de recouvrement d'office instituée par le présent article ne fait pas obstacle à l'application des sanctions
+prévues par l'article R. 233-114, même lorsque la taxe est acquittée avant le 15 septembre de l'année d'imposition.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°77-91 1977-01-27
+
+	**Cite**:
+
+	  - CODE DES COMMUNES. - art. R233-114 (Ab)
+	  - CODE DES COMMUNES. - art. R233-31 (M)
+
+	**Nouveaux textes**:
+
+	  - Code général des collectivités territoriales - art. R2333-40 (VT)
 
 
 ##### Taxes particulières aux stations
