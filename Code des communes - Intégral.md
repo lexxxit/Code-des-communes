@@ -1,5 +1,5 @@
 # Code des communes  
-Version Consolidée au 1982-08-05
+Version Consolidée au 1982-11-16
 
 # ORGANISATION COMMUNALE
 
@@ -67610,6 +67610,35 @@ des ministres intéressés [*compétence*].
 	  - CODE DES COMMUNES. - art. L233-38 (Ab)
 
 
+###### Article R*233-44
+
+La taxe de séjour est perçue aux tarifs suivants :
+
+Hôtels de tourisme quatre étoiles et quatre étoiles luxe, villas et meublés hors classe : entre 4 F et 5 F par jour et par
+personne ;
+
+Hôtels de tourisme trois étoiles, villas et meublés de 1ère catégorie : entre 3 F et 4 F par jour et par personne ;
+
+Hôtels de tourisme deux étoiles, villas et meublés de 2ème catégorie : entre 2 F et 3 F par jour et par personne ;
+
+Hôtels de tourisme une étoile, villas et meublés de 3ème catégorie : entre 1 F et 2 F par jour et par personne ;
+
+Hôtels non classés "tourisme", villas et meublés de 4ème catégorie, terrains de camping, terrains de caravaning, villages de
+vacances, gîtes ruraux privés, gîtes communaux et tous autres établissements : 1 F par jour et par personne.
+
+Ces chiffres ne comprennent pas la surtaxe départementale dans les stations où celle-ci est perçue.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°58-1268 1958-12-17 ART. 1 AL. 1 MODIFIE
+
+	**Codifié par**:
+
+	  - Décret n°77-91 1977-01-27
+
+
 ###### Article R*233-46
 
 La taxe n'est pas perçue dans les colonies et centres de vacances collectives d'enfants tels qu'ils sont définis par arrêté
@@ -68350,43 +68379,6 @@ de séjour est pris sur la proposition du ministre ayant l'initiative de classem
 
 
 ##### Tarifs de la taxe de séjour.
-
-###### Article R*233-44
-
-La taxe de séjour est perçue aux tarifs suivants :
-
-Hôtels de tourisme quatre étoiles, villas et meublés hors classe :
-
-0,50 F [*francs*] par personne et par jour. 
-
-Hôtels de tourisme trois étoiles, villas et meublés 1ère catégorie : 0,40 F par personne et par jour. 
-
-Hôtels de tourisme deux étoiles, villas et meublés 2ème catégorie : 0,30 F par personne et par jour. 
-
-Hôtels de tourisme une étoile, villas et meublés 3ème catégorie :
-
-0,20 F par personne et par jour. 
-
-Hôtels non classés "tourisme", villas et meublés 4ème catégorie, terrains de camping et tous autres établissements :
-
-0,08 F par personne et par jour. 
-
-Ces chiffres ne comprennent pas la surtaxe départementale dans les stations où celle-ci est perçue.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°58-1268 1958-12-17 art. 1 al. 1 modifié
-
-	**Codifié par**:
-
-	  - Décret n°77-91 1977-01-27
-
-	**Créé par**:
-
-	  - Décret n°77-91 1977-01-27 JORF et JONC 3 février 1977 date d'entrée en vigueur élection des maires
-
 
 ###### Article R*233-48
 
