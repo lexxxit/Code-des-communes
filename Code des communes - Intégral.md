@@ -1,5 +1,5 @@
 # Code des communes  
-Version Consolidée au 1987-01-31
+Version Consolidée au 1987-02-18
 
 # Statuts types d'une caisse communale de secours et de retraite de sapeurs-pompiers
 
@@ -54064,6 +54064,40 @@ chaque semestre de l'exercice considéré.
 
 ##### SECTION 3 : Majorations de subvention d'équipement.
 
+###### Article R253-7
+
+Les subventions d'équipement attribuées par l'Etat pour les opérations entreprises par les communautés urbaines sont majorées
+de 25 p. 100 [*pourcentage*] sans que l'ensemble de la subvention puisse excéder 80 p. 100 du montant de la dépense
+subventionnable.
+
+Les majorations de subvention sont attribuées par le préfet[*compétence*].
+
+Des crédits lui sont délégués à cet effet par le ministre de l'intérieur.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - SPEC_APPLI: *Dispositions non applicables aux communes des départements de la Guadeloupe, de la Guyane, de la Martinique, de la Réunion et de Saint-Pierre-et-Miquelon*
+	  - SPEC_APPLI: Code des communes R262-1, R262-12 :
+
+	**Anciens textes**:
+
+	  - Décret n°71-1063 1971-12-24 art. 1
+
+	**Codifié par**:
+
+	  - Décret n°77-91 1977-01-27
+
+	**Créé par**:
+
+	  - Décret n°87-103 1987-02-14 art. 1 jorf 18 février 1987
+
+	**Abrogé par**:
+
+	  - Décret n°2000-318 du 7 avril 2000 - art. 4 (V)
+
+
 ###### Article R253-8
 
 Les majorations de subvention d'équipement prévues à l'article précédent sont attribuées pendant un délai de cinq ans à
@@ -58100,42 +58134,6 @@ affecté du coefficient 1.
 
 	  - SPEC_APPLI: Loi n°80-1102 1980-12-31 :
 	  - SPEC_APPLI: Code des communes R262-1, R262-12 : *Dispositions non applicables aux communes des départements de la Guadeloupe, de la Martinique, de la Guyane, de la Réunion et de Saint-Pierre-et-Miquelon*
-
-
-### Dispositions applicables à certains établissements communaux
-
-#### Dispositions applicables à la communauté urbaine
-
-##### Majorations de subvention d'équipement .
-
-###### Article R253-7
-
-Les subventions d'équipement attribuées par l'Etat pour les opérations entreprises par les communautés urbaines sont majorées
-de 33 p. 100 [*pourcentage*] sans que l'ensemble de la subvention puisse excéder 80 p. 100 du montant de la dépense
-subventionnable. 
-
-Les majorations de subvention sont attribuées par le préfet [*compétence*] . 
-
-Des crédits lui sont délégués à cet effet par le ministre de l'intérieur.
-
-**Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - SPEC_APPLI: *Dispositions non applicables aux communes des départements de la Guadeloupe, de la Guyane, de la Martinique, de la Réunion et de Saint-Pierre-et-Miquelon*
-	  - SPEC_APPLI: Code des communes R262-1, R262-12 :
-
-	**Anciens textes**:
-
-	  - Décret n°71-1063 1971-12-24 art. 1
-
-	**Codifié par**:
-
-	  - Décret n°77-91 1977-01-27
-
-	**Créé par**:
-
-	  - Décret n°77-91 1977-01-27 JORF et JONC 3 février 1977 date d'entrée en vigueur élection des maires
 
 
 ### DISPOSITIONS PARTICULIERES
