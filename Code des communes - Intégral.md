@@ -1,5 +1,5 @@
 # Code des communes  
-Version Consolidée au 1980-05-20
+Version Consolidée au 1980-06-14
 
 # ORGANISATION COMMUNALE
 
@@ -45394,6 +45394,22 @@ notamment la durée du service continu exigée sont déterminées par voie régl
 	**Cite**:
 
 	  - Code du travail L351-18 al. 3
+
+
+###### Article L422-9
+
+Un décret fixe les conditions dans lesquelles les dispositions relatives au congé parental d'éducation s'appliquent aux
+agents non titulaires des communes et de leurs établissements publics.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°77-372 1977-03-28
+
+	**Abrogé par**:
+
+	  - Loi n°84-53 1984-01-26 ART. 119 JORF 27 JANVIER 1984
 
 
 #### Indemnités accordées sur les budgets communaux aux fonctionnaires de l'Etat
