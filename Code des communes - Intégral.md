@@ -1,5 +1,5 @@
 # Code des communes  
-Version Consolidée au 1988-04-24
+Version Consolidée au 1988-05-06
 
 # Statuts types d'une caisse communale de secours et de retraite de sapeurs-pompiers
 
@@ -49223,6 +49223,127 @@ d'intérêt général ou local et excluant toute publicité commerciale directe 
 
 ##### SOUS-SECTION 4 : Recouvrement et paiement de la taxe.
 
+###### Article R233-111
+
+La déclaration prévue à l'article L. 233-84 du code des communes, souscrite par l'exploitant, ou, à défaut, par le
+propriétaire d'emplacements publicitaires fixes, est déposée à la mairie de la commune sur le territoire de laquelle ils sont
+situés avant le 1er mars de l'année d'imposition pour les emplacements existants au 1er janvier de la même année et dans les
+deux mois à compter de leur installation pour les emplacements créés après cette date.
+
+Cette déclaration contient notamment les énonciations suivantes :
+
+1° Les nom, prénoms et raison sociale ainsi que le domicile ou le siège social du déclarant ;
+
+2° La localisation exacte de chaque emplacement publicitaire passible de la taxe ;
+
+3° La nature de chaque emplacement, selon les catégories définies à l'article L. 233-83 ;
+
+4° Pour chaque emplacement, la superficie utilisable pour recevoir des annonces publicitaires et déterminée dans les
+conditions prévues à l'article R. 233-109.
+
+Le maire peut établir un modèle de déclaration récapitulant les renseignements nécessaires à l'assiette et au recouvrement de
+la taxe. Ce modèle est alors mis à la disposition du déclarant par les services municipaux.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°77-91 1977-01-27
+
+	**Modifié par**:
+
+	  - Décret n°88-513 1988-05-04 art. 1 jorf 6 mai 1988
+
+	**Abrogé par**:
+
+	  - Décret n°2000-318 du 7 avril 2000 - art. 4 (V)
+
+	**Cite**:
+
+	  - CODE DES COMMUNES. - art. L233-83 (M)
+	  - CODE DES COMMUNES. - art. L233-84 (M)
+	  - Code des communes L233-83, L233-84, L233-109
+
+	**Cité par**:
+
+	  - CODE DES COMMUNES. - art. R233-113 (Ab)
+	  - CODE DES COMMUNES. - art. R233-114 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code général des collectivités territoriales - art. R2333-38 (VT)
+
+
+###### Article R233-112
+
+La taxe est recouvrée selon les modalités prévues par l'article R. 233-31 pour la taxe sur la publicité.
+
+Toutefois, elle est acquittée par le redevable avant le 15 septembre de l'année d'imposition pour les emplacements existants
+au 1er janvier ou créés avant le 15 juin [*date*]. Pour les emplacements créés après cette date, la taxe doit être acquittée
+au plus tard dans le mois qui suit la date limite prévue au premier alinéa de l'article R. 233-111 du présent code pour
+souscrire la déclaration instituée par l'article L. 233-84 du même code.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°77-91 1977-01-27
+
+	**Modifié par**:
+
+	  - Décret n°88-513 1988-05-04 art. 2 jorf 6 mai 1988
+
+	**Abrogé par**:
+
+	  - Décret n°2000-318 du 7 avril 2000 - art. 4 (V)
+
+	**Cite**:
+
+	  - CODE DES COMMUNES. - art. L233-84 (M)
+	  - CODE DES COMMUNES. - art. R233-31 (M)
+
+	**Cité par**:
+
+	  - CODE DES COMMUNES. - art. R233-113 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code général des collectivités territoriales - art. R2333-39 (VT)
+
+
+###### Article R233-113
+
+Lorsqu'un emplacement publicitaire n'a fait l'objet d'aucune déclaration dans les délais prévus au premier alinéa de
+l'article R. 233-111 du présent code, le maire met en demeure le redevable par lettre recommandée, avec demande d'avis de
+réception, de souscrire une déclaration dans les trente jours.
+
+Faute de déclaration dans ce délai, le maire établit d'office, suivant les éléments en sa possession, l'assiette et le
+montant de la taxe. Il la met en recouvrement dans les conditions prévues à l'article R. 233-112.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°77-91 1977-01-27
+
+	**Modifié par**:
+
+	  - Décret n°88-513 1988-05-04 art. 3 jorf 6 mai 1988
+
+	**Abrogé par**:
+
+	  - Décret n°2000-318 du 7 avril 2000 - art. 4 (V)
+
+	**Cite**:
+
+	  - CODE DES COMMUNES. - art. R233-111 (M)
+	  - CODE DES COMMUNES. - art. R233-112 (M)
+
+	**Nouveaux textes**:
+
+	  - Code général des collectivités territoriales - art. R2333-40 (VT)
+
+
 ###### Article R233-114
 
 Sont punis des peines [*sanctions*] prévues pour les contraventions de la 1ère classe le fait de ne pas avoir déclaré un
@@ -49250,6 +49371,33 @@ inexacte ou incomplète. Chaque emplacement donne lieu à une infraction distinc
 	**Nouveaux textes**:
 
 	  - Code général des collectivités territoriales - art. R2333-41 (VT)
+
+
+###### Article R233-115
+
+Lorsqu'un emplacement est supprimé sur décision administrative, le redevable avise le maire de la date d'enlèvement effectif
+de l'emplacement dans les quinze jours suivant celle-ci [*délai*].
+
+Le montant de la cotisation due par le redevable est calculé sur la base de la durée pendant laquelle l'emplacement
+publicitaire fixe a été installé.
+
+Si la taxe a déjà été versée, il est procédé à la restitution, dans les deux mois qui suivent la suppression effective de
+l'emplacement, de la partie de cotisation correspondant à la fraction de l'année restant à courir à compter de la date de la
+suppression.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°77-91 1977-01-27
+
+	**Créé par**:
+
+	  - Décret n°88-513 1988-05-04 art. 4 JORF 6 mai 1988
+
+	**Abrogé par**:
+
+	  - Décret n°2000-318 du 7 avril 2000 - art. 4 (V)
 
 
 #### CHAPITRE 4 : Dotation globale de fonctionnement et autres recettes réparties par le comité des finances locales
@@ -57935,107 +58083,6 @@ conditions de forme*].
 ## FINANCES COMMUNALES
 
 ### RECETTES
-
-#### Taxes, redevances ou versements autres que ceux prévus par le code général des Impôts
-
-##### Taxe communale sur les emplacements publicitaires fixes
-
-##### Recouvrement et paiement de la taxe .
-
-###### Article R233-111
-
-La déclaration prévue par l'article L. 233-84 du code est souscrite par l'exploitant ou, à défaut, par le propriétaire d'un
-ou des emplacements publicitaires fixes existant au 1er janvier. Elle est déposée avant le 1er mars de l'année d'imposition à
-la mairie de la commune sur le territoire de laquelle sont situés le ou les emplacements publicitaires.
-
-Cette déclaration contient notamment les énonciations suivantes :
-
-1° Les nom, prénoms et raison sociale ainsi que le domicile ou le siège social du déclarant ;
-
-2° La localisation exacte de chaque emplacement publicitaire passible de la taxe ;
-
-3° La nature de chaque emplacement, selon les catégories définies à l'article L. 233-83 ;
-
-4° Pour chaque emplacement, la superficie utilisable pour recevoir des annonces publicitaires et déterminée dans les
-conditions prévues à l'article R. 233-109.
-
-Le maire peut établir un modèle de déclaration récapitulant les renseignements nécessaires à l'assiette et au recouvrement de
-la taxe. Ce modèle est alors mis à la disposition du déclarant par les services municipaux.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°77-91 1977-01-27
-
-	**Cite**:
-
-	  - CODE DES COMMUNES. - art. L233-83 (M)
-	  - CODE DES COMMUNES. - art. L233-84 (M)
-	  - Code des communes L233-83, L233-84, L233-109
-
-	**Cité par**:
-
-	  - CODE DES COMMUNES. - art. R233-113 (Ab)
-	  - CODE DES COMMUNES. - art. R233-114 (Ab)
-
-	**Nouveaux textes**:
-
-	  - Code général des collectivités territoriales - art. R2333-38 (VT)
-
-
-###### Article R233-112
-
-La taxe est recouvrée selon les modalités pratiques prévues par l'article R. 233-31 pour la taxe sur la publicité. Toutefois,
-elle doit être acquittée par le redevable avant le 15 septembre [*date*] de l'année d'imposition.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°77-91 1977-01-27
-
-	**Cité par**:
-
-	  - CODE DES COMMUNES. - art. R233-113 (Ab)
-
-	**Cite**:
-
-	  - CODE DES COMMUNES. - art. R233-31 (M)
-
-	**Nouveaux textes**:
-
-	  - Code général des collectivités territoriales - art. R2333-39 (VT)
-
-
-###### Article R233-113
-
-Lorsqu'un emplacement publicitaire n'a fait l'objet d'aucune déclaration à la date du 1er mars [*date*] de l'année
-d'imposition, le maire met en demeure l'exploitant ou, à défaut, le propriétaire de l'emplacement, par lettre recommandée
-avec demande d'avis de réception, de souscrire une déclaration dans les trente jours.
-
-Faute de déclaration dans ce délai, le maire établit d'office, suivant les éléments en sa possession, l'assiette et le
-montant de la taxe. Il la met en recouvrement dans les conditions prévues par l'article R. 233-31 pour la taxe sur la
-publicité.
-
-La procédure de recouvrement d'office instituée par le présent article ne fait pas obstacle à l'application des sanctions
-prévues par l'article R. 233-114, même lorsque la taxe est acquittée avant le 15 septembre de l'année d'imposition.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°77-91 1977-01-27
-
-	**Cite**:
-
-	  - CODE DES COMMUNES. - art. R233-114 (Ab)
-	  - CODE DES COMMUNES. - art. R233-31 (M)
-
-	**Nouveaux textes**:
-
-	  - Code général des collectivités territoriales - art. R2333-40 (VT)
-
 
 #### Dotation globale de fonctionnement et autres recettes réparties par le comité des finances locales
 
