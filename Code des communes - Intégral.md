@@ -1,5 +1,5 @@
 # Code des communes  
-Version Consolidée au 1993-07-17
+Version Consolidée au 1993-07-23
 
 # Partie législative
 
@@ -82448,6 +82448,56 @@ report de limite d'âge au titre des charges de famille.
 	  - CODE DES COMMUNES. - art. L412-9 (Ab)
 
 
+###### Article R412-2
+
+Nul ne peut être nommé à un emploi communal :
+
+1° S'il ne possède la nationalité française, sous réserve des incapacités prévues par le code civil;
+
+2° S'il ne jouit de ses droits civiques et s'il n'est de bonne moralité ;
+
+3° S'il ne se trouve en position régulière au regard des dispositions du code sur le service national.
+
+Toutefois, les conditions énumérées au précédent alinéa n'excluent pas la nomination de jeunes Français âgés de plus de seize
+ans ;
+
+4° S'il ne remplit les conditions d'aptitude physiques exigées pour l'exercice de la fonction et s'il n'est reconnu soit
+indemne de toute affection tuberculeuse, cancéreuse ou mentale, soit définitivement guéri.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°62-544 1962-05-05 ART. 3 AL. 1
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Loi n°78-753 1978-07-17
+
+	**Cité par**:
+
+	  - Arrêté du 19 avril 1982 - art. 1 (V)
+	  - Arrêté du 21 mars 1983 - art. 1 (V)
+	  - Arrêté du 12 août 1974 - art. 1 (Ab)
+	  - Arrêté du 26 novembre 1976 - art. 1 (Ab)
+
+	**Modifié par**:
+
+	  - Loi n°93-933 du 22 juillet 1993 - art. 50 ()
+
+	**Cite**:
+
+	  - Code civil
+
+
 ###### Article R412-3
 
 Le candidat justifie de son aptitude à remplir l'emploi qu'il postule.
@@ -87701,6 +87751,39 @@ particuliers.
 	**Cite**:
 
 	  - Code des communes R444-29 A R444-36
+
+
+###### Article R*444-29
+
+Nul ne peut être nommé à un emploi permanent de la commune de Paris et de ses établissements publics mentionnés à l'article
+R. 444-1 : 
+
+1° S'il ne possède la nationalité française, ou s'il est frappé des incapacités prévues par le code civil;
+
+2° S'il ne jouit de ses droits civiques et s'il n'est de bonne moralité ;
+
+3° S'il ne se trouve en position régulière au regard des dispositions du code du service national ;
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°76-1041 1976-11-16 ART. 27
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Modifié par**:
+
+	  - Décret n°87-602 du 30 juillet 1987 - art. 42 (V) JORF 1er août 1987
+	  - Loi n°93-933 du 22 juillet 1993 - art. 50 () JORF 23 juillet 1993
+
+	**Cite**:
+
+	  - Code des communes R444-1
+	  - Code civil
+	  - Code du service national
 
 
 ###### Article R*444-30
