@@ -1,5 +1,5 @@
 # Code des communes  
-Version Consolidée au 1992-08-04
+Version Consolidée au 1992-11-17
 
 # Partie législative
 
@@ -39557,6 +39557,719 @@ hospices.
 	**Abrogé par**:
 
 	  - Décret n°2000-318 du 7 avril 2000 - art. 4 (V)
+
+	**Nouveaux textes**:
+
+	  - Code général des collectivités territoriales L
+
+
+##### SECTION 6 : Garanties accordées aux membres des conseils municipaux dans l'exercice de leur mandat.
+
+###### Article R*121-16
+
+Afin de bénéficier du temps nécessaire pour se rendre et participer aux séances et réunions visées à l'article L. 121-36,
+l'élu membre d'un conseil municipal, qui a la qualité de salarié, informe son employeur par écrit, dès qu'il en a
+connaissance, de la date et de la durée de la ou des absences envisagées.
+
+**Liens relatifs à cet article**
+
+	**Nouveaux textes**:
+
+	  - Code général des collectivités territoriales L
+
+	**Codifié par**:
+
+	  - Décret n°77-91 1977-01-27
+
+	**Créé par**:
+
+	  - Décret n°92-1205 du 16 novembre 1992 - art. 1 () JORF 17 novembre 1992
+
+	**Abrogé par**:
+
+	  - Décret n°2000-318 du 7 avril 2000 - art. 4 (V)
+
+	**Cite**:
+
+	  - CODE DES COMMUNES. - art. L121-36 (Ab)
+
+
+###### Article R*121-17
+
+Les dispositions de l'article R. 121-16 sont applicables, lorsqu'ils ne bénéficient pas de dispositions plus favorables, aux
+fonctionnaires régis par les titres Ier à IV du statut général des fonctionnaires de l'Etat et des collectivités
+territoriales, ainsi qu'aux agents contractuels de l'Etat, des collectivités territoriales et de leurs établissements publics
+administratifs qui exercent des fonctions publiques électives.
+
+**Liens relatifs à cet article**
+
+	**Nouveaux textes**:
+
+	  - Code général des collectivités territoriales L
+
+	**Codifié par**:
+
+	  - Décret n°77-91 1977-01-27
+
+	**Créé par**:
+
+	  - Décret n°92-1205 du 16 novembre 1992 - art. 1 () JORF 17 novembre 1992
+
+	**Abrogé par**:
+
+	  - Décret n°2000-318 du 7 avril 2000 - art. 4 (V)
+
+	**Cite**:
+
+	  - CODE DES COMMUNES R121-16
+
+
+###### Article R*121-18
+
+Pour bénéficier de la compensation financière prévue à l'article L. 121-37, l'élu qui ne perçoit pas d'indemnité de fonction
+et qui a la qualité de salarié doit justifier auprès de la collectivité concernée qu'il a subi une diminution de rémunération
+du fait de l'assistance aux séances et réunions prévues à l'article L. 121-36.
+
+Les fonctionnaires régis par les titres Ier à IV du statut général des fonctionnaires de l'Etat et des collectivités
+territoriales ainsi que les agents contractuels de l'Etat, des collectivités territoriales et de leurs établissements publics
+administratifs qui exercent des fonctions publiques électives ne donnant pas lieu au versement d'indemnités de fonction,
+lorsqu'ils subissent une réduction de leur traitement du fait de l'assistance à ces séances et réunions, peuvent bénéficier,
+sous réserve de justifier de la diminution de leur rémunération, de la compensation financière prévue à l'article L. 121-37.
+
+**Liens relatifs à cet article**
+
+	**Nouveaux textes**:
+
+	  - Code général des collectivités territoriales L
+
+	**Codifié par**:
+
+	  - Décret n°77-91 1977-01-27
+
+	**Créé par**:
+
+	  - Décret n°92-1205 du 16 novembre 1992 - art. 1 () JORF 17 novembre 1992
+
+	**Abrogé par**:
+
+	  - Décret n°2000-318 du 7 avril 2000 - art. 4 (V)
+
+	**Cite**:
+
+	  - CODE DES COMMUNES. - art. L121-36 (Ab)
+	  - CODE DES COMMUNES. - art. L121-37 (Ab)
+
+
+###### Article R*121-19
+
+Afin de bénéficier du crédit d'heures prévu à l'article L. 121-38, l'élu membre d'un conseil municipal informe son employeur
+par écrit trois jours au moins avant son absence en précisant la date et la durée de l'absence envisagée ainsi que la durée
+du crédit d'heures à laquelle il a encore droit au titre du trimestre en cours.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CODE DES COMMUNES. - art. L121-38 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code général des collectivités territoriales L
+
+	**Codifié par**:
+
+	  - Décret n°77-91 1977-01-27
+
+	**Créé par**:
+
+	  - Décret n°92-1205 du 16 novembre 1992 - art. 1 () JORF 17 novembre 1992
+
+	**Abrogé par**:
+
+	  - Décret n°2000-318 du 7 avril 2000 - art. 4 (V)
+
+
+###### Article R*121-20
+
+Les dispositions de l'article R. 121-19 sont applicables, lorsqu'ils ne bénéficient pas de dispositions plus favorables, aux
+fonctionnaires régis par les titres Ier à IV du statut général des fonctionnaires de l'Etat et des collectivités
+territoriales ainsi qu'aux agents contractuels de l'Etat, des collectivités territoriales et de leurs établissements publics
+administratifs qui exercent des fonctions publiques électives.
+
+**Liens relatifs à cet article**
+
+	**Nouveaux textes**:
+
+	  - Code général des collectivités territoriales L
+
+	**Codifié par**:
+
+	  - Décret n°77-91 1977-01-27
+
+	**Créé par**:
+
+	  - Décret n°92-1205 du 16 novembre 1992 - art. 1 () JORF 17 novembre 1992
+
+	**Abrogé par**:
+
+	  - Décret n°2000-318 du 7 avril 2000 - art. 4 (V)
+
+
+###### Article R*121-21
+
+La durée du crédit d'heures pour un trimestre est égale :
+
+1° A cent dix-sept heures pour les maires des villes d'au moins 10 000 habitants et les adjoints au maire des communes d'au
+moins 30 000 habitants ;
+
+2° A cinquante-huit heures trente pour les maires des communes de moins de 10 000 habitants et les adjoints au maire des
+communes de 10 000 à 29 999 habitants ;
+
+3° A vingt-trois heures trente pour les conseillers municipaux des villes d'au moins 100 000 habitants et les adjoints au
+maire des villes de moins de 10 000 habitants.
+
+**Liens relatifs à cet article**
+
+	**Nouveaux textes**:
+
+	  - Code général des collectivités territoriales L
+
+	**Codifié par**:
+
+	  - Décret n°77-91 1977-01-27
+
+	**Créé par**:
+
+	  - Décret n°92-1205 du 16 novembre 1992 - art. 1 () JORF 17 novembre 1992
+
+	**Abrogé par**:
+
+	  - Décret n°2000-318 du 7 avril 2000 - art. 4 (V)
+
+
+###### Article R*121-22
+
+Compte tenu des nécessités du service public d'enseignement, le service hebdomadaire des personnels appartenant à des corps
+ou cadres d'emploi d'enseignant, qui bénéficient d'un crédit d'heures conformément à l'article L. 121-38, fait l'objet d'un
+aménagement en début d'année scolaire.
+
+La durée du crédit d'heures est répartie entre le temps de service effectué en présence des élèves leur incombant
+statutairement et le temps complémentaire de service dont ils sont redevables en application de l'article 2 du décret n°
+85-1022 du 24 septembre 1985.
+
+La partie du crédit d'heures imputable sur le temps du service effectué en présence des élèves est obtenue en pondérant le
+crédit d'heures par le rapport entre la durée du temps de service effectué en présence des élèves et la durée fixée à
+l'article 2 du décret n° 85-1022 du 24 septembre 1985 précité.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CODE DES COMMUNES. - art. L121-38 (Ab)
+	  - Décret n°85-1022 1985-09-24 art. 2
+
+	**Nouveaux textes**:
+
+	  - Code général des collectivités territoriales L
+
+	**Codifié par**:
+
+	  - Décret n°77-91 1977-01-27
+
+	**Créé par**:
+
+	  - Décret n°92-1205 du 16 novembre 1992 - art. 1 () JORF 17 novembre 1992
+
+	**Abrogé par**:
+
+	  - Décret n°2000-318 du 7 avril 2000 - art. 4 (V)
+
+
+###### Article R*121-23
+
+La majoration de la durée du crédit d'heures prévue à l'article L. 121-39 ne peut dépasser 30 p. 100 par élu.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°77-91 1977-01-27
+
+	**Créé par**:
+
+	  - Décret n°92-1205 du 16 novembre 1992 - art. 1 () JORF 17 novembre 1992
+
+	**Abrogé par**:
+
+	  - Décret n°2000-318 du 7 avril 2000 - art. 4 (V)
+
+	**Cite**:
+
+	  - CODE DES COMMUNES. - art. L121-39 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code général des collectivités territoriales L
+
+
+###### Article R*121-24
+
+Pour fixer le temps d'absence maximum auquel les élus qui ont la qualité de salarié ont droit en application de l'article L.
+121-40, la durée légale du travail pour une année civile s'apprécie sur la base de la durée hebdomadaire légale fixée par
+l'article L. 212-1 du code du travail, en décomptant cinq semaines de congés payés ainsi que les jours fériés.
+
+Toutefois, lorsqu'il est dérogé à cette durée soit par des décrets en conseil des ministres, soit par convention ou accord
+collectif dans les conditions prévues à l'article L. 212-2 du code du travail, il est tenu compte de la durée du travail
+telle qu'elle résulte de ces dérogations.
+
+La durée hebdomadaire du travail prise en compte pour les salariés régis par un contrat de travail temporaire est celle fixée
+dans ce contrat en application du 4° de l'article L. 124-3 du code du travail.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°77-91 1977-01-27
+
+	**Cite**:
+
+	  - CODE DES COMMUNES. - art. L121-40 (Ab)
+	  - Code du travail - art. L124-3 (M)
+	  - Code du travail - art. L212-1 (M)
+	  - Code du travail - art. L212-2 (M)
+
+	**Nouveaux textes**:
+
+	  - Code général des collectivités territoriales L
+
+	**Créé par**:
+
+	  - Décret n°92-1205 1992-11-17 ART. 1 JORF 17 novembre 1992
+
+	**Abrogé par**:
+
+	  - Décret n°2000-318 du 7 avril 2000 - art. 4 (V)
+
+
+###### Article R*121-25
+
+Pour fixer le temps d'absence maximum auquel ont droit, en application de l'article L. 121-40, les élus qui ont la qualité de
+fonctionnaires régis par les titres Ier à IV du statut général des fonctionnaires de l'Etat et des collectivités
+territoriales ou d'agents contractuels de l'Etat, des collectivités territoriales et de leurs établissements publics
+administratifs, la durée légale du travail pour une année civile s'apprécie sur la base de la durée fixée à l'article 2 du
+décret n° 85-1022 du 24 septembre 1985, en décomptant cinq semaines de congés payés ainsi que les jours fériés.
+
+**Liens relatifs à cet article**
+
+	**Nouveaux textes**:
+
+	  - Code général des collectivités territoriales L
+
+	**Codifié par**:
+
+	  - Décret n°77-91 1977-01-27
+
+	**Créé par**:
+
+	  - Décret n°92-1205 du 16 novembre 1992 - art. 1 () JORF 17 novembre 1992
+
+	**Abrogé par**:
+
+	  - Décret n°2000-318 du 7 avril 2000 - art. 4 (V)
+
+
+###### Article R*121-26
+
+En cas de travail à temps partiel, le crédit d'heures est réduit au prorata du rapport entre les horaires inscrits au contrat
+de travail du salarié concerné, selon les dispositions de l'article L. 212-4-3 du code du travail, et la durée hebdomadaire
+du travail définie aux articles R. 121-24 et R. 121-25 du présent code.
+
+Dans le cas d'un fonctionnaire régi par les titres Ier à IV du statut général des fonctionnaires de l'Etat et des
+collectivités territoriales ou d'un agent contractuel de l'Etat, d'une collectivité territoriale, et de leurs établissements
+publics administratifs, le crédit d'heures est réduit au prorata du rapport entre la durée du service à temps partiel et la
+durée hebdomadaire du travail prévue à l'article 2 du décret n° 85-1022 du 24 septembre 1985.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°77-91 1977-01-27
+
+	**Cite**:
+
+	  - Décret n°85-1022 1985-09-24 art. 2
+	  - CODE DES COMMUNES R121-24, R121-25
+	  - Code du travail - art. L212-4-3 (M)
+
+	**Créé par**:
+
+	  - Décret n°92-1205 du 16 novembre 1992 - art. 1 () JORF 17 novembre 1992
+
+	**Abrogé par**:
+
+	  - Décret n°2000-318 du 7 avril 2000 - art. 4 (V)
+
+	**Nouveaux textes**:
+
+	  - Code général des collectivités territoriales L
+
+
+###### Article R*121-27
+
+Pour l'application des dispositions de l'article L. 121-38, le président, les vice-présidents et les membres d'un des
+établissements publics de coopération intercommunale mentionnés aux articles L. 163-1, L. 164-1, L. 165-1, L. 166-5, L.
+167-1, L. 168-1 et L. 171-1 sont, lorsqu'ils n'exercent pas de mandat municipal, assimilés respectivement aux maire, adjoints
+au maire et conseillers municipaux de la commune la plus peuplée membre de l'établissement public de coopération
+intercommunale concerné.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°77-91 1977-01-27
+
+	**Créé par**:
+
+	  - Décret n°92-1205 du 16 novembre 1992 - art. 1 () JORF 17 novembre 1992
+
+	**Cite**:
+
+	  - CODE DES COMMUNES. - art. L121-38 (Ab)
+	  - CODE DES COMMUNES. - art. L163-1 (M)
+	  - CODE DES COMMUNES. - art. L164-1 (M)
+	  - CODE DES COMMUNES. - art. L165-1 (M)
+	  - CODE DES COMMUNES. - art. L166-5 (Ab)
+	  - CODE DES COMMUNES. - art. L167-1 (Ab)
+	  - CODE DES COMMUNES. - art. L168-1 (Ab)
+	  - CODE DES COMMUNES. - art. L171-1 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code général des collectivités territoriales L
+
+
+##### SECTION 8 : Droit à la formation
+
+##### SOUS-SECTION 1 : Dispositions générales
+
+###### Article R*121-28
+
+La prise en charge par la commune des dépenses liées à l'exercice du droit des élus locaux à la formation, dans les
+conditions prévues aux articles L. 121-46 à L. 121-49, ne peut intervenir que si l'organisme dispensateur du stage ou de la
+session a reçu un agrément délivré par le ministre de l'intérieur dans les conditions fixées par le décret n° 92-1207 du 16
+novembre 1992.
+
+**Liens relatifs à cet article**
+
+	**Nouveaux textes**:
+
+	  - Code général des collectivités territoriales L
+
+	**Codifié par**:
+
+	  - Décret n°77-91 1977-01-27
+
+	**Cite**:
+
+	  - Décret n°92-1207 1992-11-16
+	  - CODE DES COMMUNES L121-46 à L121-49
+
+	**Créé par**:
+
+	  - Décret n°92-1208 du 16 novembre 1992 - art. 1 () JORF 17 novembre 1992
+
+	**Cité par**:
+
+	  - Décret n°92-1208 du 16 novembre 1992 - art. 14 (VD)
+
+	**Abrogé par**:
+
+	  - Décret n°2000-318 du 7 avril 2000 - art. 4 (V)
+
+
+###### Article R*121-29
+
+Les frais de déplacement des élus municipaux sont pris en charge par la commune dans les conditions définies par le décret n°
+90-437 du 28 mai 1990.
+
+**Liens relatifs à cet article**
+
+	**Nouveaux textes**:
+
+	  - Code général des collectivités territoriales L
+
+	**Codifié par**:
+
+	  - Décret n°77-91 1977-01-27
+
+	**Cite**:
+
+	  - Décret n°90-437 1990-05-28
+
+	**Créé par**:
+
+	  - Décret n°92-1208 du 16 novembre 1992 - art. 1 () JORF 17 novembre 1992
+
+	**Abrogé par**:
+
+	  - Décret n°2000-318 du 7 avril 2000 - art. 4 (V)
+
+
+###### Article R*121-30
+
+Pour bénéficier de la prise en charge prévue à l'article L. 121-47, l'élu doit justifier auprès de la commune concernée qu'il
+a subi une diminution de revenu du fait de l'exercice de son droit à la formation.
+
+**Liens relatifs à cet article**
+
+	**Nouveaux textes**:
+
+	  - Code général des collectivités territoriales L
+
+	**Codifié par**:
+
+	  - Décret n°77-91 1977-01-27
+
+	**Créé par**:
+
+	  - Décret n°92-1208 du 16 novembre 1992 - art. 1 () JORF 17 novembre 1992
+
+	**Abrogé par**:
+
+	  - Décret n°2000-318 du 7 avril 2000 - art. 4 (V)
+
+	**Cite**:
+
+	  - CODE DES COMMUNES. - art. L121-47 (Ab)
+
+
+##### SOUS-SECTION 2 : Dispositions applicables aux élus salariés
+
+###### Article R*121-31
+
+Le membre du conseil municipal qui a la qualité de salarié doit, lorsqu'il souhaite bénéficier du congé de formation visé à
+l'article L. 121-48, présenter par écrit sa demande à son employeur trente jours au moins à l'avance en précisant la date et
+la durée de l'absence envisagée à ce titre, ainsi que la désignation de l'organisme responsable du stage ou de la session.
+L'employeur accuse réception de cette demande.
+
+A défaut de réponse expresse notifiée au plus tard le quinzième jour qui précède le début du stage ou de la session, le congé
+est réputé accordé.
+
+**Liens relatifs à cet article**
+
+	**Nouveaux textes**:
+
+	  - Code général des collectivités territoriales L
+
+	**Codifié par**:
+
+	  - Décret n°77-91 1977-01-27
+
+	**Créé par**:
+
+	  - Décret n°92-1208 du 16 novembre 1992 - art. 1 () JORF 17 novembre 1992
+
+	**Abrogé par**:
+
+	  - Décret n°2000-318 du 7 avril 2000 - art. 4 (V)
+
+	**Cite**:
+
+	  - CODE DES COMMUNES. - art. L121-48 (Ab)
+
+
+###### Article R*121-32
+
+Le bénéfice du congé de formation est de droit pour effectuer un stage ou suivre une session de formation dans un organisme
+agréé par le ministre de l'intérieur.
+
+Il peut cependant être refusé par l'employeur si celui-ci estime, après avis du comité d'entreprise ou, à défaut, des
+délégués du personnel lorsque l'entreprise en comporte, que l'absence du salarié aurait des conséquences préjudiciables à la
+production et à la bonne marche de l'entreprise.
+
+Si le salarié renouvelle sa demande à l'expiration d'un délai de quatre mois après la notification d'un premier refus, un
+nouveau refus ne peut lui être opposé.
+
+**Liens relatifs à cet article**
+
+	**Nouveaux textes**:
+
+	  - Code général des collectivités territoriales L
+
+	**Codifié par**:
+
+	  - Décret n°77-91 1977-01-27
+
+	**Créé par**:
+
+	  - Décret n°92-1208 du 16 novembre 1992 - art. 1 () JORF 17 novembre 1992
+
+	**Abrogé par**:
+
+	  - Décret n°2000-318 du 7 avril 2000 - art. 4 (V)
+
+
+###### Article R*121-33
+
+Tout refus de l'employeur doit être motivé et notifié à l'intéressé.
+
+**Liens relatifs à cet article**
+
+	**Nouveaux textes**:
+
+	  - Code général des collectivités territoriales L
+
+	**Codifié par**:
+
+	  - Décret n°77-91 1977-01-27
+
+	**Créé par**:
+
+	  - Décret n°92-1208 du 16 novembre 1992 - art. 1 () JORF 17 novembre 1992
+
+	**Abrogé par**:
+
+	  - Décret n°2000-318 du 7 avril 2000 - art. 4 (V)
+
+
+###### Article R*121-34
+
+L'organisme dispensateur du stage ou de la session doit délivrer au salarié une attestation constatant sa fréquentation
+effective. Cette attestation est remise à l'employeur s'il en fait la demande au moment de la reprise du travail.
+
+**Liens relatifs à cet article**
+
+	**Nouveaux textes**:
+
+	  - Code général des collectivités territoriales L
+
+	**Codifié par**:
+
+	  - Décret n°77-91 1977-01-27
+
+	**Créé par**:
+
+	  - Décret n°92-1208 du 16 novembre 1992 - art. 1 () JORF 17 novembre 1992
+
+	**Abrogé par**:
+
+	  - Décret n°2000-318 du 7 avril 2000 - art. 4 (V)
+
+
+##### SOUS-SECTION 3 : Dispositions applicables aux élus régis par les titres Ier à IV du statut général des fonctionnaires de l'Etat et des collectivités territoriales, ou agents contractuels de l'Etat, des collectivités territoriales et de leurs établissements publics administratifs
+
+###### Article R*121-35
+
+Tout membre d'un conseil municipal, régi par les titres Ier à IV du statut général des fonctionnaires de l'Etat et des
+collectivités territoriales ou agent contractuel de l'Etat, des collectivités territoriales et de leurs établissements
+publics administratifs doit, lorsqu'il souhaite bénéficier du congé de formation prévu à l'article L. 121-48, présenter par
+écrit sa demande à l'autorité hiérarchique dont il relève trente jours au moins à l'avance en précisant la date et la durée
+de l'absence envisagée à ce titre, ainsi que la désignation de l'organisme responsable du stage ou de la session. L'autorité
+hiérarchique accuse réception de cette demande.
+
+A défaut de réponse expresse notifiée au plus tard le quinzième jour qui précède le début du stage ou de la session, le congé
+est réputé accordé.
+
+**Liens relatifs à cet article**
+
+	**Nouveaux textes**:
+
+	  - Code général des collectivités territoriales L
+
+	**Codifié par**:
+
+	  - Décret n°77-91 1977-01-27
+
+	**Créé par**:
+
+	  - Décret n°92-1208 du 16 novembre 1992 - art. 1 () JORF 17 novembre 1992
+
+	**Abrogé par**:
+
+	  - Décret n°2000-318 du 7 avril 2000 - art. 4 (V)
+
+	**Cite**:
+
+	  - CODE DES COMMUNES. - art. L121-48 (Ab)
+
+
+###### Article R*121-36
+
+Le bénéfice du congé de formation est de droit pour effectuer un stage ou suivre une session de formation dans un organisme
+agréé par le ministre de l'intérieur.
+
+Il peut, cependant, être refusé si les nécessités du fonctionnement du service s'y opposent.
+
+Les décisions qui rejettent des demandes de congés de formation doivent être communiquées avec leur motif à la commission
+administrative paritaire au cours de la réunion qui suit cette décision.
+
+Si le fonctionnaire ou l'agent concerné renouvelle sa demande à l'expiration d'un délai de quatre mois après la notification
+d'un premier refus, un nouveau refus ne peut lui être opposé.
+
+**Liens relatifs à cet article**
+
+	**Nouveaux textes**:
+
+	  - Code général des collectivités territoriales L
+
+	**Codifié par**:
+
+	  - Décret n°77-91 1977-01-27
+
+	**Créé par**:
+
+	  - Décret n°92-1208 du 16 novembre 1992 - art. 1 () JORF 17 novembre 1992
+
+	**Abrogé par**:
+
+	  - Décret n°2000-318 du 7 avril 2000 - art. 4 (V)
+
+
+###### Article R*121-37
+
+Tout refus de l'autorité hiérarchique doit être motivé et notifié à l'intéressé.
+
+**Liens relatifs à cet article**
+
+	**Nouveaux textes**:
+
+	  - Code général des collectivités territoriales L
+
+	**Codifié par**:
+
+	  - Décret n°77-91 1977-01-27
+
+	**Créé par**:
+
+	  - Décret n°92-1208 du 16 novembre 1992 - art. 1 () JORF 17 novembre 1992
+
+	**Abrogé par**:
+
+	  - Décret n°2000-318 du 7 avril 2000 - art. 4 (V)
+
+
+###### Article R*121-38
+
+Les dispositions des articles R. 121-35 à R. 121-37 sont applicables aux agents contractuels de l'Etat, des collectivités
+territoriales et de leurs établissements publics administratifs.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°77-91 1977-01-27
+
+	**Créé par**:
+
+	  - Décret n°92-1208 du 16 novembre 1992 - art. 1 () JORF 17 novembre 1992
+
+	**Abrogé par**:
+
+	  - Décret n°2000-318 du 7 avril 2000 - art. 4 (V)
+
+	**Cite**:
+
+	  - CODE DES COMMUNES R121-35 à R121-37
 
 	**Nouveaux textes**:
 
