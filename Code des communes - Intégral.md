@@ -1,5 +1,5 @@
 # Code des communes  
-Version Consolidée au 1980-02-12
+Version Consolidée au 1980-03-20
 
 # ORGANISATION COMMUNALE
 
@@ -77707,6 +77707,29 @@ municipale [*conditions de forme*].
 
 ##### SECTION 5 : Honneurs et récompenses.
 
+###### Article R*352-50
+
+La médaille d'ancienneté comporte trois échelons :
+
+1. La médaille d'argent, décernée après vingt ans de services ;
+
+2. La médaille de vermeil, décernée après vingt-cinq ans de services aux titulaires de la médaille d'argent ;
+
+3. La médaille d'or, décernée après trente-cinq ans de services aux titulaires de la médaille d'argent. Toutefois, et à titre
+exceptionnel, la médaille d'or pourra être décernée après trente ans de services aux sapeurs-pompiers au moment de la
+cessation de leur activité.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°77-241 1977-03-07
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°90-850 1990-09-25 art. 25
+
+
 ###### Article R*352-51
 
 Les services militaires sont comptés dans la durée des services [*définition*] mentionnés à l'article R. 352-50 [*pour
@@ -79080,6 +79103,36 @@ Les caporaux parvenus au 6è échelon de leur grade sont nommés au grade de cap
 	  - Décret n°90-851 1990-09-25 art. 26 jorf 26 septembre 1990
 
 
+###### Article R353-40
+
+Les sergents sont nommés parmi les caporaux et caporaux-chefs titulaires du brevet national de secouriste avec la mention
+Spécialiste en réanimation et qui ont au moins trois ans d'ancienneté depuis leur nomination dans le grade de caporal. Ils
+doivent en outre avoir préalablement suivi un cours d'instruction et réussi à un examen dont les modalités sont définies par
+un arrêté du ministre de l'intérieur.
+
+Pour l'attribution des notes à l'examen de fin du cours, les candidats bénéficient d'une majoration d'un point par année de
+service dans le grade.
+
+Les membres des jurys d'examen sont désignés par les préfets.
+
+Les sergents parvenus au 6° échelon de leur grade sont nommés au grade de sergent-chef.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°77-241 1977-03-07
+
+	**Abrogé par**:
+
+	  - Décret n°90-851 1990-09-25 art. 26 jorf 26 septembre 1990
+
+	**Cité par**:
+
+	  - Arrêté du 20 octobre 1971 - art. 17 (Ab)
+	  - Arrêté du 20 octobre 1971 - art. 9 (Ab)
+
+
 ###### Article R353-41
 
 Les adjudants sont nommés parmi les sergents et sergents-chefs qui comptent trois ans de fonctions dans leur grade
@@ -79722,6 +79775,29 @@ son grade n'est pas prévu, il conserve, à titre personnel, le bénéfice de la
 
 
 ##### SECTION 6 : Discipline.
+
+###### Article R353-60
+
+Le chef de corps peut prononcer contre tout sapeur-pompier professionnel :
+
+1. La réprimande ;
+
+2. La mise à l'ordre [*sanctions*].
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°77-241 1977-03-07
+
+	**Abrogé par**:
+
+	  - Décret n°89-677 du 18 septembre 1989 - art. 36 (V)
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°89-677 du 18 septembre 1989 - art. 36 (V)
+
 
 ###### Article R353-61
 
@@ -81719,6 +81795,35 @@ industriel ou commercial.
 
 ##### SECTION 1 : Recrutement.
 
+###### Article R354-2
+
+La limite d'âge des officiers volontaires est fixée à soixante ans.
+
+Les fonctions de tout officier parvenu à cet âge cessent d'office.
+
+Toutefois, une prolongation d'activité d'une durée de deux ans peut être accordée par le préfet si l'intéressé en fait la
+demande expresse par la voie hiérarchique avant d'avoir atteint la limite d'âge. La demande doit être accompagnée d'un
+certificat délivré par un médecin du service de santé des corps de sapeurs-pompiers qui atteste l'aptitude physique à
+l'exercice des fonctions.
+
+La durée de cette prolongation d'activité peut être de cinq années au maximum pour les médecins et pharmaciens.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°77-241 1977-03-07
+
+	**Abrogé par**:
+
+	  - Décret n°99-1039 du 10 décembre 1999 - art. 72 ()
+
+	**Cité par**:
+
+	  - Arrêté du 18 août 1981 - art. 1 (Ab)
+	  - CODE DES COMMUNES. - art. R354-14 (Ab)
+
+
 ###### Article R354-3
 
 Les fonctions d'officier de sapeurs-pompiers sont incompatibles avec la profession de constructeur de matériel d'incendie ou
@@ -81872,6 +81977,81 @@ Un arrêté du ministre de l'intérieur détermine, en tant que de besoin, les m
 	  - Décret n°99-1039 du 10 décembre 1999 - art. 72 ()
 
 
+###### Article R354-10
+
+Le service de sapeur-pompier est incompatible avec les fonctions de maire et de garde-champêtre et en outre, dans les
+communes de plus de 5.000 habitants [*chiffre*], avec les fonctions d'adjoint au maire.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°53-170 1953-03-07 ART. 65
+
+	**Codifié par**:
+
+	  - Décret n°77-241 1977-03-07
+
+	**Abrogé par**:
+
+	  - Décret n°99-1039 du 10 décembre 1999 - art. 72 ()
+
+
+###### Article R354-13
+
+L'engagement est suspendu lorsque le sapeur-pompier est appelé sous les drapeaux pour la durée de son service militaire
+effectif.
+
+Les dispositions qui précèdent ne font pas obstacle à ce que le sapeur-pompier participe pendant les permissions ou congés
+réguliers au fonctionnement du corps auquel il appartenait avant son incorporation.
+
+Les sapeurs-pompiers volontaires peuvent être placés en position de congé pour une durée d'une année au maximum.
+
+Le congé est accordé par le préfet pour les officiers et par le maire après avis du conseil d'administration pour les sous-
+officiers, caporaux et sapeurs.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°77-241 1977-03-07
+
+	**Cité par**:
+
+	  - Décret n°99-709 du 3 août 1999 - art. 1 (V)
+
+	**Abrogé par**:
+
+	  - Décret n°99-1039 du 10 décembre 1999 - art. 72 ()
+
+
+###### Article R354-14
+
+L'engagement en cours cesse de plein droit quand le sapeur-pompier volontaire non officier a atteint l'âge de cinquante-cinq
+ans accomplis.
+
+Toutefois, une prolongation d'activité d'une durée maximum de deux ans peut être accordée par le maire, selon les mêmes
+modalités que celles qui sont prévues à l'article R. 354-2.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°77-241 1977-03-07
+
+	**Abrogé par**:
+
+	  - Décret n°99-1039 du 10 décembre 1999 - art. 72 ()
+
+	**Cité par**:
+
+	  - Arrêté du 18 août 1981 - art. 1 (Ab)
+
+	**Cite**:
+
+	  - CODE DES COMMUNES. - art. R354-2 (M)
+
+
 ##### SECTION 2 : Notation et avancement.
 
 ###### Article R354-15
@@ -81900,6 +82080,56 @@ Aucune mention des opinions politiques, philosophiques ou religieuses de l'inté
 	**Abrogé par**:
 
 	  - Décret n°99-1039 du 10 décembre 1999 - art. 72 ()
+
+
+###### Article R354-18
+
+L'avancement des sous-officiers a lieu après concours dans la limite des postes disponibles.
+
+Un minimum de deux ans de service dans le grade inférieur est exigé de tout candidat.
+
+Les adjudants sont choisis parmi les sergents et les sergents-chefs ayant subi avec succès les épreuves d'un concours défini
+par arrêté du ministre de l'intérieur.
+
+Le nombre d'adjudants et d'adjudants-chefs d'un corps composé de sapeurs-pompiers volontaires ne pourra excéder un cinquième
+[*proportion, pourcentage*] de l'effectif des sous-officiers.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°77-241 1977-03-07
+
+	**Abrogé par**:
+
+	  - Décret n°99-1039 du 10 décembre 1999 - art. 72 ()
+
+	**Cité par**:
+
+	  - Arrêté du 9 juillet 1981 - art. 1 (Ab)
+
+
+###### Article R354-19
+
+Les caporaux sont nommés après concours ouverts aux sapeurs-pompiers ayant deux ans de service au moins[*ancienneté*].
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°53-170 1953-03-07 ART. 70 REMPLACE AL. 2
+
+	**Codifié par**:
+
+	  - Décret n°77-241 1977-03-07
+
+	**Abrogé par**:
+
+	  - Décret n°99-1039 du 10 décembre 1999 - art. 72 ()
+
+	**Cité par**:
+
+	  - Arrêté du 9 juillet 1981 - art. 1 (Ab)
 
 
 ###### Article R354-20
@@ -82822,6 +83052,31 @@ Les mêmes règles s'appliquent aux rentes de réversion attribuées aux veuves 
 	  - CODE DES COMMUNES. - art. L354-1 (Ab)
 
 
+###### Article R354-44
+
+La durée des services volontaires est décomptée à partir de la date de la signature du premier engagement quinquennal en
+qualité de sapeur-pompier volontaire. A cette durée s'ajoute celle des services militaires accomplis par l'intéressé.
+
+Toutefois, lorsque l'engagement a été souscrit alors que l'intéressé n'avait pas encore atteint l'âge à partir duquel les
+sapeurs-pompiers professionnels peuvent être recrutés, la durée des services volontaires est décomptée à partir de la date à
+laquelle l'intéressé a atteint cet âge.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - SPEC_APPLI: *Dispositions non applicables aux communes du département de Saint-Pierre-et-Miquelon*
+	  - SPEC_APPLI: Code des communes R392-2 :
+
+	**Codifié par**:
+
+	  - Décret n°77-241 1977-03-07
+
+	**Abrogé par**:
+
+	  - Décret n°92-620 du 7 juillet 1992 - art. 19 (V)
+
+
 ##### PARAGRAPHE 2 : Affiliation aux assurances sociales.
 
 ###### Article R*354-51
@@ -83147,6 +83402,35 @@ dépôts et consignations.
 
 
 ##### SOUS-SECTION 2 : Indemnités allouées en cas d'incapacité temporaire.
+
+###### Article R*354-62
+
+L'indemnité journalière pour incapacité de travail temporaire à laquelle a droit le sapeur-pompier victime d'un accident en
+service commandé est allouée par décision du maire sur le rapport du chef de corps qui constate que les blessures ou la
+maladie sont la conséquence du service commandé, et au vu d'un certificat délivré par un médecin assermenté ou un médecin de
+sapeurs-pompiers, désignés par le préfet sur une liste dressée annuellement après avis de la commission départementale de
+réforme prévue à l'article R. 354-37.
+
+Ce certificat détermine la durée probable de l'incapacité de travail.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret  1929-02-16 ART. 15 AL. 1
+
+	**Codifié par**:
+
+	  - Décret n°77-241 1977-03-07
+
+	**Abrogé par**:
+
+	  - Décret n°92-620 du 7 juillet 1992 - art. 19 (V)
+
+	**Cite**:
+
+	  - CODE DES COMMUNES. - art. R*354-37 (M)
+
 
 ###### Article R*354-63
 
@@ -94525,6 +94809,31 @@ les lieux du sinistre ou à l'officier de sapeurs-pompiers désigné par le pré
 
 ##### Discipline des sapeurs-pompiers communaux .
 
+###### Article R352-32
+
+Le conseil de discipline départemental est présidé par l'inspecteur départemental des services d'incendie et de secours ou,
+en son absence, par un inspecteur adjoint ou un officier des sapeurs-pompiers désigné par le préfet. Il comprend :
+
+- trois [*nombre*] maires tirés au sort par le président parmi les maires des communes ayant un corps de sapeurs-pompiers ;
+
+- trois [*nombre*] représentants du personnel tirés au sort également parmi les membres de conseils d'administration du
+département, l'un de grade égal au comparant, les deux autres de grade supérieur.
+
+Les membres du conseil d'administration qui ont eu à connaître de l'affaire en premier ressort ne peuvent faire partie du
+conseil de discipline départemental.
+
+Les frais de déplacement des membres du conseil de discipline départemental sont supportés par les communes dont relèvent les
+membres de ce conseil.
+
+Le secrétariat est assuré par un fonctionnaire de la préfecture du département.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°77-241 1977-03-07
+
+
 ###### Article R352-42
 
 Le préfet [*pouvoirs*] peut également, sur proposition de l'inspecteur départemental des services d'incendie et de secours,
@@ -94579,28 +94888,6 @@ Les médecins assistent avec voix consultative aux séances du conseil d'adminis
 
 ##### Discipline.
 
-###### Article R352-32
-
-Le conseil de discipline départemental est présidé par l'inspecteur départemental des services d'incendie et de secours. Il
-comprend :
-
-- Trois [*nombre*] maires tirés au sort par le président parmi les maires des communes ayant un corps de sapeurs-pompiers ;
-
-- Trois [*nombre*] représentants du personnel tirés au sort également parmi les membres de conseils d'administration du
-département, l'un de grade égal au comparant, les deux autres de grade supérieur.
-
-Les membres du conseil d'administration qui ont eu à connaître de l'affaire en premier ressort ne peuvent faire partie du
-conseil de discipline départemental.
-
-Le secrétariat est assuré par un fonctionnaire de la préfecture du département.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°77-241 1977-03-07
-
-
 ###### Article R352-36
 
 Lorsque l'officier déféré au conseil d'enquête paritaire est, soit un chef de corps, soit un chef de bataillon ou un
@@ -94627,33 +94914,6 @@ noms établie par le ministre [*nombre*] ;
 
 
 ##### Honneurs et récompenses.
-
-###### Article R*352-50
-
-La médaille d'ancienneté comporte trois échelons [*nombre*] :
-
-1° La médaille d'argent, décernée après vingt ans de services ;
-
-2° La médaille de vermeil, décernée après trente ans de services aux titulaires de la médaille d'argent ;
-
-3° La médaille d'or, décernée après quarante ans de services aux titulaires de la médaille d'argent. Toutefois, la médaille
-d'or peut être décernée aux sapeurs-pompiers professionnels totalisant trente-cinq ans de services au moment de leur mise à
-la retraite.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°62-1073 1962-09-11 ART. 3
-
-	**Codifié par**:
-
-	  - Décret n°77-241 1977-03-07
-
-	**Créé par**:
-
-	  - Décret n°77-241 1977-03-07 JORF et JONC 18 mars 1977
-
 
 ###### Article R*352-52
 
@@ -94899,32 +95159,6 @@ compétence*].
 
 ##### AVANCEMENT
 
-###### Article R353-40
-
-Les sergents sont nommés parmi les caporaux et caporaux-chefs titulaires du brevet national de secouriste avec la mention
-Spécialiste en réanimation et qui ont au moins trois ans d'ancienneté depuis leur nomination dans le grade de caporal. Ils
-doivent en outre avoir préalablement suivi un cours d'instruction et réussi à un examen dont les modalités sont définies par
-un arrêté du ministre de l'intérieur.
-
-Pour l'attribution des notes à l'examen de fin du cours, les candidats bénéficient d'une majoration d'un point par année de
-service dans le grade.
-
-Le jury d'examen est désigné par le conseil d'administration du corps.
-
-Les sergents parvenus au 6° échelon de leur grade sont nommés au grade de sergent-chef.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°77-241 1977-03-07
-
-	**Cité par**:
-
-	  - Arrêté du 20 octobre 1971 - art. 17 (Ab)
-	  - Arrêté du 20 octobre 1971 - art. 9 (Ab)
-
-
 ###### Article R353-46
 
 Les capitaines inscrits sur une liste d'aptitude nationale annuelle et qui justifient de cinq années d'ancienneté dans leur
@@ -94999,68 +95233,6 @@ professionnels est au moins égal aux deux tiers des effectifs ci-dessus mention
 	  - Décret n°77-241 1977-03-07 JORF et JONC 18 mars 1977
 
 
-##### DISCIPLINE
-
-###### Article R353-60
-
-Le chef de corps [*pouvoir disciplinaire*] peut prononcer contre tout sapeur-pompier professionnel :
-
-1° La réprimande [**]sanctions[**] ;
-
-2° La mise à l'ordre ;
-
-3° Le service hors tour.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°53-170 1953-03-07 ART. 122
-
-	**Codifié par**:
-
-	  - Décret n°77-241 1977-03-07
-
-	**Créé par**:
-
-	  - Décret n°77-241 1977-03-07 JORF et JONC 18 mars 1977
-
-
-#### SAPEURS-POMPIERS COMMUNAUX NON PROFESSIONNELS RECRUTEMENT.
-
-###### Article R354-2
-
-La limite d'âge des officiers volontaires est fixée à soixante ans.
-
-Les fonctions de tout officier parvenu à cet âge cessent d'office.
-
-Toutefois, une prolongation d'activité d'une durée de deux ans peut être accordée par le préfet si l'intéressé en fait la
-demande expresse par la voie hiérarchique avant d'avoir atteint la limite d'âge. La demande doit être accompagnée d'un
-certificat délivré par un médecin du service de santé des corps de sapeurs-pompiers qui atteste l'aptitude physique à
-l'exercice des fonctions.
-
-La durée de cette prolongation d'activité peut être de cinq années au maximum pour les médecins et pharmaciens.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°53-170 1953-03-07 ART. 55 REMPLACE
-
-	**Codifié par**:
-
-	  - Décret n°77-241 1977-03-07
-
-	**Créé par**:
-
-	  - Décret n°77-241 1977-03-07 JORF ET JONC 18 MARS 1977
-
-	**Cité par**:
-
-	  - Arrêté du 18 août 1981 - art. 1 (Ab)
-	  - CODE DES COMMUNES. - art. R354-14 (Ab)
-
-
 #### SAPEURS-POMPIERS COMMUNAUX NON PROFESSIONNELS *VOLONTAIRES*
 
 ##### RECRUTEMENT .
@@ -95112,63 +95284,14 @@ prévu à l'article R. 352-22.
 	  - CODE DES COMMUNES. - art. R352-22 (M)
 
 
-###### Article R354-10
-
-Le service de sapeur-pompier est incompatible avec les fonctions de maire et de garde-champêtre et, en outre, dans les
-communes de plus de 1.000 habitants [*nombre*], avec les fonctions d'adjoint au maire.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°53-170 1953-03-07 ART. 65
-
-	**Codifié par**:
-
-	  - Décret n°77-241 1977-03-07
-
-	**Créé par**:
-
-	  - Décret n°77-241 1977-03-07 JORF et JONC 18 mars 1977
-
-
-###### Article R354-11
-
-Dans les corps qui doivent être créés ou réorganisés et qui ne sont pas encore pourvus d'un conseil d'administration,
-l'admission par acceptation de l'engagement est prononcée par décision du maire sur proposition d'une commission ainsi
-composée :
-
-- le chef de corps, président ;
-
-- deux [*nombre*] membres du conseil municipal désignés par le maire ;
-
-- l'inspecteur départemental des services d'incendie et de secours ;
-
-- trois délégués désignés par le préfet ;
-
-- un médecin.
-
-En cas de partage, la voix du président est prépondérante.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°53-170 1953-03-07 ART. 66
-
-	**Codifié par**:
-
-	  - Décret n°77-241 1977-03-07
-
-	**Créé par**:
-
-	  - Décret n°77-241 1977-03-07 JORF et JONC 18 mars 1977
-
-
 ###### Article R354-12
 
-Dans les corps déjà constitués, l'admission par acceptation de l'engagement ou du rengagement [*procédure*] est prononcée par
-décision du maire [*compétence*] sur proposition du conseil d'administration [*du corps de sapeurs-pompiers*].
+Dans les corps déjà constitués, l'engagement et le rengagement sont prononcés par décision du maire après avis du conseil
+d'administration.
+
+Le premier engagement souscrit par les sous-officiers, caporaux et sapeurs en application de l'article R. 354-6 comporte
+l'obligation de suivre un stage probatoire dont la durée est fixée à un an. En cas d'insuffisance du stagiaire, l'engagement
+souscrit peut être résilié.
 
 **Liens relatifs à cet article**
 
@@ -95180,44 +95303,28 @@ décision du maire [*compétence*] sur proposition du conseil d'administration [
 
 	  - Décret n°77-241 1977-03-07
 
-	**Créé par**:
 
-	  - Décret n°77-241 1977-03-07 JORF et JONC 18 mars 1977
+#### Dispositions applicables aux sapeurs-pompiers communaux non professionnels
 
+##### Recrutement .
 
-###### Article R354-13
+###### Article R354-11
 
-L'engagement est suspendu lorsque le sapeur-pompier est appelé sous les drapeaux pour la durée de son service militaire
-effectif.
+Dans les corps qui doivent être créés ou réorganisés et qui ne sont pas encore pourvus d'un conseil d'administration,
+l'admission par acceptation de l'engagement est prononcée par décision du maire sur proposition d'une commission ainsi
+composée :
 
-Les dispositions qui précèdent ne font pas obstacle à ce que le sapeur-pompier participe pendant les permissions ou congés
-réguliers au fonctionnement du corps auquel il appartenait avant son incorporation.
+- le chef de corps, président ;
 
-**Liens relatifs à cet article**
+- deux membres du conseil municipal désignés par le maire ;
 
-	**Anciens textes**:
+- l'inspecteur départemental des services d'incendie et de secours ou, en son absence, un inspecteur adjoint le remplaçant ;
 
-	  - Décret n°53-170 1953-03-07 ART. 60 COMPLETE AL. 1 et 2
+- trois délégués désignés par le préfet ;
 
-	**Codifié par**:
+- un médecin.
 
-	  - Décret n°77-241 1977-03-07
-
-	**Créé par**:
-
-	  - Décret n°77-241 1977-03-07 JORF et JONC 18 mars 1977
-
-	**Cité par**:
-
-	  - Décret n°99-709 du 3 août 1999 - art. 1 (V)
-
-
-###### Article R354-14
-
-L'engagement en cours cesse de plein droit quand le sapeur-pompier a atteint l'âge de soixante ans accomplis.
-
-Toutefois, une prolongation d'activité d'une durée maximum de deux ans peut être accordée par le maire, selon les mêmes
-modalités que celles qui sont prévues à l'article R. 354-2.
+En cas de partage, la voix du président est prépondérante.
 
 **Liens relatifs à cet article**
 
@@ -95225,52 +95332,42 @@ modalités que celles qui sont prévues à l'article R. 354-2.
 
 	  - Décret n°77-241 1977-03-07
 
-	**Cité par**:
 
-	  - Arrêté du 18 août 1981 - art. 1 (Ab)
-
-	**Cite**:
-
-	  - CODE DES COMMUNES. - art. R354-2 (M)
-
-
-##### NOTATION ET AVANCEMENT .
-
-###### Article R354-16
-
-Les officiers sont promus au grade supérieur par arrêté du préfet [*compétence*].
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°53-170 1953-03-07 ART. 69 REMPLACE PHR. 1
-
-	**Codifié par**:
-
-	  - Décret n°77-241 1977-03-07
-
-	**Créé par**:
-
-	  - Décret n°77-241 1977-03-07 JORF et JONC 18 mars 1977
-
-	**Cité par**:
-
-	  - Décret n°88-623 du 6 mai 1988 - art. 50 (Ab)
-
+##### Notation et avancement .
 
 ###### Article R354-17
 
-Les sous-lieutenants, quel que soit l'effectif du corps, peuvent être promus lieutenants, à la condition d'avoir exercé les
-fonctions de leur grade pendant deux ans [*ancienneté*] et d'avoir suivi le stage d'information générale organisé par le
-centre national d'instruction de la protection contre l'incendie dans un établissement désigné par le ministre de
-l'intérieur.
+Les sous-lieutenants, quel que soit l'effectif de leur corps, peuvent être promus lieutenants à condition d'avoir exercé les
+fonctions de leur grade pendant un an, d'être titulaire du brevet de moniteur de secourisme, d'avoir suivi un stage de
+formation probatoire organisé dans un centre agréé par le ministère de l'intérieur et subi avec succès les épreuves de
+l'examen de fin de stage.
+
+Peuvent être nommés capitaines, d'une part, les lieutenants qui comptent un minimum de quatre ans d'ancienneté dans leur
+grade et sont titulaires du brevet de qualification défini par arrêté du ministre de l'intérieur et du brevet d'initiation à
+la prévention et, d'autre part, en application des dispositions de l'article R. 354-1, les officiers titulaires d'un des
+diplômes prévus au 1. de l'article R. 353-45. Les officiers de chacune de ces deux catégories doivent, en outre, soit
+commander un centre de secours principal ou un corps de plus de quarante sapeurs-pompiers volontaires, soit être affectés à
+un corps mixte dont le chef de corps est commandant dans la limite des postes disponibles.
+
+Les capitaines, titulaires du brevet de prévention, inscrits sur une liste d'aptitude nationale annuelle et qui justifient
+de cinq années d'ancienneté dans leur grade, peuvent être nommés chef de bataillon.
+
+Sont inscrits sur cette liste d'aptitude les capitaines qui sont :
+
+Soit chefs d'un corps dont l'effectif réel est supérieur à quatre-vingts sapeurs-pompiers volontaires ;
+
+Soit affectés à un corps mixte dont le chef de corps est lieutenant-colonel dans la limite des postes disponibles.
+
+De plus, pourront être inscrits sur cette liste d'aptitude les capitaines ayant exercé en cette qualité les fonctions de chef
+de corps pendant vingt ans et cumulativement pendant quinze ans celles d'inspecteur départemental adjoint.
+
+Une commission, composée en nombre égal d'officiers de sapeurs-pompiers, de représentants de l'administration centrale ainsi
+que des collectivités locales, donne son avis sur toute nomination au grade de chef de bataillon.
+
+Les officiers membres de la commission doivent être d'un grade au moins égal à celui de chef de bataillon et comprendre parmi
+eux au moins un officier volontaire.
 
 **Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - TXT_ASSOCIE: Arrêté 1980-03-31
 
 	**Anciens textes**:
 
@@ -95280,147 +95377,6 @@ l'intérieur.
 
 	  - Décret n°77-241 1977-03-07
 
-	**Créé par**:
-
-	  - Décret n°77-241 1977-03-07 JORF et JONC 18 mars 1977
-
-
-###### Article R354-18
-
-L'avancement des sous-officiers a lieu après concours dans la limite des postes disponibles.
-
-Un minimum de deux ans de service dans le grade inférieur est exigé de tout candidat.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°53-170 1953-03-07 ART. 70 REMPLACE AL. 1
-
-	**Codifié par**:
-
-	  - Décret n°77-241 1977-03-07
-
-	**Créé par**:
-
-	  - Décret n°77-241 1977-03-07 JORF et JONC 18 mars 1977
-
-	**Cité par**:
-
-	  - Arrêté du 9 juillet 1981 - art. 1 (Ab)
-
-	**Liens**:
-
-	  - TXT_ASSOCIE: CODE DES COMMUNES. - art. R354-21 (Ab)
-
-
-###### Article R354-19
-
-Les caporaux sont nommés :
-
-- soit après concours lorsque les candidats ont deux ans de service au moins dans le grade de sapeur de 1re ou 2e classe ;
-
-- soit sans concours lorsqu'ils comptent une ancienneté de trois ans en qualité de sapeur-pompier volontaire.
-
-Dans ce dernier cas, ils doivent être titulaires, en sus, du brevet national de secourisme avec la mention "spécialiste en
-ranimation".
-
-- soit d'un certificat d'aptitude professionnelle ;
-
-- soit d'un des diplômes et certificats de qualification professionnelle des sapeurs-pompiers, définis par arrêté du ministre
-de l'intérieur.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°53-170 1953-03-07 ART. 70 REMPLACE AL. 2
-
-	**Codifié par**:
-
-	  - Décret n°77-241 1977-03-07
-
-	**Créé par**:
-
-	  - Décret n°77-241 1977-03-07 JORF et JONC 18 mars 1977
-
-	**Cité par**:
-
-	  - Arrêté du 9 juillet 1981 - art. 1 (Ab)
-
-
-##### ALLOCATIONS, RENTES ET AUTRES PRESTATIONS
-
-##### INDEMNISATION EN CAS D'INCAPACITE PERMANENTE
-
-##### ALLOCATIONS,  RENTES, PENSIONS ET INDEMNITES .
-
-###### Article R*354-44
-
-La durée des services volontaires est décomptée à partir de la date de la signature du premier engagement quinquennal en
-qualité de sapeur-pompier volontaire.
-
-Toutefois, lorsque l'engagement a été souscrit alors que l'intéressé n'avait pas encore atteint l'âge à partir duquel les
-sapeurs-pompiers professionnels peuvent être recrutés, la durée des services volontaires est décomptée à partir de la date à
-laquelle l'intéressé a atteint cet âge.
-
-**Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - SPEC_APPLI: *Dispositions non applicables aux communes du département de Saint-Pierre-et-Miquelon*
-	  - SPEC_APPLI: Code des communes R392-2 :
-
-	**Anciens textes**:
-
-	  - Décret n°76-590 1976-07-02 ART. 8
-
-	**Codifié par**:
-
-	  - Décret n°77-241 1977-03-07
-
-	**Créé par**:
-
-	  - Décret n°77-241 1977-03-07 JORF et JONC 18 mars 1977
-
-
-##### INDEMNITES ALLOUEES EN CAS D'INCAPACITE TEMPORAIRE .
-
-###### Article R*354-62
-
-L'indemnité journalière pour incapacité de travail temporaire, à laquelle a droit le sapeur-pompier victime d'un accident en
-service commandé, est allouée par délibération du conseil municipal, sur le rapport du chef de corps qui constate que les
-blessures ou la maladie sont la conséquence d'un accident en service commandé et au vu [*formalités*] d'un certificat délivré
-par un médecin assermenté désigné par le préfet après avis de la commission départementale de réforme [*des agents permanents
-des collectivités locales*] prévue à l'article R. 354-37.
-
-Ce certificat détermine la durée probable de l'incapacité de travail.
-
-**Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - SPEC_APPLI: *Dispositions non applicables aux communes du département de Saint-Pierre-et-Miquelon*
-	  - SPEC_APPLI: Code des communes R392-2 :
-
-	**Codifié par**:
-
-	  - Décret n°77-241 1977-03-07
-
-	**Créé par**:
-
-	  - Décret n°77-241 1977-03-07 JORF et JONC 18 mars 1977
-
-	**Cite**:
-
-	  - CODE DES COMMUNES. - art. R*354-37 (M)
-
-	**Anciens textes**:
-
-	  - Décret  1929-02-16 ART. 15 AL. 1
-
-
-#### Dispositions applicables aux sapeurs-pompiers communaux non professionnels
 
 ##### Allocations, rentes et autres prestations
 
@@ -97685,6 +97641,34 @@ Il peut être créé dans chaque corps de sapeurs-pompiers professionnels ou vol
 	**Cite**:
 
 	  - Loi   1901-07-01
+
+
+#### CHAPITRE 18 : Dispositions applicables aux sapeurs-pompiers communaux non professionnels
+
+##### SECTION 2 : Notation et avancement.
+
+###### Article R354-16
+
+Les officiers sont promus au grade supérieur par arrêté du préfet à l'exception des lieutenants-colonels et des colonels qui
+sont nommés par arrêté du ministre de l'intérieur.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°53-170 1953-03-07 ART. 69 REMPLACE PHR. 1
+
+	**Codifié par**:
+
+	  - Décret n°77-241 1977-03-07
+
+	**Abrogé par**:
+
+	  - Décret n°88-623 du 6 mai 1988 - art. 50 (Ab)
+
+	**Cité par**:
+
+	  - Décret n°88-623 du 6 mai 1988 - art. 50 (Ab)
 
 
 ## LIVRE 4 : Personnel communal
