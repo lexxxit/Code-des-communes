@@ -1,5 +1,5 @@
 # Code des communes  
-Version Consolidée au 1988-01-03
+Version Consolidée au 1988-01-06
 
 # Statuts types d'une caisse communale de secours et de retraite de sapeurs-pompiers
 
@@ -1844,6 +1844,44 @@ En cas d'urgence, le représentant de l'Etat dans le département peut abréger 
 	**Nouveaux textes**:
 
 	  - Code général des collectivités territoriales - art. L2121-9 (V)
+
+
+###### Article L121-10
+
+Toute convocation est faite par le maire. Elle est mentionnée au registre des délibérations, affichée ou publiée. Elle est
+adressée aux conseillers municipaux par écrit et à domicile trois jours au moins avant celui de la réunion.        En cas
+d'urgence, le délai peut être abrégé par le maire, sans pouvoir toutefois être inférieur à un jour franc. Le maire en rend
+compte dès l'ouverture de la séance au conseil municipal, qui se prononce définitivement sur l'urgence et peut décider le
+renvoi de la discussion pour tout ou partie à l'ordre du jour d'une séance ultérieure.    " Dans les communes de 3 500
+[*nombre*] habitants et plus, la convocation indique les questions à l'ordre du jour. "
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - SPEC_APPLI: *Dispositions non applicables aux communes des départements de la Moselle, du Bas-Rhin et du Haut-Rhin (Alsace-Lorraine)*
+	  - SPEC_APPLI: Code des communes L181-1 :
+
+	**Cité par**:
+
+	  - CODE DES COMMUNES. - art. L122-5 (Ab)
+	  - CODE DES COMMUNES. - art. R*125-8 (Ab)
+	  - CODE DES COMMUNES. - art. R*151-6 (Ab)
+	  - CODE DES COMMUNES. - art. R411-32 (Ab)
+	  - Loi n°92-125 du 6 février 1992 - art. 30 (V)
+	  - Loi n°96-609 du 5 juillet 1996 - art. 25 (M)
+
+	**Anciens textes**:
+
+	  - Code de l'administration communale 24
+
+	**Codifié par**:
+
+	  - Décret n°77-90 1977-01-27
+
+	**Modifié par**:
+
+	  - Loi n°88-13 du 5 janvier 1988 - art. 61 () JORF 6 janvier 1988
 
 
 ###### Article L121-11
@@ -5561,6 +5599,56 @@ Sa nomination et son licenciement sont soumis à l'avis du comité de direction 
 	  - Loi n°96-142 du 21 février 1996 - art. 12 (V)
 
 
+###### Article L142-10
+
+Le budget de l'office comprend notamment en recettes le produit :
+
+1° Des subventions ;
+
+2° Des souscriptions particulières et d'offres de concours ;
+
+3° De dons et legs ;
+
+4° De la taxe de séjour ou de la taxe se séjour forfaitaire, si elle est perçue dans la commune ou la fraction de commune ;
+
+5° De la taxe sur les entreprises spécialement intéressées à la prospérité de la station. Toutefois, sur le produit des
+recettes brutes des entreprises exploitant des installations spécialement destinées à la pratique des sports de montagne et
+des engins de remontée mécanique, seule est affectée au budget de l'office la partie du produit de cette taxe qui n'a pas été
+utilisée pour l'indemnisation des propriétaires de terrains classés pistes de ski ;
+
+6° Des recettes provenant de la gestion des services ou d'installations sportives et touristiques comprises dans le périmètre
+de la station classée.
+
+En outre, le conseil municipal peut décider, chaque année, lors du vote du budget primitif, d'affecter à l'office du tourisme
+une fraction égale à tout ou partie du produit de la taxe additionnelle aux droits d'enregistrement sur les mutations à titre
+onéreux.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°77-90 1977-01-27
+
+	**Modifié par**:
+
+	  - Loi n°88-13 du 5 janvier 1988 - art. 58 () JORF 6 janvier 1988
+
+	**Abrogé par**:
+
+	  - Loi n°96-142 du 21 février 1996 - art. 12 (V) JORF 24 février 1996
+
+	**Cité par**:
+
+	  - CODE DES COMMUNES. - art. L233-30 (Ab)
+	  - CODE DES COMMUNES. - art. L233-45 (Ab)
+	  - CODE DES COMMUNES. - art. R*142-16 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code général des collectivités territoriales - art. L2231-14 (MMN)
+	  - Code général des collectivités territoriales - art. L2231-14 (M)
+
+
 ###### Article L142-11
 
 Le budget et les comptes de l'office, délibérés par le comité de direction, sont soumis à l'approbation du conseil municipal
@@ -6739,6 +6827,39 @@ financier du secteur de commune.
 
 #### CHAPITRE 3 : Communes associées.
 
+###### Article L153-2
+
+Le maire de l'ancienne commune en fonction au moment de la fusion devient de droit maire délégué jusqu'au prochain
+renouvellement du conseil municipal.
+
+Après ce renouvellement ou en cas de vacance, le maire délégué est choisi par le conseil municipal parmi les conseillers élus
+dans la section correspondante ou, à défaut, parmi les membres du conseil.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°77-90 1977-01-27
+
+	**Cité par**:
+
+	  - Loi n°82-1169 du 31 décembre 1982 - art. 66 (Ab)
+	  - Décret n°2005-1611 du 20 décembre 2005 - art. 9 (V)
+
+	**Modifié par**:
+
+	  - Loi n°88-13 du 5 janvier 1988 - art. 39 () JORF 6 janvier 1988
+
+	**Abrogé par**:
+
+	  - Loi n°96-142 du 21 février 1996 - art. 12 (V) JORF 24 février 1996
+
+	**Nouveaux textes**:
+
+	  - Code général des collectivités territoriales - art. L2113-19 (V)
+	  - Code général des collectivités territoriales - art. L2113-22 (V)
+
+
 ###### Article L153-3
 
 Le maire délégué [*attributions*] remplit dans la commune associée les fonctions d'officier d'état civil et d'officier de
@@ -7440,6 +7561,42 @@ fixées aux articles ci-après.
 	  - Code des communes L163-5 à L163-8
 
 
+###### Article L163-5
+
+Les membres du comité du syndicat sont élus par les conseils municipaux des communes intéressées.
+
+Chaque commune est représentée dans le comité par deux délégués.
+
+La décision d'institution ou une décision modificative peut prévoir la désignation d'un ou plusieurs délégués suppléants,
+appelés à siéger au comité avec voix délibérative, en cas d'empêchement du ou des délégués titulaires.
+
+Le choix du conseil municipal peut porter sur tout citoyen réunissant les conditions requises pour faire partie d'un conseil
+municipal.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°77-90 1977-01-27
+
+	**Modifié par**:
+
+	  - Loi n°88-13 du 5 janvier 1988 - art. 36 () JORF 6 janvier 1988
+
+	**Abrogé par**:
+
+	  - Loi n°96-142 du 21 février 1996 - art. 12 (V) JORF 24 février 1996
+
+	**Cité par**:
+
+	  - CODE DES COMMUNES. - art. L164-5 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code général des collectivités territoriales - art. L5212-7 (M)
+	  - Code général des collectivités territoriales - art. L5212-8 (Ab)
+
+
 ###### Article L163-6
 
 Les délégués du conseil municipal au comité du syndicat sont élus au scrutin secret à la majorité absolue ; si, après deux
@@ -7547,6 +7704,39 @@ séances du comité ou au cours de l'exécution d'un mandat spécial*].
 	  - Code des communes L121-25 et L122-17
 
 
+###### Article L163-10
+
+Les conditions de validité des délibérations du comité du syndicat et, le cas échéant, de celles du bureau procédant par
+délégation du comité, les dispositions relatives aux convocations, à l'ordre et à la tenue des séances, sont celles que fixe
+le chapitre I du titre II du présent livre pour les conseils municipaux.
+
+Toutefois, si le tiers des membres présents ou le président le demande, le comité décide de se former en comité secret.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Loi n°70-610 du 10 juillet 1970 - art. 11 (Ab)
+	  - CODE DES COMMUNES. - art. L163-14-1 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°77-90 1977-01-27
+
+	**Modifié par**:
+
+	  - Loi n°88-13 du 5 janvier 1988 - art. 36 () JORF 6 janvier 1988
+
+	**Abrogé par**:
+
+	  - Loi n°96-142 du 21 février 1996 - art. 12 (V) JORF 24 février 1996
+
+	**Nouveaux textes**:
+
+	  - Code général des collectivités territoriales - art. L5211-1 (M)
+	  - Code général des collectivités territoriales - art. L5212-4 (M)
+
+
 ###### Article L163-11
 
 Les lois et règlements qui concernent le contrôle administratif et financier des communes sont applicables aux syndicats de
@@ -7574,6 +7764,129 @@ communes.
 	**Abrogé par**:
 
 	  - Loi n°96-142 du 21 février 1996 - art. 12 (V)
+
+
+###### Article L163-12
+
+Le comité se réunit au moins une fois par trimestre [*périodicité*], ou, lorsque le syndicat a été formé en vue d'une seule
+oeuvre ou d'un seul service d'intérêt intercommunal, une fois par semestre. Le comité se réunit au siège du syndicat ou dans
+un lieu choisi par le comité dans l'une des communes membres. "
+
+Le président est obligé de convoquer le comité, à la demande du tiers au moins des membres du comité.    Les règles relatives
+à l'élection et à la durée du mandat du président et des membres du bureau sont celles que fixent les articles L. 122-4 et L.
+122-9 pour le maire et les adjoints.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Code de l'administration communale 14 modifié
+
+	**Cité par**:
+
+	  - Loi n°70-610 du 10 juillet 1970 - art. 11 (Ab)
+	  - Loi n°96-609 du 5 juillet 1996 - art. 25 (M)
+	  - CODE DES COMMUNES. - art. R323-130 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°77-90 1977-01-27
+
+	**Modifié par**:
+
+	  - Loi n°88-13 du 5 janvier 1988 - art. 38 () JORF 6 janvier 1988
+
+	**Cite**:
+
+	  - CODE DES COMMUNES. - art. L122-4 (M)
+	  - CODE DES COMMUNES. - art. L122-9 (M)
+
+
+###### Article L163-13
+
+Le bureau est composé du président, d'un ou de plusieurs vice-présidents et, éventuellement, d'un ou plusieurs autres
+membres.
+
+Le comité peut déléguer une partie de ses attributions au bureau à l'exception :
+
+- du vote du budget ;
+
+- de l'approbation du compte administratif ;
+
+- des décisions prises en vertu des sections III et IV du présent chapitre ;
+
+- de l'adhésion du syndicat à un établissement public ;
+
+- des mesures de même nature que celles visées à l'article 11 de la loi n° 82-213 du 2 mars 1982 relative aux droits et
+libertés des communes, des départements et des régions ;
+
+- de la délégation de la gestion d'un service public.
+
+Lors de chaque réunion du comité, le président rend compte des travaux du bureau.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Loi n°70-610 du 10 juillet 1970 - art. 11 (Ab)
+	  - Loi n°96-609 du 5 juillet 1996 - art. 25 (M)
+
+	**Codifié par**:
+
+	  - Décret n°77-90 1977-01-27
+
+	**Cite**:
+
+	  - Loi n°82-213 1982-03-02 art. 11
+
+	**Modifié par**:
+
+	  - Loi n°88-13 du 5 janvier 1988 - art. 40 () JORF 6 janvier 1988
+
+	**Abrogé par**:
+
+	  - Loi n°96-142 du 21 février 1996 - art. 12 (V) JORF 24 février 1996
+
+	**Nouveaux textes**:
+
+	  - Code général des collectivités territoriales - art. L5212-12 (Ab)
+
+
+###### Article L163-13-1
+
+Le président est l'organe exécutif du syndicat.
+
+" Il prépare et exécute les délibérations du comité.
+
+" Il est l'ordonnateur des dépenses et il prescrit l'exécution des recettes du syndicat.
+
+" Il est seul chargé de l'administration, mais il peut déléguer par arrêté, sous sa surveillance et sa responsabilité,
+l'exercice d'une partie de ses fonctions aux vice-présidents et, en l'absence ou en cas d'empêchement de ces derniers, à
+d'autres membres du bureau.
+
+" Ces délégations subsistent tant qu'elles ne sont pas rapportées.
+
+" Il est le chef des services que le syndicat crée.
+
+" Il représente le syndicat en justice. "
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°77-90 1977-01-27
+
+	**Modifié par**:
+
+	  - Loi n°88-13 du 5 janvier 1988 - art. 41 () JORF 6 janvier 1988
+
+	**Cité par**:
+
+	  - Loi n°96-609 du 5 juillet 1996 - art. 25 (M)
+
+	**Nouveaux textes**:
+
+	  - Code général des collectivités territoriales - art. L5212-11 (Ab)
 
 
 ###### Article L163-14
@@ -7613,6 +7926,58 @@ décider qu'une commission administrera les secours, d'une part,
 	**Abrogé par**:
 
 	  - Loi n°96-142 du 21 février 1996 - art. 12 (V)
+
+
+###### Article L163-14-1
+
+Une commune peut adhérer à un syndicat pour une partie seulement des compétences exercées par celui-ci.
+
+La décision d'institution ou une décision modificative détermine en ce cas la liste des communes membres du syndicat, la
+liste des compétences que le syndicat peut exercer et les conditions dans lesquelles chaque commune membre transfère au
+syndicat tout ou partie des compétences que celui-ci est habilité à exercer. Le syndicat exerce chacune de ses compétences
+dans les limites du territoire des communes lui ayant délégué cette compétence.
+
+Chaque commune supporte obligatoirement, dans les conditions fixées par la décision d'institution, les dépenses correspondant
+aux compétences qu'elle a transférées au syndicat ainsi qu'une part des dépenses d'administration générale.
+
+Par dérogation aux dispositions de l'article L. 163-10, s'appliquent les règles suivantes :
+
+- tous les délégués prennent part au vote pour les affaires présentant un intérêt commun à toutes les communes et notamment
+pour l'élection du président et des membres du bureau, le vote du budget, l'approbation du compte administratif et les
+décisions prises en vertu des sections III et IV du présent chapitre ; dans le cas contraire, ne prennent part au vote que
+les délégués représentant les communes concernées par l'affaire mise en délibération ;
+
+- le président prend part à tous les votes, sauf en cas d'application des articles L. 121-13 et L. 121-35 ;
+
+- pour tenir compte des compétences transférées par chaque commune au syndicat, la décision d'institution peut fixer des
+règles particulières de représentation de chaque commune.
+
+Le comité syndical peut former pour l'exercice d'une ou plusieurs compétences des commissions chargées d'étudier et de
+préparer ses décisions.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°77-90 1977-01-27
+
+	**Créé par**:
+
+	  - Loi n°88-13 1988-01-05 art. 30 I JORF 6 janvier 1988
+
+	**Abrogé par**:
+
+	  - Loi n°96-142 du 21 février 1996 - art. 12 (V) JORF 24 février 1996
+
+	**Cite**:
+
+	  - CODE DES COMMUNES. - art. L121-13 (Ab)
+	  - CODE DES COMMUNES. - art. L121-35 (M)
+	  - CODE DES COMMUNES. - art. L163-10 (M)
+
+	**Nouveaux textes**:
+
+	  - Code général des collectivités territoriales - art. L5212-16 (V)
 
 
 ##### SECTION 3 : Modification aux conditions initiales de composition et de fonctionnement du syndicat.
@@ -7802,6 +8167,52 @@ concerné.
 	  - Code général des collectivités territoriales - art. L5212-30 (M)
 
 
+###### Article L163-17
+
+Le comité délibère sur l'extension des attributions et la modification des conditions initiales de fonctionnement ou de durée
+du syndicat.
+
+La délibération du comité est notifiée aux maires de chacune des communes syndiquées.
+
+Les conseils municipaux sont consultés dans les conditions prévues au premier alinéa de l'article L. 163-15.
+
+La décision d'extension ou de modification est prise par l'autorité qualifiée.
+
+Elle est toutefois subordonnée à l'accord de la majorité qualifiée des communes concernées, telle qu'elle est définie au
+deuxième alinéa de l'article L. 163-1.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°77-90 1977-01-27
+
+	**Modifié par**:
+
+	  - Loi n°88-13 du 5 janvier 1988 - art. 34 () JORF 6 janvier 1988
+
+	**Abrogé par**:
+
+	  - Loi n°96-142 du 21 février 1996 - art. 12 (V) JORF 24 février 1996
+
+	**Cite**:
+
+	  - CODE DES COMMUNES. - art. L163-1 (M)
+	  - CODE DES COMMUNES. - art. L163-15 (M)
+
+	**Cité par**:
+
+	  - CODE DES COMMUNES. - art. L163-16-2 (Ab)
+	  - CODE DES COMMUNES. - art. L163-17-1 (Ab)
+	  - CODE DES COMMUNES. - art. L167-5 (Ab)
+	  - CODE DES COMMUNES. - art. R*167-2 (Ab)
+	  - CODE DES COMMUNES. - art. R*168-2 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code général des collectivités territoriales - art. L5212-27 (Ab)
+
+
 ###### Article L163-17-1
 
 Lorsque l'application d'une disposition à caractère fiscal ou budgétaire a pour conséquence d'augmenter ou de diminuer les
@@ -7843,6 +8254,96 @@ budget du syndicat.
 
 	  - Code général des collectivités territoriales - art. L5212-25 (V)
 	  - Code général des collectivités territoriales - art. L5212-25 (M)
+
+
+###### Article L163-17-2
+
+A moins de dispositions contraires, confirmées par la décision institutive, l'adhésion du syndicat à un établissement public
+de coopération intercommunale est subordonnée à l'accord des conseils municipaux des communes membres du syndicat, donné dans
+les conditions de majorité prévues au deuxième alinéa de l'article L. 163-1..
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°77-90 1977-01-27
+
+	**Cité par**:
+
+	  - Loi n°86-29 du 9 janvier 1986 - art. 36 (MMN)
+	  - CODE DES COMMUNES. - art. L163-17-2 (MMN)
+	  - CODE DES COMMUNES. - art. L167-5 (Ab)
+
+	**Modifié par**:
+
+	  - Loi n°88-13 du 5 janvier 1988 - art. 42 () JORF 6 janvier 1988
+
+	**Abrogé par**:
+
+	  - Loi n°96-142 du 21 février 1996 - art. 12 (V) JORF 24 février 1996
+
+	**Cite**:
+
+	  - CODE DES COMMUNES. - art. L163-1 (M)
+
+	**Nouveaux textes**:
+
+	  - Code général des collectivités territoriales - art. L5212-32 (V)
+
+
+##### SECTION 4 : Durée du syndicat.
+
+###### Article L163-18
+
+Le syndicat est formé, soit sans fixation de terme, soit pour une durée déterminée par la décision institutive.
+
+Il est dissous :
+
+a) Soit de plein droit à l'expiration de cette durée ou à l'achèvement de l'opération qu'il avait pour objet de conduire ou à
+la date du transfert à un district des services en vue desquels il avait été institué ;
+
+b) Soit par le consentement de tous les conseils municipaux intéressés.
+
+Il peut être dissous, soit sur la demande motivée de la majorité de ces conseils municipaux et l'avis du bureau du conseil
+général, soit d'office par un décret rendu sur l'avis conforme du conseil général et du Conseil d'Etat.
+
+La répartition des personnels concernés entre les communes membres est soumise, pour avis, aux commissions administratives
+paritaires compétentes.
+
+Elle ne peut donner lieu à un dégagement des cadres. Les personnels concernés sont nommés dans un emploi de même niveau et en
+tenant compte de leurs droits acquis. Les communes attributaires supportent les charges financières correspondantes.
+
+Le décret de dissolution détermine, sous la réserve des droits des tiers, les conditions dans lesquelles le syndicat est
+liquidé.
+
+Le syndicat qui n'exerce aucune activité depuis deux ans au moins peut être dissous par arrêté du représentant de l'Etat dans
+le département après avis des conseils municipaux.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°77-90 1977-01-27
+
+	**Cité par**:
+
+	  - Loi n°84-53 du 26 janvier 1984 - art. 121 (M)
+	  - CODE DES COMMUNES. - art. L167-5 (Ab)
+	  - CODE DES COMMUNES. - art. R*163-6 (Ab)
+
+	**Modifié par**:
+
+	  - Loi n°88-13 du 5 janvier 1988 - art. 35 () JORF 6 janvier 1988
+
+	**Abrogé par**:
+
+	  - Loi n°96-142 du 21 février 1996 - art. 12 (V) JORF 24 février 1996
+
+	**Nouveaux textes**:
+
+	  - Code général des collectivités territoriales - art. L5212-33 (M)
+	  - Code général des collectivités territoriales - art. L5212-34 (V)
+	  - Code général des collectivités territoriales - art. L5212-5 (V)
 
 
 #### CHAPITRE 4 : Districts.
@@ -7985,6 +8486,57 @@ district ;
 
 	  - Code de l'urbanisme 326 à 332
 	  - Code de la construction et de l'habitation L621-1 à L621-6
+
+
+###### Article L164-5
+
+Le district est administré par un conseil composé de délégués des communes et par un bureau.
+
+Le nombre des membres du conseil est fixé par la décision institutive.
+
+Les dispositions du quatrième alinéa de l'article L. 163-5 et des articles L. 163-6 à L. 163-8 sont applicables à la
+désignation des membres du conseil du district et à la durée de leurs pouvoirs.
+
+Le bureau comprend un président et des vice-présidents élus par le conseil dans les conditions prévues aux articles L. 122-4
+et L. 122-8.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Ordonnance n°59-30 du 5 janvier 1959 - art. 5 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°77-90 1977-01-27
+
+	**Modifié par**:
+
+	  - Loi n°88-13 du 5 janvier 1988 - art. 37 () JORF 6 janvier 1988
+
+	**Abrogé par**:
+
+	  - Loi n°96-142 du 21 février 1996 - art. 12 (V) JORF 24 février 1996
+
+	**Cite**:
+
+	  - CODE DES COMMUNES. - art. L122-4 (M)
+	  - CODE DES COMMUNES. - art. L122-8 (M)
+	  - CODE DES COMMUNES. - art. L163-5 (M)
+	  - Code des communes L163-5, L163-6 à L163-8, L122-4, L122-8
+
+	**Cité par**:
+
+	  - CODE DES COMMUNES. - art. L164-3 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code général des collectivités territoriales - art. L5211-2 (M)
+	  - Code général des collectivités territoriales - art. L5213-12 (Ab)
+	  - Code général des collectivités territoriales - art. L5213-6 (Ab)
+	  - Code général des collectivités territoriales - art. L5213-7 (Ab)
+	  - Code général des collectivités territoriales - art. L5213-8 (Ab)
+	  - Code général des collectivités territoriales - art. L5213-9 (Ab)
 
 
 ###### Article L164-6
@@ -8460,6 +9012,42 @@ transfert d'une ou de plusieurs compétences énumérées au présent article.
 
 	  - CODE DES COMMUNES. - art. L165-4 (M)
 	  - Code de l'urbanisme - art. L332-9 (M)
+
+
+###### Article L165-7-1
+
+La communauté urbaine est substituée de plein droit, et pour la totalité des compétences qu'il exerce, au district
+préexistant constitué entre toutes les communes composant la communauté.
+
+" Toutefois, les communes membres peuvent décider, dans les conditions de majorité prévues à l'article L. 165-4, d'exclure
+des compétences de la communauté urbaine tout ou partie des compétences exercées par le district, à l'exception de celles qui
+sont énumérées aux 1°, 3°, 4°, 5°, 6°, 7° et 9° de l'article L. 165-7.
+
+" Dans ce cas, les compétences exclues de celles de la communauté urbaine sont restituées aux communes et le district est
+dissous de plein droit. "
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°77-90 1977-01-27
+
+	**Créé par**:
+
+	  - Loi n°88-13 du 5 janvier 1988 - art. 43 () JORF 6 janvier 1988
+
+	**Cité par**:
+
+	  - CODE DES COMMUNES. - art. L165-18 (Ab)
+
+	**Cite**:
+
+	  - CODE DES COMMUNES. - art. L165-4 (M)
+	  - CODE DES COMMUNES. - art. L165-7 (M)
+
+	**Nouveaux textes**:
+
+	  - Code général des collectivités territoriales - art. L5215-21 (V)
 
 
 ###### Article L165-8
@@ -12147,6 +12735,34 @@ et 5° de l'article L. 131-2, par le deuxième alinéa de l'article L. 181-40, e
 	  - Code général des collectivités territoriales - art. L2542-8 (V)
 
 
+###### Article L181-46
+
+Il y a au moins un garde-champêtre par commune.
+
+La commune juge de la nécessité d'en établir davantage.
+
+Un groupement de collectivités peut avoir en commun un ou plusieurs gardes champêtres compétents sur l'ensemble du territoire
+des communes constituant ce groupement.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°77-90 1977-01-27
+
+	**Modifié par**:
+
+	  - Loi n°88-13 du 5 janvier 1988 - art. 44 () JORF 6 janvier 1988
+
+	**Abrogé par**:
+
+	  - Loi n°96-142 du 21 février 1996 - art. 12 (V) JORF 24 février 1996
+
+	**Nouveaux textes**:
+
+	  - Code général des collectivités territoriales - art. L2542-9 (V)
+
+
 ###### Article L181-47
 
 Dans les communes où a été instituée la police d'Etat, les maires restent investis des pouvoirs de police conférés aux
@@ -13516,45 +14132,6 @@ Les conseils municipaux se réunissent au moins une fois par trimestre [*fréque
 	  - Code général des collectivités territoriales - art. L2121-7 (V)
 
 
-###### Article L121-10
-
-Toute convocation est faite par le maire. Elle est mentionnée au registre des délibérations, affichée ou publiée.
-
-Elle est adressée aux conseillers municipaux par écrit et à domicile trois jours au moins avant celui de la réunion. 
-
-En cas d'urgence, le délai peut être abrégé par le maire, sans pouvoir toutefois être inférieur à un jour franc. Le maire en
-rend compte dès l'ouverture de la séance au conseil municipal, qui se prononce définitivement sur l'urgence et peut décider
-le renvoi de la discussion pour tout ou partie à l'ordre du jour d'une séance ultérieure.
-
-**Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - SPEC_APPLI: *Dispositions non applicables aux communes des départements de la Moselle, du Bas-Rhin et du Haut-Rhin (Alsace-Lorraine)*
-	  - SPEC_APPLI: Code des communes L181-1 :
-
-	**Anciens textes**:
-
-	  - Code de l'administration communale 24
-
-	**Codifié par**:
-
-	  - Décret n°77-90 1977-01-27
-
-	**Créé par**:
-
-	  - Décret n°77-90 1977-01-27 JORF et JONC 3 février 1977 date d'entrée en vigueur 20 mars 1977
-
-	**Cité par**:
-
-	  - Loi n°92-125 du 6 février 1992 - art. 30 (V)
-	  - Loi n°96-609 du 5 juillet 1996 - art. 25 (M)
-	  - CODE DES COMMUNES. - art. L122-5 (Ab)
-	  - CODE DES COMMUNES. - art. R*125-8 (Ab)
-	  - CODE DES COMMUNES. - art. R*151-6 (Ab)
-	  - CODE DES COMMUNES. - art. R411-32 (Ab)
-
-
 ##### Dispositions applicables aux membres des conseils municipaux
 
 ###### Article L121-21
@@ -13852,62 +14429,6 @@ en autoriser l'exécution immédiate.
 	  - CODE DES COMMUNES. - art. L131-3 (M)
 
 
-### Stations classées
-
-#### Dispositions communes aux stations classées
-
-##### Office de tourisme .
-
-###### Article L142-10
-
-Le budget de l'office [*ressources*] comprend notamment en recettes le produit :
-
-1° Des subventions ; 
-
-2° Des souscriptions particulières et d'offres de concours ; 
-
-3° De dons et legs ; 
-
-4° De la taxe de séjour, si elle est perçue dans la commune ou la fraction de commune ; 
-
-5° De la taxe sur les entreprises spécialement intéressées à la prospérité de la station. Toutefois, sur le produit des
-recettes brutes des entreprises exploitant des installations spécialement destinées à la pratique des sports de montagne et
-des engins de remontée mécanique, seule est affectée au budget de l'office la partie du produit de cette taxe qui n'a pas été
-utilisée pour l'indemnisation des propriétaires de terrains classés pistes de ski ; 
-
-6° Des recettes provenant de la gestion des services ou d'installations sportives et touristiques comprises dans le périmètre
-de la station classée. 
-
-En outre, le conseil municipal peut décider, chaque année,
-
-lors du vote du budget primitif, d'affecter à l'office du tourisme une fraction égale à tout ou partie du produit de la taxe
-additionnelle aux droits d'enregistrement sur les mutations à titre onéreux.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°77-90 1977-01-27
-
-	**Créé par**:
-
-	  - Décret n°77-90 1977-01-27 JORF et JONC 3 février 1977 date d'entrée en vigueur élection des maires
-
-	**Cité par**:
-
-	  - CODE DES COMMUNES. - art. L233-30 (Ab)
-	  - CODE DES COMMUNES. - art. L233-45 (Ab)
-	  - CODE DES COMMUNES. - art. R*142-16 (Ab)
-
-	**Nouveaux textes**:
-
-	  - Code général des collectivités territoriales - art. L2231-14 (MMN)
-
-	**Anciens textes**:
-
-	  - Loi n°64-898 1964-07-10 art. 6
-
-
 ### Intérêts propres à certaines catégories d'habitants
 
 #### Communes associées .
@@ -13960,316 +14481,7 @@ décret.
 	  - Code électoral - art. L255-1 (V)
 
 
-###### Article L153-2
-
-Le maire de l'ancienne commune en fonction au moment de la fusion devient de droit maire délégué jusqu'au prochain
-renouvellement du conseil municipal [*date*].
-
-Après ce renouvellement ou en cas de vacance, le maire délégué est choisi par le conseil municipal parmi les conseillers élus
-dans la section correspondante ou, à défaut, parmi les membres du conseil.
-
-Toutefois, dans les communes ayant 30.000 habitants au plus, le maire délégué est choisi par les conseillers élus dans la
-section correspondante.
-
-**Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - SPEC_APPLI: *Dispositions non applicables aux communes des départements de la Guadeloupe, de la Guyane, de la Martinique, de la Réunion et de Saint-Pierre-et-Miquelon*
-	  - SPEC_APPLI: CODE DES COMMUNES. - art. L182-1 (Ab)
-	  - SPEC_APPLI: Code des communes L182-1, L182-2 :
-
-	**Anciens textes**:
-
-	  - Loi n°71-588 1971-07-16 ART. 9 I AL. 4
-
-	**Codifié par**:
-
-	  - Décret n°77-90 1977-01-27
-
-	**Modifié par**:
-
-	  - Loi n°82-974 1982-11-19 ART. 16 JORF 20 NOVEMBRE 1982 date d'entrée en vigueur 6 MARS 1983
-
-	**Cité par**:
-
-	  - Loi n°82-1169 du 31 décembre 1982 - art. 66 (Ab)
-	  - Décret n°2005-1611 du 20 décembre 2005 - art. 9 (V)
-
-
 ### INTERETS COMMUNS A PLUSIEURS COMMUNES
-
-#### SYNDICATS DE COMMUNES
-
-##### Administration et fonctionnement du syndicat .
-
-###### Article L163-5
-
-Les membres du comité du syndicat sont élus par les conseils municipaux des communes intéressées.
-
-Chaque commune est représentée dans le comité par deux délégués. 
-
-Le choix du conseil municipal peut porter sur tout citoyen réunissant les conditions requises pour faire partie d'un conseil
-municipal.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Code de l'administration communale 144 al. 1 phr. 3 à 5
-
-	**Codifié par**:
-
-	  - Décret n°77-90 1977-01-27
-
-	**Créé par**:
-
-	  - Décret n°77-90 1977-01-27 JORF et JONC 3 février 1977 date d'entrée en vigueur élection des maires
-
-	**Cité par**:
-
-	  - CODE DES COMMUNES. - art. L164-5 (Ab)
-
-
-###### Article L163-10
-
-Les conditions de validité des délibérations du comité du syndicat et, le cas échéant, de celles du bureau procédant par
-délégation du comité, les dispositions relatives aux convocations, à l'ordre et à la tenue des séances, sont celles que fixe
-le chapitre I du titre II du présent livre pour les conseils municipaux.
-
-Lorsque la décision d'institution prévoit qu'une commune est représentée dans le comité du syndicat par [*nombre*] un seul
-délégué, cette décision ou une décision modificative peut instituer un délégué suppléant appelé à siéger au comité avec voix
-délibérative, en cas d'empêchement du délégué titulaire.
-
-Toutefois, si le tiers des membres présents ou le président le demande [*proportion*], le comité décide de se former en
-comité secret.
-
-**Liens relatifs à cet article**
-
-	**Cité par**:
-
-	  - CODE DES COMMUNES. - art. L163-14-1 (Ab)
-	  - Loi n°70-610 du 10 juillet 1970 - art. 11 (Ab)
-
-	**Anciens textes**:
-
-	  - Code de l'administration communale 145 al. 1 modifié
-
-	**Codifié par**:
-
-	  - Décret n°77-90 1977-01-27
-
-	**Modifié par**:
-
-	  - Loi n°86-29 du 9 janvier 1986 - art. 35 () JORF 10 janvier 1986
-
-	**Cite**:
-
-	  - Code des communes L121-1 à L121-39
-
-
-###### Article L163-12
-
-Le comité se réunit au moins une fois par trimestre, ou, lorsque le syndicat a été formé en vue d'une seule oeuvre ou d'un
-seul service d'intérêt intercommunal, une fois par semestre.
-
-Le président est obligé de convoquer le comité, à la demande du tiers au moins des membres du comité.
-
-Les règles relatives à l'élection et à la durée du mandat du président et des membres du bureau sont celles que fixent les
-articles L. 122-4 et L. 122-9 pour le maire et les adjoints.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Code de l'administration communale 14 modifié
-
-	**Cité par**:
-
-	  - Loi n°70-610 du 10 juillet 1970 - art. 11 (Ab)
-	  - Loi n°96-609 du 5 juillet 1996 - art. 25 (M)
-	  - CODE DES COMMUNES. - art. R323-130 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°77-90 1977-01-27
-
-	**Modifié par**:
-
-	  - Loi n°82-213 du 2 mars 1982 - art. 21 (V) JORF 3 MARS 1982
-
-	**Cite**:
-
-	  - CODE DES COMMUNES. - art. L122-4 (M)
-	  - CODE DES COMMUNES. - art. L122-9 (M)
-
-
-###### Article L163-13
-
-Le président ou le bureau peuvent, par délégation du comité [*du syndicat*], être chargés du règlement de certaines affaires
-et recevoir à cet effet délégation du comité. 
-
-Lors de chaque réunion obligatoire, le président et le bureau rendent compte au comité de leurs travaux. 
-
-Le président exécute les décisions du comité et représente le syndicat en justice.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Code de l'administration communale 146 remplacé al. 4 et suivants
-
-	**Cité par**:
-
-	  - Loi n°70-610 du 10 juillet 1970 - art. 11 (Ab)
-	  - Loi n°96-609 du 5 juillet 1996 - art. 25 (M)
-
-	**Codifié par**:
-
-	  - Décret n°77-90 1977-01-27
-
-	**Créé par**:
-
-	  - Décret n°77-90 1977-01-27 JORF et JONC 3 février 1977 date d'entrée en vigueur élection des maires
-
-	**Nouveaux textes**:
-
-	  - Code général des collectivités territoriales - art. L5212-12 (Ab)
-
-
-##### Modification aux conditions initiales de composition et de fonctionnement du syndicat.
-
-###### Article L163-17
-
-Le comité délibère sur [*attributions*] l'extension des attributions et la modification des conditions initiales de
-fonctionnement ou de durée du syndicat.
-
-La délibération du comité est notifiée aux maires de chacune des communes syndiquées.
-
-Les conseils municipaux sont consultés dans les conditions prévues au premier alinéa de l'article L. 163-15 [*délai de
-quarante jours à compter de la notification*].
-
-La décision d'extension ou de modification est prise par l'autorité qualifiée.
-
-Elle ne peut, toutefois, intervenir si plus d'un tiers des conseils municipaux s'oppose à l'extension ou à la modification
-[*proportion*].
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°77-90 1977-01-27
-
-	**Modifié par**:
-
-	  - Loi n°82-213 du 2 mars 1982 - art. 21 (V) JORF 3 MARS 1982
-
-	**Cite**:
-
-	  - CODE DES COMMUNES. - art. L163-15 (M)
-	  - Code des communes R163-5
-
-	**Cité par**:
-
-	  - CODE DES COMMUNES. - art. L163-16-2 (Ab)
-	  - CODE DES COMMUNES. - art. L163-17-1 (Ab)
-	  - CODE DES COMMUNES. - art. L167-5 (Ab)
-	  - CODE DES COMMUNES. - art. R*167-2 (Ab)
-	  - CODE DES COMMUNES. - art. R*168-2 (Ab)
-
-	**Anciens textes**:
-
-	  - Code de l'administration communale 150 remplacé
-
-	**Nouveaux textes**:
-
-	  - Code général des collectivités territoriales - art. L5212-27 (Ab)
-
-
-##### Durée du syndicat .
-
-###### Article L163-18
-
-Le syndicat est formé, soit sans fixation de terme, soit pour une durée déterminée par la décision institutive.
-
-Il est dissous :
-
-a) Soit de plein droit à l'expiration de cette durée ou à l'achèvement de l'opération qu'il avait pour objet de conduire ou à
-la date du transfert à un district des services en vue desquels il avait été institué ;
-
-b) Soit par le consentement de tous les conseils municipaux intéressés.
-
-Il peut être dissous [*conditions*], soit sur la demande motivée de la majorité de ces conseils municipaux et l'avis du
-bureau du conseil général, soit d'office par un décret rendu sur l'avis conforme du conseil général et du Conseil d'Etat.
-
-La répartition des personnels concernés entre les communes membres est soumise, pour avis, aux commissions administratives
-paritaires compétentes.
-
-Elle ne peut donner lieu à un dégagement des cadres. Les personnels concernés sont nommés dans un emploi de même niveau et en
-tenant compte de leurs droits acquis. Les communes attributaires supportent les charges financières correspondantes.    Le
-décret de dissolution détermine, sous la réserve des droits des tiers, les conditions dans lesquelles le syndicat est
-liquidé.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Code de l'administration communale 151 MODIFIE
-
-	**Codifié par**:
-
-	  - Décret n°77-90 1977-01-27
-
-	**Modifié par**:
-
-	  - Loi n°84-53 1984-01-26 ART. 121 I JORF 27 JANVIER 1984
-
-	**Cité par**:
-
-	  - Loi n°84-53 du 26 janvier 1984 - art. 121 (M)
-	  - CODE DES COMMUNES. - art. L167-5 (Ab)
-	  - CODE DES COMMUNES. - art. R*163-6 (Ab)
-
-
-#### DISTRICTS .
-
-###### Article L164-5
-
-Le district est administré par un conseil composé de délégués des communes et par un bureau. 
-
-Le nombre des membres du conseil est fixé par la décision institutive. 
-
-Les dispositions du troisième alinéa de l'article L. 163-5 [* a qualité pour être choisi par le conseil municipal comme
-délégué de la commune, tout citoyen réunissant les conditions requises pour être conseiller municipal*] et des articles L.
-163-6 à L. 163-8 [*relatifs aux délégués des communes au syndicat de communes*] sont applicables à la désignation des membres
-du conseil du district et à la durée de leurs pouvoirs. 
-
-Le bureau comprend un président et des vice-présidents élus par le conseil dans les conditions prévues aux articles L. 122-4
-et L. 122-8 [*élection du maire et des adjoints, incompatibilités de fonctions*].
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Ordonnance n°59-30 du 5 janvier 1959 - art. 5 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°77-90 1977-01-27
-
-	**Créé par**:
-
-	  - Décret n°77-90 1977-01-27 JORF et JONC 3 février 1977 date d'entrée en vigueur élection des maires
-
-	**Cite**:
-
-	  - CODE DES COMMUNES. - art. L122-8 (M)
-	  - Code des communes L163-5 al. 3 et L163-6 à L163-8
-
-	**Cité par**:
-
-	  - CODE DES COMMUNES. - art. L164-3 (Ab)
-
 
 #### COMMUNAUTES URBAINES
 
@@ -14316,37 +14528,6 @@ détermine, à la majorité absolue des suffrages exprimés, le mode de scrutin 
 
 	  - CODE DES COMMUNES. - art. L165-29 (M)
 	  - CODE DES COMMUNES. - art. L165-30 (M)
-
-
-### Dispositions particulières
-
-#### Dispositions applicables aux communes des départements de la Moselle, du Bas-Rhin et du Haut-Rhin
-
-##### La police municipale .
-
-###### Article L181-46
-
-Il y a au moins un garde-champêtre par commune [*nombre*] . 
-
-La commune juge de la nécessité d'en établir davantage.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Arrêté 20 messidor an 8 art. 3
-
-	**Codifié par**:
-
-	  - Décret n°77-90 1977-01-27
-
-	**Créé par**:
-
-	  - Décret n°77-90 1977-01-27 JORF et JONC 3 février 1977 date d'entrée en vigueur élection des maires
-
-	**Nouveaux textes**:
-
-	  - Code général des collectivités territoriales - art. L2542-9 (V)
 
 
 ## LIVRE 2 : Finances communales
@@ -14764,6 +14945,72 @@ scolarisée fréquentant les établissements en cause.
 	  - Loi n°96-142 du 21 février 1996 - art. 12 (V)
 
 
+###### Article L221-6
+
+Le conseil municipal peut porter au budget tant en section d'investissement qu'en section de fonctionnement un crédit pour
+dépenses imprévues. Pour chacune des deux sections du budget, ce crédit ne peut être supérieur à 7,5 p. 100 des crédits
+correspondant aux dépenses réelles prévisionnelles de la section.
+
+Les dépenses inscrites à la section d'investissement en application de l'alinéa précédent ne peuvent être financées par
+l'emprunt.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°77-90 1977-01-27
+
+	**Modifié par**:
+
+	  - Loi n°88-13 du 5 janvier 1988 - art. 16 () JORF 6 janvier 1988
+
+	**Abrogé par**:
+
+	  - Loi n°96-142 du 21 février 1996 - art. 12 (V) JORF 24 février 1996
+
+	**Cité par**:
+
+	  - CODE DES COMMUNES. - art. L261-1 (M)
+	  - Loi n°1871-08-10. du 10 août 1871 - art. 63 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code général des collectivités territoriales - art. L2322-1 (V)
+
+
+###### Article L221-7
+
+Le crédit pour dépenses imprévues est employé par le maire.
+
+Dans la première session qui suit l'ordonnancement de chaque dépense, le maire rend compte au conseil municipal, avec pièces
+justificatives à l'appui, de l'emploi de ce crédit. Ces pièces demeurent annexées à la délibération.
+
+Ce crédit ne peut être employé que pour faire face à des dépenses en vue desquelles aucune dotation n'est inscrite au budget.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°77-90 1977-01-27
+
+	**Modifié par**:
+
+	  - Loi n°88-13 du 5 janvier 1988 - art. 16 () JORF 6 janvier 1988
+
+	**Abrogé par**:
+
+	  - Loi n°96-142 du 21 février 1996 - art. 12 (V) JORF 24 février 1996
+
+	**Cité par**:
+
+	  - CODE DES COMMUNES. - art. L261-1 (Ab)
+	  - Loi n°1871-08-10. du 10 août 1871 - art. 63 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code général des collectivités territoriales - art. L2322-2 (V)
+
+
 ###### Article L221-8
 
 Toute association, oeuvre ou entreprise ayant reçu une subvention peut être soumise au contrôle des délégués de la commune
@@ -15020,6 +15267,70 @@ peuvent comprendre les recettes fiscales et non fiscales prévues aux articles L
 	**Cite**:
 
 	  - Code des communes L231-5 et L231-6
+
+
+###### Article L231-5
+
+Les recettes fiscales de la section de fonctionnement peuvent comprendre :
+
+a) Des impôts et taxes dont l'assiette et le recouvrement ont lieu dans les formes prévues au code général des impôts, à
+savoir :
+
+1° Le produit de la taxe foncière sur les propriétés bâties, de la taxe foncière sur les propriétés non bâties, de la taxe
+d'habitation et de la taxe professionnelle ;
+
+2° Le produit de la taxe d'enlèvement des ordures ménagères ;
+
+3° Le produit de la taxe de balayage ;
+
+4° Le produit de la surtaxe sur les eaux minérales ;
+
+5° Le produit de la taxe sur les jeux de boules et de quilles comportant des dispositifs électromécaniques.
+
+b) Les recettes suivantes :
+
+1° Le produit de la taxe sur l'électricité ;
+
+2° Le produit de la taxe sur la publicité frappant les affiches, réclames et enseignes lumineuses ;
+
+3° Dans les communes visées à l'article L. 233-29, le produit de la taxe de séjour ou de la taxe de séjour forfaitaire et de
+la taxe sur les entreprises spécialement intéressées à la prospérité de la station ;
+
+4° Le produit des droits de place perçus dans les halles, foires et marchés d'après les tarifs dûment établis ;
+
+5° Le produit des droits de port perçus conformément aux dispositions des articles 270 à 281 du code des douanes.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°77-90 1977-01-27
+
+	**Modifié par**:
+
+	  - Loi n°88-13 du 5 janvier 1988 - art. 58 () JORF 6 janvier 1988
+
+	**Cité par**:
+
+	  - Ordonnance n°91-755 du 22 juillet 1991 - art. 2 (VT)
+	  - CODE DES COMMUNES. - art. L181-50 (Ab)
+	  - CODE DES COMMUNES. - art. L252-3 (Ab)
+	  - CODE DES COMMUNES. - art. L253-2 (Ab)
+	  - CODE DES COMMUNES. - art. L261-1 (Ab)
+
+	**Abrogé par**:
+
+	  - Loi n°96-142 du 21 février 1996 - art. 12 (V) JORF 24 février 1996
+
+	**Cite**:
+
+	  - CODE DES COMMUNES. - art. L233-29 (M)
+	  - Code des douanes 270 à 281
+
+	**Nouveaux textes**:
+
+	  - Code général des collectivités territoriales - art. L2331-3 (V)
+	  - Code général des collectivités territoriales - art. L2331-3 (M)
 
 
 ###### Article L231-6
@@ -16212,7 +16523,764 @@ les contraventions.
 	  - Loi n°96-142 du 21 février 1996 - art. 12 (V)
 
 
+###### Article L233-33
+
+Le tarif de la taxe de séjour est fixé, pour chaque nature et pour chaque catégorie d'hébergement, par personne et par nuitée
+de séjour.
+
+" Il est arrêté par délibération du conseil municipal conformément à un barème établi par décret en Conseil d'Etat sur la
+base du classement officiel des hébergements et installations accueillant les personnes visées à l'article L. 233-31.
+
+" Le tarif ne peut être inférieur à 1 franc, ni supérieur à 7 francs [*montant*], par personne et par nuitée ".
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°77-90 1977-01-27
+
+	**Modifié par**:
+
+	  - Loi n°88-13 1988-01-05 art. 58 III, VII, VIII JORF 6 janvier 1988
+	  - Loi n°88-13 du 5 janvier 1988 - art. 58 () JORF 6 janvier 1988
+
+	**Cité par**:
+
+	  - Ordonnance n°91-755 du 22 juillet 1991 - art. 2 (VT)
+	  - CODE DES COMMUNES. - art. L233-29 (M)
+	  - CODE DES COMMUNES. - art. L233-40 (Ab)
+	  - CODE DES COMMUNES. - art. L233-41 (Ab)
+
+	**Cite**:
+
+	  - CODE DES COMMUNES. - art. L233-31 (M)
+
+
 ##### SECTION 4 : Taxes particulières aux stations
+
+##### SOUS-SECTION 1 : Taxe de séjour et taxe de séjour forfaitaire
+
+##### PARAGRAPHE 1 : Dispositions générales.
+
+###### Article L233-29
+
+Dans les stations classées, dans les communes qui bénéficient de l'une des dotations prévues à l'article L. 234-13, dans les
+communes littorales au sens de la loi n° 86-2 du 3 janvier 1986 relative à l'aménagement, la protection et la mise en valeur
+du littoral, dans les communes de montagne au sens de la loi n° 85-30 du 9 janvier 1985 relative au développement et à la
+protection de la montagne et dans les communes qui réalisent des actions de promotion en faveur du tourisme, le conseil
+municipal peut instituer, pour chaque nature d'hébergement, soit une taxe de séjour perçue dans les conditions prévues aux
+articles L. 233-33 à L. 233-44, soit une taxe de séjour forfaitaire perçue dans les conditions prévues aux articles L.
+233-44-1 à L. 233-44-7. Les natures d'hébergement sont fixées par décret en Conseil d'Etat.
+
+Les délibérations prises en application du premier alinéa précisent les natures d'hébergement auxquelles s'appliquent les
+taxes.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°77-90 1977-01-27
+
+	**Cite**:
+
+	  - Loi n°85-30 1985-01-09
+	  - Loi n°86-2 1986-01-03
+	  - CODE DES COMMUNES. - art. L233-33 (M)
+	  - CODE DES COMMUNES. - art. L233-44 (M)
+	  - CODE DES COMMUNES. - art. L233-44-1 (Ab)
+	  - CODE DES COMMUNES. - art. L234-13 (M)
+	  - Code des communes L234-13, L233-33, L233-44, L233-44-1, L233-44-7
+
+	**Modifié par**:
+
+	  - Loi n°88-13 1988-01-05 art. 58 III, IV JORF 6 janvier 1988
+	  - Loi n°88-13 du 5 janvier 1988 - art. 58 () JORF 6 janvier 1988
+
+	**Cité par**:
+
+	  - Ordonnance n°91-755 du 22 juillet 1991 - art. 2 (VT)
+	  - Arrêté du 28 décembre 1976 - art. 12 (Ab)
+	  - CODE DES COMMUNES. - art. L231-5 (Ab)
+	  - CODE DES COMMUNES. - art. L233-45 (Ab)
+	  - CODE DES COMMUNES. - art. R*233-43 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code général des collectivités territoriales - art. L2333-26 (V)
+
+
+###### Article L233-30
+
+Sous réserve de l'application des dispositions ons de l'article L. 142-10, le produit de la taxe de séjour ou de la taxe de
+séjour forfaitaire est affecté aux dépenses destinées à favoriser la fréquentation touristique de la commune ".
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°77-90 1977-01-27
+
+	**Modifié par**:
+
+	  - Loi n°88-13 1988-01-05 art. 58 III, V JORF 6 janvier 1988
+	  - Loi n°88-13 du 5 janvier 1988 - art. 58 () JORF 6 janvier 1988
+
+	**Cité par**:
+
+	  - Ordonnance n°91-755 du 22 juillet 1991 - art. 2 (VT)
+	  - CODE DES COMMUNES. - art. L233-46 (Ab)
+
+	**Cite**:
+
+	  - CODE DES COMMUNES. - art. L142-10 (M)
+
+	**Nouveaux textes**:
+
+	  - Code général des collectivités territoriales - art. L2333-27 (M)
+
+
+###### Article L233-31
+
+La taxe de séjour est établie sur les personnes [*assiette*] qui ne sont pas domiciliées dans la commune et n'y possèdent pas
+une résidence à raison de laquelle elles sont passibles de la taxe d'habitation.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°77-90 1977-01-27
+
+	**Modifié par**:
+
+	  - Loi n°88-13 du 5 janvier 1988 - art. 58 () JORF 6 janvier 1988) A(Loi 96-142 1996-02-21 art. 12 jorf 24 février 1996
+
+	**Cité par**:
+
+	  - Ordonnance n°91-755 du 22 juillet 1991 - art. 2 (VT)
+	  - CODE DES COMMUNES. - art. L233-33 (Ab)
+	  - CODE DES COMMUNES. - art. L233-44-1 (Ab)
+	  - CODE DES COMMUNES. - art. L233-44-2 (Ab)
+	  - CODE DES COMMUNES. - art. L233-44-3 (Ab)
+	  - CODE DES COMMUNES. - art. R*233-47 (Ab)
+	  - CODE DES COMMUNES. - art. R233-50 (Ab)
+	  - CODE DES COMMUNES. - art. R233-60-4 (Ab)
+
+	**Anciens textes**:
+
+	  - Code de l'administration communale 217
+
+
+###### Article L233-32
+
+La période de perception de la taxe de séjour et de la taxe de séjour forfaitaire est fixée, pour chaque station, par le
+conseil municipal.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°77-90 1977-01-27
+
+	**Modifié par**:
+
+	  - Loi n°88-13 1988-01-05 art. 58 III, VI JORF 6 janvier 1988
+	  - Loi n°88-13 du 5 janvier 1988 - art. 58 () JORF 6 janvier 1988
+
+	**Cité par**:
+
+	  - Ordonnance n°91-755 du 22 juillet 1991 - art. 2 (VT)
+	  - CODE DES COMMUNES. - art. L233-42 (Ab)
+	  - CODE DES COMMUNES. - art. L233-44-1 (Ab)
+	  - CODE DES COMMUNES. - art. L233-44-4 (Ab)
+	  - CODE DES COMMUNES. - art. R*233-53 (Ab)
+	  - CODE DES COMMUNES. - art. R*233-54 (Ab)
+	  - CODE DES COMMUNES. - art. R233-50 (Ab)
+	  - CODE DES COMMUNES. - art. R233-60-2 (Ab)
+	  - CODE DES COMMUNES. - art. R233-60-5 (Ab)
+	  - CODE DES COMMUNES. - art. R233-60-6 (Ab)
+
+	**Abrogé par**:
+
+	  - Loi n°96-142 du 21 février 1996 - art. 12 (V) JORF 24 février 1996
+
+	**Nouveaux textes**:
+
+	  - Code général des collectivités territoriales - art. L2333-28 (M)
+	  - Code général des collectivités territoriales - art. L2333-28 (V)
+
+
+##### PARAGRAPHE 2 : Taxe de séjour.
+
+###### Article L233-34
+
+Sont exemptés de la taxe de séjour dans toutes les stations, pendant la durée du séjour qu'ils font pour les besoins
+exclusifs de la profession, les voyageurs et représentants de commerce porteurs de la carte d'identité professionnelle
+instituée par la loi du 8 octobre 1919.
+
+Dans chaque station, l'arrêté municipal pris en vue de l'application du présent article fixe la durée du séjour pendant
+laquelle est accordée l'exemption instituée à l'alinéa précédent. Cette durée ne peut être inférieure à trois jours.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Code de l'administration communale 220
+
+	**Codifié par**:
+
+	  - Décret n°77-90 1977-01-27
+
+	**Cite**:
+
+	  - Loi n°1919-10-08
+
+	**Modifié par**:
+
+	  - Loi n°88-13 1988-01-05 art. 58 III, VII JORF 6 janvier 1988) A(Loi 96-142 1996-02-21 art. 12 jorf 24 février 1996
+	  - Loi n°88-13 du 5 janvier 1988 - art. 58 () JORF 6 janvier 1988) A(Loi 96-142 1996-02-21 art. 12 jorf 24 février 1996
+
+	**Cité par**:
+
+	  - Ordonnance n°91-755 du 22 juillet 1991 - art. 2 (VT)
+
+
+###### Article L233-35
+
+Sont exemptés [*conditions*] de la taxe de séjour dans les stations hydrominérales, climatiques et uvales :
+
+1° Les bénéficiaires des formes d'aide sociale prévues aux chapitres V, VI et VIII du titre III du code de la famille et de
+l'aide sociale ;
+
+2° Les mutilés, les blessés et les malades du fait de la guerre.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Code de l'administration communale 219
+
+	**Cite**:
+
+	  - Code de la famille et de l'aide sociale titre III chapitres V, VI, VIII
+
+	**Codifié par**:
+
+	  - Décret n°77-90 1977-01-27
+
+	**Modifié par**:
+
+	  - Loi n°88-13 1988-01-05 art. 58 III, VII JORF 6 janvier 1988) A(Loi 96-142 1996-02-21 art. 12 jorf 24 février 1996
+	  - Loi n°88-13 du 5 janvier 1988 - art. 58 () JORF 6 janvier 1988) A(Loi 96-142 1996-02-21 art. 12 jorf 24 février 1996
+
+
+###### Article L233-36
+
+Peuvent être exemptées [*conditions*] de la taxe de séjour, dans toutes les stations, les personnes qui occupent des locaux
+d'un prix inférieur à un chiffre déterminé.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Code de l'administration communale 221 al. 1
+
+	**Codifié par**:
+
+	  - Décret n°77-90 1977-01-27
+
+	**Modifié par**:
+
+	  - Loi n°88-13 1988-01-05 art. 58 III, VII JORF 6 janvier 1988) A(Loi 96-142 1996-02-21 art. 12 jorf 24 février 1996
+	  - Loi n°88-13 du 5 janvier 1988 - art. 58 () JORF 6 janvier 1988) A(Loi 96-142 1996-02-21 art. 12 jorf 24 février 1996
+
+	**Cité par**:
+
+	  - Ordonnance n°91-755 du 22 juillet 1991 - art. 2 (VT)
+
+
+###### Article L233-37
+
+Peuvent être exemptés [*conditions*] de la taxe de séjour, dans les stations hydrominérales, climatiques et uvales, les
+personnes qui sont exclusivement attachées aux malades ou celles qui, par leur travail ou leur profession, participent au
+fonctionnement ou au développement de la station.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Code de l'administration communale 221 al. 2
+
+	**Codifié par**:
+
+	  - Décret n°77-90 1977-01-27
+
+	**Modifié par**:
+
+	  - Loi n°88-13 1988-01-05 art. 58 III, VII JORF 6 janvier 1988) A(Loi 96-142 1996-02-21 art. 12 jorf 24 février 1996
+	  - Loi n°88-13 du 5 janvier 1988 - art. 58 () JORF 6 janvier 1988) A(Loi 96-142 1996-02-21 art. 12 jorf 24 février 1996
+
+
+###### Article L233-39
+
+Le décret qui fixe le barème détermine, s'il y a lieu, les catégories d'établissements dans lesquels la taxe de séjour n'est
+pas perçue et les atténuations et exemptions autorisées pour certaines catégories de personnes.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Code de l'administration communale 222 al. 2 phr. 3
+
+	**Codifié par**:
+
+	  - Décret n°77-90 1977-01-27
+
+	**Modifié par**:
+
+	  - Loi n°88-13 1988-01-05 art. 58 III, VII JORF 6 janvier 1988) A(Loi 96-142 1996-02-21 art. 12 jorf 24 février 1996
+	  - Loi n°88-13 du 5 janvier 1988 - art. 58 () JORF 6 janvier 1988) A(Loi 96-142 1996-02-21 art. 12 jorf 24 février 1996
+
+	**Cité par**:
+
+	  - Ordonnance n°91-755 du 22 juillet 1991 - art. 2 (VT)
+
+
+###### Article L233-41
+
+Des arrêtés du maire répartissent par référence au barème mentionné à l'article L. 233-33, les villas, locaux et autres
+installations accueillant les personnes visées à l'article L. 233-31.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°77-90 1977-01-27
+
+	**Modifié par**:
+
+	  - Loi n°88-13 1988-01-05 art. 58 III, VII, IX JORF 6 janvier 1988
+	  - Loi n°88-13 du 5 janvier 1988 - art. 58 () JORF 6 janvier 1988
+
+	**Cité par**:
+
+	  - Ordonnance n°91-755 du 22 juillet 1991 - art. 2 (VT)
+	  - CODE DES COMMUNES. - art. L233-41 (Ab)
+
+	**Abrogé par**:
+
+	  - Loi n°96-142 du 21 février 1996 - art. 12 (V) JORF 24 février 1996
+
+	**Cite**:
+
+	  - CODE DES COMMUNES. - art. L233-33 (M)
+
+	**Nouveaux textes**:
+
+	  - Code général des collectivités territoriales - art. L2333-36 (M)
+	  - Code général des collectivités territoriales - art. L2333-36 (V)
+
+
+###### Article L233-42
+
+La taxe de séjour est perçue par les logeurs, hôteliers, propriétaires ou autres intermédiaires qui versent, à l'expiration
+de la période de perception visée à l'article L. 233-32, sous leur responsabilité, au receveur municipal, le montant de la
+taxe calculé conformément aux dispositions des articles L. 233-32 à L. 233-41.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°77-90 1977-01-27
+
+	**Cité par**:
+
+	  - Loi n°77-744 du 8 juillet 1977 - art. 9 (Ab)
+	  - Ordonnance n°91-755 du 22 juillet 1991 - art. 2 (VT)
+	  - CODE DES COMMUNES. - art. L233-42-1 (Ab)
+	  - CODE DES COMMUNES. - art. L233-43 (Ab)
+
+	**Modifié par**:
+
+	  - Loi n°88-13 1988-01-05 art. 58 III, X, XI JORF 6 janvier 1988
+	  - Loi n°88-13 du 5 janvier 1988 - art. 58 () JORF 6 janvier 1988
+
+	**Abrogé par**:
+
+	  - Loi n°96-142 du 21 février 1996 - art. 12 (V) JORF 24 février 1996
+
+	**Cite**:
+
+	  - CODE DES COMMUNES. - art. L233-32 (M)
+	  - Code des communes L233-32, L233-32 à L233-41
+
+	**Nouveaux textes**:
+
+	  - Code général des collectivités territoriales - art. L2333-37 (M)
+
+
+###### Article L233-42-1
+
+Le conseil municipal peut, par délibération, prévoir que la taxe de séjour donne lieu, à une date déterminée, au versement
+d'un acompte.
+
+Le montant de cet acompte est égal à 50 p. 100 du produit de la taxe versée l'année précédente.
+
+Lorsque le montant de la taxe perçue pendant la période de perception par les personnes visées à l'article L. 233-42 est
+inférieur à l'acompte versé, l'excédent est restitué à l'expiration de cette période.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°77-90 1977-01-27
+
+	**Créé par**:
+
+	  - Loi n°88-13 du 5 janvier 1988 - art. 58 () JORF 6 janvier 1988
+
+	**Cité par**:
+
+	  - Ordonnance n°91-755 du 22 juillet 1991 - art. 2 (VT)
+	  - CODE DES COMMUNES. - art. L233-43 (Ab)
+	  - CODE DES COMMUNES. - art. L233-44-5 (Ab)
+	  - CODE DES COMMUNES. - art. R*233-54 (Ab)
+
+	**Abrogé par**:
+
+	  - Loi n°96-142 du 21 février 1996 - art. 12 (V) JORF 24 février 1996
+
+	**Cite**:
+
+	  - CODE DES COMMUNES. - art. L233-42 (M)
+
+	**Nouveaux textes**:
+
+	  - Code général des collectivités territoriales - art. L2333-38 (Ab)
+
+
+###### Article L233-43
+
+Un décret en Conseil d'Etat fixe les formalités à remplir par les logeurs, hôteliers, propriétaires ou autres intermédiaires
+et les justificatifs qu'ils doivent fournir pour le versement de la taxe de séjour.
+
+Ce décret fixe les pénalités pour infraction à ces dispositions et aux obligations prévues aux articles L. 233-42 et L.
+233-42-1 dans la limite du triple du droit dont la commune a été privée.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°77-90 1977-01-27
+
+	**Cité par**:
+
+	  - Loi n°77-744 du 8 juillet 1977 - art. 9 (Ab)
+	  - Ordonnance n°91-755 du 22 juillet 1991 - art. 2 (VT)
+	  - Décret n°98-562 du 1 juillet 1998 - art. 1 (V)
+	  - Décret n°80-918 du 13 novembre 1980 - art. 17–1 (V)
+
+	**Modifié par**:
+
+	  - Loi n°88-13 1988-01-05 art. 58 III, X, XIII JORF 6 janvier 1988
+	  - Loi n°88-13 du 5 janvier 1988 - art. 58 () JORF 6 janvier 1988
+
+	**Abrogé par**:
+
+	  - Loi n°96-142 du 21 février 1996 - art. 12 (V) JORF 24 février 1996
+
+	**Cite**:
+
+	  - CODE DES COMMUNES. - art. L233-42 (M)
+	  - CODE DES COMMUNES. - art. L233-42-1 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code général des collectivités territoriales - art. L2333-39 (M)
+
+
+##### PARAGRAPHE 3 : Taxe de séjour forfaitaire.
+
+###### Article L233-44
+
+Un décret en Conseil d'Etat détermine les modalités suivant lesquelles sont exercées les poursuites auxquelles il y a lieu de
+procéder en cas d'infraction, pour le recouvrement du principal et des pénalités de la taxe, ainsi que les conditions dans
+lesquelles sont jugées les réclamations.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Code de l'administration communale 228 complété al. 2
+
+	**Codifié par**:
+
+	  - Décret n°77-90 1977-01-27
+
+	**Modifié par**:
+
+	  - Loi n°88-13 1988-01-05 art. 58 III, X JORF 6 janvier 1988) A(Loi 96-142 1996-02-21 art. 12 jorf 24 février 1996
+	  - Loi n°88-13 du 5 janvier 1988 - art. 58 () JORF 6 janvier 1988) A(Loi 96-142 1996-02-21 art. 12 jorf 24 février 1996
+
+	**Cité par**:
+
+	  - CODE DES COMMUNES. - art. L233-29 (M)
+
+
+###### Article L233-44-1
+
+La taxe de séjour forfaitaire est établie sur les logeurs, hôteliers et propriétaires qui hébergent les personnes visées à
+l'article L. 233-31. Elle est assise sur la capacité d'accueil et le nombre de nuitées comprises à la fois dans la période
+d'ouverture de l'établissement et la période de perception mentionnée à l'article L. 233-32.
+
+La capacité d'accueil de chaque établissement est déterminée conformément aux règles fixées par décret en Conseil d'Etat.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°77-90 1977-01-27
+
+	**Créé par**:
+
+	  - Loi n°88-13 du 5 janvier 1988 - art. 58 () JORF 6 janvier 1988
+
+	**Cité par**:
+
+	  - Ordonnance n°91-755 du 22 juillet 1991 - art. 2 (VT)
+	  - CODE DES COMMUNES. - art. L233-29 (M)
+
+	**Abrogé par**:
+
+	  - Loi n°96-142 du 21 février 1996 - art. 12 (V) JORF 24 février 1996
+
+	**Cite**:
+
+	  - CODE DES COMMUNES. - art. L233-31 (M)
+	  - CODE DES COMMUNES. - art. L233-32 (M)
+
+	**Nouveaux textes**:
+
+	  - Code général des collectivités territoriales - art. L2333-41 (M)
+	  - Code général des collectivités territoriales - art. L2333-41 (V)
+
+
+###### Article L233-44-2
+
+Le tarif de la taxe de séjour forfaitaire est fixé avant le début de la période de perception, par délibération du conseil
+municipal, conformément à un barème établi par décret en Conseil d'Etat pour chaque nature et pour chaque catégorie
+d'hébergement sur la base du classement officiel des hébergements et installations accueillant les personnes visées à
+l'article L. 233-31. Le tarif ne peut être inférieur à 1 franc, ni supérieur à 7 francs, par unité de capacité d'accueil et
+par nuitée.
+
+Le montant total de la taxe peut être réduit par application d'un coefficient destiné à tenir compte de la fréquentation
+habituelle des établissements d'hébergement pendant la période de perception. Le conseil municipal fixe le coefficient par
+nature d'hébergement et pour tout le territoire de la commune au plus tard deux mois avant le premier jour de la période de
+perception.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°77-90 1977-01-27
+
+	**Créé par**:
+
+	  - Loi n°88-13 du 5 janvier 1988 - art. 58 () JORF 6 janvier 1988
+
+	**Cité par**:
+
+	  - Ordonnance n°91-755 du 22 juillet 1991 - art. 2 (VT)
+	  - CODE DES COMMUNES. - art. L233-44-3 (Ab)
+	  - CODE DES COMMUNES. - art. R233-60-1 (Ab)
+
+	**Abrogé par**:
+
+	  - Loi n°96-142 du 21 février 1996 - art. 12 (V) JORF 24 février 1996
+
+	**Cite**:
+
+	  - CODE DES COMMUNES. - art. L233-31 (M)
+
+	**Nouveaux textes**:
+
+	  - Code général des collectivités territoriales - art. L2333-42 (M)
+
+
+###### Article L233-44-3
+
+Des arrêtés du maire répartissent, par référence au barème mentionné à l'article L. 233-44-2, les villas, locaux et autres
+installations accueillant les personnes visées à l'article L. 233-31.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°77-90 1977-01-27
+
+	**Créé par**:
+
+	  - Loi n°88-13 du 5 janvier 1988 - art. 58 () JORF 6 janvier 1988
+
+	**Abrogé par**:
+
+	  - Loi n°96-142 du 21 février 1996 - art. 12 (V) JORF 24 février 1996
+
+	**Cite**:
+
+	  - CODE DES COMMUNES. - art. L233-31 (M)
+	  - CODE DES COMMUNES. - art. L233-44-2 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code général des collectivités territoriales - art. L2333-43 (M)
+	  - Code général des collectivités territoriales - art. L2333-43 (V)
+
+
+###### Article L233-44-4
+
+La taxe de séjour forfaitaire est versée au receveur municipal par les logeurs, hôteliers et propriétaires à l'expiration de
+la période de perception visée à l'article L. 233-32.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°77-90 1977-01-27
+
+	**Créé par**:
+
+	  - Loi n°88-13 du 5 janvier 1988 - art. 58 () JORF 6 janvier 1988
+
+	**Cité par**:
+
+	  - Ordonnance n°91-755 du 22 juillet 1991 - art. 2 (VT)
+	  - CODE DES COMMUNES. - art. L233-44-6 (Ab)
+
+	**Abrogé par**:
+
+	  - Loi n°96-142 du 21 février 1996 - art. 12 (V) JORF 24 février 1996
+
+	**Cite**:
+
+	  - CODE DES COMMUNES. - art. L233-32 (M)
+
+	**Nouveaux textes**:
+
+	  - Code général des collectivités territoriales - art. L2333-44 (M)
+
+
+###### Article L233-44-5
+
+La taxe peut donner lieu au versement d'un acompte dans les conditions fixées à l'article L. 233-42-1.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°77-90 1977-01-27
+
+	**Créé par**:
+
+	  - Loi n°88-13 du 5 janvier 1988 - art. 58 () JORF 6 janvier 1988
+
+	**Abrogé par**:
+
+	  - Loi n°96-142 du 21 février 1996 - art. 12 (V) JORF 24 février 1996
+
+	**Cite**:
+
+	  - CODE DES COMMUNES. - art. L233-42-1 (Ab)
+
+	**Cité par**:
+
+	  - CODE DES COMMUNES. - art. L233-44-6 (Ab)
+	  - CODE DES COMMUNES. - art. R233-60-6 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code général des collectivités territoriales - art. L2333-45 (Ab)
+
+
+###### Article L233-44-6
+
+Un décret en Conseil d'Etat fixe les formalités à remplir par les logeurs, hôteliers et propriétaires ainsi que les
+justificatifs qu'ils doivent fournir au moment du versement de la taxe.
+
+Il fixe les pénalités pour infraction à ces dispositions et aux obligations prévues aux articles L. 233-44-4 et L. 233-44-5,
+dans la limite du triple du droit dont la commune a été privée et détermine les modalités suivant lesquelles sont exercées
+les poursuites auxquelles il y a lieu de procéder en cas d'infraction, pour le recouvrement du principal et des pénalités de
+la taxe, ainsi que les conditions dans lesquelles sont jugées les réclamations.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°77-90 1977-01-27
+
+	**Créé par**:
+
+	  - Loi n°88-13 du 5 janvier 1988 - art. 58 () JORF 6 janvier 1988
+
+	**Abrogé par**:
+
+	  - Loi n°96-142 du 21 février 1996 - art. 12 (V) JORF 24 février 1996
+
+	**Cité par**:
+
+	  - Décret n°98-562 du 1 juillet 1998 - art. 1 (V)
+	  - Décret n°80-918 du 13 novembre 1980 - art. 17–1 (V)
+
+	**Cite**:
+
+	  - CODE DES COMMUNES. - art. L233-44-4 (Ab)
+	  - CODE DES COMMUNES. - art. L233-44-5 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code général des collectivités territoriales - art. L2333-46 (M)
+
+
+##### PARAGRAPHE 4 : Dispositions particulières aux groupements de communes.
+
+###### Article L233-45
+
+Dans les groupements de communes érigées en stations classées, dans ceux bénéficiant de l'une des dotations prévues à
+l'article L. 234-13, ainsi que dans ceux qui réalisent des actions de promotion en faveur du tourisme la taxe de séjour ou la
+taxe de séjour forfaitaire peut être instituée par décision de l'organe délibérant dans les conditions prévues à l'article L.
+233-29, sauf si l'une des communes s'y oppose.
+
+" En cas de dénonciation de l'accord par une des communes du groupement, la perception de la taxe par le groupement prend fin
+sur le territoire de cette commune.
+
+" Les communes membres de groupements ayant institué la taxe de séjour ou la taxe de séjour forfaitaire ne peuvent percevoir
+celles-ci.
+
+" Tout changement de bénéficiaire de la taxe de séjour résultant de l'application du présent article ne prend effet qu'à
+l'issue d'une période de perception. "
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°77-90 1977-01-27
+
+	**Cité par**:
+
+	  - Loi n°77-744 du 8 juillet 1977 - art. 9 (Ab)
+	  - Ordonnance n°91-755 du 22 juillet 1991 - art. 2 (VT)
+	  - CODE DES COMMUNES. - art. R*233-40 (Ab)
+	  - CODE GENERAL DES IMPOTS, CGI. - art. 1609 nonies D (M)
+
+	**Modifié par**:
+
+	  - Loi n°88-13 1988-01-05 art. 58 III, XVI JORF 6 janvier 1988
+	  - Loi n°88-13 du 5 janvier 1988 - art. 58 () JORF 6 janvier 1988
+
+	**Cite**:
+
+	  - CODE DES COMMUNES. - art. L233-29 (M)
+	  - CODE DES COMMUNES. - art. L234-13 (M)
+
 
 ##### SOUS-SECTION 2 : Taxe sur les entreprises spécialement intéressées à la prospérité des stations.
 
@@ -17537,6 +18605,53 @@ franc inférieures à 0,50 F étant négligées et celles de 0,50 F et au-dessus
 	  - Code général des collectivités territoriales - art. L2333-23 (M)
 
 
+###### Article L233-84
+
+La taxe est due par l'exploitant de l'emplacement au 1er janvier de l'année d'imposition ou, à défaut, par le propriétaire à
+cette même date.
+
+Elle est établie et recouvrée par les soins de l'administration municipale sur la base d'une déclaration annuelle souscrite
+par le redevable. Toute infraction aux dispositions du présent article donne lieu aux sanctions prévues aux articles L.
+233-25 et L. 233-26 du code des communes ainsi qu'à l'utilisation des moyens prévus à l'article L. 233-28 du même code.
+
+Lorsque, dans une commune où la taxe est applicable, l'emplacement publicitaire est créé après le 1er janvier, la taxe est
+due à la date de création de l'emplacement par l'exploitant de celui-ci, ou à défaut par le propriétaire, pour la fraction
+correspondante de l'année d'imposition. Lorsque l'emplacement est supprimé en cours d'année sur décision administrative, la
+taxe n'est pas due pour les mois restant à courir à compter de la suppression de l'emplacement sous réserve du respect des
+formalités prévues par décret en Conseil d'Etat. Ce décret prévoit les modalités de recouvrement ou de restitution de la
+taxe.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°77-90 1977-01-27
+
+	**Modifié par**:
+
+	  - Loi n°88-13 du 5 janvier 1988 - art. 28 () JORF 6 janvier 1988
+
+	**Cité par**:
+
+	  - Ordonnance n°91-755 du 22 juillet 1991 - art. 2 (VT)
+	  - CODE DES COMMUNES. - art. R233-111 (Ab)
+	  - CODE DES COMMUNES. - art. R233-112 (Ab)
+
+	**Abrogé par**:
+
+	  - Loi n°96-142 du 21 février 1996 - art. 12 (V) JORF 24 février 1996
+
+	**Cite**:
+
+	  - CODE DES COMMUNES. - art. L233-25 (Ab)
+	  - CODE DES COMMUNES. - art. L233-26 (Ab)
+	  - CODE DES COMMUNES. - art. L233-28 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code général des collectivités territoriales - art. L2333-24 (V)
+
+
 ###### Article L233-85
 
 L'institution de la taxe communale sur les emplacements publicitaires fixes exclut celle de la taxe communale sur la
@@ -17897,6 +19012,70 @@ deuxième alinéa ci-dessus.
 	**Nouveaux textes**:
 
 	  - Code général des collectivités territoriales - art. L2334-5 (V)
+
+
+###### Article L234-6
+
+Le potentiel fiscal d'une commune est égal au montant des bases pondérées des quatre taxes directes locales, ces bases étant
+les bases brutes de la dernière année dont les résultats sont connus servant à l'assiette des impositions communales,
+minorées, le cas échéant, du montant des bases correspondant à l'écrêtement opéré au titre du fonds départemental de
+péréquation de la taxe professionnelle prévu par l'article 1648 A du code général des impôts. "
+
+Le coefficient de pondération de la base de chacune des quatre taxes [*définition*] est le taux moyen national d'imposition à
+la taxe concernée, constaté lors de la dernière année dont les résultats sont connus.
+
+Le potentiel fiscal par habitant est égal au potentiel fiscal de la commune divisé par le nombre d'habitants constituant la
+population de cette commune, tel que défini à l'article L. 234-19-3.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 1648 A
+	  - CODE DES COMMUNES. - art. L234-19-3 (M)
+
+	**Codifié par**:
+
+	  - Décret n°77-90 1977-01-27
+
+	**Cité par**:
+
+	  - Loi n°79-15 du 3 janvier 1979 - art. 15 (Ab)
+	  - Loi n°79-15 du 3 janvier 1979 - art. 16 (Ab)
+	  - Loi n°79-15 du 3 janvier 1979 - art. 17 (Ab)
+	  - Loi n°79-15 du 3 janvier 1979 - art. 21 (Ab)
+	  - Loi n°82-1126 du 29 décembre 1982 - art. 91 (P)
+	  - Décret n°85-260 du 22 février 1985 - art. 5 (V)
+	  - Loi n°85-1268 du 29 novembre 1985 - art. 38 (Ab)
+	  - Décret n°86-323 du 3 mars 1986 - art. 2 (V)
+	  - Décret n°92-952 du 3 septembre 1992 - art. 2 (V)
+	  - Décret n°93-258 du 26 février 1993 - art. 1 (Ab)
+	  - CODE DES COMMUNES. - art. L234-11 (Ab)
+	  - CODE DES COMMUNES. - art. L234-14-1 (Ab)
+	  - CODE DES COMMUNES. - art. L234-14-2 (Ab)
+	  - CODE DES COMMUNES. - art. L234-19-1 (Ab)
+	  - CODE DES COMMUNES. - art. L234-4 (Ab)
+	  - CODE DES COMMUNES. - art. L234-5 (Ab)
+	  - CODE DES COMMUNES. - art. L234-9 (Ab)
+	  - CODE DES COMMUNES. - art. L262-10 (Ab)
+	  - CODE DES COMMUNES. - art. L262-5 (M)
+	  - CODE DES COMMUNES. - art. L263-13 (M)
+	  - CODE DES COMMUNES. - art. L263-15 (M)
+	  - CODE DES COMMUNES. - art. R*212-8 (Ab)
+	  - CODE DES COMMUNES. - art. R*234-2 (M)
+	  - CODE DES COMMUNES. - art. R*234-33 (M)
+	  - CODE DES COMMUNES. - art. R*263-40 (M)
+	  - CODE DES COMMUNES. - art. R*263-50 (M)
+	  - CODE GENERAL DES IMPOTS, CGI. - art. 1648 B (M)
+
+	**Modifié par**:
+
+	  - Loi n°88-13 du 5 janvier 1988 - art. 5 () JORF 6 janvier 1988
+
+	**Liens**:
+
+	  - TXT_SOURCE: Décret n°93-270 du 1 mars 1993
+	  - TXT_SOURCE: Décret n°93-270 du 1 mars 1993 - art. 2 (V)
 
 
 ###### Article L234-8
@@ -18360,6 +19539,300 @@ communes, peut être portée jusqu'à 3 p. 100 par le comité des finances local
 	  - CODE DES COMMUNES. - art. L234-20 (M)
 
 
+###### Article L234-13
+
+I. Les communes et les groupements de communes touristiques et thermaux reçoivent une dotation supplémentaire destinée à
+tenir compte des charges exceptionnelles qui résultent, pour elles, de l'accueil saisonnier de la population non résidente à
+titre principal.
+
+La liste des communes touristiques ou thermales est arrêtée, chaque année, après avis du comité des finances locales, en
+tenant compte de l'importance de leur capacité d'accueil existante et en voie de création, dans des conditions fixées par
+décret en Conseil d'Etat.
+
+Le montant des crédits affectés à la dotation supplémentaire aux communes touristiques ou thermales est fixé chaque année par
+le comité des finances locales. Il ne peut être inférieur à 50 p. 100 ni supérieur à 60 p. 100 des sommes affectées aux
+concours particuliers.
+
+Ces crédits sont répartis entre les communes touristiques ou thermales dans des conditions fixées par décret en Conseil
+d'Etat en tenant compte :
+
+1° Du surcroît de charges supporté par ces communes par rapport aux communes appartenant au même groupe démographique ;
+
+2° De la capacité d'accueil existante et de la capacité d'accueil en voie de création ;
+
+3° Du produit de la taxe de séjour ou de la taxe de séjour forfaitaire perçu sur le territoire de ces communes ;
+
+4° De l'écart relatif entre le potentiel fiscal moyen par habitant de l'ensemble des communes appartenant au même groupe
+démographique et le potentiel fiscal par habitant de la commune.
+
+" La dotation perçue par chaque commune ou groupement ne peut ni être inférieure à 85 p. 100 [*pourcentage*] de la dotation
+perçue l'année précédente, ni connaître un taux d'augmentation annuelle supérieur au double du taux d'évolution des
+ressources affectées à la dotation supplémentaire au titre de l'exercice considéré, sans toutefois que ce taux d'augmentation
+maximum soit inférieur à 10 p. 100.
+
+" Les communes et groupements qui remplissent pour la première fois les conditions pour bénéficier de la dotation
+supplémentaire perçoivent la première année une attribution égale à la moitié de celle qui résulte de l'application des
+dispositions mentionnées aux quatrième à huitième alinéas ci-dessus.
+
+" La dotation revenant aux communes et aux groupements qui cessent de remplir les conditions pour être inscrits sur la liste
+des communes et groupements bénéficiaires de la dotation supplémentaire est égale la première année à 80 p. 100 de la
+dotation perçue l'année précédente. Pour les années ultérieures ce pourcentage est diminué de vingt points par an.
+
+" Dans le cas où une commune ou un groupement qui avait cessé de remplir les conditions d'attribution de la dotation
+supplémentaire les réunit à nouveau, cette collectivité reçoit une dotation calculée conformément aux dispositions du dixième
+alinéa ci-dessus sans que celle-ci puisse être inférieure à celle résultant des dispositions du onzième alinéa ci-dessus. "
+
+II. Une dotation particulière, destinée à tenir compte des charges spécifiques qu'elles supportent, est également versée aux
+communes de moins de 7500 habitants qui connaissent une importante fréquentation touristique journalière. Leur liste est
+arrêtée chaque année après avis du comité des finances locales qui fixe le montant des sommes à répartir.
+
+" La dotation perçue par chaque commune ne peut être inférieure à 80 p. 100 de la dotation perçue l'année précédente.
+
+" Lorsqu'une commune cesse de remplir les conditions requises pour bénéficier de la dotation particulière, elle perçoit, à
+titre de garantie non renouvelable, une attribution égale à la moitié de celle qu'elle a perçue l'année précédente. "
+
+Le montant de cette dotation compris dans celui de la dotation supplémentaire visée par cet article ne peut être inférieur à
+22 millions de francs pour 1986. Pour les années ultérieures, ce minimum évolue comme le montant de la dotation
+supplémentaire des communes touristiques et thermales.
+
+Les conditions d'attribution de cette dotation sont déterminées par décret en Conseil d'Etat en tenant compte notamment du
+nombre des emplacements de stationnement public aménagés et entretenus et de la présence sur le territoire communal de
+monuments historiques ouverts au public et classés conformément à la loi du 31 décembre 1913 sur les monuments historiques ".
+
+" Lorsqu'une commune remplit les conditions requises pour bénéficier à la fois de la dotation supplémentaire mentionnée au
+paragraphe I ci-dessus et de la dotation particulière prévue au présent paragraphe, seule la plus élevée des deux dotations
+lui est versée. "
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°77-90 1977-01-27
+
+	**Cité par**:
+
+	  - Loi n°83-8 du 7 janvier 1983 - art. 103 (M)
+	  - Décret n°83-621 du 8 juillet 1983 - art. 1 (V)
+	  - Décret n°83-621 du 8 juillet 1983 - art. 3 (V)
+	  - Loi n°85-1268 du 29 novembre 1985 - art. 28 (Ab)
+	  - Loi n°85-1268 du 29 novembre 1985 - art. 29 (M)
+	  - Loi n°85-1352 du 20 décembre 1985 - art. 9 (V)
+	  - Décret n°85-1510 du 31 décembre 1985 - art. 5 (Ab)
+	  - Décret n°86-420 du 12 mars 1986 - art. 1 (M)
+	  - Décret n°86-421 du 12 mars 1986 - art. 4 (Ab)
+	  - Loi n°86-972 du 19 août 1986 - art. 45 (V)
+	  - Décret n°87-228 du 27 mars 1987 - art. 1 (Ab)
+	  - Loi n°88-13 du 5 janvier 1988 - art. 55 (V)
+	  - Loi n°91-429 du 13 mai 1991 - art. 5 (M)
+	  - Loi n°93-1436 du 31 décembre 1993 - art. 32 (V)
+	  - Arrêté du 1 mars 1994 - art. 2 (V)
+	  - Décret n°94-366 du 10 mai 1994 - art. 9 (Ab)
+	  - Décret n°94-655 du 27 juillet 1994 - art. 2 (Ab)
+	  - Loi n°95-115 du 4 février 1995 - art. 73 (Ab)
+	  - CODE DES COMMUNES. - art. L233-29 (M)
+	  - CODE DES COMMUNES. - art. L233-45 (M)
+	  - CODE DES COMMUNES. - art. L234-10 (Ab)
+	  - CODE DES COMMUNES. - art. L234-14 (Ab)
+	  - CODE DES COMMUNES. - art. L234-14-1 (Ab)
+	  - CODE DES COMMUNES. - art. L234-17 (Ab)
+	  - CODE DES COMMUNES. - art. L234-19-1 (M)
+	  - CODE DES COMMUNES. - art. L234-2 (M)
+	  - CODE DES COMMUNES. - art. L234-21 (M)
+	  - CODE DES COMMUNES. - art. L234-3 (Ab)
+	  - CODE DES COMMUNES. - art. L234-7 (Ab)
+	  - CODE DES COMMUNES. - art. L262-5 (M)
+	  - CODE DES COMMUNES. - art. R*234-13 (Ab)
+	  - CODE DES COMMUNES. - art. R*234-14 (Ab)
+	  - CODE DES COMMUNES. - art. R*234-15 (Ab)
+	  - CODE DES COMMUNES. - art. R*234-16 (Ab)
+	  - CODE DES COMMUNES. - art. R*234-19 (M)
+	  - CODE DES COMMUNES. - art. R*234-22 (Ab)
+	  - CODE GENERAL DES IMPOTS, CGI. - art. 1648 B (M)
+	  - Code général des collectivités territoriales - art. L2334-7 (V)
+	  - Code général des collectivités territoriales - art. L2334-7-1 (MMN)
+	  - Code général des collectivités territoriales - art. L5211-24 (V)
+	  - Code général des collectivités territoriales - art. L5211-30 (T)
+	  - Code général des collectivités territoriales - art. R1211-5 (M)
+
+	**Liens**:
+
+	  - TXT_SOURCE: Décret n°87-228 du 27 mars 1987
+	  - TXT_SOURCE: Décret n°87-228 du 27 mars 1987 - art. 1 (Ab)
+	  - TXT_SOURCE: Décret n°87-228 du 27 mars 1987 - art. 2 (Ab)
+	  - TXT_SOURCE: Décret n°87-228 du 27 mars 1987 - art. 3 (Ab)
+	  - TXT_SOURCE: Décret n°87-228 du 27 mars 1987 - art. 4 (Ab)
+
+	**Modifié par**:
+
+	  - Loi n°88-13 1988-01-05 art. 55 I, II, III, IV, V, VI, VII, VIII JORF 6 janvier 1988
+	  - Loi n°88-13 du 5 janvier 1988 - art. 55 (V) JORF 6 janvier 1988
+
+	**Cite**:
+
+	  - Loi n°1913-12-31
+
+
+###### Article L234-14
+
+Bénéficient d'une dotation particulière destinée à tenir compte des charges qui résultent de l'utilisation de leurs
+équipements par les habitants des communes voisines :
+
+1° Les communes qui, dans une agglomération représentant au moins 10 p. 100 de la population du département, en constituent
+la ville principale ;
+
+2° Les communes situées dans une agglomération de plus de 250.000 habitants représentants au moins 10 p. 100 de la population
+du département, lorsque leur population est au moins égale à la moitié de celle de la ville principale ;
+
+3° Les communes de plus de 100.000 habitants ou celles dont la population représente au moins 10 p. 100 de la population du
+département ;
+
+4° Les communes chefs-lieux de département. Dans la région d'Ile-de-France, seules ces communes bénéficient de la dotation
+particulière.
+
+Le montant des sommes à répartir chaque année, en application du présent article, est fixé chaque année par le comité des
+finances locales.
+
+La dotation revenant à chacune des communes mentionnées ci-dessus est proportionnelle à la somme des dotations reçues en
+vertu des articles L. 234-2 à L. 234-19 et L. 234-19-1.
+
+Les communes dont le potentiel fiscal est égal ou supérieur au double de celui de l'ensemble des communes ne perçoivent pas
+d'attribution à ce titre.
+
+Lorsqu'une commune remplit les conditions requises pour bénéficier à la fois de la dotation instituée par le présent article
+et de la dotation supplémentaire instituée par l'article L. 234-13, seule la plus élevée des deux dotations lui est versée.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°77-90 1977-01-27
+
+	**Modifié par**:
+
+	  - Loi n°88-13 1988-01-06 art. 55 X JORF 6 janvier 1988
+
+	**Cité par**:
+
+	  - Loi n°79-15 du 3 janvier 1979 - art. 25 (Ab)
+	  - Loi n°83-1186 du 29 décembre 1983 - art. 10 (Ab)
+	  - Loi n°85-1268 du 29 novembre 1985 - art. 28 (Ab)
+	  - Loi n°85-1268 du 29 novembre 1985 - art. 29 (M)
+	  - Loi n°85-1268 du 29 novembre 1985 - art. 42 (V)
+	  - Loi n°86-972 du 19 août 1986 - art. 45 (V)
+	  - CODE DES COMMUNES. - art. L233-29 (M)
+	  - CODE DES COMMUNES. - art. L234-10 (Ab)
+	  - CODE DES COMMUNES. - art. L234-17 (Ab)
+	  - CODE DES COMMUNES. - art. L234-19-1 (M)
+	  - CODE DES COMMUNES. - art. L234-19-2 (Ab)
+	  - CODE DES COMMUNES. - art. L234-2 (M)
+	  - CODE DES COMMUNES. - art. L234-21 (Ab)
+	  - CODE DES COMMUNES. - art. L234-7 (Ab)
+	  - CODE DES COMMUNES. - art. L262-5 (Ab)
+	  - CODE DES COMMUNES. - art. R*212-7 (Ab)
+	  - CODE DES COMMUNES. - art. R*234-17 (Ab)
+	  - CODE GENERAL DES IMPOTS, CGI. - art. 1648 B (M)
+	  - Code général des collectivités territoriales - art. L2334-21 (M)
+	  - Code général des collectivités territoriales - art. L2334-7 (V)
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: CODE DES COMMUNES. - art. L234-12 (M)
+	  - TXT_ASSOCIE: CODE DES COMMUNES. - art. L234-13 (M)
+
+	**Cite**:
+
+	  - CODE DES COMMUNES. - art. L234-13 (M)
+	  - Code des communes L234-2 à L234-19, L234-19-1, L234-13
+
+	**Nouveaux textes**:
+
+	  - Code général des collectivités territoriales - art. L1613-5 (V)
+
+
+##### SOUS-SECTION 4 bis : Dispositions applicables aux groupements de communes.
+
+###### Article L234-17
+
+Les groupements de communes dotés d'une fiscalité propre reçoivent une attribution de la dotation globale de fonctionnement.
+
+" Le montant total des sommes affectées à cette dotation ainsi que sa répartition entre les communautés urbaines, les
+districts à fiscalité propre et les syndicats ou communautés d'agglomération nouvelle sont fixés chaque année par le comité
+des finances locales. "
+
+La dotation globale de fonctionnement des groupements de communes dotés d'une fiscalité propre est prélevée sur les sommes
+affectées à la dotation globale de fonctionnement des communes, après déduction des sommes prévues pour les concours
+particuliers régis par les articles L. 234-13 et L. 234-14 et pour la garantie d'évolution prévue par l'article L. 234-19-1.
+
+Chaque groupement de communes défini ci-dessus reçoit :
+
+" a) Une dotation de base égale au produit d'une attribution moyenne par habitant par la population totale des communes
+regroupées. Pour les communautés urbaines et les districts à fiscalité propre, cette attribution moyenne est pondérée par le
+coefficient d'intégration fiscale défini au neuvième alinéa ci-dessous ;
+
+" b) Une dotation de péréquation en fonction de son potentiel fiscal. Pour les communautés urbaines et les districts à
+fiscalité propre, cette dotation est en outre fonction du coefficient d'intégration fiscale défini au neuvième alinéa ci-
+dessous.
+
+" Le potentiel fiscal d'une communauté urbaine ou d'un district à fiscalité propre est égal au montant des bases pondérées
+des quatre taxes directes locales. Ces bases sont les bases brutes servant à l'assiette des impositions communales de ce
+groupement. Le coefficient de pondération de la base de chacune des quatre taxes est le taux moyen national d'imposition à la
+taxe concernée constaté pour chacune de ces deux catégories de groupement.
+
+" Le potentiel fiscal d'un syndicat ou d'une communauté d'agglomération nouvelle est égal au montant des bases pondérées de
+taxe professionnelle. Ces bases sont les bases brutes servant à l'assiette des impositions de ce groupement. Le coefficient
+de pondération de ces bases est le taux moyen national d'imposition à la taxe professionnelle constaté pour les syndicats et
+communautés d'agglomération nouvelle. "
+
+Le coefficient d'intégration fiscale est égal au rapport entre le produit des quatre taxes directes locales et de la taxe ou
+de la redevance d'enlèvement des ordures ménagères perçu par le groupement et l'ensemble des communes regroupées.
+
+" Les sommes affectées à la dotation de base des communautés urbaines, des districts à fiscalité propre et des syndicats ou
+communautés d'agglomération nouvelle représentent 15 p. 100 du montant des sommes affectées à la dotation globale de
+fonctionnement de chacune de ces trois catégories de groupements de communes. "
+
+Pour 1986, le montant des sommes affectées à la dotation globale de fonctionnement des groupements de communes dotés d'une
+fiscalité propre ne peut être supérieur à 2025 millions de francs. Pour les années ultérieures, ce montant évolue comme la
+dotation globale de fonctionnement.
+
+Pour 1988, le montant des sommes affectées à la dotation globale de fonctionnement des syndicats ou communautés
+d'agglomération nouvelle s'élève à 65 millions de francs. Jusqu'au terme de la période transitoire prévue par l'article L.
+234-21-1 du code des communes, ce montant progresse comme les ressources de la dotation globale de fonctionnement des
+communautés urbaines et des districts à fiscalité propre réparties en application du b de ce même article. "
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°77-90 1977-01-27
+
+	**Liens**:
+
+	  - TXT_SOURCE: Décret n°82-998 du 17 novembre 1982
+	  - TXT_SOURCE: Décret n°82-998 du 17 novembre 1982 - art. 1 (V)
+	  - TXT_SOURCE: Décret n°82-998 du 17 novembre 1982 - art. 2 (V)
+	  - TXT_SOURCE: Décret n°82-998 du 17 novembre 1982 - art. 3 (V)
+
+	**Cité par**:
+
+	  - Loi n°83-636 du 13 juillet 1983 - art. 31 bis (Ab)
+	  - Décret n°85-260 du 22 février 1985 - art. 3-1 (M)
+	  - CODE DES COMMUNES. - art. L234-11-1 (Ab)
+	  - CODE DES COMMUNES. - art. L234-18 (M)
+	  - CODE DES COMMUNES. - art. R*234-2 (M)
+	  - CODE GENERAL DES IMPOTS, CGI. - art. 1648 B (M)
+
+	**Modifié par**:
+
+	  - Loi n°88-13 du 5 janvier 1988 - art. 8 () JORF 6 janvier 1988
+
+	**Cite**:
+
+	  - CODE DES COMMUNES. - art. L234-13 (M)
+	  - CODE DES COMMUNES. - art. L234-14 (M)
+	  - CODE DES COMMUNES. - art. L234-19-1 (M)
+	  - CODE DES COMMUNES. - art. L234-21-1 (M)
+
+
 ##### SOUS-SECTION 5 : Dispositions communes aux diverses sortes d'attributions.
 
 ###### Article L234-19-1
@@ -18535,6 +20008,47 @@ vice-présidents.
 	**Modifié par**:
 
 	  - Loi n°85-1268 1985-11-29 art. 1, art. 24 JORF 3 décembre 1985
+
+
+###### Article L234-21-1
+
+Pour 1986, et à défaut de nouvelles dispositions pour 1987 la dotation globale de fonctionnement revenant à chaque commune et
+à chaque groupement comprend, sans préjudice de l'application de l'article L. 234-15, deux fractions :
+
+a) 80 p. 100 des sommes reçues en 1985 au titre de la dotation globale de fonctionnement, à l'exception des dotations
+mentionnées à l'article L. 234-13 et à l'article L. 234-15.
+
+b) Le solde, par application des dispositions des articles L. 234-2 à L. 234-11 et L. 234-14.
+
+Pour les années ultérieures, le pourcentage mentionné au a ci-dessus est diminué de vingt points par an.
+
+Pendant cette période transitoire, la garantie d'évolution prévue par l'article L. 234-19-1 s'applique au montant total des
+deux fractions de la dotation globale mentionnée ci-dessus, après déduction, dans chacune de ces deux fractions, des sommes
+correspondant aux concours particuliers prévus aux articles L. 234-13 et L. 234-14.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°77-90 1977-01-27
+
+	**Modifié par**:
+
+	  - Loi n°88-13 du 5 janvier 1988 - art. 55 (V) JORF 6 janvier 1988) A(Loi 91-429 1991-05-13 art. 11 jorf 14 mai 1991
+
+	**Cité par**:
+
+	  - Loi n°91-429 du 13 mai 1991 - art. 11 (V)
+	  - CODE DES COMMUNES. - art. L234-17 (Ab)
+
+	**Cite**:
+
+	  - CODE DES COMMUNES. - art. L234-19-1 (M)
+	  - Code des communes L234-2 à L234-15
+
+	**Nouveaux textes**:
+
+	  - Code général des collectivités territoriales - art. L1211-4 (M)
 
 
 ##### SECTION 2 : Répartition du produit des amendes relatives à la circulation routière.
@@ -22796,665 +24310,9 @@ A la clôture de l'exercice, le préfet de police [*attributions*] présente au 
 
 ## FINANCES COMMUNALES
 
-### DEPENSES .
-
-###### Article L221-6
-
-Le conseil municipal peut porter au budget un crédit pour les dépenses imprévues. 
-
-La somme inscrite, pour ce crédit, ne peut être réduite ou rejetée [*condition*] qu'autant que les revenus ordinaires, après
-avoir satisfait à toutes les dépenses obligatoires, ne permettent pas d'y faire face.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Code de l'administration communale 187 al. 1 et 2
-
-	**Codifié par**:
-
-	  - Décret n°77-90 1977-01-27
-
-	**Créé par**:
-
-	  - Décret n°77-90 1977-01-27 JORF et JONC 3 février 1977 date d'entrée en vigueur élection des maires
-
-	**Cité par**:
-
-	  - CODE DES COMMUNES. - art. L261-1 (M)
-	  - Loi n°1871-08-10. du 10 août 1871 - art. 63 (Ab)
-
-	**Nouveaux textes**:
-
-	  - Code général des collectivités territoriales - art. L2322-1 (V)
-
-
-###### Article L221-7
-
-Le crédit pour dépenses imprévues est employé par le maire. 
-
-Dans la première session qui suit l'ordonnancement de chaque dépense, le maire rend compte au conseil municipal, avec pièces
-justificatives à l'appui, de l'emploi de ce crédit. Ces pièces demeurent annexées à la délibération. 
-
-Ce crédit ne peut être employé que pour faire face à des dépenses urgentes en vue desquelles aucune dotation n'est inscrite
-au budget [*définition*].
-
-**Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - SPEC_APPLI: *Dispositions non applicables aux départements de la Moselle,
-	  - SPEC_APPLI: Code des communes L261-1 :
-	  - SPEC_APPLI: du Bas-Rhin et du Haut-Rhin (Alsace-Lorraine)*
-
-	**Codifié par**:
-
-	  - Décret n°77-90 1977-01-27
-
-	**Créé par**:
-
-	  - Décret n°77-90 1977-01-27 JORF et JONC 3 février 1977 date d'entrée en vigueur élection des maires
-
-	**Cité par**:
-
-	  - CODE DES COMMUNES. - art. L261-1 (Ab)
-	  - Loi n°1871-08-10. du 10 août 1871 - art. 63 (Ab)
-
-	**Anciens textes**:
-
-	  - Code de l'administration communale 187 al. 3 et suivants
-
-	**Nouveaux textes**:
-
-	  - Code général des collectivités territoriales - art. L2322-2 (V)
-
-
 ### RECETTES
 
-#### Dispositions générales
-
-##### Recettes du budget de la commune
-
-##### Recettes de la section de fonctionnement .
-
-###### Article L231-5
-
-Les recettes fiscales de la section de fonctionnement [*définition*] peuvent comprendre :
-
-a) Des impôts et taxes dont l'assiette et le recouvrement ont lieu dans les formes prévues au code général des impôts, à
-savoir :
-
-1° Le produit de la taxe foncière sur les propriétés bâties,
-
-de la taxe foncière sur les propriétés non bâties, de la taxe d'habitation et de la taxe professionnelle ; 
-
-2° Le produit de la taxe d'enlèvement des ordures ménagères ; 
-
-3° Le produit de la taxe de balayage ; 
-
-4° Le produit de la surtaxe sur les eaux minérales ; 
-
-5° Le produit de la taxe sur les jeux de boules et de quilles comportant des dispositifs électromécaniques.
-
-[*Les recettes fiscales peuvent comprendre :*]    b) Les recettes suivantes :
-
-1° Le produit de la taxe sur l'électricité ; 
-
-2° Le produit de la taxe sur la publicité frappant les affiches, réclames et enseignes lumineuses ; 
-
-3° Dans les stations classées, le produit de la taxe de séjour et de la taxe sur les entreprises spécialement intéressées à
-la prospérité de la station ; 
-
-4° Le produit des droits de place perçus dans les halles,
-
-foires et marchés d'après les tarifs dûment établis ; 
-
-5° Le produit des droits de port perçus conformément aux dispositions des articles 270 à 281 du code des douanes.
-
-**Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - SPEC_APPLI: *Dispositions du 4 du b non applicables aux communes des départements de la Moselle, du Bas-Rhin et du Haut-Rhin (Alsace-Lorraine)*
-	  - TXT_ASSOCIE: CODE DES COMMUNES. - art. L262-2 (Ab)
-	  - SPEC_APPLI: Code des communes L261-1 :
-	  - TXT_ASSOCIE: Code des communes L262
-
-	**Cite**:
-
-	  - CGI
-	  - Loi n°75-628 1975-07-29
-	  - Ordonnance n°59-108 du 7 janvier 1959 - art. 2, v. init.
-	  - Loi n°60-1384 1960-12-23 art. 7 et 103
-	  - Code des douanes 270 à 281
-	  - Loi n°75-1229 1975-12-31
-
-	**Codifié par**:
-
-	  - Décret n°77-90 1977-01-27
-
-	**Créé par**:
-
-	  - Décret n°77-90 1977-01-27 JORF et JONC 3 février 1977 date d'entrée en vigueur élection des maires
-
-	**Cité par**:
-
-	  - Ordonnance n°91-755 du 22 juillet 1991 - art. 2 (VT)
-	  - CODE DES COMMUNES. - art. L181-50 (Ab)
-	  - CODE DES COMMUNES. - art. L252-3 (Ab)
-	  - CODE DES COMMUNES. - art. L253-2 (Ab)
-	  - CODE DES COMMUNES. - art. L261-1 (Ab)
-
-	**Nouveaux textes**:
-
-	  - Code général des collectivités territoriales - art. L2331-3 (V)
-
-
 #### Taxes, redevances ou versements autres que ceux prévus par le code général des impôts
-
-##### Taxes particulières aux stations
-
-##### Taxe de séjour
-
-##### Dispositions générales .
-
-###### Article L233-29
-
-Dans les stations classées, dans les communes qui bénéficient de la dotation visée à l'article L. 234-14 du présent code,
-ainsi que dans les communes littorales au sens de la loi n° 86-2 du 3 janvier 1986 précitée, il peut être institué, par
-délibération du conseil municipal, une taxe dite "taxe de séjour".
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°77-90 1977-01-27
-
-	**Modifié par**:
-
-	  - Loi n°86-2 du 3 janvier 1986 - art. 23 () JORF 4 janvier 1986
-
-	**Cité par**:
-
-	  - Ordonnance n°91-755 du 22 juillet 1991 - art. 2 (VT)
-	  - Arrêté du 28 décembre 1976 - art. 12 (Ab)
-	  - CODE DES COMMUNES. - art. L231-5 (Ab)
-	  - CODE DES COMMUNES. - art. L233-45 (Ab)
-	  - CODE DES COMMUNES. - art. R*233-43 (Ab)
-
-	**Cite**:
-
-	  - CODE DES COMMUNES. - art. L234-14 (M)
-
-	**Nouveaux textes**:
-
-	  - Code général des collectivités territoriales - art. L2333-26 (V)
-
-
-###### Article L233-30
-
-Le produit de la taxe de séjour est intégralement affecté aux travaux [*développement de la fréquentation et de l'équipement
-de la station*] prévus à l'article L. 141-2.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°77-90 1977-01-27
-
-	**Créé par**:
-
-	  - Décret n°77-90 1977-01-27 JORF et JONC 3 février 1977 date d'entrée en vigueur élection des maires
-
-	**Cité par**:
-
-	  - Ordonnance n°91-755 du 22 juillet 1991 - art. 2 (VT)
-	  - CODE DES COMMUNES. - art. L233-46 (Ab)
-
-	**Cite**:
-
-	  - CODE DES COMMUNES. - art. L141-2 (Ab)
-
-	**Nouveaux textes**:
-
-	  - Code général des collectivités territoriales - art. L2333-27 (M)
-
-
-###### Article L233-31
-
-La taxe de séjour est établie sur les personnes [*assiette*] qui ne sont pas domiciliées dans la commune et n'y possèdent pas
-une résidence à raison de laquelle elles sont passibles de la taxe d'habitation.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°77-90 1977-01-27
-
-	**Créé par**:
-
-	  - Décret n°77-90 1977-01-27 JORF et JONC 3 février 1977 date d'entrée en vigueur élection des maires
-
-	**Cité par**:
-
-	  - Ordonnance n°91-755 du 22 juillet 1991 - art. 2 (VT)
-	  - CODE DES COMMUNES. - art. L233-33 (Ab)
-	  - CODE DES COMMUNES. - art. L233-44-1 (Ab)
-	  - CODE DES COMMUNES. - art. L233-44-2 (Ab)
-	  - CODE DES COMMUNES. - art. L233-44-3 (Ab)
-	  - CODE DES COMMUNES. - art. R*233-47 (Ab)
-	  - CODE DES COMMUNES. - art. R233-50 (Ab)
-	  - CODE DES COMMUNES. - art. R233-60-4 (Ab)
-
-	**Anciens textes**:
-
-	  - Code de l'administration communale 217
-
-
-###### Article L233-32
-
-La période de perception de la taxe de séjour est fixée, pour chaque station, par le conseil municipal [*conditions de
-forme*].
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°77-90 1977-01-27
-
-	**Modifié par**:
-
-	  - Loi n°82-213 du 2 mars 1982 - art. 21 (V) JORF 3 MARS 1982
-
-	**Cité par**:
-
-	  - Ordonnance n°91-755 du 22 juillet 1991 - art. 2 (VT)
-	  - CODE DES COMMUNES. - art. L233-42 (Ab)
-	  - CODE DES COMMUNES. - art. L233-44-1 (Ab)
-	  - CODE DES COMMUNES. - art. L233-44-4 (Ab)
-	  - CODE DES COMMUNES. - art. R*233-53 (Ab)
-	  - CODE DES COMMUNES. - art. R*233-54 (Ab)
-	  - CODE DES COMMUNES. - art. R233-50 (Ab)
-	  - CODE DES COMMUNES. - art. R233-60-2 (Ab)
-	  - CODE DES COMMUNES. - art. R233-60-5 (Ab)
-	  - CODE DES COMMUNES. - art. R233-60-6 (Ab)
-
-	**Nouveaux textes**:
-
-	  - Code général des collectivités territoriales - art. L2333-28 (M)
-
-
-##### Tarifs de la taxe de séjour et exonérations .
-
-###### Article L233-33
-
-Le tarif de la taxe de séjour est établi par personne et par journée de séjour.
-
-Il ne peut être inférieur à 1 F par personne et par jour, ni supérieur à 5 F.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°77-90 1977-01-27
-
-	**Modifié par**:
-
-	  - Loi n°81-1160 du 30 décembre 1981 - art. 117 () JORF 31 décembre 1981
-
-	**Cité par**:
-
-	  - Ordonnance n°91-755 du 22 juillet 1991 - art. 2 (VT)
-	  - CODE DES COMMUNES. - art. L233-29 (M)
-	  - CODE DES COMMUNES. - art. L233-40 (Ab)
-	  - CODE DES COMMUNES. - art. L233-41 (Ab)
-
-
-###### Article L233-34
-
-Sont exemptés de la taxe de séjour dans toutes les stations, pendant la durée du séjour qu'ils font pour les besoins
-exclusifs de la profession, les voyageurs et représentants de commerce porteurs de la carte d'identité professionnelle
-instituée par la loi du 8 octobre 1919. 
-
-Dans chaque station, l'arrêté municipal pris en vue de l'application du présent article fixe la durée du séjour pendant
-laquelle est accordée l'exemption instituée à l'alinéa précédent. Cette durée ne peut être inférieure à trois jours.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Code de l'administration communale 220
-
-	**Codifié par**:
-
-	  - Décret n°77-90 1977-01-27
-
-	**Créé par**:
-
-	  - Décret n°77-90 1977-01-27 JORF et JONC 3 février 1977 date d'entrée en vigueur élection des maires
-
-	**Cite**:
-
-	  - Loi n°1919-10-08
-
-	**Cité par**:
-
-	  - Ordonnance n°91-755 du 22 juillet 1991 - art. 2 (VT)
-
-
-###### Article L233-35
-
-Sont exemptés [*conditions*] de la taxe de séjour dans les stations hydrominérales, climatiques et uvales :
-
-1° Les bénéficiaires des formes d'aide sociale prévues aux chapitres V, VI et VIII du titre III du code de la famille et de
-l'aide sociale ; 
-
-2° Les mutilés, les blessés et les malades du fait de la guerre.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Code de l'administration communale 219
-
-	**Cite**:
-
-	  - Code de la famille et de l'aide sociale titre III chapitres V, VI, VIII
-
-	**Codifié par**:
-
-	  - Décret n°77-90 1977-01-27
-
-	**Créé par**:
-
-	  - Décret n°77-90 1977-01-27 JORF et JONC 3 février 1977 date d'entrée en vigueur élection des maires
-
-
-###### Article L233-36
-
-Peuvent être exemptées [*conditions*] de la taxe de séjour,
-
-dans toutes les stations, les personnes qui occupent des locaux d'un prix inférieur à un chiffre déterminé.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Code de l'administration communale 221 al. 1
-
-	**Codifié par**:
-
-	  - Décret n°77-90 1977-01-27
-
-	**Créé par**:
-
-	  - Décret n°77-90 1977-01-27 JORF et JONC 3 février 1977 date d'entrée en vigueur élection des maires
-
-	**Cité par**:
-
-	  - Ordonnance n°91-755 du 22 juillet 1991 - art. 2 (VT)
-
-
-###### Article L233-37
-
-Peuvent être exemptés [*conditions*] de la taxe de séjour, dans les stations hydrominérales, climatiques et uvales, les
-personnes qui sont exclusivement attachées aux malades ou celles qui, par leur travail ou leur profession, participent au
-fonctionnement ou au développement de la station.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Code de l'administration communale 221 al. 2
-
-	**Codifié par**:
-
-	  - Décret n°77-90 1977-01-27
-
-	**Créé par**:
-
-	  - Décret n°77-90 1977-01-27 JORF et JONC 3 février 1977 date d'entrée en vigueur élection des maires
-
-
-###### Article L233-38
-
-Le tarif de la taxe de séjour est fixé pour l'ensemble des stations par décret en Conseil d'Etat [*conditions de forme*]
-selon un barème qui a pour base le classement officiel des hôtels de tourisme.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Code de l'administration communale 222 al. 1 (partie)
-
-	**Codifié par**:
-
-	  - Décret n°77-90 1977-01-27
-
-	**Créé par**:
-
-	  - Décret n°77-90 1977-01-27 JORF et JONC 3 février 1977 date d'entrée en vigueur élection des maires
-
-	**Abrogé par**:
-
-	  - Loi n°88-13 du 5 janvier 1988 - art. 58 () JORF 6 janvier 1988
-
-	**Cité par**:
-
-	  - CODE DES COMMUNES. - art. R*233-43 (M)
-
-
-###### Article L233-39
-
-Le décret qui fixe le barème détermine, s'il y a lieu, les catégories d'établissements dans lesquels la taxe de séjour n'est
-pas perçue et les atténuations et exemptions autorisées pour certaines catégories de personnes.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Code de l'administration communale 222 al. 2 phr. 3
-
-	**Codifié par**:
-
-	  - Décret n°77-90 1977-01-27
-
-	**Créé par**:
-
-	  - Décret n°77-90 1977-01-27 JORF et JONC 3 février 1977 date d'entrée en vigueur élection des maires
-
-	**Cité par**:
-
-	  - Ordonnance n°91-755 du 22 juillet 1991 - art. 2 (VT)
-
-
-###### Article L233-40
-
-En dehors des catégories d'hôtels de tourisme, le barème établi comporte obligatoirement une catégorie supplémentaire qui
-concerne les hôtels non classés et les terrains de camping. 
-
-Pour cette catégorie, la taxe est perçue au tarif minimum prévu par l'article L. 233-33.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Code de l'administration communale 222 al. 2 phr. 1 et 2
-
-	**Codifié par**:
-
-	  - Décret n°77-90 1977-01-27
-
-	**Créé par**:
-
-	  - Décret n°77-90 1977-01-27 JORF et JONC 3 février 1977 date d'entrée en vigueur élection des maires
-
-	**Abrogé par**:
-
-	  - Loi n°88-13 du 5 janvier 1988 - art. 58 () JORF 6 janvier 1988
-
-	**Cite**:
-
-	  - CODE DES COMMUNES. - art. L233-33 (M)
-
-
-###### Article L233-41
-
-Des arrêtés du maire [*compétence*] répartissent en catégories, selon les normes établies pour le classement des hôtels de
-tourisme, les villas ainsi que les différents locaux utilisés pour le logement des visiteurs, curistes ou touristes
-séjournant dans les stations.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Code de l'administration communale 222 al. 3
-
-	**Codifié par**:
-
-	  - Décret n°77-90 1977-01-27
-
-	**Modifié par**:
-
-	  - Loi n°82-213 du 2 mars 1982 - art. 21 (V) JORF 3 MARS 1982
-
-	**Cité par**:
-
-	  - Ordonnance n°91-755 du 22 juillet 1991 - art. 2 (VT)
-	  - CODE DES COMMUNES. - art. L233-41 (Ab)
-
-	**Nouveaux textes**:
-
-	  - Code général des collectivités territoriales - art. L2333-36 (M)
-
-
-##### Recouvrement de la taxe de séjour et pénalités .
-
-###### Article L233-42
-
-La taxe de séjour est perçue par l'intermédiaire des logeurs, hôteliers et propriétaires. 
-
-Elle est versée par eux, sous leur responsabilité, dans la caisse du receveur municipal.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Code de l'administration communale 224
-
-	**Codifié par**:
-
-	  - Décret n°77-90 1977-01-27
-
-	**Créé par**:
-
-	  - Décret n°77-90 1977-01-27 JORF et JONC 3 février 1977 date d'entrée en vigueur élection des maires
-
-	**Cité par**:
-
-	  - Loi n°77-744 du 8 juillet 1977 - art. 9 (Ab)
-	  - Ordonnance n°91-755 du 22 juillet 1991 - art. 2 (VT)
-	  - CODE DES COMMUNES. - art. L233-42-1 (Ab)
-	  - CODE DES COMMUNES. - art. L233-43 (Ab)
-
-	**Nouveaux textes**:
-
-	  - Code général des collectivités territoriales - art. L2333-37 (M)
-
-
-###### Article L233-43
-
-Un règlement d'administration publique détermine les formalités à remplir par les logeurs, hôteliers, propriétaires ou autres
-intermédiaires chargés de percevoir la taxe de séjour. 
-
-Le même règlement d'administration publique fixe les pénalités pour infractions à ces dispositions. 
-
-Les pénalités ne peuvent dépasser le triple du droit [*somme due*] dont la commune a été privée [*proportion*].
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Code de l'administration communale 228 al. 1
-
-	**Codifié par**:
-
-	  - Décret n°77-90 1977-01-27
-
-	**Créé par**:
-
-	  - Décret n°77-90 1977-01-27 JORF et JONC 3 février 1977 date d'entrée en vigueur élection des maires
-
-	**Cité par**:
-
-	  - Loi n°77-744 du 8 juillet 1977 - art. 9 (Ab)
-	  - Ordonnance n°91-755 du 22 juillet 1991 - art. 2 (VT)
-	  - Décret n°98-562 du 1 juillet 1998 - art. 1 (V)
-	  - Décret n°80-918 du 13 novembre 1980 - art. 17–1 (V)
-
-	**Nouveaux textes**:
-
-	  - Code général des collectivités territoriales - art. L2333-39 (M)
-
-
-###### Article L233-44
-
-Un décret en Conseil d'Etat détermine les modalités suivant lesquelles sont exercées les poursuites auxquelles il y a lieu de
-procéder en cas d'infraction, pour le recouvrement du principal et des pénalités de la taxe, ainsi que les conditions dans
-lesquelles sont jugées les réclamations.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Code de l'administration communale 228 complété al. 2
-
-	**Codifié par**:
-
-	  - Décret n°77-90 1977-01-27
-
-	**Créé par**:
-
-	  - Décret n°77-90 1977-01-27 JORF et JONC 3 février 1977 date d'entrée en vigueur élection des maires
-
-	**Cité par**:
-
-	  - CODE DES COMMUNES. - art. L233-29 (M)
-
-
-##### Dispositions particulières aux communes groupées en syndicats .
-
-###### Article L233-45
-
-Les dispositions [*relatives à la taxe de séjour*] de la présente section sont applicables aux communes qui ont été
-autorisées à se constituer en syndicats de communes en vue d'obtenir la création d'une station hydrominérale, climatique ou
-uvale intercommunale.
-
-**Liens relatifs à cet article**
-
-	**Cité par**:
-
-	  - CODE DES COMMUNES. - art. R*233-40 (Ab)
-	  - CODE GENERAL DES IMPOTS, CGI. - art. 1609 nonies D (M)
-	  - Loi n°77-744 du 8 juillet 1977 - art. 9 (Ab)
-	  - Ordonnance n°91-755 du 22 juillet 1991 - art. 2 (VT)
-
-	**Anciens textes**:
-
-	  - Code de l'administration communale 227
-
-	**Codifié par**:
-
-	  - Décret n°77-90 1977-01-27
-
-	**Créé par**:
-
-	  - Décret n°77-90 1977-01-27 JORF et JONC 3 février 1977 date d'entrée en vigueur élection des maires
-
-	**Cite**:
-
-	  - Code des communes L233-29 à L233-45
-
 
 ##### Taxes destinées au financement des transports en commun
 
@@ -23530,420 +24388,7 @@ décembre 1979 relative à la publicité, aux enseignes et préenseignes.
 	  - Code général des collectivités territoriales - art. L2333-21 (V)
 
 
-###### Article L233-84
-
-La taxe est due par l'exploitant de l'emplacement au 1er janvier de l'année d'imposition ou, à défaut, par le propriétaire à
-cette même date.
-
-Elle est établie et recouvrée par les soins de l'administration municipale sur la base d'une déclaration annuelle souscrite
-par le redevable. Toute infraction aux dispositions du présent article donne lieu aux sanctions prévues aux articles L.
-233-25 et L. 233-26 du code des communes ainsi qu'à l'utilisation des moyens prévus à l'article L. 233-28 du même code.
-
-Lorsque l'emplacement publicitaire est créé après le 1er janvier dans une commune où la taxe est applicable, la taxe est due
-par l'exploitant de l'emplacement à la date de création de celui-ci ou, à défaut, par le propriétaire à cette même date, pour
-l'année entière, sauf si le conseil municipal, par une délibération de portée générale prise au plus tard avant le 1er
-juillet de l'année précédant celle de l'imposition, a décidé qu'elle serait due pour la fraction correspondante de l'année
-d'imposition.
-
-A titre exceptionnel, la délibération de portée générale visée ci-dessus doit intervenir, pour être applicable au 1er janvier
-1987, au plus tard le 30 novembre 1986.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°77-90 1977-01-27
-
-	**Anciens textes**:
-
-	  - Loi n°80-1094 du 30 décembre 1980 - art. 55, v. init.
-
-	**Modifié par**:
-
-	  - Loi n°86-972 du 19 août 1986 - art. 40 () JORF 22 août 1986
-
-	**Cité par**:
-
-	  - Ordonnance n°91-755 du 22 juillet 1991 - art. 2 (VT)
-	  - CODE DES COMMUNES. - art. R233-111 (Ab)
-	  - CODE DES COMMUNES. - art. R233-112 (Ab)
-
-	**Cite**:
-
-	  - CODE DES COMMUNES. - art. L233-25 (Ab)
-	  - CODE DES COMMUNES. - art. L233-26 (Ab)
-	  - CODE DES COMMUNES. - art. L233-28 (Ab)
-
-	**Nouveaux textes**:
-
-	  - Code général des collectivités territoriales - art. L2333-24 (V)
-
-
 #### Dotation globale de fonctionnement et autres recettes réparties par le comité des finances locales
-
-##### Dispositions applicables à la dotation globale de fonctionnement des communes et de leurs groupements
-
-##### Dotation de péréquation .
-
-###### Article L234-6
-
-Le potentiel fiscal d'une commune [*calcul*]  est égal au montant des bases pondérées des quatre taxes directes locales, ces
-bases étant les bases brutes de la dernière année dont les résultats sont connus servant à l'assiette des impositions
-communales, minorées ou majorées, le cas échéant, du montant des bases correspondant soit à l'écrêtement, soit au versement
-opéré au titre du fonds départemental de péréquation de la taxe professionnelle prévu par l'article 1648-A du code général
-des impôts.
-
-Le coefficient de pondération de la base de chacune des quatre taxes [*définition*] est le taux moyen national d'imposition à
-la taxe concernée, constaté lors de la dernière année dont les résultats sont connus.
-
-Le potentiel fiscal par habitant est égal au potentiel fiscal de la commune divisé par le nombre d'habitants constituant la
-population de cette commune, tel que défini à l'article L. 234-19-3.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 1648 A
-	  - CODE DES COMMUNES. - art. L234-19-3 (M)
-
-	**Codifié par**:
-
-	  - Décret n°77-90 1977-01-27
-
-	**Cité par**:
-
-	  - Loi n°79-15 du 3 janvier 1979 - art. 15 (Ab)
-	  - Loi n°79-15 du 3 janvier 1979 - art. 16 (Ab)
-	  - Loi n°79-15 du 3 janvier 1979 - art. 17 (Ab)
-	  - Loi n°79-15 du 3 janvier 1979 - art. 21 (Ab)
-	  - Loi n°82-1126 du 29 décembre 1982 - art. 91 (P)
-	  - Décret n°85-260 du 22 février 1985 - art. 5 (V)
-	  - Loi n°85-1268 du 29 novembre 1985 - art. 38 (Ab)
-	  - Décret n°86-323 du 3 mars 1986 - art. 2 (V)
-	  - Décret n°92-952 du 3 septembre 1992 - art. 2 (V)
-	  - Décret n°93-258 du 26 février 1993 - art. 1 (Ab)
-	  - CODE DES COMMUNES. - art. L234-11 (Ab)
-	  - CODE DES COMMUNES. - art. L234-14-1 (Ab)
-	  - CODE DES COMMUNES. - art. L234-14-2 (Ab)
-	  - CODE DES COMMUNES. - art. L234-19-1 (Ab)
-	  - CODE DES COMMUNES. - art. L234-4 (Ab)
-	  - CODE DES COMMUNES. - art. L234-5 (Ab)
-	  - CODE DES COMMUNES. - art. L234-9 (Ab)
-	  - CODE DES COMMUNES. - art. L262-10 (Ab)
-	  - CODE DES COMMUNES. - art. L262-5 (M)
-	  - CODE DES COMMUNES. - art. L263-13 (M)
-	  - CODE DES COMMUNES. - art. L263-15 (M)
-	  - CODE DES COMMUNES. - art. R*212-8 (Ab)
-	  - CODE DES COMMUNES. - art. R*234-2 (M)
-	  - CODE DES COMMUNES. - art. R*234-33 (M)
-	  - CODE DES COMMUNES. - art. R*263-40 (M)
-	  - CODE DES COMMUNES. - art. R*263-50 (M)
-	  - CODE GENERAL DES IMPOTS, CGI. - art. 1648 B (M)
-
-	**Modifié par**:
-
-	  - Loi n°85-1268 1985-11-29 art. 1, 7, 10 JORF 3 décembre 1985
-
-	**Liens**:
-
-	  - TXT_SOURCE: Décret n°93-270 du 1 mars 1993
-	  - TXT_SOURCE: Décret n°93-270 du 1 mars 1993 - art. 2 (V)
-
-
-##### Concours particuliers.
-
-###### Article L234-13
-
-Les communes touristiques ou thermales et leurs groupements reçoivent une dotation supplémentaire destinée à tenir compte des
-charges exceptionnelles qui résultent, pour elles, de l'accueil saisonnier de la population non résidente à titre principal.
-
-La liste des communes touristiques ou thermales est arrêtée, chaque année, après avis du comité des finances locales, en
-tenant compte de l'importance de leur capacité d'accueil existante et en voie de création, dans des conditions fixées par
-décret en Conseil d'Etat.
-
-Les communes inscrites en 1985 sur la liste des communes touristiques ou thermales continuent à être inscrites sur la liste
-mentionnée à l'alinéa ci-dessus pendant une durée de trois ans.
-
-Le montant des crédits affectés à la dotation supplémentaire aux communes touristiques ou thermales est fixé chaque année par
-le comité des finances locales. Il ne peut être inférieur à 50 p. 100 ni supérieur à 60 p. 100 des sommes affectées aux
-concours particuliers.
-
-Ces crédits sont répartis entre les communes touristiques ou thermales dans des conditions fixées par décret en Conseil
-d'Etat en tenant compte notamment :
-
-1° Du surcroît de charges supporté par ces communes par rapport aux communes appartenant au même groupe démographique ;
-
-2° De la capacité d'accueil existante et de la capacité d'accueil en voie de création ;
-
-3° Du produit de la taxe de séjour perçu par ces communes ;
-
-4° De l'écart relatif entre le potentiel fiscal moyen par habitant de l'ensemble des communes appartenant au même groupe
-démographique et le potentiel fiscal par habitant de la commune.
-
-Une dotation particulière, destinée à tenir compte des charges spécifiques qu'elles supportent, est également versée aux
-communes de moins de 2000 habitants qui connaissent une importante fréquentation touristique journalière. Leur liste est
-arrêtée chaque année après avis du comité des finances locales qui fixe le montant des sommes à répartir.
-
-Le montant de cette dotation compris dans celui de la dotation supplémentaire visée par cet article ne peut être inférieur à
-22 millions de francs pour 1986. Pour les années ultérieures, ce minimum évolue comme le montant de la dotation
-supplémentaire des communes touristiques et thermales.
-
-Les conditions d'attribution de cette dotation sont déterminées par décret en Conseil d'Etat en tenant compte notamment du
-nombre des emplacements de stationnement public aménagés et entretenus.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°77-90 1977-01-27
-
-	**Cité par**:
-
-	  - Loi n°83-8 du 7 janvier 1983 - art. 103 (M)
-	  - Décret n°83-621 du 8 juillet 1983 - art. 1 (V)
-	  - Décret n°83-621 du 8 juillet 1983 - art. 3 (V)
-	  - Loi n°85-1268 du 29 novembre 1985 - art. 28 (Ab)
-	  - Loi n°85-1268 du 29 novembre 1985 - art. 29 (M)
-	  - Loi n°85-1352 du 20 décembre 1985 - art. 9 (V)
-	  - Décret n°85-1510 du 31 décembre 1985 - art. 5 (Ab)
-	  - Décret n°86-420 du 12 mars 1986 - art. 1 (M)
-	  - Décret n°86-421 du 12 mars 1986 - art. 4 (Ab)
-	  - Loi n°86-972 du 19 août 1986 - art. 45 (V)
-	  - Décret n°87-228 du 27 mars 1987 - art. 1 (Ab)
-	  - Loi n°88-13 du 5 janvier 1988 - art. 55 (V)
-	  - Loi n°91-429 du 13 mai 1991 - art. 5 (M)
-	  - Loi n°93-1436 du 31 décembre 1993 - art. 32 (V)
-	  - Arrêté du 1 mars 1994 - art. 2 (V)
-	  - Décret n°94-366 du 10 mai 1994 - art. 9 (Ab)
-	  - Décret n°94-655 du 27 juillet 1994 - art. 2 (Ab)
-	  - Loi n°95-115 du 4 février 1995 - art. 73 (Ab)
-	  - CODE DES COMMUNES. - art. L233-29 (M)
-	  - CODE DES COMMUNES. - art. L233-45 (M)
-	  - CODE DES COMMUNES. - art. L234-10 (Ab)
-	  - CODE DES COMMUNES. - art. L234-14 (Ab)
-	  - CODE DES COMMUNES. - art. L234-14-1 (Ab)
-	  - CODE DES COMMUNES. - art. L234-17 (Ab)
-	  - CODE DES COMMUNES. - art. L234-19-1 (M)
-	  - CODE DES COMMUNES. - art. L234-2 (M)
-	  - CODE DES COMMUNES. - art. L234-21 (M)
-	  - CODE DES COMMUNES. - art. L234-3 (Ab)
-	  - CODE DES COMMUNES. - art. L234-7 (Ab)
-	  - CODE DES COMMUNES. - art. L262-5 (M)
-	  - CODE DES COMMUNES. - art. R*234-13 (Ab)
-	  - CODE DES COMMUNES. - art. R*234-14 (Ab)
-	  - CODE DES COMMUNES. - art. R*234-15 (Ab)
-	  - CODE DES COMMUNES. - art. R*234-16 (Ab)
-	  - CODE DES COMMUNES. - art. R*234-19 (M)
-	  - CODE DES COMMUNES. - art. R*234-22 (Ab)
-	  - CODE GENERAL DES IMPOTS, CGI. - art. 1648 B (M)
-	  - Code général des collectivités territoriales - art. L2334-7 (V)
-	  - Code général des collectivités territoriales - art. L2334-7-1 (MMN)
-	  - Code général des collectivités territoriales - art. L5211-24 (V)
-	  - Code général des collectivités territoriales - art. L5211-30 (T)
-	  - Code général des collectivités territoriales - art. R1211-5 (M)
-
-	**Modifié par**:
-
-	  - Loi n°85-1268 1985-11-29 art. 1, 16 JORF 3 décembre 1985
-
-	**Liens**:
-
-	  - TXT_SOURCE: Décret n°87-228 du 27 mars 1987
-	  - TXT_SOURCE: Décret n°87-228 du 27 mars 1987 - art. 1 (Ab)
-	  - TXT_SOURCE: Décret n°87-228 du 27 mars 1987 - art. 2 (Ab)
-	  - TXT_SOURCE: Décret n°87-228 du 27 mars 1987 - art. 3 (Ab)
-	  - TXT_SOURCE: Décret n°87-228 du 27 mars 1987 - art. 4 (Ab)
-
-
-###### Article L234-14
-
-Bénéficient d'une dotation particulière destinée à tenir compte des charges qui résultent de l'utilisation de leurs
-équipements par les habitants des communes voisines :
-
-1° Les communes qui, dans une agglomération représentant au moins 10 p. 100 de la population du département, en constituent
-la ville principale ;
-
-2° Les communes situées dans une agglomération de plus de 250.000 habitants représentants au moins 10 p. 100 de la population
-du département, lorsque leur population est au moins égale à la moitié de celle de la ville principale ;
-
-3° Les communes de plus de 100.000 habitants ou celles dont la population représente au moins 10 p. 100 de la population du
-département ;
-
-4° Les communes chefs-lieux de département. Dans la région d'Ile-de-France, seules ces communes bénéficient de la dotation
-particulière.
-
-Le montant des sommes à répartir chaque année, en application du présent article, est fixé chaque année par le comité des
-finances locales.
-
-La dotation revenant à chacune des communes mentionnées ci-dessus est proportionnelle à la somme des dotations reçues en
-vertu des articles L. 234-2 à L. 234-19 et L. 234-19-1.
-
-Les communes dont le potentiel fiscal est égal ou supérieur au double de celui de l'ensemble des communes ne perçoivent pas
-d'attribution à ce titre.
-
-Lorsqu'une commune remplit les conditions requises pour bénéficier à la fois de la dotation instituée par le présent article
-et de la dotation particulière instituée par l'article L. 234-13, seule la plus élevée des deux dotations lui est versée.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°77-90 1977-01-27
-
-	**Cité par**:
-
-	  - Loi n°79-15 du 3 janvier 1979 - art. 25 (Ab)
-	  - Loi n°83-1186 du 29 décembre 1983 - art. 10 (Ab)
-	  - Loi n°85-1268 du 29 novembre 1985 - art. 28 (Ab)
-	  - Loi n°85-1268 du 29 novembre 1985 - art. 29 (M)
-	  - Loi n°85-1268 du 29 novembre 1985 - art. 42 (V)
-	  - Loi n°86-972 du 19 août 1986 - art. 45 (V)
-	  - CODE DES COMMUNES. - art. L233-29 (M)
-	  - CODE DES COMMUNES. - art. L234-10 (Ab)
-	  - CODE DES COMMUNES. - art. L234-17 (Ab)
-	  - CODE DES COMMUNES. - art. L234-19-1 (M)
-	  - CODE DES COMMUNES. - art. L234-19-2 (Ab)
-	  - CODE DES COMMUNES. - art. L234-2 (M)
-	  - CODE DES COMMUNES. - art. L234-21 (Ab)
-	  - CODE DES COMMUNES. - art. L234-7 (Ab)
-	  - CODE DES COMMUNES. - art. L262-5 (Ab)
-	  - CODE DES COMMUNES. - art. R*212-7 (Ab)
-	  - CODE DES COMMUNES. - art. R*234-17 (Ab)
-	  - CODE GENERAL DES IMPOTS, CGI. - art. 1648 B (M)
-	  - Code général des collectivités territoriales - art. L2334-21 (M)
-	  - Code général des collectivités territoriales - art. L2334-7 (V)
-
-	**Modifié par**:
-
-	  - Loi n°85-1268 1985-11-29 art. 1, art. 17 JORF 3 décembre 1985
-
-	**Liens**:
-
-	  - TXT_ASSOCIE: CODE DES COMMUNES. - art. L234-12 (M)
-	  - TXT_ASSOCIE: CODE DES COMMUNES. - art. L234-13 (M)
-
-	**Cite**:
-
-	  - CODE DES COMMUNES. - art. L234-13 (M)
-	  - Code des communes L234-2 à L234-19, L234-19-1, L234-13
-
-	**Nouveaux textes**:
-
-	  - Code général des collectivités territoriales - art. L1613-5 (V)
-
-
-##### Dispositions applicables aux groupements de communes.
-
-###### Article L234-17
-
-Les groupements de communes dotés d'une fiscalité propre reçoivent une attribution de la dotation globale de fonctionnement.
-
-Le montant total des sommes affectées à cette dotation, ainsi que sa répartition entre, d'une part, les districts à fiscalité
-propre et, d'autre part, les communautés urbaines, sont fixés chaque année par le comité de finances locales.
-
-La dotation globale de fonctionnement des groupements de communes dotés d'une fiscalité propre est prélevée sur les sommes
-affectées à la dotation globale de fonctionnement des communes, après déduction des sommes prévues pour les concours
-particuliers régis par les articles L. 234-13 et L. 234-14 et pour la garantie d'évolution prévue par l'article L. 234-19-1.
-
-Chaque groupement de communes défini ci-dessus reçoit :
-
-a) Une dotation de base égale au produit d'une attribution moyenne par habitant, dont le montant tient compte du coefficient
-d'intégration fiscale des groupements, par la population totale des communes regroupées :
-
-b) Une dotation de péréquation en fonction de son potentiel fiscal et de son coefficient d'intégration fiscale.
-
-Le potentiel fiscal d'un groupement de communes [*définition, calcul*] est égal au montant des bases pondérées des quatre
-taxes directes locales. Ces bases sont les bases brutes servant à l'assiette des impositions de ce groupement. Le coefficient
-de pondération de la base de chacune des quatre taxes est le taux moyen national d'imposition à la taxe concernée constaté
-pour les groupements,en distinguant communautés urbaines et districts à fiscalité propre.
-
-Le coefficient d'intégration fiscale est égal au rapport entre le produit des quatre taxes directes locales et de la taxe ou
-de la redevance d'enlèvement des ordures ménagères perçu par le groupement et l'ensemble des communes regroupées.
-
-Les sommes affectées à la dotation de base des districts à fiscalité propre, d'une part, des communautés urbaines, d'autre
-part, représentent 15 p. 100 du montant total des sommes affectées à la dotation globale de fonctionnement de chacune de ces
-deux catégories de groupements de communes.
-
-Pour 1986, le montant des sommes affectées à la dotation globale de fonctionnement des groupements de communes dotés d'une
-fiscalité propre ne peut être supérieur à 2025 millions de francs. Pour les années ultérieures, ce montant évolue comme la
-dotation globale de fonctionnement.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°77-90 1977-01-27
-
-	**Liens**:
-
-	  - TXT_SOURCE: Décret n°82-998 du 17 novembre 1982
-	  - TXT_SOURCE: Décret n°82-998 du 17 novembre 1982 - art. 1 (V)
-	  - TXT_SOURCE: Décret n°82-998 du 17 novembre 1982 - art. 2 (V)
-	  - TXT_SOURCE: Décret n°82-998 du 17 novembre 1982 - art. 3 (V)
-
-	**Cité par**:
-
-	  - Loi n°83-636 du 13 juillet 1983 - art. 31 bis (Ab)
-	  - Décret n°85-260 du 22 février 1985 - art. 3-1 (M)
-	  - CODE DES COMMUNES. - art. L234-11-1 (Ab)
-	  - CODE DES COMMUNES. - art. L234-18 (M)
-	  - CODE DES COMMUNES. - art. R*234-2 (M)
-	  - CODE GENERAL DES IMPOTS, CGI. - art. 1648 B (M)
-
-	**Cite**:
-
-	  - CODE DES COMMUNES. - art. L234-13 (M)
-	  - CODE DES COMMUNES. - art. L234-14 (M)
-	  - CODE DES COMMUNES. - art. L234-19-1 (M)
-
-	**Modifié par**:
-
-	  - Loi n°85-1261 1985-11-29 art. 1, 20 JORF 3 décembre 1985
-
-
-##### Dispositions transitoires.
-
-###### Article L234-21-1
-
-Pour 1986, et à défaut de nouvelles dispositions pour 1987 la dotation globale de fonctionnement revenant à chaque commune et
-à chaque groupement comprend, sans préjudice de l'application de l'article L. 234-15, deux fractions :
-
-a) 80 p. 100 des sommes reçues en 1985 au titre de la dotation globale de fonctionnement, à l'exception des dotations
-mentionnées à l'article L. 234-15 ;
-
-b) Le solde, par application des dispositions des articles L. 234-2 à L. 234-14 ci-dessus.
-
-Pour les années ultérieures, le pourcentage mentionné au a ci-dessus est diminué de vingt points par an.
-
-Pendant cette période transitoire, la garantie d'évolution prévue par l'article L. 234-19-1 s'applique au montant total des
-deux fractions de la dotation globale mentionnée ci-dessus, après déduction, dans chacune de ces deux fractions, des sommes
-correspondant aux concours particuliers prévus aux articles L. 234-13 et L. 234-14.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°77-90 1977-01-27
-
-	**Modifié par**:
-
-	  - Loi n°86-972 du 19 août 1986 - art. 44 () JORF 22 août 1986
-	  - Loi n°86-972 du 19 août 1986 - art. 45 (V) JORF 22 août 1986
-
-	**Cité par**:
-
-	  - Loi n°91-429 du 13 mai 1991 - art. 11 (V)
-	  - CODE DES COMMUNES. - art. L234-17 (Ab)
-
-	**Cite**:
-
-	  - CODE DES COMMUNES. - art. L234-19-1 (M)
-	  - Code des communes L234-2 à L234-15
-
-	**Nouveaux textes**:
-
-	  - Code général des collectivités territoriales - art. L1211-4 (M)
-
 
 ### Dispositions particulières
 
@@ -26657,6 +27102,55 @@ assurent un service public relevant de ces collectivités.
 	**Cite**:
 
 	  - Code des communes L413-17
+
+
+###### Article L322-5
+
+Les budgets des services publics à caractère industriel ou commercial exploités en régie, affermés ou concédés, doivent être
+équilibrés en recettes et en dépenses.
+
+Il est interdit aux communes de prendre en charge dans leur budget propre, des dépenses au titre de ces services publics.
+
+Toutefois, le conseil municipal peut décider une telle prise en charge lorsque celle-ci est justifiée par l'une des raisons
+suivantes :
+
+1° Lorsque les exigences du service public conduisent la collectivité à imposer des contraintes particulières de
+fonctionnement ;
+
+2° Lorsque le fonctionnement du service public exige la réalisation d'investissements qui, en raison de leur importance et eu
+égard au nombre d'usagers, ne peuvent être financés sans augmentation excessive des tarifs ;
+
+3° Lorsque, après la période de réglementation des prix, la suppression de toute prise en charge par le budget de la commune
+aurait pour conséquence une hausse excessive des tarifs.
+
+La décision du conseil municipal fait l'objet, à peine de nullité, d'une délibération motivée. Cette délibération fixe les
+règles de calcul et les modalités de versement des dépenses du service prises en charge par la commune ainsi que le ou les
+exercices auxquels elles se rapportent. En aucun cas, cette prise en charge ne peut se traduire par la compensation pure et
+simple d'un déficit de fonctionnement.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°77-240 1977-03-07
+
+	**Modifié par**:
+
+	  - Loi n°88-13 1988-01-05 art. 14 I JORF 6 janvier 1988
+
+	**Cité par**:
+
+	  - Décret n°89-945 du 22 décembre 1989 - art. 3 (Ab)
+	  - CODE DES COMMUNES. - art. R*372-16 (M)
+
+	**Abrogé par**:
+
+	  - Loi n°96-142 du 21 février 1996 - art. 12 (V) JORF 24 février 1996
+
+	**Nouveaux textes**:
+
+	  - Code général des collectivités territoriales - art. L2224-1 (V)
+	  - Code général des collectivités territoriales - art. L2224-2 (M)
 
 
 ###### Article L322-6
@@ -33311,42 +33805,6 @@ arrêté du maire dans les limites fixées par décret.
 ## Administration et services communaux
 
 ### Administration de la commune
-
-### Services communaux
-
-#### Dispositions communes, aux régies, aux concessions et aux affermages.
-
-###### Article L322-5
-
-Les budgets des services publics à caractère industriel ou commercial exploités en régie, affermés ou concédés, doivent être
-équilibrés en recettes et en dépenses.
-
-Il est interdit aux communes de prendre en charge dans leur budget propre, des dépenses au titre de ces services publics.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Circulaire 1978-12-12
-	  - Code des communes R372-6 à R372-18
-
-	**Anciens textes**:
-
-	  - Code de l'administration communale 352 AL. 1, AL. 2, AL. 3 (partie)
-
-	**Codifié par**:
-
-	  - Décret n°77-240 1977-03-07
-
-	**Modifié par**:
-
-	  - Loi n°82-213 du 2 mars 1982 - art. 21 (V) JORF 3 MARS 1982
-
-	**Cité par**:
-
-	  - Décret n°89-945 du 22 décembre 1989 - art. 3 (Ab)
-	  - CODE DES COMMUNES. - art. R*372-16 (M)
-
 
 ## LIVRE 4 : Personnel communal
 
@@ -57224,630 +57682,6 @@ prévues par l'article R. 233-114, même lorsque la taxe est acquittée avant le
 	  - Code général des collectivités territoriales - art. R2333-40 (VT)
 
 
-##### Taxes particulières aux stations
-
-##### Taxe de séjour
-
-##### Dispositions générales .
-
-###### Article R*233-39
-
-La taxe de séjour [*exigibilité*] est due à partir du jour de l'arrivée ; la durée de perception est au maximum de vingt-huit
-jours.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°58-1268 1958-12-17 art. 1 al. 3
-
-	**Codifié par**:
-
-	  - Décret n°77-91 1977-01-27
-
-	**Créé par**:
-
-	  - Décret n°77-91 1977-01-27 JORF et JONC 3 février 1977 date d'entrée en vigueur élection des maires
-
-
-###### Article R*233-40
-
-Dans les stations ayant deux saisons distinctes au cours de la même année, où la perception de la taxe de séjour est
-autorisée pendant deux périodes (saison d'été et saison d'hiver), la taxe est due pendant vingt-huit jours au maximum
-[**]durée[**] pour chacune des périodes.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°1920-05-04 art. 4 al. 4
-
-	**Codifié par**:
-
-	  - Décret n°77-91 1977-01-27
-
-	**Créé par**:
-
-	  - Décret n°77-91 1977-01-27 JORF et JONC 3 février 1977 date d'entrée en vigueur élection des maires
-
-
-###### Article R*233-42
-
-Dans les communes touristiques ou thermales et leurs groupements inscrits sur la liste visée à l'article L. 234-11 du présent
-code, la taxe de séjour peut être instituée dans les mêmes conditions que celles qui s'appliquent aux stations classées.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°77-91 1977-01-27
-
-	**Cite**:
-
-	  - CODE DES COMMUNES. - art. L234-11 (M)
-
-
-###### Article R233-41
-
-Dans les stations où la saison s'étend sur deux années différentes, si un séjour chevauche sur les deux années,
-
-il ne compte que pour un seul séjour, pour le calcul de la durée maximum de quatre semaines pendant lesquelles la taxe est
-due.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°1920-05-04 art. 4 al. 5
-	  - Décret n°58-1268 1958-12-17 art. 1 al. 4
-
-	**Codifié par**:
-
-	  - Décret n°77-91 1977-01-27
-
-	**Créé par**:
-
-	  - Décret n°77-91 1977-01-27 JORF et JONC 3 février 1977 date d'entrée en vigueur élection des maires
-
-
-##### Tarifs de la taxe de séjour et exonérations .
-
-###### Article R*233-43
-
-Le décret en Conseil d'Etat, prévu à l'article L. 233-38, fixant le tarif de la taxe de séjour est pris sur la proposition
-des ministres intéressés [*compétence*].
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°77-91 1977-01-27
-
-	**Créé par**:
-
-	  - Décret n°77-91 1977-01-27 JORF et JONC 3 février 1977 date d'entrée en vigueur élection des maires
-
-	**Cite**:
-
-	  - CODE DES COMMUNES. - art. L233-38 (Ab)
-
-
-###### Article R*233-44
-
-La taxe de séjour est perçue aux tarifs suivants :
-
-Hôtels de tourisme quatre étoiles et quatre étoiles luxe, villas et meublés hors classe : entre 4 F et 5 F par jour et par
-personne ;
-
-Hôtels de tourisme trois étoiles, villas et meublés de 1ère catégorie : entre 3 F et 4 F par jour et par personne ;
-
-Hôtels de tourisme deux étoiles, villas et meublés de 2ème catégorie : entre 2 F et 3 F par jour et par personne ;
-
-Hôtels de tourisme une étoile, villas et meublés de 3ème catégorie : entre 1 F et 2 F par jour et par personne ;
-
-Hôtels non classés "tourisme", villas et meublés de 4ème catégorie, terrains de camping, terrains de caravaning, villages de
-vacances, gîtes ruraux privés, gîtes communaux et tous autres établissements : 1 F par jour et par personne.
-
-Ces chiffres ne comprennent pas la surtaxe départementale dans les stations où celle-ci est perçue.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°58-1268 1958-12-17 ART. 1 AL. 1 MODIFIE
-
-	**Codifié par**:
-
-	  - Décret n°77-91 1977-01-27
-
-
-###### Article R*233-46
-
-La taxe n'est pas perçue dans les colonies et centres de vacances collectives d'enfants tels qu'ils sont définis par arrêté
-du ministre chargé de l'organisation et du fonctionnement des colonies et camps de vacances.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°58-1268 1958-12-17 art. 1 al. 5
-
-	**Codifié par**:
-
-	  - Décret n°77-91 1977-01-27
-
-	**Créé par**:
-
-	  - Décret n°77-91 1977-01-27 JORF et JONC 3 février 1977 date d'entrée en vigueur élection des maires
-
-
-###### Article R*233-47
-
-Sont exemptés de la taxe de séjour, sans préjudice de l'application de l'article L. 233-31 :
-
-a° Les personnes bénéficiant des dispositions des titres III et IV du code de la famille et de l'aide sociale ; 
-
-b° Les mutilés, blessés et malades par suite de faits de guerre ; 
-
-c° Les personnes exclusivement attachées aux malades ; 
-
-d° Les personnes qui, pour leur travail ou leur profession, participent au fonctionnement et au développement de la
-station ; 
-
-e° Les voyageurs et représentants de commerce porteurs de la carte d'identité professionnelle pendant la durée du séjour
-qu'ils font dans la station pour les besoins exclusifs de leur profession ; 
-
-f° Les fonctionnaires et agents de l'Etat appelés temporairement dans la station pour l'exercice de leurs fonctions.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Code de la famille et de l'aide sociale Titres III et IV
-	  - CODE DES COMMUNES. - art. L233-31 (M)
-
-	**Anciens textes**:
-
-	  - Décret n°58-1268 1958-12-17 art. 2
-
-	**Codifié par**:
-
-	  - Décret n°77-91 1977-01-27
-
-	**Créé par**:
-
-	  - Décret n°77-91 1977-01-27 JORF et JONC 3 février 1977 date d'entrée en vigueur élection des maires
-
-
-###### Article R*233-48
-
-Les enfants de moins de dix ans bénéficient d'une réduction de 50 p. 100 [*pourcentage*] du montant de la taxe ; les enfants
-de moins de quatre ans en sont exonérés [*conditions d'âge*].
-
-En outre, les membres des familles nombreuses porteurs de la carte d'identité qui leur est délivrée en vertu de la loi du 24
-décembre 1940 bénéficient des mêmes réductions que pour le prix des transports sur les chemins de fer d'intérêt général.
-
-Le conseil municipal peut décider d'augmenter le montant des réductions prévues aux deux alinéas ci-dessus.
-
-Il peut de même décider d'exonérer partiellement ou totalement les personnes bénéficiaires du chèque-vacances ainsi que les
-mineurs de moins de dix-huit ans.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°58-1268 1958-12-17 ART. 3
-
-	**Codifié par**:
-
-	  - Décret n°77-91 1977-01-27
-
-	**Cite**:
-
-	  - Loi n°1940-12-24
-
-
-###### Article R233-45
-
-Le tarif de la taxe de séjour est affiché en permanence à la porte de la mairie et tenu, au secrétariat de la mairie,
-
-à la disposition de toute personne qui désire en prendre connaissance [*publicité*]. 
-
-Il est affiché dant tous les hôtels et dans toutes les maisons meublées où sont reçues en logement les personnes étrangères à
-la commune.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°1920-05-04 art. 6
-
-	**Codifié par**:
-
-	  - Décret n°77-91 1977-01-27
-
-	**Créé par**:
-
-	  - Décret n°77-91 1977-01-27 JORF et JONC 3 février 1977 date d'entrée en vigueur élection des maires
-
-	**Nouveaux textes**:
-
-	  - Code général des collectivités territoriales - art. R2333-46 (M)
-
-
-##### Recouvrement de la taxe de séjour et pénalités .
-
-###### Article R*233-53
-
-Les agents municipaux commissionnés à cet effet se présentent périodiquement chez les personnes désignées [*hôteliers et
-autres logeurs*] aux articles R. 233-49 et R. 233-50 pour y recueillir le produit de la taxe de séjour. 
-
-Le maire [*attributions*] détermine l'époque des tournées des agents collecteurs. 
-
-Dans les hôtels et maisons meublées, les tournées doivent avoir lieu au moins toutes les trois semaines [**]fréquence[**].
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°1920-05-04 art. 11 remplacé
-
-	**Codifié par**:
-
-	  - Décret n°77-91 1977-01-27
-
-	**Créé par**:
-
-	  - Décret n°77-91 1977-01-27 JORF et JONC 3 février 1977 date d'entrée en vigueur élection des maires
-
-	**Cite**:
-
-	  - Code des communes R233-49 et R233-50
-
-
-###### Article R*233-54
-
-Les agents collecteurs [*attributions, pouvoirs*] mentionnés à l'article précédent :
-
-- procèdent à la vérification de l'état dont la tenue est prescrite par les articles R. 233-49 et R. 233-50 ; 
-
-- peuvent, pour s'assurer que ce document a été correctement tenu, exiger des logeurs et des hôteliers la communication des
-pièces et documents comptables s'y rapportant ; 
-
-- encaissent le montant des taxes perçues depuis leur précédente vérification et en donnent aussitôt décharge aux hôteliers,
-logeurs, propriétaires ou principaux locataires par mention inscrite sur cet état ; 
-
-- inscrivent, sur un registre à souche, le montant de chaque versement et en délivrent immédiatement quittance. 
-
-L'état est présenté pour vérification [*contrôle*] au receveur municipal à l'appui des versements faits à sa caisse par les
-collecteurs [*formalités*].
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°77-91 1977-01-27
-
-	**Créé par**:
-
-	  - Décret n°77-91 1977-01-27 JORF et JONC 3 février 1977 date d'entrée en vigueur élection des maires
-
-	**Cite**:
-
-	  - CODE DES COMMUNES. - art. L233-49 (Ab)
-	  - Code des communes R233-53
-
-	**Anciens textes**:
-
-	  - Décret n°1920-05-04 art. 11 remplacé
-
-
-###### Article R*233-56
-
-L'état dont la tenue est imposée aux personnes [*hôteliers et autres logeurs*] désignées aux articles R. 233-49 et R. 233-50,
-les pièces [*documents*] comptables que tiennent à cet effet ces personnes et les quittances délivrées par les agents
-collecteurs sont présentés à toute réquisition des agents de l'autorité [*contrôle*] . 
-
-L'état est, contre récépissé, remis annuellement [**]fréquence[**] au maire à une date fixée par ce dernier.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°1920-05-04 art. 13 remplacé
-
-	**Codifié par**:
-
-	  - Décret n°77-91 1977-01-27
-
-	**Créé par**:
-
-	  - Décret n°77-91 1977-01-27 JORF et JONC 3 février 1977 date d'entrée en vigueur élection des maires
-
-	**Cite**:
-
-	  - Code des communes R233-49 et R233-50
-
-
-###### Article R*233-57
-
-Tout assujetti qui conteste soit l'application qui lui est faite du tarif par l'hôtelier, logeur, propriétaire, ou principal
-locataire, soit la quotité de la taxe à lui réclamée, acquitte [*paiement*] néanmoins le montant de la taxe contestée,
-
-sauf à en obtenir le remboursement après qu'il a été statué sur sa réclamation [**]recours[**]. 
-
-Ces contestations [*recours*] sont portées, quel que soit le montant de la taxe, devant le tribunal d'instance dans le
-ressort duquel se trouve la commune intéressée [*compétence*] et sont jugées sans frais.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°1920-05-04 art. 14 remplacé
-
-	**Codifié par**:
-
-	  - Décret n°77-91 1977-01-27
-
-	**Créé par**:
-
-	  - Décret n°77-91 1977-01-27 JORF et JONC 3 février 1977 date d'entrée en vigueur élection des maires
-
-	**Liens**:
-
-	  - TXT_ASSOCIE: CODE DES COMMUNES. - art. R233-68 (Ab)
-
-
-###### Article R*233-58
-
-Les infractions aux dispositions concernant les formalités établies pour le recouvrement de la taxe sont constatées par les
-officiers de police judiciaire, les agents collecteurs et les agents des services fiscaux et poursuivies comme en matière de
-contributions indirectes [*procédure*].
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°77-91 1977-01-27
-
-	**Créé par**:
-
-	  - Décret n°77-91 1977-01-27 JORF et JONC 3 février 1977 date d'entrée en vigueur élection des maires
-
-	**Liens**:
-
-	  - TXT_ASSOCIE: CODE DES COMMUNES. - art. R233-68 (Ab)
-
-	**Cite**:
-
-	  - Code des communes R233-49 à R233-57
-
-	**Anciens textes**:
-
-	  - Décret n°1920-05-04 art. 15 remplacé
-
-
-###### Article R233-49
-
-En vue de la perception de la taxe de séjour, les hôteliers et autres logeurs sont tenus d'établir, par mois, un état
-[*contenu*] comportant le nombre des personnes ayant logé dans leur établissement durant le mois écoulé ainsi que le nombre
-de jours passés, le montant de la taxe perçue et, éventuellement, les motifs d'exonération ou de réduction de cette taxe
-[*formalités - obligation*].
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°1920-05-04 art. 7 remplacé
-
-	**Codifié par**:
-
-	  - Décret n°77-91 1977-01-27
-
-	**Créé par**:
-
-	  - Décret n°77-91 1977-01-27 JORF et JONC 3 février 1977 date d'entrée en vigueur élection des maires
-
-	**Cité par**:
-
-	  - CODE DES COMMUNES. - art. R*233-53 (Ab)
-	  - CODE DES COMMUNES. - art. R*233-58 (Ab)
-	  - CODE DES COMMUNES. - art. R233-50 (Ab)
-	  - CODE DES COMMUNES. - art. R233-55 (Ab)
-
-	**Nouveaux textes**:
-
-	  - Code général des collectivités territoriales - art. R2333-50 (M)
-
-
-###### Article R233-50
-
-Les propriétaires ou toutes personnes qui ont l'intention de louer, pendant la saison thermale ou climatique,
-
-tout ou partie de leur habitation personnelle à des étrangers à la station en font la déclaration à la mairie et sont tenus,
-en vue de la perception de la taxe de séjour, de tenir le même état que les hôteliers et logeurs [*formalités - obligation*].
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Décret n°75-411 1975-05-20
-
-	**Codifié par**:
-
-	  - Décret n°77-91 1977-01-27
-
-	**Créé par**:
-
-	  - Décret n°77-91 1977-01-27 JORF et JONC 3 février 1977 date d'entrée en vigueur élection des maires
-
-	**Cité par**:
-
-	  - CODE DES COMMUNES. - art. R*233-58 (Ab)
-	  - CODE DES COMMUNES. - art. R233-55 (Ab)
-
-	**Nouveaux textes**:
-
-	  - Code général des collectivités territoriales - art. R2333-51 (M)
-
-	**Anciens textes**:
-
-	  - Décret n°1920-05-04 art. 8
-
-
-###### Article R233-51
-
-Lorsque les personnes [*hôteliers et autres logeurs*]
-
-désignées aux articles R. 233-49 et R. 233-50 reçoivent le montant des loyers qui leur sont dus, elles perçoivent la taxe de
-séjour sur les assujettis et leur en donnent quittance. 
-
-Elles inscrivent le montant des taxes encaissées, à la date et dans l'ordre des perceptions effectuées, sur l'état prévu à
-l'article R. 233-49 [*formalités - obligation*].
-
-La taxe est perçue [*date*] avant le départ des assujettis alors même que, du consentement du logeur, de l'hôtelier, du
-propriétaire ou du principal locataire, le paiement du loyer est différé.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°1920-05-04 art. 9
-
-	**Codifié par**:
-
-	  - Décret n°77-91 1977-01-27
-
-	**Créé par**:
-
-	  - Décret n°77-91 1977-01-27 JORF et JONC 3 février 1977 date d'entrée en vigueur élection des maires
-
-	**Cite**:
-
-	  - Code des communes R233-49 et R233-50
-
-
-###### Article R233-52
-
-En cas de départ furtif d'un assujetti, la responsabilité des personnes désignées aux articles R. 233-49 et R. 233-50
-[*hôteliers et autres logeurs*] ne peut être dégagée que si elles ont avisé aussitôt le maire et déposé entre ses mains une
-demande en exonération adressée au juge du tribunal d'instance [*formalités*]. 
-
-Le maire [*attributions*] transmet cette demande dans les vingt-quatre heures [**]délai[**] au juge du tribunal d'instance,
-lequel statue sans frais.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°77-91 1977-01-27
-
-	**Créé par**:
-
-	  - Décret n°77-91 1977-01-27 JORF et JONC 3 février 1977 date d'entrée en vigueur élection des maires
-
-	**Cite**:
-
-	  - Code des communes R233-49 et R233-50
-
-	**Nouveaux textes**:
-
-	  - Code général des collectivités territoriales - art. R2333-52 (M)
-
-	**Anciens textes**:
-
-	  - Décret n°1920-05-04 art. 10
-
-
-###### Article R233-55
-
-Les agents [*collecteurs*] préposés à l'encaissement de la taxe de séjour et commissionnés à cet effet sont tenus, avant de
-prêter serment, de verser un cautionnement dont le montant est fixé par l'acte de nomination.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°1920-05-04 art. 12 al. 1
-
-	**Codifié par**:
-
-	  - Décret n°77-91 1977-01-27
-
-	**Créé par**:
-
-	  - Décret n°77-91 1977-01-27 JORF et JONC 3 février 1977 date d'entrée en vigueur élection des maires
-
-	**Nouveaux textes**:
-
-	  - Code général des collectivités territoriales - art. R2333-55 (M)
-
-
-###### Article R233-59
-
-Les pénalités encourues pour les infractions [*relatives aux formalités établies pour le recouvrement de la taxe*]
-
-mentionnées à l'article précédent sont, au minimum égales au montant des taxes dont la commune a été privée
-[**]sanctions[**]. 
-
-Elles peuvent s'élever au triple de ces taxes en cas de fraude, et au double dans les autres cas.
-
-L'article 463 du code pénal [*circonstances atténuantes*]
-
-est applicable aux auteurs des infractions prévues par la présente sous-section.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°77-91 1977-01-27
-
-	**Créé par**:
-
-	  - Décret n°77-91 1977-01-27 JORF et JONC 3 février 1977 date d'entrée en vigueur élection des maires
-
-	**Liens**:
-
-	  - TXT_ASSOCIE: CODE DES COMMUNES. - art. R233-68 (Ab)
-
-	**Cite**:
-
-	  - Code des communes R233-49 à R233-58
-	  - Code pénal 463
-
-	**Anciens textes**:
-
-	  - Décret n°1920-05-04 art. 16 al. 1 et 3
-
-
-##### Dispositions particulières aux stations de sport d'hiver et d'alpinisme .
-
-###### Article R233-60
-
-Dans les stations de sports d'hiver et d'alpinisme classées, mentionnées à l'article R. 143-33, l'établissement de la taxe de
-séjour est autorisé après une enquête à laquelle il est procédé dans les formes établies par les articles R. 11-3 à R. 11-13
-du code de l'expropriation pour cause d'utilité publique.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°77-91 1977-01-27
-
-	**Cité par**:
-
-	  - Arrêté du 28 décembre 1976 - art. 12 (Ab)
-
-	**Cite**:
-
-	  - CODE DES COMMUNES. - art. R143-33 (Ab)
-	  - Code de l'expropriation pour cause d'utilité publique R11-3 à Code de l'expropriation pour cause d'utilité publique R11-13
-
-	**Nouveaux textes**:
-
-	  - Code général des collectivités territoriales - art. R2333-60 (Ab)
-
-
 #### Dotation globale de fonctionnement et autres recettes réparties par le comité des finances locales
 
 ##### Recettes réparties par le comité des finances locales
@@ -58342,6 +58176,649 @@ Marne située dans la région des transports parisiens mentionnée à l'article 
 	**Nouveaux textes**:
 
 	  - Code général des collectivités territoriales - art. D2531-6 (Ab)
+
+
+## LIVRE 2 : Finances communales TITRE 3 : Recettes  CHAPITRE 3 : Taxes, redevances ou versements autres que ceux prévus par le code général des impôts SECTION 4 : Taxes particulières aux stations Sous-section 1 : Taxe de séjour et taxe de séjour forfaitaire 1 § : Dispositions générales
+
+###### Article R*233-39
+
+La taxe de séjour [*exigibilité*] est due à partir du jour de l'arrivée ; la durée de perception est au maximum de vingt-huit
+jours.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°58-1268 1958-12-17 art. 1 al. 3
+
+	**Codifié par**:
+
+	  - Décret n°77-91 1977-01-27
+
+	**Modifié par**:
+
+	  - Loi n°88-13 du 5 janvier 1988 - art. 58 () JORF 6 janvier 1988
+
+
+###### Article R*233-40
+
+Dans les stations ayant deux saisons distinctes au cours de la même année, où la perception de la taxe de séjour est
+autorisée pendant deux périodes (saison d'été et saison d'hiver), la taxe est due pendant vingt-huit jours au maximum
+[**]durée[**] pour chacune des périodes.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret  1920-05-04 art. 4 al. 4
+
+	**Codifié par**:
+
+	  - Décret n°77-91 1977-01-27
+
+	**Modifié par**:
+
+	  - Loi n°88-13 du 5 janvier 1988 - art. 58 () JORF 6 janvier 1988
+
+
+###### Article R*233-42
+
+Dans les communes touristiques ou thermales et leurs groupements inscrits sur la liste visée à l'article L. 234-11 du présent
+code, la taxe de séjour peut être instituée dans les mêmes conditions que celles qui s'appliquent aux stations classées.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°77-91 1977-01-27
+
+	**Modifié par**:
+
+	  - Loi n°88-13 du 5 janvier 1988 - art. 58 () JORF 6 janvier 1988) A(décret 88-630 1988-05-06 art. 29 jorf 8 mai 1988
+
+	**Cite**:
+
+	  - CODE DES COMMUNES. - art. L234-11 (M)
+
+
+###### Article R233-41
+
+Dans les stations où la saison s'étend sur deux années différentes, si un séjour chevauche sur les deux années, il ne compte
+que pour un seul séjour, pour le calcul de la durée maximum de quatre semaines pendant lesquelles la taxe est due.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°1920-05-04 art. 4 al. 5
+	  - Décret n°58-1268 1958-12-17 art. 1 al. 4
+
+	**Codifié par**:
+
+	  - Décret n°77-91 1977-01-27
+
+	**Modifié par**:
+
+	  - Loi n°88-13 du 5 janvier 1988 - art. 58 () JORF 6 janvier 1988) A(décret 88-630 1988-05-06 art. 29 jorf 8 mai 1988
+
+
+## LIVRE 2 : Finances communales TITRE 3 : Recettes  CHAPITRE 3 : Taxes, redevances ou versements autres que ceux prévus par le code général des impôts SECTION 4 : Taxes particulières aux stations Sous-section 1 : Taxe de séjour et taxe de séjour forfaitaire 2 § : Taxe de séjour.
+
+###### Article R*233-43
+
+Le décret en Conseil d'Etat, prévu à l'article L. 233-38, fixant le tarif de la taxe de séjour est pris sur la proposition
+des ministres intéressés [*compétence*].
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°77-91 1977-01-27
+
+	**Modifié par**:
+
+	  - Loi n°88-13 1988-01-05 art. 58 III, VII JORF 6 janvier 1988
+	  - Loi n°88-13 du 5 janvier 1988 - art. 58 () JORF 6 janvier 1988
+
+	**Cite**:
+
+	  - CODE DES COMMUNES. - art. L233-38 (Ab)
+
+
+###### Article R*233-44
+
+La taxe de séjour est perçue aux tarifs suivants :
+
+Hôtels de tourisme quatre étoiles et quatre étoiles luxe, villas et meublés hors classe : entre 4 F et 5 F par jour et par
+personne ;
+
+Hôtels de tourisme trois étoiles, villas et meublés de 1ère catégorie : entre 3 F et 4 F par jour et par personne ;
+
+Hôtels de tourisme deux étoiles, villas et meublés de 2ème catégorie : entre 2 F et 3 F par jour et par personne ;
+
+Hôtels de tourisme une étoile, villas et meublés de 3ème catégorie : entre 1 F et 2 F par jour et par personne ;
+
+Hôtels non classés "tourisme", villas et meublés de 4ème catégorie, terrains de camping, terrains de caravaning, villages de
+vacances, gîtes ruraux privés, gîtes communaux et tous autres établissements : 1 F par jour et par personne.
+
+Ces chiffres ne comprennent pas la surtaxe départementale dans les stations où celle-ci est perçue.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°58-1268 1958-12-17 ART. 1 AL. 1 MODIFIE
+
+	**Codifié par**:
+
+	  - Décret n°77-91 1977-01-27
+
+	**Modifié par**:
+
+	  - Loi n°88-13 1988-01-05 art. 58 III, VII JORF 6 janvier 1988
+	  - Loi n°88-13 du 5 janvier 1988 - art. 58 () JORF 6 janvier 1988
+
+
+###### Article R*233-46
+
+La taxe n'est pas perçue dans les colonies et centres de vacances collectives d'enfants tels qu'ils sont définis par arrêté
+du ministre chargé de l'organisation et du fonctionnement des colonies et camps de vacances.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°58-1268 1958-12-17 art. 1 al. 5
+
+	**Codifié par**:
+
+	  - Décret n°77-91 1977-01-27
+
+	**Modifié par**:
+
+	  - Loi n°88-13 1988-01-05 art. 58 III, VII JORF 6 janvier 1988
+	  - Loi n°88-13 du 5 janvier 1988 - art. 58 () JORF 6 janvier 1988
+
+
+###### Article R*233-47
+
+Sont exemptés de la taxe de séjour, sans préjudice de l'application de l'article L. 233-31 :
+
+a° Les personnes bénéficiant des dispositions des titres III et IV du code de la famille et de l'aide sociale ;
+
+b° Les mutilés, blessés et malades par suite de faits de guerre ;
+
+c° Les personnes exclusivement attachées aux malades ;
+
+d° Les personnes qui, pour leur travail ou leur profession, participent au fonctionnement et au développement de la station ;
+
+e° Les voyageurs et représentants de commerce porteurs de la carte d'identité professionnelle pendant la durée du séjour
+qu'ils font dans la station pour les besoins exclusifs de leur profession ;
+
+f° Les fonctionnaires et agents de l'Etat appelés temporairement dans la station pour l'exercice de leurs fonctions.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code de la famille et de l'aide sociale Titres III et IV
+	  - CODE DES COMMUNES. - art. L233-31 (M)
+
+	**Anciens textes**:
+
+	  - Décret n°58-1268 1958-12-17 art. 2
+
+	**Codifié par**:
+
+	  - Décret n°77-91 1977-01-27
+
+	**Modifié par**:
+
+	  - Loi n°88-13 1988-01-05 art. 58 III, VII JORF 6 janvier 1988
+	  - Loi n°88-13 du 5 janvier 1988 - art. 58 () JORF 6 janvier 1988
+
+
+###### Article R*233-48
+
+Les enfants de moins de dix ans bénéficient d'une réduction de 50 p. 100 [*pourcentage*] du montant de la taxe ; les enfants
+de moins de quatre ans en sont exonérés [*conditions d'âge*].
+
+En outre, les membres des familles nombreuses porteurs de la carte d'identité qui leur est délivrée en vertu de la loi du 24
+décembre 1940 bénéficient des mêmes réductions que pour le prix des transports sur les chemins de fer d'intérêt général.
+
+Le conseil municipal peut décider d'augmenter le montant des réductions prévues aux deux alinéas ci-dessus.
+
+Il peut de même décider d'exonérer partiellement ou totalement les personnes bénéficiaires du chèque-vacances ainsi que les
+mineurs de moins de dix-huit ans.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°58-1268 1958-12-17 ART. 3
+
+	**Codifié par**:
+
+	  - Décret n°77-91 1977-01-27
+
+	**Cite**:
+
+	  - Loi n°1940-12-24
+
+	**Modifié par**:
+
+	  - Loi n°88-13 1988-01-05 art. 58 III, VII JORF 6 janvier 1988
+	  - Loi n°88-13 du 5 janvier 1988 - art. 58 () JORF 6 janvier 1988
+
+
+###### Article R*233-53
+
+Les agents municipaux commissionnés à cet effet se présentent périodiquement chez les personnes désignées [*hôteliers et
+autres logeurs*] aux articles R. 233-49 et R. 233-50 pour y recueillir le produit de la taxe de séjour.
+
+Le maire [*attributions*] détermine l'époque des tournées des agents collecteurs.
+
+Dans les hôtels et maisons meublées, les tournées doivent avoir lieu au moins toutes les trois semaines [**]fréquence[**].
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code des communes R233-49 et R233-50
+
+	**Anciens textes**:
+
+	  - Décret n°1920-05-04 art. 11 remplacé
+
+	**Codifié par**:
+
+	  - Décret n°77-91 1977-01-27
+
+	**Modifié par**:
+
+	  - Loi n°88-13 1988-01-05 art. 58 III, X JORF 6 janvier 1988
+	  - Loi n°88-13 du 5 janvier 1988 - art. 58 () JORF 6 janvier 1988
+
+
+###### Article R*233-54
+
+Les agents collecteurs [*attributions, pouvoirs*] mentionnés à l'article précédent :
+
+- procèdent à la vérification de l'état dont la tenue est prescrite par les articles R. 233-49 et R. 233-50 ;
+
+- peuvent, pour s'assurer que ce document a été correctement tenu, exiger des logeurs et des hôteliers la communication des
+pièces et documents comptables s'y rapportant ;
+
+- encaissent le montant des taxes perçues depuis leur précédente vérification et en donnent aussitôt décharge aux hôteliers,
+logeurs, propriétaires ou principaux locataires par mention inscrite sur cet état ;
+
+- inscrivent, sur un registre à souche, le montant de chaque versement et en délivrent immédiatement quittance.
+
+L'état est présenté pour vérification [*contrôle*] au receveur municipal à l'appui des versements faits à sa caisse par les
+collecteurs [*formalités*].
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°1920-05-04 art. 11 remplacé
+
+	**Codifié par**:
+
+	  - Décret n°77-91 1977-01-27
+
+	**Modifié par**:
+
+	  - Loi n°88-13 1988-01-05 art. 58 III, X JORF 6 janvier 1988
+	  - Loi n°88-13 du 5 janvier 1988 - art. 58 () JORF 6 janvier 1988
+
+	**Cite**:
+
+	  - CODE DES COMMUNES. - art. L233-49 (Ab)
+	  - Code des communes L233-49, L233-50 et L233-53
+
+
+###### Article R*233-56
+
+L'état dont la tenue est imposée aux personnes [*hôteliers et autres logeurs*] désignées aux articles R. 233-49 et R. 233-50,
+les pièces [*documents*] comptables que tiennent à cet effet ces personnes et les quittances délivrées par les agents
+collecteurs sont présentés à toute réquisition des agents de l'autorité [*contrôle*] .
+
+L'état est, contre récépissé, remis annuellement [**]fréquence[**] au maire à une date fixée par ce dernier.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°1920-05-04 art. 13 remplacé
+
+	**Codifié par**:
+
+	  - Décret n°77-91 1977-01-27
+
+	**Modifié par**:
+
+	  - Loi n°88-13 1988-01-05 art. 58 III, X JORF 6 janvier 1988) A(décret 88-630 1988-05-06 art. 29 jorf 8 mai 1988
+	  - Loi n°88-13 du 5 janvier 1988 - art. 58 () JORF 6 janvier 1988) A(décret 88-630 1988-05-06 art. 29 jorf 8 mai 1988
+
+	**Cite**:
+
+	  - Code des communes R233-49 et R233-50
+
+
+###### Article R*233-58
+
+Les infractions aux dispositions concernant les formalités établies pour le recouvrement de la taxe sont constatées par les
+officiers de police judiciaire, les agents collecteurs et les agents des services fiscaux et poursuivies comme en matière de
+contributions indirectes [*procédure*].
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°1920-05-04 art. 15 remplacé
+
+	**Codifié par**:
+
+	  - Décret n°77-91 1977-01-27
+
+	**Modifié par**:
+
+	  - Loi n°88-13 1988-01-05 art. 58 III, X JORF 6 janvier 1988
+	  - Loi n°88-13 du 5 janvier 1988 - art. 58 () JORF 6 janvier 1988
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: CODE DES COMMUNES. - art. R233-68 (Ab)
+
+	**Cite**:
+
+	  - Code des communes R233-49 à R233-57
+
+
+###### Article R233-45
+
+Le tarif de la taxe de séjour est affiché en permanence à la porte de la mairie et tenu, au secrétariat de la mairie, à la
+disposition de toute personne qui désire en prendre connaissance [*publicité*].
+
+Il est affiché dant tous les hôtels et dans toutes les maisons meublées où sont reçues en logement les personnes étrangères à
+la commune.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°77-91 1977-01-27
+
+	**Modifié par**:
+
+	  - Loi n°88-13 1988-01-05 art. 58 III, VII JORF 6 janvier 1988
+	  - Loi n°88-13 du 5 janvier 1988 - art. 58 () JORF 6 janvier 1988
+
+	**Nouveaux textes**:
+
+	  - Code général des collectivités territoriales - art. R2333-46 (M)
+
+	**Anciens textes**:
+
+	  - Décret  1920-05-04 art. 6
+
+
+###### Article R233-49
+
+En vue de la perception de la taxe de séjour, les hôteliers et autres logeurs sont tenus d'établir, par mois, un état
+[*contenu*] comportant le nombre des personnes ayant logé dans leur établissement durant le mois écoulé ainsi que le nombre
+de jours passés, le montant de la taxe perçue et, éventuellement, les motifs d'exonération ou de réduction de cette taxe
+[*formalités - obligation*].
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°77-91 1977-01-27
+
+	**Modifié par**:
+
+	  - Loi n°88-13 1988-01-05 art. 58 III, X JORF 6 janvier 1988
+	  - Loi n°88-13 du 5 janvier 1988 - art. 58 () JORF 6 janvier 1988
+
+	**Cité par**:
+
+	  - CODE DES COMMUNES. - art. R*233-53 (Ab)
+	  - CODE DES COMMUNES. - art. R*233-58 (Ab)
+	  - CODE DES COMMUNES. - art. R233-50 (Ab)
+	  - CODE DES COMMUNES. - art. R233-55 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code général des collectivités territoriales - art. R2333-50 (M)
+
+	**Anciens textes**:
+
+	  - Décret  1920-05-04 art. 7 remplacé
+
+
+###### Article R233-50
+
+Les propriétaires ou toutes personnes qui ont l'intention de louer, pendant la saison thermale ou climatique, tout ou partie
+de leur habitation personnelle à des étrangers à la station en font la déclaration à la mairie et sont tenus, en vue de la
+perception de la taxe de séjour, de tenir le même état que les hôteliers et logeurs [*formalités - obligation*].
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Décret n°75-411 1975-05-20
+
+	**Codifié par**:
+
+	  - Décret n°77-91 1977-01-27
+
+	**Modifié par**:
+
+	  - Loi n°88-13 1988-01-05 art. 58 III, X JORF 6 janvier 1988
+	  - Loi n°88-13 du 5 janvier 1988 - art. 58 () JORF 6 janvier 1988
+
+	**Cité par**:
+
+	  - CODE DES COMMUNES. - art. R*233-58 (Ab)
+	  - CODE DES COMMUNES. - art. R233-55 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code général des collectivités territoriales - art. R2333-51 (M)
+
+	**Anciens textes**:
+
+	  - Décret  1920-05-04 art. 8
+
+
+###### Article R233-51
+
+Lorsque les personnes [*hôteliers et autres logeurs*] désignées aux articles R. 233-49 et R. 233-50 reçoivent le montant des
+loyers qui leur sont dus, elles perçoivent la taxe de séjour sur les assujettis et leur en donnent quittance.
+
+Elles inscrivent le montant des taxes encaissées, à la date et dans l'ordre des perceptions effectuées, sur l'état prévu à
+l'article R. 233-49 [*formalités - obligation*].
+
+La taxe est perçue [*date*] avant le départ des assujettis alors même que, du consentement du logeur, de l'hôtelier, du
+propriétaire ou du principal locataire, le paiement du loyer est différé.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code des communes R233-49 et R233-50
+
+	**Anciens textes**:
+
+	  - Décret n°1920-05-04 art. 9
+
+	**Codifié par**:
+
+	  - Décret n°77-91 1977-01-27
+
+	**Modifié par**:
+
+	  - Loi n°88-13 1988-01-05 art. 58 III, X JORF 6 janvier 1988) A(décret 88-630 1988-05-06 art. 29 jorf 8 mai 1988
+	  - Loi n°88-13 du 5 janvier 1988 - art. 58 () JORF 6 janvier 1988) A(décret 88-630 1988-05-06 art. 29 jorf 8 mai 1988
+
+
+###### Article R233-52
+
+En cas de départ furtif d'un assujetti, la responsabilité des personnes désignées aux articles R. 233-49 et R. 233-50
+[*hôteliers et autres logeurs*] ne peut être dégagée que si elles ont avisé aussitôt le maire et déposé entre ses mains une
+demande en exonération adressée au juge du tribunal d'instance [*formalités*].
+
+Le maire [*attributions*] transmet cette demande dans les vingt-quatre heures [**]délai[**] au juge du tribunal d'instance,
+lequel statue sans frais.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°77-91 1977-01-27
+
+	**Modifié par**:
+
+	  - Loi n°88-13 1988-01-05 art. 58 III, X JORF 6 janvier 1988
+	  - Loi n°88-13 du 5 janvier 1988 - art. 58 () JORF 6 janvier 1988
+
+	**Cite**:
+
+	  - Code des communes R233-49 et R233-50
+
+	**Nouveaux textes**:
+
+	  - Code général des collectivités territoriales - art. R2333-52 (M)
+
+	**Anciens textes**:
+
+	  - Décret  1920-05-04 art. 10
+
+
+###### Article R233-55
+
+Les agents [*collecteurs*] préposés à l'encaissement de la taxe de séjour et commissionnés à cet effet sont tenus, avant de
+prêter serment, de verser un cautionnement dont le montant est fixé par l'acte de nomination.
+
+**Liens relatifs à cet article**
+
+	**Nouveaux textes**:
+
+	  - Code général des collectivités territoriales - art. R2333-55 (M)
+
+	**Anciens textes**:
+
+	  - Décret n°1920-05-04 art. 12 al. 1
+
+	**Codifié par**:
+
+	  - Décret n°77-91 1977-01-27
+
+	**Modifié par**:
+
+	  - Loi n°88-13 1988-01-05 art. 58 III, X JORF 6 janvier 1988
+	  - Loi n°88-13 du 5 janvier 1988 - art. 58 () JORF 6 janvier 1988
+
+
+###### Article R233-59
+
+Les pénalités encourues pour les infractions [*relatives aux formalités établies pour le recouvrement de la taxe*]
+mentionnées à l'article précédent sont, au minimum égales au montant des taxes dont la commune a été privée
+[**]sanctions[**].
+
+Elles peuvent s'élever au triple de ces taxes en cas de fraude, et au double dans les autres cas.
+
+L'article 463 du code pénal [*circonstances atténuantes*] est applicable aux auteurs des infractions prévues par la présente
+sous-section.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°77-91 1977-01-27
+
+	**Modifié par**:
+
+	  - Loi n°88-13 1988-01-05 art. 58 III, X JORF 6 janvier 1988) A(décret 88-630 1988-05-06 art. 29 jorf 8 mai 1988
+	  - Loi n°88-13 du 5 janvier 1988 - art. 58 () JORF 6 janvier 1988) A(décret 88-630 1988-05-06 art. 29 jorf 8 mai 1988
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: CODE DES COMMUNES. - art. R233-68 (Ab)
+
+	**Cite**:
+
+	  - Code des communes R233-49 à R233-58
+	  - Code pénal 463
+
+	**Anciens textes**:
+
+	  - Décret n°1920-05-04 art. 16 al. 1 et 3
+
+
+## LIVRE 2 : Finances communales TITRE 3 : Recettes  CHAPITRE 3 : Taxes, redevances ou versements autres que ceux prévus par le code général des impôts SECTION 4 : Taxes particulières aux stations Sous-section 1 : Taxe de séjour et taxe de séjour forfaitaire 3 § : Recouvrement de la taxe de séjour et pénalités 2 § : Taxe de séjour.
+
+###### Article R*233-57
+
+Tout assujetti qui conteste soit l'application qui lui est faite du tarif par l'hôtelier, logeur, propriétaire, ou principal
+locataire, soit la quotité de la taxe à lui réclamée, acquitte [*paiement*] néanmoins le montant de la taxe contestée, sauf à
+en obtenir le remboursement après qu'il a été statué sur sa réclamation [**]recours[**].
+
+Ces contestations [*recours*] sont portées, quel que soit le montant de la taxe, devant le tribunal d'instance dans le
+ressort duquel se trouve la commune intéressée [*compétence*] et sont jugées sans frais.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°1920-05-04 art. 14 remplacé
+
+	**Codifié par**:
+
+	  - Décret n°77-91 1977-01-27
+
+	**Modifié par**:
+
+	  - Loi n°88-13 1988-01-05 art. 58 III, X JORF 6 janvier 1988
+	  - Loi n°88-13 du 5 janvier 1988 - art. 58 () JORF 6 janvier 1988
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: CODE DES COMMUNES. - art. R233-68 (Ab)
+
+
+## LIVRE 2 : Finances communales TITRE 3 : Recettes  CHAPITRE 3 : Taxes, redevances ou versements autres que ceux prévus par le code général des impôts SECTION 4 : Taxes particulières aux stations Sous-section 1 : Taxe de séjour et taxe de séjour forfaitaire 5 § : Dispositions particulières aux stations de sport d'hiver et d'alpinisme.
+
+###### Article R233-60
+
+Dans les stations de sports d'hiver et d'alpinisme classées, mentionnées à l'article R. 143-33, l'établissement de la taxe de
+séjour est autorisé après une enquête à laquelle il est procédé dans les formes établies par les articles R. 11-3 à R. 11-13
+du code de l'expropriation pour cause d'utilité publique.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°77-91 1977-01-27
+
+	**Modifié par**:
+
+	  - Loi n°88-13 du 5 janvier 1988 - art. 58 () JORF 6 janvier 1988
+
+	**Cité par**:
+
+	  - Arrêté du 28 décembre 1976 - art. 12 (Ab)
+
+	**Cite**:
+
+	  - CODE DES COMMUNES. - art. R143-33 (Ab)
+	  - Code de l'expropriation pour cause d'utilité publique 11-3 à Code de l'expropriation pour cause d'utilité publique R11-13
+
+	**Nouveaux textes**:
+
+	  - Code général des collectivités territoriales - art. R2333-60 (Ab)
 
 
 ## LIVRE 3 : Administration et services communaux
