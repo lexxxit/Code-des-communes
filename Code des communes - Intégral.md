@@ -1,5 +1,5 @@
 # Code des communes  
-Version Consolidée au 1995-08-06
+Version Consolidée au 1995-12-31
 
 # Partie législative
 
@@ -9813,12 +9813,16 @@ transfert d'une ou de plusieurs compétences énumérées au présent article.
 La communauté urbaine est substituée de plein droit, et pour la totalité des compétences qu'il exerce, au district
 préexistant constitué entre toutes les communes composant la communauté.
 
-" Toutefois, les communes membres peuvent décider, dans les conditions de majorité prévues à l'article L. 165-4, d'exclure
-des compétences de la communauté urbaine tout ou partie des compétences exercées par le district, à l'exception de celles qui
+La même règle s'applique lorsque la communauté urbaine comprend des communes extérieures au district préexistant, sous
+réserve que cette extension de périmètre n'ait pas pour effet d'augmenter de plus de 10 p. 100 la population totale du
+district préexistant, calculée dans les conditions définies à l'article L. 234-2.
+
+Toutefois, les communes membres peuvent décider, dans les conditions de majorité prévues à l'article L. 165-4, d'exclure des
+compétences de la communauté urbaine tout ou partie des compétences exercées par le district, à l'exception de celles qui
 sont énumérées aux 1°, 3°, 4°, 5°, 6°, 7° et 9° de l'article L. 165-7.
 
-" Dans ce cas, les compétences exclues de celles de la communauté urbaine sont restituées aux communes et le district est
-dissous de plein droit. "
+Dans ce cas, les compétences exclues de celles de la communauté urbaine sont restituées aux communes et le district est
+dissous de plein droit.
 
 **Liens relatifs à cet article**
 
@@ -9826,9 +9830,13 @@ dissous de plein droit. "
 
 	  - Décret n°77-90 1977-01-27
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°88-13 du 5 janvier 1988 - art. 43 () JORF 6 janvier 1988
+	  - Loi n°95-1350 du 30 décembre 1995 - art. 1 () JORF 31 décembre 1995
+
+	**Abrogé par**:
+
+	  - Loi n°96-142 du 21 février 1996 - art. 12 (V) JORF 24 février 1996
 
 	**Cité par**:
 
@@ -9838,10 +9846,38 @@ dissous de plein droit. "
 
 	  - CODE DES COMMUNES. - art. L165-4 (M)
 	  - CODE DES COMMUNES. - art. L165-7 (M)
+	  - CODE DES COMMUNES. - art. L234-2 (Ab)
 
 	**Nouveaux textes**:
 
 	  - Code général des collectivités territoriales - art. L5215-21 (V)
+	  - Code général des collectivités territoriales - art. L5215-21 (M)
+
+
+###### Article L165-7-2
+
+Dans les cas de substitution de plein droit d'une communauté urbaine à un district, les communes qui n'ont pas désigné leurs
+représentants au conseil de communauté dans un délai de trente jours à compter de la création de la communauté sont
+représentées par leur maire jusqu'à ce qu'elles aient procédé à cette désignation. Le conseil de communauté est réputé
+complet.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°77-90 1977-01-27
+
+	**Créé par**:
+
+	  - Loi n°95-1350 du 30 décembre 1995 - art. 2 () JORF 31 décembre 1995
+
+	**Abrogé par**:
+
+	  - Loi n°96-142 du 21 février 1996 - art. 12 (V) JORF 24 février 1996
+
+	**Nouveaux textes**:
+
+	  - Code général des collectivités territoriales - art. L5215-13 (Ab)
 
 
 ###### Article L165-8
@@ -10175,38 +10211,42 @@ non plus le périmètre de l'agglomération dans laquelle ces établissements pu
 
 Dans le cas où la totalité des attributions préalablement exercées par un district ou un syndicat sont transférées à la
 communauté urbaine, le district ou syndicat qui ne comprend pas de communes extérieures à la communauté se trouve dissous de
-plein droit. 
+plein droit. Il en va de même lorsque la communauté urbaine se substitue à un district préexistant dans les conditions
+prévues au deuxième alinéa de l'article L. 165-7-1.
 
-Sauf accord amiable et sous la réserve des droits des tiers,
-
-des décrets en Conseil d'Etat fixent les conditions dans lesquelles les syndicats ou districts cessent leur activité et sont
-liquidés.
+Sauf accord amiable et sous la réserve des droits des tiers, des décrets en Conseil d'Etat fixent les conditions dans
+lesquelles les syndicats ou districts cessent leur activité et sont liquidés.
 
 **Liens relatifs à cet article**
 
-	**Liens**:
-
-	  - SPEC_APPLI: *Dispositions non applicables aux communes des départements de la Guadeloupe, de la Guyane, de la Martinique, de la Réunion et de Saint-Pierre-et-Miquelon*
-	  - SPEC_APPLI: CODE DES COMMUNES. - art. L182-1 (Ab)
-	  - SPEC_APPLI: Code des communes L182-1, L182-2 :
-
 	**Anciens textes**:
 
-	  - Loi n°66-1069 1966-12-31 art. 11 al. 2
 	  - Loi n°66-1069 du 31 décembre 1966 - art. 11 (Ab)
 
 	**Codifié par**:
 
 	  - Décret n°77-90 1977-01-27
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°77-90 1977-01-27 JORF et JONC 3 février 1977 date d'entrée en vigueur élection des maires
+	  - Loi n°95-1350 du 30 décembre 1995 - art. 3 () JORF 31 décembre 1995
+
+	**Abrogé par**:
+
+	  - Loi n°96-142 du 21 février 1996 - art. 12 (V) JORF 24 février 1996
 
 	**Cité par**:
 
 	  - CODE DES COMMUNES. - art. L164-9 (Ab)
 	  - CODE DES COMMUNES. - art. R*432-8 (V)
+
+	**Cite**:
+
+	  - CODE DES COMMUNES. - art. L165-7-1 (M)
+
+	**Nouveaux textes**:
+
+	  - Code général des collectivités territoriales - art. L5213-24 (Ab)
 
 
 ###### Article L165-19
@@ -20212,16 +20252,19 @@ en application des articles L. 234-2, L. 234-4, L. 234-10 et, le cas échéant, 
 234-19-2 dans leur rédaction antérieure à la loi n° 93-1436 du 31 décembre 1993 portant réforme de la dotation globale de
 fonctionnement et modifiant le code des communes et le code général des impôts.
 
-" La dotation forfaitaire comprend également les sommes reçues en 1993 au titre de la dotation supplémentaire aux communes et
+La dotation forfaitaire comprend également les sommes reçues en 1993 au titre de la dotation supplémentaire aux communes et
 groupements touristiques ou thermaux et de la dotation particulière aux communes touristiques et au titre de la dotation
 particulière au profit des villes assumant des charges de centralité, en application des articles L. 234-13 et L. 234-14 dans
 leur rédaction antérieure à la loi n° 93-1436 du 31 décembre 1993 précitée. Ces sommes sont identifiées au sein de la
 dotation forfaitaire. Elles progressent chaque année selon les modalités prévues au premier alinéa.
 
-" Les groupements de communes qui percevaient au lieu et place des communes constituant le groupement les dotations prévues à
+Les groupements de communes qui percevaient au lieu et place des communes constituant le groupement les dotations prévues à
 l'article L. 234-13, dans sa rédaction antérieure à la loi n° 93-1436 du 31 décembre 1993 précitée, continuent à les
 percevoir. Pour 1994, le montant de ces dotations est égal à la somme reçue en 1993. A compter de 1995, ce montant progresse
 chaque année de la moitié du taux d'évolution de l'ensemble des ressources affectées à la dotation globale de fonctionnement.
+
+En 1996, la dotation forfaitaire de l'ensemble des communes est majorée de 97,5 millions de francs, répartis au prorata de
+leurs populations. Les années suivantes, cette majoration  évolue selon les modalités prévues au premier alinéa.
 
 **Liens relatifs à cet article**
 
@@ -20254,13 +20297,32 @@ chaque année de la moitié du taux d'évolution de l'ensemble des ressources af
 	  - CODE GENERAL DES IMPOTS ANNEXE 2, CGIAN2. - art. 327 DC (Ab)
 	  - CODE GENERAL DES IMPOTS, CGI. - art. 1648 B (M)
 
+	**Cite**:
+
+	  - Loi n°93-1436 1993-12-31
+	  - CODE DES COMMUNES. - art. L234-10 (M)
+	  - CODE DES COMMUNES. - art. L234-13 (M)
+	  - CODE DES COMMUNES. - art. L234-14 (M)
+	  - CODE DES COMMUNES. - art. L234-14-2 (Ab)
+	  - CODE DES COMMUNES. - art. L234-19-1 (M)
+	  - CODE DES COMMUNES. - art. L234-19-2 (Ab)
+	  - CODE DES COMMUNES. - art. L234-2 (Ab)
+	  - CODE DES COMMUNES. - art. L234-4 (M)
+	  - CODE DES COMMUNES. - art. L234-8 (M)
+
+	**Modifié par**:
+
+	  - Loi - art. 35 () JORF 31 décembre 1995
+
+	**Abrogé par**:
+
+	  - Loi n°96-142 du 21 février 1996 - art. 12 (V) JORF 24 février 1996
+
 	**Nouveaux textes**:
 
 	  - CODE DES COMMUNES. - art. L234-6 (M)
-
-	**Créé par**:
-
-	  - Loi n°93-1436 1994-01-04 art. 6 jorf 4 janvier 1994
+	  - Code général des collectivités territoriales - art. L2334-7 (M)
+	  - Code général des collectivités territoriales - art. L5211-30 (T)
 
 
 ###### Article L234-8
@@ -25370,17 +25432,13 @@ ce code.
 
 Le taux de versement exprimé en pourcentage des salaires définis à l'article précédent est fixé par décret dans les limites :
 
-" - de 2,2 p. 100 à Paris et dans le département des Hauts-de-Seine ;
+- de 2,5 p. 100 à Paris et dans le département des Hauts-de-Seine ;
 
-" - de 1,6 p. 100 dans les départements de la Seine-Saint-Denis et du Val-de-Marne ;
+- de 1,6 p. 100 dans les départements de la Seine-Saint-Denis et du Val-de-Marne ;
 
-" - de 1,3 p. 100 dans les départements de l'Essonne, des Yvelines, du Val-d'Oise et de Seine-et-Marne. "
+- de 1,3 p. 100 dans les départements de l'Essonne, des Yvelines, du Val-d'Oise et de Seine-et-Marne.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°71-559 1971-07-12 art. 2 remplacé (partie)
 
 	**Codifié par**:
 
@@ -25388,19 +25446,16 @@ Le taux de versement exprimé en pourcentage des salaires définis à l'article 
 
 	**Modifié par**:
 
-	  - Loi - art. 115 (V)
+	  - Loi - art. 96 () JORF 31 décembre 1995
 
-	**Liens**:
+	**Abrogé par**:
 
-	  - SPEC_APPLI: Loi n°92-1376 1992-12-30 art. 115 V
-
-	**Cite**:
-
-	  - CODE DES COMMUNES. - art. L263-2 (Ab)
+	  - Loi n°96-142 du 21 février 1996 - art. 12 (V) JORF 24 février 1996
 
 	**Nouveaux textes**:
 
 	  - Code général des collectivités territoriales - art. L2531-4 (V)
+	  - Code général des collectivités territoriales - art. L2531-4 (M)
 
 
 ###### Article L263-6
