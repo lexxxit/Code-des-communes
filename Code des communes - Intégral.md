@@ -1,5 +1,5 @@
 # Code des communes  
-Version Consolidée au 1984-05-11
+Version Consolidée au 1984-06-29
 
 # Statuts types d'une caisse communale de secours et de retraite de sapeurs-pompiers
 
@@ -82158,49 +82158,32 @@ bibliothèques publiques des communes est interdite.
 La commune, sous sa responsabilité, prévient immédiatement le ministre chargé des bibliothèques en cas d'incendie, de
 sinistre, de soustraction et de détournement dans une bibliothèque.
 
-Les échanges entre les bibliothèques d'objets appartenant aux communes sont soumis à l'autorisation du ministre chargé des
-bibliothèques [*conditions de forme*].
+Les échanges entre les bibliothèques d'objets appartenant aux communes font l'objet de délibérations concordantes des
+conseils municipaux. Dans leur nouvelle affectation, les objets bénéficient des conditions de conservation et de protection
+au moins aussi favorables que celles qui leur étaient appliquées antérieurement.
 
 **Liens relatifs à cet article**
 
-	**Liens**:
-
-	  - SPEC_APPLI: *Dispositions non applicables aux communes des départements de la Moselle, du Bas-Rhin et du Haut-Rhin (Alsace-Lorraine)*
-	  - SPEC_APPLI: Code des communes R391-1 :
-
 	**Anciens textes**:
 
-	  - Décret  1897-07-01 ART. 4 AL. 1, 2 et 4
+	  - Décret n°1897-07-01 ART. 4 AL. 1, 2 et 4
 
 	**Codifié par**:
 
 	  - Décret n°77-241 1977-03-07
-
-	**Créé par**:
-
-	  - Décret n°77-241 1977-03-07 JORF et JONC 18 Mars 1977
 
 
 ###### Article R341-4
 
-Les collections de l'Etat, c'est-à-dire [**]définition[**] notamment les fonds déposés dans les bibliothèques à la suite des
-lois et décrets de la Révolution ou ajoutés depuis par des concessions ministérielles, ne peuvent faire l'objet d'échanges
-entre les bibliothèques qu'en vertu d'arrêtés du ministre chargé des bibliothèques [*conditions de forme*].
+Les collections de l'Etat, c'est-à-dire [*définition*] notamment les fonds déposés dans les bibliothèques à la suite des lois
+et décrets de la Révolution ou ajoutés depuis par des concessions ministérielles, ne peuvent faire l'objet d'échanges entre
+les bibliothèques qu'en vertu d'autorisations délivrées par les commissaires de la République des départements concernés.
 
 **Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - SPEC_APPLI: *Dispositions non applicables aux communes des départements de la Moselle, du Bas-Rhin et du Haut-Rhin (Alsace-Lorraine)*
-	  - SPEC_APPLI: Code des communes R391-1 :
 
 	**Codifié par**:
 
 	  - Décret n°77-241 1977-03-07
-
-	**Créé par**:
-
-	  - Décret n°77-241 1977-03-07 JORF et JONC 18 Mars 1977
 
 	**Cité par**:
 
@@ -82213,17 +82196,12 @@ entre les bibliothèques qu'en vertu d'arrêtés du ministre chargé des bibliot
 
 ###### Article R341-5
 
-Les communications au dehors des manuscrits et des imprimés sont autorisées par le maire [**]attributions[**], sous la
-responsabilité des communes.
+Les communications au dehors des manuscrits et des imprimés sont autorisées par le maire, sous la responsabilité des
+communes.
 
-Le ministre chargé des bibliothèques peut ordonner ces communications en ce qui concerne les collections de l'Etat.
+Le commissaire de la République de département peut ordonner ces communications en ce qui concerne les collections de l'Etat.
 
 **Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - SPEC_APPLI: *Dispositions non applicables aux communes des départements de la Moselle, du Bas-Rhin et du Haut-Rhin (Alsace-Lorraine)*
-	  - SPEC_APPLI: Code des communes R391-1 :
 
 	**Anciens textes**:
 
@@ -82232,10 +82210,6 @@ Le ministre chargé des bibliothèques peut ordonner ces communications en ce qu
 	**Codifié par**:
 
 	  - Décret n°77-241 1977-03-07
-
-	**Créé par**:
-
-	  - Décret n°77-241 1977-03-07 JORF et JONC 18 Mars 1977
 
 
 ###### Article R341-6
@@ -82254,156 +82228,6 @@ déposées.
 	**Anciens textes**:
 
 	  - Décret  1897-07-01 ART. 7
-
-	**Codifié par**:
-
-	  - Décret n°77-241 1977-03-07
-
-	**Créé par**:
-
-	  - Décret n°77-241 1977-03-07 JORF et JONC 18 Mars 1977
-
-
-###### Article R341-7
-
-Un comité consultatif est institué auprès de chaque bibliothèque municipale qui figure sur la liste établie par arrêté du
-ministre chargé des bibliothèques sur le rapport de l'inspection générale des bibliothèques.
-
-**Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - SPEC_APPLI: *Dispositions non applicables aux communes des départements de la Moselle, du Bas-Rhin et du Haut-Rhin (Alsace-Lorraine)*
-	  - SPEC_APPLI: Code des communes R391-1 :
-
-	**Anciens textes**:
-
-	  - Décret n°61-1003 1961-09-01 ART. 1
-
-	**Codifié par**:
-
-	  - Décret n°77-241 1977-03-07
-
-	**Créé par**:
-
-	  - Décret n°77-241 1977-03-07 JORF et JONC 18 Mars 1977
-
-
-###### Article R341-8
-
-Le comité consultatif est placé sous la présidence du maire [*attributions*].
-
-Il comprend [*composition*] :
-
-1° Des membres de droit, au nombre de cinq au maximum :
-
-- un ou plusieurs représentants du conseil municipal, élus pour la durée de leur mandat ;
-
-- le conservateur ou bibliothécaire ;
-
-- le conservateur ou bibliothécaire de la bibliothèque universitaire et de la bibliothèque centrale de prêt lorsque ces
-établissements existent dans la ville ;
-
-2° Des membres nommés par le préfet sur proposition du maire, au nombre de quinze au maximum :
-
-- un représentant au moins de chacun des degrés d'enseignement ;
-
-- un ou plusieurs représentants des associations de parents d'élèves ;
-
-- un ou plusieurs représentants des associations d'étudiants ;
-
-- un ou plusieurs représentants des groupements professionnels ;
-
-- un ou plusieurs représentants des sociétés savantes et associations culturelles.
-
-**Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - SPEC_APPLI: *Dispositions non applicables aux communes des départements de la Moselle, du Bas-Rhin et du Haut-Rhin (Alsace-Lorraine)*
-	  - SPEC_APPLI: Code des communes R391-1 :
-
-	**Anciens textes**:
-
-	  - Décret n°61-1003 1961-09-01 ART. 2
-
-	**Codifié par**:
-
-	  - Décret n°77-241 1977-03-07
-
-	**Créé par**:
-
-	  - Décret n°77-241 1977-03-07 JORF et JONC 18 Mars 1977
-
-
-###### Article R341-9
-
-Le mandat des membres [*du comité consultatif*] nommés est d'une durée de cinq ans ; il est renouvelable.
-
-**Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - SPEC_APPLI: *Dispositions non applicables aux communes des départements de la Moselle, du Bas-Rhin et du Haut-Rhin (Alsace-Lorraine)*
-	  - SPEC_APPLI: Code des communes R391-1 :
-
-	**Anciens textes**:
-
-	  - Décret n°61-1003 1961-09-01 ART. 3
-
-	**Codifié par**:
-
-	  - Décret n°77-241 1977-03-07
-
-	**Créé par**:
-
-	  - Décret n°77-241 1977-03-07 JORF et JONC 18 Mars 1977
-
-
-###### Article R341-10
-
-Le comité [*consultatif*] se réunit au moins une fois par trimestre [*fréquence*].
-
-Il donne son avis sur les questions concernant l'organisation et le fonctionnement de la bibliothèque et, en particulier, sur
-la préparation du budget et l'établissement du programme d'acquisition [*attributions*].
-
-Le rapport du conservateur ou bibliothécaire lui est communiqué.
-
-**Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - SPEC_APPLI: *Dispositions non applicables aux communes des départements de la Moselle, du Bas-Rhin et du Haut-Rhin (Alsace-Lorraine)*
-	  - SPEC_APPLI: Code des communes R391-1 :
-
-	**Anciens textes**:
-
-	  - Décret n°61-1003 1961-09-01 ART. 4
-
-	**Codifié par**:
-
-	  - Décret n°77-241 1977-03-07
-
-	**Créé par**:
-
-	  - Décret n°77-241 1977-03-07 JORF et JONC 18 Mars 1977
-
-
-###### Article R341-11
-
-Un procès-verbal des séances [*du comité consultatif*] est établi par le conservateur ou le bibliothécaire qui est chargé du
-secrétariat.
-
-**Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - SPEC_APPLI: *Dispositions non applicables aux communes des départements de la Moselle, du Bas-Rhin et du Haut-Rhin (Alsace-Lorraine)*
-	  - SPEC_APPLI: Code des communes R391-1 :
-
-	**Anciens textes**:
-
-	  - Décret n°61-1003 1961-09-01 ART. 5
 
 	**Codifié par**:
 
