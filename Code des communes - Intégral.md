@@ -1,5 +1,5 @@
 # Code des communes  
-Version Consolidée au 1988-12-30
+Version Consolidée au 1988-12-31
 
 # Statuts types d'une caisse communale de secours et de retraite de sapeurs-pompiers
 
@@ -24421,8 +24421,6 @@ A la clôture de l'exercice, le préfet de police [*attributions*] présente au 
 
 
 ## FINANCES COMMUNALES
-
-### RECETTES
 
 ### Dispositions particulières
 
@@ -58201,6 +58199,37 @@ syndicat des transports parisiens.
 	  - Décret n°2000-318 du 7 avril 2000 - art. 4 (V)
 
 
+###### Article R263-8
+
+Le taux du versement de transport exprimé en pourcentage des salaires tels qu'ils sont définis aux articles R. 263-15 et R.
+263-22 est fixé à :
+
+" 1° 2,2 p. 100 à Paris et dans le département des Hauts-de-Seine.
+
+" 2° 1,8 p. 100 dans les départements de la Seine-Saint-Denis et du Val-de-Marne.
+
+" 3° 1,2 p. 100 dans la partie des départements de l'Essonne, des Yvelines, du Val-d'Oise et de Seine-et-Marne située dans la
+région des transports parisiens. "
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°77-91 1977-01-27
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°91-776 1991-08-09 art. 2
+
+	**Cite**:
+
+	  - Code des communes R263-15 et R263-22
+
+	**Nouveaux textes**:
+
+	  - Code général des collectivités territoriales - art. D2531-6 (Ab)
+
+
 ##### SOUS-SECTION 2 : Dispositions applicables aux employeurs relevant de régimes autres que le régime des assurances sociales agricoles.
 
 ###### Article R263-9
@@ -59383,45 +59412,6 @@ conditions de forme*].
 	**Cite**:
 
 	  - Code des communes L233-5 et L233-7
-
-
-## FINANCES COMMUNALES
-
-### DISPOSITIONS PARTICULIERES
-
-#### Dispositions applicables aux communes de la région d'Ile-de-France
-
-##### Versement destiné aux transports en commun
-
-##### Dispositions communes .
-
-###### Article R263-8
-
-Le taux du versement de transport est fixé à : [*définition*]        1° 2 p. 100 [*pourcentage*] du montant des salaires tels
-qu'ils sont définis à l'article R. 263-15 et à l'article R. 263-22 du code des communes dans les départements de Paris, de la
-Seine-Saint-Denis, des Hauts-de-Seine et du Val-de-Marne.
-
-2° 1,2 p.100 sur les mêmes bases dans la partie des départements de l'Essonne, des Yvelines, du Val-d'Oise et de Seine-et-
-Marne située dans la région des transports parisiens mentionnée à l'article R. 263-9 du code des communes.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°77-91 1977-01-27
-
-	**Créé par**:
-
-	  - Décret n°78-663 1978-06-23 JORF 24 juin 1978 date d'entrée en vigueur 1er juillet 1978 rectifié par Décret 78-928 1978-08-28 JORF 8 septembre 1978
-
-	**Cite**:
-
-	  - CODE DES COMMUNES. - art. R263-9 (M)
-	  - Code des communes R263-9, R263-15 et R263-22
-
-	**Nouveaux textes**:
-
-	  - Code général des collectivités territoriales - art. D2531-6 (Ab)
 
 
 ## LIVRE 3 : Administration et services communaux
