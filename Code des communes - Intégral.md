@@ -1,5 +1,5 @@
 # Code des communes  
-Version Consolidée au 1980-04-12
+Version Consolidée au 1980-04-23
 
 # ORGANISATION COMMUNALE
 
@@ -68351,7 +68351,56 @@ La taxe d'enlèvement des ordures ménagères ou la redevance pour enlèvement d
 	  - TXT_ASSOCIE: CODE DES COMMUNES. - art. R262-8 (M)
 
 
+###### Article R262-10
+
+Les concours particuliers prévus aux articles L. 234-13 à L. 234-17 sont prélevés sur la part revenant à chaque département
+d'outre-mer.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°48-524 1948-03-30 ART. 4 (PARTIE)
+
+	**Codifié par**:
+
+	  - Décret n°77-91 1977-01-27
+
+	**Cité par**:
+
+	  - Décret n°80-282 du 22 avril 1980 - art. 4 (Ab)
+
+	**Abrogé par**:
+
+	  - Décret n°94-704 du 17 août 1994 - art. 5 (V)
+
+	**Cite**:
+
+	  - CODE DES COMMUNES. - art. L262-9 (Ab)
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: CODE DES COMMUNES. - art. L262-9 (Ab)
+
+
 ##### SECTION 2 : Dispositions applicables aux communes du département de Saint-Pierre-et-Miquelon.
+
+###### Article R*262-12
+
+Sont applicables aux communes du département de Saint-Pierre-et-Miquelon :
+
+1. Les dispositions contenues dans les titres I et V du présent livre à l'exception de celles des articles R. 233-102, R.
+233-106, R. 234-4 à R. 234-6, R. 234-13 à R. 234-28, R. 235-46 à R. 235-48, R. 236-49, R. 236-50, R. 251-10 des chapitres
+III, V, VI et VII du titre V, les dispositions de l'article R. 262-10 de la section 1 du présent chapitre ;
+
+2. Les dispositions contenues dans les articles suivants du présent chapitre.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°77-91 1977-01-27
+
 
 ###### Article R*262-13
 
@@ -71633,68 +71682,6 @@ Des crédits lui sont délégués à cet effet par le ministre de l'intérieur.
 
 
 ### DISPOSITIONS PARTICULIERES
-
-#### DISPOSITIONS APPLICABLES AUX COMMUNES DES DEPARTEMENTS D'OUTRE-MER (D.O.M.)
-
-##### COMMUNES DES DEPARTEMENTS DE LA GUADELOUPE, DE LA GUYANE, DE LA MARTINIQUE ET DE LA REUNION .
-
-###### Article R262-10
-
-L'arrêté interministériel prévu à l'article L. 262-9 est pris par le ministre chargé des départements d'outre-mer et le
-ministre de l'économie et des finances [*compétence*].
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°48-524 1948-03-30 art. 4 (partie)
-
-	**Codifié par**:
-
-	  - Décret n°77-91 1977-01-27
-
-	**Créé par**:
-
-	  - Décret n°77-91 1977-01-27 JORF et JONC 3 février 1977 date d'entrée en vigueur 20 mars 1977
-
-	**Cité par**:
-
-	  - Décret n°80-282 du 22 avril 1980 - art. 4 (Ab)
-
-	**Cite**:
-
-	  - CODE DES COMMUNES. - art. L262-9 (Ab)
-
-	**Liens**:
-
-	  - TXT_ASSOCIE: CODE DES COMMUNES. - art. L262-9 (Ab)
-
-
-###### Article R262-11
-
-Par dérogation aux dispositions de l'article R. 235-2,
-
-des subventions exceptionnelles peuvent être attribuées par arrêté du ministre de l'économie et des finances et du ministre
-chargé des départements d'outre-mer [*compétence*] dans la limite des crédits ouverts au budget de ce dernier.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°77-91 1977-01-27
-
-	**Créé par**:
-
-	  - Décret n°77-91 1977-01-27 JORF et JONC 3 février 1977 date d'entrée en vigueur 20 mars 1977
-
-	**Liens**:
-
-	  - TXT_ASSOCIE: CODE DES COMMUNES. - art. L235-3 (Ab)
-
-	**Cite**:
-
-	  - Code des communes R235-2
-
 
 #### Dispositions applicables aux communes de la région d'Ile-de-France
 
