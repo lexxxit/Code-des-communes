@@ -1,5 +1,5 @@
 # Code des communes  
-Version Consolidée au 1989-04-18
+Version Consolidée au 1989-05-23
 
 # Statuts types d'une caisse communale de secours et de retraite de sapeurs-pompiers
 
@@ -41818,45 +41818,6 @@ Les stations de sports d'hiver et d'alpinisme classées sont tenues d'établir u
 	  - Décret n°2000-318 du 7 avril 2000 - art. 4 (V)
 
 
-### TITRE 5 : Intérêts propres à certaines catégorie d'habitants
-
-#### CHAPITRE 1 : Section de commune
-
-##### SECTION 1 : Constitution de la commission syndicale.
-
-###### Article R*151-1
-
-Le montant minimal annuel moyen de revenus ou produits des biens de la section en dessous duquel, avec l'accord du conseil
-municipal, la commission syndicale n'est pas constituée en application de l'article L. 151-5 est fixé à 2 000 F de revenu
-cadastral. Le montant ainsi fixé est actualisé dans le mois qui suit le renouvellement général des conseils municipaux et
-selon les mêmes proportions que celles résultant de l'évolution moyenne des revenus cadastraux au plan national.
-L'actualisation est constatée par arrêté conjoint du ministre chargé de l'économie et des finances et du ministre de
-l'intérieur.
-
-Toutefois, il peut être dérogé, dans le délai de deux mois, à ce montant par le commissaire de la République, qui peut, par
-arrêté, fixer un montant départemental qui ne peut être inférieur à la moitié, ni supérieur au double du montant visé à
-l'alinéa précédent.
-
-" Le commissaire de la République porte à la connaissance du maire de chaque commune concernée la liste des sections dont le
-revenu cadastral est inférieur au montant minimal annuel moyen ainsi fixé. Le maire saisit le conseil municipal, dans le
-délai de deux mois, du choix qu'il a à effectuer en application du premier alinéa de l'article L. 151-5 et transmet dans les
-quinze jours la délibération prise au commissaire de la République ou au commissaire adjoint de la République.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°77-91 1977-01-27
-
-	**Cite**:
-
-	  - CODE DES COMMUNES. - art. L151-5 (M)
-
-	**Créé par**:
-
-	  - Décret n°88-31 1988-01-10 art. 1 jorf 10 janvier 1988
-
-
 ### TITRE 5 : Intérêts propres à certaines catégories d'habitants
 
 #### CHAPITRE 1 : Section de commune
@@ -42013,6 +41974,39 @@ Le siège de la commission syndicale est fixé à la mairie du chef lieu de la c
 #### CHAPITRE 1 : Section de communes
 
 ##### SECTION 1 : Constitution de la commission syndicale.
+
+###### Article R*151-1
+
+Le montant minimal annuel moyen de revenus ou produits des biens de la section en dessous duquel, avec l'accord du conseil
+municipal, la commission syndicale n'est pas constituée en application de l'article L. 151-5 est fixé à 2 026 F de revenu
+cadastral. Le montant ainsi fixé est actualisé dans le mois qui suit le renouvellement général des conseils municipaux et
+selon les mêmes proportions que celles résultant de l'évolution moyenne des revenus cadastraux au plan national.
+L'actualisation est constatée par arrêté conjoint du ministre chargé de l'économie et des finances et du ministre de
+l'intérieur.
+
+Toutefois, il peut être dérogé, dans le délai de deux mois, à ce montant par le commissaire de la République, qui peut, par
+arrêté, fixer un montant départemental qui ne peut être inférieur à la moitié, ni supérieur au double du montant visé à
+l'alinéa précédent.
+
+" Le commissaire de la République porte à la connaissance du maire de chaque commune concernée la liste des sections dont le
+revenu cadastral est inférieur au montant minimal annuel moyen ainsi fixé. Le maire saisit le conseil municipal, dans le
+délai de deux mois, du choix qu'il a à effectuer en application du premier alinéa de l'article L. 151-5 et transmet dans les
+quinze jours la délibération prise au commissaire de la République ou au commissaire adjoint de la République.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Arrêté 1989-05-05 art. 1 jorf 23 mai 1989
+
+	**Codifié par**:
+
+	  - Décret n°77-91 1977-01-27
+
+	**Cite**:
+
+	  - CODE DES COMMUNES. - art. L151-5 (M)
+
 
 ###### Article R*151-2
 
@@ -81213,49 +81207,6 @@ armées et du ministre de l'intérieur.
 	**Nouveaux textes**:
 
 	  - Code général des collectivités territoriales - art. D2513-5 (T)
-
-
-## Administration et services communaux
-
-### Protection contre l'incendie
-
-#### Sapeurs-pompiers communaux
-
-##### Conseil d'administration des corps de sapeurs-pompiers .
-
-###### Article R352-13
-
-Chaque corps comprend un conseil d'administration composé, d'une part, du chef de corps, président, et, d'autre part, de
-représentants des sapeurs-pompiers désignés dans les conditions fixées à l'article suivant.
-
-Le conseil d'administration est compétent pour toute question relative au règlement de service du corps, sous réserve, en ce
-qui concerne les corps professionnels et mixtes, des dispositions [*applicables aux sapeurs-pompiers communaux
-professionnels*] prévues au chapitre III du présent titre.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°53-170 1953-03-07 ART. 12
-
-	**Codifié par**:
-
-	  - Décret n°77-241 1977-03-07
-
-	**Créé par**:
-
-	  - Décret n°77-241 1977-03-07 JORF et JONC 18 Mars 1977
-
-	**Cité par**:
-
-	  - Arrêté du 30 juillet 1992 - art. 5 (M)
-	  - Décret n°97-1225 du 26 décembre 1997 - art. 33 (Ab)
-	  - Décret n°97-1225 du 26 décembre 1997 - art. 53 (Ab)
-
-	**Cite**:
-
-	  - CODE DES COMMUNES. - art. R352-14 (M)
-	  - Code des communes R353-1 à R353-120
 
 
 ## LIVRE 4 : Personnel communal
