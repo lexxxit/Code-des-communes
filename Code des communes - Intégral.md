@@ -1,326 +1,5 @@
 # Code des communes  
-Version Consolidée au 1983-01-09
-
-# ORGANISATION COMMUNALE
-
-## ORGANES DE LA COMMUNE
-
-### CONSEIL  MUNICIPAL
-
-#### ATTRIBUTIONS .
-
-###### Article R*121-16
-
-Le préfet ou le sous-préfet constate sur un registre la réception de la délibération du conseil municipal qui lui est
-adressée par le maire conformément aux dispositions de l'article L. 121-30.
-
-Le point de départ du délai de quinze jours, prévu au deuxième alinéa de cet article, est le jour de l'envoi de la
-délibération au préfet ou au sous-préfet.
-
-**Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - SPEC_APPLI: *Dispositions non applicables aux communes des départements de la Moselle, du Bas-Rhin et du Haut-Rhin (Alsace-Lorraine)*
-	  - SPEC_APPLI: Code des communes R181-1 :
-
-	**Cite**:
-
-	  - CODE DES COMMUNES. - art. L121-30 (Ab)
-
-	**Anciens textes**:
-
-	  - Code de l'administration communale 41 remplacé (partie)
-
-	**Codifié par**:
-
-	  - Décret n°77-91 1977-01-27
-
-	**Créé par**:
-
-	  - Décret n°77-91 1977-01-27 JORF ET JONC 3 FEVRIER 1977 date d'entrée en vigueur 20 MARS 1977
-
-	**Abrogé par**:
-
-	  - Décret n°83-82 1983-02-09 ART. 13 JORF 11 FEVRIER 1983
-
-
-###### Article R*121-17
-
-Dans le cas de l'article L. 121-31, le dépôt des délibérations des conseils municipaux est fait à la préfecture ou à la sous-
-préfecture.
-
-Le préfet ou le sous-préfet peut abréger le délai de quinze jours [*après le dépôt, donnant aux délibérations le caractère
-exécutoire*] prévu à cet article.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Code de l'administration communale 46 remplacé (partie)
-
-	**Codifié par**:
-
-	  - Décret n°77-91 1977-01-27
-
-	**Créé par**:
-
-	  - Décret n°77-91 1977-01-27 JORF ET JONC 3 FEVRIER 1977 date d'entrée en vigueur 20 MARS 1977
-
-	**Abrogé par**:
-
-	  - Décret n°83-82 1983-02-09 ART. 13 JORF 11 FEVRIER 1983
-
-
-#### Nullité des délibérations des conseils municipaux
-
-##### Délibérations nulles de droit .
-
-###### Article R*121-18
-
-Dans le cas prévu à l'article L. 121-34, le préfet statue après avis du sous-préfet, chargé de vérifier les faits.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°1789-12-22 ART. 60 (partie)
-
-	**Codifié par**:
-
-	  - Décret n°77-91 1977-01-27
-
-	**Créé par**:
-
-	  - Décret n°77-91 1977-01-27 JORF et JONC 3 février 1977 date d'entrée en vigueur 20 mars 1977
-
-	**Cite**:
-
-	  - CODE DES COMMUNES. - art. L121-34 (M)
-
-
-##### Délibérations annulables .
-
-###### Article R121-19
-
-Pour l'application de l'article L. 121-36 :
-
-1° Dans les cas prévus au deuxième et quatrième alinéas, le procès-verbal de la délibération et la demande en annulation sont
-déposées à la sous-préfecture ou à la préfecture ;
-
-2° L'affichage prévu au quatrième alinéa a lieu à la porte de la mairie [*publicité*].
-
-**Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - SPEC_APPLI: *Dispositions non applicables aux communes des départements de la Moselle, du Bas-Rhin et du Haut-Rhin (Alsace-Lorraine)*
-	  - SPEC_APPLI: Code des communes R181-1 :
-
-	**Anciens textes**:
-
-	  - Code de l'administration communale 45 al. 2 et 4 (parties)
-
-	**Codifié par**:
-
-	  - Décret n°77-91 1977-01-27
-
-	**Créé par**:
-
-	  - Décret n°77-91 1977-01-27 JORF et JONC 3 février 1977 date d'entrée en vigueur élection des maires
-
-	**Cite**:
-
-	  - CODE DES COMMUNES. - art. L121-36 (Ab)
-
-
-#### APPROBATION DES DELIBERATIONS .
-
-###### Article R*121-20
-
-L'approbation, prévue à l'article L. 121-37, des budgets des communes [*où le comportement administratif fait apparaître un
-déficit de la section de fonctionnement ou un déficit global*] est donnée par le préfet ou le sous-préfet [*compétence*],
-suivant qu'il s'agit ou non de l'arrondissement chef-lieu.
-
-**Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - SPEC_APPLI: *Dispositions applicables aux communes de moins de 25.000 habitants des départements de la Moselle, du Bas-Rhin et du Haut-Rhin (Alsace-Lorraine)*
-	  - SPEC_APPLI: Code des communes R181-1 :
-
-	**Anciens textes**:
-
-	  - Décret n°59-37 1959-01-05 art. 1 remplacé (partie)
-
-	**Codifié par**:
-
-	  - Décret n°77-91 1977-01-27
-
-	**Créé par**:
-
-	  - Décret n°77-91 1977-01-27 JORF ET JONC 3 FEVRIER 1977 date d'entrée en vigueur 20 MARS 1977
-
-	**Abrogé par**:
-
-	  - Décret n°83-82 1983-02-09 ART. 13 JORF 11 FEVRIER 1983
-
-	**Cite**:
-
-	  - CODE DES COMMUNES. - art. L121-37 (Ab)
-
-
-###### Article R*121-21
-
-L'approbation prévue à l'article L. 121-38, des délibérations mentionnées aux 1°, 2°, 3°, 4° de cet article est donnée par le
-préfet ou le sous-préfet suivant qu'il s'agit ou non de l'arrondissement chef-lieu [*compétence*]. 
-
-L'approbation prévue au même article, des délibérations mentionnées aux 5° et 7° dudit article est donnée par le préfet.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°59-37 1959-01-05 art. 1 remplacé (partie)
-
-	**Codifié par**:
-
-	  - Décret n°77-91 1977-01-27
-
-	**Créé par**:
-
-	  - Décret n°77-91 1977-01-27 JORF ET JONC 3 FEVRIER 1977 date d'entrée en vigueur 20 MARS 1977
-
-	**Abrogé par**:
-
-	  - Décret n°83-82 1983-02-09 ART. 13 JORF 11 FEVRIER 1983
-
-	**Cite**:
-
-	  - CODE DES COMMUNES. - art. L121-38 (Ab)
-
-
-###### Article R*121-22
-
-Sont exécutoires de plein droit, dans les conditions [*quinze jours après le dépôt auprès de l'autorité supérieure*]
-
-fixées par l'article L. 121-31, les délibérations des conseils municipaux décidant la réalisation d'emprunts auprès
-d'organismes autres que ceux énumérés au 1° de l'article L. 121-38, sous réserve que le budget ne soit pas soumis à
-approbation en application de l'article L. 121-37 et que ces emprunts soient réalisés conformément aux dispositions de
-l'article R. 121-23 ci-après. 
-
-Demeurent toutefois, dans tous les cas, soumis à autorisation :
-
-1° Conformément à l'article L. 236-6, les emprunts par voie de souscription publique ; 
-
-2° Conformément à l'article L. 236-7, les emprunts à l'étranger dans les conditions prévues par le décret n° 67-78 du 27
-janvier 1967 fixant les modalités d'application de la loi n° 66-1008 du 28 décembre 1966 relative aux relations financières
-avec l'étranger modifié par le décret n° 69-264 du 21 mars 1969.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Loi n°66-1008 1966-12-28
-	  - Décret n°67-78 1967-01-27 modifié
-	  - Décret n°69-264 1969-03-21
-	  - CODE DES COMMUNES. - art. L121-31 (Ab)
-	  - CODE DES COMMUNES. - art. L121-37 (Ab)
-	  - CODE DES COMMUNES. - art. L121-38 (Ab)
-	  - CODE DES COMMUNES. - art. L236-6 (Ab)
-	  - CODE DES COMMUNES. - art. L236-7 (Ab)
-	  - Code des communes R121-23
-
-	**Anciens textes**:
-
-	  - Décret n°72-229 1972-03-24 art. 1
-
-	**Codifié par**:
-
-	  - Décret n°77-91 1977-01-27
-
-	**Créé par**:
-
-	  - Décret n°77-91 1977-01-27 JORF ET JONC 3 FEVRIER 1977 date d'entrée en vigueur 20 MARS 1977
-
-	**Abrogé par**:
-
-	  - Décret n°83-82 1983-02-09 ART. 13 JORF 11 FEVRIER 1983
-
-
-###### Article R*121-23
-
-Les emprunts [*auprès d'organismes autres que ceux mentionnés au 1° de l'article L. 121-38*] mentionnés au premier alinéa de
-l'article précédent donnent lieu à l'établissement d'un contrat entre le prêteur et l'emprunteur. 
-
-Ce contrat [*contenu*] indique notamment de manière précise le nom ou la raison sociale du prêteur, l'objet, le montant, la
-durée, le taux nominal et le taux réel d'intérêt annuel de l'emprunt ainsi que le montant de l'annuité. 
-
-Le contrat stipule, en outre, expressément que les intérêts et l'amortissement de l'emprunt ne courent qu'à partir de la date
-du versement effectif des fonds. 
-
-Le taux réel d'intérêt annuel mis à la charge de l'emprunteur n'est en aucun cas supérieur aux taux qui sont fixés, en
-fonction de la durée des emprunts, par arrêté conjoint du ministre de l'intérieur et du ministre de l'économie et des
-finances. 
-
-S'il est fait exceptionnellement appel à un intermédiaire pour la réalisation de l'emprunt, la commission susceptible d'être
-consentie à cet intermédiaire est versée en une seule fois et son montant ne doit pas être supérieur, toutes taxes comprises,
-à un pourcentage du montant du capital emprunté et non remboursable avant un an. Ce pourcentage est fixé par arrêté conjoint
-du ministre de l'intérieur et du ministre de l'économie et des finances [**]compétence[**].
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°72-229 1972-03-24 art. 2 al. 1 à 4
-
-	**Codifié par**:
-
-	  - Décret n°77-91 1977-01-27
-
-	**Créé par**:
-
-	  - Décret n°77-91 1977-01-27 JORF ET JONC 3 FEVRIER 1977 date d'entrée en vigueur 20 MARS 1977
-
-	**Abrogé par**:
-
-	  - Décret n°83-82 1983-02-09 ART. 13 JORF 11 FEVRIER 1983
-
-	**Cite**:
-
-	  - CODE DES COMMUNES. - art. L121-38 (Ab)
-	  - Code des communes R121-22 al. 1, L121-38
-
-
-###### Article R*121-24
-
-Les dispositions concernant le taux réel d'intérêt annuel de l'emprunt [*d'une commune auprès d'organismes autres que ceux
-mentionnés au 1° de l'article L. 121-38*] et le taux de la commission susceptible d'être consentie aux intermédiaires sont
-applicables aux emprunts par voie de souscription publique, à l'exception de ceux réalisés par l'intermédiaire de la caisse
-d'aide à l'équipement des collectivités locales.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°72-229 1972-03-24 art. 2 al. 5
-
-	**Codifié par**:
-
-	  - Décret n°77-91 1977-01-27
-
-	**Créé par**:
-
-	  - Décret n°77-91 1977-01-27 JORF ET JONC 3 FEVRIER 1977 date d'entrée en vigueur 20 MARS 1977
-
-	**Abrogé par**:
-
-	  - Décret n°83-82 1983-02-09 ART. 13 JORF 11 FEVRIER 1983
-
-	**Cite**:
-
-	  - Code des communes L121-38 1°
-
+Version Consolidée au 1983-02-11
 
 # Statuts types d'une caisse communale de secours et de retraite de sapeurs-pompiers
 
@@ -45665,9 +45344,198 @@ délimiter le périmètre de leurs territoires respectifs".
 	  - Décret n°2000-318 du 7 avril 2000 - art. 4 (V)
 
 
+###### Article R*112-2
+
+Les contestations portant sur la délimitation des communes sont tranchées par le commissaire de la République [*compétence*]
+lorsqu'elles intéressent les communes d'un même département.
+
+Elles le sont par décret [*conditions de forme*] lorsqu'elles intéressent les communes de deux [*nombre*] départements.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°59-189 1959-01-22 ART. 8
+	  - Ordonnance 1821-10-03 ART. 3 AL. 2
+
+	**Codifié par**:
+
+	  - Décret n°77-91 1977-01-27
+
+	**Modifié par**:
+
+	  - Décret n°83-82 1983-02-09 ART. 1 JORF 11 FEVRIER 1983
+
+	**Abrogé par**:
+
+	  - Loi n°96-142 du 21 février 1996 - art. 12 (V)
+
+	**Nouveaux textes**:
+
+	  - Code général des collectivités territoriales - art. L2112-1 (V)
+
+
+###### Article R112-3
+
+Les arrêtés du commissaire de la République portant modification aux limites territoriales des communes sont publiés au
+recueil des actes administratifs de la préfecture.
+
+Mention est faite au Journal officiel des arrêtés du commissaire de la République portant création ou suppression de
+communes.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°1947-02-28 ART. 1
+
+	**Codifié par**:
+
+	  - Décret n°77-91 1977-01-27
+
+	**Modifié par**:
+
+	  - Décret n°83-83 1983-02-09 ART. 1 JORF 11 FEVRIER 1983
+
+	**Abrogé par**:
+
+	  - Décret n°2000-318 du 7 avril 2000 - art. 4 (V)
+
+	**Nouveaux textes**:
+
+	  - Code général des collectivités territoriales - art. D2112-1 (M)
+
+
 ##### SECTION 2 : Fusion de communes
 
 ##### SOUS-SECTION 1 : Dispositions communes.
+
+###### Article R*112-12
+
+Dans chaque commune, les résultats sont consignés dans un procès-verbal rédigé en double exemplaire ; l'un des exemplaires
+reste déposé au secrétariat de la mairie, l'autre est transmis immédiatement au commissaire de la République.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - SPEC_APPLI: *Dispositions non applicables aux communes des départements de la Guadeloupe, de la Guyane, de la Martinique, de la Réunion et de Saint-Pierre-et-Miquelon*
+	  - SPEC_APPLI: Code des communes R182-1, R182-3 :
+
+	**Anciens textes**:
+
+	  - Décret n°72-109 1972-02-03 ART. 8
+
+	**Codifié par**:
+
+	  - Décret n°77-91 1977-01-27
+
+	**Modifié par**:
+
+	  - Décret n°83-82 1983-02-09 ART. 1 JORF 11 FEVRIER 1983
+
+	**Abrogé par**:
+
+	  - Décret n°2000-318 du 7 avril 2000 - art. 4 (V)
+
+	**Nouveaux textes**:
+
+	  - Code général des collectivités territoriales - art. R2113-9 (V)
+
+
+###### Article R*112-14
+
+Les recours formés par les électeurs en application de l'article L. 112-3 doivent être déposés sous peine de nullité au
+greffe du tribunal administratif (bureau central du greffe annexe) au plus tard dans les cinq jours qui suivent la
+publication des résultats *de la consultation sur l'opportunité de la fusion* prévue à l'article précédent.
+
+Le recours formé par le commissaire de la République dans les conditions prévues à l'article L. 248 du code électoral est
+exercé dans le délai de quinzaine à dater de la réception du procès-verbal *communal dans lequel sont consignés les résultats
+de la consultation*.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - SPEC_APPLI: *Dispositions non applicables aux communes des départements de la Guadeloupe, de la Guyane, de la Martinique, de la Réunion et de Saint-Pierre-et-Miquelon*
+	  - SPEC_APPLI: Code des communes R182-1, R182-3 :
+
+	**Anciens textes**:
+
+	  - Décret n°72-109 1972-02-03 ART. 10 AL. 1 ET 2 (PARTIE)
+
+	**Codifié par**:
+
+	  - Décret n°77-91 1977-01-27
+
+	**Modifié par**:
+
+	  - Décret n°83-82 1983-02-09 ART. 1 JORF 11 FEVRIER 1983
+
+	**Abrogé par**:
+
+	  - Décret n°2000-318 du 7 avril 2000 - art. 4 (V)
+
+	**Cite**:
+
+	  - CODE DES COMMUNES. - art. L112-3 (M)
+	  - CODE DES COMMUNES. - art. R112-13 (M)
+	  - Code électoral - art. L248 (V)
+
+	**Nouveaux textes**:
+
+	  - Code général des collectivités territoriales - art. R2113-11 (V)
+
+
+###### Article R112-4
+
+Les électeurs appelés à se prononcer sur l'opportunité d'une fusion de communes en application de l'article L. 112-2 sont
+convoqués par arrêté du commissaire de la République, publié dans les communes concernées au moins trois semaines avant la
+date du scrutin.
+
+Dans le cas où la consultation est demandée par des conseils municipaux suivant les dispositions prévues au premier alinéa de
+l'article L. 112-2, le commissaire de la République constate, au vu des délibérations des conseils municipaux des communes
+concernées par le projet de fusion, que les conditions requises par lesdites dispositions sont réunies. La consultation est
+organisée dans le cadre intercommunal défini par les délibérations des conseils municipaux s'associant à la demande de
+consultation des électeurs.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - SPEC_APPLI: *Dispositions non applicables aux communes des départements de la Guadeloupe, de la Guyane, de la Martinique, de la Réunion et de Saint-Pierre-et-Miquelon*
+	  - SPEC_APPLI: Code des communes R182-1, R182-3 :
+
+	**Anciens textes**:
+
+	  - Décret n°72-109 1972-02-03 ART. 1 AL. 1 ET 2
+
+	**Codifié par**:
+
+	  - Décret n°77-91 1977-01-27
+
+	**Modifié par**:
+
+	  - Décret n°83-83 1983-02-09 ART. 2 JORF 11 FEVRIER 1983
+
+	**Abrogé par**:
+
+	  - Décret n°2000-318 du 7 avril 2000 - art. 4 (V)
+
+	**Cite**:
+
+	  - CODE DES COMMUNES. - art. L112-2 (M)
+
+	**Cité par**:
+
+	  - CODE DES COMMUNES. - art. R112-16 (Ab)
+	  - CODE DES COMMUNES. - art. R112-5 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code général des collectivités territoriales - art. D2113-1 (T)
+	  - Code général des collectivités territoriales - art. D2113-1 (M)
+
 
 ###### Article R112-5
 
@@ -45710,6 +45578,51 @@ en vigueur.
 	**Nouveaux textes**:
 
 	  - Code général des collectivités territoriales - art. D2113-2 (M)
+
+
+###### Article R112-6
+
+Dans le cas de la consultation [*sur l'opportunité d'une fusion de communes, modalités*] prévue à l'article L. 112-2, les
+électeurs ont à se prononcer par oui ou par non sur l'opportunité de la fusion de communes. A cet effet, il est mis à leur
+disposition deux bulletins de vote imprimés sur papier blanc dont l'un porte la réponse oui et l'autre la réponse non. Ces
+bulletins sont envoyés par la préfecture à chaque électeur. A cet envoi est joint le texte de l'arrêté du commissaire de la
+République prévu à l'article précédent.
+
+Dans le cas où la consultation a été demandée par les conseils municipaux, l'envoi comprend également le texte des
+délibérations des conseils municipaux des communes concernées par le projet de fusion ainsi que l'avis du conseil général si
+celui-ci a été appelé à se prononcer sur ledit projet par application des dispositions en vigueur.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - SPEC_APPLI: *Dispositions non applicables aux communes des départements de la Guadeloupe, de la Guyane, de la Martinique, de la Réunion et de Saint-Pierre-et-Miquelon*
+	  - SPEC_APPLI: Code des communes R182-1, R182-3 :
+
+	**Anciens textes**:
+
+	  - Décret n°72-109 1972-02-03 ART. 11
+
+	**Codifié par**:
+
+	  - Décret n°77-91 1977-01-27
+
+	**Modifié par**:
+
+	  - Décret n°83-83 1983-02-09 ART. 2 JORF 11 FEVRIER 1983
+
+	**Abrogé par**:
+
+	  - Décret n°2000-318 du 7 avril 2000 - art. 4 (V)
+
+	**Cite**:
+
+	  - CODE DES COMMUNES. - art. L112-2 (M)
+
+	**Nouveaux textes**:
+
+	  - Code général des collectivités territoriales - art. D2113-3 (T)
+	  - Code général des collectivités territoriales - art. D2113-3 (M)
 
 
 ###### Article R112-7
@@ -45926,6 +45839,46 @@ dépouillement mais annexés au procès-verbal*.
 	  - Code électoral - art. L66 (V)
 
 
+###### Article R112-13
+
+Au vu des procès-verbaux communaux, le commissaire de la République totalise et constate les résultats de la consultation
+[*sur l'opportunité de la fusion*] pour l'ensemble des communes concernées ; il en dresse procès-verbal notifié aux maires
+des communes intéressées et en fait assurer la publication dans chacune de ces communes.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - SPEC_APPLI: *Dispositions non applicables aux communes des départements de la Guadeloupe, de la Guyane, de la Martinique, de la Réunion et de Saint-Pierre-et-Miquelon*
+	  - SPEC_APPLI: Code des communes R182-1, R182-3 :
+
+	**Anciens textes**:
+
+	  - Décret n°72-109 1972-02-03 ART. 9
+
+	**Codifié par**:
+
+	  - Décret n°77-91 1977-01-27
+
+	**Modifié par**:
+
+	  - Décret n°83-83 1983-02-09 ART. 3 JORF 11 FEVRIER 1983
+
+	**Abrogé par**:
+
+	  - Décret n°2000-318 du 7 avril 2000 - art. 4 (V)
+
+	**Cité par**:
+
+	  - CODE DES COMMUNES. - art. R*112-14 (Ab)
+	  - CODE DES COMMUNES. - art. R112-16 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code général des collectivités territoriales - art. D2113-10 (T)
+	  - Code général des collectivités territoriales - art. D2113-10 (V)
+
+
 ###### Article R112-15
 
 Le tribunal administratif statue dans le délai de deux mois à compter de l'enregistrement de la réclamation *recours des
@@ -45971,7 +45924,100 @@ le délai d'un mois à dater de la notification dudit délai au requérant*.
 	  - Code électoral - art. R123 (M)
 
 
+###### Article R112-16
+
+Dans le cas où le projet de fusion concerne des communes situées dans des départements différents, les électeurs sont
+convoqués par arrêté conjoint des commissaires de la République des départements intéressés, suivant les conditions définies
+aux articles R. 112-4 et R. 112-5.
+
+Les résultats des scrutins communaux sont centralisés par le commissaire de la République [*compétence*] du département où
+sont situées la ou les communes totalisant le plus grand nombre d'électeurs inscrits. La notification et la publication des
+résultats de la consultation, telles qu'elles sont prévues à l'article R. 112-13, sont effectuées à la diligence de chacun
+des commissaires de la République des départements concernés.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - SPEC_APPLI: *Dispositions non applicables aux communes des départements de la Guadeloupe, de la Guyane, de la Martinique, de la Réunion et de Saint-Pierre-et-Miquelon*
+	  - SPEC_APPLI: Code des communes R182-1, R182-3 :
+
+	**Anciens textes**:
+
+	  - Décret n°72-109 1972-02-03 ART. 11
+
+	**Codifié par**:
+
+	  - Décret n°77-91 1977-01-27
+
+	**Modifié par**:
+
+	  - Décret n°83-83 1983-02-09 ART. 3 JORF 11 FEVRIER 1983
+
+	**Abrogé par**:
+
+	  - Décret n°2000-318 du 7 avril 2000 - art. 4 (V)
+
+	**Cite**:
+
+	  - CODE DES COMMUNES. - art. R112-13 (M)
+	  - CODE DES COMMUNES. - art. R112-4 (M)
+	  - CODE DES COMMUNES. - art. R112-5 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code général des collectivités territoriales - art. D2113-13 (Ab)
+	  - Code général des collectivités territoriales - art. D2113-13 (V)
+
+
 ##### SECTION 3 : Modifications aux limites territoriales des communes.
+
+###### Article R*112-17
+
+Sous réserve des dispositions prévues à l'article 1er de l'ordonnance n° 45-2604 du 2 novembre 1945 concernant les limites de
+départements, les décisions relatives à la modification des circonscriptions communales, à la fixation ou au transfert de
+chefs-lieux résultant ou non de cette modification sont prononcées par arrêté du commissaire de la République [*conditions de
+forme*].
+
+Toutefois, un décret en Conseil d'Etat, sur la proposition du ministre de l'Intérieur, est requis lorsque la modification
+territoriale projetée a pour effet de porter atteinte aux limites cantonales.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Ordonnance n°45-2604 du 2 novembre 1945 - art. 1 (Ab)
+	  - Loi n°71-588 1971-07-16 ART. 7
+
+	**Anciens textes**:
+
+	  - Décret n°59-189 1959-01-22 ART. 4 AL. 1 et 2 (partie)
+
+	**Codifié par**:
+
+	  - Décret n°77-91 1977-01-27
+
+	**Modifié par**:
+
+	  - Décret n°83-82 1983-02-09 ART. 2 JORF 11 FEVRIER 1983
+
+	**Abrogé par**:
+
+	  - Loi n°96-142 du 21 février 1996 - art. 12 (V)
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: CODE DES COMMUNES. - art. L111-2 (Ab)
+	  - TXT_ASSOCIE: CODE DES COMMUNES. - art. L112-19 (Ab)
+
+	**Cité par**:
+
+	  - CODE DES COMMUNES. - art. R*112-23 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code général des collectivités territoriales - art. L2112-5 (V)
+
 
 ###### Article R*112-18
 
@@ -46346,6 +46392,47 @@ préfecture *compétence*.
 	  - Code général des collectivités territoriales - art. R2114-1 (V)
 
 
+###### Article R*113-2
+
+La commission [*chargée de formuler des propositions sur la répartition des droits et obligations des communes et
+établissements supprimés*] prévue à l'article L. 113-2 comprend [*composition*, outre les autorités *]maires des communes
+supprimés et de rattachement[* désignées audit article, le directeur des services fiscaux (domaines) et les chefs des
+services de l'Etat intéressés.
+
+Elle est présidée par le commissaire de la République *]attributions*.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - SPEC_APPLI: *Dispositions non applicables aux communes des départements de la Guadeloupe, de la Guyane, de la Martinique et de la Réunion*
+	  - SPEC_APPLI: Code des communes R182-1 :
+
+	**Cite**:
+
+	  - CODE DES COMMUNES. - art. L113-2 (Ab)
+
+	**Anciens textes**:
+
+	  - Code de l'administration communale 13 AL. 1 (PARTIE)
+
+	**Codifié par**:
+
+	  - Décret n°77-91 1977-01-27
+
+	**Modifié par**:
+
+	  - Décret n°83-82 1983-02-09 ART. 6 JORF 11 FEVRIER 1983
+
+	**Abrogé par**:
+
+	  - Décret n°2000-318 du 7 avril 2000 - art. 4 (V)
+
+	**Nouveaux textes**:
+
+	  - Code général des collectivités territoriales - art. R2114-2 (V)
+
+
 #### CHAPITRE 4 : Population des communes.
 
 ###### Article R114-1
@@ -46664,6 +46751,38 @@ L'élection du conseil municipal a lieu selon les modalités prévues aux articl
 	  - Code général des collectivités territoriales
 
 
+###### Article R*121-4
+
+Dans le cas prévu au deuxième alinéa de l'article L. 121-4, le commissaire de la République doit rendre compte immédiatement
+au ministre de l'Intérieur.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CODE DES COMMUNES. - art. L121-4 (M)
+
+	**Anciens textes**:
+
+	  - Code de l'administration communale 18 AL. 2 (PARTIE)
+
+	**Nouveaux textes**:
+
+	  - Code général des collectivités territoriales L
+
+	**Codifié par**:
+
+	  - Décret n°77-91 1977-01-27
+
+	**Modifié par**:
+
+	  - Décret n°83-82 1983-02-09 ART. 7 JORF 11 FEVRIER 1983
+
+	**Abrogé par**:
+
+	  - Décret n°2000-318 du 7 avril 2000 - art. 4 (V)
+
+
 ###### Article R*121-6
 
 Le nombre des membres qui composent la délégation spéciale [*désignée dans certains cas pour remplir les fonctions du conseil
@@ -46728,6 +46847,43 @@ Dans le cas prévu à l'article L. 121-10, l'affichage a lieu à la porte de la 
 	  - Décret n°2000-318 du 7 avril 2000 - art. 4 (V)
 
 
+###### Article R*121-8
+
+Dans le cas prévu au deuxième alinéa de l'article L. 121-13, la délibération relative au compte administratif du maire est
+transmise par le président de séance au commissaire de la République ou à son délégué dans l'arrondissement.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - SPEC_APPLI: *Dispositions non applicables aux communes des départements de la Moselle, du Bas-Rhin et du Haut-Rhin (Alsace-Lorraine)*
+	  - SPEC_APPLI: Code des communes R181-1 :
+
+	**Anciens textes**:
+
+	  - Code de l'administration communale 28 AL. 4
+
+	**Nouveaux textes**:
+
+	  - Code général des collectivités territoriales L
+
+	**Codifié par**:
+
+	  - Décret n°77-91 1977-01-27
+
+	**Modifié par**:
+
+	  - Décret n°83-82 1983-02-09 ART. 9 JORF 11 FEVRIER 1983
+
+	**Abrogé par**:
+
+	  - Décret n°2000-318 du 7 avril 2000 - art. 4 (V)
+
+	**Cite**:
+
+	  - Code des communes L121-13 AL. 2
+
+
 ###### Article R*121-9
 
 Dans le cas prévu à l'article L. 121-17, l'affichage a lieu, par extraits, à la porte de la mairie.
@@ -46753,6 +46909,44 @@ Dans le cas prévu à l'article L. 121-17, l'affichage a lieu, par extraits, à 
 	**Cite**:
 
 	  - CODE DES COMMUNES. - art. L121-17 (Ab)
+
+
+###### Article R*121-10
+
+Les délibérations des conseils municipaux sont inscrites sur un registre coté et paraphé par le commissaire de la République.
+
+Toutefois, les communes qui en font la demande peuvent être autorisées par arrêté du commissaire de la République*conditions
+de forme, compétence*, pris après avis du directeur des services d'archives du département, à tenir ce registre sous forme de
+feuillets mobiles qui sont reliés au plus tard en fin d'année. Ces feuillets sont préalablement cotés et paraphés par le
+commissaire de la République.
+
+Les caractéristiques de ces feuillets mobiles et les règles à observer pour leur classement provisoire et leur reliure sont
+fixées par arrêté du ministre chargé de la culture et du ministre de l'intérieur. Cet arrêté peut prévoir des dispositions
+particulières pour les communes qui font imprimer les délibérations de leurs conseils municipaux.
+
+Les autorisations accordées en application du présent article sont révocables à tout moment.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°70-150 1970-02-17 ART. 3
+
+	**Codifié par**:
+
+	  - Décret n°77-91 1977-01-27
+
+	**Modifié par**:
+
+	  - Décret n°83-82 1983-02-09 ART. 10 JORF 11 FEVRIER 1983
+
+	**Abrogé par**:
+
+	  - Décret n°2000-318 du 7 avril 2000 - art. 4 (V)
+
+	**Nouveaux textes**:
+
+	  - Code général des collectivités territoriales - art. R2121-9 (V)
 
 
 ##### SECTION 3 : Dispositions applicables aux membres des conseils municipaux.
@@ -46803,31 +46997,48 @@ prendre communication ou copie [*publicité*].
 	  - Code électoral - art. L228 (VT)
 
 
-###### Article R*121-12
+###### Article R*121-14
 
-Dans le cas prévu à l'article L. 121-21, le nouvel envoi de la démission est constaté par lettre recommandée.
+Dans les cas prévus à l'article L. 121-23, la démission d'office des membres des conseils municipaux [*pour refus de remplir
+une des fonctions qui leur sont dévolues par les lois*] est prononcée par le tribunal administratif [*compétence*].
+
+Le maire, après refus constaté dans les conditions prévues par l'article L. 121-23 saisit dans le délai d'un mois, à peine de
+déchéance, le tribunal administratif.
+
+Faute d'avoir statué dans le délai fixé à l'alinéa précédent, le tribunal administratif est dessaisi. Le secrétaire-greffier
+en chef en informe le maire en lui faisant connaître qu'il a un délai d'un mois, à peine de déchéance, pour saisir le Conseil
+d'Etat.
+
+Lorsque le tribunal administratif prononce la démission d'un conseiller municipal, le secrétaire-greffier en chef en informe
+l'intéressé en lui faisant connaître qu'il a un délai d'un mois pour se pourvoir devant le Conseil d'Etat [*recours*].
+
+La contestation est instruite et jugée sans frais par le Conseil d'Etat dans le délai de trois mois.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Code de l'administration communale 36 AL. 2 (partie)
+	  - Décret n°70-216 du 17 mars 1970 - art. 2 (V)
 
 	**Codifié par**:
 
 	  - Décret n°77-91 1977-01-27
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°77-91 1977-01-27 JORF et JONC 3 février 1977 date d'entrée en vigueur 20 mars 1977
+	  - Décret n°83-82 1983-02-09 ART. 12 JORF 11 FEVRIER 1983
 
 	**Abrogé par**:
 
-	  - Décret n°83-82 1983-02-09 art. 11 JORF 11 février 1983
+	  - Décret n°2000-318 du 7 avril 2000 - art. 4 (V)
 
 	**Cite**:
 
-	  - CODE DES COMMUNES. - art. L121-21 (M)
+	  - CODE DES COMMUNES. - art. L121-23 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code général des collectivités territoriales L
 
 
 ##### SECTION 4 : Attributions des conseils municipaux.
@@ -47176,6 +47387,38 @@ L'inscription par ordre de date des arrêtés, actes de publication et de notifi
 	  - CODE DES COMMUNES. - art. L122-29 (M)
 
 
+###### Article R122-7
+
+Sans préjudice des dispositions de l'article L. 122-21, les décisions prises par le maire, en vertu de l'article L. 122-20,
+sont soumises aux mêmes règles de publicité, de contrôle et d'approbation que celles qui sont applicables en vertu des
+dispositions réglementaires en vigueur aux délibérations des conseils municipaux portant sur le même objet et notamment à
+celles de l'article R. 121-27.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°77-91 1977-01-27
+
+	**Modifié par**:
+
+	  - Décret n°83-83 1983-02-09 ART. 5 JORF 11 FEVRIER 1983
+
+	**Abrogé par**:
+
+	  - Décret n°2000-318 du 7 avril 2000 - art. 4 (V)
+
+	**Cite**:
+
+	  - CODE DES COMMUNES. - art. L122-20 (M)
+	  - CODE DES COMMUNES. - art. L122-21 (M)
+	  - Code des communes L122-20, L122-21, R121-17
+
+	**Nouveaux textes**:
+
+	  - Code général des collectivités territoriales L
+
+
 #### CHAPITRE 3 : Indemnités et régime de retraite des titulaires de certaines fonctions municipales
 
 ##### SECTION 3 : Indemnités de fonctions.
@@ -47412,6 +47655,55 @@ CATEGORIE : 13
 	**Abrogé par**:
 
 	  - Décret n°2000-318 du 7 avril 2000 - art. 4 (V)
+
+
+###### Article R*123-2
+
+Les majorations d'indemnités de fonctions résultant de l'application de l'article L. 123-5 [*conseils municipaux pouvant
+voter des majorations d'indemnités de fonctions*] peuvent s'élever au maximum pour les magistrats municipaux :
+
+1° Dans les communes chefs-lieux de département, d'arrondissement et de canton respectivement à 25 p. 100, à 20 p. 100 et 15
+p. 100 ;
+
+2° Dans les communes sinistrées, à un pourcentage égal au pourcentage d'immeubles sinistrés de la commune. Ce supplément
+d'indemnité peut se cumuler, le cas échéant, avec les majorations prévues au 1° ci-dessus, mais il doit être calculé d'après
+le montant de l'indemnité tel qu'il est fixé à l'article précédent ;
+
+3° Dans les communes mentionnées aux 3° et 4° de l'article L. 123-5 [*stations classées et communes dont la population,
+depuis le dernier recensement, a augmenté à la suite de travaux publics d'intérêt national*], à 50 p. 100 pour les communes
+dont la population totale est inférieure à 5.OOO habitants [*nombre*] et à 25 p. 100 pour celles dont la population totale
+est supérieure à ce chiffre. Des arrêtés des commissaires de la République déterminent les communes dans lesquelles les
+dispositions prévues au 4° de l'article L. 123-5 sont applicables ;
+
+4° Dans les communes mentionnées aux 5° et 6° de l'article L. 123-5, les indemnités de fonctions peuvent être votées dans les
+limites correspondant à l'échelon immédiatement supérieur à celui de la population des communes à l'article précédent.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°77-91 1977-01-27
+
+	**Modifié par**:
+
+	  - Décret n°83-82 1983-02-09 ART. 15 JORF 11 FEVRIER 1983
+
+	**Abrogé par**:
+
+	  - Décret n°2000-318 du 7 avril 2000 - art. 4 (V)
+
+	**Cite**:
+
+	  - CODE DES COMMUNES. - art. L123-5 (M)
+	  - Code des communes R123-1
+
+	**Anciens textes**:
+
+	  - Code de l'administration communale 89, 90, 91, 92 (PARTIES)
+
+	**Nouveaux textes**:
+
+	  - Code général des collectivités territoriales L
 
 
 ###### Article R*123-3
@@ -47775,6 +48067,84 @@ municipaux sont applicables au maire.
 	  - Code des communes R124-3
 
 
+###### Article R*124-5
+
+Dans les cas prévus à l'article L. 124-6, le commissaire de la République doit immédiatement rendre compte des mesures prises
+au ministre de l'intérieur.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - SPEC_APPLI: *Dispositions non applicables au département de la Guyane*
+	  - SPEC_APPLI: Code des communes R182-1 2 :
+
+	**Cite**:
+
+	  - CODE DES COMMUNES. - art. L124-6 (M)
+
+	**Anciens textes**:
+
+	  - Code de l'administration communale 72 AL. 1 ET AL. 2 (PARTIE)
+
+	**Nouveaux textes**:
+
+	  - Code général des collectivités territoriales L
+
+	**Codifié par**:
+
+	  - Décret n°77-91 1977-01-27
+
+	**Modifié par**:
+
+	  - Décret n°83-82 1983-02-09 ART. 16 JORF 11 FEVRIER 1983
+
+	**Abrogé par**:
+
+	  - Décret n°2000-318 du 7 avril 2000 - art. 4 (V)
+
+
+###### Article R*124-6
+
+La mise en demeure adressée par le commissaire de la République au maire ou au président du comité syndical, dans les cas
+[*refus du maire ou des maires à prendre une mesure d'intérêt communal ou intercommunal*] prévus à l'article L. 124-6, peut
+être faite soit par lettre, soit par télégramme, soit par message téléphoné.
+
+La réponse adressée au commissaire de la République par le maire ou le président du comité syndical doit être faite dans
+l'une des [*conditions de*] formes indiquées à l'alinéa précédent.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - SPEC_APPLI: *Dispositions non applicables aux communes du département de la Guyane*
+	  - SPEC_APPLI: Code des communes R182-1 2 :
+
+	**Codifié par**:
+
+	  - Décret n°77-91 1977-01-27
+
+	**Modifié par**:
+
+	  - Décret n°83-82 1983-02-09 ART. 16 JORF 11 FEVRIER 1983
+
+	**Abrogé par**:
+
+	  - Décret n°2000-318 du 7 avril 2000 - art. 4 (V)
+
+	**Cite**:
+
+	  - CODE DES COMMUNES. - art. L124-6 (M)
+
+	**Anciens textes**:
+
+	  - Code de l'administration communale 72 AL. 1 ET 2 (PARTIE)
+
+	**Nouveaux textes**:
+
+	  - Code général des collectivités territoriales L
+
+
 ### TITRE 3 : Police
 
 #### CHAPITRE 1 : Dispositions générales
@@ -48025,6 +48395,47 @@ gardes champêtres par l'article L. 132-2.
 	  - CODE DES COMMUNES. - art. L132-2 (Ab)
 
 
+#### CHAPITRE 3 : Responsabilité des communes
+
+##### SECTION 2 : Actions et recours.
+
+###### Article R*133-1
+
+Dans le cas de l'article L. 133-6[*intervention de l'Etat à l'action principale*] par dérogation aux dispositions du décret
+du 27-31 août 1791, l'Etat est représenté par le commissaire de la République[*compétence*].
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°77-91 1977-01-27
+
+	**Modifié par**:
+
+	  - Décret n°83-82 1983-02-09 ART. 18 JORF 11 FEVRIER 1983
+
+	**Abrogé par**:
+
+	  - Décret n°2000-318 du 7 avril 2000 - art. 4 (V)
+
+	**Cite**:
+
+	  - CODE DES COMMUNES. - art. L133-6 (Ab)
+	  - Décret n°1791-08-27
+
+	**Anciens textes**:
+
+	  - Code de l'administration communale 120 AL. 3
+
+	**Nouveaux textes**:
+
+	  - Code général des collectivités territoriales L
+
+	**Liens**:
+
+	  - SPEC_APPLI: Les dispositions de l'article R133-1 sont rendues caduques du fait de l'abrogation des articles L133-1 à L133-8
+
+
 ### TITRE 4 : Stations classées
 
 #### CHAPITRE 2 : Dispositions communes aux stations classées
@@ -48131,6 +48542,112 @@ vigueur.
 
 ##### SOUS-SECTION 2 : Organisation.
 
+###### Article R*142-4
+
+L'arrêté du commissaire de la République instituant un office de tourisme doit notamment :
+
+1° Fixer, sur proposition du conseil municipal, le nombre des membres du comité de direction lequel ne peut être inférieur à
+12 ou excéder 15 ;
+
+2° Fixer, sur proposition du maire, dans la limite [*du sixième au moins et du tiers au plus, du nombre total des membres du
+comité*] prévue à l'article L. 142-8, le nombre des conseillers municipaux qui siègent au comité de direction ;
+
+3° Après avis du maire, répartir entre les différentes catégories intéressées les sièges réservés aux autres membres et
+désigner les associations ou organisations professionnelles locales habilitées à proposer des représentants.
+
+**Liens relatifs à cet article**
+
+	**Nouveaux textes**:
+
+	  - Code général des collectivités territoriales L
+
+	**Anciens textes**:
+
+	  - Décret n°66-211 1966-04-05 ART. 2
+
+	**Codifié par**:
+
+	  - Décret n°77-91 1977-01-27
+
+	**Modifié par**:
+
+	  - Décret n°83-82 1983-02-09 ART. 18 JORF 11 FEVRIER 1983
+
+	**Abrogé par**:
+
+	  - Décret n°2000-318 du 7 avril 2000 - art. 4 (V)
+
+	**Cite**:
+
+	  - CODE DES COMMUNES. - art. L142-8 (M)
+
+
+###### Article R*142-5
+
+Le maire procède, par lettre recommandée avec demande d'avis de réception [*conditions de forme*] à la consultation des
+associations et organisations professionnelles locales intéressées au tourisme.
+
+Faute de réponse dans un délai de trente jours à compter de la réception de la lettre, le maire [*attributions*] propose au
+commissaire de la République les noms des représentants de ces professions et associations et le nom d'un suppléant pour
+chacun d'eux.
+
+Il transmet sans délai cette liste au commissaire de la République avec celle des membres désignés par le conseil municipal.
+
+**Liens relatifs à cet article**
+
+	**Nouveaux textes**:
+
+	  - Code général des collectivités territoriales L
+
+	**Anciens textes**:
+
+	  - Décret n°66-211 1966-04-05 ART. 3
+
+	**Codifié par**:
+
+	  - Décret n°77-91 1977-01-27
+
+	**Modifié par**:
+
+	  - Décret n°83-82 1983-02-09 ART. 18 JORF 11 FEVRIER 1983
+
+	**Abrogé par**:
+
+	  - Décret n°2000-318 du 7 avril 2000 - art. 4 (V)
+
+
+###### Article R*142-6
+
+Les conseillers municipaux membres du comité de direction de l'office sont élus par le conseil municipal pour la durée de
+leur mandat.
+
+Les autres membres sont nommés par le commissaire de la République pour six ans. Toutefois, leurs fonctions prennent fin
+[*date*] lors du renouvellement du conseil municipal. Le cas échéant, les dispositions de l'arrêté du commissaire de la
+République relatives à la composition du comité de direction peuvent alors être modifiées.
+
+**Liens relatifs à cet article**
+
+	**Nouveaux textes**:
+
+	  - Code général des collectivités territoriales L
+
+	**Anciens textes**:
+
+	  - Décret n°66-211 1966-04-05 ART. 4
+
+	**Codifié par**:
+
+	  - Décret n°77-91 1977-01-27
+
+	**Modifié par**:
+
+	  - Décret n°83-82 1983-02-09 ART. 18 JORF 11 FEVRIER 1983
+
+	**Abrogé par**:
+
+	  - Décret n°2000-318 du 7 avril 2000 - art. 4 (V)
+
+
 ###### Article R*142-7
 
 Le comité [*de direction*] élit un vice-président parmi ses membres non conseillers municipaux. 
@@ -48155,6 +48672,38 @@ pouvoirs que ceux qui lui ont été délégués par le président.
 	**Créé par**:
 
 	  - Décret n°77-91 1977-01-27 JORF et JONC 3 février 1977 date d'entrée en vigueur élection des maires
+
+	**Abrogé par**:
+
+	  - Décret n°2000-318 du 7 avril 2000 - art. 4 (V)
+
+
+###### Article R*142-8
+
+Le comité [*de direction*] se réunit au moins six fois par an [*fréquence, périodicité*].
+
+Il est en outre convoqué, chaque fois que le président le juge utile ou sur la demande du commissaire de la République ou de
+la majorité de ses membres en exercice.
+
+Ses séances ne sont pas publiques.
+
+**Liens relatifs à cet article**
+
+	**Nouveaux textes**:
+
+	  - Code général des collectivités territoriales L
+
+	**Anciens textes**:
+
+	  - Décret n°66-211 1966-04-05 ART. 6 PHR. 1, 2, 3
+
+	**Codifié par**:
+
+	  - Décret n°77-91 1977-01-27
+
+	**Modifié par**:
+
+	  - Décret n°83-82 1983-02-09 ART. 18 JORF 11 FEVRIER 1983
 
 	**Abrogé par**:
 
@@ -48304,6 +48853,50 @@ toutes les questions intéressant le fonctionnement et l'activité de l'office d
 	  - Décret n°2000-318 du 7 avril 2000 - art. 4 (V)
 
 
+###### Article R*142-13
+
+Le directeur de l'office de tourisme est recruté par contrat.
+
+Il est nommé par le président, après avis du comité.
+
+Le contrat est conclu pour une période de deux ans, renouvelable par tacite reconduction pour des périodes identiques ; il
+peut être résilié sans préavis ni indemnité pendant les six premiers mois d'exercice de la fonction.
+
+La limite d'âge du directeur est celle prévue pour les agents non titulaires des communes.
+
+En cas de non-renouvellement du contrat, l'intéressé perçoit une indemnité de licenciement calculée selon les dispositions en
+vigueur relatives au licenciement des agents civils non fonctionnaires des administrations de l'Etat.
+
+Dans tous les cas, la décision de licenciement ou de non-renouvellement du contrat est prise par le président, après avis du
+comité[*de direction*].
+
+**Liens relatifs à cet article**
+
+	**Nouveaux textes**:
+
+	  - Code général des collectivités territoriales L
+
+	**Anciens textes**:
+
+	  - Décret n°66-211 1966-04-05 ART. 8 AL. 2 ET 3
+
+	**Codifié par**:
+
+	  - Décret n°77-91 1977-01-27
+
+	**Modifié par**:
+
+	  - Décret n°83-82 1983-02-09 ART. 19 JORF 11 FEVRIER 1983
+
+	**Abrogé par**:
+
+	  - Décret n°2000-318 du 7 avril 2000 - art. 4 (V)
+
+	**Cite**:
+
+	  - CODE DES COMMUNES. - art. L422-7 (V)
+
+
 ###### Article R*142-14
 
 Pour pouvoir être nommés directeurs, les candidats doivent notamment : [*conditions, qualité*] 
@@ -48439,6 +49032,65 @@ créés par lui sur ses fonds propres ;
 	  - CODE DES COMMUNES. - art. L142-10 (M)
 
 
+###### Article R*142-17
+
+Le budget, préparé par le directeur de l'office,[*attributions*], est présenté par le président au comité de direction qui en
+délibère avant le 15 novembre [*date*].
+
+Si le conseil municipal, saisi à fin d'approbation, n'a pas fait connaître sa décision dans un délai de trente jours, le
+budget est considéré comme approuvé.
+
+**Liens relatifs à cet article**
+
+	**Nouveaux textes**:
+
+	  - Code général des collectivités territoriales L
+
+	**Anciens textes**:
+
+	  - Décret n°66-211 1966-04-05 ART. 13 AL. 1 A 4
+
+	**Codifié par**:
+
+	  - Décret n°77-91 1977-01-27
+
+	**Modifié par**:
+
+	  - Décret n°83-82 1983-02-09 ART. 20 JORF 11 FEVRIER 1983
+
+	**Abrogé par**:
+
+	  - Décret n°2000-318 du 7 avril 2000 - art. 4 (V)
+
+
+###### Article R*142-18
+
+Le compte financier de l'exercice écoulé est présenté par le président [*attributions*] au comité de direction qui en
+délibère et le transmet au conseil municipal pour approbation.
+
+**Liens relatifs à cet article**
+
+	**Nouveaux textes**:
+
+	  - Code général des collectivités territoriales L
+
+	**Anciens textes**:
+
+	  - Décret n°66-211 1966-04-05 ART. 13 AL. 5
+
+	**Codifié par**:
+
+	  - Décret n°77-91 1977-01-27
+
+	**Modifié par**:
+
+	  - Décret n°83-82 1983-02-09 ART. 21 JORF 11 FEVRIER 1983
+
+	**Abrogé par**:
+
+	  - Décret n°2000-318 du 7 avril 2000 - art. 4 (V)
+
+
 ###### Article R*142-19
 
 La comptabilité des offices de tourisme [*forme*] est tenue conformément à un plan comptable particulier établi sur la base
@@ -48468,7 +49120,70 @@ ministre chargé du tourisme.
 	  - Décret n°2000-318 du 7 avril 2000 - art. 4 (V)
 
 
+##### SOUS-SECTION 4 : Dissolution de l'office du tourisme.
+
+###### Article R*142-20
+
+La dissolution de l'office du tourisme communal est prononcée par arrêté du commissaire de la République à la demande ou sur
+avis du conseil municipal intéressé [*compétence*].
+
+**Liens relatifs à cet article**
+
+	**Nouveaux textes**:
+
+	  - Code général des collectivités territoriales L
+
+	**Anciens textes**:
+
+	  - Décret n°66-211 1966-04-05 ART. 20 AL. 1
+
+	**Codifié par**:
+
+	  - Décret n°77-91 1977-01-27
+
+	**Modifié par**:
+
+	  - Décret n°83-82 1983-02-09 ART. 22 JORF 11 FEVRIER 1983
+
+	**Abrogé par**:
+
+	  - Décret n°2000-318 du 7 avril 2000 - art. 4 (V)
+
+
 ##### SOUS-SECTION 5 : Les offices de tourisme intercommunaux.
+
+###### Article R*142-21
+
+Lorsque la station comprend tout ou partie du territoire de plusieurs communes et si les conseils municipaux soit des deux
+tiers au moins [*proportion*] des communes intéressées représentant plus de la moitié de la population totale, soit de la
+moitié au moins des communes intéressées représentant plus des deux tiers de la population totale, ont fait connaître leur
+volonté de créer un office de tourisme commun,[*conditions*] l'arrêté du commissaire de la République instituant l'office
+intercommunal est pris soit par le commissaire de la République lorsque les communes appartiennent au même département, soit
+conjointement par les commissaires de la République intéressés lorsqu'elles appartiennent à des départements différents
+[*compétence*].
+
+**Liens relatifs à cet article**
+
+	**Nouveaux textes**:
+
+	  - Code général des collectivités territoriales L
+
+	**Anciens textes**:
+
+	  - Décret n°66-211 1966-04-05 ART. 14
+
+	**Codifié par**:
+
+	  - Décret n°77-91 1977-01-27
+
+	**Modifié par**:
+
+	  - Décret n°83-82 1983-02-09 ART. 22 JORF 11 FEVRIER 1983
+
+	**Abrogé par**:
+
+	  - Décret n°2000-318 du 7 avril 2000 - art. 4 (V)
+
 
 ###### Article R*142-22
 
@@ -48494,6 +49209,48 @@ Le maire de la commune siège de l'office est, de droit, président de cet étab
 	**Créé par**:
 
 	  - Décret n°77-91 1977-01-27 JORF et JONC 3 février 1977 date d'entrée en vigueur élection des maires
+
+	**Abrogé par**:
+
+	  - Décret n°2000-318 du 7 avril 2000 - art. 4 (V)
+
+
+###### Article R*142-23
+
+Sur avis des maires des communes intéressées, l'arrêté du commissaire de la République instituant l'office intercommunal :
+
+1° Fixe le siège de l'office ;
+
+2° Fixe le nombre des membres du comité [*de direction*] dont le maximum peut, par dérogation à l'article R. 142-4 [*nombre
+de membres d'un comité de direction communal*] être de vingt et un en vue d'assurer la représentation des communes associées
+et de celles qui pourraient être amenées à faire partie de l'office dans le cas d'extension de la station ;
+
+3° Désigne les associations ou organisations professionnelles locales intéressées au tourisme habilitées à proposer leurs
+représentants ;
+
+4° Répartit les sièges réservés aux représentants des professions ou associations intéressées au tourisme ;
+
+5° Fixe le nombre des conseillers municipaux élus pour siéger au comité, dans la limite [*du sixième au moins et du tiers au
+plus du nombre total des membres du comité*] prévue à l'article L. 142-8.
+
+**Liens relatifs à cet article**
+
+	**Nouveaux textes**:
+
+	  - Code général des collectivités territoriales L
+
+	**Anciens textes**:
+
+	  - Décret n°66-211 1966-04-05 ART. 16 AL. 1
+	  - Code des communes L142-4 ET L142-8
+
+	**Codifié par**:
+
+	  - Décret n°77-91 1977-01-27
+
+	**Modifié par**:
+
+	  - Décret n°83-82 1983-02-09 ART. 22 JORF 11 FEVRIER 1983
 
 	**Abrogé par**:
 
@@ -48562,11 +49319,244 @@ Copie en est transmise, pour approbation, avant le 30 novembre aux conseils muni
 	  - Décret n°2000-318 du 7 avril 2000 - art. 4 (V)
 
 
+###### Article R*142-26
+
+Le projet de budget est considéré comme approuvé lorsqu'aucun des conseils municipaux, saisi à fin d'approbation, n'a fait
+connaître son désaccord dans un délai de trente jours à compter de la réception dudit projet.
+
+**Liens relatifs à cet article**
+
+	**Nouveaux textes**:
+
+	  - Code général des collectivités territoriales L
+
+	**Anciens textes**:
+
+	  - Décret n°66-211 1966-04-05 ART. 17 AL. 2
+
+	**Codifié par**:
+
+	  - Décret n°77-91 1977-01-27
+
+	**Modifié par**:
+
+	  - Décret n°83-82 1983-02-09 ART. 23 JORF 11 FEVRIER 1983
+
+	**Abrogé par**:
+
+	  - Décret n°2000-318 du 7 avril 2000 - art. 4 (V)
+
+
+###### Article R*142-28
+
+Le compte financier est présenté par le président au comité de direction qui en délibère et le transmet aux conseils
+municipaux pour approbation.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°66-211 1966-04-05 art. 17 al. 5
+
+	**Codifié par**:
+
+	  - Décret n°77-91 1977-01-27
+
+	**Modifié par**:
+
+	  - Décret n°83-82 1983-02-09 ART. 24 JORF 11 FEVRIER 1983
+
+	**Abrogé par**:
+
+	  - Décret n°2000-318 du 7 avril 2000 - art. 4 (V)
+
+	**Cite**:
+
+	  - CODE DES COMMUNES. - art. R323-70 (Ab)
+	  - Code des communes R142-18
+
+
+###### Article R*142-29
+
+La dissolution de l'office de tourisme intercommunal est prononcée par arrêté du ou des commissaires de la République, en cas
+d'unanimité des conseils municipaux intéressés, dans les mêmes formes que pour l'office de tourisme communal.
+
+Au cas où il y a désaccord entre les conseils municipaux intéressés sur le principe de la dissolution de l'office, il
+appartient au ou aux commissaires de la République d'apprécier s'il y a lieu de dissoudre l'office de tourisme ou si celui-ci
+peut continuer à fonctionner avec la seule participation des communes favorables à son maintien.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°66-211 1966-04-05 ART. 20 AL. 2
+	  - Code des communes R142-20
+
+	**Codifié par**:
+
+	  - Décret n°77-91 1977-01-27
+
+	**Modifié par**:
+
+	  - Décret n°83-82 1983-02-09 ART. 25 JORF 11 FEVRIER 1983
+
+	**Abrogé par**:
+
+	  - Décret n°2000-318 du 7 avril 2000 - art. 4 (V)
+
+
 #### CHAPITRE 3 : Dispositions particulières aux diverses catégories de stations
 
 ##### SECTION 1 : Stations hydrominérales et climatiques
 
 ##### SOUS-SECTION 1 : Procédure de classement.
+
+###### Article R*143-1
+
+Le commissaire de la République [*attributions*] établit, soit d'office, soit à la demande des conseils municipaux, la liste
+des communes, fractions de communes ou groupes de communes qu'il estime devoir être classés comme stations hydrominérales ou
+climatiques, et fait procéder immédiatement [*délai*] à une enquête sur ce projet de classement.
+
+**Liens relatifs à cet article**
+
+	**Nouveaux textes**:
+
+	  - Code général des collectivités territoriales L
+	  - Code général des collectivités territoriales - art. R2231-1 (Ab)
+
+	**Anciens textes**:
+
+	  - Décret n°1920-05-04 ART. 1 AL. 1
+
+	**Codifié par**:
+
+	  - Décret n°77-91 1977-01-27
+
+	**Modifié par**:
+
+	  - Décret n°83-82 1983-02-09 ART. 25 JORF 11 FEVRIER 1983
+
+	**Abrogé par**:
+
+	  - Décret n°2000-318 du 7 avril 2000 - art. 4 (V)
+
+	**Cité par**:
+
+	  - CODE DES COMMUNES. - art. R*143-2 (Ab)
+
+
+###### Article R*143-2
+
+Il est procédé à l'enquête [*sur le projet de classement*] prévue à l'article précédent dans les formes ci-après :
+
+1° Le projet de création est déposé pendant trois jours [*durée*] à la mairie des communes intéressées et tenu à la
+disposition de toute personne désirant en prendre connaissance.
+
+Dans les trois jours qui suivent, un commissaire enquêteur, désigné par le commissaire de la République, se rend à la mairie
+et y reçoit pendant une journée les déclarations ou observations auxquelles peut donner lieu le projet de création. Les
+délais de trois et de un jour ci-dessus prévus ne courent que de la date de l'avertissement donné par voie de publication et
+d'affichage ; il est justifié de l'accomplissement de cette formalité par un certificat du maire ;
+
+2° Après avoir clos et signé le registre des déclarations, le commissaire enquêteur le transmet immédiatement au maire avec
+son avis motivé et tous documents relatifs à la proposition de création qui lui ont été remis au cours de l'enquête ;
+
+3° Le dossier de l'enquête est ensuite soumis au conseil municipal [*attributions*] qui doit, dans la huitaine, délibérer sur
+le projet. Faute par le conseil municipal de donner son avis dans les délais ci-dessus, il est passé outre.
+
+**Liens relatifs à cet article**
+
+	**Nouveaux textes**:
+
+	  - Code général des collectivités territoriales L
+	  - Code général des collectivités territoriales - art. R2231-2 (Ab)
+
+	**Anciens textes**:
+
+	  - Décret n°1920-05-04 ART. 1 AL. 2
+
+	**Codifié par**:
+
+	  - Décret n°77-91 1977-01-27
+
+	**Modifié par**:
+
+	  - Décret n°83-82 1983-02-09 ART. 25 JORF 11 FEVRIER 1983
+
+	**Abrogé par**:
+
+	  - Décret n°2000-318 du 7 avril 2000 - art. 4 (V)
+
+	**Cite**:
+
+	  - CODE DES COMMUNES. - art. R143-1 (M)
+
+
+###### Article R*143-3
+
+Les résultats de l'enquête [*sur le projet de classement*] avec l'avis du commissaire enquêteur et celui du conseil municipal
+sont transmis sans délai par le commissaire de la République au conseil départemental d'hygiène, qui donne son avis dans la
+quinzaine.
+
+Le commissaire de la République transmet ensuite le dossier au ministre chargé de la santé, après l'avoir soumis au conseil
+général conformément aux dispositions de l'article L. 142-3.
+
+**Liens relatifs à cet article**
+
+	**Nouveaux textes**:
+
+	  - Code général des collectivités territoriales L
+	  - Code général des collectivités territoriales - art. R2231-3 (Ab)
+
+	**Anciens textes**:
+
+	  - Décret n°1920-05-04 ART. 1 AL. 3 ET 4
+
+	**Codifié par**:
+
+	  - Décret n°77-91 1977-01-27
+
+	**Modifié par**:
+
+	  - Décret n°83-82 1983-02-09 ART. 25 JORF 11 FEVRIER 1983
+
+	**Abrogé par**:
+
+	  - Décret n°2000-318 du 7 avril 2000 - art. 4 (V)
+
+	**Cite**:
+
+	  - CODE DES COMMUNES. - art. L142-3 (Ab)
+
+
+###### Article R*143-4
+
+Le conseil général [*attributions*] délibère sur les projets de création de stations au cours de la réunion qui suit l'envoi
+du dossier par le commissaire de la République ; faute par lui de délibérer au cours de cette réunion, il est considéré comme
+ayant donné un avis favorable [*accord tacite*].
+
+**Liens relatifs à cet article**
+
+	**Nouveaux textes**:
+
+	  - Code général des collectivités territoriales - art. R2231-4 (Ab)
+	  - Code général des collectivités territoriales L
+
+	**Anciens textes**:
+
+	  - Décret n°1920-05-04 ART. 1 AL. 5 ET 6
+
+	**Codifié par**:
+
+	  - Décret n°77-91 1977-01-27
+
+	**Modifié par**:
+
+	  - Décret n°83-82 1983-02-09 ART. 25 JORF 11 FEVRIER 1983
+
+	**Abrogé par**:
+
+	  - Décret n°2000-318 du 7 avril 2000 - art. 4 (V)
+
 
 ###### Article R*143-5
 
@@ -48748,6 +49738,141 @@ l'intérieur ; le décret prévu à cet alinéa est contresigné par les deux mi
 
 ##### SOUS-SECTION 2 : Groupes de communes érigés en stations hydrominérales et climatiques.
 
+###### Article R*143-10
+
+Lorsqu'une station hydrominérale ou climatique s'étend sur un groupe de communes, elle est gérée :
+
+- soit par un syndicat de communes[*attributions*], institué conformément aux dispositions du chapitre III du titre VI, dont
+il appartient au commissaire de la République de provoquer la constitution ;
+
+- soit, à défaut de syndicat de communes, au moyen de conférences intercommunales créées conformément aux dispositions de
+l'article L. 161-2.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CODE DES COMMUNES. - art. L161-2 (M)
+	  - Code des communes L161-2, L163-1 A L163-18
+
+	**Nouveaux textes**:
+
+	  - Code général des collectivités territoriales - art. R2231-10 (Ab)
+	  - Code général des collectivités territoriales L
+
+	**Anciens textes**:
+
+	  - Décret n°1920-05-04 COMPLETE ART. 87 AL. 1 (PARTIE)
+
+	**Codifié par**:
+
+	  - Décret n°77-91 1977-01-27
+
+	**Modifié par**:
+
+	  - Décret n°83-82 1983-02-09 ART. 25 JORF 11 FEVRIER 1983
+
+	**Abrogé par**:
+
+	  - Décret n°2000-318 du 7 avril 2000 - art. 4 (V)
+
+
+###### Article R*143-11
+
+Dans les conférences [*intercommunales*] prévues à l'article précédent, chaque conseil municipal est représenté par une
+commission spéciale instituée à cet effet et composée de trois membres [*nombre*] désignés au scrutin secret.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°77-91 1977-01-27
+
+	**Modifié par**:
+
+	  - Décret n°83-82 1983-02-09 ART. 26 JORF 11 FEVRIER 1983
+
+	**Abrogé par**:
+
+	  - Décret n°2000-318 du 7 avril 2000 - art. 4 (V)
+
+	**Cite**:
+
+	  - Code des communes L143-10
+
+	**Nouveaux textes**:
+
+	  - Code général des collectivités territoriales - art. R2231-11 (Ab)
+	  - Code général des collectivités territoriales L
+
+	**Anciens textes**:
+
+	  - Décret n°1920-05-04 COMPLETE ART. 87 AL. 1 (PARTIE) ET 2
+
+
+###### Article R*143-13
+
+Les conférences intercommunales élisent leur président et leur secrétaire.
+
+Elles sont convoquées par leur président, à son initiative ou à la demande d'au moins la moitié de leurs membres.
+
+**Liens relatifs à cet article**
+
+	**Nouveaux textes**:
+
+	  - Code général des collectivités territoriales L
+	  - Code général des collectivités territoriales - art. R2231-13 (Ab)
+
+	**Anciens textes**:
+
+	  - Décret n°1920-05-04 COMPLETE ART. 87 AL. 4
+
+	**Codifié par**:
+
+	  - Décret n°77-91 1977-01-27
+
+	**Modifié par**:
+
+	  - Décret n°83-82 1983-02-09 ART. 27 JORF 11 FEVRIER 1983
+
+	**Abrogé par**:
+
+	  - Décret n°2000-318 du 7 avril 2000 - art. 4 (V)
+
+
+###### Article R*143-14
+
+Les conférences intercommunales ne peuvent délibérer que si la moitié des membres en exercice assistent à la séance
+[*quorum*].
+
+Les délibérations sont prises à la majorité absolue des votants [*conditions*].
+
+Elles sont adressées dans la huitaine [*délai*] aux maires des communes groupées.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°77-91 1977-01-27
+
+	**Modifié par**:
+
+	  - Décret n°83-82 1983-02-09 ART. 28 JORF 11 FEVRIER 1983
+
+	**Abrogé par**:
+
+	  - Décret n°2000-318 du 7 avril 2000 - art. 4 (V)
+
+	**Nouveaux textes**:
+
+	  - Code général des collectivités territoriales - art. R2231-14 (Ab)
+	  - Code général des collectivités territoriales L
+
+	**Anciens textes**:
+
+	  - Décret n°1920-05-04 COMPLETE ART. 87 AL. 5
+
+
 ###### Article R143-12
 
 Les commissions composant les conférences intercommunales sont renouvelées [*fréquence*] après chaque renouvellement des
@@ -48843,6 +49968,42 @@ Les décisions prises par les conférences intercommunales sont exécutoires dan
 
 ##### SECTION 2 : Stations uvales.
 
+###### Article R*143-17
+
+Toute demande de création d'une station uvale est adressée au commissaire de la République [*compétence*] qui en donne
+récépissé.
+
+Cette demande est instruite dans les conditions fixées pour les stations hydrominérales et climatiques par les dispositions
+des articles R. 143-2 à R. 143-4.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code des communes R143-2 A R143-4
+
+	**Nouveaux textes**:
+
+	  - Code général des collectivités territoriales - art. R2231-17 (Ab)
+	  - Code général des collectivités territoriales L
+
+	**Anciens textes**:
+
+	  - Décret n°1935-10-25 ART. 1 AL. 1
+
+	**Codifié par**:
+
+	  - Décret n°77-91 1977-01-27
+
+	**Modifié par**:
+
+	  - Décret n°83-82 1983-02-09 ART. 29 JORF 11 FEVRIER 1983
+
+	**Abrogé par**:
+
+	  - Décret n°2000-318 du 7 avril 2000 - art. 4 (V)
+
+
 ###### Article R143-18
 
 Les autres dispositions [*relatives aux stations hydrominérales et climatiques*] de la section I du présent chapitre sont
@@ -48879,6 +50040,87 @@ applicables aux stations uvales.
 ##### SECTION 3 : Stations de tourisme
 
 ##### SOUS-SECTION 1 : Procédure de classement.
+
+###### Article R*143-19
+
+Toute demande de création d'une station de tourisme présentée par les collectivités locales intéressées conformément à
+l'article L. 142-1 ou par les associations de tourisme conformément à l'article L. 143-1 est adressée au commissaire de la
+République [*compétence*] qui en donne récépissé.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°77-91 1977-01-27
+
+	**Modifié par**:
+
+	  - Décret n°83-82 1983-02-09 ART. 29 JORF 11 FEVRIER 1983
+
+	**Abrogé par**:
+
+	  - Décret n°2000-318 du 7 avril 2000 - art. 4 (V)
+
+	**Cite**:
+
+	  - CODE DES COMMUNES. - art. L142-1 (Ab)
+	  - CODE DES COMMUNES. - art. L143-1 (M)
+
+	**Nouveaux textes**:
+
+	  - Code général des collectivités territoriales - art. R2231-58 (Ab)
+	  - Code général des collectivités territoriales L
+
+	**Anciens textes**:
+
+	  - Décret n°1920-05-04 ART. 46 AL. 1
+
+
+###### Article R*143-20
+
+La demande de création fait ensuite l'objet d'une enquête à laquelle il est procédé dans les formes prévues pour la création
+des stations hydrominérales et climatiques.
+
+Après cette enquête, la proposition de création de la station de tourisme est adressée au commissaire de la République, qui
+la transmet au ministre chargé du tourisme après l'avoir, conformément aux dispositions de l'article L. 142-3, soumise pour
+avis au conseil général ou à la commission départementale, qui doivent statuer dans les conditions et délais prévus pour les
+stations hydrominérales ou climatiques.
+
+Le dossier est ensuite transmis à la commission départementale des sites, perspectives et paysages, et au conseil
+départemental d'hygiène qui délibèrent dans la quinzaine qui suit la communication qui leur est faite du projet. A défaut, il
+est passé outre.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°77-91 1977-01-27
+
+	**Modifié par**:
+
+	  - Décret n°83-82 1983-02-09 ART. 29 JORF 11 FEVRIER 1983
+
+	**Abrogé par**:
+
+	  - Décret n°2000-318 du 7 avril 2000 - art. 4 (V)
+
+	**Cite**:
+
+	  - CODE DES COMMUNES. - art. L142-3 (Ab)
+
+	**Cité par**:
+
+	  - CODE DES COMMUNES. - art. R143-21 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code général des collectivités territoriales - art. R2231-59 (Ab)
+	  - Code général des collectivités territoriales L
+
+	**Anciens textes**:
+
+	  - Décret n°1920-05-04 ART. 46 AL. 2 ET SUIVANTS
+
 
 ###### Article R*143-22
 
@@ -49101,6 +50343,81 @@ concernant les groupes de communes érigés en stations hydrominérales et clima
 
 
 ##### SECTION 5 : Stations de sports d'hiver et d'alpinisme.
+
+###### Article R*143-30
+
+La demande de classement [*procédure*] en station de sports d'hiver et d'alpinisme est adressée par les collectivités
+intéressées au commissaire de la République qui en donne récépissé.
+
+La demande est accompagnée d'une fiche de renseignements faisant apparaître les caractéristiques de la station telles
+qu'elles sont mentionnées à l'article R. 143-28.
+
+**Liens relatifs à cet article**
+
+	**Nouveaux textes**:
+
+	  - Code général des collectivités territoriales L
+	  - Code général des collectivités territoriales - art. R2231-24 (Ab)
+
+	**Anciens textes**:
+
+	  - Décret n°68-1031 1968-11-14 ART. 4 AL. 1
+
+	**Codifié par**:
+
+	  - Décret n°77-91 1977-01-27
+
+	**Modifié par**:
+
+	  - Décret n°83-82 1983-02-09 ART. 29 JORF 11 FEVRIER 1983
+
+	**Abrogé par**:
+
+	  - Décret n°2000-318 du 7 avril 2000 - art. 4 (V)
+
+	**Cite**:
+
+	  - CODE DES COMMUNES. - art. R143-28 (Ab)
+
+
+###### Article R*143-31
+
+La demande de classement fait l'objet [*conditions*] d'une enquête à laquelle il est procédé dans les formes établies par les
+articles R. 11-3 à R. 11-13 du code de l'expropriation pour cause d'utilité publique.
+
+Sans préjudice des dispositions de l'article L. 142-3 [*avis du conseil général et avis favorable du conseil municipal*] le
+commissaire de la République transmet le dossier de classement au ministre chargé du tourisme après avis de la commission
+départementale de l'équipement [*compétence, consultations*].
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CODE DES COMMUNES. - art. L142-3 (Ab)
+	  - Code de l'expropriation pour cause d'utilité publique R11-3 A R11-13
+	  - Décret n°59-701 1959-06-06 TITRE I
+
+	**Nouveaux textes**:
+
+	  - Code général des collectivités territoriales - art. R2231-25 (Ab)
+	  - Code général des collectivités territoriales L
+
+	**Anciens textes**:
+
+	  - Décret n°68-1031 1968-11-14 ART. 4 AL. 2
+
+	**Codifié par**:
+
+	  - Décret n°77-91 1977-01-27
+
+	**Modifié par**:
+
+	  - Décret n°83-82 1983-02-09 ART. 29 JORF 11 FEVRIER 1983
+
+	**Abrogé par**:
+
+	  - Décret n°2000-318 du 7 avril 2000 - art. 4 (V)
+
 
 ###### Article R143-28
 
@@ -49503,7 +50820,264 @@ commune comporte pour chacune des communes associées une section dotée de la p
 
 ### TITRE 6 : Intérêts communs à plusieurs communes
 
+#### CHAPITRE 2 : Biens et droits indivis entre plusieurs communes.
+
+###### Article R*162-1
+
+La décision portant création de la commission syndicale, prévue à l'article L. 162-1, chargée de l'administration des droits
+indivis entre plusieurs communes, est prise par le commissaire de la République lorsqu'elles font partie du même département.
+
+Lorsque les communes intéressées appartiennent à des départements différents, l'arrêté ministériel prévu à l'article L. 162-1
+est pris par le ministre de l'intérieur [*compétence*].
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - SPEC_APPLI: *Dispositions non applicables aux communes des départements de la Moselle, du Bas-Rhin et du Haut-Rhin (Alsace-Lorraine)*
+	  - SPEC_APPLI: Code des communes R181-1 :
+
+	**Cite**:
+
+	  - CODE DES COMMUNES. - art. L162-1 (M)
+
+	**Anciens textes**:
+
+	  - Code de l'administration communale 138 AL. 2 (PARTIE)
+
+	**Codifié par**:
+
+	  - Décret n°77-91 1977-01-27
+
+	**Modifié par**:
+
+	  - Décret n°83-82 1983-02-09 ART. 31 JORF 11 FEVRIER 1983
+
+	**Abrogé par**:
+
+	  - Décret n°2000-318 du 7 avril 2000 - art. 4 (V)
+
+	**Nouveaux textes**:
+
+	  - Code général des collectivités territoriales L
+
+
+###### Article R*162-2
+
+Lorsque les conseils municipaux appartiennent à des départements différents, l'arrêté ministériel prévu à l'article L. 162-3
+est pris par le ministre de l'intérieur.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - SPEC_APPLI: *Dispositions non applicables aux communes des départements de la Moselle, du Bas-Rhin et du Haut-Rhin (Alsace-Lorraine)*
+	  - SPEC_APPLI: Code des communes R181-1 :
+
+	**Anciens textes**:
+
+	  - Code de l'administration communale 140 AL. 1, 2, 3 (PARTIE)
+
+	**Nouveaux textes**:
+
+	  - Code général des collectivités territoriales L
+
+	**Codifié par**:
+
+	  - Décret n°77-91 1977-01-27
+
+	**Modifié par**:
+
+	  - Décret n°83-82 1983-02-09 ART. 32 JORF 11 FEVRIER 1983
+
+	**Abrogé par**:
+
+	  - Décret n°2000-318 du 7 avril 2000 - art. 4 (V)
+
+	**Cite**:
+
+	  - CODE DES COMMUNES. - art. L162-3 (M)
+
+
+#### CHAPITRE 3 : Syndicats de communes
+
+##### SECTION 1 : Création du syndicat.
+
+###### Article R*163-1
+
+L'arrêté d'autorisation prévu à l'article L. 163-2 est pris par le commissaire de la République du département lorsque les
+communes appartiennent au même département et par arrêté conjoint des commissaires de la République intéressés, dans le cas
+contraire [*plusieurs départements*].
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°70-218 1970-03-17 ART. 2
+
+	**Codifié par**:
+
+	  - Décret n°77-91 1977-01-27
+
+	**Modifié par**:
+
+	  - Décret n°83-82 1983-02-09 ART. 33 JORF 11 FEVRIER 1983
+
+	**Abrogé par**:
+
+	  - Loi n°96-142 du 21 février 1996 - art. 12 (V)
+
+	**Cite**:
+
+	  - CODE DES COMMUNES. - art. L163-2 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code général des collectivités territoriales - art. L5212-3 (Ab)
+
+
+##### SECTION 3 : Modification aux conditions initiales de composition et de fonctionnement du syndicat.
+
+###### Article R*163-4
+
+L'autorité, qualifiée mentionnée à l'article L. 163-15, compétente pour prendre la décision d'admission d'une commune au
+syndicat est le ou les commissaires de la République intéressés.
+
+**Liens relatifs à cet article**
+
+	**Nouveaux textes**:
+
+	  - Code général des collectivités territoriales L
+
+	**Codifié par**:
+
+	  - Décret n°77-91 1977-01-27
+
+	**Cite**:
+
+	  - CODE DES COMMUNES. - art. L163-15 (M)
+
+	**Anciens textes**:
+
+	  - Décret n°80-218 1980-03-17 ART. 4
+
+	**Modifié par**:
+
+	  - Décret n°83-82 1983-02-09 ART. 35 JORF 11 FEVRIER 1983
+
+	**Abrogé par**:
+
+	  - Décret n°2000-318 du 7 avril 2000 - art. 4 (V)
+
+
+###### Article R*163-5
+
+L'autorité qualifiée, mentionnée à l'article L. 163-16, compétente pour prendre la décision de retrait d'une commune et la
+décision d'extension des attributions et de modification des conditions initiales de fonctionnement ou de durée du syndicat
+est le ou les commissaires de la République intéressés.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Code de l'administration communale 147 REMPLACE
+
+	**Nouveaux textes**:
+
+	  - Code général des collectivités territoriales L
+
+	**Codifié par**:
+
+	  - Décret n°77-91 1977-01-27
+
+	**Modifié par**:
+
+	  - Décret n°83-82 1983-02-09 ART. 35 JORF 11 FEVRIER 1983
+
+	**Abrogé par**:
+
+	  - Décret n°2000-318 du 7 avril 2000 - art. 4 (V)
+
+	**Cite**:
+
+	  - CODE DES COMMUNES. - art. L163-16 (M)
+
+
+##### SECTION 4 : Durée du syndicat.
+
+###### Article R*163-6
+
+Lorsque la dissolution d'un syndicat de communes intervient, en application du troisième alinéa de l'article L. 163-18, à la
+demande de la majorité des conseils municipaux, elle est prononcée par arrêté du ou des commissaires de la République
+intéressés [*compétence, conditions de forme*].
+
+Cet arrêté détermine, sous la réserve des droits des tiers, les conditions dans lesquelles le syndicat est liquidé.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°70-218 1970-03-17 ART. 6
+
+	**Codifié par**:
+
+	  - Décret n°77-91 1977-01-27
+
+	**Modifié par**:
+
+	  - Décret n°83-82 1983-02-09 ART. 35 JORF 11 FEVRIER 1983
+
+	**Abrogé par**:
+
+	  - Loi n°96-142 du 21 février 1996 - art. 12 (V)
+
+	**Cite**:
+
+	  - CODE DES COMMUNES. - art. L163-18 (M)
+
+	**Nouveaux textes**:
+
+	  - Code général des collectivités territoriales - art. L5212-33 (V)
+	  - Code général des collectivités territoriales - art. L5212-33 (M)
+
+
 #### CHAPITRE 4 : Districts.
+
+###### Article R*164-1
+
+La décision institutive [*création*] d'un district, prévue à l'article L. 164-1, est prise par arrêté du commissaire de la
+République lorsque les communes font partie du même département et par arrêté conjoint des commissaires de la République
+intéressés dans le cas contraire [*compétence, conditions de forme*].
+
+La liste des communes intéressées est fixée par le ou les commissaires de la République.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Ordonnance 59-30 1959-01-05
+	  - Décret n°70-217 1970-03-17 ART. 3
+
+	**Codifié par**:
+
+	  - Décret n°77-91 1977-01-27
+
+	**Modifié par**:
+
+	  - Décret n°83-82 1983-02-09 ART. 36 JORF 11 FEVRIER 1983
+
+	**Abrogé par**:
+
+	  - Loi n°96-142 du 21 février 1996 - art. 12 (V)
+
+	**Cite**:
+
+	  - CODE DES COMMUNES. - art. L164-1 (M)
+
+	**Nouveaux textes**:
+
+	  - Code général des collectivités territoriales - art. L5213-3 (Ab)
+
 
 ###### Article R*164-2
 
@@ -49565,6 +51139,68 @@ mentionnés au 2° de l'article L. 164-4 sont créés en application des article
 	**Créé par**:
 
 	  - Décret n°77-91 1977-01-27 JORF ET JONC 3 février 1977 date d'entrée en vigueur élection des maires
+
+	**Abrogé par**:
+
+	  - Décret n°2000-318 du 7 avril 2000 - art. 4 (V)
+
+
+###### Article R*164-4
+
+Dans les cas [*modification des conditions initiales de fonctionnement ou de durée du district ou extension de ses
+attributions*] prévus à l'article L. 164-7, la décision de l'autorité qualifiée est prise sous la forme d'un arrêté du
+commissaire de la République lorsque les communes font partie du même département et d'un arrêté conjoint des commissaires de
+la République dans le cas contraire [*compétence*].
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Ordonnance 59-30 1959-01-05 ART. 4 REMPLACE (PARTIE)
+
+	**Codifié par**:
+
+	  - Décret n°77-91 1977-01-27
+
+	**Modifié par**:
+
+	  - Décret n°83-82 1983-02-09 ART. 37 JORF 11 FEVRIER 1983
+
+	**Abrogé par**:
+
+	  - Loi n°96-142 du 21 février 1996 - art. 12 (V)
+
+	**Cite**:
+
+	  - CODE DES COMMUNES. - art. L164-7 (M)
+
+
+###### Article R*164-5
+
+Lorsque des règles différentes régissent le contrôle administratif des communes suivant l'importance de leur population, la
+population de l'ensemble des communes formant le district entre en ligne de compte pour déterminer les règles qu'il y a lieu
+d'appliquer.
+
+Dans le cas où le district s'étend sur plusieurs départements, le contrôle administratif est exercé par le commissaire de la
+République du département auquel appartient la commune siège du district [*compétence*].
+
+**Liens relatifs à cet article**
+
+	**Nouveaux textes**:
+
+	  - Code général des collectivités territoriales L
+
+	**Anciens textes**:
+
+	  - Ordonnance 59-30 1959-01-05 ART. 6 AL. 3 PHR. 2 ET AL. 4
+
+	**Codifié par**:
+
+	  - Décret n°77-91 1977-01-27
+
+	**Modifié par**:
+
+	  - Décret n°83-82 1983-02-09 ART. 38 JORF 11 FEVRIER 1983
 
 	**Abrogé par**:
 
@@ -51544,6 +53180,125 @@ commune, le jour de la première réunion du conseil municipal [*date*] .
 
 ### TITRE 8 : Dispositions particulières
 
+#### CHAPITRE 1 : Dispositions applicables aux communes des départements de la Moselle, du Bas-Rhin et du Haut-Rhin
+
+##### SECTION 1 : Dispositions générales.
+
+###### Article R*181-1
+
+Sont applicables à l'ensemble des communes des départements de la Moselle, du Bas-Rhin et du Haut-Rhin :
+
+1° Les dispositions [*relatives aux nom, limites territoriales et populations des communes, aux organes de la commune, à la
+police, aux stations classées, aux intérêts propres à certaines catégories d'habitants, aux intérêts communs à plusieurs
+communes et aux agglomérations nouvelles*] des titres Ier à VII du présent livre, à l'exception des articles R. 121-7 et R.
+121-8, R. 121-19 et R. 122-11, R. 132-1, R. 132-3, R. 162-1 et R. 162-2 ;
+
+2° Les dispositions des sections II à VI du présent chapitre.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°77-91 1977-01-27
+
+	**Modifié par**:
+
+	  - Décret n°83-82 1983-02-09 ART. 39 JORF 11 FEVRIER 1983
+
+	**Abrogé par**:
+
+	  - Décret n°2000-318 du 7 avril 2000 - art. 4 (V)
+
+
+##### SECTION 2 : Le conseil municipal.
+
+###### Article R*181-2
+
+Dans le cas prévu à l'article L. 181-7, le procès-verbal des opérations de vérification des comptes du maire par le conseil
+municipal est établi et adressé directement par le président au préfet ou au sous-préfet.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°77-91 1977-01-27
+
+	**Modifié par**:
+
+	  - Décret n°83-82 1983-02-09 ART. 40 JORF 11 FEVRIER 1983
+
+	**Abrogé par**:
+
+	  - Décret n°2000-318 du 7 avril 2000 - art. 4 (V)
+
+	**Cite**:
+
+	  - CODE DES COMMUNES. - art. L181-7 (Ab)
+
+
+##### SECTION 6 : Intérêts communs
+
+##### SOUS-SECTION 1 : Ententes et conférences intercommunales.
+
+###### Article R*181-5
+
+Dans le cas de création d'une commission syndicale[*pour l'exécution en commun de canalisations d'eau, de travaux de drainage
+et d'irrigations*], le ministre de l'intérieur exerce les attributions du commissaire de la République.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°77-91 1977-01-27
+
+	**Modifié par**:
+
+	  - Décret n°83-82 1983-02-09 ART. 42 JORF 11 FEVRIER 1983
+
+	**Abrogé par**:
+
+	  - Décret n°2000-318 du 7 avril 2000 - art. 4 (V)
+
+	**Anciens textes**:
+
+	  - Loi n°1902-06-11 ART. 1 AL. 2, LOCALE, ALSACE ET LORRAINE
+
+
+##### SOUS-SECTION 2 : Administration du patrimoine possédé indivisément par plusieurs communes.
+
+###### Article R*181-6
+
+La décision qui porte création de la commission syndicale [*instituée pour l'administration de ce patrimoine*] prévue à
+l'article L. 181-58 et fixe le nombre de délégués à nommer par chaque conseil municipal est prise par arrêté du commissaire
+de la République [*conditions de forme, compétence*].
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°77-91 1977-01-27
+
+	**Modifié par**:
+
+	  - Décret n°83-82 1983-02-09 ART. 43 JORF 11 FEVRIER 1983
+
+	**Abrogé par**:
+
+	  - Loi n°96-142 du 21 février 1996 - art. 12 (V)
+
+	**Cite**:
+
+	  - CODE DES COMMUNES. - art. L181-58 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code général des collectivités territoriales - art. L5816-2 (V)
+
+	**Anciens textes**:
+
+	  - Loi n°1897-07-07 ART. 7 AL. 1 (PARTIE), LOCALE, ALSACE ET LORRAINE
+
+
 #### CHAPITRE 2 : Dispositions applicables aux communes des départements d'Outre-mer
 
 ##### SECTION 1 : Dispositions applicables aux communes des départements de la Guadeloupe, de la Guyane, de la Martinique et de la Réunion .
@@ -51642,6 +53397,42 @@ Titre VI, chapitre V "Communautés urbaines" [*R 165-1 à R. 165-14*].
 	**Cite**:
 
 	  - Code des communes R153-1 à R153-3
+
+
+#### CHAPITRE 3 : Dispositions applicables aux communes des départements des Hauts-de-Seine, de la Seine-Saint-Denis et du Val-de-Marne .
+
+###### Article R*183-1
+
+Les commissaires de la République des Hauts-de-Seine, de la Seine-Saint-Denis et du Val-de-Marne sont investis :
+
+1° Dans leur département, des pouvoirs et attributions [*définis par la loi des 10-15 juin 1953 modifiée*] mentionnés à
+l'article L. 183-1 ;
+
+2° Dans les communes de leur département, des compétences [*en matière de liberté et de sécurité de la voie publique sur les
+routes à grande circulation*] prévues au deuxième alinéa de l'article L. 183-2 dans les limites qui y sont définies.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°71-606 1971-07-20 ART. 2
+
+	**Codifié par**:
+
+	  - Décret n°77-91 1977-01-27
+
+	**Modifié par**:
+
+	  - Décret n°83-82 1983-02-09 ART. 45 JORF 11 FEVRIER 1983
+
+	**Abrogé par**:
+
+	  - Décret n°2000-318 du 7 avril 2000 - art. 4 (V)
+
+	**Cite**:
+
+	  - Code des communes L183-1 ET L183-2 AL. 2
+	  - Loi n°1953-06-10 MODIFIEE
 
 
 #### CHAPITRE 4 : Dispositions applicables à la ville de Paris
@@ -52601,297 +54392,6 @@ Le nombre des adjoints de la ville de Marseille est fixé à 9, à raison d'un p
 
 #### Limites territoriales, chef-lieu et fusion des communes
 
-##### Dispositions générales
-
-###### Article R*112-2
-
-Les contestations portant sur la délimitation des communes sont tranchées par le préfet [*compétence*] lorsqu'elles
-intéressent les communes d'un même département. 
-
-Elles le sont par décret [*conditions de forme*] lorsqu'elles intéressent les communes de deux [*nombre*] départements.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°59-189 1959-01-22 art. 8
-	  - Ordonnance 1821-10-03 art. 3 al. 2
-
-	**Codifié par**:
-
-	  - Décret n°77-91 1977-01-27
-
-	**Créé par**:
-
-	  - Décret n°77-91 1977-01-27 JORF et JONC 3 février 1977 date d'entrée en vigueur élection des maires
-
-
-###### Article R112-3
-
-//Modifié par le décret n° 78-285 du 9 mars 1978,    Ancien texte :
-
-Mention est faite au Journal officiel des arrêtés préfectoraux portant création, rattachement, fusion ou suppression de
-communes [*publicité*].
-
-Nouveau texte :
-
-Les arrêtés préfectoraux portant modification aux limites territoriales des communes sont publiés au recueil des actes
-administratifs du département. 
-
-Mention est faite au Journal officiel des arrêtés préfectoraux portant création ou suppression de communes.//
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°1947-02-28 art. 1 remplacé
-
-	**Codifié par**:
-
-	  - Décret n°77-91 1977-01-27
-
-	**Créé par**:
-
-	  - Décret n°77-91 1977-01-27 JORF et JONC 3 février 1977 date d'entrée en vigueur élection des maires
-
-	**Nouveaux textes**:
-
-	  - Code général des collectivités territoriales - art. D2112-1 (M)
-
-
-##### Fusion de communes
-
-##### Dispositions communes
-
-###### Article R112-4
-
-Les électeurs appelés à se prononcer sur l'opportunité d'une fusion de communes [*modalités*] en application de l'article L.
-112-2 sont convoqués par arrêté préfectoral, publié dans les communes concernées au moins trois semaines avant la date du
-scrutin. 
-
-Dans le cas où la consultation est demandée par des conseils municipaux suivant les dispositions prévues au premier alinéa de
-l'article L. 112-2, le préfet constate, au vu des délibérations des conseils municipaux des communes concernées par le projet
-de fusion, que les conditions requises par lesdites dispositions sont réunies. La consultation est organisée dans le cadre
-intercommunal défini par les délibérations des conseils municipaux s'associant à la demande de consultation des électeurs.
-
-**Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - SPEC_APPLI: *Dispositions non applicables aux communes des départements de la Guadeloupe, de la Guyane, de la Martinique, de la Réunion et de Saint-Pierre-et-Miquelon*
-	  - SPEC_APPLI: Code des communes R182-1, R182-3 :
-
-	**Anciens textes**:
-
-	  - Décret n°72-109 1972-02-03 art. 1 al. 1 et 2
-
-	**Codifié par**:
-
-	  - Décret n°77-91 1977-01-27
-
-	**Créé par**:
-
-	  - Décret n°77-91 1977-01-27 JORF et JONC 3 février 1977 date d'entrée en vigueur élection des maires
-
-	**Cite**:
-
-	  - CODE DES COMMUNES. - art. L112-2 (M)
-
-	**Cité par**:
-
-	  - CODE DES COMMUNES. - art. R112-16 (Ab)
-	  - CODE DES COMMUNES. - art. R112-5 (Ab)
-
-	**Nouveaux textes**:
-
-	  - Code général des collectivités territoriales - art. D2113-1 (T)
-
-
-###### Article R112-6
-
-Dans le cas de la consultation [*sur l'opportunité d'une fusion de communes, modalités*] prévue à l'article L. 112-2, les
-électeurs ont à se prononcer par Oui ou par Non sur l'opportunité de la fusion de communes. A cet effet, il est mis à leur
-disposition deux bulletins de vote imprimés sur papier blanc dont l'un porte la réponse Oui et l'autre la réponse non. Ces
-bulletins sont envoyés par la préfecture à chaque électeur. A cet envoi est joint le texte de l'arrêté préfectoral prévu à
-l'article précédent. 
-
-Dans le cas où la consultation a été demandée par les conseils municipaux, l'envoi comprend également le texte des
-délibérations des conseils municipaux des communes concernées par le projet de fusion ainsi que l'avis du conseil général si
-celui-ci a été appelé à se prononcer sur ledit projet par application des dispositions en vigueur.
-
-**Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - SPEC_APPLI: *Dispositions non applicables aux communes des départements de la Guadeloupe, de la Guyane, de la Martinique, de la Réunion et de Saint-Pierre-et-Miquelon*
-	  - SPEC_APPLI: Code des communes R182-1, R182-3 :
-
-	**Anciens textes**:
-
-	  - Décret n°72-109 1972-02-03 art. 2
-
-	**Codifié par**:
-
-	  - Décret n°77-91 1977-01-27
-
-	**Créé par**:
-
-	  - Décret n°77-91 1977-01-27 JORF et JONC 3 février 1977 date d'entrée en vigueur élection des maires
-
-	**Cite**:
-
-	  - CODE DES COMMUNES. - art. L112-2 (M)
-
-	**Nouveaux textes**:
-
-	  - Code général des collectivités territoriales - art. D2113-3 (T)
-
-
-###### Article R112-12
-
-Dans chaque commune, les résultats [*de la consultation sur l'opportunité d'une fusion, modalités*] sont consignés dans un
-procès-verbal rédigé en double exemplaire ; l'un des exemplaires reste déposé au secrétariat de la mairie, l'autre est
-transmis immédiatement [**]délai[**] au préfet.
-
-**Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - SPEC_APPLI: *Dispositions non applicables aux communes des départements de la Guadeloupe, de la Guyane, de la Martinique, de la Réunion et de Saint-Pierre-et-Miquelon*
-	  - SPEC_APPLI: Code des communes R182-1, R182-3 :
-
-	**Anciens textes**:
-
-	  - Décret n°72-109 1972-02-03 art. 8
-
-	**Codifié par**:
-
-	  - Décret n°77-91 1977-01-27
-
-	**Créé par**:
-
-	  - Décret n°77-91 1977-01-27 JORF et JONC 3 février 1977 date d'entrée en vigueur élection des maires
-
-	**Nouveaux textes**:
-
-	  - Code général des collectivités territoriales - art. R2113-9 (V)
-
-
-###### Article R112-13
-
-Au vu des procès-verbaux communaux, le préfet totalise et constate les résultats de la consultation [*sur l'opportunité de la
-fusion*] pour l'ensemble des communes concernées ; il en dresse procès-verbal notifié aux maires des communes intéressées et
-en fait assurer la publication dans chacune de ces communes.
-
-**Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - SPEC_APPLI: *Dispositions non applicables aux communes des départements de la Guadeloupe, de la Guyane, de la Martinique, de la Réunion et de Saint-Pierre-et-Miquelon*
-	  - SPEC_APPLI: Code des communes R182-1, R182-3 :
-
-	**Anciens textes**:
-
-	  - Décret n°72-109 1972-02-03 art. 9
-
-	**Codifié par**:
-
-	  - Décret n°77-91 1977-01-27
-
-	**Créé par**:
-
-	  - Décret n°77-91 1977-01-27 JORF et JONC 3 février 1977 date d'entrée en vigueur élection des maires
-
-	**Cité par**:
-
-	  - CODE DES COMMUNES. - art. R*112-14 (Ab)
-	  - CODE DES COMMUNES. - art. R112-16 (Ab)
-
-	**Nouveaux textes**:
-
-	  - Code général des collectivités territoriales - art. D2113-10 (T)
-
-
-###### Article R112-14
-
-Les recours formés par les électeurs en application de l'article L. 112-3 doivent être déposés sous peine de nullité au
-greffe du tribunal administratif (bureau central ou greffe annexe) au plus tard dans les cinq jours qui suivent la
-publication des résultats [*de la consultation sur l'opportunité de la fusion*] prévue à l'article précédent. 
-
-Le recours formé par le préfet dans les conditions prévues à l'article L. 248 du code électoral est exercé dans le délai de
-quinzaine à dater de la réception du procès-verbal [*communal dans lequel sont consignés les résultats de la consultation*].
-
-**Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - SPEC_APPLI: *Dispositions non applicables aux communes des départements de la Guadeloupe, de la Guyane, de la Martinique, de la Réunion et de Saint-Pierre-et-Miquelon*
-	  - SPEC_APPLI: Code des communes R182-1, R182-3 :
-
-	**Anciens textes**:
-
-	  - Décret n°72-109 1972-02-03 art. 10 al. 1 et 2 (partie)
-
-	**Codifié par**:
-
-	  - Décret n°77-91 1977-01-27
-
-	**Créé par**:
-
-	  - Décret n°77-91 1977-01-27 JORF et JONC 3 février 1977 date d'entrée en vigueur élection des maires
-
-	**Cite**:
-
-	  - CODE DES COMMUNES. - art. L112-3 (M)
-	  - CODE DES COMMUNES. - art. R112-13 (M)
-	  - Code électoral - art. L248 (V)
-
-	**Nouveaux textes**:
-
-	  - Code général des collectivités territoriales - art. R2113-11 (V)
-
-
-###### Article R112-16
-
-Dans le cas où le projet de fusion concerne des communes situées dans des départements différents, les électeurs sont
-convoqués par arrêté conjoint des préfets des départements intéressés, suivant les conditions définies aux articles R. 112-4
-et R. 112-5. 
-
-Les résultats des scrutins communaux sont centralisés par le préfet [*compétence*] du département où sont situées la ou les
-communes totalisant le plus grand nombre d'électeurs inscrits. La notification et la publication des résultats de la
-consultation, telles qu'elles sont prévues à l'article R. 112-13, sont effectuées à la diligence de chacun des préfets des
-départements concernés.
-
-**Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - SPEC_APPLI: *Dispositions non applicables aux communes des départements de la Guadeloupe, de la Guyane, de la Martinique, de la Réunion et de Saint-Pierre-et-Miquelon*
-	  - SPEC_APPLI: Code des communes R182-1, R182-3 :
-
-	**Anciens textes**:
-
-	  - Décret n°72-109 1972-02-03 art. 11
-
-	**Codifié par**:
-
-	  - Décret n°77-91 1977-01-27
-
-	**Créé par**:
-
-	  - Décret n°77-91 1977-01-27 JORF et JONC 3 février 1977 date d'entrée en vigueur élection des maires
-
-	**Cite**:
-
-	  - CODE DES COMMUNES. - art. R112-13 (M)
-	  - CODE DES COMMUNES. - art. R112-4 (M)
-	  - CODE DES COMMUNES. - art. R112-5 (Ab)
-
-	**Nouveaux textes**:
-
-	  - Code général des collectivités territoriales - art. D2113-13 (Ab)
-
-
 ##### Modifications aux limites territoriales des communes
 
 ###### Article R*112-19
@@ -52899,53 +54399,53 @@ départements concernés.
 Les modifications aux limites territoriales des communes [*formalités*] et le transfert de leurs chefs-lieux sont décidés
 après enquête dans les communes intéressées sur le projet lui-même et sur ses conditions.
 
-Le sous-préfet [*compétence*] prescrit cette enquête [*conditions*] lorsqu'il a été saisi d'une demande à cet effet soit par
-le conseil municipal de l'une des communes, soit par le tiers [**]proportion[**] des électeurs inscrits de la commune ou de
-la portion de territoire en question. Il peut aussi l'ordonner d'office.
+Le commissaire de la République [*compétence*] prescrit cette enquête [*conditions*] lorsqu'il a été saisi d'une demande à
+cet effet soit par le conseil municipal de l'une des communes, soit par le tiers [*proportion*] des électeurs inscrits de la
+commune ou de la portion de territoire en question. Il peut aussi l'ordonner d'office.
 
-L'enquête n'est pas obligatoire s'il s'agit d'une fusion de communes [*formalités*].
+L'enquête n'est pas obligatoire s'il s'agit d'une fusion de communes.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Décret n°59-189 1959-01-22 art. 1 (partie)
+	  - Décret n°59-189 1959-01-22 ART. 1 (PARTIE)
 
 	**Cite**:
 
-	  - Loi n°70-1297 1970-12-31 art. 34-I
-	  - Loi n°71-588 1971-07-16 art. 7 à 18
+	  - Loi n°70-1297 1970-12-31 ART. 34-I
+	  - Loi n°71-588 1971-07-16 ART. 7 A 18
 
 	**Codifié par**:
 
 	  - Décret n°77-91 1977-01-27
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°77-91 1977-01-27 ET JONC 3 FEVRIER 1977 date d'entrée en vigueur 20 MARS 1977
+	  - Décret n°83-82 1983-02-09 ART. 3 JORF 11 FEVRIER 1983
 
 
 ###### Article R*112-20
 
 Si le projet concerne le détachement d'une section de commune ou d'une portion du territoire d'une commune, soit pour la
-rattacher à une autre commune, soit pour l'ériger en commune séparée, un arrêté du sous-préfet institue, pour cette section
-ou cette portion de territoire et dans les conditions prévues à l'article L. 151-6 [*relatif aux sections de communes*], une
-commission syndicale [*composée de personnes éligibles de la commune nommées par les électeurs et les propriétaires de la
-section*] qui donne son avis sur le projet [*formalités*].
+rattacher à une autre commune, soit pour l'ériger en commune séparée, un arrêté du commissaire de la République institué,
+pour cette section ou cette portion de territoire et dans les conditions prévues à l'article L. 151-6 [*relatif aux sections
+de communes*], une commission syndicale [*composée de personnes éligibles de la commune nommées par les électeurs et les
+propriétaires de la section*] qui donne son avis sur le projet [*formalités*].
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Décret n°59-189 1959-01-22 art. 2
+	  - Décret n°59-189 1959-01-22 ART. 2
 
 	**Codifié par**:
 
 	  - Décret n°77-91 1977-01-27
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°77-91 1977-01-27 JORF et JONC 3 février 1977 date d'entrée en vigueur élection des maires
+	  - Décret n°83-82 1983-02-09 ART. 4 JORF 11 FEVRIER 1983
 
 	**Cite**:
 
@@ -52955,2076 +54455,31 @@ section*] qui donne son avis sur le projet [*formalités*].
 ###### Article R*112-28
 
 Les actes qui prononcent les fusions ou les distractions de communes en déterminent toutes les conditions autres que celles
-[*conditions de transfert de propriété des biens communaux*] qui sont mentionnées aux articles R. 112-25 à R. 112-27. 
+[*conditions de transfert de propriété des biens communaux*] qui sont mentionnées aux articles R. 112-25 à R. 112-27.
 
-Ils peuvent, toutefois, décider que certaines de ces conditions, notamment en matière financière et patrimoniale,
-
-sont déterminées par un arrêté préfectoral.
+Ils peuvent, toutefois, décider que certaines de ces conditions, notamment en matière financière et patrimoniale, sont
+déterminées par un arrêté du commissaire de la République.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Décret n°59-189 1959-01-22 art. 6 al. 4 et 5
+	  - Décret n°59-189 1959-01-22 ART. 6 AL. 4 ET 5
 
 	**Codifié par**:
 
 	  - Décret n°77-91 1977-01-27
-
-	**Créé par**:
-
-	  - Décret n°77-91 1977-01-27 JORF et JONC 3 février 1977 date d'entrée en vigueur élection des maires
-
-	**Cite**:
-
-	  - Code des communes R112-25 à R112-27
-
-
-###### Article R112-17
-
-Sous réserve des dispositions prévues à l'article 1er de l'ordonnance n° 45-2604 du 2 novembre 1945 concernant les limites de
-départements, les décisions relatives à la modification des circonscriptions communales, à la fixation ou au transfert de
-chefs-lieux résultant ou non de cette modification sont prononcées par arrêté préfectoral [*conditions de forme*]. 
-
-Toutefois, un décret en Conseil d'Etat, sur la proposition du ministre de l'intérieur, est requis lorsque la modification
-territoriale projetée a pour effet de porter atteinte aux limites cantonales.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Ordonnance n°45-2604 du 2 novembre 1945 - art. 1 (Ab)
-	  - Loi n°71-588 1971-07-16 art. 7
-
-	**Anciens textes**:
-
-	  - Décret n°59-189 1959-01-22 art. 4 remplacé al. 1 et 2 (partie)
-
-	**Codifié par**:
-
-	  - Décret n°77-91 1977-01-27
-
-	**Créé par**:
-
-	  - Décret n°77-91 1977-01-27 JORF et JONC 3 février 1977 date d'entrée en vigueur élection des maires
-
-	**Liens**:
-
-	  - TXT_ASSOCIE: CODE DES COMMUNES. - art. L111-2 (Ab)
-	  - TXT_ASSOCIE: CODE DES COMMUNES. - art. L112-19 (Ab)
-
-	**Cité par**:
-
-	  - CODE DES COMMUNES. - art. R*112-23 (Ab)
-
-
-#### Suppression des communes après rachat de tout ou partie de leur territoire
-
-###### Article R*113-2
-
-La commission [*chargée de formuler des propositions sur la répartition des droits et obligations des communes et
-établissements supprimés*] prévue à l'article L. 113-2 comprend [*composition*], outre les autorités [*maires des communes
-supprimés et de rattachement*] désignées audit article, le directeur des services fiscaux (domaines) et les chefs des
-services de l'Etat intéressés. 
-
-Elle est présidée par le préfet [*attributions*].
-
-**Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - SPEC_APPLI: *Dispositions non applicables aux communes des départements de la Guadeloupe, de la Guyane, de la Martinique et de la Réunion*
-	  - SPEC_APPLI: Code des communes R182-1 :
-
-	**Anciens textes**:
-
-	  - Code de l'administration communale 13 al. 1 (partie)
-
-	**Codifié par**:
-
-	  - Décret n°77-91 1977-01-27
-
-	**Créé par**:
-
-	  - Décret n°77-91 1977-01-27 JORF et JONC 3 février 1977 date d'entrée en vigueur élection des maires
-
-	**Cite**:
-
-	  - CODE DES COMMUNES. - art. L113-2 (Ab)
-
-
-### Organes de la commune
-
-#### Conseil municipal
-
-##### Formation
-
-###### Article R*121-4
-
-Dans le cas prévu au deuxième alinéa de l'article L. 121-4, le préfet doit rendre compte immédiatement au ministre de
-l'intérieur.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CODE DES COMMUNES. - art. L121-4 (M)
-
-	**Anciens textes**:
-
-	  - Code de l'administration communale 18 AL. 2 (partie)
-
-	**Codifié par**:
-
-	  - Décret n°77-91 1977-01-27
-
-	**Créé par**:
-
-	  - Décret n°77-91 1977-01-27 JORF et JONC 3 février 1977 date d'entrée en vigueur 20 mars 1977
-
-
-###### Article R*121-5
-
-La décision de l'autorité supérieure mentionnée à l'article L. 121-5, qui nomme la délégation spéciale, est un arrêté du
-préfet.
-
-**Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - SPEC_APPLI: *Dispositions non applicables aux communes des départements de la Guadeloupe, de la Guyane, de la Martinique et de la Réunion*
-	  - SPEC_APPLI: Code des communes R182-1 :
-
-	**Anciens textes**:
-
-	  - Décret n°69-565 1969-06-12 ART. 2
-
-	**Codifié par**:
-
-	  - Décret n°77-91 1977-01-27
-
-	**Créé par**:
-
-	  - Décret n°77-91 1977-01-27 JORF ET JONC 3 FEVRIER 1977 date d'entrée en vigueur 20 MARS 1977
-
-	**Abrogé par**:
-
-	  - Décret n°83-82 1983-02-09 ART. 8 JORF 11 FEVRIER 1983
-
-	**Cite**:
-
-	  - CODE DES COMMUNES. - art. L121-5 (M)
-
-
-##### FONCTIONNEMENT .
-
-###### Article R*121-8
-
-Dans le cas prévu au deuxième alinéa de l'article L. 121-13 [*séances où le compte administratif du maire est débattu*], le
-président de la séance adresse directement au sous-préfet la délibération relative au compte administratif du maire.
-
-**Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - SPEC_APPLI: *Dispositions non applicables aux communes des départements de la Moselle, du Bas-Rhin et du Haut-Rhin (Alsace-Lorraine)*
-	  - SPEC_APPLI: Code des communes R181-1 :
-
-	**Anciens textes**:
-
-	  - Code de l'administration communale 28 al. 4
-
-	**Codifié par**:
-
-	  - Décret n°77-91 1977-01-27
-
-	**Créé par**:
-
-	  - Décret n°77-91 1977-01-27 JORF et JONC 3 février 1977 date d'entrée en vigueur élection des maires
-
-	**Cite**:
-
-	  - Code des communes L121-13 al. 2
-
-
-###### Article R*121-10
-
-Les délibérations des conseils municipaux sont inscrites sur un registre coté et paraphé par le préfet ou le sous-préfet. 
-
-Toutefois, les communes qui en font la demande peuvent être autorisées par arrêté préfectoral [*conditions de forme,
-compétence*], pris après avis du directeur des services d'archives du département, à tenir ce registre sous forme de
-feuillets mobiles qui sont reliés au plus tard en fin d'année. Ces feuillets sont préalablement cotés et paraphés par le
-préfet ou le sous-préfet. 
-
-Les caractéristiques de ces feuillets mobiles et les règles à observer pour leur classement provisoire et leur reliure sont
-fixées par arrêté du ministre chargé de la culture et du ministre de l'intérieur. Cet arrêté peut prévoir des dispositions
-particulières pour les communes qui font imprimer les délibérations de leurs conseils municipaux. 
-
-Les autorisations accordées en application du présent article sont révocables à tout moment.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°70-150 1970-02-17 art. 3
-
-	**Codifié par**:
-
-	  - Décret n°77-91 1977-01-27
-
-	**Créé par**:
-
-	  - Décret n°77-91 1977-01-27 JORF et JONC 3 février 1977 date d'entrée en vigueur élection des maires
-
-
-##### MEMBRES DU CONSEIL MUNICIPAL .
-
-###### Article R*121-13
-
-Dans le cas prévu à l'article L. 121-22, la décision du préfet [*déclarant un conseiller municipal démissionnaire*] peut être
-contestée par l'intéressé devant le tribunal administratif dans les dix jours de la notification [*délai de recours*].
-
-**Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - SPEC_APPLI: *Dispositions non applicables aux communes des départements de la Moselle, du Bas-Rhin et du Haut-Rhin (Alsace-Lorraine)*
-	  - SPEC_APPLI: Code des communes R181-1 :
-
-	**Anciens textes**:
-
-	  - Code de l'administration communale 36 al. 1 (partie)
-
-	**Codifié par**:
-
-	  - Décret n°77-91 1977-01-27
-
-	**Créé par**:
-
-	  - Décret n°77-91 1977-01-27 JORF ET JONC 3 FEVRIER 1977 date d'entrée en vigueur 20 MARS 1977
-
-	**Abrogé par**:
-
-	  - Décret n°83-82 1983-02-09 ART. 11 JORF 11 FEVRIER 1983
-
-	**Cite**:
-
-	  - CODE DES COMMUNES. - art. L121-22 (Ab)
-
-
-###### Article R*121-14
-
-Dans les cas prévus à l'article L. 121-23, la démission d'office des membres des conseils municipaux [*pour refus de remplir
-une des fonctions qui leur sont dévolues par les lois*]
-
-est prononcée par le tribunal administratif [*compétence*]. 
-
-Sur avis à lui transmis par l'autorité qui a donné à un conseiller municipal l'avertissement d'avoir à remplir les fonctions
-qui lui sont dévolues par la loi, suivi de refus, le préfet saisit, dans le délai d'un mois, à peine de déchéance le tribunal
-administratif [**]recours[**]. Ce dernier statue sans frais dans le délai d'un mois [*procédure*]. 
-
-Faute d'avoir statué dans le délai fixé à l'alinéa précédent, le tribunal administratif est dessaisi. Le secrétaire-greffier
-en chef en informe le préfet en lui faisant connaître qu'il a un délai d'un mois, à peine de déchéance, pour saisir le
-Conseil d'Etat. 
-
-Lorsque le tribunal administratif prononce la démission d'un conseiller municipal, le secrétaire-greffier en chef en informe
-l'intéressé en lui faisant connaître qu'il a un délai d'un mois pour se pourvoir devant le Conseil d'Etat [*recours*]. 
-
-La contestation est instruite et jugée sans frais par le Conseil d'Etat dans le délai de trois mois.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°70-216 du 17 mars 1970 - art. 2 (V)
-
-	**Codifié par**:
-
-	  - Décret n°77-91 1977-01-27
-
-	**Créé par**:
-
-	  - Décret n°77-91 1977-01-27 JORF et JONC 3 février 1977 date d'entrée en vigueur élection des maires
-
-	**Cite**:
-
-	  - CODE DES COMMUNES. - art. L121-23 (Ab)
-
-
-##### ATTRIBUTIONS .
-
-###### Article R*121-16
-
-Le préfet ou le sous-préfet constate sur un registre la réception de la délibération du conseil municipal qui lui est
-adressée par le maire conformément aux dispositions de l'article L. 121-30.
-
-Le point de départ du délai de quinze jours, prévu au deuxième alinéa de cet article, est le jour de l'envoi de la
-délibération au préfet ou au sous-préfet.
-
-**Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - SPEC_APPLI: *Dispositions non applicables aux communes des départements de la Moselle, du Bas-Rhin et du Haut-Rhin (Alsace-Lorraine)*
-	  - SPEC_APPLI: Code des communes R181-1 :
-
-	**Codifié par**:
-
-	  - Décret n°77-91 1977-01-27
-
-	**Créé par**:
-
-	  - Décret n°77-91 1977-01-27 JORF ET JONC 3 FEVRIER 1977 date d'entrée en vigueur 20 MARS 1977
-
-	**Abrogé par**:
-
-	  - Décret n°83-82 1983-02-09 ART. 13 JORF 11 FEVRIER 1983
-
-	**Cite**:
-
-	  - CODE DES COMMUNES. - art. L121-30 (Ab)
-
-	**Anciens textes**:
-
-	  - Code de l'administration communale 41 remplacé (partie)
-
-
-###### Article R*121-17
-
-Dans le cas de l'article L. 121-31, le dépôt des délibérations des conseils municipaux est fait à la préfecture ou à la sous-
-préfecture.
-
-Le préfet ou le sous-préfet peut abréger le délai de quinze jours [*après le dépôt, donnant aux délibérations le caractère
-exécutoire*] prévu à cet article.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Code de l'administration communale 46 remplacé (partie)
-
-	**Codifié par**:
-
-	  - Décret n°77-91 1977-01-27
-
-	**Créé par**:
-
-	  - Décret n°77-91 1977-01-27 JORF ET JONC 3 FEVRIER 1977 date d'entrée en vigueur 20 MARS 1977
-
-	**Abrogé par**:
-
-	  - Décret n°83-82 1983-02-09 ART. 13 JORF 11 FEVRIER 1983
-
-
-##### Nullité des délibérations des conseils municipaux
-
-##### Délibérations nulles de droit .
-
-###### Article R*121-18
-
-Dans le cas prévu à l'article L. 121-34, le préfet statue après avis du sous-préfet, chargé de vérifier les faits.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°77-91 1977-01-27
-
-	**Créé par**:
-
-	  - Décret n°77-91 1977-01-27 JORF et JONC 3 février 1977 date d'entrée en vigueur 20 mars 1977
-
-	**Cite**:
-
-	  - CODE DES COMMUNES. - art. L121-34 (M)
-
-	**Anciens textes**:
-
-	  - Décret n°1789-12-22 ART. 60 (partie)
-
-
-##### Délibérations annulables .
-
-###### Article R121-19
-
-Pour l'application de l'article L. 121-36 :
-
-1° Dans les cas prévus au deuxième et quatrième alinéas, le procès-verbal de la délibération et la demande en annulation sont
-déposées à la sous-préfecture ou à la préfecture ;
-
-2° L'affichage prévu au quatrième alinéa a lieu à la porte de la mairie [*publicité*].
-
-**Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - SPEC_APPLI: *Dispositions non applicables aux communes des départements de la Moselle, du Bas-Rhin et du Haut-Rhin (Alsace-Lorraine)*
-	  - SPEC_APPLI: Code des communes R181-1 :
-
-	**Codifié par**:
-
-	  - Décret n°77-91 1977-01-27
-
-	**Créé par**:
-
-	  - Décret n°77-91 1977-01-27 JORF et JONC 3 février 1977 date d'entrée en vigueur élection des maires
-
-	**Cite**:
-
-	  - CODE DES COMMUNES. - art. L121-36 (Ab)
-
-	**Anciens textes**:
-
-	  - Code de l'administration communale 45 al. 2 et 4 (parties)
-
-
-##### APPROBATION DES DELIBERATIONS .
-
-###### Article R*121-20
-
-L'approbation, prévue à l'article L. 121-37, des budgets des communes [*où le comportement administratif fait apparaître un
-déficit de la section de fonctionnement ou un déficit global*] est donnée par le préfet ou le sous-préfet [*compétence*],
-suivant qu'il s'agit ou non de l'arrondissement chef-lieu.
-
-**Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - SPEC_APPLI: *Dispositions applicables aux communes de moins de 25.000 habitants des départements de la Moselle, du Bas-Rhin et du Haut-Rhin (Alsace-Lorraine)*
-	  - SPEC_APPLI: Code des communes R181-1 :
-
-	**Anciens textes**:
-
-	  - Décret n°59-37 1959-01-05 art. 1 remplacé (partie)
-
-	**Codifié par**:
-
-	  - Décret n°77-91 1977-01-27
-
-	**Créé par**:
-
-	  - Décret n°77-91 1977-01-27 JORF ET JONC 3 FEVRIER 1977 date d'entrée en vigueur 20 MARS 1977
-
-	**Abrogé par**:
-
-	  - Décret n°83-82 1983-02-09 ART. 13 JORF 11 FEVRIER 1983
-
-	**Cite**:
-
-	  - CODE DES COMMUNES. - art. L121-37 (Ab)
-
-
-###### Article R*121-21
-
-L'approbation prévue à l'article L. 121-38, des délibérations mentionnées aux 1°, 2°, 3°, 4° de cet article est donnée par le
-préfet ou le sous-préfet suivant qu'il s'agit ou non de l'arrondissement chef-lieu [*compétence*]. 
-
-L'approbation prévue au même article, des délibérations mentionnées aux 5° et 7° dudit article est donnée par le préfet.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°59-37 1959-01-05 art. 1 remplacé (partie)
-
-	**Codifié par**:
-
-	  - Décret n°77-91 1977-01-27
-
-	**Créé par**:
-
-	  - Décret n°77-91 1977-01-27 JORF ET JONC 3 FEVRIER 1977 date d'entrée en vigueur 20 MARS 1977
-
-	**Abrogé par**:
-
-	  - Décret n°83-82 1983-02-09 ART. 13 JORF 11 FEVRIER 1983
-
-	**Cite**:
-
-	  - CODE DES COMMUNES. - art. L121-38 (Ab)
-
-
-###### Article R*121-22
-
-Sont exécutoires de plein droit, dans les conditions [*quinze jours après le dépôt auprès de l'autorité supérieure*]
-
-fixées par l'article L. 121-31, les délibérations des conseils municipaux décidant la réalisation d'emprunts auprès
-d'organismes autres que ceux énumérés au 1° de l'article L. 121-38, sous réserve que le budget ne soit pas soumis à
-approbation en application de l'article L. 121-37 et que ces emprunts soient réalisés conformément aux dispositions de
-l'article R. 121-23 ci-après. 
-
-Demeurent toutefois, dans tous les cas, soumis à autorisation :
-
-1° Conformément à l'article L. 236-6, les emprunts par voie de souscription publique ; 
-
-2° Conformément à l'article L. 236-7, les emprunts à l'étranger dans les conditions prévues par le décret n° 67-78 du 27
-janvier 1967 fixant les modalités d'application de la loi n° 66-1008 du 28 décembre 1966 relative aux relations financières
-avec l'étranger modifié par le décret n° 69-264 du 21 mars 1969.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Loi n°66-1008 1966-12-28
-	  - Décret n°67-78 1967-01-27 modifié
-	  - Décret n°69-264 1969-03-21
-	  - CODE DES COMMUNES. - art. L121-31 (Ab)
-	  - CODE DES COMMUNES. - art. L121-37 (Ab)
-	  - CODE DES COMMUNES. - art. L121-38 (Ab)
-	  - CODE DES COMMUNES. - art. L236-6 (Ab)
-	  - CODE DES COMMUNES. - art. L236-7 (Ab)
-	  - Code des communes R121-23
-
-	**Anciens textes**:
-
-	  - Décret n°72-229 1972-03-24 art. 1
-
-	**Codifié par**:
-
-	  - Décret n°77-91 1977-01-27
-
-	**Créé par**:
-
-	  - Décret n°77-91 1977-01-27 JORF ET JONC 3 FEVRIER 1977 date d'entrée en vigueur 20 MARS 1977
-
-	**Abrogé par**:
-
-	  - Décret n°83-82 1983-02-09 ART. 13 JORF 11 FEVRIER 1983
-
-
-###### Article R*121-23
-
-Les emprunts [*auprès d'organismes autres que ceux mentionnés au 1° de l'article L. 121-38*] mentionnés au premier alinéa de
-l'article précédent donnent lieu à l'établissement d'un contrat entre le prêteur et l'emprunteur. 
-
-Ce contrat [*contenu*] indique notamment de manière précise le nom ou la raison sociale du prêteur, l'objet, le montant, la
-durée, le taux nominal et le taux réel d'intérêt annuel de l'emprunt ainsi que le montant de l'annuité. 
-
-Le contrat stipule, en outre, expressément que les intérêts et l'amortissement de l'emprunt ne courent qu'à partir de la date
-du versement effectif des fonds. 
-
-Le taux réel d'intérêt annuel mis à la charge de l'emprunteur n'est en aucun cas supérieur aux taux qui sont fixés, en
-fonction de la durée des emprunts, par arrêté conjoint du ministre de l'intérieur et du ministre de l'économie et des
-finances. 
-
-S'il est fait exceptionnellement appel à un intermédiaire pour la réalisation de l'emprunt, la commission susceptible d'être
-consentie à cet intermédiaire est versée en une seule fois et son montant ne doit pas être supérieur, toutes taxes comprises,
-à un pourcentage du montant du capital emprunté et non remboursable avant un an. Ce pourcentage est fixé par arrêté conjoint
-du ministre de l'intérieur et du ministre de l'économie et des finances [**]compétence[**].
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°72-229 1972-03-24 art. 2 al. 1 à 4
-
-	**Codifié par**:
-
-	  - Décret n°77-91 1977-01-27
-
-	**Créé par**:
-
-	  - Décret n°77-91 1977-01-27 JORF ET JONC 3 FEVRIER 1977 date d'entrée en vigueur 20 MARS 1977
-
-	**Abrogé par**:
-
-	  - Décret n°83-82 1983-02-09 ART. 13 JORF 11 FEVRIER 1983
-
-	**Cite**:
-
-	  - CODE DES COMMUNES. - art. L121-38 (Ab)
-	  - Code des communes R121-22 al. 1, L121-38
-
-
-###### Article R*121-24
-
-Les dispositions concernant le taux réel d'intérêt annuel de l'emprunt [*d'une commune auprès d'organismes autres que ceux
-mentionnés au 1° de l'article L. 121-38*] et le taux de la commission susceptible d'être consentie aux intermédiaires sont
-applicables aux emprunts par voie de souscription publique, à l'exception de ceux réalisés par l'intermédiaire de la caisse
-d'aide à l'équipement des collectivités locales.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°72-229 1972-03-24 art. 2 al. 5
-
-	**Codifié par**:
-
-	  - Décret n°77-91 1977-01-27
-
-	**Créé par**:
-
-	  - Décret n°77-91 1977-01-27 JORF ET JONC 3 FEVRIER 1977 date d'entrée en vigueur 20 MARS 1977
-
-	**Abrogé par**:
-
-	  - Décret n°83-82 1983-02-09 ART. 13 JORF 11 FEVRIER 1983
-
-	**Cite**:
-
-	  - Code des communes L121-38 1°
-
-
-#### Maires et adjoints
-
-##### Attributions des maires et adjoints.
-
-###### Article R*122-10
-
-Dans le cas [*obligation de transmettre immédiatement les arrêtés du maire à l'autorité supérieure*] prévu au premier alinéa
-de l'article L. 122-28, les arrêtés du maire sont adressés au sous-préfet ou, dans l'arrondissement du chef-lieu, au préfet
-[*compétence*].
-
-La remise de l'ampliation des arrêtés à l'autorité supérieure mentionnée au troisième alinéa du même article est constatée
-par les récépissés délivrés par le sous-préfet ou le préfet.
-
-**Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - SPEC_APPLI: *Dispositions non applicables aux communes des départements de la Moselle, du Bas-Rhin et du Haut-Rhin (Alsace-Lorraine)*
-	  - SPEC_APPLI: Code des communes R181-1 :
-
-	**Codifié par**:
-
-	  - Décret n°77-91 1977-01-27
-
-	**Créé par**:
-
-	  - Décret n°77-91 1977-01-27 JORF ET JONC 3 FEVRIER 1977 date d'entrée en vigueur 20 MARS 1977
-
-	**Abrogé par**:
-
-	  - Décret n°83-82 1983-02-09 ART. 14 JORF 11 FEVRIER 1983
-
-	**Cite**:
-
-	  - CODE DES COMMUNES. - art. L122-28 (Ab)
-
-
-###### Article R122-7
-
-Sans préjudice des dispositions de l'article L. 122-21,
-
-les décisions prises par le maire, en vertu de l'article L. 122-20, sont soumises aux mêmes règles de publicité, de contrôle
-et d'approbation que celles qui sont applicables en vertu des dispositions règlementaires en vigueur aux délibérations des
-conseils municipaux portant sur le même objet et notamment à celles de l'article R. 121-17 [*dépôt des décisions à la
-préfecture ou à la sous-préfecture*].
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°77-91 1977-01-27
-
-	**Créé par**:
-
-	  - Décret n°77-91 1977-01-27 JORF et JONC 3 février 1977 date d'entrée en vigueur élections des maires
-
-	**Cite**:
-
-	  - CODE DES COMMUNES. - art. L122-20 (M)
-	  - CODE DES COMMUNES. - art. L122-21 (M)
-	  - Code des communes L122-20, L122-21, R121-17
-
-
-#### Indemnités et régime de retraite des titulaires de certaines fonctions municipales
-
-##### Indemnités de fonctions
-
-###### Article R*123-2
-
-Les majorations d'indemnités de fonctions résultant de l'application de l'article L. 123-5 [*conseils municipaux pouvant
-voter des majorations d'indemnités de fonctions*] peuvent s'élever au maximum pour les magistrats municipaux :
-
-1° Dans les communes chefs-lieux de département, d'arrondissement et de canton respectivement à 25 p. 100, à 20 p. 100 et 15
-p. 100 ; 
-
-2° Dans les communes sinistrées, à un pourcentage égal au pourcentage d'immeubles sinistrés de la commune. Ce supplément
-d'indemnité peut se cumuler, le cas échéant, avec les majorations prévues au 1° ci-dessus, mais il doit être calculé d'après
-le montant de l'indemnité tel qu'il est fixé à l'article précédent ; 
-
-3° Dans les communes mentionnées aux 3° et 4° de l'article L. 123-5 [*stations classées et communes dont la population,
-
-depuis le dernier recensement, a augmenté à la suite de travaux publics d'intérêt national*], à 50 p. 100 pour les communes
-dont la population totale est inférieure à 5.000 habitants [*nombre*]
-
-et à 25 p. 100 pour celles dont la population totale est supérieure à ce chiffre. Des arrêtés préfectoraux déterminent les
-communes dans lesquelles les dispositions prévues au 4° de l'article L. 123-5 sont applicables ; 
-
-4° Dans les communes mentionnées aux 5° et 6° de l'article L. 123-5, les indemnités de fonctions peuvent être votées dans les
-limites correspondant à l'échelon immédiatement supérieur à celui de la population des communes à l'article précédent.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°77-91 1977-01-27
-
-	**Créé par**:
-
-	  - Décret n°77-91 1977-01-27 JORF et JONC 3 février 1977 date d'entrée en vigueur élection des maires
-
-	**Cite**:
-
-	  - CODE DES COMMUNES. - art. L123-5 (M)
-	  - Code des communes R123-1
-
-	**Anciens textes**:
-
-	  - Code de l'administration communale 89, 90, 91, 92 (parties)
-
-
-#### Dispositions applicables en période de mobilisation et en temps de guerre
-
-##### Maires et adjoints
-
-###### Article R*124-5
-
-Dans les cas prévus à l'article L. 124-6, le préfet doit immédiatement rendre compte des mesures prises au ministre de
-l'intérieur.
-
-**Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - SPEC_APPLI: *Dispositions non applicables au département de la Guyane*
-	  - SPEC_APPLI: Code des communes R182-1 2 :
-
-	**Cite**:
-
-	  - CODE DES COMMUNES. - art. L124-6 (M)
-
-	**Anciens textes**:
-
-	  - Code de l'administration communale 72 AL. 1 et AL. 2 (partie)
-
-	**Codifié par**:
-
-	  - Décret n°77-91 1977-01-27
-
-	**Créé par**:
-
-	  - Décret n°77-91 1977-01-27 JORF et JONC 3 février 1977 date d'entrée en vigueur 20 mars 1977
-
-
-###### Article R*124-6
-
-La mise en demeure adressée par le préfet au maire ou au président du comité syndical, dans les cas [*refus du maire ou des
-maires à prendre une mesure d'intérêt communal ou intercommunal*] prévus à l'article L. 124-6, peut être faite soit par
-lettre, soit par télégramme, soit par message téléphoné. 
-
-La réponse adressée au préfet par le maire ou le président du comité syndical doit être faite dans l'une des [*conditions
-de*] formes indiquées à l'alinéa précédent.
-
-**Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - SPEC_APPLI: *Dispositions non applicables aux communes du département de la Guyane*
-	  - SPEC_APPLI: Code des communes R182-1 2 :
-
-	**Codifié par**:
-
-	  - Décret n°77-91 1977-01-27
-
-	**Créé par**:
-
-	  - Décret n°77-91 1977-01-27 JORF et JONC 3 février 1977 date d'entrée en vigueur élection des maires
-
-	**Cite**:
-
-	  - CODE DES COMMUNES. - art. L124-6 (M)
-
-	**Anciens textes**:
-
-	  - Code de l'administration communale 72 al. 1 et 2 (partie)
-
-
-### POLICE
-
-#### DISPOSITIONS GENERALES
-
-##### POUVOIRS DU MAIRE PORTANT SUR DES OBJETS PARTICULIERS .
-
-###### Article R131-2
-
-Les arrêtés des maires intéressant la police de la circulation sur les routes à grande circulation définies conformément aux
-dispositions du deuxième alinéa de l'article L. 131-3 et de l'article R. 131-1 ne sont exécutoires [*conditions de forme -
-délai*] qu'après approbation par un arrêté du préfet pris sur l'avis du directeur départemental de l'équipement.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°77-91 1977-01-27
-
-	**Créé par**:
-
-	  - Décret n°77-91 1977-01-27 JORF ET JONC 3 FEVRIER 1977 date d'entrée en vigueur 20 MARS 1977
-
-	**Abrogé par**:
-
-	  - Décret n°83-82 1983-02-09 ART. 17 JORF 11 FEVRIER 1983
-
-	**Cite**:
-
-	  - CODE DES COMMUNES. - art. L131-3 (M)
-	  - Code des communes R131-1
-
-	**Cité par**:
-
-	  - CODE DES COMMUNES. - art. R131-3 (Ab)
-
-	**Anciens textes**:
-
-	  - Décret  1939-04-22 art. 1
-
-
-#### RESPONSABILITE DES COMMUNES
-
-##### ACTIONS ET RECOURS .
-
-###### Article R*133-1
-
-Dans le cas de l'article L. 133-6 [*intervention de l'Etat à l'action principale*] par dérogation aux dispositions du décret
-du 27-31 août 1791, l'Etat est représenté par le préfet [*compétence*].
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CODE DES COMMUNES. - art. L133-6 (Ab)
-	  - Décret n°1791-08-27
-
-	**Anciens textes**:
-
-	  - Code de l'administration communale 120 al. 3
-
-	**Liens**:
-
-	  - TXT_ASSOCIE: Loi n°64-707 1964-07-10 art. 8 al. 1
-	  - TXT_ASSOCIE: Loi n°75-1331 du 31 décembre 1975 - art. 17 (M)
-
-	**Codifié par**:
-
-	  - Décret n°77-91 1977-01-27
-
-	**Créé par**:
-
-	  - Décret n°77-91 1977-01-27 JORF et JONC 3 février 1977 date d'entrée en vigueur élection des maires
-
-
-### Stations classées
-
-#### Dispositions communes aux stations classées
-
-##### Office du tourisme
-
-##### Organisation
-
-###### Article R*142-4
-
-L'arrêté préfectoral instituant un office de tourisme doit notamment :
-
-1° Fixer, sur proposition du conseil municipal, le nombre des membres du comité de direction lequel ne peut être inférieur à
-12 ou excéder 15 ; 
-
-2° Fixer, sur proposition du maire, dans la limite [*du sixième au moins et du tiers au plus, du nombre total des membres du
-comité*] prévue à l'article L. 142-8, le nombre des conseillers municipaux qui siègent au comité de direction ; 
-
-3° Après avis du maire, répartir entre les différentes catégories intéressées les sièges réservés aux autres membres et
-désigner les associations ou organisations professionnelles locales habilitées à proposer des représentants.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°66-211 1966-04-05 art. 2
-
-	**Codifié par**:
-
-	  - Décret n°77-91 1977-01-27
-
-	**Créé par**:
-
-	  - Décret n°77-91 1977-01-27 JORF et JONC 3 février 1977 date d'entrée en vigueur élection des maires
-
-	**Cite**:
-
-	  - CODE DES COMMUNES. - art. L142-8 (M)
-
-
-###### Article R*142-5
-
-Le maire procède, par lettre recommandée avec demande d'avis de réception [*conditions de forme*] à la consultation des
-associations et organisations professionnelles locales intéressées au tourisme. 
-
-Faute de réponse dans un délai de trente jours à compter de la réception de la lettre, le maire [*attributions*] propose au
-préfet les noms des représentants de ces professions et associations et le nom d'un suppléant pour chacun d'eux. 
-
-Il transmet sans délai cette liste au préfet avec celle des membres désignés par le conseil municipal.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°66-211 1966-04-05 art. 3
-
-	**Codifié par**:
-
-	  - Décret n°77-91 1977-01-27
-
-	**Créé par**:
-
-	  - Décret n°77-91 1977-01-27 JORF et JONC 3 février 1977 date d'entrée en vigueur élection des maires
-
-
-###### Article R*142-6
-
-Les conseillers municipaux membres du comité de direction de l'office sont élus par le conseil municipal pour la durée de
-leur mandat. 
-
-Les autres membres sont nommés par le préfet [*compétence*] pour six ans. Toutefois, leurs fonctions prennent fin [*date*]
-
-lors du renouvellement du conseil municipal. Le cas échéant, les dispositions de l'arrêté préfectoral relatives à la
-composition du comité de direction peuvent alors être modifiées.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°66-211 1966-04-05 art. 4
-
-	**Codifié par**:
-
-	  - Décret n°77-91 1977-01-27
-
-	**Créé par**:
-
-	  - Décret n°77-91 1977-01-27 JORF et JONC 3 février 1977 date d'entrée en vigueur élection des maires
-
-
-###### Article R*142-8
-
-Le comité [*de direction*] se réunit au moins six fois par an [*fréquence*]. 
-
-Il est en outre convoqué chaque fois que le président le juge utile ou sur la demande du préfet ou de la majorité de ses
-membres en exercice. 
-
-Ses séances ne sont pas publiques.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°66-211 1966-04-05 art. 6 phr. 1, 2, 3
-
-	**Codifié par**:
-
-	  - Décret n°77-91 1977-01-27
-
-	**Créé par**:
-
-	  - Décret n°77-91 1977-01-27 JORF et JONC 3 février 1977 date d'entrée en vigueur élection des maires
-
-
-###### Article R*142-13
-
-Le directeur de l'office de tourisme est recruté par contrat. Il est nommé par le président, après avis du comité.
-
-Sa nomination est soumise à l'agrément du préfet [*conditions de forme*]. 
-
-Le contrat est conclu pour une période de deux ans, renouvelable par tacite reconduction pour des périodes identiques ; il
-peut être résilié sans préavis ni indemnité pendant les six premiers mois d'exercice de la fonction. 
-
-La limite d'âge du directeur [**]définition[**] est celle prévue pour les agents non titulaires des communes. 
-
-En cas de non-renouvellement du contrat, l'intéressé perçoit une indemnité de licenciement calculée selon les dispositions en
-vigueur relatives au licenciement des agents civils non fonctionnaires des administrations de l'Etat. 
-
-Dans tous les cas, la décision de licenciement ou de non-renouvellement du contrat est prise par le président, après avis du
-comité [*de direction*] et soumise à l'agrément du préfet.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°66-211 1966-04-05 art. 8 al. 2 et 3
-
-	**Codifié par**:
-
-	  - Décret n°77-91 1977-01-27
-
-	**Créé par**:
-
-	  - Décret n°77-91 1977-01-27 JORF et JONC 3 février 1977 date d'entrée en vigueur élection des maires
-
-	**Cite**:
-
-	  - CODE DES COMMUNES. - art. L422-7 (V)
-
-
-##### Budget et comptabilité
-
-###### Article R*142-17
-
-Le budget, préparé par le directeur de l'office, [**]attributions[**], est présenté par le président au comité de direction
-qui en délibère avant le 15 novembre [*date*]. 
-
-Avant le 30 novembre, il est transmis au conseil municipal pour approbation. 
-
-Faute de réponse du conseil municipal dans un délai d'un mois à compter de la réception du projet de budget, le comité
-délibère de nouveau sur le projet de budget que le président adresse, suivant le cas, au préfet ou au sous-préfet. Celui-ci
-le notifie au conseil municipal qui dispose d'un nouveau délai d'un mois pour l'approuver. 
-
-Passé ce délai, ou en cas de refus d'approbation, le préfet peut prononcer, par arrêté, la dissolution de l'office
-[*sanctions*].
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°66-211 1966-04-05 art. 13 al. 1 à 4
-
-	**Codifié par**:
-
-	  - Décret n°77-91 1977-01-27
-
-	**Créé par**:
-
-	  - Décret n°77-91 1977-01-27 JORF et JONC 3 février 1977 date d'entrée en vigueur élection des maires
-
-
-###### Article R*142-18
-
-Le compte financier de l'exercice écoulé est présenté par le président [*attributions*] au comité de direction qui en
-délibère et le transmet au conseil municipal pour approbation. 
-
-Il est apuré dans les formes et sous les sanctions prévues aux articles R. 323-67 à R. 323-70.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Décret n°59-1225 1959-10-19 art. 60 à 63
-	  - Code des communes R323-67 à R323-70
-
-	**Anciens textes**:
-
-	  - Décret n°66-211 1966-04-05 art. 13 al. 5
-
-	**Codifié par**:
-
-	  - Décret n°77-91 1977-01-27
-
-	**Créé par**:
-
-	  - Décret n°77-91 1977-01-27 JORF et JONC 3 février 1977 date d'entrée en vigueur élection des maires
-
-
-##### Dissolution de l'office du tourisme
-
-###### Article R*142-20
-
-La dissolution de l'office du tourisme communal est prononcée par arrêté préfectoral à la demande ou sur avis du conseil
-municipal intéressé [*compétence*].
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°66-211 1966-04-05 art. 20 al. 1
-
-	**Codifié par**:
-
-	  - Décret n°77-91 1977-01-27
-
-	**Créé par**:
-
-	  - Décret n°77-91 1977-01-27 JORF et JONC 3 février 1977 date d'entrée en vigueur élection des maires
-
-
-##### Les offices de tourisme intercommunaux
-
-###### Article R*142-21
-
-Lorsque la station comprend tout ou partie du territoire de plusieurs communes et si les conseils municipaux soit des deux
-tiers au moins [*proportion*] des communes intéressées représentant plus de la moitié de la population totale, soit de la
-moitié au moins des communes intéressées représentant plus des deux tiers de la population totale, ont fait connaître leur
-volonté de créer un office de tourisme commun [*conditions*]
-
-l'arrêté préfectoral instituant l'office intercommunal est pris soit par le préfet lorsque les communes appartiennent au même
-département, soit conjointement par les préfets intéressés lorsqu'elles appartiennent à des départements différents
-[*compétence*].
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°66-211 1966-04-05 art. 14
-
-	**Codifié par**:
-
-	  - Décret n°77-91 1977-01-27
-
-	**Créé par**:
-
-	  - Décret n°77-91 1977-01-27 JORF et JONC 3 février 1977 date d'entrée en vigueur élection des maires
-
-
-###### Article R*142-23
-
-Sur avis des maires des communes intéressées, l'arrêté préfectoral instituant l'office intercommunal :
-
-1° Fixe le siège de l'office ; 
-
-2° Fixe le nombre des membres du comité [*de direction*]
-
-dont le maximum peut, par dérogation à l'article R. 142-4 [*nombre de membres d'un comité de direction communal*] être de
-vingt et un en vue d'assurer la représentation des communes associées et de celles qui pourraient être amenées à faire partie
-de l'office dans le cas d'extension de la station ; 
-
-3° Désigne les associations ou organisations professionnelles locales intéressées au tourisme habilitées à proposer leurs
-représentants ; 
-
-4° Répartit les sièges réservés aux représentants des professions ou associations intéressées au tourisme ; 
-
-5° Fixe le nombre des conseillers municipaux élus pour siéger au comité, dans la limite [*du sixième au moins et du tiers au
-plus du nombre total des membres du comité*] prévue à l'article L. 142-8.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°66-211 1966-04-05 art. 16 al. 1
-
-	**Codifié par**:
-
-	  - Décret n°77-91 1977-01-27
-
-	**Créé par**:
-
-	  - Décret n°77-91 1977-01-27 JORF et JONC 3 février 1977 date d'entrée en vigueur élection des maires
-
-	**Cite**:
-
-	  - Code des communes L142-4 et L142-8
-
-
-###### Article R*142-26
-
-En cas de refus d'approbation ou en l'absence de réponse d'une ou de plusieurs communes dans un délai d'un mois à compter de
-la réception du projet de budget, le budget est réglé par le préfet ou le sous-préfet [*attributions*]. 
-
-Le comité [*de direction*] délibère de nouveau sur le projet de budget que le président adresse au préfet ou au sous-préfet.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°66-211 1966-04-05 art. 17 al. 2
-
-	**Codifié par**:
-
-	  - Décret n°77-91 1977-01-27
-
-	**Créé par**:
-
-	  - Décret n°77-91 1977-01-27 JORF et JONC 3 février 1977 date d'entrée en vigueur élection des maires
-
-
-###### Article R*142-27
-
-Le préfet ou le sous-préfet [**]attributions[**] notifie le projet de budget aux communes intéressées, pour approbation, dans
-un délai d'un mois [*formalités*].
-
-Passé ce délai, ou en cas de refus d'approbation, le préfet [*pouvoirs*] peut prononcer par arrêté l'exclusion de l'office de
-la ou des communes ayant refusé leur approbation [*sanctions*].
-
-Le préfet, ou les préfets dans le cas où l'office a été créé par arrêté préfectoral conjoint, peuvent procéder à la
-dissolution de l'office dans les conditions [*arrêté préfectoral, à la demande ou sur avis du ou des conseils municipaux
-intéressés*] prévues à l'article R. 142-20.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°66-211 1966-04-05 art. 17, al. 3 et 4
-
-	**Codifié par**:
-
-	  - Décret n°77-91 1977-01-27
-
-	**Créé par**:
-
-	  - Décret n°77-91 1977-01-27 JORF ET JONC 3 FEVRIER 1977 date d'entrée en vigueur 20 MARS 1977
-
-	**Abrogé par**:
-
-	  - Décret n°83-82 1983-02-09 ART. 24 JORF 11 FEVRIER 1983
-
-	**Cite**:
-
-	  - Code des communes R142-20
-
-
-###### Article R*142-28
-
-Le compte financier est présenté par le président au comité de direction qui en délibère et le transmet aux conseils
-municipaux pour approbation.
-
-Il est apuré comme il est dit à l'article R. 142-18 [*dans les formes et sous les sanctions applicables aux comptes des
-communes*].
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°66-211 1966-04-05 art. 17 al. 5
-
-	**Codifié par**:
-
-	  - Décret n°77-91 1977-01-27
-
-	**Créé par**:
-
-	  - Décret n°77-91 1977-01-27 JORF ET JONC 3 FEVRIER 1977 date d'entrée en vigueur 20 MARS 1977
-
-	**Cite**:
-
-	  - CODE DES COMMUNES. - art. R323-70 (Ab)
-	  - Code des communes R142-18
-
-
-###### Article R*142-29
-
-La dissolution de l'office de tourisme intercommunal est prononcée par arrêté du ou des préfets [*compétence*], en cas
-d'unanimité des conseils municipaux intéressés [*conditions*], dans les mêmes formes que pour l'office de tourisme communal
-[*à la demande ou sur avis de ces conseils municipaux*]. 
-
-Au cas où il y a désaccord entre les conseils municipaux intéressés sur le principe de la dissolution de l'office, il
-appartient au ou aux préfets d'apprécier s'il y a lieu de dissoudre l'office de tourisme ou si celui-ci peut continuer à
-fonctionner avec la seule participation des communes favorables à son maintien.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°66-211 1966-04-05 art. 20 al. 2
-
-	**Codifié par**:
-
-	  - Décret n°77-91 1977-01-27
-
-	**Créé par**:
-
-	  - Décret n°77-91 1977-01-27 JORF et JONC 3 février 1977 date d'entrée en vigueur élection des maires
-
-	**Cite**:
-
-	  - Code des communes R142-20
-
-
-#### Dispositions particulières aux diverses catégories de stations
-
-##### Stations hydrominérales et climatiques
-
-##### Procédure de classement
-
-###### Article R143-1
-
-Le préfet [*attributions*] établit, soit d'office,
-
-soit à la demande des conseils municipaux, la liste des communes, fractions de communes ou groupes de communes qu'il estime
-devoir être classés comme stations hydrominérales ou climatiques, et fait procéder immédiatement [**]délai[**] à une enquête
-sur ce projet de classement.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°1920-05-04 art. 1 al. 1
-
-	**Codifié par**:
-
-	  - Décret n°77-91 1977-01-27
-
-	**Créé par**:
-
-	  - Décret n°77-91 1977-01-27 JORF et JONC 3 février 1977 date d'entrée en vigueur élection des maires
-
-	**Cité par**:
-
-	  - CODE DES COMMUNES. - art. R*143-2 (Ab)
-
-	**Nouveaux textes**:
-
-	  - Code général des collectivités territoriales - art. R2231-1 (Ab)
-
-
-###### Article R143-2
-
-Il est procédé à l'enquête [*sur le projet de classement*] prévue à l'article précédent dans les formes ci-après : 
-
-1. Le projet de création est déposé pendant trois jours à la mairie des communes intéressées et tenu à la disposition de
-toute personne désirant en prendre connaissance. 
-
-Dans les trois jours qui suivent, un commissaire enquêteur, désigné par le préfet, se rend à la mairie et y reçoit pendant
-une journée les déclarations ou observations auxquelles peut donner lieu le projet de création. Les délais de trois et de un
-jour ci-dessus prévus ne courent que de la date de l'avertissement donné par voie de publication et d'affichage ; il est
-justifié de l'accomplissement de cette formalité par un certificat du maire ; 
-
-2. Après avoir clos et signé le registre des déclarations, le commissaire enquêteur le transmet immédiatement au maire avec
-son avis motivé et tous documents relatifs à la proposition de création qui lui ont été remis au cours de l'enquête ; 
-
-3. Le dossier de l'enquête est ensuite soumis au conseil municipal [*attributions*] qui doit, dans la huitaine, délibérer sur
-le projet. Faute par le conseil municipal de donner son avis dans les délais ci-dessus, il est passé outre.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°1920-05-04 art. 1 al. 2
-
-	**Codifié par**:
-
-	  - Décret n°77-91 1977-01-27
-
-	**Créé par**:
-
-	  - Décret n°77-91 1977-01-27 JORF et JONC 3 février 1977 date d'entrée en vigueur élection des maires
-
-	**Cite**:
-
-	  - CODE DES COMMUNES. - art. R143-1 (M)
-
-	**Nouveaux textes**:
-
-	  - Code général des collectivités territoriales - art. R2231-2 (Ab)
-
-
-###### Article R143-3
-
-Les résultats de l'enquête [*sur le projet de classement*]
-
-avec l'avis du commissaire enquêteur et celui du conseil municipal sont transmis sans délai par le préfet au conseil
-départemental d'hygiène, qui donne son avis dans la quinzaine. 
-
-Le préfet transmet ensuite le dossier au ministre chargé de la santé, après l'avoir soumis au conseil général conformément
-aux dispositions de l'article L. 142-3.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°1920-05-04 art. 1 al. 3 et 4
-
-	**Codifié par**:
-
-	  - Décret n°77-91 1977-01-27
-
-	**Créé par**:
-
-	  - Décret n°77-91 1977-01-27 JORF et JONC 3 février 1977 date d'entrée en vigueur élection des maires
-
-	**Cite**:
-
-	  - CODE DES COMMUNES. - art. L142-3 (Ab)
-
-	**Nouveaux textes**:
-
-	  - Code général des collectivités territoriales - art. R2231-3 (Ab)
-
-
-###### Article R143-4
-
-Le conseil général [*attributions*] délibère sur les projets de création de stations au cours de la session ordinaire qui
-suit l'envoi du dossier par le préfet ; faute par lui de délibérer au cours de cette session, il est considéré comme ayant
-donné un avis favorable [**]accord tacite[**].
-
-Dans le cas où le conseil général a donné délégation à la commission départementale [*attributions*] pour statuer dans
-l'intervalle de ses sessions sur le projet de création des stations, cette commission délibère dans le mois qui suit la
-communication qui lui a été faite par le préfet. Faute par elle de délibérer dans ce délai, elle est regardée comme ayant
-donné un avis favorable.
-
-**Liens relatifs à cet article**
-
-	**Nouveaux textes**:
-
-	  - Code général des collectivités territoriales - art. R2231-4 (Ab)
-
-	**Anciens textes**:
-
-	  - Décret n°1920-05-04 art. 1 al. 5 et 6
-
-	**Codifié par**:
-
-	  - Décret n°77-91 1977-01-27
-
-	**Créé par**:
-
-	  - Décret n°77-91 1977-01-27 JORF et JONC 3 février 1977 date d'entrée en vigueur élection des maires
-
-
-##### Groupes de communes érigées en stations hydrominérales et climatiques
-
-###### Article R143-10
-
-Lorsqu'une station hydrominérale ou climatique s'étend sur un groupe de communes, elle est gérée :
-
-- Soit par un syndicat de communes [*attributions*],
-
-institué conformément aux dispositions du chapitre III du titre VI, dont il appartient au préfet de provoquer la
-constitution ; 
-
-- Soit, à défaut de syndicat de communes, au moyen de conférences intercommunales créées conformément aux dispositions de
-l'article L. 161-2.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°77-91 1977-01-27
-
-	**Créé par**:
-
-	  - Décret n°77-91 1977-01-27 JORF et JONC 3 février 1977 date d'entrée en vigueur élections des maires
-
-	**Cite**:
-
-	  - CODE DES COMMUNES. - art. L161-2 (M)
-	  - Code des communes R163-1 à R163-6
-
-	**Nouveaux textes**:
-
-	  - Code général des collectivités territoriales - art. R2231-10 (Ab)
-
-	**Anciens textes**:
-
-	  - Décret n°1920-05-04 complété art. 87 al. 1 (partie)
-
-
-###### Article R143-11
-
-Dans les conférences [*intercommunales*] prévues à l'article précédent, chaque conseil municipal est représenté par une
-commission spéciale instituée à cet effet et composée de trois membres [*nombre*] désignés au scrutin secret. 
-
-Les préfets et les sous-préfets des départements et arrondissements comprenant les communes intéressées peuvent assister à
-ces conférences.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°77-91 1977-01-27
-
-	**Créé par**:
-
-	  - Décret n°77-91 1977-01-27 JORF et JONC 3 février 1977 date d'entrée en vigueur élection des maires
-
-	**Cite**:
-
-	  - Code des communes L143-10
-
-	**Nouveaux textes**:
-
-	  - Code général des collectivités territoriales - art. R2231-11 (Ab)
-
-	**Anciens textes**:
-
-	  - Décret n°1920-05-04 complété art. 87 al. 1 (partie) et 2
-
-
-###### Article R143-13
-
-Les conférences intercommunales élisent leur président et leur secrétaire. 
-
-Elles sont convoquées soit par le président [*attributions*], soit sur la demande de la moitié de leurs membres, soit par le
-préfet.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°1920-05-04 complété art. 87 al. 4
-
-	**Codifié par**:
-
-	  - Décret n°77-91 1977-01-27
-
-	**Créé par**:
-
-	  - Décret n°77-91 1977-01-27 JORF et JONC 3 février 1977 date d'entrée en vigueur élection des maires
-
-	**Nouveaux textes**:
-
-	  - Code général des collectivités territoriales - art. R2231-13 (Ab)
-
-
-###### Article R143-14
-
-Les conférences intercommunales ne peuvent délibérer que si la moitié des membres en exercice assistent à la séance
-[*quorum*]. 
-
-Les délibérations sont prises à la majorité absolue des votants [*conditions*]. 
-
-Elles sont adressées dans la huitaine [**]délai[**] au préfet et aux maires des communes groupées.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°77-91 1977-01-27
-
-	**Créé par**:
-
-	  - Décret n°77-91 1977-01-27 JORF et JONC 3 février 1977 date d'entrée en vigueur élection des maires
-
-	**Nouveaux textes**:
-
-	  - Code général des collectivités territoriales - art. R2231-14 (Ab)
-
-	**Anciens textes**:
-
-	  - Décret n°1920-05-04 complété art. 87 al. 5
-
-
-##### Stations uvales
-
-###### Article R143-17
-
-Toute demande de création d'une station uvale [*formalités*] est adressée au préfet [*compétence*] qui en donne récépissé. 
-
-Cette demande est instruite dans les conditions fixées pour les stations hydrominérales et climatiques par les dispositions
-des articles R. 143-2 à R. 143-4.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°1935-10-25 art. 1 al. 1
-
-	**Codifié par**:
-
-	  - Décret n°77-91 1977-01-27
-
-	**Créé par**:
-
-	  - Décret n°77-91 1977-01-27 JORF et JONC 3 février 1977 date d'entrée en vigueur élection des maires
-
-	**Cite**:
-
-	  - Code des communes R143-2 à R143-4
-
-	**Nouveaux textes**:
-
-	  - Code général des collectivités territoriales - art. R2231-17 (Ab)
-
-
-##### Stations de tourisme
-
-##### Procédure de classement
-
-###### Article R143-19
-
-Toute demande de création d'une station de tourisme présentée par les collectivités locales intéressées conformément à
-l'article L. 142-1 ou par les associations de tourisme conformément à l'article L. 143-1 est adressée au préfet
-[*compétence*] qui en donne récépissé.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°77-91 1977-01-27
-
-	**Créé par**:
-
-	  - Décret n°77-91 1977-01-27 JORF et JONC 3 février 1977 date d'entrée en vigueur élection des maires
-
-	**Cite**:
-
-	  - CODE DES COMMUNES. - art. L142-1 (Ab)
-	  - CODE DES COMMUNES. - art. L143-1 (M)
-
-	**Nouveaux textes**:
-
-	  - Code général des collectivités territoriales - art. R2231-58 (Ab)
-
-	**Anciens textes**:
-
-	  - Décret n°1920-05-04 art. 46 al. 1
-
-
-###### Article R143-20
-
-La demande de création fait ensuite l'objet d'une enquête à laquelle il est procédé dans les formes prévues pour la création
-des stations hydrominérales et climatiques.
-
-Après cette enquête, la proposition de création de la station de tourisme est adressée au préfet, qui la transmet au ministre
-chargé du tourisme après l'avoir, conformément aux dispositions de l'article L. 142-3, soumise pour avis au conseil général
-ou à la commission départementale, qui doivent statuer dans les conditions et délais prévus pour les stations hydrominérales
-ou climatiques.
-
-Le dossier est ensuite transmis à la commission départementale des sites, perspectives et paysages, et au conseil
-départemental d'hygiène qui délibèrent dans la quinzaine qui suit la communication qui leur est faite du projet. A défaut, il
-est passé outre.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°77-91 1977-01-27
-
-	**Créé par**:
-
-	  - Décret n°77-91 1977-01-27 JORF ET JONC 3 FEVRIER 1977 date d'entrée en vigueur 20 MARS 1977
 
 	**Modifié par**:
 
-	  - Décret n°81-534 1981-05-12 ART. 23 JORF 15 MAI 1981 date d'entrée en vigueur 1ER JUILLET 1982
+	  - Décret n°83-82 1983-02-09 ART. 5 JORF 11 FEVRIER 1983
 
 	**Cite**:
 
-	  - CODE DES COMMUNES. - art. L142-3 (Ab)
-
-	**Cité par**:
-
-	  - CODE DES COMMUNES. - art. R143-21 (Ab)
-
-	**Nouveaux textes**:
-
-	  - Code général des collectivités territoriales - art. R2231-59 (Ab)
-
-	**Anciens textes**:
-
-	  - Décret  1920-05-04 art. 46 al. 2 et suivants
-
-
-##### Stations de sports d'hiver et d'alpinisme
-
-###### Article R143-30
-
-La demande de classement [*procédure*] en station de sports d'hiver et d'alpinisme est adressée par les collectivités
-intéressées au préfet qui en donne récépissé. 
-
-La demande est accompagnée d'une fiche de renseignements faisant apparaître les caractéristiques de la station telles
-qu'elles sont mentionnées à l'article R. 143-28.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°68-1031 1968-11-14 art. 4 al. 1
-
-	**Codifié par**:
-
-	  - Décret n°77-91 1977-01-27
-
-	**Créé par**:
-
-	  - Décret n°77-91 1977-01-27 JORF et JONC 3 février 1977 date d'entrée en vigueur élection des maires
-
-	**Cite**:
-
-	  - CODE DES COMMUNES. - art. R143-28 (Ab)
-
-	**Nouveaux textes**:
-
-	  - Code général des collectivités territoriales - art. R2231-24 (Ab)
-
-
-###### Article R143-31
-
-La demande de classement fait l'objet d'une enquête à laquelle il est procédé dans les formes établies par les articles R.
-11-3 à R. 11-13 du code de l'expropriation pour cause d'utilité publique. 
-
-Sans préjudice des dispositions de l'article L. 142-3 [*avis du conseil général et avis favorable du conseil municipal*] le
-préfet transmet le dossier de classement au ministre chargé du tourisme après avis de la commission départementale de
-l'équipement [*compétence, consultations*].
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Décret n°59-701 1959-06-06 titre I
-	  - CODE DES COMMUNES. - art. L142-3 (Ab)
-	  - Code de l'expropriation pour cause d'utilité publique R11-3 à R11-13
-
-	**Anciens textes**:
-
-	  - Décret n°68-1031 1968-11-14 art. 4 al. 2
-
-	**Codifié par**:
-
-	  - Décret n°77-91 1977-01-27
-
-	**Créé par**:
-
-	  - Décret n°77-91 1977-01-27 JORF et JONC 3 février 1977 date d'entrée en vigueur élection des maires
-
-	**Nouveaux textes**:
-
-	  - Code général des collectivités territoriales - art. R2231-25 (Ab)
-
-
-### INTERETS PROPRES A CERTAINES CATEGORIES  D'HABITANTS
-
-#### SECTEUR DE COMMUNE .
-
-###### Article R*152-3
-
-Le contrôle administratif est exercé par le préfet du département où se trouve le siège de l'établissement lorsque la limite
-du secteur de commune s'étend sur un ou plusieurs départements [*compétence*].
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Ordonnance 59-150 1959-01-07 art. 5 (partie)
-
-	**Codifié par**:
-
-	  - Décret n°77-91 1977-01-27
-
-	**Créé par**:
-
-	  - Décret n°77-91 1977-01-27 JORF ET JONC 3 FEVRIER 1977 date d'entrée en vigueur 20 MARS 1977
-
-	**Abrogé par**:
-
-	  - Décret n°83-82 1983-02-09 ART. 30 JORF 11 FEVRIER 1983
+	  - Code des communes R112-25 A R112-27
 
 
 ### INTERETS COMMUNS A PLUSIEURS COMMUNES
-
-#### BIENS ET DROITS INDIVIS ENTRE PLUSIEURS COMMUNES .
-
-###### Article R*162-1
-
-La décision portant création de la commission syndicale, prévue à l'article L. 162-1, chargée de l'administration des biens
-et droits indivis entre plusieurs communes est prise :
-
-- par arrêté du sous-préfet lorsque toutes les communes intéressées font partie du même arrondissement ; 
-
-- par arrêté du préfet lorsqu'elles font partie du même département mais d'arrondissements différents. 
-
-Lorsque les communes intéressées appartiennent à des départements différents, l'arrêté ministériel prévu à l'article L. 162-1
-est pris par le ministre de l'intérieur [*compétence*].
-
-**Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - SPEC_APPLI: *Dispositions non applicables aux communes des départements de la Moselle, du Bas-Rhin et du Haut-Rhin (Alsace-Lorraine)*
-	  - SPEC_APPLI: Code des communes R181-1 :
-
-	**Codifié par**:
-
-	  - Décret n°77-91 1977-01-27
-
-	**Créé par**:
-
-	  - Décret n°77-91 1977-01-27 JORF et JONC 3 février 1977 date d'entrée en vigueur élection des maires
-
-	**Cite**:
-
-	  - CODE DES COMMUNES. - art. L162-1 (M)
-
-	**Anciens textes**:
-
-	  - Code de l'administration communale 138 al. 2 (partie)
-
-
-###### Article R*162-2
-
-L'approbation, mentionnée à l'article L. 162-3, des délibérations des conseils municipaux relatives à la répartition des
-dépenses votées par la commission syndicale entre les communes intéressées est donnée par le sous-préfet [*compétence*]. 
-
-En cas de désaccord entre les conseils municipaux,
-
-l'autorité supérieure compétente pour prendre la décision est le préfet lorsque les conseils municipaux font partie du même
-département. 
-
-Lorsque les conseils municipaux appartiennent à des départements différents, l'arrêté ministériel prévu à l'article L. 162-3
-est pris par le ministre de l'intérieur.
-
-**Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - SPEC_APPLI: *Dispositions non applicables aux communes des départements de la Moselle, du Bas-Rhin et du Haut-Rhin (Alsace-Lorraine)*
-	  - SPEC_APPLI: Code des communes R181-1 :
-
-	**Anciens textes**:
-
-	  - Code de l'administration communale 140 al. 1, 2, 3 (partie)
-
-	**Codifié par**:
-
-	  - Décret n°77-91 1977-01-27
-
-	**Créé par**:
-
-	  - Décret n°77-91 1977-01-27 JORF et JONC 3 février 1977 date d'entrée en vigueur élection des maires
-
-	**Cite**:
-
-	  - CODE DES COMMUNES. - art. L162-3 (M)
-
-
-#### SYNDICATS DE COMMUNES
-
-##### CREATION .
-
-###### Article R*163-1
-
-L'autorisation de l'autorité supérieure prévue à l'article L. 163-2 est accordée par arrêté du préfet [*compétence*] lorsque
-les communes appartiennent au même département et par arrêté conjoint des préfets intéressés dans le cas contraire
-[*plusieurs départements*].
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°70-218 1970-03-17 art. 2
-
-	**Codifié par**:
-
-	  - Décret n°77-91 1977-01-27
-
-	**Créé par**:
-
-	  - Décret n°77-91 1977-01-27 JORF et JONC 3 février 1977 date d'entrée en vigueur élection des maires
-
-	**Cite**:
-
-	  - CODE DES COMMUNES. - art. L163-2 (Ab)
-
-
-##### ADMINISTRATION ET FONCTIONNEMENT .
-
-###### Article R*163-2
-
-Dans le cas où un syndicat de communes regroupe des communes faisant partie de plusieurs départements, le contrôle
-administratif [*compétence*] est exercé par le préfet du département auquel appartient la commune siège du syndicat.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°69-640 1969-06-14 art. 2 al. 1
-
-	**Codifié par**:
-
-	  - Décret n°77-91 1977-01-27
-
-	**Créé par**:
-
-	  - Décret n°77-91 1977-01-27 JORF ET JONC 3 FEVRIER 1977 date d'entrée en vigueur 20 MARS 1977
-
-	**Abrogé par**:
-
-	  - Décret n°83-82 1983-02-09 ART. 34 JORF 11 FEVRIER 1983
-
-	**Liens**:
-
-	  - TXT_ASSOCIE: Code des communes R163-3
-
-
-###### Article R*163-3
-
-Toutefois, lorsque aucune commune adhérente au syndicat n'est située dans le département du lieu du siège, le ministre de
-l'intérieur peut, par arrêté, désigner pour exercer le contrôle administratif soit l'un des préfets des départements sur les
-territoires desquels se trouvent des communes adhérentes au syndicat, soit, à titre exceptionnel, le préfet de région.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°69-640 1969-06-14 art. 2 al. 2
-
-	**Codifié par**:
-
-	  - Décret n°77-91 1977-01-27
-
-	**Créé par**:
-
-	  - Décret n°77-91 1977-01-27 JORF ET JONC 3 FEVRIER 1977 date d'entrée en vigueur 20 MARS 1977
-
-	**Abrogé par**:
-
-	  - Décret n°83-82 1983-02-09 ART. 34 JORF 11 FEVRIER 1983
-
-	**Cite**:
-
-	  - Code des communes R163-2
-
-
-##### Modification aux conditions initiales de composition et de fonctionnement.
-
-###### Article R*163-4
-
-L'autorité supérieure, mentionnée à l'article L. 163-15, compétente pour prendre la décision d'admission d'une commune au
-syndicat est le ou les préfets intéressés.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°77-91 1977-01-27
-
-	**Créé par**:
-
-	  - Décret n°77-91 1977-01-27 JORF et JONC 3 février 1977 date d'entrée en vigueur 20 mars 1977
-
-	**Cite**:
-
-	  - CODE DES COMMUNES. - art. L163-15 (M)
-
-	**Anciens textes**:
-
-	  - Décret n°80-218 1980-03-17 ART. 4
-
-
-###### Article R*163-5
-
-L'autorité supérieure, mentionnée à l'article L. 163-16, compétente pour prendre la décision de retrait d'une commune et la
-décision d'extension des attributions et de modification des conditions initiales de fonctionnement ou de durée du syndicat
-est le ou les préfets intéressés.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°77-91 1977-01-27
-
-	**Créé par**:
-
-	  - Décret n°77-91 1977-01-27 JORF et JONC 3 février 1977 date d'entrée en vigueur 20 mars 1977
-
-	**Cite**:
-
-	  - CODE DES COMMUNES. - art. L163-16 (M)
-
-	**Anciens textes**:
-
-	  - Code de l'administration communale 147 Remplacé
-
-
-##### DUREE .
-
-###### Article R*163-6
-
-Lorsque la dissolution d'un syndicat de communes intervient, en application du troisième alinéa de l'article L. 163-18, à la
-demande de la majorité des conseils municipaux, elle est prononcée par arrêté du ou des préfets intéressés [*compétence,
-conditions de forme*]. 
-
-Cet arrêté détermine, sous la réserve des droits des tiers, les conditions dans lesquelles le syndicat est liquidé.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°70-218 1970-03-17 art. 6
-
-	**Codifié par**:
-
-	  - Décret n°77-91 1977-01-27
-
-	**Créé par**:
-
-	  - Décret n°77-91 1977-01-27 JORF et JONC 3 février 1977 date d'entrée en vigueur élection des maires
-
-	**Cite**:
-
-	  - CODE DES COMMUNES. - art. L163-18 (M)
-
-	**Nouveaux textes**:
-
-	  - Code général des collectivités territoriales - art. L5212-33 (V)
-
-
-#### DISTRICTS .
-
-###### Article R*164-1
-
-La décision institutive d'un district, prévue à l'article L. 164-1, est prise par arrêté du préfet lorsque les communes font
-partie du même département et par arrêté conjoint des préfets intéressés dans le cas contraire [*compétence, conditions de
-forme*]. 
-
-La liste des communes intéressées est fixée par le ou les préfets.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Ordonnance 59-30 1959-01-05
-	  - Décret n°70-217 1970-03-17 art. 3
-
-	**Codifié par**:
-
-	  - Décret n°77-91 1977-01-27
-
-	**Créé par**:
-
-	  - Décret n°77-91 1977-01-27 JORF et JONC 3 février 1977 date d'entrée en vigueur élection des maires
-
-	**Cite**:
-
-	  - CODE DES COMMUNES. - art. L164-1 (M)
-
-
-###### Article R*164-4
-
-Dans les cas [*modification des conditions initiales de fonctionnement ou de durée du district ou extension de ses
-attributions*] prévus à l'article L. 164-7, la décision de l'autorité supérieure est prise sous la forme d'un arrêté du
-préfet lorsque les communes font partie du même département et d'un arrêté conjoint des préfets intéressés dans le cas
-contraire [*compétence*].
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Ordonnance 59-30 1959-01-05 art. 4 remplacé (partie)
-
-	**Codifié par**:
-
-	  - Décret n°77-91 1977-01-27
-
-	**Créé par**:
-
-	  - Décret n°77-91 1977-01-27 JORF et JONC 3 février 1977 date d'entrée en vigueur élection des maires
-
-	**Cite**:
-
-	  - CODE DES COMMUNES. - art. L164-7 (M)
-
-
-###### Article R*164-5
-
-Lorsque des règles différentes régissent le contrôle administratif des communes suivant l'importance de leur population, la
-population de l'ensemble des communes formant le district entre en ligne de compte pour déterminer les règles qu'il y a lieu
-d'appliquer. 
-
-Dans le cas où le district s'étend sur plusieurs départements, le contrôle administratif est exercé par le préfet du
-département auquel appartient la commune siège du district [*compétence*].
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Ordonnance 59-30 1959-01-05 art. 6 al. 3 phr. 2 et al. 4
-
-	**Codifié par**:
-
-	  - Décret n°77-91 1977-01-27
-
-	**Créé par**:
-
-	  - Décret n°77-91 1977-01-27 JORF et JONC 3 février 1977 date d'entrée en vigueur élection des maires
-
 
 #### Communautés urbaines
 
@@ -55500,297 +54955,6 @@ approuvé par un ministre ou par décret [*conditions de forme, compétence*].
 	**Cite**:
 
 	  - Code des communes R116-1 al. 2
-
-
-### Dispositions particulières
-
-#### Dispositions applicables aux communes des départements de la Moselle, du Bas-Rhin et du Haut-Rhin *Alsace-Lorraine*
-
-##### Dispositions générales
-
-###### Article R*181-1
-
-Sont applicables à l'ensemble des communes des départements de la Moselle, du Bas-Rhin et du Haut-Rhin :
-
-1. Les dispositions des titres Ier à VII du présent livre, à l'exception des articles R. 121-7 et R. 121-8, R. 121-13, R.
-121-16, R. 121-19, R. 122-10 et R. 122-11, R. 132-1, R. 132-3, R. 162-1 et R. 162-2 ;
-
-2. Les dispositions des sections II à VI du présent chapitre.
-
-En outre, sont applicables aux communes de moins de 25.000 habitants [*nombre*] les dispositions de l'article R. 121-20.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°77-91 1977-01-27
-
-	**Créé par**:
-
-	  - Décret n°77-91 1977-01-27 JORF et JONC 3 février 1977 date d'entrée en vigueur 20 MARS 1977
-
-	**Cite**:
-
-	  - Code des communes R111-1 à R121-6, R121-9 à R121-12, R121-14, R121-15, R121-17, R121-18, R121-20 à R122-9, R122-11 à R131-5, R132-2, R133-1 à R153-1, R163-1 à R173-14
-
-
-##### Le conseil municipal
-
-###### Article R*181-2
-
-Dans le cas prévu à l'article L. 181-7, le procès-verbal des opérations de vérification des comptes du maire par le conseil
-municipal est établi et adressé directement par le président à l'autorité de surveillance [*contrôle, formalités*].
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°77-91 1977-01-27
-
-	**Créé par**:
-
-	  - Décret n°77-91 1977-01-27 JORF et JONC 3 février 1977 date d'entrée en vigueur élection des maires
-
-	**Cite**:
-
-	  - CODE DES COMMUNES. - art. L181-7 (Ab)
-
-	**Anciens textes**:
-
-	  - Loi n°1895-06-06 art. 68 al. 2
-
-
-##### Le maire et les adjoints
-
-###### Article R*181-3
-
-La surveillance [*contrôle*] de l'administration communale est exercée par le préfet [*compétence*] dans les communes de
-25.000 habitants [*nombre*] et au-dessus et dans les communes assimilées, et par le sous-préfet dans les autres communes.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°77-91 1977-01-27
-
-	**Créé par**:
-
-	  - Décret n°77-91 1977-01-27 JORF ET JONC 3 FEVRIER 1977 date d'entrée en vigueur 20 MARS 1977
-
-	**Abrogé par**:
-
-	  - Décret n°83-82 1983-02-09 ART. 41 JORF 11 FEVRIER 1983
-
-	**Anciens textes**:
-
-	  - Loi   1895-06-06 art. 71 al. 1, locale, Alsace et Lorraine
-
-
-###### Article R*181-4
-
-Dans les communes de 25.000 habitants [*nombre*] et au-dessus et dans les communes assimilées, les décisions du maire en
-matière communale peuvent être portées devant le préfet et la décision du préfet devant le ministre de l'intérieur [*recours,
-compétence*].
-
-Dans les autres communes, les réclamations sont portées, selon les cas, devant le sous-préfet ou le préfet et ensuite devant
-le ministre de l'intérieur.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°77-91 1977-01-27
-
-	**Créé par**:
-
-	  - Décret n°77-91 1977-01-27 JORF ET JONC 3 FEVRIER 1977 date d'entrée en vigueur 20 MARS 1977
-
-	**Abrogé par**:
-
-	  - Décret n°83-82 1983-02-09 ART. 41 JORF 11 FEVRIER 1983
-
-	**Anciens textes**:
-
-	  - Loi   1895-06-06 art. 71 al. 2, locale, Alsace et Lorraine
-
-
-##### Intérêts communs
-
-##### Ententes et conférences intercommunales
-
-###### Article R*181-5
-
-Dans le cas de création d'une commission syndicale [*pour l'exécution en commun de canalisations d'eau, de travaux de
-drainage et d'irrigation*] , le ministre de l'intérieur exerce les attributions du préfet et de l'autorité de surveillance.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°77-91 1977-01-27
-
-	**Créé par**:
-
-	  - Décret n°77-91 1977-01-27 JORF et JONC 3 février 1977 date d'entrée en vigueur élection des maires
-
-	**Anciens textes**:
-
-	  - Loi n°1902-06-11 art. 1 al. 2, locale, Alsace et Lorraine
-
-
-##### Administration du patrimoine possédé indivisément par plusieurs communes
-
-###### Article R*181-6
-
-La décision qui porte création de la commission syndicale [*instituée pour l'administration de ce patrimoine*] prévue à
-l'article L. 181-58 et fixe le nombre de délégués à nommer par chaque conseil municipal est prise par arrêté du préfet
-[*conditions de forme, compétence*].
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°77-91 1977-01-27
-
-	**Créé par**:
-
-	  - Décret n°77-91 1977-01-27 JORF et JONC 3 février 1977 date d'entrée en vigueur élection des maires
-
-	**Cite**:
-
-	  - CODE DES COMMUNES. - art. L181-58 (Ab)
-
-	**Anciens textes**:
-
-	  - Loi n°1897-07-07 art. 7 al. 1 (partie), locale, Alsace et Lorraine
-
-
-###### Article R*181-7
-
-Si les communes intéressées sont soumises à des autorités de surveillance différentes, les fonctions de l'autorité de
-surveillance [*pouvoirs de contrôle*] prévues aux articles L. 181-59 à L. 181-61 et L. 181-63 et L. 181-64 sont exercées par
-le préfet.
-
-Si les communes intéressées appartiennent à des départements différents, elles sont exercées par le ministre de l'intérieur.
-
-Le ministre de l'intérieur a également compétence, en ce cas, pour instituer la commission syndicale [*chargée de
-l'administration du patrimoine commun*].
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°77-91 1977-01-27
-
-	**Créé par**:
-
-	  - Décret n°77-91 1977-01-27 JORF ET JONC 3 FEVRIER 1977 date d'entrée en vigueur 20 MARS 1977
-
-	**Abrogé par**:
-
-	  - Décret n°83-82 1983-02-09 ART. 44 JORF 11 FEVRIER 1983
-
-	**Cite**:
-
-	  - CODE DES COMMUNES. - art. L181-63 (M)
-	  - CODE DES COMMUNES. - art. L181-64 (M)
-	  - Code des communes L181-59 à L181-61, L181-63, L181-64
-
-	**Anciens textes**:
-
-	  - Loi   1897-07-07 art. 11, locale, Alsace et Lorraine
-
-
-##### Syndicats de communes
-
-###### Article R*181-8
-
-Le contrôle, prévu à l'article L. 181-66, des syndicats de communes est exercé par le sous-préfet [*compétence*] lorsque
-toutes les communes affiliées sont soumises au contrôle de ce même fonctionnaire.
-
-Dans les autres cas, elle est exercée par le préfet dans le ressort duquel se trouve la commune siège du syndicat.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°77-91 1977-01-27
-
-	**Créé par**:
-
-	  - Décret n°77-91 1977-01-27 JORF ET JONC 3 FEVRIER 1977 date d'entrée en vigueur 20 MARS 1977
-
-	**Abrogé par**:
-
-	  - Décret n°83-82 1983-02-09 ART. 44 JORF 11 FEVRIER 1983
-
-	**Cite**:
-
-	  - CODE DES COMMUNES. - art. L181-66 (M)
-
-	**Anciens textes**:
-
-	  - Loi   1936-04-11 art. 2 al. 2
-
-
-###### Article R*181-9
-
-Lorsque le syndicat comprend exclusivement des communes de plus de 25.000 habitants [*nombre*] ou des communes assimilées, le
-contrôle est exercé dans les conditions prévues pour ces catégories de communes [*autorité de surveillance : préfet*].
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°77-91 1977-01-27
-
-	**Créé par**:
-
-	  - Décret n°77-91 1977-01-27 JORF ET JONC 3 FEVRIER 1977 date d'entrée en vigueur 20 MARS 1977
-
-	**Abrogé par**:
-
-	  - Décret n°83-82 1983-02-09 ART. 44 JORF 11 FEVRIER 1983
-
-	**Cite**:
-
-	  - Code des communes R181-3
-
-	**Anciens textes**:
-
-	  - Loi   1936-04-11 art. 2 al. 4
-
-
-#### Dispositions applicables aux communes des départements des Hauts de Seine, du Val de Marne et de la Seine Saint Denis.
-
-###### Article R*183-1
-
-Les préfets des Hauts-de-Seine, de la Seine-Saint-Denis et du Val-de-Marne sont investis :
-
-1° Dans leur département, des pouvoirs et attributions [*définis par la loi des 10-15 juin 1953 modifiée*] mentionnés à
-l'article L. 183-1 ; 
-
-2° Dans les communes de leur département, des compétences [*en matière de liberté et de sécurité de la voie publique sur les
-routes à grande circulation*] prévues au deuxième alinéa de l'article L. 183-2 dans les limites qui y sont définies.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°71-606 1971-07-20 art. 2
-
-	**Codifié par**:
-
-	  - Décret n°77-91 1977-01-27
-
-	**Créé par**:
-
-	  - Décret n°77-91 1977-01-27 JORF et JONC 3 février 1977 date d'entrée en vigueur élection des maires
-
-	**Cite**:
-
-	  - Code des communes L183-1 et L183-2 al. 2
-	  - Loi n°1953-06-10 modifiée
 
 
 ## LIVRE 2 : Finances communales
