@@ -1,5 +1,5 @@
 # Code des communes  
-Version Consolidée au 1982-05-08
+Version Consolidée au 1982-06-12
 
 # ORGANISATION COMMUNALE
 
@@ -68608,6 +68608,73 @@ par arrêté du ministre de l'Intérieur, du ministre du Budget et du ministre c
 	  - SPEC_APPLI: Code des communes R262-1, R262-12 : *Dispositions non applicables aux communes des départements de la Guadeloupe, de la Martinique, de la Guyane, de la Réunion et de Saint-Pierre-et-Miquelon*
 
 
+###### Article R*234-20
+
+Figurent sur la liste annuelle les communes justifiant d'un indice pondéré de capacité d'accueil existante au moins égal aux
+chiffres indiqués dans la colonne 1 du tableau ci-dessous et pour lesquelles le rapport entre cet indice et la population
+permanente est au moins égal aux pourcentages indiqués dans la colonne 2 du même tableau :
+
+================================================================
+
+<table>
+  <tbody><tr>
+    <td> :   INDICE PONDERE         : RAPPORT ENTRE L'INDICE PONDERE    :</td>
+  </tr>
+  <tr>
+    <td> : de capacité d'accueil.   :    de capacité d'accueil          :</td>
+  </tr>
+  <tr>
+    <td> :        (1)               :  et la population permanente.     :</td>
+  </tr>
+  <tr>
+    <td> :                          :             (2)                   :</td>
+  </tr>
+  <tr>
+    <td> :--------------------------:-----------------------------------:</td>
+  </tr>
+  <tr>
+    <td> :                          :           P. 100.                 :</td>
+  </tr>
+  <tr>
+    <td> :          500             :             75                    :</td>
+  </tr>
+  <tr>
+    <td> :          540             :             65                    :</td>
+  </tr>
+  <tr>
+    <td> :          580             :             55                    :</td>
+  </tr>
+  <tr>
+    <td> :          625             :             45                    :</td>
+  </tr>
+  <tr>
+    <td> :          670             :             35                    :</td>
+  </tr>
+  <tr>
+    <td> :          710             :             25                    :</td>
+  </tr>
+  <tr>
+    <td> :          750             :             15                    :</td>
+  </tr>
+</tbody></table>
+
+================================================================
+
+Ne peuvent figurer sur la liste les communes dont la capacité d'accueil est liée, à plus de 75 p. 100, à l'existence d'un
+aéroport situé, même partiellement, sur leur territoire.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°77-91 1977-01-27
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°80-1102 1980-12-31 : *Ces dispositions ne sont applicables que jusqu'au 1er janvier 1986*
+	  - SPEC_APPLI: Code des communes R262-1, R262-12 : *Dispositions non applicables aux communes des départements de la Guadeloupe, de la Martinique, de la Guyane, de la Réunion et de Saint-Pierre-et-Miquelon*
+
+
 ###### Article R*234-22
 
 Pour l'application de l'article R. 234-20, le chiffre de la population permanente est le chiffre de la population municipale,
@@ -68625,6 +68692,68 @@ Ce chiffre est majoré, le cas échéant, des attributions de populations fictiv
 
 	  - SPEC_APPLI: Loi n°80-1102 1980-12-31 : *Ces dispositions ne sont applicables que jusqu'au 1er janvier 1986*
 	  - SPEC_APPLI: Code des communes R262-1, R262-12 : *Dispositions non applicables aux communes des départements de la Guadeloupe, de la Martinique, de la Guyane, de la Réunion et de Saint-Pierre-et-Miquelon*
+
+
+###### Article R*234-23
+
+Pour l'application de l'article R. 234-20, le rapport entre l'indice pondéré de capacité d'accueil et la population
+permanente est affecté des coefficients suivants :
+
+1,50 pour les communes de moins de 2.000 habitants ;
+
+1,375 pour les communes entre 2.000 et 4.999 habitants ;
+
+1,25 pour les communes entre  5.000 et 19.999 habitants ;
+
+1,125 pour les communes entre 20.000 et 49.999 habitants ;
+
+1  pour les communes entre 50.000 et 99.999 habitants ;
+
+0,875 pour les communes entre 100.000 et 199.999 habitants ;
+
+0,75 pour les communes de 200.000 habitants et plus.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°77-91 1977-01-27
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°80-1102 1980-12-31 : *Ces dispositions ne sont applicables que jusqu'au 1er janvier 1986*
+	  - SPEC_APPLI: Code des communes R262-1, R262-12 : *Dispositions non applicables aux communes des départements de la Guadeloupe, de la Martinique, de la Guyane, de la Réunion et de Saint-Pierre-et-Miquelon*
+
+
+###### Article R*234-24
+
+La dotation revenant aux communes touristiques ou thermales après prélèvement des sommes affectées aux stations touristiques
+mentionnées à l'article R. 234-28 est divisée en deux parts.
+
+La première, égale à 80 p. 100, est répartie proportionnellement au rapport existant entre l'indice pondéré de capacité
+d'accueil existante augmenté de la moitié de l'indice pondéré de capacité d'accueil en voie de création et la population
+permanente, affecté du coefficient défini à l'article R. 234-23, et multiplié par le montant des impôts énoncés à l'article
+L. 234-9.
+
+La seconde, égale à 20 p. 100, est répartie proportionnellement à l'indice pondéré de capacité d'accueil existante augmenté
+de la moitié de l'indice pondéré de capacité d'accueil en voie de création multiplié par le quart de l'écart relatif entre le
+potentiel fiscal moyen par habitant de l'ensemble des communes touristiques ou thermales, et le potentiel fiscal par habitant
+de chaque commune bénéficiaire.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°77-91 1977-01-27
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°80-1102 1980-12-31 : *Ces dispositions ne sont applicables que jusqu'au 1er janvier 1986*
+	  - SPEC_APPLI: Code des communes R262-1, R262-12 : *Dispositions non applicables aux communes des départements de la Guadeloupe, de la Martinique, de la Guyane, de la Réunion et de Saint-Pierre-et-Miquelon*
+
+	**Modifié par**:
+
+	  - Décret n°82-493 1982-06-10 JORF 12 JUIN 1982 rectificatif JORF 24 OCTOBRE 1982
 
 
 ###### Article R*234-25
@@ -68773,160 +68902,30 @@ déjà dans la sous-section III (répartition d'une part des amendes relatives �
 	  - Décret n°88-625 du 6 mai 1988 - art. 3 (Ab)
 
 
-##### Dotation supplémentaire versée aux communes touristiques et thermales et à leurs groupements.
+###### Article R234-21-1
 
-###### Article R*234-20
-
-Figurent sur la liste annuelle les communes justifiant d'un indice pondéré de capacité d'accueil au moins égal aux chiffres
-indiqués dans la colonne 1 du tableau ci-dessous et pour lesquelles le rapport entre cet indice et la population permanente
-est au moins égal aux pourcentages indiqués dans la colonne 2 du même tableau [*calcul*] ;
-
-Indice pondéré de capacité d'accueil : 500.
-
-Rapport entre cet indice et la population permanente : 75 p. 100.
-
-Indice pondéré de capacité d'accueil : 540.
-
-Rapport entre cet indice et la population permanente : 65 p. 100.
-
-Indice pondéré de capacité d'accueil : 580.
-
-Rapport entre cet indice et la population permanente :
-
-55 p. 100.
-
-Indice pondéré de capacité d'accueil : 625.
-
-Rapport entre cet indice et la population permanente :
-
-45 p. 100.
-
-Indice pondéré de capacité d'accueil : 670.
-
-Rapport entre cet indice et la population permanente :
-
-35 p. 100.
-
-Indice pondéré de capacité d'accueil : 710.
-
-Rapport entre cet indice et la population permanente :
-
-25 p. 100.
-
-Indice pondéré de capacité d'accueil : 750.
-
-Rapport entre cet indice et la population permanente :
-
-15 p. 100. [*pourcentages, tableau réécrit*].
-
-Ne peuvent figurer sur la liste les communes dont la capacité d'accueil est liée, à plus de 75 p. 100, à l'existence d'un
-aéroport situé, même partiellement, sur leur territoire.
+Un indice pondéré de capacité d'accueil en voie de création obtenu en totalisant les chiffres résultant des produits visés à
+l'article R. 234-21 est calculé chaque année par le commissaire de la République en tenant compte des possibilités
+d'hébergement touristiques en chantier dans la commune au 1er janvier.
 
 **Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - SPEC_APPLI: *Dispositions non applicables aux communes des départements de la Guadeloupe, de la Martinique, de la Guyane, de la Réunion et de Saint-Pierre-et-Miquelon*
+	  - SPEC_APPLI: Code des communes R262-1, R262-12 :
 
 	**Codifié par**:
 
 	  - Décret n°77-91 1977-01-27
 
-	**Liens**:
+	**Abrogé par**:
 
-	  - SPEC_APPLI: Loi n°80-1102 1980-12-31 : *Ces dispositions ne sont applicables que jusqu'au 1er janvier 1986*
-	  - SPEC_APPLI: Code des communes R262-1, R262-12 : *Dispositions non applicables aux communes des départements de la Guadeloupe, de la Martinique, de la Guyane, de la Réunion et de Saint-Pierre-et-Miquelon*
+	  - Décret n°88-625 du 6 mai 1988 - art. 1 () JORF 8 mai 1988
 
+	**Cite**:
 
-###### Article R*234-21
-
-L'indice pondéré de capacité d'accueil est constaté chaque année par le préfet en tenant compte des possibilités
-d'hébergement touristique de la commune au 1er janvier [*fréquence*].
-
-Cet indice est obtenu en totalisant les chiffres résultant des produits suivants :
-
-- nombre de chambres dans les hôtels de tourismes des deux catégories les plus élevées, multiplié par 6 ;
-
-- nombre de chambres dans les hôtels de tourisme des autres catégories, multiplié par 4 ;
-
-- nombre de chambres dans les hôtels non classés hôtels de tourisme, multiplié par 2 ;
-
-- nombre de places dans les villages de vacances, multiplié par 1,5 ;
-
-- nombre de places dans les terrains de camping et les terrains aménagés pour le stationnement des caravanes, multiplié par
-0,75 ;
-
-- nombre de logements meublés exemptés de taxe professionnelle et donnant lieu à des locations saisonnières, y compris les
-gîtes ruraux ou communaux, multiplié par 3 ;
-
-- nombre de pièces dans les logements meublés, autres que ceux qui sont prévus ci-dessus, multiplié par 1 ;
-
-- nombre de places dans les hôpitaux thermaux et établissements similaires, multiplié par 1,5 ;
-
-- nombre de places d'hébergement collectif dans les établissements publics ou privés, tels que colonies de vacances, auberges
-de jeunesse, centres de vacances, maisons familiales de vacances, multiplié par 0,75.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°77-91 1977-01-27
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°80-1102 1980-12-31 : *Ces dispositions ne sont applicables que jusqu'au 1er janvier 1986*
-	  - SPEC_APPLI: Code des communes R262-1, R262-12 : *Dispositions non applicables aux communes des départements de la Guadeloupe, de la Martinique, de la Guyane, de la Réunion et de Saint-Pierre-et-Miquelon*
-
-
-###### Article R*234-23
-
-Pour l'application des dispositions de la présente sous-section, le rapport entre l'indice pondéré de capacité d'accueil et
-la population permanente est affecté des coefficients suivants [*chiffre de la population*] :
-
-1,50 pour les communes de moins de 2.000 habitants ;
-
-1,375 pour les communes entre 2.000 et 4.999 habitants ;
-
-1,25 pour les communes entre 5.000 et 19.999 habitants ;
-
-1,125 pour les communes entre 20.000 et 49.999 habitants ;
-
-1 pour les communes entre 50.000 et 99.999 habitants ;
-
-0,875 pour les communes entre 100.000 et 199.999 habitants ;
-
-0,75 pour les communes de 200.000 habitants et plus.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°77-91 1977-01-27
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°80-1102 1980-12-31 : *Ces dispositions ne sont applicables que jusqu'au 1er janvier 1986*
-	  - SPEC_APPLI: Code des communes R262-1, R262-12 : *Dispositions non applicables aux communes des départements de la Guadeloupe, de la Martinique, de la Guyane, de la Réunion et de Saint-Pierre-et-Miquelon*
-
-
-###### Article R*234-24
-
-La dotation revenant aux communes touristiques ou thermales après prélèvement des sommes affectées aux stations touristiques
-mentionnées à l'article R. 234-28 est divisée en deux parts.
-
-La première, égale à 80 p. 100, est répartie proportionnellement au rapport existant entre l'indice pondéré de capacité
-d'accueil et la population permanente R. 234-23, et multiplié par le montant des impôts énoncés à l'article L. 234-9.
-
-La seconde, égale à 20 p. 100 [*pourcentage*], est répartie proportionnellement à l'indice pondéré de capacité d'accueil
-multiplié par le quart de l'écart relatif entre le potentiel fiscal moyen par habitant de l'ensemble des communes
-touristiques ou thermales, et le potentiel fiscal par habitant de chaque commune bénéficiaire.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°77-91 1977-01-27
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°80-1102 1980-12-31 : *Ces dispositions ne sont applicables que jusqu'au 1er janvier 1986*
-	  - SPEC_APPLI: Code des communes R262-1, R262-12 : *Dispositions non applicables aux communes des départements de la Guadeloupe, de la Martinique, de la Guyane, de la Réunion et de Saint-Pierre-et-Miquelon*
+	  - Code des communes R234-21
 
 
 ##### Dotation supplémentaire versée aux communes touristiques ou thermales et à leurs groupements SECTION 1 : Dotation globale de fonctionnement
@@ -68970,6 +68969,48 @@ a atteint pour la cinquième année.
 	**Abrogé par**:
 
 	  - Décret n°88-625 du 6 mai 1988 - art. 3 (Ab)
+
+
+#### DOTATION SUPPLEMENTAIRE VERSEE AUX COMMUNES TOURISTIQUES OU THERMALES ET A LEURS GROUPEMENTS.
+
+###### Article R*234-21
+
+L'indice pondéré de capacité d'accueil existante est constaté chaque année par le préfet en tenant compte des possibilités
+d'hébergement touristique de la commune au 1er janvier.
+
+Cet indice est obtenu en totalisant les chiffres résultant des produits suivants :
+
+- nombre de chambres dans les hôtels de tourisme des deux catégories les plus élevées, multiplié par 6 ;
+
+- nombre de chambres dans les hôtels de tourisme des autres catégories, multiplié par 4 ;
+
+- nombre de chambres dans les hôtels non classés hôtels de tourisme, multiplié par 2 ;
+
+- nombre de places dans les villages de vacances, multiplié par 1,5 ;
+
+- nombre de places dans les terrains de camping et les terrains aménagés pour le stationnement des caravanes, multiplié par
+0,75 ;
+
+- nombre de logements meublés exemptés de taxe professionnelle et donnant lieu à des locations saisonnières, y compris les
+gîtes ruraux ou communaux, multiplié par 3 ;
+
+- nombre de pièces dans les logements meublés, autres que ceux qui sont prévus ci-dessus, multiplié par 1 ;
+
+- nombre de places dans les hôpitaux thermaux et établissements similaires, multiplié par 1,5 ;
+
+- nombre de places d'hébergement collectif dans les établissements publics ou privés, tels que colonies de vacances, auberges
+de jeunesse, centres de vacances, maisons familiales de vacances, multiplié par 0,75.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°77-91 1977-01-27
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°80-1102 1980-12-31 : *Ces dispositions ne sont applicables que jusqu'au 1er janvier 1986*
+	  - SPEC_APPLI: Code des communes R262-1, R262-12 : *Dispositions non applicables aux communes des départements de la Guadeloupe, de la Martinique, de la Guyane, de la Réunion et de Saint-Pierre-et-Miquelon*
 
 
 ### Dispositions applicables à certains établissements communaux
