@@ -1,5 +1,5 @@
 # Code des communes  
-Version Consolidée au 1977-12-30
+Version Consolidée au 1978-01-01
 
 # ORGANISATION COMMUNALE
 
