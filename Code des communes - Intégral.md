@@ -1,5 +1,5 @@
 # Code des communes  
-Version Consolidée au 1992-12-31
+Version Consolidée au 1993-01-01
 
 # Partie législative
 
@@ -4856,19 +4856,19 @@ secteurs de la commune aux véhicules dont la circulation sur ces voies ou dans 
 la tranquillité publique, soit la protection des espèces animales ou végétales, soit la protection des espaces naturels, des
 paysages ou des sites ou leur mise en valeur à des fins esthétiques, écologiques, agricoles, forestières ou touristiques.
 
-" Ces dispositions ne s'appliquent pas aux véhicules utilisés pour assurer une mission de service public et ne peuvent
+Ces dispositions ne s'appliquent pas aux véhicules utilisés pour assurer une mission de service public et ne peuvent
 s'appliquer d'une façon permanente aux véhicules utilisés à des fins professionnelles de recherche, d'exploitation ou
-d'entretien des espaces naturels. "
+d'entretien des espaces naturels.
+
+Dans ces secteurs, le maire peut, en outre, par arrêté motivé, soumettre à des prescriptions particulières relatives aux
+conditions d'horaires et d'accès à certains lieux et aux niveaux sonores admissibles les activités s'exerçant sur la voie
+publique, à l'exception de celles qui relèvent d'une mission de service public.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Décret n°77-90 1977-01-27
-
-	**Cite**:
-
-	  - loi 83-8 1983-01-07 art. 26
 
 	**Cité par**:
 
@@ -4881,13 +4881,18 @@ d'entretien des espaces naturels. "
 	  - Code de la route. - art. R441-5 (V)
 	  - Code de la route. - art. R442-6 (V)
 
+	**Modifié par**:
+
+	  - Loi n°92-1444 du 31 décembre 1992 - art. 9 () JORF 1er janvier 1993
+
+	**Abrogé par**:
+
+	  - Loi n°96-142 du 21 février 1996 - art. 12 (V) JORF 24 février 1996
+
 	**Nouveaux textes**:
 
 	  - Code général des collectivités territoriales - art. L2213-4 (V)
-
-	**Modifié par**:
-
-	  - Loi n°91-2 1991-01-05 art. 5 jorf 5 janvier 1991
+	  - Code général des collectivités territoriales - art. L2213-4 (M)
 
 
 ###### Article L131-4-2
@@ -5295,9 +5300,14 @@ de la ou des communes aux véhicules dont la circulation sur ces voies ou dans c
 la tranquillité publique, soit la protection des espèces animales ou végétales, soit la protection des espaces naturels, des
 paysages ou des sites ou leur mise en valeur à des fins esthétiques, écologiques, agricoles, forestières ou touristiques.
 
-" Ces dispositions ne s'appliquent pas aux véhicules utilisés pour assurer une mission de service public et ne peuvent
+Dans ces secteurs, le représentant de l'Etat dans le département peut, en outre, dans les conditions prévues au premier
+alinéa, soumettre à des prescriptions particulières relatives aux conditions d'horaires et d'accès à certains lieux et aux
+niveaux sonores admissibles les activités s'exerçant sur la voie publique, à l'exception de celles qui relèvent d'une mission
+de service public.
+
+Ces dispositions ne s'appliquent pas aux véhicules utilisés pour assurer une mission de service public et ne peuvent
 s'appliquer d'une façon permanente aux véhicules utilisés à des fins professionnelles de recherche, d'exploitation ou
-d'entretien des espaces naturels. "
+d'entretien des espaces naturels.
 
 **Liens relatifs à cet article**
 
@@ -5313,21 +5323,21 @@ d'entretien des espaces naturels. "
 	  - Code de la route - art. R278 (Ab)
 	  - Code de la route - art. R285 (M)
 
+	**Modifié par**:
+
+	  - Loi n°92-1444 du 31 décembre 1992 - art. 10 () JORF 1er janvier 1993
+
+	**Abrogé par**:
+
+	  - Loi n°96-142 du 21 février 1996 - art. 12 (V) JORF 24 février 1996
+
 	**Cite**:
 
 	  - CODE DES COMMUNES. - art. L131-4-1 (M)
 
-	**Anciens textes**:
-
-	  - Code de l'administration communale 99 al. 3
-
 	**Nouveaux textes**:
 
 	  - Code général des collectivités territoriales - art. L2215-3 (V)
-
-	**Créé par**:
-
-	  - Loi n°91-2 1991-01-05 art. 6 jorf 5 janvier 1991
 
 
 ##### SECTION 4 : Agents de police municipale.
@@ -13872,24 +13882,19 @@ Il appartient également au maire de veiller à la tranquillité, à la salubrit
 
 ###### Article L181-40
 
-Sans préjudice des attributions du préfet en vertu du 9° de l'article 2 de la section III du décret du 22 décembre 1789,
-
-les objets de police confiés à la vigilance et à l'autorité du maire sont ceux déterminés aux 1°, 3°, 5° et 9° de l'article
-L. 131-2 [*sûreté et commodité du passage dans les voies publiques, maintien de l'ordre dans les lieux publics de
-rassemblement, contrôle des denrées vendues au poids ou à la mesure, des comestibles exposés en vente, fermeture annuelle des
-boulangeries*] . 
+Sans préjudice des attributions du préfet en vertu du 9° de l'article 2 de la section III du décret du 22 décembre 1789, les
+objets de police confiés à la vigilance et à l'autorité du maire sont ceux déterminés aux 1°, 3°, 5° et 9° de l'article L.
+131-2.
 
 Ils ont également :
 
 1° Le soin de réprimer les délits contre la tranquillité publique, tels que les rixes et disputes accompagnées d'ameutement
-dans les rues, le tumulte excité dans les lieux d'assemblée publique, les bruits et attroupements nocturnes qui troublent le
-repos des citoyens ; 
+dans les rues, le tumulte excité dans les lieux d'assemblée publique, les bruits y compris les bruits de voisinage et
+attroupements nocturnes qui troublent le repos des citoyens ;
 
 2° Le soin de prévenir par les précautions convenables, et celui de faire cesser par la distribution des secours nécessaires,
-les accidents [*naturels*] et les fléaux calamiteux, tels que les incendies, les épidémies, les épizooties, en provoquant
-aussi,
-
-dans ces deux derniers cas, l'intervention de l'administration supérieure ; 
+les accidents et les fléaux calamiteux, tels que les incendies, les épidémies, les épizooties, en provoquant aussi, dans ces
+deux derniers cas, l'intervention de l'administration supérieure ;
 
 3° Le soin d'obvier ou de remédier aux événements fâcheux qui pourraient être occasionnés par les insensés ou les furieux
 laissés en liberté et par la divagation des animaux malfaisants ou féroces.
@@ -13900,15 +13905,18 @@ laissés en liberté et par la divagation des animaux malfaisants ou féroces.
 
 	  - Décret n°77-90 1977-01-27
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°77-90 1977-01-27 JORF et JONC 3 février 1977 date d'entrée en vigueur élection des maires
+	  - Loi n°92-1444 du 31 décembre 1992 - art. 11 () JORF 1er janvier 1993
+
+	**Abrogé par**:
+
+	  - Loi n°96-142 du 21 février 1996 - art. 12 (V) JORF 24 février 1996
 
 	**Cite**:
 
 	  - CODE DES COMMUNES. - art. L131-2 (M)
-	  - Code des communes L131-2, 1°, 3°, 5° et 9°
-	  - Décret n°1789-12-22 section III art. 2, 9°
+	  - Décret n°1789-12-22 art. 2
 
 	**Cité par**:
 
@@ -13917,6 +13925,7 @@ laissés en liberté et par la divagation des animaux malfaisants ou féroces.
 	**Nouveaux textes**:
 
 	  - Code général des collectivités territoriales - art. L2542-4 (M)
+	  - Code général des collectivités territoriales - art. L2542-4 (V)
 
 
 ###### Article L181-41
@@ -20229,13 +20238,18 @@ Le coefficient de pondération de la base de chacune des quatre taxes [*définit
 la taxe concernée, constaté lors de la dernière année dont les résultats sont connus.
 
 Le potentiel fiscal par habitant est égal au potentiel fiscal de la commune divisé par le nombre d'habitants constituant la
-population de cette commune, tel que défini à l'article L. 234-19-3.
+population de cette commune, tel que défini à l'article L. 234-19-3.    " Pour la détermination du potentiel fiscal des
+communes membres de communautés de villes ainsi que des communes membres des groupements de communes ayant opté pour le
+régime fiscal prévu à l'article 1609 nonies C du code général des impôts, un calcul de bases de taxe professionnelle
+résultant de la ventilation entre les communes des bases du groupement est opéré. Les modalités de ce calcul sont définies
+par décret en Conseil d'Etat. Elles prennent notamment en compte la répartition des bases de taxe professionnelle entre les
+communes l'année précédant l'application des dispositions de l'article 1609 nonies C précité. "
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - CGI 1648 A
+	  - CGI 1648 A, 1609 nonies C
 	  - CODE DES COMMUNES. - art. L234-19-3 (M)
 
 	**Codifié par**:
@@ -20274,12 +20288,20 @@ population de cette commune, tel que défini à l'article L. 234-19-3.
 
 	**Modifié par**:
 
-	  - Loi n°88-13 du 5 janvier 1988 - art. 5 () JORF 6 janvier 1988
+	  - Loi n°92-125 du 6 février 1992 - art. 111 ()
 
 	**Liens**:
 
 	  - TXT_SOURCE: Décret n°93-270 du 1 mars 1993
 	  - TXT_SOURCE: Décret n°93-270 du 1 mars 1993 - art. 2 (V)
+
+	**Nouveaux textes**:
+
+	  - CODE DES COMMUNES. - art. L234-4 (M)
+
+	**Transféré par**:
+
+	  - Loi n°93-1436 1994-01-04 art. 4 IV jorf 4 janvier 1994
 
 
 ###### Article L234-8
@@ -20491,6 +20513,137 @@ définis à l'article L. 234-10.
 	  - Loi n°93-1436 1994-01-04 art. 7 jorf 4 janvier 1994
 
 
+##### SOUS-SECTION 4 bis : Dispositions applicables aux groupements de communes.
+
+###### Article L234-17
+
+Les groupements de communes dotés d'une fiscalité propre reçoivent une attribution de la dotation globale de fonctionnement.
+" Le montant total des sommes affectées à cette dotation ainsi que sa répartition entre les communautés urbaines, les
+communautés de villes, les communautés de communes, les districts à fiscalité propre et les syndicats ou communautés
+d'agglomération nouvelle sont fixés chaque année par le comité des finances locales.
+
+" Son montant est majoré, le cas échéant, des sommes revenant aux groupements nouvellement créés. Le montant de la majoration
+est égal au produit de l'attribution moyenne de dotation globale de fonctionnement par habitant, constatée l'année précédente
+pour l'ensemble des groupements, par la population totale des communes nouvellement regroupées. La majoration est répartie
+entre chacune des cinq catégories de groupements de communes mentionnés ci-dessus pour 50 p. 100 en proportion du nombre
+d'habitants des communes nouvellement regroupées et pour 50 p. 100 en proportion du nombre de communes nouvellement
+regroupées. "
+
+La dotation globale de fonctionnement des groupements de communes dotés d'une fiscalité propre est prélevée sur les sommes
+affectées à la dotation globale de fonctionnement des communes, après déduction des sommes prévues pour les concours
+particuliers régis par les articles L. 234-13 et L. 234-14 et pour la garantie d'évolution prévue par l'article L. 234-19-1.
+" Chaque groupement de communes défini ci-dessus reçoit :
+
+" a) Une dotation de base égale au produit d'une attribution moyenne par habitant par la population totale des communes
+regroupées. Pour les groupements n'ayant pas opté pour le régime fiscal prévu à l'article 1609 nonies C du code général des
+impôts, cette attribution moyenne est pondérée par le coefficient d'intégration fiscale défini au dixième alinéa ci-dessous.
+
+" b) Une dotation de péréquation en fonction de son potentiel fiscal. Pour les groupements n'ayant pas opté pour le régime
+fiscal prévu à l'article 1609 nonies C du code général des impôts, cette dotation est pondérée par le coefficient
+d'intégration fiscale défini au dixième alinéa ci-dessous.
+
+" Le potentiel fiscal des groupements de communes est égal au montant des bases pondérées des quatre taxes directes locales,
+lorsqu'ils n'ont pas opté pour le régime fiscal prévu à l'article 1609 nonies C du code général des impôts. Ces bases sont
+les bases brutes servant à l'assiette des impositions de ce groupement. Le coefficient de pondération de la base de chacune
+des quatre taxes est le taux moyen national d'imposition à la taxe concernée constaté pour chacune de ces catégories de
+groupements.
+
+" Le potentiel fiscal d'une communauté de villes et d'un groupement de communes ayant opté pour le régime fiscal prévu à
+l'article 1609 nonies C du code général des impôts ou d'un syndicat ou d'une communauté d'agglomération nouvelle est égal au
+montant des bases pondérées de taxe professionnelle. Ces bases sont les bases brutes servant à l'assiette des impositions de
+ce groupement. Le coefficient de pondération de ces bases est le taux moyen national d'imposition à la taxe professionnelle
+constaté pour ces catégories de groupements. "
+
+Le coefficient d'intégration fiscale est égal au rapport entre le produit des quatre taxes directes locales et de la taxe ou
+de la redevance d'enlèvement des ordures ménagères perçu par le groupement et l'ensemble des communes regroupées.
+
+" Les sommes affectées à la dotation de base des communautés urbaines, des communautés de villes, des communautés de
+communes, des districts à fiscalité propre et des syndicats ou communautés d'agglomération nouvelle représentent 15 p. 100 du
+montant des sommes affectées à la dotation globale de fonctionnement de chacune de ces cinq catégories de groupements de
+communes.
+
+" Pour la première année d'application de la loi d'orientation n° 92-125 du 6 février 1992 relative à l'administration
+territoriale de la République, le montant des sommes affectées à la dotation globale de fonctionnement des groupements de
+communes dotés d'une fiscalité propre ne peut être inférieur à 2 500 millions de francs. Pour les années ultérieures, ce
+montant évolue comme la dotation globale de fonctionnement. "
+
+Pour 1988, le montant des sommes affectées à la dotation globale de fonctionnement des syndicats ou communautés
+d'agglomération nouvelle s'élève à 65 millions de francs. Jusqu'au terme de la période transitoire prévue par l'article L.
+234-21-1 du code des communes, ce montant progresse comme les ressources de la dotation globale de fonctionnement des
+communautés urbaines et des districts à fiscalité propre réparties en application du b de ce même article. "
+
+" Au titre de l'année où le groupement lève pour la première fois sa fiscalité propre, les communautés de communes, les
+districts et les communautés urbaines, lorsqu'ils n'ont pas opté pour le régime fiscal prévu à l'article 1609 nonies C du
+code général des impôts, bénéficient d'une attribution de dotation globale de fonctionnement calculée sur la base d'un
+coefficient d'intégration fiscale égal au coefficient d'intégration fiscale moyen de l'année précédente de la catégorie de
+groupements à laquelle ils appartiennent. Un abattement de 50 p. 100 est opéré sur chacune de ses attributions.
+
+" Toutefois pour la première année d'application de la loi n° 92-125 du 6 février 1992 précitée, le coefficient d'intégration
+fiscale des communautés de communes est égal à 20 p. 100.
+
+" Pour les groupements de communes définis ci-dessus dont le potentiel fiscal par habitant est supérieur ou égal au double du
+potentiel fiscal moyen de la catégorie des groupements dont ils relèvent, l'attribution leur revenant est égale à la moitié
+du montant résultant du calcul précédent.
+
+" Les dispositions des alinéas précédents sont applicables aux districts à fiscalité propre pour lesquels 1989, 1990, 1991 et
+1992 constitue la première année de perception de cette fiscalité propre.
+
+" Au titre de l'année où la communauté de villes ou le groupement de communes ayant opté pour le régime fiscal prévu à
+l'article 1609 nonies C du code général des impôts lève pour la première fois sa fiscalité propre, il bénéficie d'une
+dotation égale au produit de l'attribution moyenne de la dotation globale de fonctionnement par habitant constatée pour
+l'ensemble des communautés de villes au titre de l'exercice précédent, par la population des communes regroupées. Un
+abattement de 50 p. 100 est opéré sur cette dotation.
+
+" Pour la première année d'application de la loi n° 92-125 du 6 février 1992 précitée, la dotation globale de fonctionnement
+attribuée aux communautés de villes est répartie au prorata de la population.
+
+" Les dispositions du premier alinéa de l'article L. 234-19-1 ne s'appliquent aux groupements de communes définis ci-dessus
+qu'à compter de la troisième année d'attribution de la dotation globale de fonctionnement.
+
+" Lorsqu'un groupement de communes à fiscalité propre change de catégorie de groupements à fiscalité propre, il est assuré de
+percevoir, l'année où il lève la première fois sa fiscalité propre dans la nouvelle catégorie, une dotation égale à celle
+qu'il a perçue l'année précédente à laquelle est appliqué le taux minimum garanti défini à l'article L. 234-19-1. "
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 1609 nonies C
+	  - Loi n°92-125 1992-02-06
+	  - CODE DES COMMUNES. - art. L234-13 (M)
+	  - CODE DES COMMUNES. - art. L234-14 (M)
+	  - CODE DES COMMUNES. - art. L234-19-1 (M)
+	  - CODE DES COMMUNES. - art. L234-21-1 (M)
+
+	**Codifié par**:
+
+	  - Décret n°77-90 1977-01-27
+
+	**Liens**:
+
+	  - TXT_SOURCE: Décret n°82-998 du 17 novembre 1982
+	  - TXT_SOURCE: Décret n°82-998 du 17 novembre 1982 - art. 1 (V)
+	  - TXT_SOURCE: Décret n°82-998 du 17 novembre 1982 - art. 2 (V)
+	  - TXT_SOURCE: Décret n°82-998 du 17 novembre 1982 - art. 3 (V)
+
+	**Cité par**:
+
+	  - Loi n°83-636 du 13 juillet 1983 - art. 31 bis (Ab)
+	  - Décret n°85-260 du 22 février 1985 - art. 3-1 (M)
+	  - CODE DES COMMUNES. - art. L234-11-1 (Ab)
+	  - CODE DES COMMUNES. - art. L234-18 (M)
+	  - CODE DES COMMUNES. - art. R*234-2 (M)
+	  - CODE GENERAL DES IMPOTS, CGI. - art. 1648 B (M)
+
+	**Modifié par**:
+
+	  - Loi n°92-125 du 6 février 1992 - art. 112 (V)
+
+	**Abrogé par**:
+
+	  - Loi n°93-1436 1994-01-04 art. 9 II jorf 4 janvier 1994
+
+
 ##### SOUS-SECTION 4 : Concours particuliers.
 
 ###### Article L234-12
@@ -20693,6 +20846,92 @@ lui est versée. "
 	  - Loi n°93-1436 1994-01-04 art. 7 jorf 4 janvier 1994
 
 
+###### Article L234-14
+
+Bénéficient d'une dotation particulière destinée à tenir compte des charges qui résultent de l'utilisation de leurs
+équipements par les habitants des communes voisines :
+
+1° Les communes qui, dans une agglomération représentant au moins 10 p. 100 de la population du département, en constituent
+la ville principale ;
+
+1° bis Les communes de plus de 10 000 habitants qui, dans une agglomération de plus de 100 000 habitants, en constituent la
+ville principale ;
+
+2° Les communes situées dans une agglomération de plus de 250 000 habitants représentants au moins 10 p. 100 de la population
+du département, lorsque leur population est au moins égale à la moitié de celle de la ville principale ;
+
+3° Les communes de plus de 100 000 habitants ou celles dont la population représente au moins 10 p. 100 de la population du
+département ;
+
+4° Les communes chefs-lieux de département. Dans la région d'Ile-de-France, seules ces communes bénéficient de la dotation
+particulière ; il en est de même pour les communes qui, faisant partie d'une communauté urbaine, d'un district ou d'un
+syndicat d'agglomération nouvelle de plus de 150 000 habitants, représentent au moins 25 p. 100 de la population de ce
+groupement de communes.
+
+Le montant des sommes à répartir chaque année, en application du présent article, est fixé chaque année par le comité des
+finances locales.
+
+La dotation revenant à chacune des communes mentionnées ci-dessus est proportionnelle à la somme des dotations reçues en
+vertu des articles L. 234-2 à L. 234-19 et L. 234-19-1.
+
+Les communes dont le potentiel fiscal est égal ou supérieur au double de celui de l'ensemble des communes ne perçoivent pas
+d'attribution à ce titre.
+
+Lorsqu'une commune remplit les conditions requises pour bénéficier à la fois de la dotation instituée par le présent article
+et de la dotation supplémentaire instituée par l'article L. 234-13, seule la plus élevée des deux dotations lui est versée.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°77-90 1977-01-27
+
+	**Abrogé par**:
+
+	  - Loi n°93-1436 1994-01-04 art. 7 JORF 4 janvier 1994
+
+	**Cité par**:
+
+	  - Loi n°79-15 du 3 janvier 1979 - art. 25 (Ab)
+	  - Loi n°83-1186 du 29 décembre 1983 - art. 10 (Ab)
+	  - Loi n°85-1268 du 29 novembre 1985 - art. 28 (Ab)
+	  - Loi n°85-1268 du 29 novembre 1985 - art. 29 (M)
+	  - Loi n°85-1268 du 29 novembre 1985 - art. 42 (V)
+	  - Loi n°86-972 du 19 août 1986 - art. 45 (V)
+	  - CODE DES COMMUNES. - art. L233-29 (M)
+	  - CODE DES COMMUNES. - art. L234-10 (Ab)
+	  - CODE DES COMMUNES. - art. L234-17 (Ab)
+	  - CODE DES COMMUNES. - art. L234-19-1 (M)
+	  - CODE DES COMMUNES. - art. L234-19-2 (Ab)
+	  - CODE DES COMMUNES. - art. L234-2 (M)
+	  - CODE DES COMMUNES. - art. L234-21 (Ab)
+	  - CODE DES COMMUNES. - art. L234-7 (Ab)
+	  - CODE DES COMMUNES. - art. L262-5 (Ab)
+	  - CODE DES COMMUNES. - art. R*212-7 (Ab)
+	  - CODE DES COMMUNES. - art. R*234-17 (Ab)
+	  - CODE GENERAL DES IMPOTS, CGI. - art. 1648 B (M)
+	  - Code général des collectivités territoriales - art. L2334-21 (M)
+	  - Code général des collectivités territoriales - art. L2334-7 (V)
+
+	**Modifié par**:
+
+	  - Loi n°92-125 du 6 février 1992 - art. 75 (V) JORF 8 février 1992 en vigueur le 1er janvier 1993
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: CODE DES COMMUNES. - art. L234-12 (M)
+	  - TXT_ASSOCIE: CODE DES COMMUNES. - art. L234-13 (M)
+
+	**Cite**:
+
+	  - CODE DES COMMUNES. - art. L234-13 (M)
+	  - Code des communes L234-2 à L234-10, L234-13, L234-19-1
+
+	**Nouveaux textes**:
+
+	  - Code général des collectivités territoriales - art. L1613-5 (V)
+
+
 ###### Article L234-14-1
 
 - I. - Il est institué une dotation de solidarité urbaine afin de contribuer à l'amélioration des conditions de vie dans les
@@ -20768,6 +21007,62 @@ solidarité urbaine. "
 	  - Code de la sécurité sociale. - art. L542-1 (M)
 	  - code de la sécurité sociale L542-1, L. 831-1
 	  - Code de la construction et de l'habitation. - art. L351-1 (V)
+
+	**Abrogé par**:
+
+	  - Loi n°93-1436 1994-01-04 art. 7 jorf 4 janvier 1994
+
+
+###### Article L234-14-2
+
+I. - Les communes de moins de 2 000 habitants qui sont confrontées à une insuffisance de leurs ressources du fait de leur
+faible population et supportant des charges élevées en raison de l'étendue de leur territoire bénéficient d'une majoration de
+la dotation de compensation prévue à l'article L. 234-10 dans les conditions fixées aux II et III du présent article.
+
+" II. - Bénéficient de la majoration de la dotation de compensation mentionnée au I du présent article les communes de moins
+de 2 000 habitants qui remplissent l'une ou l'autre des deux conditions suivantes :
+
+" a) Etre située dans un département bénéficiant des dispositions de l'article 34 de la loi n° 85-1268 du 29 novembre 1985
+relative à la dotation globale de fonctionnement et avoir un potentiel fiscal par hectare inférieur au potentiel fiscal moyen
+par hectare de l'ensemble des communes de moins de 2 000 habitants ;
+
+" b) Avoir un potentiel fiscal par hectare inférieur de 10 p. 100 au potentiel fiscal moyen par hectare de l'ensemble des
+communes remplissant les conditions mentionnées au a ci-dessus.
+
+" III. - La majoration de la dotation de compensation est répartie entre les communes bénéficiaires :
+
+" a) Pour 50 p. 100 de son montant en proportion des attributions qui leur sont versées au titre des dispositions prévues au
+2° de l'article L. 234-10 ;
+
+" b) Pour 50 p. 100 de son montant en proportion du potentiel fiscal par hectare tel que défini à l'article L. 234-6.
+
+" IV. - Le montant de la majoration de la dotation de compensation est fixé à 200 millions de francs en 1992. Pour les années
+ultérieures, ce montant évolue comme le montant des ressources affectées à la dotation de compensation des communes.
+
+" V. - Pour l'application des dispositions prévues à l'article L. 234-19-1, il n'est pas tenu compte des attributions versées
+aux communes au titre du présent article. "
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°77-90 1977-01-27
+
+	**Cite**:
+
+	  - Loi n°85-1268 du 29 novembre 1985 - art. 34 (M)
+	  - CODE DES COMMUNES. - art. L234-10 (M)
+	  - CODE DES COMMUNES. - art. L234-19-1 (M)
+	  - CODE DES COMMUNES. - art. L234-6 (M)
+
+	**Créé par**:
+
+	  - Loi n°92-125 du 6 février 1992 - art. 121 ()
+
+	**Cité par**:
+
+	  - CODE DES COMMUNES. - art. L234-7 (Ab)
+	  - Code général des collectivités territoriales - art. L2334-7 (M)
 
 	**Abrogé par**:
 
@@ -21179,169 +21474,6 @@ présentés ainsi qu'aux commissions des finances de l'assemblée nationale et d
 
 
 ##### SECTION 4 : Concours particuliers
-
-###### Article L234-14
-
-Bénéficient d'une dotation particulière destinée à tenir compte des charges qui résultent de l'utilisation de leurs
-équipements par les habitants des communes voisines :
-
-1° Les communes qui, dans une agglomération représentant au moins 10 p. 100 de la population du département, en constituent
-la ville principale ;
-
-2° Les communes situées dans une agglomération de plus de 250.000 habitants représentants au moins 10 p. 100 de la population
-du département, lorsque leur population est au moins égale à la moitié de celle de la ville principale ;
-
-3° Les communes de plus de 100.000 habitants ou celles dont la population représente au moins 10 p. 100 de la population du
-département ;
-
-4° Les communes chefs-lieux de département. Dans la région d'Ile-de-France, seules ces communes bénéficient de la dotation
-particulière ; il en est de même pour les communes qui, faisant partie d'une communauté urbaine, d'un district ou d'un
-syndicat d'agglomération nouvelle de plus de 150 000 habitants, représentent au moins 25 p. 100 de la population de ce
-groupement de communes.
-
-Le montant des sommes à répartir chaque année, en application du présent article, est fixé chaque année par le comité des
-finances locales.
-
-La dotation revenant à chacune des communes mentionnées ci-dessus est proportionnelle à la somme des dotations reçues en
-vertu des articles L. 234-2 à L. 234-19 et L. 234-19-1.
-
-Les communes dont le potentiel fiscal est égal ou supérieur au double de celui de l'ensemble des communes ne perçoivent pas
-d'attribution à ce titre.
-
-Lorsqu'une commune remplit les conditions requises pour bénéficier à la fois de la dotation instituée par le présent article
-et de la dotation supplémentaire instituée par l'article L. 234-13, seule la plus élevée des deux dotations lui est versée.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°77-90 1977-01-27
-
-	**Cité par**:
-
-	  - Loi n°79-15 du 3 janvier 1979 - art. 25 (Ab)
-	  - Loi n°83-1186 du 29 décembre 1983 - art. 10 (Ab)
-	  - Loi n°85-1268 du 29 novembre 1985 - art. 28 (Ab)
-	  - Loi n°85-1268 du 29 novembre 1985 - art. 29 (M)
-	  - Loi n°85-1268 du 29 novembre 1985 - art. 42 (V)
-	  - Loi n°86-972 du 19 août 1986 - art. 45 (V)
-	  - CODE DES COMMUNES. - art. L233-29 (M)
-	  - CODE DES COMMUNES. - art. L234-10 (Ab)
-	  - CODE DES COMMUNES. - art. L234-17 (Ab)
-	  - CODE DES COMMUNES. - art. L234-19-1 (M)
-	  - CODE DES COMMUNES. - art. L234-19-2 (Ab)
-	  - CODE DES COMMUNES. - art. L234-2 (M)
-	  - CODE DES COMMUNES. - art. L234-21 (Ab)
-	  - CODE DES COMMUNES. - art. L234-7 (Ab)
-	  - CODE DES COMMUNES. - art. L262-5 (Ab)
-	  - CODE DES COMMUNES. - art. R*212-7 (Ab)
-	  - CODE DES COMMUNES. - art. R*234-17 (Ab)
-	  - CODE GENERAL DES IMPOTS, CGI. - art. 1648 B (M)
-	  - Code général des collectivités territoriales - art. L2334-21 (M)
-	  - Code général des collectivités territoriales - art. L2334-7 (V)
-
-	**Modifié par**:
-
-	  - Loi n°91-429 du 13 mai 1991 - art. 6 () JORF 14 mai 1991
-
-	**Liens**:
-
-	  - TXT_ASSOCIE: CODE DES COMMUNES. - art. L234-12 (M)
-	  - TXT_ASSOCIE: CODE DES COMMUNES. - art. L234-13 (M)
-
-	**Cite**:
-
-	  - CODE DES COMMUNES. - art. L234-13 (M)
-	  - Code des communes L234-2 à L234-19, L234-19-1, L234-13
-
-	**Nouveaux textes**:
-
-	  - Code général des collectivités territoriales - art. L1613-5 (V)
-
-
-##### SOUS-SECTION 4 bis : Dispositions applicables aux groupements de communes.
-
-###### Article L234-17
-
-Les groupements de communes dotés d'une fiscalité propre reçoivent une attribution de la dotation globale de fonctionnement.
-
-" Le montant total des sommes affectées à cette dotation ainsi que sa répartition entre les communautés urbaines, les
-districts à fiscalité propre et les syndicats ou communautés d'agglomération nouvelle sont fixés chaque année par le comité
-des finances locales. "
-
-La dotation globale de fonctionnement des groupements de communes dotés d'une fiscalité propre est prélevée sur les sommes
-affectées à la dotation globale de fonctionnement des communes, après déduction des sommes prévues pour les concours
-particuliers régis par les articles L. 234-13 et L. 234-14 et pour la garantie d'évolution prévue par l'article L. 234-19-1.
-
-Chaque groupement de communes défini ci-dessus reçoit :
-
-" a) Une dotation de base égale au produit d'une attribution moyenne par habitant par la population totale des communes
-regroupées. Pour les communautés urbaines et les districts à fiscalité propre, cette attribution moyenne est pondérée par le
-coefficient d'intégration fiscale défini au neuvième alinéa ci-dessous ;
-
-" b) Une dotation de péréquation en fonction de son potentiel fiscal. Pour les communautés urbaines et les districts à
-fiscalité propre, cette dotation est en outre fonction du coefficient d'intégration fiscale défini au neuvième alinéa ci-
-dessous.
-
-" Le potentiel fiscal d'une communauté urbaine ou d'un district à fiscalité propre est égal au montant des bases pondérées
-des quatre taxes directes locales. Ces bases sont les bases brutes servant à l'assiette des impositions communales de ce
-groupement. Le coefficient de pondération de la base de chacune des quatre taxes est le taux moyen national d'imposition à la
-taxe concernée constaté pour chacune de ces deux catégories de groupement.
-
-" Le potentiel fiscal d'un syndicat ou d'une communauté d'agglomération nouvelle est égal au montant des bases pondérées de
-taxe professionnelle. Ces bases sont les bases brutes servant à l'assiette des impositions de ce groupement. Le coefficient
-de pondération de ces bases est le taux moyen national d'imposition à la taxe professionnelle constaté pour les syndicats et
-communautés d'agglomération nouvelle. "
-
-Le coefficient d'intégration fiscale est égal au rapport entre le produit des quatre taxes directes locales et de la taxe ou
-de la redevance d'enlèvement des ordures ménagères perçu par le groupement et l'ensemble des communes regroupées.
-
-" Les sommes affectées à la dotation de base des communautés urbaines, des districts à fiscalité propre et des syndicats ou
-communautés d'agglomération nouvelle représentent 15 p. 100 du montant des sommes affectées à la dotation globale de
-fonctionnement de chacune de ces trois catégories de groupements de communes. "
-
-Pour 1986, le montant des sommes affectées à la dotation globale de fonctionnement des groupements de communes dotés d'une
-fiscalité propre ne peut être supérieur à 2025 millions de francs. Pour les années ultérieures, ce montant évolue comme la
-dotation globale de fonctionnement.
-
-Pour 1988, le montant des sommes affectées à la dotation globale de fonctionnement des syndicats ou communautés
-d'agglomération nouvelle s'élève à 65 millions de francs. Jusqu'au terme de la période transitoire prévue par l'article L.
-234-21-1 du code des communes, ce montant progresse comme les ressources de la dotation globale de fonctionnement des
-communautés urbaines et des districts à fiscalité propre réparties en application du b de ce même article. "
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°77-90 1977-01-27
-
-	**Liens**:
-
-	  - TXT_SOURCE: Décret n°82-998 du 17 novembre 1982
-	  - TXT_SOURCE: Décret n°82-998 du 17 novembre 1982 - art. 1 (V)
-	  - TXT_SOURCE: Décret n°82-998 du 17 novembre 1982 - art. 2 (V)
-	  - TXT_SOURCE: Décret n°82-998 du 17 novembre 1982 - art. 3 (V)
-
-	**Cité par**:
-
-	  - Loi n°83-636 du 13 juillet 1983 - art. 31 bis (Ab)
-	  - Décret n°85-260 du 22 février 1985 - art. 3-1 (M)
-	  - CODE DES COMMUNES. - art. L234-11-1 (Ab)
-	  - CODE DES COMMUNES. - art. L234-18 (M)
-	  - CODE DES COMMUNES. - art. R*234-2 (M)
-	  - CODE GENERAL DES IMPOTS, CGI. - art. 1648 B (M)
-
-	**Modifié par**:
-
-	  - Loi n°88-13 du 5 janvier 1988 - art. 8 () JORF 6 janvier 1988
-
-	**Cite**:
-
-	  - CODE DES COMMUNES. - art. L234-13 (M)
-	  - CODE DES COMMUNES. - art. L234-14 (M)
-	  - CODE DES COMMUNES. - art. L234-19-1 (M)
-	  - CODE DES COMMUNES. - art. L234-21-1 (M)
-
 
 ##### SOUS-SECTION 6 : Comité des finances locales.
 
@@ -52833,17 +52965,19 @@ de l'ordre de présentation [*conditions de vote*].
 
 Les représentants des groupements de communes sont élus par le collège des présidents de groupements de communes, au scrutin
 majoritaire de liste à un tour, avec dépôt de listes complètes sans adjonction ni suppression de noms et sans modification de
-l'ordre de présentation.
+l'ordre de présentation.    " La liste doit comprendre :
 
-La liste doit comprendre [*composition*] :
+" - un président de communauté urbaine ;
 
-- un président de communauté urbaine ;
+" - un président de communauté de villes ;
 
-- un président de district ;
+" - un président de communauté de communes ;
 
-- un président de syndicat de communes ;
+" - un président de district ;
 
-- un président d'organisme institué en vue de la création d'une agglomération nouvelle.
+" - un président de syndicat de communes ;
+
+" - un président d'organisme institué en vue de la création d'une agglomération nouvelle. "
 
 **Liens relatifs à cet article**
 
@@ -52860,10 +52994,12 @@ La liste doit comprendre [*composition*] :
 
 	**Liens**:
 
-	  - TXT_ASSOCIE: Loi n°79-15 du 3 janvier 1979 - art. 27 (V)
-	  - SPEC_APPLI: Loi n°80-1102 1980-12-31 : *Ces dispositions ne sont applicables que jusqu'au 1er janvier 1986*
+	  - SPEC_APPLI: Décret n°92-823 1992-08-21 art. 2
 	  - TXT_ASSOCIE: CODE DES COMMUNES. - art. R234-4 (M)
-	  - SPEC_APPLI: Code des communes R262-1, R262-12 : *Dispositions non applicables aux communes des départements de la Guadeloupe, de la Martinique, de la Guyane, de la Réunion et de Saint-Pierre-et-Miquelon*
+
+	**Modifié par**:
+
+	  - Décret n°92-823 du 21 août 1992 - art. 1 () JORF 27 août 1992   en vigueur le 1er janvier 1993
 
 
 ###### Article R*234-6
