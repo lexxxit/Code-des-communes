@@ -1,5 +1,5 @@
 # Code des communes  
-Version Consolidée au 1987-01-01
+Version Consolidée au 1987-01-18
 
 # Statuts types d'une caisse communale de secours et de retraite de sapeurs-pompiers
 
@@ -71319,6 +71319,46 @@ d'inhumation[*compétence*].
 	  - Code général des collectivités territoriales - art. R2213-31 (V)
 
 
+###### Article R361-12
+
+L'inhumation dans une propriété particulière du corps d'une personne décédée est autorisée [*compétence*] par le préfet du
+département où est située cette propriété [*par le préfet de police en ce qui concerne la ville de Paris*] sur attestation
+que les formalités prescrites par l'article R. 363-18 et par les articles 78 et suivants [*relatifs à la déclaration du décès
+et à l'établissement d'un acte de décès par l'officier de l'état civil de la commune où le décès a eu lieu*] du code civil
+ont été accomplies et aprés avis d'un hydrogéologue agréé.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°76-435 1976-05-18 ART. 23-2 (PARTIE)
+
+	**Codifié par**:
+
+	  - Décret n°77-241 1977-03-07
+
+	**Abrogé par**:
+
+	  - Décret n°2000-318 du 7 avril 2000 - art. 4 (V)
+
+	**Cite**:
+
+	  - CODE DES COMMUNES. - art. R363-18 (M)
+	  - Code civil 78 ET SUIVANTS
+
+	**Cité par**:
+
+	  - CODE DES COMMUNES. - art. R394-7 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code général des collectivités territoriales - art. R2213-32 (V)
+
+	**Modifié par**:
+
+	  - Décret n°87-28 1987-01-14 art. 1 JORF 18 janvier 1987
+
+
 ###### Article R361-13
 
 L'inhumation ou le dépôt en caveau provisoire a lieu :
@@ -71473,6 +71513,46 @@ dans un dépositoire ou dans un caveau provisoire.
 	**Nouveaux textes**:
 
 	  - Code général des collectivités territoriales - art. R2213-41 (V)
+
+
+###### Article R361-17
+
+Les personnes chargées de procéder aux exhumations revêtent un costume spécial qui est ensuite désinfecté ainsi que leurs
+chaussures. Elles sont tenues à un nettoyage antiseptique de la face et des mains[*mesures d'hygiène*].
+
+Le ministre chargé de la santé fixe, aprés avis du Conseil supérieur d'hygiène publique de France, les conditions dans
+lesquelles les cerceuils sont manipulés et extraits de la fosse.
+
+Lorsque le cercueil est trouvé en bon état de conservation au moment de l'exhumation, il ne peut être ouvert que s'il s'est
+écoulé cinq ans depuis le décès[*délai*].
+
+Lorsque le cercueil est trouvé détérioré, le corps est placé dans un autre cercueil ou dans une boîte à ossements.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°76-435 1976-05-18 ART. 24-2
+
+	**Codifié par**:
+
+	  - Décret n°77-241 1977-03-07
+
+	**Modifié par**:
+
+	  - Décret n°87-28 1987-01-14 art. 2 JORF 18 janvier 1987
+
+	**Abrogé par**:
+
+	  - Décret n°2000-318 du 7 avril 2000 - art. 4 (V)
+
+	**Cité par**:
+
+	  - CODE DES COMMUNES. - art. R364-6 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code général des collectivités territoriales - art. R2213-42 (M)
 
 
 ##### SECTION 2 : Concessions funéraires.
@@ -71918,6 +71998,56 @@ cercueil de dimensions appropriées.
 	  - Code général des collectivités territoriales - art. R2223-20 (V)
 
 
+###### Article R361-30
+
+Un arrêté du maire [*attributions*] affecte à perpétuité, dans le cimetière où se trouvent les concessions reprises, un
+ossuaire convenablement aménagé où les restes des personnes qui étaient inhumées dans les concessions reprises sont aussitôt
+réinhumés.
+
+Lorsque le cimetière n'offre pas d'emplacement suffisant pour la construction de l'ossuaire spécial, les restes peuvent être
+transférés par décision du maire dans l'ossuaire spécial d'un autre cimetière appartenant à la commune.
+
+Lorsque la commune est membre d'un syndicat de communes, d'un district ou d'une communauté urbaine, le transfert peut avoir
+lieu dans les mêmes conditions sur le territoire d'une autre commune appartenant au même groupement de communes.
+
+Le maire peut également faire procéder à la crémation des restes exhumés. Les cendres sont alors répandues dans le jardin du
+souvenir mentionné à l'article R. 361-14.
+
+Les noms des personnes, même si aucun reste n'a été retrouvé, sont consignés dans un registre tenu à la disposition du public
+et gravés sur un dispositif établi en matériaux durables dans le jardin du souvenir ou au-dessus de l'ossuaire.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret  1924-04-25 ART. 8 (PARTIE) REMPLACE ET COMPLETE
+
+	**Codifié par**:
+
+	  - Décret n°77-241 1977-03-07
+
+	**Cite**:
+
+	  - CODE DES COMMUNES. - art. R361-14 (M)
+
+	**Cité par**:
+
+	  - CODE DES COMMUNES. - art. R394-6 (Ab)
+	  - Loi n°96-142 du 21 février 1996 - art. 12 (V)
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: CODE DES COMMUNES. - art. R394-6 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code général des collectivités territoriales - art. R2223-6 (V)
+
+	**Modifié par**:
+
+	  - Décret n°87-28 1987-01-14 art. 3 JORF 18 janvier 1987
+
+
 ###### Article R361-31
 
 Les terrains occupés par les concessions reprises peuvent faire l'objet d'un nouveau contrat de concession seulement lorsque
@@ -71951,6 +72081,43 @@ exhumation des restes et réinhumation dans un ossuaire*].
 	  - Décret  1924-04-25 ART. 9
 
 
+###### Article R361-33
+
+Les articles R. 361-21 à R. 361-31 [*procès-verbal constatant l'état d'abandon d'une concession et reprise de concession*] ne
+dérogent pas aux dispositions qui régissent les sépultures militaires.
+
+Lorsqu'une personne  dont l'acte de décès porte la mention "Mort pour la France" régulièrement inscrite a été inhumée dans
+une concession perpétuelle ou centenaire, celle-ci ne peut faire l'objet d'une reprise avant l'expiration d'un délai de
+cinquante ans à compter de la date de l'inhumation. Cette disposition ne s'applique pas dans le cas où vient à expirer au
+cours des cinquante ans une concession centenaire.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret  1924-04-25 ART. 11
+
+	**Codifié par**:
+
+	  - Décret n°77-241 1977-03-07
+
+	**Modifié par**:
+
+	  - Décret n°87-28 1987-01-14 art. 5 JORF 18 janvier 1987
+
+	**Abrogé par**:
+
+	  - Décret n°2000-318 du 7 avril 2000 - art. 4 (V)
+
+	**Cite**:
+
+	  - Code des communes R361-21 à R361-31
+
+	**Nouveaux textes**:
+
+	  - Code général des collectivités territoriales - art. R2223-22 (V)
+
+
 ###### Article R361-34
 
 Une concession centenaire ou perpétuelle ne peut faire l'objet d'une reprise lorsque la commune ou un établissement public
@@ -71981,6 +72148,49 @@ est dans l'obligation de l'entretenir en exécution d'une donation ou d'une disp
 
 ##### SECTION 3 : Chambres funéraires.
 
+###### Article R361-35
+
+Les chambres funéraires sont destinées à recevoir, avant l'inhumation ou la crémation, les corps des personnes dont le déces
+n'a pas été causé par une maladie contagieuse.
+
+Elles sont créées, à la demande du conseil municipal, par arrêté du commissaire de la République, aprés enquête de commodo et
+incommodo et avis du conseil départemental d'hygiène. Leur gestion es assurée dans les conditions prévues pour les services
+publics communaux
+
+La commune peut également passer une convention avec un établissement de soins ou de retraite en vue de l'utilisation de la
+chambre funéraire de cet établissement.
+
+Les personnels des agences de funérailles munis d'une autorisation du maire ne peuvent se voir refuser l'accés des chambres
+funéraires pour le dépôt ou le retrait des corps.
+
+Lorsqu'une chambre funéraire présente des inconvénients graves, le commissaire de la République peut en ordonner la
+suppression aprés avis du conseil municipal.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°76-435 du 18 mai 1976 - art. 5 ()
+
+	**Codifié par**:
+
+	  - Décret n°77-241 1977-03-07
+
+	**Modifié par**:
+
+	  - Décret n°87-28 1987-01-14 art. 6 JORF 18 JANVIER 1987
+
+	**Cité par**:
+
+	  - Décret n°94-1118 du 20 décembre 1994 - art. 1 (Ab)
+	  - Décret n°95-653 du 9 mai 1995 - art. 29 (Ab)
+	  - Décret n°99-662 du 28 juillet 1999 - art. 8 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code général des collectivités territoriales - art. R2223-74 (V)
+
+
 ###### Article R361-36
 
 le corps d'une personne décédée ne peut être admis dans une chambre funéraire située sur le territoire de la commune du lieu
@@ -72008,6 +72218,94 @@ contagieuses mentionnées dans l'arrêté prévu à l'article R. 363-6 [*formali
 	**Nouveaux textes**:
 
 	  - Code général des collectivités territoriales - art. R2223-75 (V)
+
+
+###### Article R361-37
+
+L'admission intervient dans un délai maximum de dix-huit heures à compter du décès. Ce délai est porté à trente-six heures
+lorsque le corps a subi les soins de conservation prévus à l'article R. 363-1.
+
+Elle a lieu sur la demande écrite [*formalités - qualité pour agir*] :
+
+- soit de toute personne qui a qualité pour pourvoir aux funérailles et justifie de son état civil et de son domicile ;
+
+- soit de la personne chez qui le décès a eu lieu, à condition qu'elle atteste par écrit qu'il lui a été impossible de
+joindre ou de retrouver l'une des personnes ayant qualité pour pourvoir aux funérailles ;
+
+- soit du directeur de l'établissement, dans le cas de décès dans un établissement d'hospitalisation public ou privé, sous la
+condition prévue au paragraphe précédent lorsque la chambre funéraire n'est pas la chambre mortuaire de l'établissement.
+
+La demande d'admission en chambre funéraire est présentée aprés le décés. Elle énonce les nom, prénom, âge et domicile du
+défunt.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°76-435 1976-05-18 ART. 5-1 AL. 2, 3 et 5
+
+	**Codifié par**:
+
+	  - Décret n°77-241 1977-03-07
+
+	**Cité par**:
+
+	  - Décret n°97-1039 du 14 novembre 1997 - art. 4 (Ab)
+
+	**Cite**:
+
+	  - CODE DES COMMUNES. - art. R363-1 (M)
+
+	**Nouveaux textes**:
+
+	  - Code général des collectivités territoriales - art. R2223-76 (V)
+
+	**Modifié par**:
+
+	  - Décret n°87-28 1987-01-14 art. 7 JORF 18 janvier 1987
+
+
+###### Article R361-38
+
+Lorsque le décès a eu lieu sur la voie publique ou dans un lieu ouvert au public, l'admission du corps en chambre funéraire
+est autorisée [*compétence*] par les autorités de police ou de gendarmerie [*autorisation obligatoire*].
+
+Un médecin est commis pour s'assurer auparavant de la réalité et de la cause du décès.
+
+Dans les cas prévus à l'article 81 du code civil et à l'article 74 du code de procédure pénale, l'admission d'un corps en
+chambre funéraire est autorisée par le procureur de la République.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°76-435 1976-05-18 ART. 5-1 AL. 4
+
+	**Codifié par**:
+
+	  - Décret n°77-241 1977-03-07
+
+	**Abrogé par**:
+
+	  - Décret n°2000-318 du 7 avril 2000 - art. 4 (V)
+
+	**Cité par**:
+
+	  - CODE DES COMMUNES. - art. R363-4 (Ab)
+
+	**Cite**:
+
+	  - CODE DES COMMUNES. - art. R363-6 (M)
+	  - Code civil - art. 81 (V)
+	  - CODE DE PROCEDURE PENALE - art. 74 (M)
+
+	**Nouveaux textes**:
+
+	  - Code général des collectivités territoriales - art. R2223-77 (V)
+
+	**Modifié par**:
+
+	  - Décret n°87-28 1987-01-14 art. 8 JORF 18 janvier 1987
 
 
 ###### Article R361-39
@@ -72055,6 +72353,40 @@ de police*].
 	  - Code général des collectivités territoriales - art. R2223-78 (V)
 
 
+###### Article R361-40
+
+Lorsque le transfert à une chambre funéraire du corps d'une personne décédée dans un établissement d'hospitalisation public
+ou privé a été opéré à la demande du directeur de l'établissement, les frais résultant du transport et du séjour à la chambre
+funéraire sont à la charge de l'établissement.
+
+Le corps peut faire l'objet d'un nouveau transport, soit à une autre chambre funéraire, soit à la résidence du défunt ou d'un
+membre de sa famille, dans les délais et conditions prévus à la présente section et aux sections II, III et IV du chapitre
+III [*transports avant et après la mise en bière, dépôts temporaires*], à la demande de toute personne qui a qualité pour
+pourvoir aux funérailles [*qualité pour agir*].
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°76-435 du 18 mai 1976 - art. 6 (V)
+
+	**Codifié par**:
+
+	  - Décret n°77-241 1977-03-07
+
+	**Cité par**:
+
+	  - Décret n°97-1039 du 14 novembre 1997 - art. 5 (Ab)
+
+	**Cite**:
+
+	  - Code des communes R363-4 à R363-36
+
+	**Modifié par**:
+
+	  - Décret n°87-28 1987-01-14 art. 9 JORF 18 janvier 1987
+
+
 ##### SECTION 4 : Crémations.
 
 ###### Article R361-41
@@ -72083,6 +72415,92 @@ départemental d'hygiène [*conditions de forme*].
 	**Cité par**:
 
 	  - Décret n°94-1027 du 23 novembre 1994 - art. 7 (V)
+
+
+###### Article R361-42
+
+La crémation [*incinération*] est autorisée par le maire de la commune du lieu du déces ou, s'il y a eu transport du corps,
+du lieu de la mise en bière.
+
+Cette autorisation est accordée sur les justifications suivantes :
+
+1° L'expression écrite des dernières volontés du défunt ou, à défaut, la demande de toute personne qui a qualité pour
+pourvoir aux funérailles et justifie de son état civil et de son domicile ;
+
+2° Un certificat du médecin chargé par l'officier d'état civil de s'assurer du décès et affirmant que celui-ci ne pose pas de
+problème médico-légal.
+
+Lorsque le décès pose un problème médico-légal, la crémation ne peut avoir lieu qu'après l'autorisation du parquet
+[*conditions de forme*] qui peut subordonner celle-ci à une autopsie préalable, effectuée par un médecin légiste choisi sur
+la liste des experts et aux frais de la famille.
+
+Lorsque le décès a eu lieu à l'étranger, la crémation est autorisée par le maire de la commune où elle est pratiquée
+L'autorisation de transport de corps prévue par un arrangement international tient lieu, dans ce cas, de certificat du
+médecin.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°76-435 1976-05-18 ART. 22-1 (PARTIE)
+
+	**Codifié par**:
+
+	  - Décret n°77-241 1977-03-07
+
+	**Nouveaux textes**:
+
+	  - Code général des collectivités territoriales - art. R2213-34 (V)
+
+	**Créé par**:
+
+	  - Décret n°87-28 1987-01-14 art. 10 JORF 18 janvier 1987
+
+	**Cité par**:
+
+	  - Décret n°95-653 du 9 mai 1995 - art. 9-1 (Ab)
+
+
+###### Article R361-43
+
+La crémation [*incinération*] a lieu :
+
+- lorsque le décès s'est produit en France, vingt-quatre heures au moins et six jours au plus après le décès ;
+
+- lorsque le décès a eu lieu à l'étranger ou dans un territoire d'outre-mer, six jours au plus après l'entrée du corps en
+France.
+
+Les dimanches et jours fériés ne sont pas compris dans le calcul de ces délais.
+
+Des dérogations aux délais prévus au premier alinéa peuvent être accordées, en raison de circonstances particulières, par le
+préfet du département du lieu du déces ou de la crémation[*compétence*], lequel prescrit éventuellement toutes dispositions
+nécessaires.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°76-435 1976-05-18 ART. 22-2
+
+	**Codifié par**:
+
+	  - Décret n°77-241 1977-03-07
+
+	**Modifié par**:
+
+	  - Décret n°87-28 1987-01-14 art. 11 JORF 18 janvier 1987
+
+	**Abrogé par**:
+
+	  - Décret n°2000-318 du 7 avril 2000 - art. 4 (V)
+
+	**Cité par**:
+
+	  - CODE DES COMMUNES. - art. R363-10 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code général des collectivités territoriales - art. R2213-35 (V)
 
 
 ###### Article R361-44
@@ -72147,7 +72565,58 @@ L'urne est remise à la famille.
 	  - Code général des collectivités territoriales - art. R2213-39-1 (V)
 
 
+###### Article R361-45-1
+
+La crémation des restes des corps exhumés est autorisée, sur demande des familles, par le maire de la commune du lieu
+d'exhumation.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°77-241 1977-03-07
+
+	**Nouveaux textes**:
+
+	  - Code général des collectivités territoriales - art. R2213-37 (V)
+
+	**Créé par**:
+
+	  - Décret n°87-28 1987-01-14 art. 12 JORF 18 janvier 1987
+
+
 ##### SECTION 5 : Dispositions diverses.
+
+###### Article R361-46
+
+Indépendamment des peines prévues en cas de récidive à l'article L. 361-21, toute contravention [*infraction*] aux
+dispositions des articles R. 361-10 à R. 361-17, des articles R. 361-35 à R. 361-45-1, des articles R. 363-1 à R. 363-35, des
+articles R. 364-1 à R. 364-7 et des articles R. 364-14 à R. 364-17 est punie des peines prévues pour les contraventions de 5è
+classe.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°77-241 1977-03-07
+
+	**Cite**:
+
+	  - CODE DES COMMUNES. - art. L361-21 (M)
+	  - Code des communes R364-1 à R364-7 et R364-14 à R364-17
+
+	**Nouveaux textes**:
+
+	  - Code général des collectivités territoriales - art. R2223-66 (V)
+
+	**Modifié par**:
+
+	  - Décret n°87-28 1987-01-14 art. 13 JORF 18 janvier 1987
+
+	**Abrogé par**:
+
+	  - Décret n°2000-318 du 7 avril 2000 - art. 4 (V)
+
 
 ###### Article R361-47
 
@@ -72179,9 +72648,86 @@ mesures temporaires prises après avis du conseil supérieur d'hygiène publique
 	  - Code des communes R361-10 à R361-17 et R361-35 à R361-45
 
 
+#### CHAPITRE 2 : Pompes funèbres
+
+##### SECTION 2 : Réglementation de l'activité des entreprises privées participant au service extérieur des pompes funèbres.
+
+###### Article R*362-4
+
+Indépendamment des peines prévues en cas de récidive à l'article L. 362-12, toute infraction aux dispositions des articles L.
+362-1, L. 362-4-1, L. 362-8, L.362-9 et L.362-10 est punie des peines d'amendes [*sanctions*] prévues pour les contraventions
+de 5è classe.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°77-241 1977-03-07
+
+	**Abrogé par**:
+
+	  - Décret n°94-1027 du 23 novembre 1994 - art. 7 (V) JORF 2 décembre 1994
+
+	**Cite**:
+
+	  - CODE DES COMMUNES. - art. L362-1 (M)
+	  - CODE DES COMMUNES. - art. L362-12 (M)
+	  - CODE DES COMMUNES. - art. L362-4-1 (MMN)
+	  - Code des communes L362-8 à L362-10
+
+	**Modifié par**:
+
+	  - Décret n°87-28 1977-01-14 art. 15 JORF 18 janvier 1987
+
+
 #### CHAPITRE 3 : Soins de conservation et transport de corps
 
 ##### SECTION 1 : Soins de conservation.
+
+###### Article R363-1
+
+Il ne peut être procédé à une opération tendant à la conservation du corps d'une personne décédée sans une autorisation
+[*conditions de forme*] délivrée par [*compétence*] le maire de la commune du lieu de déces ou de la commune où sont
+pratiquées les opérations de conservation [*par le préfet de police si le décès a eu lieu à Paris*].
+
+Pour obtenir cette autorisation, il y a lieu de produire [*formalités*] :
+
+1° L'expression écrite des dernières volontés de la personne décédée ou une demande de toute personne qui a qualité pour
+pourvoir aux funérailles et justifie de son état civil et de son domicile ;
+
+2° Une déclaration indiquant le mode opératoire, le produit que l'on se propose d'employer, le lieu et l'heure de l'opération
+ainsi que le nom et l'adresse de la personne ou de l'entreprise qui procédera à celle-ci ;
+
+3° Le certificat du médecin chargé par l'officier d'état civil de s'assurer du décès et attestant que celui-ci ne pose pas de
+problème médico-légal.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°76-435 1976-05-18 ART. 1 (PARTIE)
+
+	**Codifié par**:
+
+	  - Décret n°77-241 1977-03-07
+
+	**Cité par**:
+
+	  - Décret n°94-1118 du 20 décembre 1994 - art. 3 (Ab)
+	  - CODE DES COMMUNES. - art. R361-36 (Ab)
+	  - CODE DES COMMUNES. - art. R361-37 (Ab)
+	  - CODE DES COMMUNES. - art. R363-3 (Ab)
+	  - CODE DES COMMUNES. - art. R394-8 (Ab)
+	  - Code des pensions militaires d'invalidité et des v - art. A22 (V)
+
+	**Abrogé par**:
+
+	  - Décret n°2000-318 du 7 avril 2000 - art. 4 (V)
+
+	**Modifié par**:
+
+	  - Décret n°87-28 1987-01-14 art. 16 JORF 18 janvier 1987
+
 
 ###### Article R363-2
 
@@ -72264,7 +72810,399 @@ autorisée [*au préfet de police en ce qui concerne la ville de Paris*].
 
 ##### SECTION 2 : Transport de corps avant mise en bière
 
+##### SOUS-SECTION 1 : Transport de corps à résidence.
+
+###### Article R363-4
+
+Sans préjudice des dispositions particulières prévues à l'article R. 361-38, le transport sans mise en bière du corps d'une
+personne décédée dans un lieu autre que son domicile, de ce lieu à son domicile ou à la résidence d'un membre de sa famille
+est autorisé par le maire de la commune de décès dans les conditions prévues, notamment, par l'article R. 363-5.
+
+Le transport s'effectue dans les conditions prévues aux articles R. 363-12 et suivants.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°76-435 1976-05-18 ART. 4 (PARTIE)
+
+	**Codifié par**:
+
+	  - Décret n°77-241 1977-03-07
+
+	**Abrogé par**:
+
+	  - Décret n°2000-318 du 7 avril 2000 - art. 4 (V)
+
+	**Cité par**:
+
+	  - CODE DES COMMUNES. - art. R361-11 (Ab)
+	  - CODE DES COMMUNES. - art. R394-8 (Ab)
+
+	**Cite**:
+
+	  - CODE DES COMMUNES. - art. R361-38 (M)
+	  - CODE DES COMMUNES. - art. R363-12 (M)
+	  - CODE DES COMMUNES. - art. R363-5 (M)
+
+	**Modifié par**:
+
+	  - Décret n°87-28 1987-01-14 art. 17 et 18 JORF 18 janvier 1987
+
+
+###### Article R363-5
+
+L'autorisation est subordonnée :
+
+1° A la demande de toute personne qui a qualité pour pourvoir aux funérailles et justifie de son état civil et de son
+domicile ;
+
+2° A la reconnaissance préalable du corps par cette personne ;
+
+3° Si le décès s'est produit dans une maison de retraite ou dans un établissement de soins, à l'accord écrit du directeur.
+
+4° A l'accord écrit du médecin chef du service hospitalier ou de son représentant dans un établissement public, ou du médecin
+traitant dans un établissement privé ou du médecin qui a constaté le décès, si celui-ci est survenu hors d'un établissement
+hospitalier.
+
+5° A l'accomplissement préalable des formalités prescrites aux articles 78, 79 et 80 du code civil relatives aux déclarations
+de décès[*et à l'établissement d'un acte de décès par l'officier de l'état civil de la commune où le décès a eu lieu*].
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°76-435 1976-05-18 ART. 4-1
+
+	**Codifié par**:
+
+	  - Décret n°77-241 1977-03-07
+
+	**Cité par**:
+
+	  - Décret n°97-1039 du 14 novembre 1997 - art. 6 (Ab)
+	  - CODE DES COMMUNES. - art. R363-4 (Ab)
+	  - CODE DES COMMUNES. - art. R363-6 (Ab)
+
+	**Abrogé par**:
+
+	  - Décret n°2000-318 du 7 avril 2000 - art. 4 (V)
+
+	**Nouveaux textes**:
+
+	  - Code général des collectivités territoriales - art. R2213-8 (V)
+
+	**Cite**:
+
+	  - Code civil 78 à 80
+
+	**Modifié par**:
+
+	  - Décret n°87-28 1987-01-14 art. 18 et 19 JORF 18 janvier 1987
+
+
+###### Article R363-6
+
+Le refus du médecin mentionné à l'article précédent est motivé     . 
+
+Le médecin ne peut s'opposer au transport que pour les motifs suivants : 
+
+1° Le décès soulève un problème médico-légal ; 
+
+2° Le défunt était atteint, au moment du décès, de l'une des maladies contagieuses dont la liste est fixée par arrêté du
+ministre chargé de la santé, après avis du conseil supérieur d'hygiène publique de France ; 
+
+3° L'état du corps ne permet pas un tel transport. 
+
+Lorsque le médecin s'oppose au transport du corps sans mise en bière, il en avertit sans délai par écrit la famille et, s'il
+y a lieu, le directeur de l'établissement.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°76-435 1976-05-18 ART. 4-2
+
+	**Codifié par**:
+
+	  - Décret n°77-241 1977-03-07
+
+	**Cité par**:
+
+	  - Décret n°97-1039 du 14 novembre 1997 - art. 6 (Ab)
+	  - CODE DES COMMUNES. - art. R361-16 (Ab)
+	  - CODE DES COMMUNES. - art. R361-36 (M)
+	  - CODE DES COMMUNES. - art. R361-37 (Ab)
+	  - CODE DES COMMUNES. - art. R361-38 (Ab)
+	  - CODE DES COMMUNES. - art. R363-10 (Ab)
+	  - CODE DES COMMUNES. - art. R363-11 (Ab)
+
+	**Abrogé par**:
+
+	  - Décret n°2000-318 du 7 avril 2000 - art. 4 (V)
+
+	**Cite**:
+
+	  - CODE DES COMMUNES. - art. R363-5 (M)
+
+	**Nouveaux textes**:
+
+	  - Code général des collectivités territoriales - art. R2213-9 (V)
+
+	**Modifié par**:
+
+	  - Décret n°87-28 1987-01-14 art. 17 et 20 JORF 22 janvier 1987
+
+
+###### Article R363-7
+
+Lorsque la commune du lieu du décès n'est pas celle où le corps est transporté, avis de l'autorisation de transport
+[*formalités*] est adressé sans délai au maire de cette dernière commune[*au préfet de police en ce qui concerne la ville de
+Paris*].
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°76-435 1976-05-18 ART. 4-3 (PARTIE)
+
+	**Codifié par**:
+
+	  - Décret n°77-241 1977-03-07
+
+	**Modifié par**:
+
+	  - Décret n°87-28 1987-01-14 art. 17 JORF 18 janvier 1987
+
+	**Abrogé par**:
+
+	  - Décret n°2000-318 du 7 avril 2000 - art. 4 (V)
+
+	**Cité par**:
+
+	  - CODE DES COMMUNES. - art. R394-8 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code général des collectivités territoriales - art. R2213-10 (V)
+
+
+###### Article R363-8
+
+Lorsque le corps n'a pas subi les soins de conservation prévus à la section I, les opérations de transport sont achevées dans
+un délai maximum de dix-huit heures à compter du décès.Lorsque le corps a subi les soins de conservation, le délai est porté
+à trente-six heures. Le procès verbal prévu à l'article R. 363-3 figure au dossier constitué pour le transport du corps. du
+décès. Le procès-verbal [*de l'opération de conservation du corps*] prévu à l'article R. 363-3 figure au dossier constitué
+pour le transport de corps.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°76-435 1976-05-18 ART. 4-4
+
+	**Codifié par**:
+
+	  - Décret n°77-241 1977-03-07
+
+	**Cite**:
+
+	  - CODE DES COMMUNES. - art. R363-3 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code général des collectivités territoriales - art. R2213-11 (V)
+
+	**Modifié par**:
+
+	  - Décret n°87-28 1987-01-14 art. 17 et 21 JORF 18 janvier 1987
+
+
+###### Article R363-9
+
+Dans le cas où l'autorisation n'est pas accordée [*refus*], le corps ne peut être transporté qu'après mise en bière et dans
+les conditions fixées aux articles R. 363-16 à R. 363-34.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°76-435 1976-05-18 ART. 4-5 (PARTIE)
+
+	**Codifié par**:
+
+	  - Décret n°77-241 1977-03-07
+
+	**Abrogé par**:
+
+	  - Décret n°2000-318 du 7 avril 2000 - art. 4 (V)
+
+	**Cite**:
+
+	  - Code des communes R363-16 à R363-34
+
+	**Nouveaux textes**:
+
+	  - Code général des collectivités territoriales - art. R2213-12 (V)
+
+	**Modifié par**:
+
+	  - Décret n°87-28 1987-01-14 art. 17 JORF 18 janvier 1987
+
+
+##### SOUS-SECTION 2 : Transport de corps à un établissement d'hospitalisation, d'enseignement ou de recherche.
+
+###### Article R363-10
+
+Un établissement d'hospitalisation, d'enseignement ou de recherche ne peut accepter de don de corps que si l'intéressé en a
+fait la déclaration écrite en entier, datée et signée de sa main [*conditions de forme*].
+
+Cette déclaration peut contenir notamment l'indication de l'établissement auquel le corps est remis.
+
+Une copie de la déclaration est adressée à l'établissement auquel le corps est légué ; cet établissement délivre à
+l'intéressé une carte de donateur que celui-ci s'engage à porter en permanence.
+
+L'exemplaire de la déclaration qui était détenu par le défunt est remise à l'officier d'état civil lors de la déclaration du
+décès.
+
+L'établissement d'hospitalisation, d'enseignement ou de recherche assure à ses frais l'inhumation ou la crémation du corps.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°76-435 1976-05-18 ART. 7 AL. 1 à 4
+
+	**Codifié par**:
+
+	  - Décret n°77-241 1977-03-07
+
+	**Cité par**:
+
+	  - CODE DES COMMUNES. - art. R394-8 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code général des collectivités territoriales - art. R2213-13 (V)
+
+	**Modifié par**:
+
+	  - Décret n°87-28 1987-01-14 art. 22 JORF 18 janvier 1987
+
+
+###### Article R363-11
+
+Après le décès, le transport du corps est autorisé par le maire de la commune du lieu de décès [*par le préfet de police en
+ce qui concerne la ville de Paris - compétence*].
+
+L'autorisation est accordée sur production des certificats médicaux prévus à l'article R. 361-36 [*constatant que le défunt
+n'est pas atteint de l'une des maladies contagieuses mentionnées par arrêté*] et au 3° de l'article R. 363-1 [*certifiant le
+décès et attestant que celui-ci ne pose pas de problème médico-légal*].
+
+Les opérations de transport sont achevées dans un délai maximum de vingt-quatre heures à compter du décès.
+
+Lorsque le décès survient dans un établissement hospitalier disposant d'équipements permettant la conservation des corps, ce
+délai est porté à quarante-huit heures.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°76-435 1976-05-18 ART. 7 AL. 6, 7 et 5 (PARTIE)
+
+	**Codifié par**:
+
+	  - Décret n°77-241 1977-03-07
+
+	**Cité par**:
+
+	  - CODE DES COMMUNES. - art. R394-8 (Ab)
+
+	**Cite**:
+
+	  - Code des communes R361-36 et R363-1 3°
+
+	**Nouveaux textes**:
+
+	  - Code général des collectivités territoriales - art. R2213-14 (V)
+
+	**Modifié par**:
+
+	  - Décret n°87-28 1987-01-14 art. 23 JORF 18 janvier 1987
+
+
 ##### SOUS-SECTION 3 : Conditions du transport.
+
+###### Article R363-12
+
+Peuvent assurer les transports de corps prévus à la section III du chapitre Ier [*relative aux chambres funéraires*] et à la
+section II du présent chapitre [*avant la mise en bière*] :
+
+1° Les établissements d'hospitalisation publics ou privés ;
+
+2° Les entreprises agréées par le commissaire de la République du département où est implanté le siège social de l'entreprise
+et par le commissaire dde la République du département où sont implantés ses établissements secondaires éventuels.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°76-435 1976-05-18 ART. 8 AL. 1
+
+	**Codifié par**:
+
+	  - Décret n°77-241 1977-03-07
+
+	**Abrogé par**:
+
+	  - Décret n°94-1027 du 23 novembre 1994 - art. 7 (V)
+
+	**Cité par**:
+
+	  - Décret n°94-1027 du 23 novembre 1994 - art. 7 (V)
+	  - CODE DES COMMUNES. - art. R363-4 (Ab)
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: CODE DES COMMUNES. - art. R363-15 (Ab)
+
+	**Cite**:
+
+	  - Code des communes R361-35 à R361-40
+
+	**Modifié par**:
+
+	  - Décret n°87-28 1987-01-14 art. 24 JORF 18 janvier 1987
+
+
+###### Article R363-13
+
+Les transports de corps sont effectués au moyen de véhicules spécialement aménagés, exclusivement réservés aux transports
+mortuaires, agréés par le commissaire de la République du département de réception délivrés par le préfet [*par le préfet de
+police en ce qui concerne la ville de Paris*], certificats qui sont présentés à toute réquisition.
+
+Le visage du défunt reste découvert et les mains libres.
+
+Les voitures sont désinfectées après chaque transport [*formalités*] .
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°76-435 1976-05-18 ART. 8 AL. 2 (PARTIE)
+
+	**Codifié par**:
+
+	  - Décret n°77-241 1977-03-07
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: CODE DES COMMUNES. - art. R363-15 (Ab)
+
+	**Modifié par**:
+
+	  - Décret n°87-28 1987-01-14 art. 25 JORF 18 janvier 1987
+
 
 ###### Article R363-14
 
@@ -72346,6 +73284,44 @@ en bière (J.O. 20 mai 1976).
 ##### SECTION 3 : Mise en bière et transport après mise en bière; fermeture du cercueil
 
 ##### SOUS-SECTION 1 : Mise en bière et fermeture du cercueil.
+
+###### Article R363-16
+
+Avant son inhumation ou sa crémation [*incinération*], le corps d'une personne décédée est mis en bière.
+
+La housse imperméable éventuellement utilisée pour envelopper le corps avant sa mise en bière est fabriqué dans un matériau
+biodégradable. Elle est d'un modéle agrée par le ministre chargé de la santé aprés avis du Conseil supérieur d'hygiène
+publique de France.
+
+Si la personne décédée était porteuse d'une prothèse renfermant des radio-éléments artificiels, un médecin atteste de la
+récupération de l'appareil avant la mise en bière.
+
+En cas de crémation du corps d'une personne porteuse d'une prothèse fonctionnant au moyen d'une pile, un médecin atteste de
+la récupération de l'appareil avant l'incinération.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°76-435 1976-05-18 ART. 9
+
+	**Codifié par**:
+
+	  - Décret n°77-241 1977-03-07
+
+	**Cité par**:
+
+	  - CODE DES COMMUNES. - art. R361-42 (Ab)
+	  - Décret n°94-941 du 24 octobre 1994 - art. 11 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code général des collectivités territoriales - art. R2213-15 (V)
+
+	**Modifié par**:
+
+	  - Décret n°87-28 1987-01-14 art. 26 JORF 18 janvier 1987
+
 
 ###### Article R363-17
 
@@ -72535,6 +73511,38 @@ police en ce qui concerne Paris*].
 	  - Code général des collectivités territoriales - art. R2213-21 (V)
 
 
+###### Article R363-23
+
+Lorsque le corps est transporté en dehors du territoire métropolitain, l'autorisation est donnée [*compétence*] par le
+commissaire de la République du département où a lieu la fermeture du cercueil.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°76-435 1976-05-18 ART. 13 (PARTIE)
+
+	**Codifié par**:
+
+	  - Décret n°77-241 1977-03-07
+
+	**Modifié par**:
+
+	  - Décret n°87-28 1987-01-14 art. 27 JORF 18 janvier 1987
+
+	**Abrogé par**:
+
+	  - Décret n°2000-318 du 7 avril 2000 - art. 4 (V)
+
+	**Cité par**:
+
+	  - CODE DES COMMUNES. - art. R363-25 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code général des collectivités territoriales - art. R2213-22 (V)
+
+
 ###### Article R363-24
 
 L'entrée en France du corps d'une personne décédée à l'étranger ou dans un territoire d'outre-mer et son transfert au lieu de
@@ -72610,6 +73618,174 @@ l'article R.363-23[*compétence*].
 	**Nouveaux textes**:
 
 	  - Code général des collectivités territoriales - art. R2213-24 (V)
+
+
+###### Article R363-25-1
+
+Les signes distinctifs des entreprises éventuellement apposés sur les véhicules affectés aux convois répondent aux
+caractéristiques fixées par arrêté du ministre de l'intérieur.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°77-241 1977-03-07
+
+	**Liens**:
+
+	  - TXT_SOURCE: Arrêté du 1 décembre 1987
+	  - TXT_SOURCE: Arrêté du 1 décembre 1987 - art. 1 (Ab)
+	  - TXT_SOURCE: Arrêté du 1 décembre 1987 - art. 2 (Ab)
+	  - TXT_SOURCE: Arrêté du 1 décembre 1987 - art. 3 (Ab)
+
+	**Créé par**:
+
+	  - Décret n°87-28 1987-01-14 art. 28 JORF 18 janvier 1987
+
+	**Abrogé par**:
+
+	  - Décret n°94-1027 du 23 novembre 1994 - art. 7 (V)
+
+	**Cité par**:
+
+	  - Décret n°94-1027 du 23 novembre 1994 - art. 7 (V)
+
+
+##### SOUS-SECTION 3 : Conditions de transport.
+
+###### Article R363-26
+
+Sauf dans les cas prévus à l'article R. 363-27, le corps est placé dans un cercueil en bois d'au moins 22 millimètres
+d'épaisseur avec une garniture étanche fabriquée dans un matériau biodégradable agréé par le ministre de la santé aprés avis
+du Conseil supérieur d'hygiène publique de France.
+
+Toutefois, un cerceuil d'une épaisseur minimale de 18 millimètres aprés finition, avec garniture étanche fabriquée dans un
+matériau biodégradable agréé dans les mêmes conditions, est autorisé soit si la durée du transport du corps est inférieure à
+deux heures, ou à quatre heures lorsque le corps a subi des soins de conservation soit en cas de crémation. Les garnitures et
+accessoires posés à l'intérieur ou à l'extérieur des cerceuils destinés à la crémation sont composés exclusivement de
+matériaux combustibles ou sublimables et il ne peut y être fait usage d'un mélange désinfectant comportant de la poudre de
+tan ou du charbon pulvérisé.
+
+Les cercueils peuvent également être fabriqués dans un matériau ayant fait l'objet d'un agrément renouvelable tous les cinq
+ans [*périodicité*] par le ministre chargé de la santé, aprés avis du Conseil supérieur d'hygiène publique de France.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°76-435 1976-05-18 ART. 16
+
+	**Codifié par**:
+
+	  - Décret n°77-241 1977-03-07
+
+	**Liens**:
+
+	  - TXT_SOURCE: Arrêté du 21 mars 1991
+	  - TXT_SOURCE: Arrêté du 21 mars 1991 - art. 1 (V)
+	  - TXT_SOURCE: Arrêté du 21 mars 1991 - art. 2 (V)
+	  - TXT_SOURCE: Arrêté du 21 mars 1991 - art. 3 (V)
+	  - TXT_SOURCE: Arrêté du 21 mars 1991 - art. 4 (V)
+	  - TXT_SOURCE: Arrêté du 4 juin 1996
+	  - TXT_SOURCE: Arrêté du 4 juin 1996 - art. 1 (V)
+	  - TXT_SOURCE: Arrêté du 4 juin 1996 - art. 2 (V)
+	  - TXT_SOURCE: Arrêté du 4 juin 1996 - art. 3 (V)
+	  - TXT_SOURCE: Arrêté du 4 juin 1996 - art. 4 (V)
+	  - TXT_SOURCE: Arrêté du 4 juin 1996 - art. 5 (V)
+
+	**Cité par**:
+
+	  - Arrêté du 21 mars 1991 - art. 2 (V)
+	  - Arrêté du 4 juin 1996 - art. 2 (V)
+
+	**Cite**:
+
+	  - CODE DES COMMUNES. - art. R363-27 (M)
+
+	**Nouveaux textes**:
+
+	  - Code général des collectivités territoriales - art. R2213-25 (V)
+
+	**Modifié par**:
+
+	  - Décret n°87-28 1987-01-14 art. 29 JORF 18 janvier 1987
+
+
+###### Article R363-27
+
+Le corps est placé dans un cercueil hermétique satisfaisant aux conditions fixées à l'article R. 363-28 dans les cas ci-
+aprés :
+
+1° Si la personne était atteinte au moment du décès d'une des maladies contagieuses définies par arrêté du ministre chargé de
+la santé;
+
+2° En cas de dépôt du corps soit à résidence, soit dans une édifice cultuel, soit dans un dépositoire ou dans un caveau
+provisoire, pour une durée excédant six jours.
+
+3° Dans tous les cas où le commissaire de la République le prescrit.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°76-435 1976-05-18 ART. 17
+
+	**Codifié par**:
+
+	  - Décret n°77-241 1977-03-07
+
+	**Abrogé par**:
+
+	  - Décret n°2000-318 du 7 avril 2000 - art. 4 (V)
+
+	**Cité par**:
+
+	  - CODE DES COMMUNES. - art. R363-26 (Ab)
+
+	**Cite**:
+
+	  - CODE DES COMMUNES. - art. R363-28 (M)
+
+	**Nouveaux textes**:
+
+	  - Code général des collectivités territoriales - art. R2213-26 (V)
+
+	**Modifié par**:
+
+	  - Décret n°87-28 1987-01-14 art. 30 JORF 18 janvier 1987
+
+
+###### Article R363-28
+
+Les cerceuils hermétiques sont d'un modèle agréé par le ministre chargé de la santé aprés avis du Conseil supérieur d'hygiène
+publique de France.
+
+Ils doivent ne céder aucun liquide au milieu extérieur, contenir une matière absorbante et être munis d'un dispositif
+épurateur de gaz agréé par le ministre chargé de la santé aprés avis du Conseil supérieur d'hygiène publique de France et par
+le ministre chargé de l'aviation civile. Lorsque le défunt était atteint d'une maladie contagieuse, le corps est enveloppé
+dans un linceul imbibé d'une solution antiseptique.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°76-435 1976-05-18 ART. 17-1
+
+	**Codifié par**:
+
+	  - Décret n°77-241 1977-03-07
+
+	**Cité par**:
+
+	  - CODE DES COMMUNES. - art. R363-27 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code général des collectivités territoriales - art. R2213-27 (V)
+
+	**Modifié par**:
+
+	  - Décret n°87-28 1987-01-14 art. 31 JORF 18 janvier 1987
 
 
 ##### SECTION 4 : Dépôts temporaires.
@@ -73423,6 +74599,38 @@ rendent l'opération nécessaire avant les délais prescrits.
 	**Nouveaux textes**:
 
 	  - Code général des collectivités territoriales - art. R2213-6 (V)
+
+
+###### Article R364-16
+
+Lorsque les organes sont prélevés dans les conditions prévues par le décret n° 78-501 du 31 mars 1978, le délai de dix-huit
+heures prévu pour le transport du corps avant mise en bière est porté à vingt-quatre heures.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°1941-12-31 ART. 27 MODIFIE AL. 1 ET 2
+
+	**Codifié par**:
+
+	  - Décret n°77-241 1977-03-07
+
+	**Cite**:
+
+	  - Décret n°78-501 1978-03-31 (prélèvements d'organes)
+
+	**Modifié par**:
+
+	  - Décret n°87-28 1987-01-14 art. 33 JORF 18 janvier 1987
+
+	**Cité par**:
+
+	  - Décret n°78-501 du 31 mars 1978 - art. 23 (Ab)
+
+	**Abrogé par**:
+
+	  - Décret n°96-141 du 21 février 1996 - art. 11 () JORF 23 février 1996
 
 
 ### TITRE 7 : Dispositions particulières à certains services industriels et commerciaux
@@ -81692,1394 +82900,6 @@ compétence*].
 
 	  - Décret n°88-623 du 6 mai 1988 - art. 50 (Ab)
 	  - Décret n°89-229 du 17 avril 1989 - art. 47 (V)
-
-
-### Pompes funèbres et cimetières
-
-#### Sépultures
-
-##### Lieux de sépultures ; inhumations et exhumations
-
-##### Inhumations .
-
-###### Article R361-12
-
-L'inhumation dans une propriété particulière du corps d'une personne décédée est autorisée [*compétence*] par le préfet du
-département où est située cette propriété [*par le préfet de police en ce qui concerne la ville de Paris*] sur attestation
-que les formalités prescrites par l'article R. 363-18 et par les articles 78 et suivants [*relatifs à la déclaration du décès
-et à l'établissement d'un acte de décès par l'officier de l'état civil de la commune où le décès a eu lieu*] du code civil
-ont été accomplies.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°76-435 1976-05-18 ART. 23-2 (PARTIE)
-
-	**Codifié par**:
-
-	  - Décret n°77-241 1977-03-07
-
-	**Créé par**:
-
-	  - Décret n°77-241 1977-03-07 JORF et JONC 18 Mars 1977
-
-	**Cite**:
-
-	  - CODE DES COMMUNES. - art. R363-18 (M)
-	  - Code civil 78 ET SUIVANTS
-
-	**Cité par**:
-
-	  - CODE DES COMMUNES. - art. R394-7 (Ab)
-
-	**Nouveaux textes**:
-
-	  - Code général des collectivités territoriales - art. R2213-32 (V)
-
-
-##### Exhumations .
-
-###### Article R361-17
-
-Les personnes chargées de procéder aux exhumations revêtent un costume spécial qui est ensuite désinfecté ainsi que leurs
-chaussures. Elles sont tenues à un nettoyage antiseptique de la face et des mains [*mesures d'hygiène*].
-
-Tous les cercueils, avant d'être manipulés et extraits de la fosse, sont arrosés avec un liquide désinfectant tel que
-solution d'hypochlorite de chaux ou d'eau de Javel à raison de cinq grammes de chlore libre par litre [*proportion*].
-
-Lorsque le cercueil est trouvé en bon état de conservation au moment de l'exhumation, il ne peut être ouvert que s'il s'est
-écoulé cinq ans depuis le décès [*délai*].
-
-Lorsque le cercueil est trouvé détérioré, le corps est placé dans un autre cercueil ou dans une boîte à ossements.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°76-435 1976-05-18 ART. 24-2
-
-	**Codifié par**:
-
-	  - Décret n°77-241 1977-03-07
-
-	**Créé par**:
-
-	  - Décret n°77-241 1977-03-07 JORF et JONC 18 Mars 1977
-
-	**Cité par**:
-
-	  - CODE DES COMMUNES. - art. R364-6 (Ab)
-
-	**Nouveaux textes**:
-
-	  - Code général des collectivités territoriales - art. R2213-42 (M)
-
-
-##### Concessions funéraires .
-
-###### Article R361-30
-
-Un arrêté du maire [*attributions*] affecte à perpétuité, dans le cimetière où se trouvent les concessions reprises, un
-ossuaire convenablement aménagé où les restes des personnes qui étaient inhumées dans les concessions reprises sont aussitôt
-réinhumés.
-
-Les noms de ces personnes, même si aucun reste n'a été retrouvé, sont gravés sur un dispositif établi en matériaux durables
-au-dessus de cet ossuaire.
-
-Lorsque le cimetière n'offre pas d'emplacement suffisant pour la construction de l'ossuaire spécial, les restes peuvent être
-transférés après autorisation par décret en Conseil d'Etat [*conditions de forme*] dans l'ossuaire spécial d'un autre
-cimetière appartenant à la commune.
-
-Lorsque la commune est membre d'un syndicat de communes, d'un district ou d'une communauté urbaine, le transfert peut avoir
-lieu dans les mêmes conditions sur le territoire d'une autre commune appartenant au même groupement de communes.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret  1924-04-25 ART. 8 (PARTIE) REMPLACE ET COMPLETE
-
-	**Codifié par**:
-
-	  - Décret n°77-241 1977-03-07
-
-	**Créé par**:
-
-	  - Décret n°77-241 1977-03-07 JORF et JONC 18 Mars 1977
-
-	**Cité par**:
-
-	  - Loi n°96-142 du 21 février 1996 - art. 12 (V)
-	  - CODE DES COMMUNES. - art. R394-6 (Ab)
-
-	**Liens**:
-
-	  - TXT_ASSOCIE: CODE DES COMMUNES. - art. R394-6 (Ab)
-
-	**Nouveaux textes**:
-
-	  - Code général des collectivités territoriales - art. R2223-6 (V)
-
-
-###### Article R361-32
-
-Dans chaque département, l'inventaire des sépultures dont la conservation présente un intérêt d'art ou d'histoire locale est
-établi par une commission qui comprend : [*composition*]        -un délégué du préfet, président ;
-
-- l'inspecteur d'académie ;
-
-- l'architecte des bâtiments de France ;
-
-- le directeur des services d'archives du département ;
-
-- un représentant, désigné par le préfet, des sociétés d'archéologie ou d'histoire du département.
-
-L'inventaire est révisé tous les dix ans [*fréquence*].
-
-Il est, ainsi que ses suppléments, publié au recueil des actes administratifs du département et porté par extrait à la
-connaissance des conseils municipaux des communes intéressées [*publicité*].
-
-La reprise d'une concession figurant sur l'inventaire ne peut être prononcée qu'après avis motivé de la commission prévue au
-premier alinéa [*conditions de forme*].
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret  1924-04-25 ART. 10
-
-	**Codifié par**:
-
-	  - Décret n°77-241 1977-03-07
-
-	**Créé par**:
-
-	  - Décret n°77-241 1977-03-07 JORF et JONC 18 Mars 1977
-
-	**Abrogé par**:
-
-	  - Décret n°87-28 1987-01-14 art. 4 JORF 18 janvier 1987
-
-
-###### Article R361-33
-
-Les articles R. 361-21 à R. 361-32 [*procès-verbal constatant l'état d'abandon d'une concession et reprise de concession*] ne
-dérogent pas aux dispositions qui régissent les sépultures militaires.
-
-Lorsqu'une personne  dont l'acte de décès porte la mention "Mort pour la France" régulièrement inscrite a été inhumée dans
-une concession perpétuelle ou centenaire, celle-ci ne peut faire l'objet d'une reprise avant l'expiration d'un délai de
-cinquante ans à compter de la date de l'inhumation. Cette disposition ne s'applique pas dans le cas où vient à expirer au
-cours des cinquante ans une concession centenaire.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°1924-04-25 ART. 11
-
-	**Codifié par**:
-
-	  - Décret n°77-241 1977-03-07
-
-	**Créé par**:
-
-	  - Décret n°77-241 1977-03-07 JORF et JONC 18 Mars 1977
-
-	**Cite**:
-
-	  - Code des communes R361-21 à R361-32
-
-	**Nouveaux textes**:
-
-	  - Code général des collectivités territoriales - art. R2223-22 (V)
-
-
-##### Chambres funéraires .
-
-###### Article R361-35
-
-Il peut être établi des chambres funéraires [*définition*], destinées à recevoir, avant la sépulture, le corps des personnes
-dont le décès n'a pas été causé par une maladie contagieuse.
-
-Les chambres funéraires sont créées, sur la demande du conseil municipal, par arrêté du préfet qui statue après enquête de
-commodo et incommodo et avis de la commission départementale d'hygiène [*conditions de forme*].
-
-Lorsqu'une chambre funéraire présente des inconvénients graves, le préfet [**]attributions[**] peut en ordonner la
-suppression après avis du conseil municipal.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°76-435 du 18 mai 1976 - art. 5 ()
-
-	**Codifié par**:
-
-	  - Décret n°77-241 1977-03-07
-
-	**Créé par**:
-
-	  - Décret n°77-241 1977-03-07 JORF et JONC 18 Mars 1977
-
-	**Cité par**:
-
-	  - Décret n°94-1118 du 20 décembre 1994 - art. 1 (Ab)
-	  - Décret n°95-653 du 9 mai 1995 - art. 29 (Ab)
-	  - Décret n°99-662 du 28 juillet 1999 - art. 8 (Ab)
-
-	**Nouveaux textes**:
-
-	  - Code général des collectivités territoriales - art. R2223-74 (V)
-
-
-###### Article R361-37
-
-L'admission intervient dans un délai maximum de dix-huit heures à compter du décès.
-
-Elle a lieu sur la demande écrite [*formalités - qualité pour agir*] :
-
-- soit de toute personne qui a qualité pour pourvoir aux funérailles et justifie de son état civil et de son domicile ;
-
-- soit de la personne chez qui le décès a eu lieu, à condition qu'elle atteste par écrit qu'il lui a été impossible de
-joindre ou de retrouver l'une des personnes ayant qualité pour pourvoir aux funérailles ;
-
-- soit du directeur de l'établissement, dans le cas de décès dans un établissement d'hospitalisation public ou privé, sous la
-condition prévue au paragraphe précédent lorsque la chambre funéraire n'est pas la chambre mortuaire de l'établissement.
-
-La demande d'admission en chambre funéraire énonce les nom, prénoms, âge et domicile du défunt.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°76-435 1976-05-18 ART. 5-1 AL. 2, 3 et 5
-
-	**Codifié par**:
-
-	  - Décret n°77-241 1977-03-07
-
-	**Créé par**:
-
-	  - Décret n°77-241 1977-03-07 JORF et JONC 18 Mars 1977
-
-	**Cité par**:
-
-	  - Décret n°97-1039 du 14 novembre 1997 - art. 4 (Ab)
-
-	**Nouveaux textes**:
-
-	  - Code général des collectivités territoriales - art. R2223-76 (V)
-
-
-###### Article R361-38
-
-Lorsque le décès a eu lieu sur la voie publique ou dans un lieu ouvert au public, l'admission du corps en chambre funéraire
-est autorisée [*compétence*] par les autorités de police ou de gendarmerie [*autorisation obligatoire*].
-
-Un médecin est commis pour s'assurer auparavant de la réalité et de la cause du décès. Dans ce cas, le certificat médical
-[*constatant que le défunt n'était pas atteint de l'une des maladies contagieuses dont la liste est fixée par arrêté*] prévu
-à l'article R. 361-36 n'est pas exigé.
-
-Dans les cas prévus à l'article 81 du code civil et à l'article 74 du code de procédure pénale, l'admission d'un corps en
-chambre funéraire est autorisée par le procureur de la République.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°76-435 1976-05-18 ART. 5-1 AL. 4
-
-	**Codifié par**:
-
-	  - Décret n°77-241 1977-03-07
-
-	**Créé par**:
-
-	  - Décret n°77-241 1977-03-07 JORF et JONC 18 Mars 1977
-
-	**Cité par**:
-
-	  - CODE DES COMMUNES. - art. R363-4 (Ab)
-
-	**Cite**:
-
-	  - CODE DES COMMUNES. - art. R363-6 (M)
-	  - Code civil - art. 81 (V)
-	  - CODE DE PROCEDURE PENALE - art. 74 (M)
-
-	**Nouveaux textes**:
-
-	  - Code général des collectivités territoriales - art. R2223-77 (V)
-
-
-###### Article R361-40
-
-Dans le cas d'admission dans une chambre funéraire du corps d'une personne décédée dans un établissement d'hospitalisation
-public ou privé, les frais résultant du transport sont à la charge de l'établissement lorsque ce transport a été effectué à
-la demande du directeur de cet établissement.
-
-Le corps peut faire l'objet d'un nouveau transport, soit à une autre chambre funéraire, soit à la résidence du défunt ou d'un
-membre de sa famille, dans les délais et conditions prévus à la présente section et aux sections II, III et IV du chapitre
-III [*transports avant et après la mise en bière, dépôts temporaires*], à la demande de toute personne qui a qualité pour
-pourvoir aux funérailles [*qualité pour agir*].
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°76-435 du 18 mai 1976 - art. 6 (V)
-
-	**Codifié par**:
-
-	  - Décret n°77-241 1977-03-07
-
-	**Créé par**:
-
-	  - Décret n°77-241 1977-03-07 JORF et JONC 18 Mars 1977
-
-	**Cité par**:
-
-	  - Décret n°97-1039 du 14 novembre 1997 - art. 5 (Ab)
-
-	**Cite**:
-
-	  - Code des communes R363-4 à R363-36
-
-
-##### Crémations .
-
-###### Article R361-42
-
-La crémation [*incinération*] est autorisée par le maire de la commune.
-
-Cette autorisation est accordée sur les justifications suivantes :
-
-1° L'expression écrite des dernières volontés du défunt ou, à défaut, la demande de toute personne qui a qualité pour
-pourvoir aux funérailles et justifie de son état civil et de son domicile ;
-
-2° Un certificat du médecin chargé par l'officier d'état civil de s'assurer du décès et affirmant que celui-ci ne pose pas de
-problème médico-légal.
-
-Lorsque le décès pose un problème médico-légal, la crémation ne peut avoir lieu qu'après l'autorisation du parquet
-[*conditions de forme*] qui peut subordonner celle-ci à une autopsie préalable, effectuée par un médecin légiste choisi sur
-la liste des experts et aux frais de la famille.
-
-Lorsque le décès a eu lieu à l'étranger, la crémation est autorisée par le maire de la commune où elle est pratiquée
-[*compétence*]. L'autorisation de transport de corps prévue par un arrangement international tient lieu, dans ce cas, de
-certificat du médecin.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°76-435 1976-05-18 ART. 22-1 (PARTIE)
-
-	**Codifié par**:
-
-	  - Décret n°77-241 1977-03-07
-
-	**Créé par**:
-
-	  - Décret n°77-241 1977-03-07 JORF et JONC 18 Mars 1977
-
-	**Cité par**:
-
-	  - Décret n°95-653 du 9 mai 1995 - art. 9-1 (Ab)
-
-	**Nouveaux textes**:
-
-	  - Code général des collectivités territoriales - art. R2213-34 (V)
-
-
-###### Article R361-43
-
-La crémation [*incinération*] a lieu :
-
-- lorsque le décès s'est produit en France, vingt-quatre heures au moins et six jours au plus après le décès ;
-
-- lorsque le décès a eu lieu à l'étranger ou dans un territoire d'outre-mer, six jours au plus après l'entrée du corps en
-France.
-
-Les dimanches et jours fériés ne sont pas compris dans le calcul de ces délais.
-
-Des dérogations aux délais prévus au premier alinéa peuvent être accordées, en raison de circonstances particulières, par le
-préfet du département du lieu de la crémation [*compétence*], lequel prescrit éventuellement toutes dispositions nécessaires.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°76-435 1976-05-18 ART. 22-2
-
-	**Codifié par**:
-
-	  - Décret n°77-241 1977-03-07
-
-	**Créé par**:
-
-	  - Décret n°77-241 1977-03-07 JORF et JONC 18 Mars 1977
-
-	**Cité par**:
-
-	  - CODE DES COMMUNES. - art. R363-10 (Ab)
-
-	**Nouveaux textes**:
-
-	  - Code général des collectivités territoriales - art. R2213-35 (V)
-
-
-##### Dispositions diverses .
-
-###### Article R361-46
-
-Indépendamment des peines prévues en cas de récidive à l'article L. 361-21, toute contravention [*infraction*] aux
-dispositions des articles R. 361-10 à R. 361-17, des articles R. 361-35 à R. 361-45, des articles R. 363-1 à R. 363-35, des
-articles R. 364-1 à R. 364-7 et des articles R. 364-14 à R. 364-17 est punie des peines prévues à l'article 199 du code pénal
-[*amendes*].
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°77-241 1977-03-07
-
-	**Créé par**:
-
-	  - Décret n°77-241 1977-03-07 JORF et JONC 18 Mars 1977
-
-	**Cite**:
-
-	  - CODE DES COMMUNES. - art. L361-21 (M)
-	  - Code des communes R364-1 à R364-7 et R364-14 à R364-17
-	  - Code pénal 199 et 200
-
-	**Nouveaux textes**:
-
-	  - Code général des collectivités territoriales - art. R2223-66 (V)
-
-
-#### Pompes funèbres
-
-##### Service des pompes funèbres
-
-###### Article R*362-1
-
-Les conditions de l'approbation, prévue à l'article L. 362-1, des traités qui portent concession du service des pompes
-funèbres sont fixées par l'article R. 324-1.
-
-**Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - SPEC_APPLI: *Dispositions non applicables aux communes des départements de la Moselle, du Bas-Rhin et du Haut-Rhin (Alsace-Lorraine)*
-	  - SPEC_APPLI: Code des communes R391-1 :
-
-	**Anciens textes**:
-
-	  - Code de l'administration communale 463 AL. 2 (PARTIE) REMPLACE
-
-	**Codifié par**:
-
-	  - Décret n°77-241 1977-03-07
-
-	**Créé par**:
-
-	  - Décret n°77-241 1977-03-07 JORF et JONC 18 Mars 1977
-
-	**Cite**:
-
-	  - CODE DES COMMUNES. - art. L362-1 (M)
-	  - Code des communes R324-1
-
-	**Abrogé par**:
-
-	  - Décret n°87-28 1987-01-14 art. 14 JORF 18 janvier 1987
-
-
-###### Article R*362-2
-
-La concession du service extérieur des pompes funèbres par les communes ou syndicats de communes dont la population est
-comprise entre 4.000 et 20.000 habitants [*nombre*] peut être soumise aux dispositions du cahier des charges type annexé au
-décret du 19 avril 1952.
-
-**Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - SPEC_APPLI: *Dispositions non applicables aux communes des départements de la Moselle, du Bas-Rhin et du Haut-Rhin (Alsace-Lorraine)*
-	  - SPEC_APPLI: Code des communes R391-1 :
-
-	**Codifié par**:
-
-	  - Décret n°77-241 1977-03-07
-
-	**Créé par**:
-
-	  - Décret n°77-241 1977-03-07 JORF et JONC 18 Mars 1977
-
-	**Cite**:
-
-	  - Décret  1952-04-19 ANNEXE (CAHIER DES CHARGES TYPE)
-
-	**Abrogé par**:
-
-	  - Décret n°87-28 1987-01-14 art. 14 JORF 18 janvier 1987
-
-
-###### Article R*362-3
-
-La concession du service extérieur des pompes funèbres par les communes de plus de 20.000 habitants [*nombre*] peut être
-soumise aux dispositions du cahier des charges types annexé au décret n° 47-1555 du 13 août 1947 lorsque le matériel neuf
-appartient au concessionnaire et à celles du cahier des charges type annexé au décret du 19 avril 1952 lorsque la commune est
-propriétaire du matériel.
-
-**Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - SPEC_APPLI: *Dispositions non applicables aux communes des départements de la Moselle, du Bas-Rhin et du Haut-Rhin (Alsace-Lorraine)*
-	  - SPEC_APPLI: Code des communes R391-1 :
-
-	**Cite**:
-
-	  - Décret n°1952-04-19 ANNEXE (CAHIER DES CHARGES TYPE)
-	  - Décret n°47-1555 1947-08-13 ANNEXE (CAHIER DES CHARGES TYPE)
-
-	**Codifié par**:
-
-	  - Décret n°77-241 1977-03-07
-
-	**Créé par**:
-
-	  - Décret n°77-241 1977-03-07 JORF et JONC 18 Mars 1977
-
-	**Abrogé par**:
-
-	  - Décret n°87-28 1987-01-14 art. 14 JORF 18 janvier 1987
-
-
-##### Réglementation de l'activité des entreprises privées participant au service extérieur des pompes funèbres
-
-###### Article R*362-4
-
-Indépendamment des peines prévues en cas de récidive à l'article L. 362-12, toute infraction aux dispositions des articles L.
-362-8, L. 362-9 et L. 362-10 est punie [*sanction*] d'une amende de 2500 à 5000 F [*taux résultant du décret 85-956 du 11
-septembre 1985*]
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°77-241 1977-03-07
-
-	**Créé par**:
-
-	  - Décret n°77-241 1977-03-07 JORF et JONC 18 Mars 1977
-
-	**Modifié par**:
-
-	  - Décret n°85-956 1985-09-11 art. 2, art. 12 JORF 12 septembre 1985   en vigueur le 1er octobre 1985
-
-	**Cite**:
-
-	  - CODE DES COMMUNES. - art. L362-12 (M)
-	  - Code des communes L362-8 à L362-10
-
-
-#### Soins de conservation et transport de corps
-
-##### Soins de conservation .
-
-###### Article R363-1
-
-Il ne peut être procédé à une opération tendant à la conservation du corps d'une personne décédée sans une autorisation
-[*conditions de forme*] délivrée par [*compétence*] le maire de la commune du lieu de décès [*par le préfet de police si le
-décès a eu lieu à Paris*].
-
-Pour obtenir cette autorisation, il y a lieu de produire [*formalités*] :
-
-1° L'expression écrite des dernières volontés de la personne décédée ou une demande de toute personne qui a qualité pour
-pourvoir aux funérailles et justifie de son état civil et de son domicile ;
-
-2° Une déclaration indiquant le mode opératoire, le produit que l'on se propose d'employer, le lieu et l'heure de l'opération
-ainsi que le nom et l'adresse de la personne ou de l'entreprise qui procédera à celle-ci ;
-
-3° Le certificat du médecin chargé par l'officier d'état civil de s'assurer du décès et attestant que celui-ci ne pose pas de
-problème médico-légal.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°76-435 1976-05-18 ART. 1 (PARTIE)
-
-	**Codifié par**:
-
-	  - Décret n°77-241 1977-03-07
-
-	**Créé par**:
-
-	  - Décret n°77-241 1977-03-07 JORF et JONC 18 Mars 1977
-
-	**Cité par**:
-
-	  - Décret n°94-1118 du 20 décembre 1994 - art. 3 (Ab)
-	  - CODE DES COMMUNES. - art. R361-36 (Ab)
-	  - CODE DES COMMUNES. - art. R361-37 (Ab)
-	  - CODE DES COMMUNES. - art. R363-3 (Ab)
-	  - CODE DES COMMUNES. - art. R394-8 (Ab)
-	  - Code des pensions militaires d'invalidité et des v - art. A22 (V)
-
-
-##### Transport de corps avant mise en bière
-
-##### Transport du corps à résidence après décès dans un établissement d'hospitalisation .
-
-###### Article R363-4
-
-Le transport, sans mise en bière, du corps d'une personne décédée dans un établissement d'hospitalisation, public ou privé,
-de cet établissement à la résidence du défunt ou d'un membre de sa famille, est autorisé par le maire de la commune où est
-situé l'établissement [*par le préfet de police en ce qui concerne la ville de Paris - compétence*].
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°76-435 1976-05-18 ART. 4 (PARTIE)
-
-	**Codifié par**:
-
-	  - Décret n°77-241 1977-03-07
-
-	**Créé par**:
-
-	  - Décret n°77-241 1977-03-07 JORF et JONC 18 Mars 1977
-
-	**Cité par**:
-
-	  - CODE DES COMMUNES. - art. R361-11 (Ab)
-	  - CODE DES COMMUNES. - art. R394-8 (Ab)
-
-
-###### Article R363-5
-
-L'autorisation est subordonnée :
-
-1° A la demande de toute personne qui a qualité pour pourvoir aux funérailles et justifie de son état civil et de son
-domicile ;
-
-2° A la reconnaissance préalable du corps par cette personne ;
-
-3° A l'accord écrit du directeur de l'établissement d'hospitalisation ;
-
-4° A l'accord écrit du médecin chef du service hospitalier ou de son représentant dans un établissement public, ou du médecin
-traitant dans un établissement privé ;
-
-5° A l'accomplissement préalable des formalités prescrites aux articles 78, 79 et 80 du code civil relatives aux déclarations
-de décès [*et à l'établissement d'un acte de décès par l'officier de l'état civil de la commune où le décès a eu lieu*].
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°76-435 1976-05-18 ART. 4-1
-
-	**Codifié par**:
-
-	  - Décret n°77-241 1977-03-07
-
-	**Créé par**:
-
-	  - Décret n°77-241 1977-03-07 JORF et JONC 18 Mars 1977
-
-	**Cité par**:
-
-	  - Décret n°97-1039 du 14 novembre 1997 - art. 6 (Ab)
-	  - CODE DES COMMUNES. - art. R363-4 (Ab)
-	  - CODE DES COMMUNES. - art. R363-6 (Ab)
-
-	**Nouveaux textes**:
-
-	  - Code général des collectivités territoriales - art. R2213-8 (V)
-
-	**Cite**:
-
-	  - Code civil 78 à 80
-
-
-###### Article R363-6
-
-Le refus du médecin mentionné à l'article précédent est motivé [*conditions de forme*].
-
-Le médecin ne peut s'opposer au transport que pour les motifs suivants : [*définition*]        1° Le décès soulève un
-problème médico-légal ;
-
-2° Le défunt était atteint, au moment du décès, de l'une des maladies contagieuses dont la liste est fixée par arrêté du
-ministre chargé de la santé, après avis du conseil supérieur d'hygiène publique de France ;
-
-3° L'état du corps ne permet pas un tel transport.
-
-Lorsque le médecin s'oppose au transport du corps sans mise en bière, il en avertit sans délai par écrit le directeur de
-l'établissement et la famille.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°76-435 1976-05-18 ART. 4-2
-
-	**Codifié par**:
-
-	  - Décret n°77-241 1977-03-07
-
-	**Créé par**:
-
-	  - Décret n°77-241 1977-03-07 JORF et JONC 18 Mars 1977
-
-	**Cité par**:
-
-	  - Décret n°97-1039 du 14 novembre 1997 - art. 6 (Ab)
-	  - CODE DES COMMUNES. - art. R361-16 (Ab)
-	  - CODE DES COMMUNES. - art. R361-36 (M)
-	  - CODE DES COMMUNES. - art. R361-37 (Ab)
-	  - CODE DES COMMUNES. - art. R361-38 (Ab)
-	  - CODE DES COMMUNES. - art. R363-10 (Ab)
-	  - CODE DES COMMUNES. - art. R363-11 (Ab)
-
-	**Cite**:
-
-	  - CODE DES COMMUNES. - art. R363-5 (M)
-
-	**Nouveaux textes**:
-
-	  - Code général des collectivités territoriales - art. R2213-9 (V)
-
-
-###### Article R363-7
-
-Lorsque la commune du lieu du décès n'est pas celle où le corps est transporté, avis de l'autorisation de transport
-[*formalités*] est adressé sans délai au maire de cette dernière commune [*au préfet de police en ce qui concerne la ville de
-Paris*].
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°76-435 1976-05-18 ART. 4-3 (PARTIE)
-
-	**Codifié par**:
-
-	  - Décret n°77-241 1977-03-07
-
-	**Créé par**:
-
-	  - Décret n°77-241 1977-03-07 JORF et JONC 18 Mars 1977
-
-	**Cité par**:
-
-	  - CODE DES COMMUNES. - art. R394-8 (Ab)
-
-	**Nouveaux textes**:
-
-	  - Code général des collectivités territoriales - art. R2213-10 (V)
-
-
-###### Article R363-8
-
-Lorsque le corps n'a pas subi les soins de conservation prévus à la section I, le transport est effectué et terminé dans un
-délai maximum de dix-huit heures à compter du décès et la distance à parcourir ne doit pas être supérieure à 200 km.
-
-Lorsque le corps a subi de tels soins, le transport est effectué et terminé dans un délai de trente-six heures à compter du
-décès. Le procès-verbal [*de l'opération de conservation du corps*] prévu à l'article R. 363-3 figure au dossier constitué
-pour le transport de corps.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°76-435 1976-05-18 ART. 4-4
-
-	**Codifié par**:
-
-	  - Décret n°77-241 1977-03-07
-
-	**Créé par**:
-
-	  - Décret n°77-241 1977-03-07 JORF et JONC 18 Mars 1977
-
-	**Cite**:
-
-	  - Code des communes R363-1 à R363-3
-
-	**Nouveaux textes**:
-
-	  - Code général des collectivités territoriales - art. R2213-11 (V)
-
-
-###### Article R363-9
-
-Dans le cas où l'autorisation n'est pas accordée [*refus*], le corps ne peut être transporté qu'après mise en bière et dans
-les conditions fixées aux articles R. 363-16 à R. 363-34.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°76-435 1976-05-18 ART. 4-5 (PARTIE)
-
-	**Codifié par**:
-
-	  - Décret n°77-241 1977-03-07
-
-	**Créé par**:
-
-	  - Décret n°77-241 1977-03-07 JORF et JONC 18 Mars 1977
-
-	**Cite**:
-
-	  - Code des communes R363-16 à R363-34
-
-	**Nouveaux textes**:
-
-	  - Code général des collectivités territoriales - art. R2213-12 (V)
-
-
-##### Transport de corps à un établissement d'hospitalisation, d'enseignement ou de recherche .
-
-###### Article R363-10
-
-Un établissement d'hospitalisation, d'enseignement ou de recherche ne peut accepter de don de corps que si l'intéressé en a
-fait la déclaration écrite en entier, datée et signée de sa main [*conditions de forme*].
-
-Cette déclaration peut contenir notamment l'indication de l'établissement auquel le corps est remis.
-
-Une copie de la déclaration est adressée à l'établissement auquel le corps est légué ; cet établissement délivre à
-l'intéressé une carte de donateur que celui-ci s'engage à porter en permanence.
-
-L'exemplaire de la déclaration qui était détenu par le défunt est remise à l'officier d'état civil lors de la déclaration du
-décès.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°76-435 1976-05-18 ART. 7 AL. 1 à 4
-
-	**Codifié par**:
-
-	  - Décret n°77-241 1977-03-07
-
-	**Créé par**:
-
-	  - Décret n°77-241 1977-03-07 JORF et JONC 18 Mars 1977
-
-	**Cité par**:
-
-	  - CODE DES COMMUNES. - art. R394-8 (Ab)
-
-	**Nouveaux textes**:
-
-	  - Code général des collectivités territoriales - art. R2213-13 (V)
-
-
-###### Article R363-11
-
-Après le décès, le transport du corps est autorisé par le maire de la commune du lieu de décès [*par le préfet de police en
-ce qui concerne la ville de Paris - compétence*].
-
-L'autorisation est accordée sur production des certificats médicaux prévus à l'article R. 361-36 [*constatant que le défunt
-n'est pas atteint de l'une des maladies contagieuses mentionnées par arrêté*] et au 3° de l'article R. 363-1 [*certifiant le
-décès et attestant que celui-ci ne pose pas de problème médico-légal*].
-
-Le transport est effectué dans un délai maximum de dix-huit heures à compter du décès.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°76-435 1976-05-18 ART. 7 AL. 6, 7 et 5 (PARTIE)
-
-	**Codifié par**:
-
-	  - Décret n°77-241 1977-03-07
-
-	**Créé par**:
-
-	  - Décret n°77-241 1977-03-07 JORF et JONC 18 Mars 1977
-
-	**Cité par**:
-
-	  - CODE DES COMMUNES. - art. R394-8 (Ab)
-
-	**Cite**:
-
-	  - Code des communes R361-36 et R363-1 3°
-
-	**Nouveaux textes**:
-
-	  - Code général des collectivités territoriales - art. R2213-14 (V)
-
-
-##### Conditions du transport .
-
-###### Article R363-12
-
-Peuvent assurer les transports de corps prévus à la section III du chapitre Ier [*relative aux chambres funéraires*] et à la
-section II du présent chapitre [*avant la mise en bière*] :
-
-1° Les établissements d'hospitalisation publics ou privés ;
-
-2° Les entreprises agréées par le préfet du département, siège de l'entreprise [*compétence*].
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°76-435 1976-05-18 ART. 8 AL. 1
-
-	**Codifié par**:
-
-	  - Décret n°77-241 1977-03-07
-
-	**Créé par**:
-
-	  - Décret n°77-241 1977-03-07 JORF et JONC 18 Mars 1977
-
-	**Cité par**:
-
-	  - Décret n°94-1027 du 23 novembre 1994 - art. 7 (V)
-	  - CODE DES COMMUNES. - art. R363-4 (Ab)
-
-	**Liens**:
-
-	  - TXT_ASSOCIE: CODE DES COMMUNES. - art. R363-15 (Ab)
-
-	**Cite**:
-
-	  - Code des communes R361-35 à R361-40
-
-
-###### Article R363-13
-
-Les transports sont effectués au moyen de voitures spécialement aménagées, exclusivement réservées à cet usage et qui ont
-fait l'objet d'un certificat d'agrément et d'un certificat de réception délivrés par le préfet [*par le préfet de police en
-ce qui concerne la ville de Paris*], certificats qui sont présentés à toute réquisition.
-
-Le visage du défunt reste découvert et les mains libres.
-
-Les voitures sont désinfectées après chaque transport [*formalités*] .
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°76-435 1976-05-18 ART. 8 AL. 2 (PARTIE)
-
-	**Codifié par**:
-
-	  - Décret n°77-241 1977-03-07
-
-	**Créé par**:
-
-	  - Décret n°77-241 1977-03-07 JORF et JONC 18 Mars 1977
-
-	**Liens**:
-
-	  - TXT_ASSOCIE: CODE DES COMMUNES. - art. R363-15 (Ab)
-
-
-##### Mise en bière et transport après mise en bière; fermeture du cercueil
-
-##### Mise en bière et fermeture du cercueil .
-
-###### Article R363-16
-
-Avant son inhumation ou sa crémation [*incinération*], le corps d'une personne décédée est mis en bière.
-
-Si la personne décédée était porteuse d'une prothèse renfermant des radio-éléments artificiels, un médecin fait procéder à la
-récupération de l'appareil avant la mise en bière.
-
-La housse imperméable en matière plastique souple, éventuellement utilisée pour envelopper le corps avant sa mise en bière,
-comporte des parties autodestructibles, sauf en cas de crémation ; elle est d'un modèle agréé par le ministre chargé de la
-santé, après avis du conseil supérieur d'hygiène publique de France [*conditions de forme*].
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°76-435 1976-05-18 ART. 9
-
-	**Codifié par**:
-
-	  - Décret n°77-241 1977-03-07
-
-	**Créé par**:
-
-	  - Décret n°77-241 1977-03-07 JORF et JONC 18 Mars 1977
-
-	**Cité par**:
-
-	  - Décret n°94-941 du 24 octobre 1994 - art. 11 (Ab)
-	  - CODE DES COMMUNES. - art. R361-42 (Ab)
-
-	**Nouveaux textes**:
-
-	  - Code général des collectivités territoriales - art. R2213-15 (V)
-
-
-##### Autorisation de transport de corps après mise en bière, fermeture du cercueil et autorisation du transport de cendres
-
-###### Article R363-23
-
-Lorsque le corps est transporté en dehors du territoire métropolitain, l'autorisation est donnée :[*compétence*]        - par
-le sous-préfet de l'arrondissement où a eu lieu la fermeture du cercueil et, le cas échéant, par le sous-préfet de
-l'arrondissement où le corps a été provisoirement déposé ou inhumé ;
-
-- par le préfet dans l'arrondissement chef-lieu [*par le préfet de police en ce qui concerne la ville de Paris*].
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°76-435 1976-05-18 ART. 13 (PARTIE)
-
-	**Codifié par**:
-
-	  - Décret n°77-241 1977-03-07
-
-	**Créé par**:
-
-	  - Décret n°77-241 1977-03-07 JORF et JONC 18 Mars 1977
-
-	**Cité par**:
-
-	  - CODE DES COMMUNES. - art. R363-25 (Ab)
-
-	**Nouveaux textes**:
-
-	  - Code général des collectivités territoriales - art. R2213-22 (V)
-
-
-##### Conditions de transport .
-
-###### Article R363-26
-
-Sauf dans les cas [*qui exigent un cercueil hermétique d'un modèle agréé*] prévus à l'article suivant, le corps est placé
-soit dans un cercueil en bois dur de 26 mm d'épaisseur avec garniture étanche, soit dans un cercueil fabriqué à l'aide d'un
-matériau autorisé à cet effet par le ministre chargé de la santé, après avis du conseil supérieur d'hygiène publique de
-France [*conditions de forme*].
-
-Toutefois, un cercueil en bois léger d'une épaisseur minimale de 18 mm avec garniture étanche est autorisé si l'inhumation a
-lieu dans une commune située dans un rayon [*distance*] maximum de 200 km du lieu de fermeture du cercueil.
-
-Les restes provenant d'un corps inhumé depuis plus de cinq ans [*délai*] et réduit à l'état d'ossements sont placés dans une
-boîte à ossements.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°76-435 1976-05-18 ART. 16
-
-	**Codifié par**:
-
-	  - Décret n°77-241 1977-03-07
-
-	**Créé par**:
-
-	  - Décret n°77-241 1977-03-07 JORF et JONC 18 Mars 1977
-
-	**Liens**:
-
-	  - TXT_SOURCE: Arrêté du 21 mars 1991
-	  - TXT_SOURCE: Arrêté du 21 mars 1991 - art. 1 (V)
-	  - TXT_SOURCE: Arrêté du 21 mars 1991 - art. 2 (V)
-	  - TXT_SOURCE: Arrêté du 21 mars 1991 - art. 3 (V)
-	  - TXT_SOURCE: Arrêté du 21 mars 1991 - art. 4 (V)
-	  - TXT_SOURCE: Arrêté du 4 juin 1996
-	  - TXT_SOURCE: Arrêté du 4 juin 1996 - art. 1 (V)
-	  - TXT_SOURCE: Arrêté du 4 juin 1996 - art. 2 (V)
-	  - TXT_SOURCE: Arrêté du 4 juin 1996 - art. 3 (V)
-	  - TXT_SOURCE: Arrêté du 4 juin 1996 - art. 4 (V)
-	  - TXT_SOURCE: Arrêté du 4 juin 1996 - art. 5 (V)
-
-	**Cité par**:
-
-	  - Arrêté du 21 mars 1991 - art. 2 (V)
-	  - Arrêté du 4 juin 1996 - art. 2 (V)
-
-	**Cite**:
-
-	  - CODE DES COMMUNES. - art. R363-27 (M)
-
-	**Nouveaux textes**:
-
-	  - Code général des collectivités territoriales - art. R2213-25 (V)
-
-
-###### Article R363-27
-
-A moins qu'il n'ait subi des soins de conservation conformément aux dispositions de la section I, le corps est placé dans un
-cercueil hermétique satisfaisant aux conditions fixées à l'article R. 363-29 dans les cas suivants :
-
-1° En cas de transport du corps hors du territoire de la commune où a eu lieu la fermeture du cercueil et à une distance ne
-dépassant pas 600 km si le délai compris entre le moment de la fermeture du cercueil et celui de l'exhumation ou de la
-réinhumation doit dépasser quarante-huit heures ;
-
-2° En cas de transport du corps en dehors du territoire de la commune où a eu lieu la fermeture du cercueil si le trajet à
-parcourir, quels que soient la durée et le mode de transport, est supérieur à 600 km ;
-
-3° En cas de dépôt du corps pendant une durée excédant quarante-huit heures soit à la résidence du défunt ou à celle d'un
-membre de sa famille, soit dans un dépositoire ou un caveau provisoire.
-
-En cas de transport à résidence sans mise en bière du corps d'une personne décédée hors de sa résidence, le délai de
-quarante-huit heures est compté à l'arrivée du corps à sa destination ;
-
-4° Dans tous les cas exceptionnels où, par décision préfectorale, l'emploi d'un cercueil d'un tel modèle est reconnu
-nécessaire.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°76-435 1976-05-18 ART. 17
-
-	**Codifié par**:
-
-	  - Décret n°77-241 1977-03-07
-
-	**Créé par**:
-
-	  - Décret n°77-241 1977-03-07 JORF et JONC 18 Mars 1977
-
-	**Cité par**:
-
-	  - CODE DES COMMUNES. - art. R363-26 (Ab)
-
-	**Cite**:
-
-	  - CODE DES COMMUNES. - art. R363-29 (Ab)
-	  - Code des communes R363-1 à R363-3
-
-	**Nouveaux textes**:
-
-	  - Code général des collectivités territoriales - art. R2213-26 (V)
-
-
-###### Article R363-28
-
-Même dans les cas où il subit des soins de conservation conformément aux dispositions de la section I, le corps est placé
-dans un cercueil hermétique répondant aux conditions prévues à l'article suivant :
-
-1° Lorsqu'il y a lieu de transporter hors du territoire de la commune où a eu lieu la fermeture du cercueil ou de garder en
-dépôt soit à résidence, soit dans un édifice cultuel, soit dans un dépositoire ou dans un caveau provisoire le corps d'une
-personne qui était atteinte au moment du décès de l'une des maladies contagieuses mentionnées dans l'arrêté prévu à l'article
-R. 363-6 ;
-
-2° Lorsque la durée du dépôt dans un caveau provisoire doit excéder huit jours.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°76-435 1976-05-18 ART. 17-1
-
-	**Codifié par**:
-
-	  - Décret n°77-241 1977-03-07
-
-	**Créé par**:
-
-	  - Décret n°77-241 1977-03-07 JORF et JONC 18 Mars 1977
-
-	**Cité par**:
-
-	  - CODE DES COMMUNES. - art. R363-27 (Ab)
-
-	**Cite**:
-
-	  - Code des communes R363-6 et R363-29
-
-	**Nouveaux textes**:
-
-	  - Code général des collectivités territoriales - art. R2213-27 (V)
-
-
-###### Article R363-29
-
-Les cercueils hermétiques qui sont destinés au transport des corps dans les cas prévus aux deux articles précédents sont d'un
-modèle agréé par le ministre chargé de la santé, après avis du conseil supérieur d'hygiène publique de France     . 
-
-Ces cercueils répondent aux conditions suivantes :
-
-- ne céder aucun liquide au milieu extérieur ;
-
-- contenir une matière absorbante ;
-
-- être munis d'un dispositif épurateur de gaz, d'un modèle agréé pour une période de cinq ans renouvelable par le ministre
-chargé de la santé et, pour les transports par voie aérienne, également par le secrétaire général à l'aviation civile. 
-
-Lorsque le défunt était atteint, au moment du décès, d'une maladie contagieuse, le corps est enveloppé dans un linceul imbibé
-d'une solution antiseptique. 
-
-Pour les transports de corps à destination de l'un des pays qui adhèrent à un arrangement international, les cercueils sont
-conformes aux dispositions de cet arrangement.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°76-435 1976-05-18 ART. 18
-
-	**Codifié par**:
-
-	  - Décret n°77-241 1977-03-07
-
-	**Créé par**:
-
-	  - Décret n°77-241 1977-03-07 JORF et JONC 18 Mars 1977
-
-	**Cité par**:
-
-	  - CODE DES COMMUNES. - art. R363-24 (Ab)
-	  - CODE DES COMMUNES. - art. R363-27 (M)
-
-	**Cite**:
-
-	  - Code des communes R363-27 et R363-28
-
-	**Abrogé par**:
-
-	  - Décret n°87-28 1987-01-14 art. 32 JORF 18 janvier 1987
-
-
-###### Article R363-30
-
-En cas de transport en vue de la crémation, le corps est placé dans un cercueil en bois dur de 26 mm d'épaisseur.
-
-Les parois intérieures de ce cercueil sont garnies de toile caoutchoutée ou de carton bitumé, à moins que le corps ne soit
-enfermé dans une housse en matière plastique agréée spécialement pour la crémation [*incinération*] par le ministre chargé de
-la santé, après avis du conseil supérieur d'hygiène publique de France [*conditions de forme*].
-
-Les garnitures et accessoires posés à l'intérieur ou à l'extérieur du cercueil sont composés exclusivement de matériaux
-combustibles ou sublimables.
-
-Toutefois, si le crématoire est situé dans un rayon [*distance*] de 200 km du lieu de fermeture du cercueil, un cercueil en
-bois léger d'une épaisseur minimale de 18 mm, dont les parois intérieures, les garnitures, les accessoires ou la housse
-répondent aux caractéristiques définies ci-dessus, est autorisé.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°76-435 1976-05-18 ART. 19 AL. 1 a
-
-	**Codifié par**:
-
-	  - Décret n°77-241 1977-03-07
-
-	**Créé par**:
-
-	  - Décret n°77-241 1977-03-07 JORF et JONC 18 Mars 1977
-
-	**Abrogé par**:
-
-	  - Décret n°87-28 1987-01-14 art. 32 JORF 18 janvier 1987
-
-
-###### Article R363-31
-
-Dans le cas prévu au premier alinéa de l'article précédent [*transport en vue de la crémation*], le corps est placé, à moins
-qu'il n'ait subi les soins de conservation prévus à la section I, dans un cercueil hermétique répondant aux conditions de
-l'article R. 363-29 :
-
-1° Lorsque le délai entre le moment de la fermeture du cercueil ou celui de l'exhumation et le moment de la crémation
-[*incinération*] est supérieur à quarante-huit heures ;
-
-2° Ou lorsque le trajet à parcourir est supérieur à 600 km [*distance*].
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°76-435 1976-05-18 ART. 19 AL. 1 b
-
-	**Codifié par**:
-
-	  - Décret n°77-241 1977-03-07
-
-	**Créé par**:
-
-	  - Décret n°77-241 1977-03-07 JORF et JONC 18 Mars 1977
-
-	**Cite**:
-
-	  - Code des communes R363-29 et R363-30 AL. 1
-
-	**Abrogé par**:
-
-	  - Décret n°87-28 1987-01-14 art. 32 JORF 18 janvier 1987
-
-
-###### Article R363-32
-
-Dans le cas prévu au premier alinéa de l'article R. 363-30 [*transport du corps en vue de la crémation*] et lorsque la
-personne décédée était atteinte, au moment du décès, de l'une des maladies contagieuses mentionnées dans l'arrêté prévu à
-l'article R. 363-6, le corps est placé dans un cercueil hermétique.
-
-Toutefois, lorsque le crématoire n'est pas équipé pour permettre la combustion d'un tel cercueil, le corps est placé au
-préalable dans un cercueil en bois léger conforme aux prescriptions du dernier alinéa de l'article R. 363-30 et déposé dans
-un cercueil hermétique.
-
-Dès l'ouverture de ce dernier, une pulvérisation de formol est effectuée sur le cercueil de crémation avant toute
-manipulation [*mesures d'hygiène*].
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°76-435 1976-05-18 ART. 19 AL. 1 c et AL. 2
-
-	**Codifié par**:
-
-	  - Décret n°77-241 1977-03-07
-
-	**Créé par**:
-
-	  - Décret n°77-241 1977-03-07 JORF et JONC 18 Mars 1977
-
-	**Cite**:
-
-	  - Code des communes R363-6 et R363-30 AL. 1 et 4
-
-	**Abrogé par**:
-
-	  - Décret n°87-28 1987-01-14 art. 32 JORF 18 janvier 1987
-
-
-###### Article R363-33
-
-Dans les cercueils destinés à la crémation, [*incinération*] il ne peut être fait usage d'un mélange désinfectant comportant
-de la poudre de tan ou du charbon pulvérisé.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°76-435 1976-05-18 ART. 19 AL. 3
-
-	**Codifié par**:
-
-	  - Décret n°77-241 1977-03-07
-
-	**Créé par**:
-
-	  - Décret n°77-241 1977-03-07 JORF et JONC 18 Mars 1977
-
-	**Abrogé par**:
-
-	  - Décret n°87-28 1987-01-14 art. 32 JORF 18 janvier 1987
 
 
 ## LIVRE 16 : Administration et services communaux
