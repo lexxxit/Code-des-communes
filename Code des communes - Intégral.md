@@ -1,5 +1,5 @@
 # Code des communes  
-Version Consolidée au 1980-01-01
+Version Consolidée au 1980-01-13
 
 # ORGANISATION COMMUNALE
 
@@ -71325,415 +71325,142 @@ les stations mentionnées audit article.
 	  - Code des communes R234-17 et R234-25
 
 
-##### ALLOCATIONS VERSEES AUX COMMUNES TOURISTIQUES OU THERMALES
+#### Dotation globale de fonctionnement et autres recettes réparties par le comité des finances locales
 
-##### DISPOSITIONS PARTICULIERES AUX COMMUNES .
+##### Recettes réparties par le comité des finances locales
+
+##### Dotation supplémentaire versée aux communes touristiques ou thermales et à leurs groupements
 
 ###### Article R*234-19
 
-Bénéficient des répartitions du fonds d'action locale, prévues par les articles L. 234-25 à L. 234-27, les communes qui
-figurent sur une liste dressée par arrêté du ministre de l'intérieur, du ministre de l'économie et des finances et du
-ministre chargé du tourisme, en raison de leur caractère touristique ou thermal, des équipements collectifs qu'elles doivent
-avoir de ce fait et de l'importance de leur capacité d'hébergement et d'accueil touristique.
-
-Les divers éléments mentionnés à l'alinéa précédent sont appréciés tant en eux-mêmes que par rapport à la population
-permanente de la commune à partir d'un indice calculé dans les conditions fixées à l'article R. 234-20.
+La liste annuelle des communes touristiques ou thermales et de leurs groupements, prévue à l'article L. 234-14, est dressée
+par arrêté du ministre de l'Intérieur, du ministre du Budget et du ministre chargé du Tourisme.
 
 **Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - SPEC_APPLI: *Dispositions non applicables aux communes des départements de la Guadeloupe, de la Guyane, de la Martinique, de la Réunion et de Saint-Pierre-et-Miquelon*
-	  - TXT_ASSOCIE: Code des communes R234-23
-	  - SPEC_APPLI: Code des communes R262-1, R262-12 :
-
-	**Cite**:
-
-	  - Arrêté  1978-12-29 INTERIEUR JORF 8 février 1979 p. 1276
-	  - Code des communes R234-20, R234-25 à R234-27
-
-	**Anciens textes**:
-
-	  - Décret n°68-913 1968-10-18 art. 1
 
 	**Codifié par**:
 
 	  - Décret n°77-91 1977-01-27
 
-	**Créé par**:
-
-	  - Décret n°77-91 1977-01-27 JORF et JONC 3 février 1977 date d'entrée en vigueur 20 mars 1977
-
-
-###### Article R*234-20
-
-L'indice mentionné à l'article précédent est fixé chaque année par le préfet en prenant en compte les possibilités
-d'hébergement et d'accueil touristique de la commune à la date du 1er janvier. 
-
-Cet indice est obtenu en totalisant les chiffres pondérés résultant des produits suivants :
-
-Nombre de chambres des hôtels de tourisme des deux catégories les plus élevées, multiplié par 6 ; 
-
-Nombre de chambres des hôtels de tourisme des autres catégories, multiplié par 4 ; 
-
-Nombre de chambres dans les hôtels non classés comme hôtels de tourisme, multiplié par 2 ; 
-
-Nombre de places dans les villages de vacances, multiplié par 1,5 ; 
-
-Nombre de places dans les terrains de camping et les terrains aménagés pour le stationnement des caravanes, multiplié par
-0,75 ; 
-
-Nombre de pièces dans des logements meublés pouvant bénéficier des dispositions de l'article 1462 du code général des
-impôts ; 
-
-Nombre de logements meublés exemptés de la taxe professionnelle et donnant lieu à des locations saisonnières, y compris les
-gîtes ruraux ou communaux, multiplié par 3 ; 
-
-Nombre de places dans les hôpitaux thermaux et établissements similaires, multiplié par 1,5 ; 
-
-Nombre de places d'hébergement collectif dans des établissements publics ou privés, tels que colonies de vacances, auberges
-de jeunesse, centres de vacances, maisons familiales de vacances, multiplié par 0,75.
-
-**Liens relatifs à cet article**
-
 	**Liens**:
 
-	  - SPEC_APPLI: *Dispositions non applicables aux communes des départements de la Guadeloupe, de la Guyane, de la Martinique, de la Réunion et de Saint-Pierre-et-Miquelon*
-	  - TXT_ASSOCIE: Code des communes R234-21
-	  - SPEC_APPLI: Code des communes R262-1, R262-12 :
-
-	**Cite**:
-
-	  - CGI 1462
-	  - Code des communes R234-19
-
-	**Anciens textes**:
-
-	  - Décret n°68-913 1968-10-18 ART. 2 AL. 1 et AL. 2 (remplacé)
-
-	**Codifié par**:
-
-	  - Décret n°77-91 1977-01-27
-
-	**Créé par**:
-
-	  - Décret n°77-91 1977-01-27 JORF et JONC 3 février 1977 date d'entrée en vigueur 20 mars 1977
-
-
-###### Article R*234-21
-
-Pour l'application de l'article précédent : [*calcul de l'indice annuel en fonction duquel les communes peuvent bénéficier
-des répartitions du fonds d'action locale*]        1° Le rapport entre l'indice déterminé conformément aux dispositions dudit
-article et la population permanente de la commune se calcule en pourcentage ;
-
-2° Le chiffre de la population permanente [**]définition[**] est le chiffre de la population municipale, telle qu'elle
-résulte du dernier recensement général ou complémentaire.
-
-Le chiffre de la population municipale à retenir dans l'application du présent article doit être majoré, le cas échéant, des
-attributions de population définies à l'article R. 114-5.
-
-**Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - SPEC_APPLI: *Dispositions non applicables aux communes des départements de la Guadeloupe, de la Guyane, de la Martinique, de la Réunion et de Saint-Pierre-et-Miquelon*
-	  - TXT_ASSOCIE: Code des communes R234-22
-	  - SPEC_APPLI: Code des communes R262-1, R262-12 :
-
-	**Anciens textes**:
-
-	  - Décret n°68-913 1968-10-18 art. 3 remplacé
-
-	**Codifié par**:
-
-	  - Décret n°77-91 1977-01-27
-
-	**Créé par**:
-
-	  - Décret n°77-91 1977-01-27 JORF et JONC 3 février 1977 date d'entrée en vigueur 20 mars 1977
-
-	**Cite**:
-
-	  - CODE DES COMMUNES. - art. R114-5 (Ab)
-	  - Code des communes R234-20
+	  - SPEC_APPLI: Loi n°80-1102 1980-12-31 : *Ces dispositions ne sont applicables que jusqu'au 1er janvier 1986*
+	  - SPEC_APPLI: Code des communes R262-1, R262-12 : *Dispositions non applicables aux communes des départements de la Guadeloupe, de la Martinique, de la Guyane, de la Réunion et de Saint-Pierre-et-Miquelon*
 
 
 ###### Article R*234-22
 
-Pour l'application des dispositions de la présente sous-section, le pourcentage de l'indice prévu à l'article R. 234-20 à la
-population permanente est affecté des coefficients suivants, en fonction de l'importance de la commune :
+Pour l'application de l'article R. 234-20, le chiffre de la population permanente est le chiffre de la population municipale,
+tel qu'il résulte du dernier recensement général ou complémentaire [*définition*].
 
-1,50  pour les communes de moins de 2.000 [*nombre*] habitants ;        1,375 pour les communes de   2.000 à   4.999
-habitants ;
-
-1,25  pour les communes de   5.000 à  19.999 habitants ;
-
-1,125 pour les communes de  20.000 à  49.999 habitants ;
-
-1     pour les communes de  50.000 à   99.999 habitants ;
-
-0,875 pour les communes de 100.000 à 199.999 habitants ;
-
-0,75  pour les communes de 200.000 habitants et plus.
+Ce chiffre est majoré, le cas échéant, des attributions de populations fictives définies à l'article R. 114-5.
 
 **Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - SPEC_APPLI: *Dispositions non applicables aux communes des départements de la Guadeloupe, de la Guyane, de la Martinique et de Saint-Pierre-et-Miquelon*
-	  - SPEC_APPLI: Code des communes R262-1, R262-12 :
-
-	**Anciens textes**:
-
-	  - Décret n°68-913 1968-10-18 art. 3 remplacé
 
 	**Codifié par**:
 
 	  - Décret n°77-91 1977-01-27
 
-	**Créé par**:
-
-	  - Décret n°77-91 1977-01-27 JORF et JONC 3 février 1977 date d'entrée en vigueur 20 mars 1977
-
-	**Cite**:
-
-	  - Code des communes R234-13 à R234-28
-
-
-###### Article R*234-23
-
-Pour être inscrites sur la liste [*ouvrant droit aux répartitions du fonds*] prévue à l'article R. 234-19 [*conditions*], les
-communes doivent justifier qu'en ce qui les concerne, le rapport [*entre l'indice annuel et la population permanente de la
-commune*] établi conformément aux dispositions de l'article R. 234-21 est supérieur à 15 p. 100 et que l'indice déterminé
-conformément aux dispositions de l'article R. 234-20 est supérieur à 750.
-
-Toutefois, pour les communes dont le rapport établi conformément aux dispositions de l'article R. 234-21 est supérieur à 75
-p. 100, l'indice calculé conformément aux dispositions de l'article R. 234-20 ouvrant droit à l'inscription sur la liste de
-l'article R. 234-19, est abaissé à 500.
-
-**Liens relatifs à cet article**
-
 	**Liens**:
 
-	  - SPEC_APPLI: *Dispositions non applicables aux communes des départements de la Guadeloupe, de la Guyane, de la Martinique, de la Réunion et de Saint-Pierre-et-Miquelon*
-	  - SPEC_APPLI: Code des communes R262-1, R262-12 :
-
-	**Anciens textes**:
-
-	  - Décret n°68-913 1968-10-18 art. 4
-
-	**Codifié par**:
-
-	  - Décret n°77-91 1977-01-27
-
-	**Créé par**:
-
-	  - Décret n°77-91 1977-01-27 JORF et JONC 3 février 1977 date d'entrée en vigueur 20 mars 1977
-
-	**Cite**:
-
-	  - Code des communes R234-19 à R234-21
-
-
-##### DISPOSITIONS PARTICULIERES AUX GROUPEMENTS DE COMMUNES .
-
-###### Article R*234-24
-
-Les communes touristiques ou thermales qui sont groupées sous forme de syndicat intercommunal, de district, ou qui sont les
-seules communes membres d'un syndicat mixte, dont l'un des objets est l'aménagement touristique ou thermal de tout ou partie
-de leur territoire, sont, sur leur demande, considérées comme une seule entité pour l'application tant des articles R. 234-19
-à R. 234-23 que des articles R. 234-26 à R. 234-28 [*droit des communes ou des nouvelles stations touristiques ou thermales à
-bénéficier des allocations du fonds, conditions*].
-
-Les allocations du fonds d'action locale sont alors versées directement au budget du syndicat ou du district.
-
-Leur montant est calculé, commune par commune, selon les modalités définies aux articles R. 234-13 à R. 234-18 et il est
-majoré de 5 p. 100.
-
-**Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - SPEC_APPLI: *Dispositions non applicables aux communes des départements de la Guadeloupe, de la Guyane, de la Martinique, de la Réunion et de Saint-Pierre-et-Miquelon*
-	  - SPEC_APPLI: Code des communes R262-1, R262-12 :
-
-	**Anciens textes**:
-
-	  - Décret n°68-913 1968-10-18 art. 9 al. 1 et 2 remplacé
-
-	**Codifié par**:
-
-	  - Décret n°77-91 1977-01-27
-
-	**Créé par**:
-
-	  - Décret n°77-91 1977-01-27 JORF et JONC 3 février 1977 date d'entrée en vigueur 20 mars 1977
-
-	**Cite**:
-
-	  - Code des communes R234-13 à R234-23 et R234-26 à R234-28
+	  - SPEC_APPLI: Loi n°80-1102 1980-12-31 : *Ces dispositions ne sont applicables que jusqu'au 1er janvier 1986*
+	  - SPEC_APPLI: Code des communes R262-1, R262-12 : *Dispositions non applicables aux communes des départements de la Guadeloupe, de la Martinique, de la Guyane, de la Réunion et de Saint-Pierre-et-Miquelon*
 
 
 ###### Article R*234-25
 
-Lorsque des communes touristiques ou thermales ou des stations nouvelles sont membres d'un syndicat intercommunal,
-
-d'un syndicat mixte, d'un district ou d'une communauté urbaine qui prend en charge tout ou partie des équipements d'intérêt
-touristique ou thermal, le syndicat, le district ou la communauté peuvent, par arrêté, être substitués, en tout ou partie,
-aux droits [*à bénéficier des allocations du fonds*] que les communes tiennent des articles R. 234-20 et R. 234-26. 
-
-L'arrêté prévu à l'alinéa précédent est pris par le préfet si les communes intéressées sont dans le même département et par
-le ministère de l'intérieur dans le cas contraire [*forme, compétence*].
+Pour l'application du dernier alinéa de l'article L. 234-14, outre les stations classées en application de l'article L.
+141-3, sont considérées comme stations thermales les communes possédant sur leur territoire un établissement thermal
+[*définition*].
 
 **Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - SPEC_APPLI: *Dispositions non applicables aux communes des départements de la Guadeloupe, de la Guyane, de la Martinique de la Réunion et de Saint-Pierre-et-Miquelon*
-	  - TXT_ASSOCIE: Code des communes R234-18
-	  - SPEC_APPLI: Code des communes R262-1, R262-12 :
-
-	**Anciens textes**:
-
-	  - Décret n°68-913 1968-10-18 art. 10
 
 	**Codifié par**:
 
 	  - Décret n°77-91 1977-01-27
 
-	**Créé par**:
-
-	  - Décret n°77-91 1977-01-27 JORF et JONC 3 février 1977 date d'entrée en vigueur 20 mars 1977
-
-	**Cite**:
-
-	  - Code des communes R234-20 et R234-26
-
-
-##### DISPOSITIONS PARTICULIERES AUX NOUVELLES STATIONS CLASSEES .
-
-###### Article R*234-26
-
-Peuvent bénéficier des répartitions du fonds d'action locale [*conditions*], prévues par les articles L. 234-25 à L. 234-27,
-en faveur des nouvelles stations touristiques ou thermales, les communes dont les noms figurent sur une liste dressée par
-arrêté du ministre de l'intérieur, du ministre de l'économie et des finances et du ministre chargé du tourisme,
-
-en raison de la création prévue sur leur territoire d'une capacité nouvelle d'hébergement et d'accueil touristique,
-justifiant par son importance, tant en elle-même que par rapport à la situation antérieure de la commune, l'octroi
-d'allocations supplémentaires. 
-
-L'inscription sur cette liste est valable pour neuf ans.
-
-Elle peut être prolongée quand des circonstances particulières le justifient par décision prise sur avis du comité du fonds
-d'action locale [**]conditions de forme[**], sans que la durée de cette inscription puisse excéder douze ans, sur la base
-d'un même programme. 
-
-L'inscription peut être suspendue [*sanctions*] si l'échéancier de réalisation prévu n'est pas respecté deux années de suite.
-
-**Liens relatifs à cet article**
-
 	**Liens**:
 
-	  - SPEC_APPLI: *Dispositions non applicables aux communes des départements de la Guadeloupe, de la Guyane, de la Martinique, de la Réunion et de Saint-Pierre-et-Miquelon*
-	  - SPEC_APPLI: Code des communes R262-1, R262-12 :
-
-	**Cite**:
-
-	  - Arrêté 1978-12-29 INTERIEUR JORF 8 février 1979 p. 1276 (LISTE DES COMMUNES TOURISTIQUES OU THERMALES ET DE LEURS GROUPEMENTS)
-	  - Code des communes L234-25 à L234-27
-
-	**Anciens textes**:
-
-	  - Décret n°68-913 1968-10-18 art. 5 al. 1 et 2 remplacé
-
-	**Codifié par**:
-
-	  - Décret n°77-91 1977-01-27
-
-	**Créé par**:
-
-	  - Décret n°77-91 1977-01-27 JORF et JONC 3 février 1977 date d'entrée en vigueur 20 mars 1977
+	  - SPEC_APPLI: Loi n°80-1102 1980-12-31 : *Ces dispositions ne sont applicables que jusqu'au 1er janvier 1986*
+	  - SPEC_APPLI: Code des communes R262-1, R262-12 : *Dispositions non applicables aux communes des départements de la Guadeloupe, de la Martinique, de la Guyane, de la Réunion et de Saint-Pierre-et-Miquelon*
 
 
 ###### Article R*234-27
 
-Pour l'application de l'article précédent :
+Les syndicats intercommunaux, les districts et les communes appartenant à un syndicat mixte dont l'un des objets est
+l'aménagement touristique de tout ou partie de leur territoire sont, sur leur demande, considérés comme une seule entité pour
+l'application des articles R. 234-20 à R. 234-25 et R. 234-28 à R. 234-30   . 
 
-1° La capacité d'hébergement et d'accueil touristique en voie de création est calculée sur la base d'un indice déterminé par
-le préfet ; 
-
-2° Pour établir cet indice, le préfet prend en considération :
-
-- les indications figurant dans les plans d'aménagement et les bilans prévisionnels approuvés des zones d'aménagement
-concerté dont le programme et l'échéancier ont été arrêtés ; 
-
-- les conventions passées entre les collectivités locales et les promoteurs immobiliers pour l'aménagement de stations
-lorsque ces conventions prévoient un programme de création de logements et un échancier et qu'elles ont été approuvées par
-les autorités de tutelle ; 
-
-- les projets de lotissement approuvés ; 
-
-- les permis de construire accordés et les déclarations préalables déposées avant le 1er janvier de l'année, pour des locaux
-encore inachevés à cette date.
-
-3° L'indice est obtenu en totalisant les chiffres pondérés résultant du calcul suivant :
-
-- nombre de chambres d'hôtel multiplié par 2 ; 
-
-- nombre de logements en villages de vacances, gîtes ruraux ou communaux ou en logements qui ne sont aidés ni directement ni
-indirectement par l'Etat, multiplié par 4 ; 
-
-- nombre de places d'hébergement collectif dans les établissements publics ou privés tels qu'hôpital thermal, colonie de
-vacances, auberge de jeunesse, centre sportif et centre de jeunesse ; 
-
-- nombre de places dans les camps de camping, multiplié par 0,75. 
-
-4° Le rapport entre la capacité nouvelle d'hébergement et d'accueil touristique et la situation préexistante de la commune
-s'apprécie en pourcentage de l'indice calculé sur les bases fixées ci-dessus pour la capacité nouvelle par rapport à l'indice
-calculé sur les bases fixées à l'article R. 234-20 pour la situation préexistante.
+La dotation supplémentaire est calculée commune par commune et versée directement au budget du syndicat ou du district.
 
 **Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - SPEC_APPLI: *Dispositions non applicables aux communes des départements de la Guadeloupe, de la Guyane, de la Martinique, de la Réunion et de Saint-Pierre-et-Miquelon*
-	  - SPEC_APPLI: Code des communes R262-1, R262-12 :
-
-	**Anciens textes**:
-
-	  - Décret n°68-913 1968-10-18 art. 6 remplacé
 
 	**Codifié par**:
 
 	  - Décret n°77-91 1977-01-27
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°77-91 1977-01-27 JORF et JONC 3 février 1977 date d'entrée en vigueur 20 mars 1977
+	  - Décret n°80-16 1980-01-10 jorf 13 janvier 1980
 
-	**Cite**:
+	**Liens**:
 
-	  - Code des communes R234-20 et R234-26
+	  - SPEC_APPLI: Loi n°80-1102 1980-12-31 : *Ces dispositions ne sont applicables que jusqu'au 1er janvier 1986*
+	  - SPEC_APPLI: Code des communes R262-1, R262-12 : *Dispositions non applicables aux communes des départements de la Guadeloupe, de la Martinique, de la Guyane, de la Réunion et de Saint-Pierre-et-Miquelon*
+
+	**Abrogé par**:
+
+	  - Décret n°88-625 du 6 mai 1988 - art. 3 (Ab)
 
 
 ###### Article R*234-28
 
-Pour être inscrites sur la liste [*ouvrant droit aux allocations supplémentaires*] prévue à l'article R. 234-26
-[*conditions*] les communes doivent justifier à la fois d'une capacité nouvelle d'hébergement et d'accueil touristique
-correspondant au minimum à l'indice 1500 sur les bases définies au 3° de l'article R. 234-27 et d'un rapport de la capacité
-nouvelle d'hébergement et d'accueil touristique à la situation préexistante au moins égal à 100 p. 100 sur les bases définies
-au 4° de l'article R. 234-27.
+Les communes qui, dans le cadre des dispositions applicables au versement représentatif de la taxe sur les salaires,
+figuraient, au 31 décembre 1978 [*date*], depuis moins de neuf ans sur la liste des nouvelles stations touristiques ou
+stations, continuent de bénéficier d'une dotation particulière jusqu'à l'expiration du délai de neuf ans.
+
+A cette fin, elles font l'objet d'une inscription spéciale sur la liste annuelle prévue à l'article L. 234-14.
 
 **Liens relatifs à cet article**
 
+	**Codifié par**:
+
+	  - Décret n°77-91 1977-01-27
+
 	**Liens**:
 
-	  - SPEC_APPLI: Dispositions non applicables aux communes des départements de la Guadeloupe, de la Guyane, de la Martinique, de la Réunion et de Saint-Pierre-et-Miquelon
-	  - SPEC_APPLI: Code des communes R262-1, R262-12 :
+	  - TXT_SOURCE: Décret n°77-91 1977-01-27
+	  - SPEC_APPLI: Loi n°80-1102 1980-12-31 : *Ces dispositions ne sont applicables que jusqu'au 1er janvier 1986*
+	  - SPEC_APPLI: Code des communes R262-1, R262-12 : *Dispositions non applicables aux communes des départements de la Guadeloupe, de la Martinique, de la Guyane, de la Réunion et de Saint-Pierre-et-Miquelon*
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - Décret n°68-913 1968-10-18 art. 8 remplacé
+	  - Décret n°80-16 1980-01-10 jorf 13 janvier 1980
+
+	**Abrogé par**:
+
+	  - Décret n°88-625 du 6 mai 1988 - art. 3 (Ab)
+
+
+###### Article R*234-29
+
+La dotation revenant en 1979 à l'ensemble des communes mentionnées à l'article R. 234-28 est égale au montant des sommes
+qu'elles ont reçues, à ce titre en 1978, affecté du taux d'évolution de la dotation supplémentaire versée aux communes
+touristiques ou thermales.
+
+Pour chacune des années suivantes, elle sera d'abord réduite de la part versée la dernière année aux stations touristiques ou
+thermales dont l'inscription spéciale prévue à l'article R. 234-28 est venue à échéance, puis affectée du taux d'évolution
+mentionné au paragraphe précédent.
+
+Cette dotation est répartie entre les communes concernées, et pour chacune d'entre elles, proportionnellement au rapport
+entre la moyenne de ses dépenses d'équipement des trois exercices précédents et son potentiel fiscal par habitant.
+
+**Nota:**
+
+Le décret 80-16 du 10 janvier 1980 a créé un article R239-29 dans la présente sous-section alors que cet article existait
+déjà dans la sous-section III (répartition d'une part des amendes relatives à la circulation routière).
+
+**Liens relatifs à cet article**
 
 	**Codifié par**:
 
@@ -71741,11 +71468,248 @@ au 4° de l'article R. 234-27.
 
 	**Créé par**:
 
-	  - Décret n°77-91 1977-01-27 JORF et JONC 3 février 1977 date d'entrée en vigueur 20 mars 1977
+	  - Décret n°80-16 1980-01-10 jorf 13 janvier 1980
 
-	**Cite**:
+	**Liens**:
 
-	  - Code des communes R234-26 et R234-27 3° et 4°
+	  - SPEC_APPLI: Loi n°80-1102 1980-12-31
+
+	**Abrogé par**:
+
+	  - Décret n°88-625 du 6 mai 1988 - art. 3 (Ab)
+
+
+###### Article R*234-30
+
+Les dépenses d'équipement à prendre en compte pour l'application de l'article précédent sont :
+
+- les prélèvements opérés sur les recettes ordinaires ;
+
+- les intérêts des emprunts ;
+
+- et éventuellement les dotations aux comptes d'amortissement.
+
+**Nota:**
+
+Le décret 80-16 du 10 janvier 1980 a créé un article R239-30 dans la présente sous-section II alors que cet article existait
+déjà dans la sous-section III (répartition d'une part des amendes relatives à la circulation routière).
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°77-91 1977-01-27
+
+	**Créé par**:
+
+	  - Décret n°80-16 1980-01-10 jorf 13 janvier 1980
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°80-1102 1980-12-31
+
+	**Abrogé par**:
+
+	  - Décret n°88-625 du 6 mai 1988 - art. 3 (Ab)
+
+
+##### Dotation supplémentaire versée aux communes touristiques et thermales et à leurs groupements.
+
+###### Article R*234-20
+
+Figurent sur la liste annuelle les communes justifiant d'un indice pondéré de capacité d'accueil au moins égal aux chiffres
+indiqués dans la colonne 1 du tableau ci-dessous et pour lesquelles le rapport entre cet indice et la population permanente
+est au moins égal aux pourcentages indiqués dans la colonne 2 du même tableau [*calcul*] ;
+
+Indice pondéré de capacité d'accueil : 500.
+
+Rapport entre cet indice et la population permanente : 75 p. 100.
+
+Indice pondéré de capacité d'accueil : 540.
+
+Rapport entre cet indice et la population permanente : 65 p. 100.
+
+Indice pondéré de capacité d'accueil : 580.
+
+Rapport entre cet indice et la population permanente :
+
+55 p. 100.
+
+Indice pondéré de capacité d'accueil : 625.
+
+Rapport entre cet indice et la population permanente :
+
+45 p. 100.
+
+Indice pondéré de capacité d'accueil : 670.
+
+Rapport entre cet indice et la population permanente :
+
+35 p. 100.
+
+Indice pondéré de capacité d'accueil : 710.
+
+Rapport entre cet indice et la population permanente :
+
+25 p. 100.
+
+Indice pondéré de capacité d'accueil : 750.
+
+Rapport entre cet indice et la population permanente :
+
+15 p. 100. [*pourcentages, tableau réécrit*].
+
+Ne peuvent figurer sur la liste les communes dont la capacité d'accueil est liée, à plus de 75 p. 100, à l'existence d'un
+aéroport situé, même partiellement, sur leur territoire.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°77-91 1977-01-27
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°80-1102 1980-12-31 : *Ces dispositions ne sont applicables que jusqu'au 1er janvier 1986*
+	  - SPEC_APPLI: Code des communes R262-1, R262-12 : *Dispositions non applicables aux communes des départements de la Guadeloupe, de la Martinique, de la Guyane, de la Réunion et de Saint-Pierre-et-Miquelon*
+
+
+###### Article R*234-21
+
+L'indice pondéré de capacité d'accueil est constaté chaque année par le préfet en tenant compte des possibilités
+d'hébergement touristique de la commune au 1er janvier [*fréquence*].
+
+Cet indice est obtenu en totalisant les chiffres résultant des produits suivants :
+
+- nombre de chambres dans les hôtels de tourismes des deux catégories les plus élevées, multiplié par 6 ;
+
+- nombre de chambres dans les hôtels de tourisme des autres catégories, multiplié par 4 ;
+
+- nombre de chambres dans les hôtels non classés hôtels de tourisme, multiplié par 2 ;
+
+- nombre de places dans les villages de vacances, multiplié par 1,5 ;
+
+- nombre de places dans les terrains de camping et les terrains aménagés pour le stationnement des caravanes, multiplié par
+0,75 ;
+
+- nombre de logements meublés exemptés de taxe professionnelle et donnant lieu à des locations saisonnières, y compris les
+gîtes ruraux ou communaux, multiplié par 3 ;
+
+- nombre de pièces dans les logements meublés, autres que ceux qui sont prévus ci-dessus, multiplié par 1 ;
+
+- nombre de places dans les hôpitaux thermaux et établissements similaires, multiplié par 1,5 ;
+
+- nombre de places d'hébergement collectif dans les établissements publics ou privés, tels que colonies de vacances, auberges
+de jeunesse, centres de vacances, maisons familiales de vacances, multiplié par 0,75.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°77-91 1977-01-27
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°80-1102 1980-12-31 : *Ces dispositions ne sont applicables que jusqu'au 1er janvier 1986*
+	  - SPEC_APPLI: Code des communes R262-1, R262-12 : *Dispositions non applicables aux communes des départements de la Guadeloupe, de la Martinique, de la Guyane, de la Réunion et de Saint-Pierre-et-Miquelon*
+
+
+###### Article R*234-23
+
+Pour l'application des dispositions de la présente sous-section, le rapport entre l'indice pondéré de capacité d'accueil et
+la population permanente est affecté des coefficients suivants [*chiffre de la population*] :
+
+1,50 pour les communes de moins de 2.000 habitants ;
+
+1,375 pour les communes entre 2.000 et 4.999 habitants ;
+
+1,25 pour les communes entre 5.000 et 19.999 habitants ;
+
+1,125 pour les communes entre 20.000 et 49.999 habitants ;
+
+1 pour les communes entre 50.000 et 99.999 habitants ;
+
+0,875 pour les communes entre 100.000 et 199.999 habitants ;
+
+0,75 pour les communes de 200.000 habitants et plus.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°77-91 1977-01-27
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°80-1102 1980-12-31 : *Ces dispositions ne sont applicables que jusqu'au 1er janvier 1986*
+	  - SPEC_APPLI: Code des communes R262-1, R262-12 : *Dispositions non applicables aux communes des départements de la Guadeloupe, de la Martinique, de la Guyane, de la Réunion et de Saint-Pierre-et-Miquelon*
+
+
+###### Article R*234-24
+
+La dotation revenant aux communes touristiques ou thermales après prélèvement des sommes affectées aux stations touristiques
+mentionnées à l'article R. 234-28 est divisée en deux parts.
+
+La première, égale à 80 p. 100, est répartie proportionnellement au rapport existant entre l'indice pondéré de capacité
+d'accueil et la population permanente R. 234-23, et multiplié par le montant des impôts énoncés à l'article L. 234-9.
+
+La seconde, égale à 20 p. 100 [*pourcentage*], est répartie proportionnellement à l'indice pondéré de capacité d'accueil
+multiplié par le quart de l'écart relatif entre le potentiel fiscal moyen par habitant de l'ensemble des communes
+touristiques ou thermales, et le potentiel fiscal par habitant de chaque commune bénéficiaire.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°77-91 1977-01-27
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°80-1102 1980-12-31 : *Ces dispositions ne sont applicables que jusqu'au 1er janvier 1986*
+	  - SPEC_APPLI: Code des communes R262-1, R262-12 : *Dispositions non applicables aux communes des départements de la Guadeloupe, de la Martinique, de la Guyane, de la Réunion et de Saint-Pierre-et-Miquelon*
+
+
+##### Dotation supplémentaire versée aux communes touristiques ou thermales et à leurs groupements SECTION 1 : Dotation globale de fonctionnement
+
+##### SOUS-SECTION 5 : Comité des finances locales.
+
+###### Article R*234-26
+
+Les communes fusionnées, quelle que soit leur situation au regard des dispositions des articles R. 234-20 à R. 234-25,
+bénéficient d'une garantie de recettes, calculée par référence au montant des dotations supplémentaires perçues en
+application de l'article R. 234-24 par les communes préexistantes, au titre de la dernière répartition effectuée avant la
+date de prise d'effet de la fusion.
+
+Cette garantie de recettes s'applique chaque fois qu'elle assure à la nouvelle commune, issue de la fusion, une dotation
+supérieure à celle qui résulterait pour elle de l'application de l'article R. 234-24. Elle est accordée pour une durée de
+huit ans à compter de la date d'effet de la fusion ou pour le nombre d'années restant à courir dans la limite de ce délai,
+lorsque la fusion a pris effet antérieurement au 1er janvier 1979.
+
+Pendant les cinq premières années [*durée*] qui suivent la date d'effet de la fusion, la garantie est revalorisée chaque
+année dans la même proportion que le montant total des ressources affectées à la dotation supplémentaire versée aux communes
+touristiques ou thermales.
+
+Pour chacune des trois années suivantes, elle est respectivement égale à 75 p. 100, 50 p. 100 et 25 p. 100 du montant qu'elle
+a atteint pour la cinquième année.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°77-91 1977-01-27
+
+	**Modifié par**:
+
+	  - Décret n°80-16 1980-01-10 jorf 13 janvier 1980
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°80-1102 1980-12-31 : *Ces dispositions ne sont applicables que jusqu'au 1er janvier 1986*
+	  - SPEC_APPLI: Code des communes R262-1, R262-12 : *Dispositions non applicables aux communes des départements de la Guadeloupe, de la Martinique, de la Guyane, de la Réunion et de Saint-Pierre-et-Miquelon*
+
+	**Abrogé par**:
+
+	  - Décret n°88-625 du 6 mai 1988 - art. 3 (Ab)
 
 
 ### COMPTABILITE
