@@ -1,5 +1,5 @@
 # Code des communes  
-Version Consolidée au 1987-08-01
+Version Consolidée au 1987-09-09
 
 # Statuts types d'une caisse communale de secours et de retraite de sapeurs-pompiers
 
@@ -58766,6 +58766,34 @@ Cet acompte est payé après autorisation de l'autorité habilitée à recevoir 
 	  - Décret n°2000-318 du 7 avril 2000 - art. 4 (V)
 
 
+###### Article R*311-14
+
+Le prix des acquisitions immobilières faites à l'amiable suivant les règles du droit civil pour le compte des communes et de
+leurs établissements publics peut être payé au vendeur, après publication de l'acte au fichier immobilier, sans
+l'accomplissement des formalités de purge des privilèges et hypothèques inscrits lorsqu'il n'excède pas 50.000 F [*francs*]
+pour l'ensemble de l'immeuble acquis.
+
+La présente disposition est applicable aux acquisitions immobilières faites après exercice du droit de préemption.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°62-1352 1962-11-14 ART. 6 (modifié par l'article 4 du décret 87-738 du 3 septembre 1986)
+
+	**Codifié par**:
+
+	  - Décret n°77-241 1977-03-07
+
+	**Modifié par**:
+
+	  - Décret n°87-738 du 3 septembre 1987 - art. 3 () JORF 9 septembre 1987 rectificatif JORF 13 février 1988
+
+	**Abrogé par**:
+
+	  - Décret n°2000-318 du 7 avril 2000 - art. 4 (V)
+
+
 ###### Article R*311-15
 
 Conformément à l'article R. 177 du code du domaine de l'Etat, dans les départements désignés comme il est dit à l'article R.
@@ -78780,34 +78808,6 @@ armées et du ministre de l'intérieur.
 
 ## Administration et services communaux
 
-### Administration de la commune
-
-#### Biens communaux
-
-##### Acquisition, location et affectation de biens .
-
-###### Article R*311-14
-
-Le prix des acquisitions immobilières faites à l'amiable suivant les règles du droit civil pour le compte des communes et de
-leurs établissements publics peut être payé au vendeur, après publication de l'acte au fichier immobilier, sans
-l'accomplissement des formalités de purge des privilèges et hypothèques inscrits lorsqu'il n'excède pas 5.000 F [*francs*]
-pour l'ensemble de l'immeuble acquis.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°62-1352 du 14 novembre 1962 - art. 6 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°77-241 1977-03-07
-
-	**Créé par**:
-
-	  - Décret n°77-241 1977-03-07 JORF et JONC 18 Mars 1977
-
-
 ### Services communaux
 
 #### Régies municipales
@@ -93275,45 +93275,5 @@ période de l'engagement restant à courir.
 	**Cite**:
 
 	  - Code des communes R415-2 à R415-5
-
-
-### Dispositions particulières
-
-#### Dispositions applicables à la ville de Paris
-
-##### Recrutement .
-
-###### Article R*444-29
-
-Nul ne peut être nommé à un emploi permanent de la commune de Paris et de ses établissements publics mentionnés à l'article
-R. 444-1 : [*conditions normales de recrutement*]        1° S'il ne possède la nationalité française, ou s'il est frappé des
-incapacités prévues par le code de la nationalité française ;
-
-2° S'il ne jouit de ses droits civiques et s'il n'est de bonne moralité ;
-
-3° S'il ne se trouve en position régulière au regard des dispositions du code du service national ;
-
-4° S'il ne remplit les conditions d'âge et d'aptitude physique exigées pour l'exercice de la fonction et s'il n'est reconnu,
-soit indemne de toute affection tuberculeuse, cancéreuse ou nerveuse, soit définitivement guéri.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°76-1041 1976-11-16 ART. 27
-
-	**Codifié par**:
-
-	  - Décret n°77-373 1977-03-28
-
-	**Créé par**:
-
-	  - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
-
-	**Cite**:
-
-	  - Code des communes R444-1
-	  - Code de la nationalité
-	  - Code du service national
 
 
