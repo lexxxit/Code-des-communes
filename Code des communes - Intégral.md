@@ -1,5 +1,5 @@
 # Code des communes  
-Version Consolidée au 1984-10-01
+Version Consolidée au 1984-12-30
 
 # Statuts types d'une caisse communale de secours et de retraite de sapeurs-pompiers
 
@@ -18765,6 +18765,36 @@ Les recettes du budget du district comprennent :
 	  - Code général des collectivités territoriales - art. L5213-16 (Ab)
 
 
+###### Article L252-3
+
+Les recettes du budget du district peuvent comprendre le produit des impôts mentionnés au A 1. de l'article L. 231-5 lorsque
+la décision en est prise par délibération du conseil de district statuant à la majorité des deux tiers.
+
+Cette décision demeure applicable tant qu'elle n'a pas été rapportée dans les mêmes conditions.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°77-90 1977-01-27
+
+	**Modifié par**:
+
+	  - Loi n°84-1208 du 29 décembre 1984 - art. 97 () JORF 30 décembre 1984
+
+	**Cite**:
+
+	  - CODE DES COMMUNES. - art. L231-5 (M)
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: CODE DES COMMUNES. - art. L252-2 (M)
+
+	**Cité par**:
+
+	  - CODE DES COMMUNES. - art. R252-3 (Ab)
+
+
 ###### Article L252-4
 
 Les pertes de recettes que le district subit du fait des exemptions temporaires dont bénéficient les constructions nouvelles
@@ -23825,36 +23855,6 @@ des îlots urbains.
 
 
 ### DISPOSITIONS APPLICABLES A CERTAINS ETABLISSEMENTS COMMUNAUX
-
-#### Dispositions applicables au district .
-
-###### Article L252-3
-
-Les recettes du budget du district peuvent comprendre le produit des impôts mentionnés au A 1. de l'article L. 231-5 lorsque
-la décision en est prise par délibération du conseil de district statuant à la majorité des deux tiers.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°70-1297 1970-12-31 art. 30 (partie)
-
-	**Codifié par**:
-
-	  - Décret n°77-90 1977-01-27
-
-	**Cite**:
-
-	  - CODE DES COMMUNES. - art. L231-5 (M)
-
-	**Liens**:
-
-	  - TXT_ASSOCIE: CODE DES COMMUNES. - art. L252-2 (M)
-
-	**Cité par**:
-
-	  - CODE DES COMMUNES. - art. R252-3 (Ab)
-
 
 #### Dispositions applicables à la communauté urbaine .
 
