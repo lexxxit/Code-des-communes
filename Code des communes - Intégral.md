@@ -1,5 +1,5 @@
 # Code des communes  
-Version Consolidée au 1999-12-12
+Version Consolidée au 1999-12-30
 
 # Partie législative
 
@@ -9576,9 +9576,15 @@ commune comporte pour chacune des communes associées une section dotée de la p
 
 ### TITRE 6 : Intérêts communs à plusieurs communes
 
+#### CHAPITRE 1er : Commission départementale de la coopération intercommunale
+
+##### SECTION 1 : Composition et élection
+
+##### SOUS-SECTION 1 : Formation plénière.
+
 ###### Article R*160-1
 
-Dans chacune des commissions départementales de la coopération intercommunale prévues par l'article L. 160-1, le nombre des
+Dans chacune des commissions départementales de la coopération intercommunale prévues par l'article L. 5211-42, le nombre des
 membres est fixé à 40.
 
 Ce nombre est augmenté d'un siège supplémentaire :
@@ -9591,7 +9597,7 @@ c) A partir d'un seuil de 400 communes dans le département, puis par tranche de
 
 Un arrêté préfectoral constate dans chaque département le nombre total de membres de la commission ainsi que le nombre de
 sièges attribués à chaque catégorie de collectivité territoriale ou d'établissement public par l'application des règles de
-répartition fixées à l'article L. 160-1, éventuellement arrondi au nombre entier supérieur.
+répartition fixées à l'article L. 5211-42, éventuellement arrondi au nombre entier supérieur.
 
 **Liens relatifs à cet article**
 
@@ -9599,17 +9605,19 @@ répartition fixées à l'article L. 160-1, éventuellement arrondi au nombre en
 
 	  - Décret n°77-91 1977-01-27
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°92-417 du 6 mai 1992 - art. 1 () JORF 7 mai 1992
+	  - Décret n°99-1152 1999-12-29 art. 2, 3 jorf 30 décembre 1999
+	  - Décret n°99-1152 du 29 décembre 1999 - art. 2 ()
+
+	**Abrogé par**:
+
+	  - Décret n°2000-318 du 7 avril 2000 - art. 4 (V)
 
 	**Cite**:
 
+	  - CODE DES COMMUNES L5211-42, L160-1
 	  - CODE DES COMMUNES. - art. L160-1 (Ab)
-
-	**Nouveaux textes**:
-
-	  - Code général des collectivités territoriales - art. R5211-19 (V)
 
 
 ###### Article R*160-2
@@ -9629,21 +9637,26 @@ Le nombre de sièges ainsi obtenu est arrondi au nombre entier le plus proche.
 
 **Liens relatifs à cet article**
 
+	**Nouveaux textes**:
+
+	  - Code général des collectivités territoriales L
+
 	**Codifié par**:
 
 	  - Décret n°77-91 1977-01-27
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°92-417 du 6 mai 1992 - art. 1 () JORF 7 mai 1992
+	  - Décret n°99-1152 1999-12-29 art. 2, 3 jorf 30 décembre 1999
+	  - Décret n°99-1152 du 29 décembre 1999 - art. 2 ()
+
+	**Abrogé par**:
+
+	  - Décret n°2000-318 du 7 avril 2000 - art. 4 (V)
 
 	**Cite**:
 
 	  - CODE DES COMMUNES R160-1
-
-	**Nouveaux textes**:
-
-	  - Code général des collectivités territoriales - art. R5211-20 (V)
 
 
 ###### Article R*160-3
@@ -9661,9 +9674,14 @@ développement et d'aménagement.
 
 	  - Décret n°77-91 1977-01-27
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°92-417 du 6 mai 1992 - art. 1 () JORF 7 mai 1992
+	  - Décret n°99-1152 1999-12-29 art. 2, 3 jorf 30 décembre 1999
+	  - Décret n°99-1152 du 29 décembre 1999 - art. 2 ()
+
+	**Abrogé par**:
+
+	  - Décret n°2000-318 du 7 avril 2000 - art. 4 (V)
 
 
 ###### Article R*160-4
@@ -9685,9 +9703,14 @@ renouvellement des conseils généraux et des conseils régionaux.
 
 	  - Décret n°77-91 1977-01-27
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°92-417 du 6 mai 1992 - art. 1 () JORF 7 mai 1992
+	  - Décret n°99-1152 1999-12-29 art. 2, 3 jorf 30 décembre 1999
+	  - Décret n°99-1152 du 29 décembre 1999 - art. 2 ()
+
+	**Abrogé par**:
+
+	  - Décret n°2000-318 du 7 avril 2000 - art. 4 (V)
 
 	**Cite**:
 
@@ -9703,10 +9726,6 @@ constitués en application des articles R. 160-2 et R. 160-3 et définit les mod
 
 **Liens relatifs à cet article**
 
-	**Cite**:
-
-	  - CODE DES COMMUNES R160-2, R160-3
-
 	**Nouveaux textes**:
 
 	  - Code général des collectivités territoriales L
@@ -9715,9 +9734,18 @@ constitués en application des articles R. 160-2 et R. 160-3 et définit les mod
 
 	  - Décret n°77-91 1977-01-27
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°92-417 du 6 mai 1992 - art. 1 () JORF 7 mai 1992
+	  - Décret n°99-1152 1999-12-29 art. 2, 3 jorf 30 décembre 1999
+	  - Décret n°99-1152 du 29 décembre 1999 - art. 2 ()
+
+	**Abrogé par**:
+
+	  - Décret n°2000-318 du 7 avril 2000 - art. 4 (V)
+
+	**Cite**:
+
+	  - CODE DES COMMUNES R160-2, R160-3
 
 
 ###### Article R*160-6
@@ -9739,9 +9767,14 @@ Nul ne peut être candidat au titre de catégories différentes.
 
 	  - Décret n°77-91 1977-01-27
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°92-417 du 6 mai 1992 - art. 1 () JORF 7 mai 1992
+	  - Décret n°99-1152 1999-12-29 art. 2, 3 jorf 30 décembre 1999
+	  - Décret n°99-1152 du 29 décembre 1999 - art. 2 ()
+
+	**Abrogé par**:
+
+	  - Décret n°2000-318 du 7 avril 2000 - art. 4 (V)
 
 
 ###### Article R*160-7
@@ -9780,10 +9813,6 @@ administratif dans les dix jours qui suivent cette publication par tout électeu
 
 **Liens relatifs à cet article**
 
-	**Cite**:
-
-	  - CODE DES COMMUNES R160-5
-
 	**Nouveaux textes**:
 
 	  - Code général des collectivités territoriales L
@@ -9792,9 +9821,18 @@ administratif dans les dix jours qui suivent cette publication par tout électeu
 
 	  - Décret n°77-91 1977-01-27
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°92-417 du 6 mai 1992 - art. 1 () JORF 7 mai 1992
+	  - Décret n°99-1152 1999-12-29 art. 2, 3 jorf 30 décembre 1999
+	  - Décret n°99-1152 du 29 décembre 1999 - art. 2 ()
+
+	**Abrogé par**:
+
+	  - Décret n°2000-318 du 7 avril 2000 - art. 4 (V)
+
+	**Cite**:
+
+	  - CODE DES COMMUNES R160-5
 
 
 ###### Article R*160-8
@@ -9812,9 +9850,14 @@ résultats.
 
 	  - Décret n°77-91 1977-01-27
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°92-417 du 6 mai 1992 - art. 1 () JORF 7 mai 1992
+	  - Décret n°99-1152 1999-12-29 art. 2, 3 jorf 30 décembre 1999
+	  - Décret n°99-1152 du 29 décembre 1999 - art. 2 ()
+
+	**Abrogé par**:
+
+	  - Décret n°2000-318 du 7 avril 2000 - art. 4 (V)
 
 
 ###### Article R*160-9
@@ -9835,9 +9878,14 @@ des élections complémentaires dans le collège considéré.
 
 	  - Décret n°77-91 1977-01-27
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°92-417 du 6 mai 1992 - art. 1 () JORF 7 mai 1992
+	  - Décret n°99-1152 1999-12-29 art. 2, 3 jorf 30 décembre 1999
+	  - Décret n°99-1152 du 29 décembre 1999 - art. 2 ()
+
+	**Abrogé par**:
+
+	  - Décret n°2000-318 du 7 avril 2000 - art. 4 (V)
 
 
 ###### Article R*160-10
@@ -9856,42 +9904,308 @@ Son secrétariat est assuré par les services de la préfecture.
 
 	  - Décret n°77-91 1977-01-27
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°92-417 du 6 mai 1992 - art. 1 () JORF 7 mai 1992
+	  - Décret n°99-1152 1999-12-29 art. 2, 3 jorf 30 décembre 1999
+	  - Décret n°99-1152 du 29 décembre 1999 - art. 2 ()
+
+	**Abrogé par**:
+
+	  - Décret n°2000-318 du 7 avril 2000 - art. 4 (V)
 
 
 ###### Article R*160-11
 
-Lors de l'installation de la commission par le préfet, les membres de la commission désignent au scrutin secret et à la
-majorité absolue un rapporteur général et deux assesseurs parmi les membres de la commission élus par les représentants des
-maires. Si, après deux tours de scrutin, aucun candidat n'a obtenu la majorité absolue, il est procédé à un troisième tour et
-l'élection a lieu à la majorité relative.
-
-Les dispositions du chapitre III du décret n° 83-1025 du 28 novembre 1983 susvisé sont applicables, sauf dispositions
-contraires du présent décret.
+Lors de l'installation de la commission par le préfet et après chaque renouvellement général des conseils municipaux les
+membres de la commission désignent au scrutin secret et à la majorité absolue un rapporteur général et deux assesseurs parmi
+les membres de la commission élus par les représentants des maires. Si, après deux tours de scrutin, aucun candidat n'a
+obtenu la majorité absolue, il est procédé à un troisième tour et l'élection a lieu à la majorité relative.
 
 Les membres de la commission départementale de coopération intercommunale approuvent dans les deux mois suivant son
-installation un règlement intérieur définissant les règles de fonctionnement de la commission. Les séances de la commission
-ne sont pas publiques.
+installation un règlement intérieur définissant les règles de fonctionnement de la commission.
 
 **Liens relatifs à cet article**
-
-	**Nouveaux textes**:
-
-	  - Code général des collectivités territoriales L
 
 	**Codifié par**:
 
 	  - Décret n°77-91 1977-01-27
 
-	**Cite**:
+	**Modifié par**:
 
-	  - Décret n°83-1025 1983-11-28
+	  - Décret n°99-1152 1999-12-29 art. 2, 3 jorf 30 décembre 1999
+	  - Décret n°99-1152 du 29 décembre 1999 - art. 2 ()
+
+	**Abrogé par**:
+
+	  - Décret n°2000-318 du 7 avril 2000 - art. 4 (V)
+
+
+##### SOUS-SECTION 2 : Formation restreinte.
+
+###### Article R*160-12
+
+L'arrêté visé au dernier alinéa de l'article R. 160-1 constate également, conformément aux règles de répartition fixées au
+deuxième alinéa de l'article L. 5211-45, le nombre des membres de la formation restreinte de la commission départementale de
+la coopération intercommunale ainsi que le nombre de sièges attribués respectivement aux représentants des communes pour
+chacun des collèges visés à l'article R. 160-2 et aux représentants des établissements publics de coopération intercommunale.
+Le nombre de sièges ainsi obtenu est arrondi au nombre entier le plus proche.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°77-91 1977-01-27
 
 	**Créé par**:
 
-	  - Décret n°92-417 du 6 mai 1992 - art. 1 () JORF 7 mai 1992
+	  - Décret n°99-1152 du 29 décembre 1999 - art. 4 ()
+
+	**Abrogé par**:
+
+	  - Décret n°2000-318 du 7 avril 2000 - art. 4 (V)
+
+	**Cite**:
+
+	  - CODE DES COMMUNES R160-1, L5211-45, R160-2
+
+
+###### Article R*160-13
+
+Les membres de la formation restreinte de la commission départementale de la coopération intercommunale sont élus lors de la
+séance d'installation de cette commission et après chaque renouvellement général des conseils municipaux. Les représentants
+des communes sont élus au sein de chacun des collèges électoraux visés à l'article R. 160-2. Les représentants des
+établissements publics de coopération intercommunale sont élus au sein de ce collège.
+
+Les candidatures sont déposées auprès du président de la commission départementale de la coopération intercommunale. Les
+membres de la formation restreinte sont élus au scrutin uninominal majoritaire à trois tours. Si, après deux tours de
+scrutin, aucun candidat n'a obtenu la majorité absolue, il est procédé à un troisième tour et l'élection a lieu à la majorité
+relative. En cas d'égalité des suffrages, le candidat le plus âgé est déclaré élu.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°77-91 1977-01-27
+
+	**Créé par**:
+
+	  - Décret n°99-1152 du 29 décembre 1999 - art. 4 ()
+
+	**Abrogé par**:
+
+	  - Décret n°2000-318 du 7 avril 2000 - art. 4 (V)
+
+	**Cite**:
+
+	  - CODE DES COMMUNES R160-2
+
+
+###### Article R*160-14
+
+Les membres de la formation restreinte de la commission départementale de la coopération intercommunale sont élus pour la
+durée de leur mandat au sein de cette commission. Lorsqu'un siège devient vacant au sein de la formation restreinte, celui-ci
+est pourvu dans les conditions fixées à l'article R. 160-13, dans un délai d'un mois à compter de la vacance.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°77-91 1977-01-27
+
+	**Créé par**:
+
+	  - Décret n°99-1152 du 29 décembre 1999 - art. 4 ()
+
+	**Abrogé par**:
+
+	  - Décret n°2000-318 du 7 avril 2000 - art. 4 (V)
+
+	**Cite**:
+
+	  - CODE DES COMMUNES R160-13
+
+
+###### Article R*160-15
+
+La formation restreinte de la commission départementale de la coopération intercommunale est présidée par le préfet et le
+rapporteur général de la commission départementale de la coopération intercommunale assume les mêmes fonctions au sein de
+cette formation. Le secrétariat de la formation restreinte est assuré par les services de la préfecture.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°77-91 1977-01-27
+
+	**Créé par**:
+
+	  - Décret n°99-1152 du 29 décembre 1999 - art. 4 ()
+
+	**Abrogé par**:
+
+	  - Décret n°2000-318 du 7 avril 2000 - art. 4 (V)
+
+
+###### Article R*160-16
+
+Lorsque l'établissement public de coopération intercommunale dont une commune demande à se retirer comprend la commune de
+Paris, la formation restreinte de la commission départementale de la coopération intercommunale compétente est complétée par
+deux représentants de la commune de Paris, désignés par le conseil de Paris en son sein.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°77-91 1977-01-27
+
+	**Créé par**:
+
+	  - Décret n°99-1152 du 29 décembre 1999 - art. 4 ()
+
+	**Abrogé par**:
+
+	  - Décret n°2000-318 du 7 avril 2000 - art. 4 (V)
+
+
+##### SECTION 2 : Fonctionnement.
+
+###### Article R*160-17
+
+Les dispositions de la présente section s'appliquent à la formation plénière et à la formation restreinte de la commission
+départementale de la coopération intercommunale.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°77-91 1977-01-27
+
+	**Créé par**:
+
+	  - Décret n°99-1152 du 29 décembre 1999 - art. 5 ()
+
+	**Abrogé par**:
+
+	  - Décret n°2000-318 du 7 avril 2000 - art. 4 (V)
+
+
+###### Article R*160-18
+
+Le préfet convoque la commission départementale de la coopération intercommunale. La convocation est adressée aux membres de
+la formation concernée par écrit et à domicile cinq jours au moins avant le jour de la réunion, accompagnée de l'ordre du
+jour et d'un rapport explicatif pour chaque affaire inscrite à l'ordre du jour. En cas d'urgence, ce délai peut être réduit à
+trois jours.
+
+Les formations des commissions départementales de la coopération intercommunale peuvent se réunir en formation
+interdépartementale lorsque les projets examinés intéressent des communes appartenant à des départements différents. La
+formation interdépartementale est présidée conjointement par les préfets de ces départements. Les dispositions de la présente
+section lui sont applicables.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°77-91 1977-01-27
+
+	**Créé par**:
+
+	  - Décret n°99-1152 du 29 décembre 1999 - art. 5 ()
+
+	**Abrogé par**:
+
+	  - Décret n°2000-318 du 7 avril 2000 - art. 4 (V)
+
+
+###### Article R*160-19
+
+La commission départementale de la coopération intercommunale ne peut valablement délibérer que si le nombre des membres
+présents est au moins égal à la moitié des membres en exercice de la formation. Si ce nombre n'est pas atteint, une nouvelle
+convocation est adressée dans les conditions prévues à l'article R. 160-18. La commission peut alors délibérer quel que soit
+le nombre de membres présents.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°77-91 1977-01-27
+
+	**Créé par**:
+
+	  - Décret n°99-1152 du 29 décembre 1999 - art. 5 ()
+
+	**Abrogé par**:
+
+	  - Décret n°2000-318 du 7 avril 2000 - art. 4 (V)
+
+	**Cite**:
+
+	  - CODE DES COMMUNES R160-18
+
+
+###### Article R*160-20
+
+Les délibérations sont prises à la majorité absolue des suffrages exprimés. En cas d'égalité des voix, l'avis est réputé
+favorable.
+
+Les membres de la commission départementale de la coopération intercommunale qui sont empêchés d'assister à une séance
+peuvent donner à un autre membre de la formation appartenant au même collège pouvoir écrit de voter en leur nom ; aucun
+membre ne peut détenir plus d'un pouvoir.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°77-91 1977-01-27
+
+	**Créé par**:
+
+	  - Décret n°99-1152 du 29 décembre 1999 - art. 5 ()
+
+	**Abrogé par**:
+
+	  - Décret n°2000-318 du 7 avril 2000 - art. 4 (V)
+
+
+###### Article R*160-21
+
+Les délibérations font l'objet d'un procès-verbal dont copie est adressée à chacun des membres dans les huit jours qui
+suivent la tenue de la réunion. Le procès-verbal indique le nom et la qualité des membres présents, les questions traitées au
+cours de la séance et le sens de chacune des délibérations.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°77-91 1977-01-27
+
+	**Créé par**:
+
+	  - Décret n°99-1152 du 29 décembre 1999 - art. 5 ()
+
+	**Abrogé par**:
+
+	  - Décret n°2000-318 du 7 avril 2000 - art. 4 (V)
+
+
+###### Article R*160-22
+
+Les séances de la commission départementale de la coopération intercommunale sont publiques. Toutefois, sur la demande de
+cinq membres, chaque formation de la commission peut décider, à la majorité absolue des membres présents ou représentés,
+qu'elle se réunit à huis clos. "
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°77-91 1977-01-27
+
+	**Créé par**:
+
+	  - Décret n°99-1152 du 29 décembre 1999 - art. 5 ()
+
+	**Abrogé par**:
+
+	  - Décret n°2000-318 du 7 avril 2000 - art. 4 (V)
 
 
 #### CHAPITRE 2 : Biens et droits indivis entre plusieurs communes.
@@ -11421,6 +11735,37 @@ des conseils municipaux, il n'est pas procédé à une nouvelle répartition des
 	**Nouveaux textes**:
 
 	  - Code général des collectivités territoriales L
+
+
+#### CHAPITRE  6 : Syndicats mixtes .
+
+###### Article R*166-2
+
+Pour l'application du second alinéa de l'article L. 5721-6-3 du code général des collectivités territoriales, la formation
+restreinte de la commission départementale de la coopération intercommunale est celle prévue aux articles R. 160-12 à R.
+160-16, complétée dans les cas et conditions prévus au même article L. 5721-6-3. Le représentant du conseil général est élu
+au sein du collège visé au 3° de l'article L. 5211-43 du même code et le représentant du conseil régional au sein du collège
+visé au 4° du même article.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°77-91 1977-01-27
+
+	**Créé par**:
+
+	  - Décret n°99-1152 du 29 décembre 1999 - art. 6 ()
+
+	**Abrogé par**:
+
+	  - Décret n°2000-318 du 7 avril 2000 - art. 4 (V)
+
+	**Cite**:
+
+	  - CODE DES COMMUNES R160-12 à R160-16
+	  - Code général des collectivités territoriales - art. L5211-43 (V)
+	  - Code général des collectivités territoriales - art. L5721-6-3 (V)
 
 
 #### CHAPITRE 7 : Dévolution de compétences à une communauté de communes.
