@@ -1,5 +1,5 @@
 # Code des communes  
-Version Consolidée au 1979-11-04
+Version Consolidée au 1979-12-20
 
 # ORGANISATION COMMUNALE
 
@@ -98672,6 +98672,28 @@ de services municipaux.
 	**Liens**:
 
 	  - SPEC_APPLI: Décret n°85-1003 1985-09-24 art. 38
+
+
+##### SECTION 7 : Honorariat.
+
+###### Article R411-55
+
+Tout agent titulaire admis à la retraite est autorisé à se prévaloir de l'honorariat dans son grade ou son emploi à condition
+d'avoir accompli vingt ans au moins de services publics.
+
+Toutefois, l'honorariat peut être refusé, au moment du départ de l'agent, par une décision motivée de l'autorité qui prononce
+la mise à la retraite pour un motif tiré de la qualité des services rendus à la collectivité locale. Il peut également être
+retiré après la mise à la retraite si la nature des activités exercées le justifie.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°79-1096 1979-12-13 ART. 2 : *les dispositions de l'article R411-55 sont applicables aux agents communaux admis à la retraite avant la publication du présent décret*
 
 
 #### CHAPITRE 2 : Recrutement, formation et promotion sociale
