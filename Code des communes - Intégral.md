@@ -1,5 +1,5 @@
 # Code des communes  
-Version Consolidée au 1978-01-04
+Version Consolidée au 1978-01-13
 
 # ORGANISATION COMMUNALE
 
@@ -1700,6 +1700,30 @@ Les conseils municipaux des communes de rattachement demeurent en fonction.
 	**Cite**:
 
 	  - Code des communes L113-1 à L113-4
+
+
+###### Article L113-4
+
+Ainsi qu'il est dit à l'article L. 22-1 du code de l'expropriation pour cause d'utilité publique, "lorsque l'expropriation
+intéressant une agglomération entraîne la dispersion de sa population, un décret en Conseil d'Etat fixe, après avis du
+conseil général des ponts et chaussées [**]conditions de forme[**], les mesures relatives à la réorganisation des territoires
+atteints par les travaux, en vue de permettre, notamment, le rétablissement du domaine public des collectivités locales, la
+réinstallation des services publics et la dévolution des biens du domaine privé des communes qui pourraient être supprimées.
+Il arrête un programme de réinstallation."
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°77-90 1977-01-27
+
+	**Abrogé par**:
+
+	  - Loi n°96-142 du 21 février 1996 - art. 12 (V)
+
+	**Cite**:
+
+	  - CODE DE L'EXPROPRIATION POUR CAUSE D'UTILITE PUBLI - art. L22-1 (M)
 
 
 ### TITRE 2 : Organes de la commune
@@ -8195,34 +8219,6 @@ de retraite des titulaires de certaines fonctions municipales*].
 	  - CODE DES COMMUNES. - art. L151-5 (M)
 	  - Code des communes L123-1 à L123-13
 	  - Code électoral - art. L255-1 (V)
-
-
-### SUPPRESSION DES COMMUNES APRES RACHAT DE TOUT OU PARTIE DE LEUR TERRITOIRE .
-
-###### Article L113-4
-
-Ainsi qu'il est dit à l'article 44 de l'ordonnance n° 58-957 du 23 octobre 1958 portant réforme des règles relatives à
-l'expropriation pour cause d'utilité publique, "Lorsque l'expropriation intéressant une agglomération entraîne la dispersion
-de sa population, un décret en Conseil d'Etat fixe,
-
-après avis du haut conseil de l'aménagement du territoire [**]conditions de forme[**], les mesures relatives à la
-réorganisation des territoires atteints par les travaux, en vue de permettre, notamment, le rétablissement du domaine public
-des collectivités locales, la réinstallation des services publics et la dévolution des biens du domaine privé des communes
-qui pourraient être supprimées. Il arrête un programme de réinstallation."
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°77-90 1977-01-27
-
-	**Créé par**:
-
-	  - Décret n°77-90 1977-01-27 JORF et JONC 3 février 1977 date d'entrée en vigueur 20 mars 1977
-
-	**Cite**:
-
-	  - Ordonnance 58-957 1958-10-23 art. 44
 
 
 ### ORGANES DE LA COMMUNE
@@ -16440,6 +16436,54 @@ Les recettes de la section de fonctionnement    comprennent les recettes fiscale
 	  - Code des communes L231-2 et L231-3
 
 
+###### Article L231-2
+
+Les recettes fiscales de la section de fonctionnement comprennent :
+
+a) Des impôts et des taxes dont l'assiette est établie et le recouvrement a lieu dans les formes prévues au code général des
+impôts, à savoir :
+
+1° Le produit de la redevance communale des mines ;
+
+2° Le produit du droit de licence des débitants de boissons ;
+
+3° Le produit de l'impôt sur les spectacles, jeux et divertissements, ainsi que des majorations de l'impôt sur les
+spectacles, jeux et divertissements ;
+
+4° Le produit de la taxe additionnelle aux droits d'enregistrement ou à la taxe de publicité foncière sur les mutations à
+titre onéreux ;
+
+5° Le produit de la taxe afférente à la délivrance du permis de chasser ;
+
+6° Le produit de la portion accordée aux communes dans certains des impôts et droits perçus pour le compte de l'Etat
+conformément au code général des impôts, notamment dans le droit de timbre sur les affiches et dans la taxe de protection
+sanitaire et d'organisation des marchés des viandes.
+
+b) Le produit des taxes dont la perception est autorisée par des lois dans l'intérêt des communes et, en particulier, la part
+revenant à la commune du prélèvement progressif opéré par l'Etat sur le produit des jeux dans les casinos.
+
+La part revenant à la commune du prélèvement progressif opéré par l'Etat sur le produit des jeux dans les casinos.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°77-90 1977-01-27
+
+	**Abrogé par**:
+
+	  - Loi n°96-142 du 21 février 1996 - art. 12 (V) JORF 24 février 1996
+
+	**Cité par**:
+
+	  - CODE DES COMMUNES. - art. L261-1 (M)
+
+	**Nouveaux textes**:
+
+	  - Code général des collectivités territoriales - art. L2331-1 (V)
+	  - Code général des collectivités territoriales - art. L2331-1 (M)
+
+
 ###### Article L231-3
 
 Les recettes non fiscales de la section de fonctionnement comprennent :
@@ -16775,6 +16819,23 @@ Ces taxes sont recouvrées comme en matière d'impôts directs.
 	**Anciens textes**:
 
 	  - Loi n°1884-04-05 art. 140
+
+
+###### Article L231-14
+
+Les créances non fiscales des communes et des établissements publics communaux, à l'exception des droits au comptant, ne sont
+pas mises en recouvrement par les ordonnateurs locaux lorsqu'elles n'atteignent pas le seuil [*montant*] fixé pour la
+liquidation des créances de l'Etat étrangères à l'impôt et au domaine.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°77-90 1977-01-27
+
+	**Abrogé par**:
+
+	  - Loi n°96-142 du 21 février 1996 - art. 12 (V)
 
 
 #### CHAPITRE 2 : Contributions et taxes dont la perception est autorisée par le code général des impôts.
@@ -22214,86 +22275,6 @@ au budget [*définition*].
 
 
 ### RECETTES
-
-#### RECETTES DU BUDGET DE LA COMMUNE
-
-##### SECTION DE FONCTIONNEMENT .
-
-###### Article L231-2
-
-Les recettes fiscales de la section de fonctionnement [*définition*] comprennent :
-
-a) Des impôts et taxes dont l'assiette est établie et le recouvrement a lieu dans les formes prévues au code général des
-impôts, à savoir :
-
-1° Le produit de la redevance communale des mines ; 
-
-2° Le produit du droit de licence des débitants de boissons ; 
-
-3° Le produit de l'impôt sur les spectacles, jeux et divertissements, ainsi que des majorations à l'impôt sur les spectacles,
-jeux et divertissements ; 
-
-4° Le produit de la taxe additionnelle aux droits d'enregistrement ou à la taxe de publicité foncière sur les mutations à
-titre onéreux ; 
-
-5° Le produit de la taxe afférente à la délivrance du permis de chasser ; 
-
-6° Le produit de la portion accordée aux communes dans certains des impôts et droits perçus pour le compte de l'Etat
-conformément au code général des impôts, notamment dans le droit de timbre sur les affiches.
-
-b) [*recettes fiscales*] :
-
-Le produit des taxes dont la perception est autorisée par des lois dans l'intérêt des communes et, en particulier :
-
-1° La part revenant à la commune du prélèvement progressif opéré par l'Etat sur le produit des jeux dans les casinos ; 
-
-2° Le produit de la taxe de visite et de poinçonnage des viandes.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI
-
-	**Codifié par**:
-
-	  - Décret n°77-90 1977-01-27
-
-	**Créé par**:
-
-	  - Décret n°77-90 1977-01-27 JORF et JONC 3 février 1977 date d'entrée en vigueur 20 mars 1977
-
-	**Cité par**:
-
-	  - CODE DES COMMUNES. - art. L261-1 (M)
-
-	**Nouveaux textes**:
-
-	  - Code général des collectivités territoriales - art. L2331-1 (V)
-
-
-##### REPARTITION ET RECOUVREMENT DE CERTAINES TAXES .
-
-###### Article L231-14
-
-Les créances non fiscales des communes et des établissements publics communaux, à l'exception des droits au comptant et des
-droits constatés perçus par l'intermédiaire des régisseurs de recettes, ne sont pas mises en recouvrement lorsqu'elles
-n'atteignent pas cinq francs [*montant*].
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°71-1061 1971-12-29 ART. 63 (partie)
-
-	**Codifié par**:
-
-	  - Décret n°77-90 1977-01-27
-
-	**Créé par**:
-
-	  - Décret n°77-90 1977-01-27 JORF et JONC 3 février 1977 date d'entrée en vigueur 20 mars 1977
-
 
 #### Dispositions générales
 
@@ -28900,6 +28881,37 @@ ces litiges et difficultés.
 	  - Code des communes L311-17 à L311-29
 
 
+###### Article L311-30
+
+A l'exception de ceux dont la pleine propriété est attribuée à des particuliers, et qui sont désormais régis par les
+dispositions du droit commun, les terrains sur lesquels, pour quelque cause que ce soit, a pris fin le droit de jouissance
+dont ils étaient grevés à la date du 3 janvier 1967, sont notamment régis par les dispositions du présent code et les
+dispositions relatives au domaine privé des communes.
+
+En cas d'aliénation de ces biens et à des fins de construction, il est fait application des articles L. 21-1 à L. 21-3 du
+code de l'expropriation pour cause d'utilité publique.
+
+Il n'est pas dérogé à la possibilité d'exproprier ces biens conformément à l'ordonnance précitée.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°77-240 1977-03-07
+
+	**Abrogé par**:
+
+	  - Loi n°96-142 du 21 février 1996 - art. 12 (V) JORF 24 février 1996
+
+	**Nouveaux textes**:
+
+	  - Code général des collectivités territoriales - art. L2421-18 (V)
+
+	**Cite**:
+
+	  - Code de l'expropriation pour cause d'utilité publique L21-1 à L21-3
+
+
 ###### Article L311-31
 
 A dater du 4 janvier 1967 et jusqu'à l'application effective des articles L. 311-17 à L. 311-22, tout droit de jouissance qui
@@ -29178,6 +29190,34 @@ d'hébergement de personnes âgées, ainsi qu'aux hospices communaux.
 	**Cité par**:
 
 	  - CODE DES COMMUNES. - art. L323-11 (Ab)
+
+
+###### Article L314-3
+
+Conformément à l'article 175-1 du code pénal, dans les communes dont la population ne dépasse pas 1.500 habitants [*nombre*],
+les maires, les adjoints et les conseillers municipaux délégués ou agissant en remplacement du maire peuvent, soit traiter
+sur mémoires ou sur simples factures, soit passer des marchés avec les communes qu'ils représentent pour l'exécution de menus
+travaux ou la livraison de fournitures courantes sous la réserve que le montant global des marchés passés dans l'année
+n'excède pas 30.000 F [*francs*]. En ce cas, la commune est représentée dans les conditions prévues à l'article L. 122-12
+[*si les intérêts du maire se trouvent en opposition avec ceux de la commune, le conseil municipal désigne un autre de ses
+membres pour représenter la commune, soit en justice, soit dans les contrats*]. Le maire, les adjoints ou les conseillers
+municipaux visés doivent s'abstenir d'assister et de participer à toute délibération du conseil municipal relative à la
+conclusion ou à l'approbation de ces marchés [*incompatibilité*].
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°77-240 1977-03-07
+
+	**Abrogé par**:
+
+	  - Loi n°96-142 du 21 février 1996 - art. 12 (V)
+
+	**Cite**:
+
+	  - CODE DES COMMUNES. - art. L122-12 (Ab)
+	  - Code pénal 175-1
 
 
 #### CHAPITRE 5 : Travaux communaux
@@ -34648,6 +34688,39 @@ Dans tous les cas, l'autorité civile est chargée de faire porter, présenter, 
 	  - Loi n°96-142 du 21 février 1996 - art. 12 (V)
 
 
+##### SOUS-SECTION 5 : Concessions funéraires.
+
+###### Article L391-29
+
+Par dérogation aux dispositions de l'article L. 361-17, à titre exceptionnel, lorsqu'une concession trentenaire,
+cinquantenaire, centenaire ou perpétuelle, accordée avant le 11 novembre 1918, à des personnes qui possèdent à la date du 22
+janvier 1949 la nationalité allemande et ont quitté le territoire français, a cessé d'être entretenue, le maire peut
+constater cet état d'abandon par procès-verbal porté à la connaissance du public dans les conditions du règlement
+d'administration publique prévu à l'article L361-18.
+
+Lorsque, dans les six mois qui suivent cette publicité, il ne se présente aucun ayant droit du concessionnaire, le maire a la
+faculté de prononcer, par arrêté et sur avis conforme du conseil municipal, la reprise par la commune des terrains affectés à
+ces concessions.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°77-240 1977-03-07
+
+	**Abrogé par**:
+
+	  - Loi n°96-142 du 21 février 1996 - art. 12 (V)
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: CODE DES COMMUNES. - art. L361-17 (Ab)
+
+	**Cité par**:
+
+	  - CODE DES COMMUNES. - art. R391-3 (Ab)
+
+
 ##### SECTION 7 : Monts-de-piété publics.
 
 ###### Article L391-30
@@ -35226,44 +35299,6 @@ médico-sociales.
 	  - Code général des collectivités territoriales - art. L2241-5 (V)
 
 
-#### REGIME DE  CERTAINS BIENS IMMOBILIERS SOUMIS A UN DROIT DE JOUISSANCE EXCLUSIF
-
-###### Article L311-30
-
-A l'exception de ceux dont la pleine propriété est attribuée à des particuliers, et qui sont désormais régis par les
-dispositions du droit commun, les terrains sur lesquels, pour quelque cause que ce soit, a pris fin le droit de jouissance
-dont ils étaient grevés à la date du 3 janvier 1967, sont notamment régis par les dispositions du présent code et les
-dispositions au domaine privé des communes.
-
-En cas d'aliénation de ces biens et à des fins de construction, il est fait application des articles 41 à 43 de l'ordonnance
-n° 58-997 du 23 octobre 1958.
-
-Il n'est pas dérogé à la possibilité d'exproprier ces biens conformément à l'ordonnance précitée.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Ordonnance 58-997 1958-10-23 ART. 41 à 43
-	  - Code de l'expropriation pour cause d'utilité publique L21-1 à L21-3
-
-	**Anciens textes**:
-
-	  - Loi n°67-6 1967-01-03 ART. 10
-
-	**Codifié par**:
-
-	  - Décret n°77-240 1977-03-07
-
-	**Créé par**:
-
-	  - Décret n°77-240 1977-03-07 JORF et JONC 18 mars 1977
-
-	**Nouveaux textes**:
-
-	  - Code général des collectivités territoriales - art. L2421-18 (V)
-
-
 ### DONS ET LEGS
 
 #### DISPOSITIONS  GENERALES .
@@ -35508,36 +35543,6 @@ Dans tous les autres cas, la réduction peut être autorisée par arrêté préf
 	**Anciens textes**:
 
 	  - Code de l'administration communale 304 AL. 2 et 3
-
-
-### MARCHES .
-
-###### Article L314-3
-
-Conformément à l'article 175-1 du code pénal, dans les communes de 1.500 habitants [*nombre*] et au-dessous, les maires, les
-adjoints et les conseillers municipaux délégués ou agissant en remplacement du maire peuvent, soit traiter sur mémoires ou
-sur simples factures, soit passer des marchés avec les communes qu'ils représentent pour l'exécution de menus travaux ou la
-livraison de fournitures courantes sous la réserve que le montant global des marchés passés dans l'année n'excède pas la
-somme de 10.000 F [*francs*]. En ce cas, la commune est représentée dans les conditions prévues à l'article L. 122-12 [*dans
-le cas où les intérêts du maire se trouvent en opposition avec ceux de la commune, le conseil municipal désigne un autre de
-ses membres pour représenter la commune, soit en justice, soit dans les contrats*]. Le maire, les adjoints ou les conseillers
-municipaux visés doivent s'abstenir d'assister et de participer à toute délibération du conseil municipal relative à la
-conclusion ou à l'approbation de ces marchés [*incompatibilité*].
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°77-240 1977-03-07
-
-	**Créé par**:
-
-	  - Décret n°77-240 1977-03-07 JORF et JONC 18 Mars 1977
-
-	**Cite**:
-
-	  - CODE DES COMMUNES. - art. L122-12 (Ab)
-	  - Code pénal 175-1
 
 
 ### ACTIONS JUDICIAIRES .
@@ -38126,50 +38131,6 @@ Le cahier des charges est proposé par le conseil municipal d'après l'avis de l
 	**Nouveaux textes**:
 
 	  - Code général des collectivités territoriales - art. L2542-23 (V)
-
-
-##### Concessions funéraires.
-
-###### Article L391-29
-
-Par dérogation aux dispositions de l'article L. 361-17, à titre exceptionnel, lorsqu'une concession trentenaire,
-cinquantenaire, centenaire ou perpétuelle, accordée avant le 11 novembre 1918, à des personnes qui possèdent à la date du 22
-janvier 1949 la nationalité allemande et ont quitté le territoire français, a cessé d'être entretenue, le maire peut
-constater cet état d'abandon par procès-verbal porté à la connaissance du public dans les conditions du décret du 25 avril
-1924 portant règlement d'administration publique relatif aux concessions funéraires à l'état d'abandon modifié par le décret
-du 18 avril 1931.
-
-Lorsque, dans les six mois qui suivent cette publicité, il ne se présente aucun ayant droit du concessionnaire, le maire a la
-faculté de prononcer, par arrêté et sur avis conforme du conseil municipal, la reprise par la commune des terrains affectés à
-ces concessions.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Décret  1924-04-25
-	  - Décret  1931-04-18
-	  - Code des communes L361-17 et L361-18
-
-	**Anciens textes**:
-
-	  - Loi n°49-92 1949-01-22 art. 2
-
-	**Codifié par**:
-
-	  - Décret n°77-240 1977-03-07
-
-	**Créé par**:
-
-	  - Décret n°77-240 1977-03-07 JORF et JONC 18 mars 1977
-
-	**Liens**:
-
-	  - TXT_ASSOCIE: CODE DES COMMUNES. - art. L361-17 (Ab)
-
-	**Cité par**:
-
-	  - CODE DES COMMUNES. - art. R391-3 (Ab)
 
 
 #### Dispositions applicables aux communes des départements des Hauts-de-Seine, de la Seine-Saint-Denis et du Val-de-Marne
@@ -45498,204 +45459,6 @@ L'agent licencié pour insuffisance professionnelle peut recevoir une indemnité
 	  - Code des communes L414-1 à L414-24
 
 
-#### PRESTATIONS FAMILIALES .
-
-###### Article L417-2
-
-Les communes et les établissements communaux supportent la charge des prestations familiales pour leurs agents respectifs.
-
-**Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - SPEC_APPLI: *Dispositions applicables aux agents nommés dans des emplois permanents à temps non complet et aux agents non titulaires*
-	  - SPEC_APPLI: *Dispositions non applicables aux communes du département de Saint-Pierre-et-Miquelon*
-	  - SPEC_APPLI: CODE DES COMMUNES. - art. L421-2 (M)
-	  - SPEC_APPLI: Code des communes L421-2, L422-1 :
-
-	**Codifié par**:
-
-	  - Décret n°77-372 1977-03-28
-
-	**Créé par**:
-
-	  - Décret n°77-372 1977-03-28 JORF ET JONC 5 AVRIL 1977
-
-	**Cité par**:
-
-	  - Loi n°84-53 du 26 janvier 1984 - art. 119 (V)
-	  - CODE DES COMMUNES. - art. L421-2 (Ab)
-
-	**Anciens textes**:
-
-	  - Code de l'administration communale 604
-
-
-###### Article L417-3
-
-Un fonds national de compensation répartit entre les communes et les établissements publics communaux et intercommunaux les
-charges résultant pour ces collectivités du paiement des prestations familiales qu'elles versent à leur personnel.
-
-La compensation est opérée sur la base du montant total des salaires payés aux agents des collectivités locales, affiliées au
-fonds national de compensation, et dans la limite des taux minimums des allocations et des primes.
-
-**Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - SPEC_APPLI: *Dispositions non applicables aux communes du département de Saint-Pierre-et-Miquelon*
-	  - SPEC_APPLI: Code des communes L442-2 :
-
-	**Anciens textes**:
-
-	  - Code de l'administration communale 605
-
-	**Codifié par**:
-
-	  - Décret n°77-372 1977-03-28
-
-	**Créé par**:
-
-	  - Décret n°77-372 1977-03-28 JORF ET JONC 5 AVRIL 1977
-
-	**Nouveaux textes**:
-
-	  - CODE DES COMMUNES. - art. L413-11 (M)
-	  - CODE DES COMMUNES. - art. L413-11 (V)
-
-
-###### Article L417-4
-
-Les communes et les établissements publics communaux et intercommunaux sont tenus de s'affilier au fonds national de
-compensation.
-
-Les dépenses qui résultent tant du paiement des allocations et des primes que du fonctionnement du fonds constituent des
-dépenses obligatoires [**]définition[**] pour ces collectivités.
-
-**Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - SPEC_APPLI: *Dispositions non applicables aux communes du département de Saint-Pierre-et-Miquelon*
-	  - SPEC_APPLI: Code des communes L442-2 :
-
-	**Anciens textes**:
-
-	  - Code de l'administration communale 606
-
-	**Codifié par**:
-
-	  - Décret n°77-372 1977-03-28
-
-	**Créé par**:
-
-	  - Décret n°77-372 1977-03-28 JORF ET JONC 5 AVRIL 1977
-
-	**Nouveaux textes**:
-
-	  - CODE DES COMMUNES. - art. L413-12 (M)
-	  - CODE DES COMMUNES. - art. L413-12 (V)
-
-
-###### Article L417-5
-
-Le fonds national de compensation est géré par la caisse des dépôts et consignations [**]compétence[**].
-
-**Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - SPEC_APPLI: *Dispositions non applicables aux communes du département de Saint-Pierre-et-Miquelon*
-	  - SPEC_APPLI: Code des communes L442-2 :
-
-	**Anciens textes**:
-
-	  - Code de l'administration communale 607 AL. 1
-
-	**Codifié par**:
-
-	  - Décret n°77-372 1977-03-28
-
-	**Créé par**:
-
-	  - Décret n°77-372 1977-03-28 JORF ET JONC 5 AVRIL 1977
-
-	**Nouveaux textes**:
-
-	  - CODE DES COMMUNES. - art. L413-13 (V)
-
-
-###### Article L417-6
-
-Une commission supérieure chargée de donner son avis sur les questions relatives au fonds national de compensation [*qui
-répartit entre les communes et établissements publics communaux les charges résultant des prestations familiales*] est
-instituée auprès de la caisse des dépôts et consignations.
-
-Elle est composée d'un nombre égal respectivement [*proportion*] de représentants de l'Etat, d'élus des collectivités locales
-et de représentants des personnels.
-
-**Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - SPEC_APPLI: *Dispositions non applicables aux communes du département de Saint-Pierre-et-Miquelon*
-	  - SPEC_APPLI: Code des communes L442-2 :
-
-	**Codifié par**:
-
-	  - Décret n°77-372 1977-03-28
-
-	**Créé par**:
-
-	  - Décret n°77-372 1977-03-28 JORF ET JONC 5 AVRIL 1977
-
-	**Nouveaux textes**:
-
-	  - CODE DES COMMUNES. - art. L413-14 (V)
-
-	**Cité par**:
-
-	  - CODE DES COMMUNES. - art. R417-2 (T)
-
-	**Anciens textes**:
-
-	  - Code de l'administration communale 607 AL. 2 et 3 (Partie)
-
-
-###### Article L417-7
-
-Un règlement d'administration publique détermine les règles suivant lesquelles sont fixées les modalités d'organisation et de
-fonctionnement du fonds ainsi que les autres conditions d'application des articles L. 417-3 à L. 417-6.
-
-**Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - SPEC_APPLI: *Dispositions non applicables aux communes du département de Saint-Pierre-et-Miquelon*
-	  - SPEC_APPLI: Code des communes L442-2 :
-
-	**Anciens textes**:
-
-	  - Code de l'administration communale 608
-
-	**Codifié par**:
-
-	  - Décret n°77-372 1977-03-28
-
-	**Créé par**:
-
-	  - Décret n°77-372 1977-03-28 JORF ET JONC 5 AVRIL 1977
-
-	**Nouveaux textes**:
-
-	  - CODE DES COMMUNES. - art. L413-15 (M)
-	  - CODE DES COMMUNES. - art. L413-15 (V)
-
-	**Cite**:
-
-	  - Code des communes L417-3 à L417-6
-
-
 #### Sécurité sociale, pensions, hygiène et sécurité
 
 ##### Pensions .
@@ -47588,6 +47351,169 @@ Conseil d'Etat.
 	  - Code des communes L132-6 et L132-9
 
 
+#### CHAPITRE 3 : Rémunération et effectifs.
+
+###### Article L413-11
+
+Un fonds national de compensation répartit entre les communes et les établissements publics communaux et intercommunaux les
+charges résultant pour ces collectivités du paiement du supplément familial de traitement qu'elles versent à leur personnel.
+
+La compensation est opérée sur la base du montant total des salaires payés aux agents des collectivités locales affiliées au
+fonds national de compensation, et dans la limite du supplément familial de traitement.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - SPEC_APPLI: *Dispositions non applicables aux communes du département de Saint-Pierre-et-Miquelon
+	  - SPEC_APPLI: Code des communes L442-2 :
+
+	**Cite**:
+
+	  - Ordonnance n°67-706 du 21 août 1967 - art. 82 (V)
+	  - Loi n°69-1137 1969-12-20 art. 1
+
+	**Codifié par**:
+
+	  - Décret n°77-372 1977-03-28
+
+	**Cité par**:
+
+	  - CODE DES COMMUNES. - art. L413-12 (M)
+	  - Code des communes - art. L413-5 (V)
+
+	**Anciens textes**:
+
+	  - CODE DES COMMUNES. - art. L417-3 (T)
+
+
+###### Article L413-12
+
+Les communes et les établissements publics communaux et intercommunaux sont tenus de s'affilier au fonds national de
+compensation.
+
+Les dépenses qui résultent tant du paiement du supplément familial du traitement que du fonctionnement du fonds constituent
+des dépenses obligatoires pour ces collectivités.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - SPEC_APPLI: *Dispositions non applicables aux communes du département de Saint-Pierre-et-Miquelon
+	  - SPEC_APPLI: Code des communes L442-2 :
+
+	**Cite**:
+
+	  - Loi n°69-1137 1969-12-20 art. 1
+	  - CODE DES COMMUNES. - art. L413-11 (V)
+	  - Ordonnance 67-76 1967-08-21 art. 82
+
+	**Codifié par**:
+
+	  - Décret n°77-372 1977-03-28
+
+	**Anciens textes**:
+
+	  - CODE DES COMMUNES. - art. L417-4 (T)
+
+
+###### Article L413-13
+
+Le fonds national de compensation est géré par la caisse des dépôts et consignations.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - SPEC_APPLI: *Dispositions non applicables aux communes du département de Saint-Pierre-et-Miquelon
+	  - TXT_SOURCE: Décret n°85-885 du 12 août 1985
+	  - TXT_SOURCE: Décret n°85-885 du 12 août 1985 - art. 1 (V)
+	  - TXT_SOURCE: Décret n°85-885 du 12 août 1985 - art. 2 (V)
+	  - TXT_SOURCE: Décret n°85-885 du 12 août 1985 - art. 3 (M)
+	  - TXT_SOURCE: Décret n°85-885 du 12 août 1985 - art. 4 (V)
+	  - TXT_SOURCE: Décret n°85-885 du 12 août 1985 - art. 5 (V)
+	  - TXT_SOURCE: Décret n°85-885 du 12 août 1985 - art. 6 (V)
+	  - TXT_SOURCE: Décret n°85-885 du 12 août 1985 - art. 7 (V)
+	  - SPEC_APPLI: Code des communes L442-2 :
+
+	**Codifié par**:
+
+	  - Décret n°77-372 1977-03-28
+
+	**Anciens textes**:
+
+	  - CODE DES COMMUNES. - art. L417-5 (T)
+
+
+###### Article L413-14
+
+Une commission supérieure chargée de donner son avis sur les questions relatives au fonds national de compensation est
+instituée auprès de la caisse des dépôts et consignations.
+
+Elle est composée d'un nombre égal respectivement de représentants de l'Etat, d'élus des collectivités locales et de
+représentants des personnels.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - SPEC_APPLI: *Dispositions non applicables aux communes du département de Saint-Pierre-et-Miquelon
+	  - TXT_SOURCE: Décret n°85-885 du 12 août 1985
+	  - TXT_SOURCE: Décret n°85-885 du 12 août 1985 - art. 1 (V)
+	  - TXT_SOURCE: Décret n°85-885 du 12 août 1985 - art. 2 (V)
+	  - TXT_SOURCE: Décret n°85-885 du 12 août 1985 - art. 3 (M)
+	  - TXT_SOURCE: Décret n°85-885 du 12 août 1985 - art. 4 (V)
+	  - TXT_SOURCE: Décret n°85-885 du 12 août 1985 - art. 5 (V)
+	  - TXT_SOURCE: Décret n°85-885 du 12 août 1985 - art. 6 (V)
+	  - TXT_SOURCE: Décret n°85-885 du 12 août 1985 - art. 7 (V)
+	  - SPEC_APPLI: Code des communes L442-2 :
+
+	**Codifié par**:
+
+	  - Décret n°77-372 1977-03-28
+
+	**Cité par**:
+
+	  - Décret n°85-885 du 12 août 1985 - art. 1 (VD)
+	  - Décret n°2013-506 du 14 juin 2013 (V)
+	  - CODE DES COMMUNES. - art. R413-3 (Ab)
+	  - Code de la sécurité sociale. - art. D133-9-1 (Ab)
+
+	**Anciens textes**:
+
+	  - CODE DES COMMUNES. - art. L417-6 (T)
+
+
+###### Article L413-15
+
+Un règlement d'administration publique détermine les règles suivant lesquelles sont fixées les modalités d'organisation et de
+fonctionnement du fonds ainsi que les autres conditions d'application des articles L. 413-11 à L. 413-14.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - SPEC_APPLI: *Dispositions non applicables aux communes du département de Saint-Pierre-et-Miquelon
+	  - SPEC_APPLI: Code des communes L442-2 :
+
+	**Codifié par**:
+
+	  - Décret n°77-372 1977-03-28
+
+	**Cité par**:
+
+	  - Loi n°2015-1785 du 29 décembre 2015 - art. 146 (V)
+	  - Code des communes - art. L413-5 (V)
+
+	**Anciens textes**:
+
+	  - CODE DES COMMUNES. - art. L417-7 (T)
+
+	**Cite**:
+
+	  - Code des communes L413-11 à L413-14
+
+
 #### CHAPITRE 6 : Cessation de fonctions
 
 ##### SECTION 1 : L'admission à la retraite.
@@ -47721,6 +47647,38 @@ prestations.
 	**Cite**:
 
 	  - Code de la sécurité sociale 1 et 3
+
+
+##### SECTION 2 : Prestations familiales.
+
+###### Article L417-2
+
+Conformément à l'article 26 de l'ordonnance n° 67-706 du 21 août 1967 relative à l'organisation administrative et financière
+de la sécurité sociale, le service des prestations familiales incombe aux caisses d'allocations familiales. Toutefois,
+certains organismes ou services peuvent être autorisés par décret à servir ces prestations aux personnels des communes et de
+leurs établissements publics.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - SPEC_APPLI: *Dispositions applicables aux agents nommés dans des emplois permanents à temps non complet et aux agents non titulaires*
+	  - SPEC_APPLI: *Dispositions non applicables aux communes du département de Saint-Pierre-et-Miquelon*
+	  - SPEC_APPLI: CODE DES COMMUNES. - art. L421-2 (M)
+	  - SPEC_APPLI: Code des communes L442-2 :
+
+	**Cite**:
+
+	  - Ordonnance 67-706 1967-08-21 ART. 26 et 82
+
+	**Codifié par**:
+
+	  - Décret n°77-372 1977-03-28
+
+	**Cité par**:
+
+	  - Loi n°84-53 du 26 janvier 1984 - art. 119 (V)
+	  - CODE DES COMMUNES. - art. L421-2 (Ab)
 
 
 ##### SECTION 3 : Allocation temporaire d'invalidité.
@@ -59426,6 +59384,36 @@ dévolues à l'autorité supérieure par les articles L. 212-4 et L. 212-9.
 	  - Code des communes L212-4 et L212-9
 
 
+###### Article R*212-2
+
+La commission spéciale, prévue à l'article L. 212-5, est présidée par le préfet ou son délégué et comprend, outre les trois
+représentants de la commune mentionnés à cet article, un fonctionnaire spécialement désigné par le ministre de l'économie et
+des finances, un représentant de la trésorerie générale et un représentant de la direction des services fiscaux
+[*composition*].
+
+Lorsqu'il s'agit d'une ville de 20.000 habitants ou plus, la commission est complétée par un fonctionnaire désigné par le
+ministre de l'intérieur.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - SPEC_APPLI: *Dispositions non applicables aux communes des départements de la Moselle, du Bas-Rhin et du Haut-Rhin (Alsace-Lorraine)*
+	  - SPEC_APPLI: Code des communes R261-1 :
+
+	**Codifié par**:
+
+	  - Décret n°77-91 1977-01-27
+
+	**Abrogé par**:
+
+	  - Décret n°2000-318 du 7 avril 2000 - art. 4 (V)
+
+	**Cite**:
+
+	  - Code des communes L212-15
+
+
 ###### Article R*212-3
 
 La mise en demeure prévue à l'article L. 212-6 est effectuée par l'envoi d'une lettre recommandée invitant le maire ou le
@@ -60069,6 +60057,32 @@ déterminés par le titre 1er du décret n/ 67-908 du 12 octobre 1967.
 	**Créé par**:
 
 	  - Décret n°77-91 1977-01-27 JORF et JONC 3 février 1977 date d'entrée en vigueur 20 mars 1977
+
+	**Abrogé par**:
+
+	  - Décret n°2000-318 du 7 avril 2000 - art. 4 (V)
+
+
+##### SOUS-SECTION 2 : Taxe de protection sanitaire et d'organisation du marché des viandes.
+
+###### Article R233-12
+
+Les règles d'assiette et de perception de la taxe de protection sanitaire et d'organisation du marché des viandes sont fixées
+par le décret n° 77-899 du 27 juillet 1977 fixant les conditions d'application de la loi n° 77-646 du 24 juin 1977 portant
+création d'une taxe de protection sanitaire et d'organisation des marchés des viandes et suppression de la taxe sanitaire et
+de la taxe de visite et de poinçonnage des viandes.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Arrêté 1977-07-27 *fixant les tarifs de la taxe*
+	  - Loi n°77-646 1977-06-24
+	  - Décret n°77-899 1977-07-27
+
+	**Codifié par**:
+
+	  - Décret n°77-91 1977-01-27
 
 	**Abrogé par**:
 
@@ -61719,6 +61733,243 @@ il doit comporter les mentions nécessaires à la liquidation de ce versement[*c
 	**Nouveaux textes**:
 
 	  - Code général des collectivités territoriales - art. D2333-104 (Ab)
+
+
+##### SOUS-SECTION 2 : Surtaxes locales temporaires.
+
+###### Article R233-102
+
+Les dispositions applicables aux surtaxes locales temporaires perçues dans les conditions fixées par la loi modifiée du 15
+septembre 1942 sont déterminées par le décret n° 77-785 du 13 juillet 1977.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - SPEC_APPLI: *Dispositions non applicables aux communes des départements de la Guadeloupe, de la Guyane, de la Martinique, de la Réunion et de Saint-Pierre-et-Miquelon*
+	  - SPEC_APPLI: Code des communes R262-1, R262-12 :
+
+	**Cite**:
+
+	  - Décret n°77-785 1977-07-13
+	  - Loi   1942-09-15 modifiée
+
+	**Codifié par**:
+
+	  - Décret n°78-31 1978-01-03
+
+	**Cité par**:
+
+	  - Décret n°78-1173 du 22 novembre 1978 - art. 3 (V)
+
+	**Abrogé par**:
+
+	  - Décret n°2000-318 du 7 avril 2000 - art. 4 (V)
+
+	**Nouveaux textes**:
+
+	  - Code général des collectivités territoriales - art. R2331-4 (V)
+
+
+##### SECTION 7 : Droits de port.
+
+###### Article R*233-103
+
+Les dispositions applicables aux taxes et redevances constituant le droit de port prévu par les articles 270 à 280 du code
+des douanes sont déterminées par le décret n° 68-803 du 10 septembre 1968.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Décret n°68-803 1968-09-10
+	  - Code des douanes 270 à 280
+
+	**Codifié par**:
+
+	  - Décret n°77-91 1977-01-27
+
+	**Abrogé par**:
+
+	  - Décret n°2000-318 du 7 avril 2000 - art. 4 (V)
+
+	**Anciens textes**:
+
+	  - Code des communes R233-102 (1ere version)
+
+	**Nouveaux textes**:
+
+	  - Code général des collectivités territoriales - art. R2331-2 (V)
+
+
+##### SECTION 8 : Redevances d'occupation du domaine public
+
+##### SOUS-SECTION 1 : Redevances des distributions d'électricité et de gaz.
+
+###### Article R233-104
+
+Les redevances prévues à l'article L. 233-73 dues aux communes pour l'occupation du domaine public communal par les ouvrages
+de transport et de distribution et par les canalisations particulières de gaz sont fixées par l'article R. 374-3 et par le
+décret n° 58-367 du 2 avril 1958.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Décret n°58-367 1958-04-02
+	  - CODE DES COMMUNES. - art. L233-73 (Ab)
+	  - CODE DES COMMUNES. - art. R374-3 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°77-91 1977-01-27
+
+	**Abrogé par**:
+
+	  - Décret n°2000-318 du 7 avril 2000 - art. 4 (V)
+
+	**Anciens textes**:
+
+	  - Code des communes R233-103 (1ere version)
+
+
+###### Article R233-105
+
+Les redevances prévues à l'article L. 233-73 dues aux communes pour l'occupation du domaine public communal par les ouvrages
+de transport et de distribution et par les canlisations particulières d'énergie électrique sont fixées par les articles R.
+375-9 à R.375-15.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°77-91 1977-01-27
+
+	**Abrogé par**:
+
+	  - Décret n°2000-318 du 7 avril 2000 - art. 4 (V)
+
+	**Cite**:
+
+	  - CODE DES COMMUNES. - art. L233-73 (Ab)
+	  - Code des communes R375-9 à R375-15
+
+	**Anciens textes**:
+
+	  - Code des communes R233-104 (1ère version)
+
+
+###### Article R233-106
+
+La redevance proportionnelle sur l'énergie hydraulique prévue à l'article L. 233-74 est déterminée conformément aux
+dispositions du décret n° 54-1241 du 13 décembre 1954.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - SPEC_APPLI: *Dispositions non applicables aux communes des départements de la Guadeloupe, de la Guyane, de la Martinique et de Saint-Pierre-et-Miquelon*
+	  - SPEC_APPLI: Code des communes R262-1, R262-12 :
+
+	**Cite**:
+
+	  - Décret n°54-1241 1954-12-13
+	  - CODE DES COMMUNES. - art. L233-74 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°77-91 1977-01-27
+
+	**Cité par**:
+
+	  - Décret n°78-1173 du 22 novembre 1978 - art. 3 (V)
+	  - CODE DES COMMUNES. - art. R*262-1 (Ab)
+	  - CODE DES COMMUNES. - art. R*262-12 (Ab)
+
+	**Abrogé par**:
+
+	  - Décret n°2000-318 du 7 avril 2000 - art. 4 (V)
+
+	**Anciens textes**:
+
+	  - Code des communes R233-105 (1ere version)
+
+	**Nouveaux textes**:
+
+	  - Code général des collectivités territoriales - art. R2331-1 (V)
+
+
+##### SOUS-SECTION 2 : Redevances des gazoducs et oléoducs d'intérêt général.
+
+###### Article R233-107
+
+Les dispositions applicables à la redevance prévue à l'article L. 233-75 pour l'occupation du domaine public communal par les
+oléoducs et gazoducs d'intérêt général destinés aux transports d'hydrocarbures liquides ou liquéfiés sous pression sont
+déterminées par le décret n° 73-870 du 28 août 1973.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Décret n°73-870 1973-08-28
+	  - CODE DES COMMUNES. - art. L233-75 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°77-91 1977-01-27
+
+	**Abrogé par**:
+
+	  - Décret n°2000-318 du 7 avril 2000 - art. 4 (V)
+
+	**Cité par**:
+
+	  - CODE DES COMMUNES. - art. R*262-1 (M)
+
+	**Anciens textes**:
+
+	  - Code des communes R233-106 (1ere version)
+
+	**Nouveaux textes**:
+
+	  - Code général des collectivités territoriales - art. R2333-120 (V)
+
+
+##### SECTION 9 : Autres redevances pour services rendus
+
+##### SOUS-SECTION 2 : Redevances d'assainissement .
+
+###### Article R*233-108
+
+Les redevances dues par les usagers des réseaux et des stations d'assainissement, ainsi que les sommes exigibles pour défaut
+de branchement à l'égout, sont instituées, recouvrées et affectées dans les conditions fixées par le décret n° 67-945 du 24
+octobre 1967.
+
+**Nota:**
+
+Le présent article R. 233-108 a été créé par le décret 78-31 du 3 janvier 1978. Le décret 81-1124 du 17 décembre 1981 a créé
+sous la section suivante un autre article R. 233-108, sans abroger le premier.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Décret n°67-945 1967-10-24
+	  - Loi n°79-1150 du 29 décembre 1979 - art. 18 (M)
+	  - Loi n°79-1150 du 29 décembre 1979 - art. 3 (Ab)
+	  - CODE DES COMMUNES. - art. L233-81 (M)
+
+	**Codifié par**:
+
+	  - Décret n°77-91 1977-01-27
+
+	**Abrogé par**:
+
+	  - Décret n°2000-318 du 7 avril 2000 - art. 4 (V)
+
+	**Anciens textes**:
+
+	  - Code des communes R233-107 (1ERE VERSION)
 
 
 #### CHAPITRE 4 : Dotation globale de fonctionnement et autres recettes réparties par le comité des finances locales
@@ -67945,6 +68196,22 @@ l'économie et des finances [*compétence*] qui prennent également des instruct
 
 ##### SECTION 1 : Dispositions applicables aux communes des départements de la Guadeloupe, de la Guyane, de la Martinique et de la Réunion.
 
+###### Article R262-2
+
+Pour l'application de l'article L. 233-58 instituant le versement destiné au financement des transports en commun, un décret
+fixe les modalités d'application de l'article R. 233-86.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°77-31 1977-01-27
+
+	**Abrogé par**:
+
+	  - Décret n°2000-318 du 7 avril 2000 - art. 4 (V)
+
+
 ###### Article R262-3
 
 Les dispositions applicables aux taxes et redevances constituant le droit de port prévu par les articles 270 à 280 du code
@@ -68208,6 +68475,58 @@ syndicat des transports parisiens.
 
 
 ##### SOUS-SECTION 2 : Dispositions applicables aux employeurs relevant de régimes autres que le régime des assurances sociales agricoles.
+
+###### Article R263-9
+
+Pour l'application de l'article L. 263-2 instituant le versement de transport, les personnes assujetties au versement de
+transport sont celles qui, employant plus de neuf salariés, dont le lieu de travail est situé dans la région des transports
+parisiens telle qu'elle est définie par décret, sont tenues de payer des cotisations de sécurité sociale ou d'allocations
+familiales.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°77-91 1977-01-27
+
+	**Abrogé par**:
+
+	  - Décret n°2000-318 du 7 avril 2000 - art. 4 (V)
+
+	**Cite**:
+
+	  - CODE DES COMMUNES. - art. L263-2 (Ab)
+
+	**Cité par**:
+
+	  - CODE DES COMMUNES. - art. R263-10 (M)
+	  - CODE DES COMMUNES. - art. R263-20 (Ab)
+	  - CODE DES COMMUNES. - art. R263-8 (M)
+
+	**Nouveaux textes**:
+
+	  - Code général des collectivités territoriales - art. R2531-7 (V)
+
+
+###### Article R263-10
+
+Les entreprises dont le siège ne se trouve pas situé dans la région des transports parisiens sont assujetties au versement de
+transport lorsqu'elles remplissent les conditions imposées à l'article précédent.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°77-91 1977-01-27
+
+	**Abrogé par**:
+
+	  - Décret n°2000-318 du 7 avril 2000 - art. 4 (V)
+
+	**Nouveaux textes**:
+
+	  - Code général des collectivités territoriales - art. R2531-8 (V)
+
 
 ###### Article R263-12
 
@@ -68502,6 +68821,32 @@ conditions que les cotisations de sécurité sociale [*recours*].
 
 
 ##### SOUS-SECTION 3 : Dispositions particulières aux employeurs relevant du régime d'assurances sociales agricoles.
+
+###### Article R263-20
+
+Le versement de transport est dû par les personnes physiques ou morales relevant du régime des assurances sociales agricoles,
+même si leur principal établissement n'est pas situé dans la région des transports parisiens mentionnée à l'article R. 263-9,
+lorsque ces personnes emploient plus de neuf salariés dans ladite région et sont tenues à verser pour eux des cotisations
+d'assurances sociales.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°77-91 1977-01-27
+
+	**Abrogé par**:
+
+	  - Décret n°2000-318 du 7 avril 2000 - art. 4 (V)
+
+	**Cite**:
+
+	  - CODE DES COMMUNES. - art. R263-9 (M)
+
+	**Nouveaux textes**:
+
+	  - Code général des collectivités territoriales - art. R2531-18 (V)
+
 
 ###### Article R263-21
 
@@ -69234,48 +69579,6 @@ conditions de forme*].
 
 ## FINANCES COMMUNALES
 
-### BUDGET
-
-#### VOTE ET REGLEMENT .
-
-###### Article R*212-2
-
-La commission spéciale [*chargée d'examiner le budget voté en cas de déficit du dernier exercice clos*], prévue à l'article
-L. 212-5, est présidée par le préfet ou son délégué et comprend, outre les représentants de la commune mentionnés à cet
-article,
-
-le trésorier-payeur général ou son délégué, un fonctionnaire spécialement désigné par le ministre de l'économie et des
-finances et le directeur des services fiscaux ou son délégué. 
-
-Lorsqu'il s'agit d'une ville de 20.000 habitants [*nombre*]
-
-ou plus, la commission est complétée par deux fonctionnaires respectivement désignés par le ministre de l'intérieur et le
-ministre de l'économie et des finances.
-
-**Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - SPEC_APPLI: *Dispositions non applicables aux communes des départements de la Moselle, du Bas-Rhin et du Haut-Rhin (Alsace-Lorraine)*
-	  - SPEC_APPLI: Code des communes R261-1 :
-
-	**Anciens textes**:
-
-	  - Code de l'administration communale 178 remplacé
-
-	**Codifié par**:
-
-	  - Décret n°77-91 1977-01-27
-
-	**Créé par**:
-
-	  - Décret n°77-91 1977-01-27 JORF et JONC 3 février 1977 date d'entrée en vigueur 20 mars 1977
-
-	**Cite**:
-
-	  - CODE DES COMMUNES. - art. L212-5 (Ab)
-
-
 ### Dépenses .
 
 ###### Article R221-7
@@ -69323,58 +69626,6 @@ ou égal à 5, cette commune est écartée de la répartition.
 
 
 ### RECETTES
-
-#### CONTRIBUTIONS ET TAXES DONT LA PERCEPTION EST AUTORISEE PAR LE CODE GENERAL DES IMPOTS .
-
-###### Article R*232-1
-
-Pour l'application de l'article L. 232-4 : 
-
-1° La notification, mentionnée au premier alinéa, du produit attendu des impositions et taxes directes à mettre en
-recouvrement est faite au directeur des services fiscaux par l'intermédiaire des services préfectoraux, avant le 1er mars ; 
-
-2° La décision de l'autorité supérieure, mentionnée au deuxième alinéa, qui procède aux attributions est un arrêté
-préfectoral pris sur l'avis conforme         du trésorier-payeur général et du directeur des services fiscaux. 
-
-Cet arrêté peut être également pris à la demande de l'administration intéressée dans les mêmes conditions.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°77-91 1977-01-27
-
-	**Créé par**:
-
-	  - Décret n°77-91 1977-01-27 JORF et JONC 3 février 1977 date d'entrée en vigueur élection des maires
-
-	**Cite**:
-
-	  - Code des communes L232-4 (ANCIEN)
-
-
-###### Article R*232-2
-
-L'autorité compétente mentionnée à l'article L. 232-5 est le directeur des services fiscaux.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°77-91 1977-01-27
-
-	**Créé par**:
-
-	  - Décret n°77-91 1977-01-27 JORF ET JONC 3 FEVRIER 1977 date d'entrée en vigueur 20 MARS 1977
-
-	**Abrogé par**:
-
-	  - Décret n°78-31 1978-01-03 ART. 48 JORF 13 JANVIER 1978
-
-	**Cite**:
-
-	  - CODE DES COMMUNES. - art. L232-5 (M)
-
 
 #### Taxes, redevances ou versements autres que ceux prévus par le code général des Impôts
 
@@ -69515,210 +69766,6 @@ la facture établie par le distributeur à l'exception de toute prime fixe ou re
 	**Cite**:
 
 	  - Code des communes L233-1 et L233-2
-
-
-##### TAXE DE VISITE ET DE POINCONNAGE DES VIANDES .
-
-###### Article R233-12
-
-La taxe de visite et de poinçonnage des viandes prévue à l'article L. 233-11 est perçue pour tout animal abattu dans un
-abattoir public.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CODE DES COMMUNES. - art. L233-11 (Ab)
-
-	**Anciens textes**:
-
-	  - Décret n°68-59 1968-01-19 art. 1 al. 1
-
-	**Codifié par**:
-
-	  - Décret n°77-91 1977-01-27
-
-	**Créé par**:
-
-	  - Décret n°77-91 1977-01-27 JORF et JONC 3 février 1977 date d'entrée en vigueur élection des maires
-
-
-###### Article R233-13
-
-La taxe de visite et de poinçonnage des viandes est à la charge de la personne physique ou morale propriétaire ou
-copropriétaire de l'animal au moment de l'abattage. 
-
-Toutefois, lorsque l'exploitation de l'abattoir est assurée par un exploitant unique, tel qu'il est prévu par l'article 6 de
-la loi n° 65-543 du 8 juillet 1965, ou plusieurs exploitants, elle est recouvrée, sous sa responsabilité, par l'exploitant
-unique ou l'exploitant chargé des services communs qui la reverse à la commune ou au groupement de communes.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°68-59 1968-01-19 art. 1 al. 2
-
-	**Cite**:
-
-	  - Loi n°65-543 du 8 juillet 1965 - art. 6 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°77-91 1977-01-27
-
-	**Créé par**:
-
-	  - Décret n°77-91 1977-01-27 JORF et JONC 3 février 1977 date d'entrée en vigueur élection des maires
-
-	**Liens**:
-
-	  - TXT_ASSOCIE: Code des communes R233-12 (2e version)
-
-
-###### Article R233-14
-
-La taxe de visite et de poinçonnage des viandes est exigible [*date*] immédiatement après la pesée fiscale qui suit les
-opérations d'abattage.
-
-Elle est perçue [*date*] en même temps que la taxe d'usage des abattoirs publics.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°68-59 1968-01-19 art. 2
-
-	**Codifié par**:
-
-	  - Décret n°77-91 1977-01-27
-
-	**Créé par**:
-
-	  - Décret n°77-91 1977-01-27 JORF et JONC 3 février 1977 date d'entrée en vigueur élection des maires
-
-	**Liens**:
-
-	  - TXT_ASSOCIE: Code des communes R233-12 (2e version)
-
-
-###### Article R233-15
-
-Le versement à l'Etat de la moitié de la recette provenant de la taxe de visite et de poinçonnage est effectué au plus tard à
-la date de clôture de l'exercice au titre duquel la taxe est recouvrée.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°68-59 1968-01-19 art. 3
-
-	**Codifié par**:
-
-	  - Décret n°77-91 1977-01-27
-
-	**Créé par**:
-
-	  - Décret n°77-91 1977-01-27 JORF et JONC 3 février 1977 date d'entrée en vigueur élection des maires
-
-	**Liens**:
-
-	  - TXT_ASSOCIE: Code des communes R233-12 (2e version)
-
-	**Nouveaux textes**:
-
-	  - Code général des collectivités territoriales - art. R2333-42 (VT)
-
-
-###### Article R233-16.
-
-En application de l'article L. 233-14, au cas de refus ou de négligence d'une commune ou d'un groupement de communes de
-mettre en recouvrement la taxe de visite et de poinçonnage, le préfet [*attributions*] se substitue à l'ordonnateur pour
-l'inscription budgétaire de cette recette, sa constatation et l'émission de titres correspondants.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°77-91 1977-01-27
-
-	**Créé par**:
-
-	  - Décret n°77-91 1977-01-27 JORF et JONC 3 février 1977 date d'entrée en vigueur élection des maires
-
-	**Cite**:
-
-	  - CODE DES COMMUNES. - art. L233-14 (Ab)
-
-	**Liens**:
-
-	  - TXT_ASSOCIE: Code des communes R233-12 (2e version)
-
-	**Anciens textes**:
-
-	  - Décret n°68-59 1968-01-19 art. 4
-
-
-###### Article R233-17
-
-Il est tenu dans chaque abattoir public un registre, sans blanc ni rature, permettant de dégager, jour par jour, les éléments
-nécessaires à la constatation, à la liquidation et au contrôle de la taxe de visite et de poinçonnage [*obligation*].
-
-Dans le cas prévu au premier alinéa de l'article R. 233-13 [*taxe à la charge de la personne physique ou morale propriétaire
-ou copropriétaire de l'animal au moment de l'abattage*] les agents des communes ou des groupements de communes peuvent
-effectuer toutes les vérifications nécessaires au contrôle de la taxe de visite et de poinçonnage dans les locaux affectés à
-l'abattage et leurs dépendances ainsi que chez les redevables de la taxe et chez les tiers travaillant pour leur compte.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°77-91 1977-01-27
-
-	**Créé par**:
-
-	  - Décret n°77-91 1977-01-27 JORF ET JONC 3 février 1977 date d'entrée en vigueur élection des maires
-
-	**Liens**:
-
-	  - TXT_ASSOCIE: Code des communes R233-12 (2e version)
-
-	**Cite**:
-
-	  - Code des communes R233-13 al. 1
-
-	**Anciens textes**:
-
-	  - Décret n°59-59 1959-01-19 art. 5
-
-
-###### Article R233-18
-
-Les dispositions des articles 104, 105, 106 et 110 de l'annexe III du code général des impôts sont applicables en matière de
-taxe de visite et de poinçonnage [*articles relatifs à la taxe sanitaire, et notamment à l'assiette de la taxe (viande nette
-taxable), au calcul de la taxe, aux saisies pratiquées par les services d'inspection sanitaire, aux exportations et aux
-obligations des distributeurs*].
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGIAN3 104, 105, 106, 110
-
-	**Liens**:
-
-	  - TXT_ASSOCIE: Code des communes R233-12 (2e version)
-
-	**Anciens textes**:
-
-	  - Décret n°68-59 1968-01-19 art. 6
-
-	**Codifié par**:
-
-	  - Décret n°77-91 1977-01-27
-
-	**Créé par**:
-
-	  - Décret n°77-91 1977-01-27 JORF et JONC 3 février 1977 date d'entrée en vigueur élection des maires
 
 
 ##### TAXE SUR LA  PUBLICITE
@@ -70444,6 +70491,34 @@ est applicable aux auteurs des infractions prévues par la présente sous-sectio
 	  - Décret n°1920-05-04 art. 16 al. 1 et 3
 
 
+##### Dispositions particulières aux stations de sport d'hiver et d'alpinisme .
+
+###### Article R233-60
+
+Dans les stations de sports d'hiver et d'alpinisme classées, mentionnées à l'article R. 143-33, l'établissement de la taxe de
+séjour est autorisé après une enquête à laquelle il est procédé dans les formes établies par les articles R. 11-3 à R. 11-13
+du code de l'expropriation pour cause d'utilité publique.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°77-91 1977-01-27
+
+	**Cité par**:
+
+	  - Arrêté du 28 décembre 1976 - art. 12 (Ab)
+
+	**Cite**:
+
+	  - CODE DES COMMUNES. - art. R143-33 (Ab)
+	  - Code de l'expropriation pour cause d'utilité publique R11-3 à Code de l'expropriation pour cause d'utilité publique R11-13
+
+	**Nouveaux textes**:
+
+	  - Code général des collectivités territoriales - art. R2333-60 (Ab)
+
+
 ##### Taxe sur les entreprises spécialement intéressées à la prospérité des stations .
 
 ###### Article R233-61
@@ -70791,42 +70866,6 @@ décembre 1940 bénéficient des mêmes réductions que pour le prix des transpo
 	  - Loi n°1940-12-24
 
 
-##### DISPOSITIONS PARTICULIERES AUX STATIONS DE SPORTS D'HIVER ET D'ALPINISME .
-
-###### Article R233-60
-
-Dans les stations de sports d'hiver et d'alpinisme mentionnées aux articles R. 143-28 à R. 143-35, l'établissement de la taxe
-de séjour est autorisé après enquête à laquelle il est procédé dans les formes établies par le titre 1er du décret n° 59-701
-du 6 juin 1959.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Décret n°59-701 1959-06-06 ART. 1 à ART. 12
-	  - Code des communes R143-28 à R143-35
-
-	**Anciens textes**:
-
-	  - Décret n°68-1031 1968-11-14 art. 8
-
-	**Codifié par**:
-
-	  - Décret n°77-91 1977-01-27
-
-	**Créé par**:
-
-	  - Décret n°77-91 1977-01-27 JORF et JONC 3 février 1977 date d'entrée en vigueur élection des maires
-
-	**Cité par**:
-
-	  - Arrêté du 28 décembre 1976 - art. 12 (Ab)
-
-	**Nouveaux textes**:
-
-	  - Code général des collectivités territoriales - art. R2333-60 (Ab)
-
-
 ##### Taxes destinées au financement des transports en commun
 
 ##### Versement destiné aux transports en commun
@@ -70905,221 +70944,6 @@ salariés.
 	**Nouveaux textes**:
 
 	  - Code général des collectivités territoriales - art. D2333-102 (V)
-
-
-##### DROITS DE PORT .
-
-###### Article R*233-102
-
-Les dispositions applicables aux taxes et redevances constituant le droit de port prévu par les articles 270 à 280 du code
-des douanes sont déterminées par le décret n° 68-803 du 10 septembre 1968.
-
-**Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - SPEC_APPLI: *Dispositions non applicables aux communes des départements de la Guadeloupe, de la Guyane, de la Martinique et de la Réunion et de Saint-Pierre-et-Miquelon*
-	  - SPEC_APPLI: Code des communes R262-1, R262-12 :
-
-	**Cite**:
-
-	  - Décret n°68-803 1968-09-10
-	  - Code des douanes 270 à 280
-
-	**Codifié par**:
-
-	  - Décret n°77-91 1977-01-27
-
-	**Créé par**:
-
-	  - Décret n°77-91 1977-01-27 JORF et JONC 3 février 1977 date d'entrée en vigueur élection des maires
-
-	**Cité par**:
-
-	  - Décret n°78-1173 du 22 novembre 1978 - art. 3 (V)
-
-	**Nouveaux textes**:
-
-	  - Code des communes R233-103 (2ème version)
-	  - Code général des collectivités territoriales - art. R2331-4 (V)
-
-
-##### REDEVANCES D'OCCUPATION DU DOMAINE PUBLIC
-
-##### REDEVANCES DES DISTRIBUTIONS D'ELECTRICITE ET DE GAZ .
-
-###### Article R233-103
-
-//Modifié par le décret n° 77-241 du 7 mars 1977 :
-
-Ancien texte :
-
-Les redevances prévues à l'article L. 233-73 dues aux communes pour l'occupation du domaine public communal par les ouvrages
-de transport et de distribution et par les canalisations particulières de gaz sont fixées par le décret n° 58-367 du 2 avril
-1958.
-
-Nouveau texte :
-
-Les redevances prévues à l'article L. 233-73 dues aux communes pour l'occupation du domaine public communal par les ouvrages
-de transport et de distribution et par les canalisations particulières de gaz sont fixées par l'article R. 374-3 et par le
-décret n° 58-367 du 2 avril 1958.//
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Décret n°58-367 1958-04-02
-	  - CODE DES COMMUNES. - art. L233-73 (Ab)
-	  - CODE DES COMMUNES. - art. R374-3 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°77-91 1977-01-27
-
-	**Créé par**:
-
-	  - Décret n°77-91 1977-01-27 JORF et JONC 3 février 1977 date d'entrée en vigueur élection des maires
-
-	**Nouveaux textes**:
-
-	  - Code des communes R233-104 (2ème version)
-	  - Code général des collectivités territoriales - art. R2331-2 (V)
-
-
-###### Article R233-104
-
-//Modifié par le décret n° 77-241 du 7 mars 1977. 
-
-Ancien texte :
-
-Les redevances prévues à l'article L. 233-73 dues aux communes pour l'occupation du domaine public communal par les ouvrages
-de transport et de distribution et par les lignes ou canalisations particulières d'énergie électrique sont fixées par le
-décret n° 56-151 du 27 janvier 1956.
-
-Nouveau texte :
-
-Les redevances prévues à l'article L. 233-73 dues aux communes pour l'occupation du domaine public communal par les ouvrages
-de transport et de distribution et par les lignes ou canalisations particulières d'énergie électrique sont fixées par les
-articles R. 375-9 à R. 375-15.//
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Décret n°56-151 1956-01-27
-	  - CODE DES COMMUNES. - art. L233-73 (Ab)
-	  - Code des communes R375-9 à R375-15
-
-	**Codifié par**:
-
-	  - Décret n°77-91 1977-01-27
-
-	**Créé par**:
-
-	  - Décret n°77-91 1977-01-27 JORF et JONC 3 février 1977 date d'entrée en vigueur élection des maires
-
-	**Nouveaux textes**:
-
-	  - Code des communes R233-105 (2ème version)
-
-
-###### Article R233-105
-
-La redevance proportionnelle sur l'énergie hydraulique prévue à l'article L. 233-74 est déterminée conformément aux
-dispositions du décret n° 54-1241 du 13 décembre 1954.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Décret n°54-1241 1954-12-13
-	  - CODE DES COMMUNES. - art. L233-74 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°77-91 1977-01-27
-
-	**Créé par**:
-
-	  - Décret n°77-91 1977-01-27 JORF et JONC 3 février 1977 date d'entrée en vigueur élection des maires
-
-	**Nouveaux textes**:
-
-	  - Code des communes R233-106 (2ème version)
-
-
-##### REDEVANCES DES GAZODUCS ET OLEODUCS
-
-###### Article R233-106
-
-Les dispositions applicables à la redevance prévue à l'article L. 233-75 pour l'occupation du domaine public communal par les
-oléoducs et gazoducs d'intérêt général destinés aux transports d'hydrocarbures liquides ou liquéfiés sous pression sont
-déterminées par le décret n° 73-870 du 28 août 1973.
-
-**Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - SPEC_APPLI: *Dispositions non applicables aux communes des départements de la Guadeloupe, de la Guyane, de la Martinique, de la Réunion et de Saint-Pierre-et-Miquelon*
-	  - SPEC_APPLI: Code des communes R262-1,R262-12 :
-
-	**Cite**:
-
-	  - Décret n°73-870 1973-08-28
-	  - CODE DES COMMUNES. - art. L233-75 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°77-91 1977-01-27
-
-	**Créé par**:
-
-	  - Décret n°77-91 1977-01-27 JORF et JONC 3 février 1977 date d'entrée en vigueur élection des maires
-
-	**Cité par**:
-
-	  - Décret n°78-1173 du 22 novembre 1978 - art. 3 (V)
-	  - CODE DES COMMUNES. - art. R*262-1 (Ab)
-	  - CODE DES COMMUNES. - art. R*262-12 (Ab)
-
-	**Nouveaux textes**:
-
-	  - Code des communes R233-107 (2ème version)
-	  - Code général des collectivités territoriales - art. R2331-1 (V)
-
-
-##### AUTRES REDEVANCES POUR SERVICES RENDUS
-
-##### REDEVANCES D'ASSAINISSEMENT .
-
-###### Article R*233-107
-
-Les redevances dues par les usagers des réseaux et des stations d'assainissement, ainsi que les sommes exigibles pour défaut
-de branchement à l'égout, sont instituées, recouvrées et affectées dans les conditions fixées par le décret n° 67-945 du 24
-octobre 1967.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Décret n°67-945 1967-10-24
-
-	**Codifié par**:
-
-	  - Décret n°77-91 1977-01-27
-
-	**Créé par**:
-
-	  - Décret n°77-91 1977-01-27 JORF et JONC 3 février 1977 date d'entrée en vigueur élection des maires
-
-	**Cité par**:
-
-	  - CODE DES COMMUNES. - art. R*262-1 (M)
-
-	**Nouveaux textes**:
-
-	  - Code des communes R233-108
-	  - Code général des collectivités territoriales - art. R2333-120 (V)
 
 
 #### Versement représentatif de la taxe sur les salaires *V.R.T.S.*
@@ -72525,32 +72349,6 @@ Des crédits lui sont délégués à cet effet par le ministre de l'intérieur.
 
 ##### COMMUNES DES DEPARTEMENTS DE LA GUADELOUPE, DE LA GUYANE, DE LA MARTINIQUE ET DE LA REUNION .
 
-###### Article R262-2
-
-Pour l'application de l'article L. 233-58 instituant le versement destiné au financement des transports en commun, un décret
-fixe les modalités d'application des articles R. 233-87 et R. 233-88.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°74-933 1974-11-07 art. 3
-
-	**Codifié par**:
-
-	  - Décret n°77-91 1977-01-27
-
-	**Créé par**:
-
-	  - Décret n°77-91 1977-01-27 JORF et JONC 3 février 1977 date d'entrée en vigueur 20 mars 1977
-
-	**Cite**:
-
-	  - CODE DES COMMUNES. - art. L233-58 (M)
-	  - CODE DES COMMUNES. - art. R233-86 (Ab)
-	  - Code des communes R233-86, R233-87 et R233-88
-
-
 ###### Article R262-4
 
 La quote-part du produit [*versement représentatif de la taxe sur les salaires : attribution au prorata*] défini à l'article
@@ -72908,26 +72706,22 @@ conventions passées entre le syndicat des transports parisiens et ces entrepris
 
 ###### Article R263-8
 
-Le taux du versement de transport [**]définition[**] est fixé à 1,9 p. 100 du montant des salaires [*pourcentage*], tels
-qu'ils sont définis à l'article R. 263-15 et à l'article R. 263-22 ci-après.
+Le taux du versement de transport est fixé à : [**]définition[**]        1° 1,9 p. 100 du montant des salaires
+[*pourcentage*], tels qu'ils sont définis à l'article R. 263-15 et à l'article R. 263-22 dans les départements de Paris, de
+la Seine-Saint-Denis, des Hauts-de-Seine et du Val-de-Marne ;
+
+2° 1 p. 100 sur les mêmes bases dans la partie des départements de l'Essonne, des Yvelines, du Val-d'Oise et de la Seine-et-
+Marne située dans la région des transports parisiens mentionnée à l'article R. 263-9.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°71-710 1971-08-30 art. 17 remplacé
 
 	**Codifié par**:
 
 	  - Décret n°77-91 1977-01-27
 
-	**Créé par**:
-
-	  - Décret n°77-91 1977-01-27 JORF et JONC 3 février 1977 date d'entrée en vigueur élection des maires
-
 	**Cite**:
 
-	  - Code des communes R263-15 et R263-22
+	  - Code des communes R263-9 modifié, R263-15 modifié et R263-22
 
 	**Nouveaux textes**:
 
@@ -72935,71 +72729,6 @@ qu'ils sont définis à l'article R. 263-15 et à l'article R. 263-22 ci-après.
 
 
 ##### Employeurs relevant de régimes autres que le régime des assurances sociales agricoles
-
-###### Article R263-9
-
-Pour l'application de l'article L. 263-2 instituant le versement de transport, les personnes assujetties au versement de
-transport sont celles qui, employant plus de neuf salariés dont le lieu de travail est à Paris ou dans les départements des
-Hauts-de-Seine, de la Seine-Saint-Denis et du Val-de-Marne,
-
-sont tenues de payer des cotisations de sécurité sociale ou d'allocations familiales.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°71-710 1971-08-30 art. 1 al. 1
-
-	**Codifié par**:
-
-	  - Décret n°77-91 1977-01-27
-
-	**Créé par**:
-
-	  - Décret n°77-91 1977-01-27 JORF et JONC 3 février 1977 date d'entrée en vigueur élection des maires
-
-	**Cite**:
-
-	  - CODE DES COMMUNES. - art. L263-2 (Ab)
-
-	**Cité par**:
-
-	  - CODE DES COMMUNES. - art. R263-10 (M)
-	  - CODE DES COMMUNES. - art. R263-20 (Ab)
-	  - CODE DES COMMUNES. - art. R263-8 (M)
-
-	**Nouveaux textes**:
-
-	  - Code général des collectivités territoriales - art. R2531-7 (V)
-
-
-###### Article R263-10
-
-Les entreprises dont le siège ne se trouve pas situé dans les départements mentionnés à l'article précédent sont assujetties
-au versement de transport si elles remplissent les conditions imposées à l'article précédent.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°71-710 1971-08-30 art. 1 al. 2
-
-	**Codifié par**:
-
-	  - Décret n°77-91 1977-01-27
-
-	**Créé par**:
-
-	  - Décret n°77-91 1977-01-27 JORF et JONC 3 février 1977 date d'entrée en vigueur élection des maires
-
-	**Cite**:
-
-	  - CODE DES COMMUNES. - art. R263-9 (M)
-
-	**Nouveaux textes**:
-
-	  - Code général des collectivités territoriales - art. R2531-8 (V)
-
 
 ###### Article R263-11
 
@@ -73048,43 +72777,6 @@ le déclarer à l'organisme de recouvrement en vue de cesser le versement.
 
 
 ##### EMPLOYEURS RELEVANT DU REGIME DES ASSURANCES SOCIALES AGRICOLES .
-
-###### Article R263-20
-
-Le versement de transport est dû par les personnes physiques ou morales du régime des assurances sociales agricoles, même si
-leur principal établissement n'est pas situé dans l'un des départements mentionnés à l'article R. 263-9, lorsque ces
-personnes emploient plus de neuf salariés dans lesdits départements et sont tenues à verser pour eux des cotisations
-d'assurances sociales.
-
-Nouveau texte :
-
-Le versement de transport [*assujettissement*] est dû par les personnes physiques ou morales relevant du régime des
-assurances sociales agricoles, même si leur principal établissement n'est pas situé dans la région des transports parisiens
-mentionnée à l'article R. 263-9, lorsque ces personnes emploient plus de neuf salariés [*nombre*] dans ladite région et sont
-tenues à verser pour eux des cotisations d'assurances sociales.//
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°71-710 1971-08-30 art. 8 al. 1
-
-	**Codifié par**:
-
-	  - Décret n°77-91 1977-01-27
-
-	**Créé par**:
-
-	  - Décret n°77-91 1977-01-27 JORF et JONC 3 février 1977 date d'entrée en vigueur élection des maires
-
-	**Cite**:
-
-	  - CODE DES COMMUNES. - art. R263-9 (M)
-
-	**Nouveaux textes**:
-
-	  - Code général des collectivités territoriales - art. R2531-18 (V)
-
 
 ###### Article R263-22
 
@@ -83628,6 +83320,79 @@ Les mêmes règles s'appliquent aux rentes de réversion attribuées aux veuves 
 
 ##### PARAGRAPHE 2 : Affiliation aux assurances sociales.
 
+###### Article R*354-51
+
+L'affiliation aux assurances sociales prévue à l'article L. 354-12 intervient soit à la requête des intéressés, soit à la
+diligence de la caisse des dépôts et consignations qui assure l'application des dispositions du présent paragraphe.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - SPEC_APPLI: *Dispositions non applicables aux communes du département de Saint-Pierre-et-Miquelon
+	  - SPEC_APPLI: Code des communes R392-2 :
+
+	**Codifié par**:
+
+	  - Décret n°77-241 1977-03-07
+
+	**Abrogé par**:
+
+	  - Décret n°92-620 du 7 juillet 1992 - art. 19 (V)
+
+	**Cite**:
+
+	  - CODE DES COMMUNES. - art. L354-12 (Ab)
+
+
+###### Article R*354-52
+
+La demande d'affiliation est établie suivant un modèle fixé par arrêté conjoint du ministre chargé de la sécurité sociale et
+du ministre de l'intérieur.
+
+Cette demande est adressée à la caisse des dépôts et consignations qui la renvoie, avec son avis, à la caisse primaire
+d'assurance maladie dans la circonscription de laquelle se trouve le domicile des intéressés.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - SPEC_APPLI: *Dispositions non applicables aux communes du département de Saint-Pierre-et-Miquelon*
+	  - SPEC_APPLI: Code des communes R392-2 :
+
+	**Codifié par**:
+
+	  - Décret n°77-241 1977-03-07
+
+	**Abrogé par**:
+
+	  - Décret n°92-620 du 7 juillet 1992 - art. 19 (V)
+
+
+###### Article R*354-53
+
+La caisse primaire d'assurance maladie procède à l'immatriculation de l'assuré et lui remet une carte individuelle du modèle
+fixé par arrêté du ministre chargé de la sécurité sociale.
+
+Elle notifie la décision d'immatriculation et sa date d'effet à la caisse des dépôts et consignations. Celle-ci accuse
+réception à la caisse primaire de cette notification.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - SPEC_APPLI: *Dispositions non applicables aux communes du département de Saint-Pierre-et-Miquelon*
+	  - SPEC_APPLI: Code des communes R392-2 :
+
+	**Codifié par**:
+
+	  - Décret n°77-241 1977-03-07
+
+	**Abrogé par**:
+
+	  - Décret n°92-620 du 7 juillet 1992 - art. 19 (V)
+
+
 ###### Article R*354-54
 
 Pour l'application de l'article L. 354-12 du présent code et sans préjudice de l'application du 2° de l'article L. 579 du
@@ -83707,6 +83472,65 @@ du présent code.
 	  - Décret n°92-620 du 7 juillet 1992 - art. 19 (V)
 
 
+###### Article R*354-57
+
+La cotisation, calculée dans les conditions prévues à l'article L. 580 du code de la sécurité sociale, est assise, dans la
+limite du plafond fixé par la législation de sécurité sociale, sur le montant de la rente ou de la pension allouée au titre
+des articles L. 354-4 et L. 354-6 du présent code.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - SPEC_APPLI: *Dispositions non applicables aux communes du département de Saint-Pierre-et-Miquelon*
+	  - SPEC_APPLI: Code des communes R392-2 :
+
+	**Codifié par**:
+
+	  - Décret n°77-241 1977-03-07
+
+	**Abrogé par**:
+
+	  - Décret n°92-620 du 7 juillet 1992 - art. 19 (V)
+
+	**Cite**:
+
+	  - CODE DES COMMUNES. - art. L354-4 (Ab)
+	  - CODE DES COMMUNES. - art. L354-6 (Ab)
+	  - Code de la sécurité sociale L580
+
+
+###### Article R*354-58
+
+La cotisation prévue à l'article précédent est due à compter de la date d'effet de l'immatriculation. Elle est précomptée sur
+les arrérages de la rente ou de la pension servie à l'intéressée.
+
+La caisse des dépôts et consignations verse annuellement [*périodicité*] à la caisse nationale d'assurance maladie le produit
+des cotisations des intéressés et la contribution de l'Etat.
+
+Cette contribution est fixée au montant de la différence entre le produit des cotisations et les charges supportées en
+application de l'article L. 354-12 du présent code, telles que ces charges résultent du dernier exercice connu.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - SPEC_APPLI: *Dispositions non applicables aux communes du département de Saint-Pierre-et-Miquelon*
+	  - SPEC_APPLI: Code des communes R392-2 :
+
+	**Codifié par**:
+
+	  - Décret n°77-241 1977-03-07
+
+	**Abrogé par**:
+
+	  - Décret n°92-620 du 7 juillet 1992 - art. 19 (V)
+
+	**Cite**:
+
+	  - CODE DES COMMUNES. - art. L354-12 (Ab)
+
+
 ###### Article R*354-59
 
 Un arrêté du ministre chargé de la sécurité sociale et du ministre de l'économie et des finances fixe les modalités de la
@@ -83784,6 +83608,38 @@ d'assurance maladie pour bénéficier des prestations prévues au présent artic
 
 	  - Code des communes L354-4 et L354-12
 	  - Code de la sécurité sociale L285
+
+
+###### Article R*354-61
+
+Les personnes mentionnées à l'article L. 354-12 qui acquièrent, ultérieurement, la qualité de salarié ou assimilé ou de
+pensionné leur ouvrant droit au bénéfice des prestations en nature ou en espèces de l'assurance maladie signalent leur
+situation à la caisse primaire d'assurance maladie dont ils relèvent au titre de cet article.
+
+Le service liquidateur de la rente ou de la pension avise la caisse primaire intéressée de la modification ou de la
+suppression de la rente ou de la pension.
+
+La caisse primaire d'assurance maladie procède à la radiation de l'assuré et en informe l'intéressé, ainsi que la caisse des
+dépôts et consignations.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - SPEC_APPLI: *Dispositions non applicables aux communes du département de Saint-Pierre-et-Miquelon*
+	  - SPEC_APPLI: Code des communes R3922 :
+
+	**Codifié par**:
+
+	  - Décret n°77-241 1977-03-07
+
+	**Abrogé par**:
+
+	  - Décret n°92-620 du 7 juillet 1992 - art. 19 (V)
+
+	**Cite**:
+
+	  - CODE DES COMMUNES. - art. L354-12 (Ab)
 
 
 ##### SOUS-SECTION 2 : Indemnités allouées en cas d'incapacité temporaire.
@@ -90273,6 +90129,32 @@ mentionnés ci-dessus [*Alsace et Lorraine*].
 	  - Code des communes R381-1 à R381-33
 
 
+###### Article R391-3
+
+Pour l'application de l'article L. 391-29, le procès-verbal constatant l'état d'abandon [*d'une concession funéraire*] est
+porté à la connaissance du public dans les conditions [*de publicité*] prévues à l'article R. 361-25[*affichages renouvelés à
+la porte de la mairie et à la porte du cimetière*].
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°77-241 1977-03-07
+
+	**Abrogé par**:
+
+	  - Décret n°2000-318 du 7 avril 2000 - art. 4 (V)
+
+	**Cite**:
+
+	  - CODE DES COMMUNES. - art. L391-29 (M)
+	  - CODE DES COMMUNES. - art. R361-25 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code général des collectivités territoriales - art. R2543-1 (V)
+
+
 #### CHAPITRE 2 : Dispositions applicables aux communes des départements d'outre-mer
 
 ##### SECTION 1 : Dispositions applicables aux communes des départements de la Guadeloupe, de la Guyane, de la Martinique et de la Réunion.
@@ -91076,6 +90958,40 @@ Les dispositions des articles R. 323-2 et R. 323-3 sont applicables aux régies 
 
 
 ##### Régies dotées de la personnalité morale et de l'autonomie financière  Création de la régie .
+
+###### Article R323-8
+
+La délibération par laquelle le conseil municipal décide, pour assurer l'exécution d'un service d'intérêt public à caractère
+industriel ou commercial, de créer une régie dotée de la personnalité morale et de l'autonomie financière, fait l'objet d'une
+enquête.
+
+Il est procédé à cette enquête dans les conditions prévues aux articles R. 11-3 à R. 11-13 du code de l'expropriation pour
+cause d'utilité publique.
+
+Si le registre d'enquête contient des déclarations défavorables à l'adoption du projet ou si l'avis du commissaire enquêteur
+lui est opposé, le conseil municipal délibère à nouveau. La nouvelle délibération est jointe aux pièces de l'enquête.
+
+La délibération institutive fixe le montant de la dotation initiale.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°77-241 1977-03-07
+
+	**Cité par**:
+
+	  - CODE DES COMMUNES. - art. R323-10 (Ab)
+	  - CODE DES COMMUNES. - art. R323-38 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code général des collectivités territoriales - art. R2221-8 (M)
+
+	**Cite**:
+
+	  - Code de l'expropriation pour cause d'utilité publique R11-3 à Code de l'expropriation pour cause d'utilité publique R11-13
+
 
 ###### Article R323-9
 
@@ -92933,6 +92849,38 @@ accompagnées de son avis motivé [*formalités*].
 	**Anciens textes**:
 
 	  - Décret n°1930-02-17 art. 1
+
+
+###### Article R323-77
+
+Le préfet fait procéder dans la commune à une enquête dans les formes et conditions prévues par les articles R. 11-3 à R.
+11-13 du code de l'expropriation pour cause d'utilité publique.
+
+Cette enquête est ouverte dans les huit jours [*délai*] qui suivent la réception à la préfecture des délibérations
+mentionnées à l'article précédent.
+
+Le président de la chambre de commerce et d'industrie et, s'il y a lieu, le président de la chambre d'agriculture, dans le
+ressort desquelles se trouve la commune intéressée, sont avisés par le préfet des dates d'ouverture et de clôture de
+l'enquête et sont admis à présenter leurs observations.
+
+Lorsque, par application de l'article R. 11-13 du code de l'expropriation pour cause d'utilité publique, le conseil municipal
+est appelé à émettre son avis sur les résultats de l'enquête, la délibération est prise dans un délai de quinze jours à
+compter de la transmission des pièces au maire par le commissaire enquêteur et adressée dans les cinq jours au préfet avec
+les autres pièces de l'enquête.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°77-241 1977-03-07
+
+	**Cite**:
+
+	  - Code de l'expropriation pour cause d'utilité publique R11-3 à Code de l'expropriation pour cause d'utilité publique R11-13
+
+	**Abrogé par**:
+
+	  - Décret n°88-621 1988-05-08 art. 72 JORF 8 mai 1988
 
 
 ###### Article R323-78
@@ -94843,6 +94791,33 @@ du directeur du livre et après avis favorable du directeur général des archiv
 
 ##### Mission et constitution des corps de sapeurs-pompiers .
 
+###### Article R352-2
+
+Les corps de sapeurs-pompiers communaux relèvent du ministre de l'intérieur.
+
+Une commission nationale paritaire des sapeurs-pompiers professionnels et une commission nationale paritaire des sapeurs-
+pompiers non professionnels exercent, en ce qui concerne ces agents, les attributions dévolues à la commission nationale
+paritaire du personnel communal à l'article L. 411-24.
+
+Ces commissions comprennent, sous la présidence d'un conseiller d'Etat, des représentants en nombre égal des collectivités
+locales et des personnels.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°77-241 1977-03-07
+
+	**Cité par**:
+
+	  - Décret n°88-623 du 6 mai 1988 - art. 50 (Ab)
+	  - Décret n°90-850 du 25 septembre 1990 - art. 25 (V)
+
+	**Cite**:
+
+	  - CODE DES COMMUNES. - art. L411-24 (Ab)
+
+
 ###### Article R352-10
 
 Les corps de sapeurs-pompiers des communes qui n'ont pas été classées centres de secours sont dissous par arrêté du préfet,
@@ -95061,41 +95036,6 @@ Les médecins assistent avec voix consultative aux séances du conseil d'adminis
 	**Cité par**:
 
 	  - Décret n°88-623 du 6 mai 1988 - art. 50 (Ab)
-
-
-#### Dispositions applicables à l'ensemble des sapeurs-pompiers communaux
-
-##### Mission et constitution des corps de sapeurs-pompiers.
-
-###### Article R352-2
-
-Les corps de sapeurs-pompiers communaux relèvent du ministre de l'intérieur.
-
-Une commission nationale paritaire des sapeurs-pompiers professionnels et une commission nationale paritaire des sapeurs-
-pompiers non professionnels exercent, en ce qui concerne ces agents, les attributions dévolues à la commission nationale
-paritaire du personnel communal à l'article L. 411-24.
-
-Ces commissions comprennent, sous la présidence d'un conseiller d'Etat, des représentants en nombre égal des collectivités
-locales et des personnels *composition.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°53-170 1953-03-07 ART. 2
-
-	**Codifié par**:
-
-	  - Décret n°77-241 1977-03-07
-
-	**Créé par**:
-
-	  - Décret n°77-241 1977-03-07 JORF et JONC 18 Mars 1977
-
-	**Cité par**:
-
-	  - Décret n°88-623 du 6 mai 1988 - art. 50 (Ab)
-	  - Décret n°90-850 du 25 septembre 1990 - art. 25 (V)
 
 
 #### Dispositions *applicables* à l'ensemble des sapeurs-pompiers communaux *professionnels et non professionnels (volontaires)*
@@ -95385,6 +95325,34 @@ Il est procédé en même temps et dans les mêmes conditions à l'élection de 
 
 #### Dispositions applicables aux sapeurs-pompiers communaux professionnels
 
+##### Généralités .
+
+###### Article R353-2
+
+Les commissions paritaires communales ou intercommunales [*chargées de donner des avis aux maires et au bureau du syndicat de
+communes sur l'application des dispositions relatives au personnel communal nommé dans des emplois permanents*] sont
+compétentes pour l'examen des questions générales intéressant à la fois les sapeurs-pompiers professionnels et les autres
+fonctionnaires communaux.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°77-241 1977-03-07
+
+	**Abrogé par**:
+
+	  - Décret n°89-231 1989-04-17 art. 4 JORF 18 avril 1989
+
+	**Cité par**:
+
+	  - CODE DES COMMUNES. - art. R353-102 (Ab)
+
+	**Cite**:
+
+	  - Code des communes L411-31 à L411-46
+
+
 ##### Durée du service .
 
 ###### Article R353-13
@@ -95444,43 +95412,6 @@ compétence*].
 
 
 #### SAPEURS-POMPIERS COMMUNAUX PROFESSIONNELS .
-
-###### Article R353-2
-
-Les commissions paritaires communales ou intercommunales instituées par//les articles 492 à 499 du code de l'administration
-communale//modifié par le décret n° 77-373 du 28 mars 1977 :
-
-les articles L. 411-24 à L. 411-46// sont compétentes pour l'examen des questions générales intéressant les sapeurs-pompiers
-professionnels au même titre que pour les autres fonctionnaires communaux.
-
-**Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - TXT_ASSOCIE: Arrêté 1959-10-06 modifié
-	  - TXT_ASSOCIE: Arrêté 1973-01-24
-
-	**Cite**:
-
-	  - Code de l'administration communale 492 à 499
-	  - Code des communes L411-24 à L411-46
-
-	**Anciens textes**:
-
-	  - Décret n°53-170 1953-03-07 ART. 86 AL. 2
-
-	**Codifié par**:
-
-	  - Décret n°77-241 1977-03-07
-
-	**Créé par**:
-
-	  - Décret n°77-241 1977-03-07 JORF et JONC 18 mars 1977
-
-	**Cité par**:
-
-	  - CODE DES COMMUNES. - art. R353-102 (Ab)
-
 
 ##### RECRUTEMENT .
 
@@ -96005,22 +95936,14 @@ réguliers au fonctionnement du corps auquel il appartenait avant son incorporat
 
 L'engagement en cours cesse de plein droit quand le sapeur-pompier a atteint l'âge de soixante ans accomplis.
 
-Toutefois, une prolongation d'activité d'une durée maximum de deux ans peut être accordée, selon les mêmes modalités que
-celles prévues à l'article R. 354-2.
+Toutefois, une prolongation d'activité d'une durée maximum de deux ans peut être accordée par le maire, selon les mêmes
+modalités que celles qui sont prévues à l'article R. 354-2.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°53-170 1953-03-07 ART. 64 COMPLETE AL. 1 et 2
 
 	**Codifié par**:
 
 	  - Décret n°77-241 1977-03-07
-
-	**Créé par**:
-
-	  - Décret n°77-241 1977-03-07 JORF et JONC 18 mars 1977
 
 	**Cité par**:
 
@@ -96179,204 +96102,6 @@ laquelle l'intéressé a atteint cet âge.
 	**Créé par**:
 
 	  - Décret n°77-241 1977-03-07 JORF et JONC 18 mars 1977
-
-
-##### AFFILIATION AUX  ASSURANCES SOCIALES .
-
-###### Article R*354-51
-
-L'affiliation aux assurances sociales prévue à l'article L. 354-12 intervient soit à la requête des intéressés, soit à la
-diligence de la direction de la sécurité civile du ministère de l'intérieur.
-
-**Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - SPEC_APPLI: *Dispositions non applicables aux communes du département de Saint-Pierre-et-Miquelon*
-	  - SPEC_APPLI: Code des communes R392-2 :
-
-	**Anciens textes**:
-
-	  - Décret n°65-475 1965-06-18 ART. 1 AL. 1
-
-	**Codifié par**:
-
-	  - Décret n°77-241 1977-03-07
-
-	**Créé par**:
-
-	  - Décret n°77-241 1977-03-07 JORF et JONC 18 mars 1977
-
-	**Cite**:
-
-	  - CODE DES COMMUNES. - art. L354-12 (Ab)
-
-
-###### Article R*354-52
-
-La demande d'affiliation est établie suivant un modèle fixé par arrêté conjoint du ministre chargé de la sécurité sociale et
-du ministre de l'intérieur.
-
-Cette demande est adressée à la direction de la sécurité civile qui la renvoie, avec son avis, à la caisse primaire
-d'assurance maladie dans la circonscription de laquelle se trouve le domicile des intéressés.
-
-**Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - SPEC_APPLI: *Dispositions non applicables aux communes du département de Saint-Pierre-et-Miquelon*
-	  - SPEC_APPLI: Code des communes R392-2 :
-
-	**Anciens textes**:
-
-	  - Décret n°65-475 1965-06-18 ART. 1 AL. 2 et 3
-
-	**Codifié par**:
-
-	  - Décret n°77-241 1977-03-07
-
-	**Créé par**:
-
-	  - Décret n°77-241 1977-03-07 JORF et JONC 18 mars 1977
-
-
-###### Article R*354-53
-
-La caisse primaire d'assurance maladie procède à l'immatriculation de l'assuré et lui remet une carte individuelle du modèle
-fixé par arrêté du ministre chargé de la sécurité sociale.
-
-Elle notifie la décision d'immatriculation et sa date d'effet au comptable supérieur du Trésor, assignataire de la rente ou
-de la pension de l'intéressé. Ce comptable accuse réception à la caisse primaire de cette notification.
-
-**Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - SPEC_APPLI: *Dispositions non applicables aux communes du département de Saint-Pierre-et-Miquelon*
-	  - SPEC_APPLI: Code des communes R392-2 :
-
-	**Anciens textes**:
-
-	  - Décret n°65-475 1965-06-18 ART. 3
-
-	**Codifié par**:
-
-	  - Décret n°77-241 1977-03-07
-
-	**Créé par**:
-
-	  - Décret n°77-241 1977-03-07 JORF et JONC 18 mars 1977
-
-
-###### Article R*354-57
-
-La cotisation, calculée dans les conditions prévues à l'article L. 580 du code de la sécurité sociale, est assise, dans la
-limite du plafond fixé par la législation de sécurité sociale, sur le montant de la rente ou de la pension allouée au titre
-des articles L. 354-4 et L. 354-6 du présent code et des accessoires de cette rente ou pension, à l'exception des prestations
-familiales et de l'indemnité de soins prévus à l'article 41 du code des pensions militaires d'invalidité et des victimes de
-la guerre.
-
-Ce taux est réduit, par décret pris sur le rapport du ministre chargé de la sécurité sociale, du ministre de l'intérieur et
-du ministre de l'économie et des finances, en ce qui concerne les personnes mentionnées aux trois articles précédents qui
-continuent à relever, pour l'assurance maternité, des dispositions du 2° du premier alinéa de l'article L. 579 du code de la
-sécurité sociale.
-
-**Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - SPEC_APPLI: *Dispositions non applicables aux communes du département de Saint-Pierre-et-Miquelon*
-	  - SPEC_APPLI: Code des communes R392-2 :
-
-	**Anciens textes**:
-
-	  - Décret n°65-475 1965-06-18 ART. 7
-
-	**Codifié par**:
-
-	  - Décret n°77-241 1977-03-07
-
-	**Créé par**:
-
-	  - Décret n°77-241 1977-03-07 JORF et JONC 18 mars 1977
-
-	**Cite**:
-
-	  - Code des communes R354-54 à R354-56
-	  - Code de la sécurité sociale L580 et L579 AL. 1 2°
-	  - Code des pensions militaires d'invalidité et des victimes de la guerre 41
-
-
-###### Article R*354-58
-
-La cotisation prévue à l'article précédent est due à compter de la date d'effet de l'immatriculation. Elle est précomptée sur
-les arrérages de la rente ou de la pension servie à l'intéressée.
-
-Le ministre de l'intérieur verse annuellement à la caisse nationale d'assurance maladie le produit des cotisations des
-intéressées et la contribution de l'Etat.
-
-Cette contribution est fixée au montant de la différence entre le produit des cotisations et les charges supportées en
-application de l'article L. 354-12 du présent code, telles que ces charges résultent du dernier exercice connu.
-
-**Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - SPEC_APPLI: *Dispositions non applicables aux communes du département de Saint-Pierre-et-Miquelon*
-	  - SPEC_APPLI: Code des communes R392-2 :
-
-	**Anciens textes**:
-
-	  - Décret n°65-475 1965-06-18 ART. 8
-
-	**Codifié par**:
-
-	  - Décret n°77-241 1977-03-07
-
-	**Créé par**:
-
-	  - Décret n°77-241 1977-03-07 JORF et JONC 18 mars 1977
-
-	**Cite**:
-
-	  - CODE DES COMMUNES. - art. L354-12 (Ab)
-	  - Code des communes R354-57
-
-
-###### Article R*354-61
-
-Les personnes mentionnées à l'article L. 354-12 qui acquièrent, ultérieurement, la qualité de salarié ou assimilé ou de
-pensionné leur ouvrant droit au bénéfice des prestations en nature ou en espèces de l'assurance maladie signalent leur
-situation à la caisse primaire d'assurance maladie dont ils relèvent au titre de cet article.
-
-Le service liquidateur de la rente ou de la pension avise la caisse primaire intéressée de la modification ou de la
-suppression de la rente ou de la pension.
-
-La caisse primaire d'assurance maladie procède à la radiation de l'assuré et en informe l'intéressé ainsi que le comptable
-supérieur du Trésor, assignataire de la rente ou de la pension.
-
-**Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - SPEC_APPLI: *Dispositions non applicables aux communes du département de Saint-Pierre-et-Miquelon*
-	  - SPEC_APPLI: Code des communes R392-2 :
-
-	**Anciens textes**:
-
-	  - Décret n°65-475 1965-06-18 ART. 11
-
-	**Codifié par**:
-
-	  - Décret n°77-241 1977-03-07
-
-	**Créé par**:
-
-	  - Décret n°77-241 1977-03-07 JORF et JONC 18 mars 1977
-
-	**Cite**:
-
-	  - CODE DES COMMUNES. - art. L354-12 (Ab)
 
 
 ##### INDEMNITES ALLOUEES EN CAS D'INCAPACITE TEMPORAIRE .
@@ -96610,48 +96335,6 @@ Ce certificat détermine la durée probable de l'incapacité de travail.
 	**Cite**:
 
 	  - Code des communes R354-62
-
-
-#### Dispositions applicables aux sapeurs-pompiers communaux non professionnels *volontaires*
-
-##### Allocations, rentes et autres prestations
-
-##### Indemnisation en cas d'incapacité permanente
-
-##### Affiliation aux assurances sociales.
-
-###### Article R*354-56
-
-En application de l'article L. 354-12 du présent code [*affiliation aux assurances sociales des sapeurs-pompiers non
-professionnels titulaires d'une rente d'invalidité et non assurés sociaux, du conjoint non remarié et des orphelins non
-assurés sociaux*], lorsque les personnes mentionnées à l'article R. 354-53 ne peuvent bénéficier des prestations de
-l'assurance maternité au titre d'un régime, celles-ci leur sont allouées au titre du régime défini aux articles L. 577 à L.
-581 du code de la sécurité sociale.
-
-**Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - SPEC_APPLI: *Dispositions non applicables aux communes du département de Saint-Pierre-et-Miquelon*
-	  - SPEC_APPLI: Code des communes R392-2 :
-
-	**Anciens textes**:
-
-	  - Décret n°65-475 1965-06-18 ART. 6
-
-	**Codifié par**:
-
-	  - Décret n°77-241 1977-03-07
-
-	**Créé par**:
-
-	  - Décret n°77-241 1977-03-07 JORF et JONC 18 Mars 1977
-
-	**Cite**:
-
-	  - CODE DES COMMUNES. - art. L354-12 (Ab)
-	  - Code des communes R354-53
-	  - Code de la sécurité sociale L577 à L581
 
 
 ### Pompes funèbres et cimetières
@@ -98226,98 +97909,6 @@ concession est soumis à l'approbation du préfet.
 	  - TXT_ASSOCIE: CODE DES COMMUNES. - art. R381-1 (Ab)
 
 
-## SERVICES COMMUNAUX
-
-### REGIES MUNICIPALES
-
-#### REGIES DOTEES DE LA  PERSONNALITE MORALE ET DE L'AUTONOMIE FINANCIERE
-
-##### CREATION .
-
-###### Article R323-8
-
-La délibération par laquelle le conseil municipal décide, pour assurer l'exécution d'un service d'intérêt public à caractère
-industriel ou commercial, de créer une régie dotée de la personnalité morale et de l'autonomie financière, fait l'objet d'une
-enquête.
-
-Il est procédé à cette enquête dans les conditions prévues au décret n° 59-701 du 6 juin 1959 portant règlement
-d'administration publique relatif à la procédure d'enquête préalable à la déclaration d'utilité publique, à la détermination
-des parcelles à exproprier et à l'arrêté de cessibilité.
-
-Si le registre d'enquête contient des déclarations défavorables à l'adoption du projet ou si l'avis du commissaire enquêteur
-lui est opposé, le conseil municipal délibère à nouveau. La nouvelle délibération est jointe aux pièces de l'enquête.
-
-La délibération institutive fixe le montant de la dotation initiale.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Décret n°59-701 1959-06-06
-
-	**Anciens textes**:
-
-	  - Décret n°59-1225 1959-10-19 ART. 1 (PARTIE)
-
-	**Codifié par**:
-
-	  - Décret n°77-241 1977-03-07
-
-	**Créé par**:
-
-	  - Décret n°77-241 1977-03-07 JORF et JONC 18 mars 1977
-
-	**Cité par**:
-
-	  - CODE DES COMMUNES. - art. R323-10 (Ab)
-	  - CODE DES COMMUNES. - art. R323-38 (Ab)
-
-	**Nouveaux textes**:
-
-	  - Code général des collectivités territoriales - art. R2221-8 (M)
-
-
-#### REGIES DOTEES DE LA  SEULE AUTONOMIE FINANCIERE
-
-##### CREATION .
-
-###### Article R323-77
-
-Le préfet fait procéder dans la commune à une enquête dans les formes et conditions prévues par le décret n° 59-701 du 6 juin
-1959 portant règlement d'administration publique relatif à la procédure d'enquête préalable à la déclaration d'utilité
-publique, à la détermination des parcelles à exproprier, et à l'arrêté de cessibilité.
-
-Cette enquête est ouverte dans les huit jours [*délai*] qui suivent la réception à la préfecture des délibérations
-mentionnées à l'article précédent.
-
-Le président de la chambre de commerce et d'industrie et, s'il y a lieu, le président de la chambre d'agriculture, dans le
-ressort desquelles se trouve la commune intéressée, sont avisés par le préfet des dates d'ouverture et de clôture de
-l'enquête et sont admis à présenter leurs observations.
-
-Lorsque, par application de l'article 9 du décret du 6 juin 1959, le conseil municipal est appelé à émettre son avis sur les
-résultats de l'enquête, la délibération est prise dans un délai de quinze jours à compter de la transmission des pièces au
-maire par le commissaire enquêteur et adressée dans les cinq jours au préfet avec les autres pièces de l'enquête.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret  1930-02-17 ART. 2
-
-	**Cite**:
-
-	  - Décret n°59-701 1959-06-06
-	  - Code de l'expropriation pour cause d'utilité publique R11-3 A R11-13
-
-	**Codifié par**:
-
-	  - Décret n°77-241 1977-03-07
-
-	**Créé par**:
-
-	  - Décret n°77-241 1977-03-07 JORF et JONC 18 mars 1977
-
-
 ## LIVRE 16 : Administration et services communaux
 
 ### TITRE 2 : Protection contre l'incendie
@@ -98947,6 +98538,38 @@ sont applicables aux agents communaux soumis au présent titre.
 ##### SECTION 2 : Syndicat de communes pour le personnel communal
 
 ##### SOUS-SECTION 1 : Constitution du syndicat.
+
+###### Article R*411-13
+
+Le préfet fixe, par un arrêté publié au recueil des actes administratifs du département, la liste des communes et des
+établissements publics affiliés au syndicat, en tenant compte, d'une part, des délibérations qui ont été prises en
+application des articles L. 411-1, R. 421-4 et R. 421-5 et, d'autre part, des effectifs qui figurent au budget de la commune
+ou de l'établissement intéressé.
+
+Lorsque la liste des emplois permanents prévue à l'article L. 411-1 ne concorde pas avec la liste qui figure au budget, cette
+dernière liste détermine l'affiliation ou non de la collectivité intéressée au syndicat de communes pour le personnel
+communal.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Abrogé par**:
+
+	  - Décret n°85-643 1985-06-26 art. 118 jorf 28 juin 1985
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°85-643 du 26 juin 1985 - art. 118 (M)
+
+	**Cite**:
+
+	  - CODE DES COMMUNES. - art. L411-1 (Ab)
+	  - CODE DES COMMUNES. - art. R421-4 (Ab)
+	  - CODE DES COMMUNES. - art. R421-5 (Ab)
+
 
 ###### Article R411-11
 
@@ -99911,6 +99534,27 @@ le personnel communal est donnée par le préfet.
 	  - CODE DES COMMUNES. - art. L412-2 (M)
 
 
+###### Article R*412-7-1
+
+Toute candidate qui, à la date à laquelle s'apprécie la condition d'âge pour participer au concours, justifie qu'elle assure
+l'entretien et l'éducation de son enfant âgé de moins de seize ans vivant au foyer, ou qu'elle a élevé dans les mêmes
+conditions pendant cinq ans au moins un enfant avant son seizième anniversaire peut bénéficier du report de l'âge limite dans
+les cas prévus à l'article L. 412-9.
+
+Cet âge limite s'entend sans préjudice de l'application des autres dispositions législatives ou réglementaires relatives au
+report de limite d'âge au titre des charges de famille.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-31 1978-01-03
+
+	**Cite**:
+
+	  - CODE DES COMMUNES. - art. L412-9 (Ab)
+
+
 ###### Article R412-3
 
 Le candidat justifie de son aptitude à remplir l'emploi qu'il postule.
@@ -100265,6 +99909,23 @@ sous-préfet.
 
 
 ##### SOUS-SECTION 3 : Modalités de recrutement applicables à certains emplois.
+
+###### Article R*412-32
+
+Les membres de la commission sont élus pour six ans et renouvelés immédiatement après ceux des commissions paritaires
+communales et intercommunales.
+
+En cas de vacance par suite de décès, de perte de mandat ou de la fonction qui avait motivé la candidature d'un titulaire ou
+pour toute autre cause, le suppléant devient titulaire.
+
+Les membres de la commission ainsi désignés restent en fonction jusqu'à un prochain renouvellement général des commissions.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
 
 ###### Article R412-15
 
@@ -100706,6 +100367,36 @@ Un arrêté du ministre de l'intérieur fixe les modalités de l'élection.
 	**Liens**:
 
 	  - TXT_ASSOCIE: Code des communes R412-31 REMPLACE
+
+
+###### Article R412-31
+
+En l'absence de liste de candidature de maires ou de représentants des personnels ou en cas de dépôt de listes comportant,
+suivant les commissions concernées, moins de quatre ou six candidatures de représentants titulaires, dans les délais prévus
+pour le dépôt des listes de candidature, il est procédé par le préfet du département ou le préfet de région à la désignation
+des membres des commissions départementales par voie de tirage au sort parmi :
+
+1° Les maires prévus à l'article R. 412-28, des communes pour lesquelles le tableau type des emplois communaux autorise la
+création des emplois relevant de la compétence de la commission ou, à défaut, parmi les maires de la circonscription pour
+laquelle est établie la liste d'aptitude ;
+
+2° Les représentants des personnels prévus à l'article R. 412-29.
+
+Le tirage au sort est effectué en présence de deux maires et de deux représentants des personnels de la catégorie intéressée,
+relevant de la circonscription de la commission, désignés par le préfet.
+
+Il est procédé en même temps au tirage au sort des suppléants.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Cite**:
+
+	  - CODE DES COMMUNES. - art. R412-28 (V)
+	  - CODE DES COMMUNES. - art. R412-29 (V)
 
 
 ###### Article R412-33
@@ -110203,41 +109894,6 @@ L'arrêté ministériel prévu à l'article L. 411-25 est pris par le ministre d
 	  - CODE DES COMMUNES. - art. L411-25 (Ab)
 
 
-##### SYNDICAT DE  COMMUNES POUR LE PERSONNEL COMMUNAL
-
-##### CONSTITUTION .
-
-###### Article R411-13
-
-Le préfet fixe, par un arrêté publié au recueil des actes administratifs du département, la liste des communes et des
-établissements publics affiliés au syndicat, en tenant compte, d'une part, des délibérations qui ont été prises en
-application des articles L. 411-1 et R. 421-6 et, d'autre part, des effectifs qui figurent au budget de la commune ou de
-l'établissement intéressé.
-
-Lorsque la liste des emplois permanents prévue à l'article L. 411-1 ne concorde pas avec la liste qui figure au budget, cette
-dernière liste détermine l'affiliation ou non de la collectivité intéressée au syndicat de communes pour le personnel
-communal.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°66-857 1966-11-18 ART. 2 AL. 1 et 2
-
-	**Codifié par**:
-
-	  - Décret n°77-373 1977-03-28
-
-	**Créé par**:
-
-	  - Décret n°77-373 1977-03-28 JORF et JONC 5 avril 1977
-
-	**Cite**:
-
-	  - CODE DES COMMUNES. - art. L411-1 (Ab)
-	  - CODE DES COMMUNES. - art. R421-6 (Ab)
-
-
 ##### Commission paritaire communale .
 
 ###### Article R411-39
@@ -110656,52 +110312,6 @@ limite de 2 p. 100 [*pourcentage*] des médailles d'argent décernées.
 	**Cité par**:
 
 	  - CODE DES COMMUNES. - art. R411-46 (M)
-
-
-#### RECRUTEMENT
-
-##### MODALITES DE RECRUTEMENT APPLICABLES A  CERTAINS EMPLOIS .
-
-###### Article R412-31
-
-Les membres de la commission *départementale ou interdépartementale qui arrête la liste d'aptitude sont élus pour six ans
-*durée du mandat* et renouvelés immédiatement après ceux des commissions paritaires communales et intercommunales.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°73-292 1973-03-13 ART. 13 REMPLACE AL. 1
-
-	**Codifié par**:
-
-	  - Décret n°77-373 1977-03-28
-
-	**Créé par**:
-
-	  - Décret n°77-373 1977-03-28 JORF ET JONC 5 AVRIL 1977
-
-
-###### Article R412-32
-
-En cas de vacance par suite de décès, de perte de mandat ou de la fonction qui avait motivé la candidature d'un titulaire ou
-pour toute autre cause, le suppléant devient titulaire.
-
-Les membres de la commission ainsi désignés restent en fonction jusqu'à un prochain renouvellement général des commissions.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°73-292 1973-03-13 ART. 13 REMPLACE AL. 2 et 3
-
-	**Codifié par**:
-
-	  - Décret n°77-373 1977-03-28
-
-	**Créé par**:
-
-	  - Décret n°77-373 1977-03-28 JORF et JONC 5 avril 1977
 
 
 #### CENTRE DE FORMATION DES PERSONNELS COMMUNAUX
@@ -111289,6 +110899,111 @@ Le traitement de la femme de service est exclusivement à la charge de la commun
 	**Créé par**:
 
 	  - Décret n°77-373 1977-03-28 JORF et JONC 5 avril 1977
+
+
+#### Rémunération et effectifs
+
+###### Article R413-3
+
+La commission supérieure [*chargée de donner son avis sur les questions relatives au fonds national de compensation*] prévue
+à l'article L. 413-14 comprend [*composition*] :
+
+un conseiller d'Etat, président :
+
+un conseiller-maître à la Cour des comptes ;
+
+un représentant du ministre de l'intérieur ;
+
+un représentant du ministre chargé des prestations familiales ;
+
+un représentant du ministre de l'économie et des finances ;
+
+le directeur général de la caisse des dépôts et consignations ou son représentant ;
+
+deux conseillers généraux ;
+
+quatre représentants de l'association des maires de France ;
+
+cinq représentants du personnel des services publics départementaux et communaux ;
+
+un représentant du personnel hospitalier.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Code de l'administration communale 607 AL. 3 (PARTIE)
+	  - CODE DES COMMUNES. - art. R417-2 (T)
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°85-885 du 12 août 1985 - art. 6 (V)
+
+	**Abrogé par**:
+
+	  - Décret n°85-885 du 12 août 1985 - art. 6 (V) JORF 23 Aout 1985   en vigueur le 1er janvier 1986
+
+	**Cite**:
+
+	  - CODE DES COMMUNES. - art. L413-14 (V)
+
+
+###### Article R413-4
+
+Les membres de la commission supérieure [*chargée de donner son avis sur les questions relatives au fonds national de
+compensation*] autres que le directeur général de la caisse des dépôts et consignations sont nommés [*durée*] pour trois ans
+par le ministre de l'intérieur.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Code de l'administration communale 607 AL. 4
+	  - CODE DES COMMUNES. - art. R417-3 (T)
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°85-885 1985-01-12 art. 6
+
+	**Abrogé par**:
+
+	  - Décret n°85-885 du 12 août 1985 - art. 6 (V) JORF 23 Aout 1985   en vigueur le 1er Janvier 1986
+
+
+###### Article R413-5
+
+Un rapport est fait annuellement [**]fréquence[**] aux ministres de l'intérieur, de l'économie et des finances ainsi qu'au
+ministre chargé des prestations familiales, sur le fonctionnement du fonds [*national de compensation*], par le directeur
+général de la caisse des dépôts et consignations.
+
+Ce rapport est publié au Journal Officiel.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Code de l'administration communale 607 AL. 5 et 6
+	  - CODE DES COMMUNES. - art. R417-4 (T)
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°85-885 du 12 août 1985 - art. 6 (V)
+
+	**Abrogé par**:
+
+	  - Décret n°85-885 du 12 août 1985 - art. 6 (V) JORF 23 Aout 1985   en vigueur le 1er Janvier 1986
 
 
 #### AVANCEMENT .
@@ -112036,132 +111751,6 @@ fonctions hors du territoire métropolitain, sont fixées par arrêté intermini
 	**Cite**:
 
 	  - CODE DES COMMUNES. - art. R415-16 (Ab)
-
-
-#### PRESTATIONS FAMILIALES .
-
-###### Article R417-2
-
-La commission supérieure [*chargée de donner un avis sur les questions relatives au fonds national de compensation*] prévue à
-l'article L. 417-6 comprend [*composition*] :
-
-un conseiller d'Etat, président ;
-
-un conseiller-maître à la Cour des comptes ;
-
-un représentant du ministre de l'intérieur ;
-
-un représentant du ministre chargé des prestations familiales ;
-
-un représentant du ministre de l'économie et des finances ;
-
-le directeur général de la caisse des dépôts et consignations ou son représentant ;
-
-deux conseillers généraux ;
-
-quatre représentants de l'association des maires de France ;
-
-cinq représentants du personnel des services publics départementaux et communaux ;
-
-un représentant du personnel hospitalier.
-
-**Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - SPEC_APPLI: *Dispositions applicables aux agents nommés dans des emplois permanents à temps non complet et aux agents non titulaires*
-	  - SPEC_APPLI: Code des communes R421-7, R422-1 :
-
-	**Codifié par**:
-
-	  - Décret n°77-373 1977-03-28
-
-	**Créé par**:
-
-	  - Décret n°77-373 1977-03-28 JORF ET JONC 5 AVRIL 1977
-
-	**Cite**:
-
-	  - CODE DES COMMUNES. - art. L417-6 (T)
-	  - Code des communes R421-7 et R422-1
-
-	**Nouveaux textes**:
-
-	  - CODE DES COMMUNES. - art. R413-3 (Ab)
-
-	**Anciens textes**:
-
-	  - Code de l'administration communale 607 AL. 3 (PARTIE)
-
-
-###### Article R417-3
-
-Les membres de la commission supérieure [*chargée de donner un avis sur les questions relatives au fonds national de
-compensation, prévue à l'article L417-6*] autres que le directeur général de la caisse des dépôts et consignations sont
-nommés [*durée*] pour trois ans par le ministre de l'intérieur.
-
-**Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - SPEC_APPLI: *Dispositions applicables aux agents nommés dans des emplois permanents à temps non complet et aux agents non titulaires*
-	  - SPEC_APPLI: Code des communes R421-7, R422-1 :
-
-	**Codifié par**:
-
-	  - Décret n°77-373 1977-03-28
-
-	**Créé par**:
-
-	  - Décret n°77-373 1977-03-28 JORF ET JONC 5 AVRIL 1977
-
-	**Nouveaux textes**:
-
-	  - CODE DES COMMUNES. - art. R413-4 (Ab)
-
-	**Anciens textes**:
-
-	  - Code de l'administration communale 607 AL. 4
-
-	**Cite**:
-
-	  - Code des communes R421-7 et R422-1
-
-
-###### Article R417-4
-
-Un rapport est fait annuellement [*fréquence*] aux ministres de l'intérieur, de l'économie et des finances, ainsi qu'au
-ministre chargé des prestations familiales, sur le fonctionnement du fonds [*national de compensation*], par le directeur
-général de la caisse des dépôts et consignations.
-
-Ce rapport est publié au Journal officiel.
-
-**Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - SPEC_APPLI: *Dispositions applicables aux agents nommés dans des emplois permanents à temps non complet et aux agents non titulaires*
-	  - SPEC_APPLI: Code des communes R421-7, R422-1 :
-
-	**Anciens textes**:
-
-	  - Code de l'administration communale 607 AL. 5 et 6
-
-	**Codifié par**:
-
-	  - Décret n°77-373 1977-03-28
-
-	**Créé par**:
-
-	  - Décret n°77-373 1977-03-28 JORF ET JONC 5 AVRIL 1977
-
-	**Nouveaux textes**:
-
-	  - CODE DES COMMUNES. - art. R413-5 (Ab)
-
-	**Cite**:
-
-	  - Code des communes R421-7 et R422-1
 
 
 #### ALLOCATION TEMPORAIRE D'INVALIDITE .
