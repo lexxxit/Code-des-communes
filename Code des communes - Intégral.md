@@ -1,5 +1,5 @@
 # Code des communes  
-Version Consolidée au 1996-05-15
+Version Consolidée au 1996-06-15
 
 # Partie législative
 
@@ -13366,17 +13366,61 @@ Le nombre des adjoints de la ville de Marseille est fixé à 9, à raison d'un p
 
 ###### Article R*211-1
 
-L'arrêté interministériel prévu à l'article L. 211-3 qui divise le budget de la commune en chapitres et articles est pris par
-le ministre de l'intérieur et le ministre de l'économie et des finances.
+Pour l'application des dispositions prévues au premier alinéa de l'article L. 2312-3 du code général des collectivités
+territoriales, le conseil municipal délibère, dans les communes de 10 000 habitants et plus, sur le vote du budget par nature
+ou par fonction.
+
+Par la suite, cette délibération ne peut être modifiée qu'un     e seule fois, au plus tard à la fin du premier exercice
+budgétaire complet suivant le renouvellement du conseil municipal.
+
+Toutefois, pour l'exercice 1998, le conseil municipal peut revenir sur la modalité de vote retenue sans préjudice des
+dispositions de l'alinéa précédent.
 
 **Liens relatifs à cet article**
 
-	**Liens**:
+	**Codifié par**:
 
-	  - TXT_ASSOCIE: Arrêté 1959-12-18 (commune de moins de 10.000 habitants)
-	  - TXT_ASSOCIE: Arrêté 1964-03-16 (communes de plus de 10.000 habitants)
-	  - TXT_ASSOCIE: Instruction M11 (communes de moins de 10.000 habitants)
-	  - TXT_ASSOCIE: Instruction M12 (communes de plus de 10.000 habitants)
+	  - Décret n°77-91 1977-01-27
+
+	**Modifié par**:
+
+	  - Décret n°96-522 du 13 juin 1996 - art. 1 ()
+
+	**Cite**:
+
+	  - Code général des collectivités territoriales - art. L2312-3 (M)
+
+
+###### Article R*211-3
+
+I. - Le décret prévu au second alinéa de l'article L. 2311-1 du code général des collectivités territoriales qui divise le
+budget de la commune en chapitres et articles est pris sur le rapport du ministre chargé des collectivités locales et du
+ministre chargé du budget. Il définit les chapitres et articles et fixe la nomenclature fonctionnelle et la nomenclature par
+nature ainsi que la présentation fonctionnelle ou la présentation par nature du budget, compte tenu des dispositions du II
+ci-après.
+
+II. - 1. Dans les communes de plus de 3 500 habitants votant leur budget par nature, la présentation fonctionnelle prévue au
+premier et au deuxième alinéa de l'article L. 2312-3 du code général des collectivités territoriales s'effectue au niveau le
+plus fin de la nomenclature fonctionnelle.
+
+Pour le budget, la présentation fonctionnelle ainsi définie est croisée avec chacun des chapitres budgétaires.
+
+Pour le compte administratif, cette présentation fonctionnelle est croisée avec chacun des articles budgétaires.
+
+Si le conseil municipal en décide ainsi, les documents budgétaires d'une commune de 3 500 habitants ou moins peuvent
+comporter une présentation fonctionnelle conforme aux dispositions ci-dessus.
+
+2. Dans les communes de 10 000 habitants et plus votant leur budget par fonction, la présentation par nature prévue au
+premier alinéa de l'article L. 2312-3 du code général des collectivités territoriales s'effectue au niveau le plus fin de la
+nomenclature par nature.
+
+Pour le budget, la présentation par nature ainsi définie est croisée avec chacun des chapitres budgétaires retraçant les
+opérations et les services individualisés.
+
+Pour le compte administratif, cette présentation par nature est croisée avec chacun des articles budgétaires retraçant les
+opérations et les services individualisés.
+
+**Liens relatifs à cet article**
 
 	**Codifié par**:
 
@@ -13384,11 +13428,12 @@ le ministre de l'intérieur et le ministre de l'économie et des finances.
 
 	**Créé par**:
 
-	  - Décret n°77-91 1977-01-27 JORF et JONC 3 février 1977 date d'entrée en vigueur 20 mars 1977
+	  - Décret n°96-522 du 13 juin 1996 - art. 2 ()
 
 	**Cite**:
 
-	  - CODE DES COMMUNES. - art. L211-3 (M)
+	  - Code général des collectivités territoriales - art. L2311-1 (M)
+	  - Code général des collectivités territoriales - art. L2312-3 (M)
 
 
 #### CHAPITRE 2 : Vote et règlement.
@@ -14166,6 +14211,113 @@ sous-préfet [*compétence*].
 	**Nouveaux textes**:
 
 	  - Code général des collectivités territoriales - art. D2321-16 (V)
+
+
+###### Article R221-10
+
+Constituent des dépenses obligatoires pour les communes et les groupements de communes dont la population est égale ou
+supérieure à 3 500 habitants les dotations aux amortissements des immobilisations suivantes :
+
+1° Les biens meubles autres que les collections et oeuvres d'art ;
+
+2° Les biens immeubles productifs de revenus, y compris les immobilisations remises en location ou mises à disposition d'un
+tiers privé contre paiement d'un droit d'usage et non affectés directement ou indirectement à l'usage du public ou à un
+service public administratif ;
+
+3° Les immobilisations incorporelles correspondant aux frais d'études non suivis de réalisation, aux frais de recherche et de
+développement et aux logiciels.
+
+Les dotations aux amortissements de ces biens sont liquidées sur la base du coût historique de l'immobilisation et de la
+méthode linéaire. Toutefois, une commune peut, par délibération, adopter un mode d'amortissement dégressif ou variable, ou
+réel.
+
+La durée d'amortissement est fixée par l'assemblée délibérante par bien ou par catégorie de biens. L'assemblée délibérante
+peut se référer à un barème fixé par arrêté du ministre chargé des collectivités locales et du ministre chargé du budget.
+Toutefois, pour les immobilisations incorporelles, les frais d'études non suivis de réalisation ainsi que les frais de
+recherche et de développement sont obligatoirement amortis sur une durée qui ne peut excéder cinq ans. La délibération
+relative à la durée d'amortissement est transmise au receveur municipal.
+
+Tout plan d'amortissement commencé doit être poursuivi jusqu'à son terme, sauf cession, affectation, réforme ou destruction
+du bien. Le plan d'amortissement ne peut être modifié qu'en cas de changement significatif dans les conditions d'utilisation
+du bien.
+
+Une assemblée délibérante peut fixer un seuil unitaire en deçà duquel les immobilisations de peu de valeur ou dont la
+consommation est très rapide s'amortissent sur un an. La délibération correspondante est transmise au receveur municipal et
+ne peut être modifiée au cours d'un même exercice budgétaire.
+
+L'état des biens meubles et immeubles annexé aux documents budgétaires indique pour les biens amortis, ainsi que pour les
+biens acquis, cédés, affectés, réformés ou détruits, la durée d'amortissement, le coût historique, la valeur nette comptable,
+les amortissements antérieurs et l'amortissement de l'exercice.
+
+L'état joint au compte administratif doit correspondre aux données figurant dans le compte de gestion du comptable.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CODE DES COMMUNES annexe
+
+	**Codifié par**:
+
+	  - Décret n°77-91 1977-01-27
+
+	**Créé par**:
+
+	  - Décret n°96-523 du 13 juin 1996 - art. 1 ()
+
+	**Cité par**:
+
+	  - Décret n°98-1061 du 25 novembre 1998 - art. 3 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code général des collectivités territoriales - art. R2321-1 (V)
+
+
+###### Article R221-11
+
+Outre les dotations à la provision mentionnée au deuxième alinéa de l'article L. 2252-3 du code général des collectivités
+territoriales, constituent des dépenses obligatoires pour les communes et les groupements de communes dont la population est
+égale ou supérieure à 3 500 habitants et pour leurs établissements publics les dotations aux provisions pour risques
+afférents aux litiges et contentieux.
+
+La provision est constituée lorsqu'une première décision de justice rend probable le risque de mise à la charge de la commune
+ou de l'établissement d'une dépense.
+
+La provision est constituée dès que la condition ci-dessus est remplie et à hauteur du risque estimé.
+
+La provision donne lieu à reprise à hauteur de son montant lorsqu'elle est devenue sans objet, c'est-à-dire en cas de
+réalisation du risque ou lorsque ce risque n'est plus susceptible de se réaliser.
+
+L'assemblée délibérante détermine le montant de la provision, dont le suivi et l'emploi sont retracés sur l'état des
+provisions constituées joint au budget primitif et au compte administratif. Il délibère sur la reprise des provisions
+constituées.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°77-91 1977-01-27
+
+	**Créé par**:
+
+	  - Décret n°96-523 du 13 juin 1996 - art. 2 ()
+
+	**Cité par**:
+
+	  - Décret n°98-1061 du 25 novembre 1998 - art. 4 (Ab)
+
+	**Abrogé par**:
+
+	  - Décret n°2000-318 du 7 avril 2000 - art. 4 (V)
+
+	**Nouveaux textes**:
+
+	  - Code général des collectivités territoriales - art. R2321-2 (V)
+
+	**Cite**:
+
+	  - Code général des collectivités territoriales - art. L2252-3 (MMN)
 
 
 ###### Article R221-12
@@ -23869,6 +24021,49 @@ concurrence, la participation financière de la commune fusionnée [*obligation*
 	  - Décret n°74-476 1974-03-17 art. 8 (partie)
 
 
+###### Article R251-11
+
+Les chapitres et articles du budget du syndicat sont définis par le décret mentionné à l'article R. 211-3. Les dispositions
+de l'article R. 211-3 relatives à la présentation fonctionnelle et à la présentation par nature sont applicables au syndicat
+de communes, compte tenu des modalités de vote retenues par l'assemblée délibérante et des dispositions ci-après.
+
+Le budget du syndicat à vocation unique est voté par nature, sans présentation fonctionnelle.
+
+Le budget du syndicat à vocation multiple comprenant au moins une commune de 10 000 habitants et plus est voté dans les
+conditions de l'article R. 211-1. Lorsqu'il comprend une commune de plus de 3 500 à moins de 10 000 habitants, il est voté
+par nature avec une présentation fonctionnelle. Lorsqu'il ne comprend aucune commune de plus de 3 500 habitants, il est voté
+par nature ; si le comité syndical en décide ainsi, il peut comporter une présentation fonctionnelle dans les conditions
+prévues au quatrième alinéa du II de l'article R. 211-3.
+
+Le budget d'un syndicat institué dans les conditions fixées à l'article L. 5212-16 du code général des collectivités
+territoriales est voté dans les conditions prévues à l'alinéa précédent, en distinguant les compétences déléguées par les
+communes adhérentes, faisant l'objet s'il y a lieu de budgets annexes au budget principal. Les dépenses d'administration
+générale sont réparties à l'intérieur de chaque budget annexe ou subdivision correspondant à ces compétences.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°77-91 1977-01-27
+
+	**Créé par**:
+
+	  - Décret n°96-522 du 13 juin 1996 - art. 3 ()
+
+	**Cite**:
+
+	  - CODE DES COMMUNES R211-3, R211-1, annexe
+	  - Code général des collectivités territoriales - art. L5212-16 (V)
+
+	**Cité par**:
+
+	  - CODE DES COMMUNES. - art. R*254-1 (Ab)
+	  - CODE DES COMMUNES. - art. R*257-1 (Ab)
+	  - CODE DES COMMUNES. - art. R*258-1 (Ab)
+	  - CODE DES COMMUNES. - art. R*259-1 (Ab)
+	  - CODE DES COMMUNES. - art. R252-6 (Ab)
+
+
 #### CHAPITRE 2 : Dispositions applicables au district.
 
 ###### Article R252-1
@@ -24035,21 +24230,15 @@ subvention d'équipement, pour les syndicats de communes*].
 	  - Décret n°74-476 1974-03-17 art. 4 à 8 (parties)
 
 
-#### CHAPITRE 3 : Dispositions applicables à la communauté urbaine
+###### Article R252-6
 
-##### SECTION 1 : Dispositions générales.
+Les chapitres et articles du budget du district sont définis par le décret mentionné à l'article R. 211-3. Le budget est voté
+dans les conditions posées au troisième alinéa de l'article R. 251-11.
 
-###### Article R253-1
-
-Les dispositions [*relatives au budget, aux dépenses, aux recettes et à la comptabilité des communes*] des titres Ier à IV
-(R) du présent livre sont applicables à la communauté urbaine sous réserve des dispositions des articles ci-après.
+Les dispositions de l'article R. 211-3 définissant les modalités de la présentation fonctionnelle et de la présentation par
+nature sont applicables au district.
 
 **Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - SPEC_APPLI: *Dispositions non applicables aux communes des départements de la Guadeloupe, de la Guyane, de la Martinique, de la Réunion et de Saint-Pierre-et-Miquelon*
-	  - SPEC_APPLI: Code des communes R262-1, R262-12 :
 
 	**Codifié par**:
 
@@ -24057,11 +24246,53 @@ Les dispositions [*relatives au budget, aux dépenses, aux recettes et à la com
 
 	**Créé par**:
 
-	  - Décret n°77-91 1977-01-27 JORF et JONC 3 février 1977 date d'entrée en vigueur élection des maires
+	  - Décret n°96-522 du 13 juin 1996 - art. 4 ()
+
+	**Abrogé par**:
+
+	  - Décret n°2000-318 du 7 avril 2000 - art. 4 (V)
 
 	**Cite**:
 
-	  - Code des communes R211-1 à R242-8
+	  - CODE DES COMMUNES R211-3, R251-11
+	  - CODE DES COMMUNES. - art. R251-11 (M)
+
+	**Nouveaux textes**:
+
+	  - Code général des collectivités territoriales - art. R5211-14 (V)
+
+
+#### CHAPITRE 3 : Dispositions applicables à la communauté urbaine
+
+##### SECTION 1 : Dispositions générales.
+
+###### Article R253-1
+
+Les dispositions des titres Ier à IV (R) du présent livre sont applicables à la communauté urbaine sous réserve des
+dispositions des articles ci-après.
+
+Les chapitres et articles du budget de la communauté urbaine sont définis par le décret mentionné à l'article R. 211-3. Le
+budget est voté dans les conditions prévues pour les communes de 10 000 habitants et plus aux articles R. 211-1 et R. 211-3.
+Les dispositions de l'article R. 211-3 définissant les modalités de la présentation fonctionnelle et de la présentation par
+nature sont applicables à la communauté urbaine.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°77-91 1977-01-27
+
+	**Modifié par**:
+
+	  - Décret n°96-522 du 13 juin 1996 - art. 5 ()
+
+	**Abrogé par**:
+
+	  - Décret n°2000-318 du 7 avril 2000 - art. 4 (V)
+
+	**Cite**:
+
+	  - CODE DES COMMUNES R211-3, R211-1
 
 	**Anciens textes**:
 
@@ -24420,9 +24651,13 @@ Le contrat de plan [*contenu*] comporte les stipulations prévues au contrat typ
 
 ###### Article R*254-1
 
-Les dispositions [*relatives au budget, aux dépenses, aux recettes et à la comptabilité des communes*]
+Les dispositions des titres Ier à IV (R) du présent livre sont applicables au syndicat mixte.
 
-des titres Ier à IV (R) du présent livre sont applicables au syndicat mixte.
+Les chapitres et articles du budget d'un syndicat mixte relevant de l'article L. 5711-1 du code général des collectivités
+territoriales sont définis par le décret mentionné à l'article R. 211-3. Le budget est voté dans les conditions prévues au
+troisième alinéa de l'article R. 251-11. Les dispositions de l'article R. 211-3 définissant les modalités de la présentation
+fonctionnelle et de la présentation par nature sont applicables au syndicat mixte visé à l'article L. 5711-1 du code général
+des collectivités territoriales.
 
 **Liens relatifs à cet article**
 
@@ -24430,13 +24665,19 @@ des titres Ier à IV (R) du présent livre sont applicables au syndicat mixte.
 
 	  - Décret n°77-91 1977-01-27
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°77-91 1977-01-27 JORF et JONC 3 février 1977 date d'entrée en vigueur élection des maires
+	  - Décret n°96-522 du 13 juin 1996 - art. 6 ()
+
+	**Abrogé par**:
+
+	  - Décret n°2000-318 du 7 avril 2000 - art. 4 (V)
 
 	**Cite**:
 
-	  - Code des communes R211-1 à R242-8
+	  - CODE DES COMMUNES R211-3, R251-11
+	  - CODE DES COMMUNES. - art. R251-11 (M)
+	  - Code général des collectivités territoriales - art. L5711-1 (M)
 
 
 #### CHAPITRE 5 : Dispositions applicables au syndicat communautaire d'aménagement
@@ -25247,6 +25488,96 @@ des dispositions des articles ci-après.
 	**Anciens textes**:
 
 	  - Loi n°66-610 1966-07-10 art. 19 (partie)
+
+
+#### CHAPITRE 7 : Dispositions applicables à l'ensemble urbain, au syndicat communautaire d'aménagement et à la communauté urbaine
+
+###### Article R*257-1
+
+Les chapitres et articles du budget du syndicat d'agglomération nouvelle sont définis par le décret mentionné à l'article R.
+211-3. Le budget est voté dans les conditions prévues au troisième alinéa de l'article R. 251-11.
+
+Les dispositions de l'article R. 211-3 définissant les modalités de la présentation fonctionnelle et de la présentation par
+nature sont applicables au syndicat d'agglomération nouvelle.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°77-91 1977-01-27
+
+	**Créé par**:
+
+	  - Décret n°96-522 du 13 juin 1996 - art. 1 ()
+
+	**Abrogé par**:
+
+	  - Décret n°2000-318 du 7 avril 2000 - art. 4 (V)
+
+	**Cite**:
+
+	  - CODE DES COMMUNES R211-3, R251-11
+	  - CODE DES COMMUNES. - art. R251-11 (M)
+
+
+#### CHAPITRE 8 : Dispositions applicables à la communauté de communes.
+
+###### Article R*258-1
+
+Les chapitres et articles du budget de la communauté de communes sont définis conformément au décret mentionné à l'article R.
+211-3. Le budget est voté dans les conditions prévues au troisième alinéa de l'article R. 251-11.
+
+Les dispositions de l'article R. 211-3 définissant les modalités de la présentation fonctionnelle et de la présentation par
+nature sont applicables à la communauté des communes.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°77-91 1977-01-27
+
+	**Créé par**:
+
+	  - Décret n°96-522 du 13 juin 1996 - art. 8 ()
+
+	**Abrogé par**:
+
+	  - Décret n°2000-318 du 7 avril 2000 - art. 4 (V)
+
+	**Cite**:
+
+	  - CODE DES COMMUNES R211-3, R251-11
+	  - CODE DES COMMUNES. - art. R251-11 (M)
+
+
+#### CHAPITRE 9 : Dispositions applicables à la communauté de villes.
+
+###### Article R*259-1
+
+Les chapitres et articles du budget de la communauté de villes sont définis conformément au décret mentionné à l'article R.
+211-3. Le budget est voté dans les conditions prévues au troisième alinéa de l'article R. 251-11.
+
+Les dispositions de l'article R. 211-3 définissant les modalités de la présentation fonctionnelle et de la présentation par
+nature sont applicables au budget de la communauté de villes.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°77-91 1977-01-27
+
+	**Créé par**:
+
+	  - Décret n°96-522 du 13 juin 1996 - art. 9 ()
+
+	**Abrogé par**:
+
+	  - Décret n°2000-318 du 7 avril 2000 - art. 4 (V)
+
+	**Cite**:
+
+	  - CODE DES COMMUNES R211-3, R251-11
+	  - CODE DES COMMUNES. - art. R251-11 (M)
 
 
 ### TITRE 6 : Dispositions particulières
