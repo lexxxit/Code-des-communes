@@ -1,5 +1,5 @@
 # Code des communes  
-Version Consolidée au 1988-12-31
+Version Consolidée au 1989-01-04
 
 # Statuts types d'une caisse communale de secours et de retraite de sapeurs-pompiers
 
@@ -1803,6 +1803,32 @@ Les fonctions de la délégation spéciale expirent de plein droit [*date, duré
 
 ##### SECTION 2 : Fonctionnement.
 
+###### Article L121-8
+
+Les conseils municipaux se réunissent au moins une fois par trimestre.
+
+Lors du renouvellement général des conseils municipaux, la première réunion se tient de plein droit au plus tôt le vendredi
+et au plus tard le dimanche suivant le tour de scrutin à l'issue duquel le conseil a été élu au complet.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°77-90 1977-01-27
+
+	**Modifié par**:
+
+	  - Loi n°88-1262 du 30 décembre 1988 - art. 31 () JORF 4 janvier 1989
+
+	**Abrogé par**:
+
+	  - Loi n°96-142 du 21 février 1996 - art. 12 (V) JORF 24 février 1996
+
+	**Nouveaux textes**:
+
+	  - Code général des collectivités territoriales - art. L2121-7 (V)
+
+
 ###### Article L121-9
 
 Le maire [**]attributions[**] peut réunir le conseil municipal chaque fois [*fréquence*] qu'il le juge utile.
@@ -2241,6 +2267,40 @@ les commissions désignent un vice-président qui peut les convoquer et les pré
 
 
 ##### SECTION 3 : Dispositions applicables aux membres des conseils municipaux.
+
+###### Article L121-21
+
+Les démissions des membres du conseil municipal sont adressées au maire.
+
+Dès réception d'une démission, le maire en informe le représentant de l'Etat dans le département.
+
+Les démissions sont définitives dès leur réception par le maire.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°77-90 1977-01-27
+
+	**Cité par**:
+
+	  - Loi n°82-1169 du 31 décembre 1982 - art. 18 (Ab)
+	  - CODE DES COMMUNES. - art. L181-1 (M)
+	  - CODE DES COMMUNES. - art. R*121-12 (Ab)
+	  - Code forestier - art. R*148-12 (M)
+
+	**Modifié par**:
+
+	  - Loi n°88-1262 du 30 décembre 1988 - art. 32 () JORF 4 janvier 1989
+
+	**Abrogé par**:
+
+	  - Loi n°96-142 du 21 février 1996 - art. 12 (V) JORF 24 février 1996
+
+	**Nouveaux textes**:
+
+	  - Code général des collectivités territoriales - art. L2121-4 (V)
+
 
 ###### Article L121-23
 
@@ -2697,6 +2757,60 @@ En cas d'égalité de suffrages, le plus âgé est déclaré élu.
 	  - Code général des collectivités territoriales - art. L2122-4 (M)
 
 
+###### Article L122-5
+
+La séance dans laquelle est procédé à l'élection du maire est présidée par le plus âgé des membres du conseil municipal.
+
+Pour toute élection du maire ou des adjoints, les membres du conseil municipal sont convoqués dans les formes et délais
+prévus par l'article L. 121-10 ; la convocation contient la mention spéciale de l'élection à laquelle il doit être procédé.
+
+Avant cette convocation, il est procédé aux élections qui peuvent être nécessaires pour compléter le conseil municipal. Si,
+après les élections complémentaires, de nouvelles vacances se produisent, le conseil municipal procède néanmoins à l'élection
+du maire et des adjoints, à moins qu'il n'ait perdu le tiers de ses membres.
+
+En ce cas, il y a lieu de recourir à de nouvelles élections complémentaires. Il y est procédé dans le délai d'un mois à dater
+de la dernière vacance. Toutefois, quand il y a lieu à l'élection d'un adjoint, le conseil municipal peut décider, sur la
+proposition du maire, qu'il y sera procédé sans élections complémentaires préalables, sauf dans le cas où le conseil
+municipal a perdu le tiers de son effectif légal.
+
+Dans les communes de 3500 habitants et plus, le conseil municipal est réputé complet si les seules vacances qui existent en
+son sein sont la conséquence :
+
+1° De démissions données lorsque le maire a cessé ses fonctions et avant l'élection de son successeur ;
+
+2° D'une décision de la juridiction administrative devenue définitive annulant l'élection de conseillers municipaux sans
+proclamation concomitante d'autre élus.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°77-90 1977-01-27
+
+	**Cité par**:
+
+	  - Loi n°82-1169 du 31 décembre 1982 - art. 5 (Ab)
+	  - CODE DES COMMUNES. - art. L122-7 (Ab)
+	  - CODE DES COMMUNES. - art. R*151-7 (Ab)
+
+	**Modifié par**:
+
+	  - Loi n°88-1262 du 30 décembre 1988 - art. 33 () JORF 4 janvier 1989
+
+	**Abrogé par**:
+
+	  - Loi n°96-142 du 21 février 1996 - art. 12 (V) JORF 24 février 1996
+
+	**Cite**:
+
+	  - CODE DES COMMUNES. - art. L121-10 (M)
+
+	**Nouveaux textes**:
+
+	  - Code général des collectivités territoriales - art. L2122-8 (V)
+	  - Code général des collectivités territoriales - art. L2122-9 (V)
+
+
 ###### Article L122-6
 
 Les nominations sont rendues publiques par voie d'affiche dans les vingt-quatre heures de leur date.
@@ -2724,6 +2838,53 @@ Les nominations sont rendues publiques par voie d'affiche dans les vingt-quatre 
 	**Nouveaux textes**:
 
 	  - Code général des collectivités territoriales - art. L2122-12 (V)
+
+
+###### Article L122-7
+
+L'élection du maire et des adjoints peut être arguée de nullité dans les conditions, formes et délais prescrits pour les
+réclamations contre les élections du conseil municipal.
+
+Lorsque l'élection est annulée ou que, pour toute autre cause, le maire ou les adjoints ont cessé leurs fonctions, le
+conseil, s'il est au complet, est convoqué pour procéder au remplacement dans le délai de quinzaine.
+
+S'il y a lieu de compléter le conseil, il est procédé aux élections complémentaires dans la quinzaine de la vacance et le
+nouveau maire est élu dans la quinzaine qui suit. Si, après les élections complémentaires, de nouvelles vacances se
+produisent, l'article L. 122-5 est applicable.
+
+Dans les communes de 3500 habitants et plus, le mandat du maire et des adjoints prend fin de plein droit lorsque la
+juridiction administrative, par une décision devenue définitive, a rectifié les résultats de l'élection des conseillers
+municipaux de telle sorte que la majorité des sièges a été attribuée à une liste autre que celle qui avait bénéficié de cette
+attribution lors de la proclamation des résultats à l'issue du scrutin.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°77-90 1977-01-27
+
+	**Modifié par**:
+
+	  - Loi n°88-1262 du 30 décembre 1988 - art. 34 () JORF 4 janvier 1989
+
+	**Abrogé par**:
+
+	  - Loi n°96-142 du 21 février 1996 - art. 12 (V) JORF 24 février 1996
+
+	**Cite**:
+
+	  - CODE DES COMMUNES. - art. L122-5 (M)
+
+	**Cité par**:
+
+	  - CODE DES COMMUNES. - art. R*151-7 (Ab)
+	  - CODE DES COMMUNES. - art. R122-5 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code général des collectivités territoriales - art. L2122-10 (M)
+	  - Code général des collectivités territoriales - art. L2122-13 (V)
+	  - Code général des collectivités territoriales - art. L2122-14 (V)
 
 
 ###### Article L122-8
@@ -2796,6 +2957,60 @@ Après une élection partielle, le conseil municipal peut décider qu'il sera pr
 	**Cite**:
 
 	  - CODE DES COMMUNES. - art. L122-11 (M)
+
+
+###### Article L122-10
+
+Les démissions des maires et des adjoints sont adressées au représentant de l'Etat dans le département, elles sont
+définitives à partir de leur acceptation par le représentant de l'Etat dans le département, ou, à défaut de cette
+acceptation, un mois après un nouvel envoi de la démission constatée par lettre recommandée.
+
+Ils continuent l'exercice de leurs fonctions jusqu'à l'installation de leurs successeurs, sous réserve des dispositions des
+articles L. 122-8, L. 122-13, L. 122-15 et L. 122-16.
+
+Toutefois, en cas de renouvellement intégral, les fonctions de maire et d'adjoint sont, à partir de l'installation du nouveau
+conseil jusqu'à l'élection du maire, exercées parmi les conseillers municipaux dans l'ordre du tableau.
+
+La procédure prévue au présent article s'applique également lorsque le maire ou l'adjoint se démettent simultanément du
+mandat de conseiller municipal.
+
+Par dérogation aux dispositions du premier alinéa, les démissions des maires et adjoints données en application des articles
+L. 46-1, L.O. 151 et L.O. 151-1 du code électoral dont définitives à compter leur réception par le représentant de l'Etat
+dans le département.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°77-90 1977-01-27
+
+	**Cité par**:
+
+	  - Loi n°82-1169 du 31 décembre 1982 - art. 5 (Ab)
+	  - Loi n°90-1247 du 29 décembre 1990 - art. 2 (Ab)
+	  - Code forestier - art. R*148-14 (M)
+
+	**Modifié par**:
+
+	  - Loi n°88-1262 du 30 décembre 1988 - art. 35 () JORF 4 janvier 1989
+
+	**Abrogé par**:
+
+	  - Loi n°96-142 du 21 février 1996 - art. 12 (V) JORF 24 février 1996
+
+	**Cite**:
+
+	  - CODE DES COMMUNES. - art. L122-15 (M)
+	  - CODE DES COMMUNES. - art. L122-16 (Ab)
+	  - CODE DES COMMUNES. - art. L122-8 (M)
+	  - CODE DES COMMUNES. - art. L123-13 (M)
+	  - Code électoral - art. L46-1 (M)
+	  - Code électoral - art. LO151 (M)
+	  - Code électoral - art. LO151-1 (M)
+
+	**Nouveaux textes**:
+
+	  - Code général des collectivités territoriales - art. L2122-15 (V)
 
 
 ###### Article L122-11
@@ -6826,6 +7041,54 @@ financier du secteur de commune.
 
 
 #### CHAPITRE 3 : Communes associées.
+
+###### Article L153-1
+
+La création d'une commune associée entraîne de plein droit :
+
+1° Le sectionnement électoral prévu par l'article L. 255-1 du code électoral sauf dans le cas où le conseil municipal a opté
+en faveur des dispositions prévues au paragraphe II de l'article 66 de la loi n° 82-1169 du 31 décembre 1982 relative à
+l'organisation administrative de Paris, Marseille et Lyon et des établissements publics de coopération intercommunale ;
+
+2° L'institution d'un maire délégué ;
+
+3° La création d'une annexe de la mairie dans laquelle sont notamment établis les actes de l'état civil concernant les
+habitants de la commune associée ;
+
+4° La création d'une section du bureau d'aide sociale dotée de la personnalité juridique à laquelle est dévolu le patrimoine
+du bureau d'aide sociale ayant existé dans l'ancienne commune et dont les conditions de fonctionnement sont fixées par
+décret.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°77-90 1977-01-27
+
+	**Cité par**:
+
+	  - Loi n°82-1169 du 31 décembre 1982 - art. 66 (Ab)
+	  - Décret n°95-562 du 6 mai 1995 - art. 31 (Ab)
+	  - Décret n°95-562 du 6 mai 1995 - art. 32 (Ab)
+
+	**Modifié par**:
+
+	  - Loi n°88-1262 du 30 décembre 1988 - art. 37 () JORF 4 janvier 1989
+
+	**Abrogé par**:
+
+	  - Loi n°96-142 du 21 février 1996 - art. 12 (V) JORF 24 février 1996
+
+	**Cite**:
+
+	  - CODE DES COMMUNES. - art. L112-11 (Ab)
+	  - Code électoral - art. L255-1 (V)
+
+	**Nouveaux textes**:
+
+	  - Code général des collectivités territoriales - art. L2113-13 (V)
+	  - Code général des collectivités territoriales - art. L2113-21 (V)
+
 
 ###### Article L153-2
 
@@ -14107,62 +14370,6 @@ entre les communes intéressées.
 
 #### CONSEIL MUNICIPAL .
 
-##### Fonctionnement .
-
-###### Article L121-8
-
-Les conseils municipaux se réunissent au moins une fois par trimestre [*fréquence*].
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Code de l'administration communale 22 remplacé
-
-	**Codifié par**:
-
-	  - Décret n°77-90 1977-01-27
-
-	**Créé par**:
-
-	  - Décret n°77-90 1977-01-27 JORF et JONC 3 février 1977 date d'entrée en vigueur élection des maires
-
-	**Nouveaux textes**:
-
-	  - Code général des collectivités territoriales - art. L2121-7 (V)
-
-
-##### Dispositions applicables aux membres des conseils municipaux
-
-###### Article L121-21
-
-Les démissions des membres du conseil municipal sont adressées au maire.
-
-Dès réception d'une démission, le maire en informe le représentant de l'Etat dans le département [*commissaire de la
-République*].
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°77-90 1977-01-27
-
-	**Cité par**:
-
-	  - Loi n°82-1169 du 31 décembre 1982 - art. 18 (Ab)
-	  - CODE DES COMMUNES. - art. L181-1 (M)
-	  - CODE DES COMMUNES. - art. R*121-12 (Ab)
-	  - Code forestier - art. R*148-12 (M)
-
-	**Anciens textes**:
-
-	  - Code de l'administration communale 36 AL. 2
-
-	**Nouveaux textes**:
-
-	  - Code général des collectivités territoriales - art. L2121-4 (V)
-
-
 ##### NULLITE DES DELIBERATIONS
 
 ##### DELIBERATIONS NULLES DE  DROIT .
@@ -14244,145 +14451,6 @@ Elle peut être prononcée par le préfet et proposée ou opposée par les parti
 
 #### MAIRES ET ADJOINTS.
 
-##### Désignation et statut des maires et adjoints .
-
-###### Article L122-5
-
-La séance dans laquelle est procédé à l'élection du maire est présidée par le plus âgé des membres du conseil municipal. 
-
-Pour toute élection du maire ou des adjoints, les membres du conseil municipal sont convoqués dans les formes et délais
-prévus par l'article L. 121-10 [*par écrit et à domicile trois jours au moins avant la réunion*] ; la convocation contient la
-mention spéciale de l'élection à laquelle il doit être procédé. 
-
-Avant cette convocation, il est procédé aux élections qui peuvent être nécessaires pour compléter le conseil municipal.
-
-Si, après les élections complémentaires, de nouvelles vacances se produisent, le conseil municipal procède néanmoins à
-l'élection du maire et des adjoints, à moins qu'il n'ait perdu le tiers de ses membres. 
-
-En ce cas, il y a lieu de recourir à de nouvelles élections complémentaires. Il y est procédé dans le délai d'un mois à dater
-de la dernière vacance. Toutefois, quand il y a lieu à l'élection d'un adjoint, le conseil municipal peut décider, sur la
-proposition du maire, qu'il y sera procédé sans élections complémentaires préalables, sauf dans le cas où le conseil
-municipal a perdu le tiers de son effectif légal [*proportion*].
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Code de l'administration communale 59
-
-	**Codifié par**:
-
-	  - Décret n°77-90 1977-01-27
-
-	**Créé par**:
-
-	  - Décret n°77-90 1977-01-27 JORF et JONC 3 février 1977 date d'entrée en vigueur élection des maires
-
-	**Cité par**:
-
-	  - Loi n°82-1169 du 31 décembre 1982 - art. 5 (Ab)
-	  - CODE DES COMMUNES. - art. L122-7 (Ab)
-	  - CODE DES COMMUNES. - art. R*151-7 (Ab)
-
-	**Cite**:
-
-	  - CODE DES COMMUNES. - art. L121-10 (M)
-
-
-###### Article L122-7
-
-L'élection du maire et des adjoints peut être arguée de nullité dans les conditions, formes et délais prescrits pour les
-réclamations contre les élections [*recours*] du conseil municipal. 
-
-Lorsque l'élection est annulée ou que, pour toute autre cause,
-
-le maire ou les adjoints ont cessé leurs fonctions, le conseil,
-
-s'il est au complet, est convoqué pour procéder au remplacement dans le délai de quinzaine. 
-
-S'il y a lieu de compléter le conseil, il est procédé aux élections complémentaires dans la quinzaine de la vacance et le
-nouveau maire est élu dans la quinzaine qui suit. Si, après les élections complémentaires, de nouvelles vacances se
-produisent, l'article L. 122-5 est applicable [*nouvelles élections complémentaires dans le délai de la vacance*].
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°77-90 1977-01-27
-
-	**Créé par**:
-
-	  - Décret n°77-90 1977-01-27 JORF et JONC 3 février 1977 date d'entrée en vigueur élection des maires
-
-	**Cite**:
-
-	  - CODE DES COMMUNES. - art. L122-5 (M)
-
-	**Cité par**:
-
-	  - CODE DES COMMUNES. - art. R*151-7 (Ab)
-	  - CODE DES COMMUNES. - art. R122-5 (Ab)
-
-	**Anciens textes**:
-
-	  - Code de l'administration communale 61
-
-
-###### Article L122-10
-
-Les démissions des maires et des adjoints sont adressées au représentant de l'Etat dans le département, elles sont
-définitives à partir de leur acceptation par le représentant de l'Etat dans le département [*commissaire de la République*],
-ou, à défaut de cette acceptation, un mois après un nouvel envoi de la démission [*délai*] constatée par lettre recommandée
-[*conditions de forme*].
-
-Ils continuent l'exercice de leurs fonctions, sauf les dispositions des articles L. 122-8 [*incompatibilité de fonctions*],
-L. 122-15 et L. 122-16 [*suspension, exercice de la fonction de maire par le président ou le vice-président de la délégation
-spéciale*] jusqu'à l'installation de leurs successeurs.
-
-Toutefois, en cas de renouvellement intégral, les fonctions de maire et d'adjoint sont, à partir de l'installation du nouveau
-conseil jusqu'à l'élection du maire, exercées parmi les conseillers municipaux dans l'ordre du tableau.
-
-La procédure prévue au présent article s'applique également lorsque le maire ou l'adjoint se démettent simultanément du
-mandat de conseiller municipal.
-
-Par dérogation aux dispositions du premier alinéa, les démissions des maires et adjoints données en application des articles
-L. 46-1, L.O. 151 et L.O. 151-1 du code électoral dont définitives à compter leur réception par le représentant de l'Etat
-dans le département [*point de départ*].
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Code de l'administration communale 63 AL. 2 ET SUIVANTS
-
-	**Codifié par**:
-
-	  - Décret n°77-90 1977-01-27
-
-	**Cité par**:
-
-	  - Loi n°82-1169 du 31 décembre 1982 - art. 5 (Ab)
-	  - Loi n°90-1247 du 29 décembre 1990 - art. 2 (Ab)
-	  - Code forestier - art. R*148-14 (M)
-
-	**Modifié par**:
-
-	  - Loi n°85-1406 du 30 décembre 1985 - art. 9 () JORF 31 décembre 1985
-
-	**Cite**:
-
-	  - CODE DES COMMUNES. - art. L122-15 (M)
-	  - CODE DES COMMUNES. - art. L122-16 (Ab)
-	  - CODE DES COMMUNES. - art. L122-8 (M)
-	  - Code électoral - art. L46-1 (M)
-	  - Code électoral - art. LO151 (M)
-	  - Code électoral - art. LO151-1 (M)
-
-	**Nouveaux textes**:
-
-	  - Code général des collectivités territoriales - art. L2122-15 (V)
-
-
 ##### Attributions des maires et adjoints.
 
 ###### Article L122-28
@@ -14427,58 +14495,6 @@ en autoriser l'exécution immédiate.
 	**Cite**:
 
 	  - CODE DES COMMUNES. - art. L131-3 (M)
-
-
-### Intérêts propres à certaines catégories d'habitants
-
-#### Communes associées .
-
-###### Article L153-1
-
-La création d'une commune associée [*effets*] entraîne de plein droit :
-
-1° Le sectionnement électoral prévu par l'article L. 255-1 du code électoral ; 
-
-2° L'institution d'un maire délégué ; 
-
-3° La création d'une annexe de la mairie dans laquelle sont notamment établis les actes de l'état civil concernant les
-habitants de la commune associée ; 
-
-4° La création d'une section du bureau d'aide sociale dotée de la personnalité juridique à laquelle est dévolu le patrimoine
-du bureau d'aide sociale ayant existé dans l'ancienne commune et dont les conditions de fonctionnement sont fixées par
-décret.
-
-**Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - SPEC_APPLI: *Dispositions non applicables aux communes des départements de la Guadeloupe, de la Guyane, de la Martinique, de la Réunion et de Saint-Pierre-et-Miquelon*
-	  - SPEC_APPLI: CODE DES COMMUNES. - art. L182-1 (Ab)
-	  - SPEC_APPLI: Code des communes L182-1, L182-2 :
-
-	**Anciens textes**:
-
-	  - Loi n°71-588 1971-07-16 art. 9 I al. 3, 6, 7
-	  - Loi n°71-588 du 16 juillet 1971 - art. 6 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°77-90 1977-01-27
-
-	**Créé par**:
-
-	  - Décret n°77-90 1977-01-27 JORF et JONC 3 février 1977 date d'entrée en vigueur élection des maires
-
-	**Cité par**:
-
-	  - Loi n°82-1169 du 31 décembre 1982 - art. 66 (Ab)
-	  - Décret n°95-562 du 6 mai 1995 - art. 31 (Ab)
-	  - Décret n°95-562 du 6 mai 1995 - art. 32 (Ab)
-
-	**Cite**:
-
-	  - CODE DES COMMUNES. - art. L112-11 (Ab)
-	  - Code électoral - art. L255-1 (V)
 
 
 ### INTERETS COMMUNS A PLUSIEURS COMMUNES
