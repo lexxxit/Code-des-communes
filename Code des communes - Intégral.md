@@ -1,5 +1,5 @@
 # Code des communes  
-Version Consolidée au 1979-12-20
+Version Consolidée au 1979-12-27
 
 # ORGANISATION COMMUNALE
 
@@ -103504,6 +103504,39 @@ en application des dispositions du livre IV  du code de la sécurité sociale et
 	  - Code de la sécurité sociale L496
 
 
+###### Article R417-8
+
+La demande d'allocation est à peine de déchéance présenté dans le délai d'un an à compter du jour où l'agent a repris des
+fonctions après la consolidation de sa blessure ou de son état de santé.
+
+Toutefois, lorsque l'agent n'a pas interrompu son activité ou qu'il a repris son service avant consolidation ou lorsqu'il a
+atteint la limite d'âge ou est radié des cadres avant de pouvoir reprendre ses fonctions, le droit à l'allocation peut lui
+être reconnu si la demande d'allocation est présentée dans l'année [*délai*] qui suit la date de la constatation officielle
+de la consolidation de sa blessure ou de son état de santé. Cette date est fixée par la commission départementale de réforme
+prévue à l'article 25 du décret n. 65-773 du 9 septembre 1965, lorsque l'accident ou la maladie donne lieu à l'attribution
+d'un congé au titre du régime statutaire de réparation des accidents du travail applicable à l'agent ou, à défaut, par un
+médecin assermenté.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Décret n°65-773 du 9 septembre 1965 - art. 25 (M)
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Abrogé par**:
+
+	  - Décret n°2005-442 2005-05-02 art. 17 1° JORF 11 mai 2005
+
+	**Cité par**:
+
+	  - CODE DES COMMUNES. - art. R417-12 (Ab)
+	  - CODE DES COMMUNES. - art. R417-15 (Ab)
+
+
 ###### Article R417-9
 
 L'allocation temporaire d'invalidité est cumulable avec le traitement.
@@ -103608,6 +103641,170 @@ a qualité pour procéder à la nomination.
 	  - CODE DES COMMUNES. - art. R417-16 (M)
 
 
+###### Article R417-12
+
+L'entrée en jouissance de l'allocation temporaire d'invalidité est fixée à la date de la reprise des fonctions ou, dans les
+cas prévus au deuxième alinéa de l'article R. 417-8, à la date de la constatation officielle de la consolidation de la
+blessure ou de l'état de santé de l'intéressé.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Abrogé par**:
+
+	  - Décret n°2005-442 2005-05-02 art. 17 1° JORF 11 mai 2005
+
+	**Cité par**:
+
+	  - CODE DES COMMUNES. - art. R417-15 (Ab)
+
+	**Cite**:
+
+	  - CODE DES COMMUNES. - art. R417-8 (M)
+
+
+###### Article R417-13
+
+Cette allocation, concédée par le directeur général de la caisse des dépôts et consignations au vu de la décision visée à
+l'article R. 417-11, est payée dans les conditions prévues dans le régime de retraite de la caisse nationale de retraites des
+agents des collectivités locales. Elle est soumise, en matière de contentieux, aux règles applicables aux pensions servies
+par cette caisse. Elle fait l'objet éventuellement des suspensions et déchéances prévues aux articles 56 et 57 du décret n.
+65-773 du 9 septembre 1965. Sous réserve des modalités de revision prévues ci-après, les dispositions de l'article 64 dudit
+décret lui sont applicables.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - SPEC_APPLI: *les dispositions du deuxième alinéa sont applicables aux allocations temporaires d'invalidité concédées avant le 5 décembre 1979*
+	  - SPEC_APPLI: Décret n°79-1121 1979-12-05 ART. 12 :
+
+	**Cite**:
+
+	  - Décret n°65-773 du 9 septembre 1965 - art. 56 (Ab)
+	  - Décret n°65-773 du 9 septembre 1965 - art. 57 (Ab)
+	  - Décret n°65-773 du 9 septembre 1965 - art. 64 (M)
+	  - CODE DES COMMUNES. - art. R417-11 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Abrogé par**:
+
+	  - Décret n°2005-442 2005-05-02 art. 17 1° JORF 11 mai 2005
+
+
+###### Article R417-14
+
+L'allocation temporaire d'invalidité est accordée pour une période de cinq ans. A l'expiration de cette période les droits de
+l'agent font l'objet d'un nouvel examen dans les conditions fixées à l'article R. 417-11 ci-dessus et l'allocation est soit
+attribuée sans limitation de durée, sous réserve des dispositions des alinéas suivants et de celles de l'article R. 417-16,
+sur la base du nouveau taux d'invalidité constaté, soit, le cas échéant, supprimée.
+
+Postérieurement, la revision des droits de l'agent dans les conditions précitées peut intervenir sur demande de l'intéressé
+formulée au plus tôt cinq ans après le précédent examen.
+
+La date d'effet de cette revision est fixée à la date du dépôt de la demande.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°79-1121 1979-12-05 ART. 12 : *Dispositions applicables aux allocations temporaires d'invalidité concédées avant le 5 décembre 1979*
+
+	**Abrogé par**:
+
+	  - Décret n°2005-442 2005-05-02 art. 17 1° JORF 11 mai 2005
+
+	**Cite**:
+
+	  - CODE DES COMMUNES. - art. R417-11 (Ab)
+
+	**Cité par**:
+
+	  - CODE DES COMMUNES. - art. R417-15 (Ab)
+	  - CODE DES COMMUNES. - art. R417-16 (Ab)
+	  - CODE DES COMMUNES. - art. R417-18 (Ab)
+
+
+###### Article R417-15
+
+En cas de survenance d'un nouvel accident ouvrant droit à allocation et sous réserve qu'une demande ait été formulée dans les
+délais prescrits à l'article R. 417-8, il est procédé à un nouvel examen des droits du requérant compte tenu de l'ensemble de
+ses infirmités. Une nouvelle allocation est éventuellement accordée, en remplacement de la précédente, pour une durée de cinq
+ans, avec une date de jouissance fixée conformément à l'article R. 417-12 et les droits de l'agent sont ultérieurement
+examinés ou revisés dans les conditions prévues à l'article R. 417-14.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°79-1121 1979-12-05 ART. 12 : *Dispositions applicables aux allocations temporaires d'invalidité concédées avant le 5 décembre 1979*
+
+	**Abrogé par**:
+
+	  - Décret n°2005-442 2005-05-02 art. 17 1° JORF 11 mai 2005
+
+	**Cite**:
+
+	  - CODE DES COMMUNES. - art. R417-12 (M)
+	  - CODE DES COMMUNES. - art. R417-14 (M)
+	  - CODE DES COMMUNES. - art. R417-8 (M)
+
+	**Cité par**:
+
+	  - CODE DES COMMUNES. - art. R417-16 (Ab)
+	  - CODE DES COMMUNES. - art. R417-18 (Ab)
+
+
+###### Article R417-16
+
+Après la radiation des cadres et sous réserve des dispositions des articles R. 417-17 et R. 417-18, l'allocation continue à
+être servie sur la base du dernier taux d'invalidité constaté durant l'activité.
+
+Cependant, si l'allocation n'a pas encore donné lieu, à la date de la radiation des cadres, à la revision après cinq ans
+prévue aux articles R. 417-14 et R. 417-15, un nouvel examen des droits du bénéficiaire est effectué.
+
+En aucun cas le taux d'invalidité indemnisée par l'allocation maintenue après la radiation des cadres ne peut faire l'objet
+d'une appréciation ultérieure en fonction de l'évolution de cette invalidité.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°79-1121 1979-12-05 ART. 12 : *Dispositions applicables aux allocations temporaires d'invalidité concédées avant le 5 décembre 1979*
+
+	**Abrogé par**:
+
+	  - Décret n°2005-442 2005-05-02 art. 17 1° JORF 11 mai 2005
+
+	**Cité par**:
+
+	  - CODE DES COMMUNES. - art. R417-14 (Ab)
+	  - CODE DES COMMUNES. - art. R417-18 (Ab)
+
+	**Cite**:
+
+	  - CODE DES COMMUNES. - art. R417-15 (M)
+	  - CODE DES COMMUNES. - art. R417-17 (Ab)
+
+
 ###### Article R417-17
 
 Lorsque la radiation des cadres est prononcée, dans les conditions prévues à l'article 30 du décret n° 65-773 du 9 septembre
@@ -103643,6 +103840,157 @@ cadres.
 	**Cité par**:
 
 	  - CODE DES COMMUNES. - art. R417-16 (Ab)
+
+
+###### Article R417-18
+
+Lorsque la radiation des cadres résulte d'une invalidité imputable au service mais indépendante de l'infirmité qui a ouvert
+droit à l'allocation temporaire, celle-ci est maintenue dans les conditions fixées aux articles R. 417-14 et R. 417-15, ou,
+le cas échéant, au deuxième alinéa de l'article R. 417-16 ci-dessus.
+
+Dans ce cas, la rente d'invalidité, prévue à l'article 31 du décret n° 65-773 du 9 septembre 1965 relatif au régime de
+retraite des tributaires de la caisse nationale de retraites des agents de collectivités locales ne rémunère que la nouvelle
+invalidité qui est appréciée par rapport à la validité restante de l'agent.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Décret n°65-773 du 9 septembre 1965 - art. 31 (M)
+	  - CODE DES COMMUNES. - art. R417-14 (M)
+	  - CODE DES COMMUNES. - art. R417-15 (M)
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Abrogé par**:
+
+	  - Décret n°2005-442 2005-05-02 art. 17 1° JORF 11 mai 2005
+
+	**Cité par**:
+
+	  - CODE DES COMMUNES. - art. R417-16 (Ab)
+
+
+###### Article R417-19
+
+Les agents permanents au service de l'une des collectivités locales ou de l'un des établissements publics visés à l'article
+R. 417-5 qui sont régulièrement placés en position de détachement soit dans un emploi de titulaire d'une autre collectivité
+ou d'un autre établissement public n'ayant pas le caractère industriel ou commercial, soit dans un emploi de l'Etat,
+bénéficient de l'allocation temporaire du chef de l'invalidité contractée dans l'emploi de détachement.
+
+Il en est de même des agents détachés pour exercer les fonctions de membres du Gouvernement, des fonctions publiques
+électives ou un mandat syndical.
+
+Les agents détachés dans les administrations des territoires d'outre-mer ou auprès d'Etats étrangers ou d'organisations
+internationales bénéficient par priorité du régime d'assurance qui leur est appliqué par l'organisme employeur sans qu'ils
+puissent percevoir au total une allocation inférieure à celle qu'ils auraient obtenue en application de la présente section.
+L'allocation différentielle, éventuellement servie par le régime de l'allocation temporaire d'invalidité des agents des
+collectivités locales, est calculée compte tenu des dispositions de l'article L. 417-21-1, lorsque ce régime d'assurance
+comporte des prestations représentées par un capital.
+
+Les présentes dispositions sont applicables à compter du 11 juin 1977[*date*].
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Abrogé par**:
+
+	  - Décret n°2005-442 2005-05-02 art. 17 1° JORF 11 mai 2005
+
+	**Cite**:
+
+	  - CODE DES COMMUNES. - art. R417-21-1 (Ab)
+	  - CODE DES COMMUNES. - art. R417-5 (Ab)
+
+
+###### Article R417-20
+
+En cas de survenance d'un nouvel accident, l'agent peut prétendre à une nouvelle allocation temporaire d'invalidité tenant
+compte de l'ensemble de ses infirmités et qui sera concédée et servie par le régime dont il dépend au moment où se produit
+cet accident, l'allocation antérieure étant supprimée.
+
+Toutefois lorsque l'aggravation de l'infirmité qui a ouvert le droit à l'allocation temporaire entraîne la radiation des
+cadres, l'agent peut prétendre, au titre du régime de retraite dont il relève en dernier lieu, à une pension et à une rente
+viagère pour invalidité imputable au service et l'allocation temporaire d'invalidité est supprimée.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Abrogé par**:
+
+	  - Décret n°2005-442 2005-05-02 art. 17 1° JORF 11 mai 2005
+
+
+###### Article R417-21
+
+Les communes et leurs établissements publics versent à la caisse des dépôts et consignations une cotisation mensuelle dont le
+montant est basé, selon un taux fixé par un arrêté des ministres de l'économie et des finances, de l'intérieur, ainsi que des
+ministres chargés de l'équipement et de la santé et du travail, sur les sommes payées aux agents mentionnés à l'article R.
+417-5 à titre de traitement fixe et de supplément définitif de traitement, à l'exclusion notamment des allocations accordées
+à titre de gratification pour travaux supplémentaires, pour cherté de vie, des indemnités de résidence, des prestations
+familiales et des suppléments familiaux de traitement ainsi que des indemnités allouées pour l'exécution de travaux n'entrant
+pas dans les attributions normales des agents.
+
+Les cotisations à la charge des collectivités locales et des établissements publics visés à l'article R. 417-5, y compris
+celles dues pour les agents détachés d'une autre collectivité ou établissement public et pour les fonctionnaires de l'Etat en
+position de détachement, doivent être versées [*délai*] à la caisse des dépôts et consignations dans les dix premiers jours
+de chaque mois [*périodicité*].
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - SPEC_APPLI: *Dispositions non applicables aux communes du département de Saint-Pierre-et-Miquelon*
+	  - TXT_ASSOCIE: Décret n°63-1346 1963-12-24
+	  - SPEC_APPLI: Code des communes R442-2 :
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Abrogé par**:
+
+	  - Décret n°2005-442 2005-05-02 art. 17 1° JORF 11 mai 2005
+
+	**Cite**:
+
+	  - CODE DES COMMUNES. - art. R417-5 (Ab)
+
+
+###### Article R417-21-1
+
+Lorsque l'agent a obtenu du tiers responsable au titre de la même invalidité permanente une réparation de caractère viager
+autre que l'allocation temporaire d'invalidité et que la caisse des dépôts et consignations ne peut plus exercer le droit de
+subrogation prévu par l'ordonnance n. 59-76, modifiée par la loi n. 68-2 du 2 janvier 1968, l'allocation est diminuée du
+montant de cette réparation. Si la réparation attribuée est un capital, l'allocation est diminuée du montant de la rente
+viagère qu'aurait produit ledit capital s'il avait été placé, à la date d'entrée en jouissance de l'allocation ou à la date
+de versement si elle est postérieure, à capital aliéné à la caisse nationale de prévoyance.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°79-1121 1979-12-05 ART. 12 : *Dispositions applicables aux allocations temporaires d'invalidité concédées avant le 5 décembre 1979*
+
+	**Abrogé par**:
+
+	  - Décret n°2005-442 2005-05-02 art. 17 1° JORF 11 mai 2005
+
+	**Cité par**:
+
+	  - CODE DES COMMUNES. - art. R417-19 (Ab)
 
 
 ##### SECTION 4 : Pensions.
@@ -110969,350 +111317,6 @@ fonctions hors du territoire métropolitain, sont fixées par arrêté intermini
 	**Cite**:
 
 	  - CODE DES COMMUNES. - art. R415-16 (Ab)
-
-
-#### ALLOCATION TEMPORAIRE D'INVALIDITE .
-
-###### Article R417-8
-
-La demande d'allocation est, à peine de déchéance, présentée dans le délai d'un an à compter du jour où l'agent a repris ses
-fonctions après la consolidation de sa blessure ou de son état de santé.
-
-Toutefois, lorsque, avant la reprise des fonctions, l'agent atteint la limite d'âge de son emploi et est rayé d'office des
-cadres, le droit à l'allocation peut lui être reconnu si la demande d'allocation est présentée [**]délai[**] dans l'année qui
-suit la date de consolidation de sa blessure ou de son état de santé.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°63-1346 1963-12-24 ART. 3 COMPLETE AL. 3 et 4
-
-	**Codifié par**:
-
-	  - Décret n°77-373 1977-03-28
-
-	**Créé par**:
-
-	  - Décret n°77-373 1977-03-28 JORF ET JONC 5 AVRIL 1977
-
-	**Cité par**:
-
-	  - CODE DES COMMUNES. - art. R417-12 (Ab)
-	  - CODE DES COMMUNES. - art. R417-15 (Ab)
-
-
-###### Article R417-12
-
-L'entrée en jouissance de l'allocation temporaire d'invalidité est fixée à la date de la reprise des fonctions ou, dans le
-cas prévu au premier alinéa de l'article R. 417-8 [*relatif au délai à respecter pour une demande d'allocation temporaire
-d'invalidité*] à la date de consolidation de la blessure ou de l'état de santé de l'intéressé.
-
-Le paiement de l'allocation temporaire d'invalidité est effectué trimestriellement [**]fréquence[**] et à terme échu.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°63-1346 1963-12-24 ART. 6 REMPLACE AL. 1
-
-	**Codifié par**:
-
-	  - Décret n°77-373 1977-03-28
-
-	**Créé par**:
-
-	  - Décret n°77-373 1977-03-28 JORF ET JONC 5 AVRIL 1977
-
-	**Cité par**:
-
-	  - CODE DES COMMUNES. - art. R417-15 (Ab)
-
-	**Cite**:
-
-	  - Code des communes R417-8 AL. 1
-
-
-###### Article R417-13
-
-Au vu de la décision [*relative à la réalité de l'infirmité, son imputabilité au service, ses conséquences et le taux
-d'invalidité qu'elle entraîne*] prise dans les conditions fixées à l'article R. 417-11, le directeur général de la caisse des
-dépôts et consignations procède [**]attributions[**] à la liquidation, à la concession et au paiement de l'allocation
-temporaire d'invalidité qui fait l'objet éventuellement des suspensions prévues aux articles 56 et 57 du décret n° 65-773 du
-9 septembre 1965 relatif au régime de retraite des tributaires de la caisse nationale de retraites des agents des
-collectivités locales.
-
-Les dispositions de l'article 64-1 de ce décret sont applicables, sous réserve des modalités de révision prévues ci-après.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°63-1346 1963-12-24 ART. 6 REMPLACE AL. 2
-
-	**Codifié par**:
-
-	  - Décret n°77-373 1977-03-28
-
-	**Créé par**:
-
-	  - Décret n°77-373 1977-03-28 JORF ET JONC 5 AVRIL 1977
-
-	**Cite**:
-
-	  - CODE DES COMMUNES. - art. R417-11 (Ab)
-
-
-###### Article R417-14
-
-En cas d'aggravation ou de diminution de l'invalidité constatée durant l'activité de l'agent lors d'examens quinquennaux
-[*fréquence*], l'allocation temporaire d'invalidité est révisée et, le cas échéant, suspendue dans les conditions fixées à
-l'article R. 417-11.
-
-L'allocation ne peut faire l'objet d'une revision qu'après l'expiration d'une période de cinq années à compter de la date de
-la concession initiale ou de la précédente révision.
-
-La révision, la suspension ou le rétablissement de l'allocation prennent effet du premier jour de chaque période quinquennale
-considérée et ces opérations sont effectuées par le directeur général de la caisse des dépôts et consignations.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°63-1346 1963-12-24 ART. 7 AL. 1
-
-	**Cite**:
-
-	  - Décret n°65-773 1965-09-09 MODIFIE
-	  - CODE DES COMMUNES. - art. R417-11 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°77-373 1977-03-28
-
-	**Créé par**:
-
-	  - Décret n°77-373 1977-03-28 JORF ET JONC 5 AVRIL 1977
-
-	**Cité par**:
-
-	  - CODE DES COMMUNES. - art. R417-15 (Ab)
-	  - CODE DES COMMUNES. - art. R417-16 (Ab)
-	  - CODE DES COMMUNES. - art. R417-18 (Ab)
-
-
-###### Article R417-15
-
-Lorsque, au cours de la période quinquennale [*durant laquelle l'allocation d'invalidité ne peut faire l'objet d'une
-révision*] prévue à l'article précédent, une demande d'allocation est présentée au titre d'une invalidité résultant d'un
-nouvel accident, le nouveau taux d'invalidité constaté dans les conditions fixées à l'article R. 417-11 [*appréciation de la
-commission départementale de réforme prévue par le régime de retraite des agents des collectivités locales, avis de la caisse
-des dépôts et consignations, décision de l'autorité qui a le pouvoir de nomination*] est apprécié en fonction de l'ensemble
-des infirmités.
-
-La nouvelle allocation est accordée à compter de la reprise des fonctions consécutive au nouvel accident.
-
-L'allocation antérieure est supprimée à compter de la même date.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°63-1346 1963-12-24 ART. 7 AL. 2 REMPLACE
-
-	**Cite**:
-
-	  - Décret n°65-773 1965-09-09 MODIFIE
-	  - Code des communes R417-11 et R417-14
-
-	**Codifié par**:
-
-	  - Décret n°77-373 1977-03-28
-
-	**Créé par**:
-
-	  - Décret n°77-373 1977-03-28 JORF ET JONC 5 AVRIL 1977
-
-	**Cité par**:
-
-	  - CODE DES COMMUNES. - art. R417-16 (Ab)
-	  - CODE DES COMMUNES. - art. R417-18 (Ab)
-
-
-###### Article R417-16
-
-Après la radiation des cadres et sous réserve des dispositions de l'article suivant [*en vertu duquel l'allocation
-d'invalidité est remplacée par une rente d'invalidité lorsque la radiation des cadres est prononcée pour aggravation de
-l'invalidité*], l'allocation continue à être servie sur la base du taux d'invalidité constatée, nonobstant les dispositions
-des deux articles précédents [*relatives aux conditions de révision du taux*] au moment de la cessation définitive de
-fonctions.
-
-Ce taux est déterminé après examen dans les conditions fixées à l'article R. 417-11 [*appréciation par la commission
-départementale de réforme prévue par le régime de retraite des agents des collectivités locales, avis de la caisse des dépôts
-et consignations, décision de l'autorité qui a le pouvoir de nomination*] ; il ne peut faire l'objet d'une appréciation
-ultérieure en fonction de l'évolution de l'invalidité qui a ouvert le droit à l'allocation.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°63-1346 1963-12-24 ART. 8 REMPLACE
-
-	**Cite**:
-
-	  - Décret n°65-773 1965-09-09 MODIFIE
-	  - CODE DES COMMUNES. - art. R417-11 (Ab)
-	  - Code des communes R417-11, R417-14, R417-15 et R417-17
-
-	**Codifié par**:
-
-	  - Décret n°77-373 1977-03-28
-
-	**Créé par**:
-
-	  - Décret n°77-373 1977-03-28 JORF ET JONC 5 AVRIL 1977
-
-	**Cité par**:
-
-	  - CODE DES COMMUNES. - art. R417-14 (Ab)
-	  - CODE DES COMMUNES. - art. R417-18 (Ab)
-
-
-###### Article R417-18
-
-Lorsque la radiation des cadres résulte d'une invalidité imputable au service mais indépendante de l'infirmité qui a ouvert
-le droit à l'allocation temporaire, celle-ci est maintenue dans les conditions fixées à l'article R. 417-16 [*sur la base du
-taux d'invalidité constatée au moment de la cessation définitive des fonctions*].
-
-Dans ce cas, la rente d'invalidité, prévue à l'article 31 du décret n° 65-773 du 9 septembre 1965 relatif au régime de
-retraite des tributaires de la caisse nationale de retraites des agents de collectivités locales, ne rémunère que la nouvelle
-invalidité qui est appréciée par rapport à la validité restante de l'agent.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°63-1346 1963-12-24 ART. 9 REMPLACE AL. 2
-
-	**Codifié par**:
-
-	  - Décret n°77-373 1977-03-28
-
-	**Créé par**:
-
-	  - Décret n°77-373 1977-03-28 JORF et JONC 5 avril 1977
-
-	**Cité par**:
-
-	  - CODE DES COMMUNES. - art. R417-16 (Ab)
-
-
-###### Article R417-19
-
-Les agents permanents des départements, des communes et de leurs établissements publics n'ayant pas le caractère industriel
-et commercial, régulièrement placés en position de détachement en vertu du statut particulier qui leur est applicable ou de
-dispositions législatives ou réglementaires spéciales, bénéficient par priorité dans l'emploi de détachement du régime
-d'assurance qui leur est appliqué par l'organisme employeur.
-
-Toutefois, ceux d'entre ces agents qui sont détachés, soit dans un emploi d'agent titulaire d'une autre collectivité ou d'un
-autre établissement, soit pour exercer les fonctions du membre du Gouvernement ou un mandat électif ou syndical, soit enfin
-dans les conditions prévues au deuxième alinéa de l'article 8 du décret n° 60-1089 du 6 octobre 1960 tel qu'il a été modifié
-par le décret n° 61-1038 du 11 septembre 1961 et le décret n° 68-604 du 9 août 1966, bénéficient d'une allocation
-différentielle, lorsque le total des prestations servies par le régime d'assurance mentionné au premier alinéa est inférieur
-au montant de l'allocation qu'ils auraient obtenue s'ils se trouvaient en position d'activité au sein de la collectivité
-locale ou de l'établissement public dont ils sont détachés.
-
-Un arrêté des ministres de l'économie et des finances, de l'intérieur, ainsi que des ministres chargés de l'équipement, de la
-santé et du travail fixe les modalités de calcul de l'allocation différentielle qui leur est servie, notamment lorsque le
-régime d'assurance de l'organisme employeur comporte des prestations qui n'ont pas un caractère viager.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Décret n°60-1089 1960-10-06 ART. 8 AL. 2 MODIFIE
-	  - Décret n°61-1038 1961-09-11
-	  - Décret n°66-604 1966-08-09
-
-	**Anciens textes**:
-
-	  - Décret n°63-1346 1963-12-24 ART. 9 REMPLACE AL. 2
-
-	**Codifié par**:
-
-	  - Décret n°77-373 1977-03-28
-
-	**Créé par**:
-
-	  - Décret n°77-373 1977-03-28 JORF ET JONC 5 AVRIL 1977
-
-
-###### Article R417-20
-
-Lorsqu'un fonctionnaire des collectivités locales est nommé dans un emploi d'Etat ou, à l'inverse, lorsqu'un fonctionnaire de
-l'Etat est titularisé dans un emploi conduisant à pension de la caisse nationale de retraites des agents des collectivités
-locales, l'allocation temporaire d'invalidité continue, le cas échéant, d'être servie à l'agent au titre et dans les
-conditions du régime dont il était antérieurement bénéficiaire.
-
-Toutefois lorsque l'aggravation de l'infirmité qui a ouvert le droit à l'allocation temporaire entraîne la radiation des
-cadres, l'agent peut prétendre, au titre du régime de retraite dont il relève en dernier lieu, à une pension et à une rente
-viagère pour invalidité imputable au service et l'allocation temporaire d'invalidité est supprimée.
-
-**Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - TXT_ASSOCIE: Décret n°47-1846 1947-09-19 modifié
-	  - TXT_ASSOCIE: Décret n°65-773 1965-09-09 modifié
-
-	**Anciens textes**:
-
-	  - Décret n°63-1346 1963-12-24 ART. 10 BIS
-
-	**Codifié par**:
-
-	  - Décret n°77-373 1977-03-28
-
-	**Créé par**:
-
-	  - Décret n°77-373 1977-03-28 JORF et JONC 5 avril 1977
-
-
-###### Article R417-21
-
-Les communes et leurs établissements publics versent à la caisse des dépôts et consignations une cotisation mensuelle dont le
-montant est basé, selon un taux fixé par un arrêté des ministres de l'économie et des finances, de l'intérieur, ainsi que des
-ministres chargés de l'équipement et de la santé et du travail, sur les sommes payées aux agents mentionnés à l'article R.
-417-5 à titre de traitement fixe et de supplément définitif de traitement, à l'exclusion notamment des allocations accordées
-à titre de gratification pour travaux supplémentaires, pour cherté de vie, des indemnités de résidence, des prestations
-familiales et des suppléments familiaux de traitement ainsi que des indemnités allouées pour l'exécution de travaux n'entrant
-pas dans les attributions normales des agents.
-
-La cotisation due par les communes et leurs établissements publics est versée dans les dix premiers jours de chaque mois.
-
-**Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - SPEC_APPLI: *Dispositions non applicables aux communes du département de Saint-Pierre-et-Miquelon*
-	  - TXT_ASSOCIE: Décret n°63-1346 1963-12-24
-	  - SPEC_APPLI: Code des communes R442-2 :
-
-	**Anciens textes**:
-
-	  - Décret n°63-1346 1963-12-24 ART. 11 MODIFIE
-
-	**Codifié par**:
-
-	  - Décret n°77-373 1977-03-28
-
-	**Créé par**:
-
-	  - Décret n°77-373 1977-03-28 JORF et JONC 5 avril 1977
-
-	**Cite**:
-
-	  - CODE DES COMMUNES. - art. R417-5 (Ab)
 
 
 ### Personnels divers
