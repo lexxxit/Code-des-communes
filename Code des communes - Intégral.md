@@ -1,5 +1,5 @@
 # Code des communes  
-Version Consolidée au 1988-05-07
+Version Consolidée au 1988-05-08
 
 # Statuts types d'une caisse communale de secours et de retraite de sapeurs-pompiers
 
@@ -47691,6 +47691,1022 @@ L'action en recouvrement des amendes prévues à l'article L. 233-26 se prescrit
 
 ##### SECTION 4 : Taxes particulières aux stations
 
+##### SOUS-SECTION 1 : Taxe de séjour et taxe de séjour forfaitaire
+
+##### PARAGRAPHE 1 : Dispositions générales.
+
+###### Article R*233-39
+
+Les communes qui ont institué la taxe de séjour ou la taxe de séjour forfaitaire font figurer, dans un état annexe au compte
+administratif, les recettes procurées par cette taxe pendant l'exercice considéré et l'emploi de ces recettes à des actions
+de nature à favoriser la fréquentation touristique notamment par les offices de tourisme.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°58-1268 1958-12-17 art. 1 al. 3
+
+	**Codifié par**:
+
+	  - Décret n°77-91 1977-01-27
+
+	**Modifié par**:
+
+	  - Décret n°88-630 1988-05-06 art. 1, 2 jorf 8 mai 1988
+
+	**Abrogé par**:
+
+	  - Décret n°2000-318 du 7 avril 2000 - art. 4 (V)
+
+
+###### Article R*233-40
+
+Les dispositions des articles R. 233-39 à R. 233-69-10 sont applicables en matière de taxe de séjour ou de taxe de séjour
+forfaitaire lorsque ces taxes sont instituées par un groupement de communes conformément aux dispositions de l'article L.
+233-45.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret  1920-05-04 art. 4 al. 4
+
+	**Codifié par**:
+
+	  - Décret n°77-91 1977-01-27
+
+	**Modifié par**:
+
+	  - Décret n°88-630 1988-05-06 art. 1, 3 jorf 8 mai 1988
+
+	**Abrogé par**:
+
+	  - Décret n°2000-318 du 7 avril 2000 - art. 4 (V)
+
+	**Cite**:
+
+	  - CODE DES COMMUNES. - art. L233-45 (M)
+	  - Code des communes R233-39 à R233-69-10, L233-45
+
+
+###### Article R*233-43
+
+Les natures d'hébergement prévues par le premier alinéa de l'article L. 233-29 du code des communes sont :
+
+" 1° Les hôtels.
+
+" 2° Les résidences de tourisme.
+
+" 3° Les meublés.
+
+" 4° Les villages de vacances.
+
+" 5° Les terrains de camping et de caravanage.
+
+" 6° Les ports de plaisance.
+
+" 7° Les autres formes d'hébergement. "
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°77-91 1977-01-27
+
+	**Modifié par**:
+
+	  - Décret n°88-630 1988-05-06 art. 1, 4, 5 jorf 8 mai 1988
+
+	**Cite**:
+
+	  - CODE DES COMMUNES. - art. L233-29 (M)
+
+
+##### PARAGRAPHE 2 : Taxe de séjour.
+
+###### Article R*233-44
+
+Les tarifs de la taxe de séjour sont fixés par la commune conformément au barème suivant :
+
+" Hôtels de tourisme 4 étoiles et 4 étoiles de luxe, meublés hors classe et tous autres établissements de caractéristiques
+équivalentes : entre 4 et 7 F par jour et par personne ;
+
+" Hôtels de tourisme 3 étoiles, meublés de 1re catégorie et tous autres établissements de caractéristiques équivalentes :
+entre 3 et 6 F par jour et par personne ;
+
+" Hôtels de tourisme 2 étoiles, meublés de 2e catégorie, villages de vacances de catégorie grand confort et tous autres
+établissements de caractéristiques équivalentes : entre 2 et 5 F par jour et par personne ;
+
+" Hôtels de tourisme 1 étoile, meublés de 3e catégorie, villages de vacances de catégorie confort et tous autres
+établissements de caractéristiques équivalentes : entre 1 et 4 F par jour et par personne ;
+
+" Hôtels de tourisme classés sans étoile, meublés de 4e catégorie, parcs résidentiels de loisirs et tous autres
+établissements de caractéristiques équivalentes : entre 1 et 2 F par jour et par personne ;
+
+" Terrains de camping et de caravanage, ports de plaisance et tous autres établissements de caractéristiques équivalentes : 1
+F par jour et par personne.
+
+" En aucun cas le tarif retenu par la commune pour une des catégories d'hébergement prévues par le barème ne peut excéder le
+tarif retenu pour une catégorie d'hébergement supérieure.
+
+" Les tarifs ainsi définis ne comprennent pas la taxe additionnelle départementale prévue par l'article 108 de la loi du 26
+mars 1927 lorsqu'elle est instituée. "
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°58-1268 1958-12-17 ART. 1 AL. 1 MODIFIE
+
+	**Codifié par**:
+
+	  - Décret n°77-91 1977-01-27
+
+	**Modifié par**:
+
+	  - Décret n°88-630 1988-05-06 art. 1, 6, 7 jorf 8 mai 1988
+
+	**Cite**:
+
+	  - Loi n°1927-03-26 art. 108
+
+
+###### Article R*233-46
+
+La taxe n'est pas perçue dans les colonies et centres de vacances collectives d'enfants tels qu'ils sont définis par arrêté
+du ministre chargé de l'organisation et du fonctionnement des colonies et camps de vacances.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°58-1268 1958-12-17 art. 1 al. 5
+
+	**Codifié par**:
+
+	  - Décret n°77-91 1977-01-27
+
+	**Modifié par**:
+
+	  - Décret n°88-630 1988-05-06 art. 1, 6 jorf 8 mai 1988
+
+	**Abrogé par**:
+
+	  - Décret n°2000-318 du 7 avril 2000 - art. 4 (V)
+
+
+###### Article R*233-47
+
+Sont exemptés de la taxe de séjour, sans préjudice de l'application de l'article L. 233-31 :
+
+a° Les personnes bénéficiant des dispositions des titres III et IV du code de la famille et de l'aide sociale ;
+
+b° Les mutilés, blessés et malades par suite de faits de guerre ;
+
+c° Les personnes exclusivement attachées aux malades ;        d° Les personnes qui, par leur travail ou leur profession,
+participent au fonctionnement et au développement de la station ;
+
+e° Les voyageurs et représentants de commerce porteurs de la carte d'identité professionnelle pendant la durée du séjour
+qu'ils font dans la station pour les besoins exclusifs de leur profession ;
+
+f° Les fonctionnaires et agents de l'Etat appelés temporairement dans la station pour l'exercice de leurs fonctions.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code de la famille et de l'aide sociale Titres III et IV
+	  - CODE DES COMMUNES. - art. L233-31 (M)
+
+	**Anciens textes**:
+
+	  - Décret n°58-1268 1958-12-17 art. 2
+
+	**Codifié par**:
+
+	  - Décret n°77-91 1977-01-27
+
+	**Modifié par**:
+
+	  - Décret n°88-630 1988-05-06 art. 1, 6 jorf 8 mai 1988
+
+	**Abrogé par**:
+
+	  - Décret n°2000-318 du 7 avril 2000 - art. 4 (V)
+
+
+###### Article R*233-48
+
+Les enfants de moins de dix ans bénéficient d'une réduction de 50 p. 100 [*pourcentage*] du montant de la taxe ; les enfants
+de moins de quatre ans en sont exonérés[*conditions d'âge*].
+
+En outre, les membres des familles nombreuses porteurs de la carte d'identité qui leur est délivrée en vertu de la loi du 24
+décembre 1940 bénéficient des mêmes réductions que pour le prix des transports sur les chemins de fer d'intérêt général.
+
+Le conseil municipal peut décider d'augmenter le montant des réductions prévues aux deux alinéas ci-dessus.
+
+Il peut de même décider d'exonérer partiellement ou totalement les personnes bénéficiaires du chèque-vacances ainsi que les
+mineurs de moins de dix-huit ans.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°58-1268 1958-12-17 ART. 3
+
+	**Codifié par**:
+
+	  - Décret n°77-91 1977-01-27
+
+	**Modifié par**:
+
+	  - Décret n°88-630 1988-05-06 art. 1, 6 jorf 8 mai 1988
+
+	**Abrogé par**:
+
+	  - Décret n°2000-318 du 7 avril 2000 - art. 4 (V)
+
+	**Cite**:
+
+	  - Loi n°1940-12-24
+
+
+###### Article R*233-53
+
+Le produit de la taxe est versé au receveur municipal [*délai*] dans les vingt jours qui suivent la fin de la période de
+perception mentionnée à l'article L. 233-32.
+
+A cette occasion, les logeurs, hôteliers, propriétaires ou autres intermédiaires qui ont perçu la taxe de séjour doivent
+produire une déclaration indiquant le montant total de la taxe perçue.
+
+L'état prévu à l'article R. 233-49 est joint à la déclaration.
+
+Le comptable procède à l'encaissement de la taxe et en donne quittance.
+
+Lorsque la déclaration n'est pas accompagnée du paiement, il est remis au déclarant un reçu attestant du dépôt de la
+déclaration.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°1920-05-04 art. 11 remplacé
+
+	**Codifié par**:
+
+	  - Décret n°77-91 1977-01-27
+
+	**Modifié par**:
+
+	  - Décret n°88-630 1988-05-06 art. 1, 9, 12 jorf 8 mai 1988
+
+	**Abrogé par**:
+
+	  - Décret n°2000-318 du 7 avril 2000 - art. 4 (V)
+
+	**Cite**:
+
+	  - CODE DES COMMUNES. - art. L233-32 (M)
+	  - CODE DES COMMUNES. - art. R233-49 (M)
+
+
+###### Article R*233-54
+
+Lorsqu'en application de l'article L. 233-42-1, la taxe de séjour donne lieu au versement d'un acompte, le maire adresse au
+receveur municipal un titre de recettes au nom de chaque personne soumise à ce versement.
+
+Le versement de l'acompte est effectué auprès du receveur municipal [*délai*] dans les vingt jours qui suivent l'envoi de
+l'avis de versement.
+
+L'acompte n'est toutefois pas exigible avant le début de la période de perception définie à l'article L. 233-32, ni avant la
+fin du premier mois d'ouverture de l'établissement soumis à la taxe de séjour.
+
+L'acompte versé est déduit du montant exigé à l'expiration de la période de perception ; lorsque le montant de cet acompte
+est supérieur au montant de la taxe exigible le solde correspondant est restitué par la commune dans les vingt jours qui
+suivent le dépôt de la déclaration.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°1920-05-04 art. 11 remplacé
+
+	**Codifié par**:
+
+	  - Décret n°77-91 1977-01-27
+
+	**Modifié par**:
+
+	  - Décret n°88-630 1988-05-06 art. 1, 9, 13  jorf 8 mai 1988
+
+	**Abrogé par**:
+
+	  - Décret n°2000-318 du 7 avril 2000 - art. 4 (V)
+
+	**Cite**:
+
+	  - CODE DES COMMUNES. - art. L233-32 (M)
+	  - CODE DES COMMUNES. - art. L233-42-1 (Ab)
+
+
+###### Article R*233-57
+
+Tout assujetti qui conteste soit l'application qui lui est faite du tarif par l'hôtelier, logeur, propriétaire, ou principal
+locataire, soit la quotité de la taxe à lui réclamée, acquitte [*paiement*] néanmoins le montant de la taxe contestée, sauf à
+en obtenir le remboursement après qu'il a été statué sur sa réclamation[**]recours[**].
+
+Ces contestations [*recours*] sont portées, quel que soit le montant de la taxe, devant le tribunal d'instance dans le
+ressort duquel se trouve la commune intéressée [*compétence*] et sont jugées sans frais.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°1920-05-04 art. 14 remplacé
+
+	**Codifié par**:
+
+	  - Décret n°77-91 1977-01-27
+
+	**Modifié par**:
+
+	  - Décret n°88-630 1988-05-06 art. 1, 9 jorf 8 mai 1988
+
+	**Abrogé par**:
+
+	  - Décret n°2000-318 du 7 avril 2000 - art. 4 (V)
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: CODE DES COMMUNES. - art. R233-68 (Ab)
+
+
+###### Article R*233-58
+
+Sera puni de la peine d'amende prévue pour les contraventions de la 2e classe tout logeur, loueur, hôtelier, propriétaire ou
+autre intermédiaire visé aux articles R. 233-49 (alinéa 1er) et R. 233-50 (alinéa 1er) qui n'aura pas perçu la taxe de séjour
+sur un assujetti ou qui n'aura pas respecté l'une des prescriptions relatives à la tenue de l'état définie à l'article R.
+233-49 (alinéa 2).
+
+Sera punie des mêmes peines toute personne visée à l'article R. 233-50 qui n'aura pas fait dans le délai la déclaration
+exigée du loueur.
+
+Sera puni des peines d'amende prévues pour les contraventions de 3e classe tout logeur, loueur, hôtelier, propriétaire ou
+autre intermédiaire visé aux articles R. 233-49 (alinéa 1er) et R. 233-50 (alinéa 1er) qui n'aura pas, dans les délais,
+déposé la déclaration prévue à l'article R. 233-53 (alinéa 2) ou qui aura établi une déclaration inexacte ou incomplète
+[*infractions, sanctions*].
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°1920-05-04 art. 15 remplacé
+
+	**Codifié par**:
+
+	  - Décret n°77-91 1977-01-27
+
+	**Modifié par**:
+
+	  - Décret n°88-630 1988-05-06 art. 1, 9, 15 jorf 8 mai 1988
+
+	**Abrogé par**:
+
+	  - Décret n°2000-318 du 7 avril 2000 - art. 4 (V)
+
+	**Cite**:
+
+	  - CODE DES COMMUNES. - art. R233-49 (M)
+	  - CODE DES COMMUNES. - art. R233-50 (M)
+	  - Code des communes R233-49, R233-50, R233-53
+
+
+###### Article R233-45
+
+Le tarif de la taxe de séjour [*publicité*] est affiché chez les logeurs propriétaires ou autres intermédiaires chargés de
+percevoir la taxe de séjour et tenu à la mairie à la disposition de toute personne qui désire en prendre connaissance.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°77-91 1977-01-27
+
+	**Modifié par**:
+
+	  - Décret n°88-630 1988-05-06 art. 1, 7, 8 jorf 8 mai 1988
+
+	**Abrogé par**:
+
+	  - Décret n°2000-318 du 7 avril 2000 - art. 4 (V)
+
+	**Nouveaux textes**:
+
+	  - Code général des collectivités territoriales - art. R2333-46 (M)
+
+	**Anciens textes**:
+
+	  - Décret  1920-05-04 art. 6
+
+
+###### Article R233-49
+
+Lorsque les logeurs, hôteliers, propriétaires ou autres intermédiaires reçoivent le montant des loyers qui leur sont dus, ils
+perçoivent la taxe de séjour sur les assujettis définis à l'article L 233-31.
+
+Le nombre de personnes ayant logé dans l'établissement, le nombre de jours passés, le montant de la taxe perçue ainsi que, le
+cas échéant, les motifs d'exonération ou de réduction de cette taxe sont inscrits sur un état à la date et dans l'ordre des
+perceptions effectuées.
+
+La taxe est perçue avant le départ des assujettis alors même que, du consentement du logeur, de l'hôtelier, du propriétaire
+ou du principal locataire, le paiement du loyer est différé.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°77-91 1977-01-27
+
+	**Modifié par**:
+
+	  - Décret n°88-630 1988-05-06 art. 1, 9, 10 jorf 8 mai 1988
+
+	**Abrogé par**:
+
+	  - Décret n°2000-318 du 7 avril 2000 - art. 4 (V)
+
+	**Cite**:
+
+	  - CODE DES COMMUNES. - art. L233-1 (M)
+
+	**Cité par**:
+
+	  - CODE DES COMMUNES. - art. R*233-53 (Ab)
+	  - CODE DES COMMUNES. - art. R*233-58 (Ab)
+	  - CODE DES COMMUNES. - art. R233-50 (Ab)
+	  - CODE DES COMMUNES. - art. R233-55 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code du travail - art. R4313-72 (VT)
+	  - Code général des collectivités territoriales - art. R2333-50 (M)
+
+	**Anciens textes**:
+
+	  - Décret  1920-05-04 art. 7 remplacé
+
+
+###### Article R233-50
+
+Les personnes qui louent au cours de la période de perception définie à l'article L. 233-32, tout ou partie de leur
+habitation personnelle à toute personne assujettie définie à l'article L. 233-31, en font la déclaration à la mairie dans les
+quinze jours qui suivent le début de la location[*délai*].
+
+Les dispositions de l'article R. 233-49 leur sont applicables.
+
+La déclaration est rédigée en double exemplaire. La date de réception à la mairie est portée sur l'exemplaire restitué au
+déclarant.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°77-91 1977-01-27
+
+	**Modifié par**:
+
+	  - Décret n°88-630 1988-05-06 art. 1, 9 11 jorf 8 mai 1988
+
+	**Abrogé par**:
+
+	  - Décret n°2000-318 du 7 avril 2000 - art. 4 (V)
+
+	**Cite**:
+
+	  - CODE DES COMMUNES. - art. L233-31 (M)
+	  - CODE DES COMMUNES. - art. L233-32 (M)
+	  - CODE DES COMMUNES. - art. R233-49 (M)
+
+	**Cité par**:
+
+	  - CODE DES COMMUNES. - art. R*233-58 (Ab)
+	  - CODE DES COMMUNES. - art. R233-55 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code général des collectivités territoriales - art. R2333-51 (M)
+
+	**Anciens textes**:
+
+	  - Décret  1920-05-04 art. 8
+
+
+###### Article R233-52
+
+En cas de départ furtif d'un assujetti, la responsabilité des personnes désignées aux articles R. 233-49 et R. 233-50
+[*hôteliers et autres logeurs*] ne peut être dégagée que si elles ont avisé aussitôt le maire et déposé entre ses mains une
+demande en exonération adressée au juge du tribunal d'instance [*formalités*].
+
+Le maire [*attributions*] transmet cette demande dans les vingt-quatre heures [**]délai[**] au juge du tribunal d'instance,
+lequel statue sans frais.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°77-91 1977-01-27
+
+	**Modifié par**:
+
+	  - Décret n°88-630 1988-05-06 art. 1, 9 jorf 8 mai 1988
+
+	**Abrogé par**:
+
+	  - Décret n°2000-318 du 7 avril 2000 - art. 4 (V)
+
+	**Cite**:
+
+	  - Code des communes R233-49 et R233-50
+
+	**Nouveaux textes**:
+
+	  - Code général des collectivités territoriales - art. R2333-52 (M)
+
+	**Anciens textes**:
+
+	  - Décret  1920-05-04 art. 10
+
+
+###### Article R233-55
+
+Le maire et les agents commissionnés par lui procèdent à la vérification de l'état dont la tenue est prévue par les articles
+R. 233-49 et R. 233-50.
+
+A cette fin, ils peuvent demander aux logeurs et hôteliers la communication des pièces et documents comptables s'y
+rapportant.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CODE DES COMMUNES. - art. R233-49 (M)
+	  - CODE DES COMMUNES. - art. R233-50 (M)
+
+	**Nouveaux textes**:
+
+	  - Code général des collectivités territoriales - art. R2333-55 (M)
+
+	**Anciens textes**:
+
+	  - Décret n°1920-05-04 art. 12 al. 1
+
+	**Codifié par**:
+
+	  - Décret n°77-91 1977-01-27
+
+	**Modifié par**:
+
+	  - Décret n°88-630 1988-05-06 art. 1, 9, 14 jorf 8 mai 1988
+
+	**Abrogé par**:
+
+	  - Décret n°2000-318 du 7 avril 2000 - art. 4 (V)
+
+
+###### Article R233-59-1
+
+Tout retard dans le versement du produit de la taxe dans les conditions prévues par les articles R. 233-53 et R. 233-54 donne
+lieu à l'application d'un intérêt de retard [*taux*] égal à 0,75 p. 100 par mois de retard.
+
+Cette indemnité de retard donne lieu à l'émission d'un titre de recettes adressé par le maire au receveur municipal.
+
+En cas de non-paiement, les poursuites sont effectuées comme en matière de contributions directes.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°77-91 1977-01-27
+
+	**Créé par**:
+
+	  - décret 88-630 1988-05-06 art. 1, 16 jorf 8 mai 1988
+
+	**Abrogé par**:
+
+	  - Décret n°2000-318 du 7 avril 2000 - art. 4 (V)
+
+	**Cite**:
+
+	  - Code des communes R233-53, R233-54
+
+	**Nouveaux textes**:
+
+	  - Code général des collectivités territoriales - art. R2333-56 (V)
+
+
+##### PARAGRAPHE 3 : Taxe de séjour forfaitaire.
+
+###### Article R233-60
+
+Les tarifs de la taxe de séjour forfaitaire sont fixés par la commune conformément au barème suivant :
+
+" Hôtels de tourisme 4 étoiles et 4 étoiles luxe, meublés hors classe et tous autres établissements de caractéristiques
+équivalentes : entre 4 et 7 F par nuitée et par unité de capacité d'accueil ;
+
+" Hôtels de tourisme 3 étoiles, meublés de 1re catégorie et tous autres établissements de caractéristiques équivalentes :
+entre 3 et 6 F par nuitée et par unité de capacité d'accueil ;
+
+" Hôtels de tourisme 2 étoiles, meublés de 2e catégorie, villages de vacances et catégorie grand confort et tous autres
+établissements de caractéristiques équivalentes : entre 2 et 5 F par nuitée et par unité de capacité d'accueil ;
+
+" Hôtels de tourisme 1 étoile, meublés de 3e catégorie, villages de vacances de catégorie confort et tous autres
+établissements de caractéristiques équivalentes : entre 1 et 4 F par nuitée et par unité de capacité d'accueil ;
+
+" Hôtels de tourisme classés sans étoile, meublés de 4e catégorie, parcs résidentiels de loisirs et tous autres
+établissements de caractéristiques équivalentes : entre 1 et 2 F par nuitée et par unité de capacité d'accueil ;
+
+" Terrains de camping et de caravanage, ports de plaisance et tous autres établissements de caractéristiques équivalentes : 1
+F par nuitée et par unité de capacité d'accueil.
+
+" En aucun cas le tarif retenu par la commune pour une des catégories d'hébergement prévues par le barème ne peut excéder le
+tarif retenu pour une catégorie d'hébergement supérieur.
+
+" Les tarifs ainsi définis ne comprennent pas la taxe additionnelle départementale prévue par l'article 108 de la loi du 26
+mars 1927 lorsqu'elle est instituée. "
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°77-91 1977-01-27
+
+	**Cité par**:
+
+	  - Arrêté du 28 décembre 1976 - art. 12 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code général des collectivités territoriales - art. R2333-60 (Ab)
+
+	**Cite**:
+
+	  - Loi n°1927-03-26 art. 108
+
+	**Modifié par**:
+
+	  - Loi n°88-630 1988-05-06 art. 1, 17, 18 jorf 8 mai 1988
+
+
+###### Article R233-60-1
+
+Pour l'application de l'article L. 233-44-2, le nombre d'unités de capacité d'accueil de chaque établissement correspond au
+nombre de personnes que celui-ci est susceptible d'héberger.
+
+" Lorsque l'établissement donnant lieu à versement de la taxe fait l'objet d'un classement, le nombre de personnes prévu au
+premier alinéa correspond à celui prévu par l'arrêté de classement.
+
+" Lorsque l'arrêté de classement fait référence à des lits, chaque lit est compté comme une unité de capacité d'accueil. "
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°77-91 1977-01-27
+
+	**Cite**:
+
+	  - CODE DES COMMUNES. - art. L233-44-2 (Ab)
+
+	**Cité par**:
+
+	  - CODE DES COMMUNES. - art. R233-60-3 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code général des collectivités territoriales - art. R2333-59 (Ab)
+
+	**Créé par**:
+
+	  - Loi n°88-630 1988-05-06 art. 1, 17, 18 jorf 8 mai 1988
+
+
+###### Article R233-60-2
+
+Le montant de la taxe due par chaque redevable est égal au produit des éléments suivants :
+
+" 1° Le nombre d'unités de capacité d'accueil de l'établissement donnant lieu à versement de la taxe.
+
+" Ce nombre d'unités fait l'objet d'un abattement de 10 p. 100. Cet abattement est porté à 20 p. 100 lorsque le nombre de
+nuitées comprises à la fois dans la période d'ouverture de l'établissement et la période de perception définie à l'article L.
+233-32 est supérieur à soixante et inférieur ou égal à cent cinq et à 30 p. 100 lorsque ce nombre de nuitées est supérieur à
+cent cinq.
+
+" 2° Le tarif communal établi conformément aux dispositions de l'article L. 233-60.
+
+" 3° Le nombre de nuitées comprises à la fois dans la période d'ouverture de l'établissement et la période de perception de
+la commune. "
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°77-91 1977-01-27
+
+	**Cite**:
+
+	  - CODE DES COMMUNES. - art. L233-32 (M)
+	  - Code des communes L233-32, L232-60
+
+	**Nouveaux textes**:
+
+	  - Code général des collectivités territoriales - art. R2333-61 (Ab)
+
+	**Créé par**:
+
+	  - Loi n°88-630 1988-05-06 art. 1,17, 18 jorf 8 mai 1988
+
+
+###### Article R233-60-3
+
+Les redevables de la Taxe de séjour forfaitaire sont tenus de faire une déclaration à la mairie au plus tard un mois avant
+chaque période de perception [*délai*].
+
+Sur cette déclaration figurent obligatoirement :[*contenu*]
+
+1° La nature de l'hébergement ;
+
+2° La période d'ouverture ou de mise en location ;
+
+3° La capacité d'accueil de l'établissement, déterminée en nombre d'unités conformément aux dispositions de l'article R.
+233-60-1..
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°77-91 1977-01-27
+
+	**Abrogé par**:
+
+	  - Décret n°2000-318 du 7 avril 2000 - art. 4 (V)
+
+	**Cite**:
+
+	  - CODE DES COMMUNES. - art. R233-60-1 (M)
+
+	**Cité par**:
+
+	  - CODE DES COMMUNES. - art. R233-60-7 (Ab)
+	  - CODE DES COMMUNES. - art. R233-60-9 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code général des collectivités territoriales - art. R2333-62 (Ab)
+
+	**Créé par**:
+
+	  - Loi n°88-630 1988-05-06 art. 1, 17, 18 jorf 8 mai 1988
+
+
+###### Article R233-60-4
+
+Les personnes qui louent au cours de la période de perception de la taxe tout ou partie de leur habitation personnelle à
+toute personne visée à l'article L. 233-31 en font la déclaration à la mairie dans les quinze jours qui suivent le début de
+la location [*délai*].
+
+Cette déclaration [*contenu*] doit comporter les mêmes indications que celle prévue à l'article R. 233-60-3.
+
+La déclaration mentionnée à l'article R. 233-60-3 et au présent article est rédigée en double exemplaire. La date de
+réception par la mairie est portée sur l'exemplaire restitué au déclarant.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°77-91 1977-01-27
+
+	**Abrogé par**:
+
+	  - Décret n°2000-318 du 7 avril 2000 - art. 4 (V)
+
+	**Cite**:
+
+	  - CODE DES COMMUNES. - art. L233-31 (M)
+	  - CODE DES COMMUNES. - art. L233-60 (Ab)
+
+	**Cité par**:
+
+	  - CODE DES COMMUNES. - art. R233-60-10 (Ab)
+	  - CODE DES COMMUNES. - art. R233-60-7 (Ab)
+	  - CODE DES COMMUNES. - art. R233-60-9 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code général des collectivités territoriales - art. R2333-63 (Ab)
+
+	**Créé par**:
+
+	  - Loi n°88-630 1988-05-06 art. 1, 17, 18 jorf 8 mai 1988
+
+
+###### Article R233-60-5
+
+Pour chaque période de perception, le montant de la taxe due par chaque redevable fait l'objet d'un titre de recettes adressé
+par le maire au receveur municipal.
+
+La taxe est versée au receveur municipal dans les vingt jours qui suivent la fin de période de perception mentionnée à
+l'article L. 233-32.
+
+Le comptable procède à l'encaissement de la taxe et en donne quittance.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°77-91 1977-01-27
+
+	**Abrogé par**:
+
+	  - Décret n°2000-318 du 7 avril 2000 - art. 4 (V)
+
+	**Cite**:
+
+	  - CODE DES COMMUNES. - art. L233-32 (M)
+
+	**Cité par**:
+
+	  - CODE DES COMMUNES. - art. R233-60-10 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code général des collectivités territoriales - art. R2333-64 (Ab)
+
+	**Créé par**:
+
+	  - Loi n°88-630 1988-05-06 art. 1, 17, 18 jorf 8 mai 1988
+
+
+###### Article R233-60-6
+
+Lorsqu'en application de l'article L. 233-44-5 la taxe de séjour forfaitaire donne lieu au versement d'un acompte, le maire
+adresse au receveur municipal un titre de recettes au nom de chaque redevable.
+
+Le versement de l'acompte est effectué auprès du receveur municipal [*délai*] dans les vingt jours qui suivent la
+notification au redevable du montant de la taxe.
+
+L'acompte n'est toutefois pas exigible avant le début de la période de perception mentionnée à l'article L. 233-32 ni avant
+la fin du premier mois d'ouverture de l'établissement soumis à la taxe de séjour forfaitaire.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°77-91 1977-01-27
+
+	**Abrogé par**:
+
+	  - Décret n°2000-318 du 7 avril 2000 - art. 4 (V)
+
+	**Cite**:
+
+	  - CODE DES COMMUNES. - art. L233-32 (M)
+	  - CODE DES COMMUNES. - art. L233-44-5 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code général des collectivités territoriales - art. R2333-65 (Ab)
+
+	**Créé par**:
+
+	  - Loi n°88-630 1988-05-06 art. 1, 17, 18 jorf 8 mai 1988
+
+
+###### Article R233-60-7
+
+Le maire et les agents commissionnés par lui procèdent à la vérification des déclarations prévues aux articles R. 233-60-3 et
+R. 233-60-4.
+
+A cette fin, il peut demander aux logeurs et hôteliers la communication des pièces comptables s'y rapportant.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°77-91 1977-01-27
+
+	**Abrogé par**:
+
+	  - Décret n°2000-318 du 7 avril 2000 - art. 4 (V)
+
+	**Cite**:
+
+	  - CODE DES COMMUNES. - art. R233-60-3 (Ab)
+	  - CODE DES COMMUNES. - art. R233-60-4 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code général des collectivités territoriales - art. R2333-66 (Ab)
+
+	**Créé par**:
+
+	  - Loi n°88-630 1988-05-06 art. 1, 17, 18 jorf 8 mai 1988
+
+
+###### Article R233-60-8
+
+Tout redevable qui conteste le montant de la taxe qui lui est notifié acquitte néanmoins le montant de la taxe contestée,
+sauf à en obtenir le remboursement après qu'il a été statué sur sa réclamation par le maire.
+
+Ces réclamations sont portées, quel que soit le montant de la taxe, devant le tribunal d'instance dans le ressort duquel se
+trouve la commune intéressée et sont jugées sans frais[*juridiction compétente*].
+
+Toutefois, au préalable, le redevable peut adresser la réclamation au maire qui, le cas échéant, décide du remboursement.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°77-91 1977-01-27
+
+	**Abrogé par**:
+
+	  - Décret n°2000-318 du 7 avril 2000 - art. 4 (V)
+
+	**Nouveaux textes**:
+
+	  - Code général des collectivités territoriales - art. R2333-67 (V)
+
+	**Créé par**:
+
+	  - Loi n°88-630 1988-05-06 art. 1, 17, 18 jorf 8 mai 1988
+
+
+###### Article R233-60-9
+
+Sera puni de la peine d'amende prévue pour les contraventions de la cinquième classe tout logeur, loueur, hôtelier,
+propriétaire ou autre assujetti visé aux articles R. 233-60-3 (alinéa 1er) et R. 233-60-4 (alinéa 1er) soumis à la taxe de
+séjour forfaitaire qui n'aura pas effectué dans les délais la déclaration prévue aux articles R. 233-60-3 ou R. 233-60-4 ou
+qui aura fait une déclaration inexacte ou incomplète [*infraction, sanction*].
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°77-91 1977-01-27
+
+	**Abrogé par**:
+
+	  - Décret n°2000-318 du 7 avril 2000 - art. 4 (V)
+
+	**Cite**:
+
+	  - CODE DES COMMUNES. - art. R233-60-3 (Ab)
+	  - CODE DES COMMUNES. - art. R233-60-4 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code général des collectivités territoriales - art. R2333-68 (Ab)
+
+	**Créé par**:
+
+	  - Loi n°88-630 1988-05-06 art. 1, 17, 18 jorf 8 mai 1988
+
+
+###### Article R233-60-10
+
+Tout retard dans le versement du produit de la taxe dans les conditions prévues par les articles R. 233-60-4 et R. 233-60-5
+donne lieu à l'application d'un intérêt égal à 0,75 p. 100 par mois de retard.
+
+Cette indemnité de retard donne lieu à l'émission d'un titre de recettes adressé par le maire au receveur municipal.
+
+En cas de non-paiement, les poursuites sont effectuées comme en matière de contributions directes.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°77-91 1977-01-27
+
+	**Abrogé par**:
+
+	  - Décret n°2000-318 du 7 avril 2000 - art. 4 (V)
+
+	**Cite**:
+
+	  - CODE DES COMMUNES. - art. R233-60-4 (Ab)
+	  - CODE DES COMMUNES. - art. R233-60-5 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code général des collectivités territoriales - art. R2333-69 (V)
+
+	**Créé par**:
+
+	  - Loi n°88-630 1988-05-06 art. 1, 17, 18 jorf 8 mai 1988
+
+
 ##### SOUS-SECTION 3 : Prélèvement progressif sur le produit des jeux dans les casinos.
 
 ###### Article R233-70
@@ -49896,6 +50912,295 @@ que les frais de déplacement des membres élus non parlementaires sont à la ch
 	  - TXT_ASSOCIE: Loi n°79-15 du 3 janvier 1979 - art. 27 (V)
 	  - SPEC_APPLI: Loi n°80-1102 1980-12-31 : *Ces dispositions ne sont applicables que jusqu'au 1er janvier 1986*
 	  - SPEC_APPLI: Code des communes R262-1, R262-12 : *Dispositions non applicables aux communes des départements de la Guadeloupe, de la Martinique, de la Guyane, de la Réunion et de Saint-Pierre-et-Miquelon*
+
+
+##### SOUS-SECTION 2 : Dotation supplémentaire versée aux communes touristiques ou thermales et à leurs groupements.
+
+###### Article R*234-19
+
+La liste annuelle des communes et groupements de communes touristiques ou thermaux prévue au I de l'article L. 234-13 du code
+des communes est dressée par arrêté conjoint du ministre chargé des collectivités locales, du ministre chargé du budget et du
+ministre chargé du tourisme.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°77-91 1977-01-27
+
+	**Modifié par**:
+
+	  - Décret n°88-625 du 6 mai 1988 - art. 1 ()
+
+	**Cite**:
+
+	  - CODE DES COMMUNES. - art. L234-13 (M)
+
+
+###### Article R*234-20
+
+---Figurent sur la liste annuelle des communes touristiques ou thermales les communes justifiant d'une capacité d'accueil
+pondérée totale au moins égale aux chiffres indiqués dans la colonne (1) du tableau ci-dessous et pour lesquelles le rapport
+entre cette capacité et la population permanente est au moins égal aux chiffres indiqués dans la colonne (2) du même tableau.
+
+<table>
+  <tbody><tr>
+    <td> :-----------------------------:</td>
+  </tr>
+  <tr>
+    <td> : CAPACITE  :     RAPPORT     :</td>
+  </tr>
+  <tr>
+    <td> : d'accueil :    entre la     :</td>
+  </tr>
+  <tr>
+    <td> : pondérée  :    capacité     :</td>
+  </tr>
+  <tr>
+    <td> :  totale   :    d'accueil    :</td>
+  </tr>
+  <tr>
+    <td> :           : pondérée totale :</td>
+  </tr>
+  <tr>
+    <td> :           :     et la       :</td>
+  </tr>
+  <tr>
+    <td> :           :   population    :</td>
+  </tr>
+  <tr>
+    <td> :           :   permanente    :</td>
+  </tr>
+  <tr>
+    <td> :    (1)    :      (2)        :</td>
+  </tr>
+  <tr>
+    <td> :-----------:-----------------:</td>
+  </tr>
+  <tr>
+    <td> :    700    :      0,5        :</td>
+  </tr>
+  <tr>
+    <td> :  1.000    :      0,3        :</td>
+  </tr>
+  <tr>
+    <td> :  3.000    :      0,250      :</td>
+  </tr>
+  <tr>
+    <td> :  7.000    :      0,225      :</td>
+  </tr>
+  <tr>
+    <td> : 14.000    :      0,20       :</td>
+  </tr>
+  <tr>
+    <td> : 30.000    :      0,185      :</td>
+  </tr>
+  <tr>
+    <td> :                             :</td>
+  </tr>
+</tbody></table>
+
+" Ne peuvent figurer sur la liste les communes dont la capacité d'accueil est principalement liée à l'existence d'un aéroport
+situé sur leur territoire, même partiellement, ou sur le territoire d'une commune limitrophe.
+
+" Pour l'application du présent article le chiffre de la population permanente est le chiffre de la population municipale,
+tel qu'il résulte du dernier recensement général ou complémentaire.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°77-91 1977-01-27
+
+	**Modifié par**:
+
+	  - Décret n°88-625 du 6 mai 1988 - art. 1 ()
+
+
+###### Article R*234-21
+
+La capacité d'accueil pondérée totale [*calcul*] s'obtient en ajoutant à la capacité d'accueil pondérée existante le dixième
+de la capacité d'accueil pondérée en voie de création.
+
+" La capacité d'accueil existante est arrêtée chaque année par le préfet de département. Elle est constatée au 1er janvier de
+l'année précédant celle de la répartition.
+
+" La capacité d'accueil existante pondérée est obtenue en totalisant les chiffres résultant des produits suivants :
+
+" Nombre de chambres dans les hôtels et nombre de lits dans les résidences de tourisme classés, conformément au décret n°
+66-371 du 13 juin 1966, dans les catégories 4 étoiles luxe et 4 étoiles, affectés respectivement des coefficients 6 et 3 ;
+
+" Nombre de chambres dans les hôtels et nombre de lits dans les résidences de tourisme classés, conformément au décret n°
+66-371 du 13 juin 1966, dans les autres catégories, affectés respectivement des coefficients 4 et 2 ;
+
+" Nombre de chambres dans les hôtels non homologués tourisme, mentionnés par le décret n° 66-371 du 13 juin 1966, affecté du
+coefficient 2 ;
+
+" Nombre de places dans les villages de vacances classés, conformément au décret n° 68-476 du 25 mai 1968 modifié et dans les
+maisons familiales de vacances agréées, affecté du coefficient 2 ;
+
+" Nombre d'emplacements dans les terrains aménagés pour l'accueil des campeurs et des caravanes classés, conformément aux
+articles R. 443-8 à R. 443-8-3 du code de l'urbanisme, 4 étoiles et 4 étoiles grand confort et nombre d'emplacements dans les
+parcs résidentiels de loisirs sous régime hôtelier classés, conformément à l'article R. 444-4 du code de l'urbanisme,
+affectés du coefficient 4 ;
+
+" Nombre d'emplacements dans les terrains aménagés pour l'accueil des campeurs et des caravanes, classés dans les autres
+catégories, affecté du coefficient 3 ;
+
+" Nombre de personnes pouvant être hébergées dans les logements meublés classés meublés de tourisme et gîtes de France dans
+les conditions prévues à l'article 58 de la loi n° 65-997 du 29 novembre 1965, affecté du coefficient 2 ;
+
+" Nombre de pièces dans les logements meublés loués à une population non résidente à titre principal et imposables à la taxe
+professionnelle, affecté du coefficient 1 ;
+
+" Nombre de places dans les hôpitaux thermaux, dans les maisons d'enfants à caractère sanitaire spécialisées pour cures
+thermales et dans les centres de thalassothérapie, affecté du coefficient 1,5 ;
+
+" Nombre de places d'hébergement collectif dans les établissements publics ou privés, à caractère climatique ou touristique,
+tels que sanatoriums, colonies de vacances, auberges de jeunesse et centres de vacances, affecté du coefficient 1.
+
+" La capacité d'accueil en voie de création est arrêtée dans les mêmes conditions que la capacité d'accueil existante, sur la
+base des déclarations d'ouverture de chantier. Toutefois, les logements meublés mentionnés ci-dessus ne peuvent être pris en
+compte au titre de la capacité d'accueil en voie de création.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°65-997 du 29 novembre 1965 - art. 58, v. init.
+	  - Décret n°66-371 1966-06-13
+	  - Décret n°68-476 1968-05-25
+	  - Code de l'urbanisme - art. R443-8 (M)
+	  - Code de l'urbanisme R443-8, R443-8-3, R444-4
+
+	**Codifié par**:
+
+	  - Décret n°77-91 1977-01-27
+
+	**Modifié par**:
+
+	  - Décret n°88-625 du 6 mai 1988 - art. 1 ()
+
+
+###### Article R*234-22
+
+La dotation revenant aux communes touristiques ou thermales est répartie :
+
+" a) Pour 50 p. 100 de son montant, proportionnellement à la capacité d'accueil pondérée existante et en voie de création ;
+
+" b) Pour 30 p. 100 de son montant, proportionnellement à la capacité d'accueil pondérée existante et en voie de création,
+majorée ou minorée proportionnellement au rapport entre la charge nette par habitant de la commune concernée et la charge
+nette moyenne par habitant de l'ensemble des communes de même importance démographique ;
+
+" c) Pour 15 p. 100 de son montant, proportionnellement au produit de la taxe de séjour et de la taxe de séjour forfaitaire
+perçu sur son territoire au titre du dernier exercice connu ;
+
+" d) Pour 5 p. 100 de son montant, proportionnellement à la capacité d'accueil pondérée existante et en voie de création,
+majorée ou minorée proportionnellement à l'écart relatif entre le potentiel fiscal moyen par habitant des communes de même
+importance démographique que la commune concernée et le potentiel fiscal par habitant de cette commune.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°77-91 1977-01-27
+
+	**Modifié par**:
+
+	  - Décret n°88-625 du 6 mai 1988 - art. 1 ()
+
+
+###### Article R*234-23
+
+Pour l'application des b et d de l'article R. 234-22, les communes sont réparties dans les groupes démographiques suivants :
+
+------0 à    699 habitants ;
+
+----700 à  1 999 habitants ;
+
+--2 000 à  4 999 habitants ;
+
+--5 000 à 19 999 habitants ;
+
+- 20 000 à 49 999 habitants ;
+
+- 50 000 à 99 999 habitants ;
+
+100 000 et plus.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°77-91 1977-01-27
+
+	**Modifié par**:
+
+	  - Décret n°88-625 du 6 mai 1988 - art. 1 ()
+
+	**Cite**:
+
+	  - Code des communes R234-22
+
+
+###### Article R*234-24
+
+La charge nette mentionnée au b de l'article R. 234-22 est déterminée à partir du dernier compte administratif connu de la
+commune. Elle est égale au montant des dépenses directes de la section de fonctionnement, diminué du montant des produits de
+l'exploitation, des produits domaniaux, de la part des produits financiers correspondant aux services exploités en régie,
+concédés ou affermés, et des recettes perçues au titre de la taxe de séjour et de la taxe de séjour forfaitaire, de la taxe
+sur les remontées mécaniques et de la taxe sur les jeux.
+
+Lorsqu'une commune appartient à un groupement de communes bénéficiaire de la dotation supplémentaire, sa charge nette est
+majorée d'une quote-part de la charge nette du groupement, proportionnelle au montant de sa participation aux charges du
+groupement au titre de l'exercice considéré.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°77-91 1977-01-27
+
+	**Modifié par**:
+
+	  - Décret n°88-625 du 6 mai 1988 - art. 1 ()
+
+	**Cite**:
+
+	  - Code des communes R234-22
+
+
+###### Article R*234-25
+
+Les syndicats intercommunaux, les districts et les communes groupées au sein d'un syndicat mixte sont, sur leur demande,
+considérés comme une seule entité pour l'application des articles R. 234-20 et R. 234-21 et inscrits sur la liste annuelle
+mentionnée à l'article R. 234-19 lorsque l'aménagement touristique constitue la vocation principale de ces groupements.
+
+" La dotation supplémentaire est calculée commune par commune. Elle est versée directement au budget du syndicat, du
+district, ou du budget de chaque commune dans le cas de communes groupées au sein d'un syndicat mixte.
+
+" Lorsqu'une commune fait partie d'un groupement de communes bénéficiaire de la dotation supplémentaire et qui a institué la
+taxe de séjour ou la taxe de séjour forfaitaire, le produit de cette taxe, pris en compte pour le calcul de la dotation
+supplémentaire, est réparti entre les communes membres proportionnellement à leur capacité d'accueil pondérée existante.
+
+" La capacité d'accueil d'une commune faisant partie de plusieurs groupements dont l'aménagement touristique constitue la
+vocation principale ne peut être prise en compte pour l'application des dispositions du présent article que pour un seul de
+ces groupements. Le choix de ce groupement par la commune est notifié au préfet lors du recensement annuel des capacités
+d'accueil. "
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°77-91 1977-01-27
+
+	**Modifié par**:
+
+	  - Décret n°88-625 du 6 mai 1988 - art. 1 ()
+
+	**Cite**:
+
+	  - Code des communes 234-19, 234-20, 234-21
 
 
 ##### SOUS-SECTION 3 : Répartition d'une part des amendes relatives à la circulation routière.
@@ -58082,441 +59387,6 @@ conditions de forme*].
 
 ## FINANCES COMMUNALES
 
-### RECETTES
-
-#### Dotation globale de fonctionnement et autres recettes réparties par le comité des finances locales
-
-##### Recettes réparties par le comité des finances locales
-
-##### Dotation supplémentaire versée aux communes touristiques ou thermales et à leurs groupements
-
-###### Article R*234-19
-
-La liste annuelle des communes touristiques ou thermales et de leurs groupements, prévue à l'article L. 234-14, est dressée
-par arrêté du ministre de l'Intérieur, du ministre du Budget et du ministre chargé du Tourisme.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°77-91 1977-01-27
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°80-1102 1980-12-31 : *Ces dispositions ne sont applicables que jusqu'au 1er janvier 1986*
-	  - SPEC_APPLI: Code des communes R262-1, R262-12 : *Dispositions non applicables aux communes des départements de la Guadeloupe, de la Martinique, de la Guyane, de la Réunion et de Saint-Pierre-et-Miquelon*
-
-
-###### Article R*234-25
-
-Pour l'application du dernier alinéa de l'article L. 234-14, outre les stations classées en application de l'article L.
-141-3, sont considérées comme stations thermales les communes possédant sur leur territoire un établissement thermal
-[*définition*].
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°77-91 1977-01-27
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°80-1102 1980-12-31 : *Ces dispositions ne sont applicables que jusqu'au 1er janvier 1986*
-	  - SPEC_APPLI: Code des communes R262-1, R262-12 : *Dispositions non applicables aux communes des départements de la Guadeloupe, de la Martinique, de la Guyane, de la Réunion et de Saint-Pierre-et-Miquelon*
-
-
-###### Article R*234-27
-
-Les syndicats intercommunaux, les districts et les communes appartenant à un syndicat mixte dont l'un des objets est
-l'aménagement touristique de tout ou partie de leur territoire sont, sur leur demande, considérés comme une seule entité pour
-l'application des articles R. 234-20 à R. 234-25 et R. 234-28 à R. 234-30   . 
-
-La dotation supplémentaire est calculée commune par commune et versée directement au budget du syndicat ou du district.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°77-91 1977-01-27
-
-	**Modifié par**:
-
-	  - Décret n°80-16 1980-01-10 jorf 13 janvier 1980
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°80-1102 1980-12-31 : *Ces dispositions ne sont applicables que jusqu'au 1er janvier 1986*
-	  - SPEC_APPLI: Code des communes R262-1, R262-12 : *Dispositions non applicables aux communes des départements de la Guadeloupe, de la Martinique, de la Guyane, de la Réunion et de Saint-Pierre-et-Miquelon*
-
-	**Abrogé par**:
-
-	  - Décret n°88-625 du 6 mai 1988 - art. 3 (Ab)
-
-
-###### Article R*234-28
-
-Les communes qui, dans le cadre des dispositions applicables au versement représentatif de la taxe sur les salaires,
-figuraient, au 31 décembre 1978 [*date*], depuis moins de neuf ans sur la liste des nouvelles stations touristiques ou
-stations, continuent de bénéficier d'une dotation particulière jusqu'à l'expiration du délai de neuf ans.
-
-A cette fin, elles font l'objet d'une inscription spéciale sur la liste annuelle prévue à l'article L. 234-14.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°77-91 1977-01-27
-
-	**Liens**:
-
-	  - TXT_SOURCE: Décret n°77-91 1977-01-27
-	  - SPEC_APPLI: Loi n°80-1102 1980-12-31 : *Ces dispositions ne sont applicables que jusqu'au 1er janvier 1986*
-	  - SPEC_APPLI: Code des communes R262-1, R262-12 : *Dispositions non applicables aux communes des départements de la Guadeloupe, de la Martinique, de la Guyane, de la Réunion et de Saint-Pierre-et-Miquelon*
-
-	**Modifié par**:
-
-	  - Décret n°80-16 1980-01-10 jorf 13 janvier 1980
-
-	**Abrogé par**:
-
-	  - Décret n°88-625 du 6 mai 1988 - art. 3 (Ab)
-
-
-###### Article R*234-29
-
-La dotation revenant en 1979 à l'ensemble des communes mentionnées à l'article R. 234-28 est égale au montant des sommes
-qu'elles ont reçues, à ce titre en 1978, affecté du taux d'évolution de la dotation supplémentaire versée aux communes
-touristiques ou thermales.
-
-Pour chacune des années suivantes, elle sera d'abord réduite de la part versée la dernière année aux stations touristiques ou
-thermales dont l'inscription spéciale prévue à l'article R. 234-28 est venue à échéance, puis affectée du taux d'évolution
-mentionné au paragraphe précédent.
-
-Cette dotation est répartie entre les communes concernées, et pour chacune d'entre elles, proportionnellement au rapport
-entre la moyenne de ses dépenses d'équipement des trois exercices précédents et son potentiel fiscal par habitant.
-
-**Nota:**
-
-Le décret 80-16 du 10 janvier 1980 a créé un article R239-29 dans la présente sous-section alors que cet article existait
-déjà dans la sous-section III (répartition d'une part des amendes relatives à la circulation routière).
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°77-91 1977-01-27
-
-	**Créé par**:
-
-	  - Décret n°80-16 1980-01-10 jorf 13 janvier 1980
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°80-1102 1980-12-31
-
-	**Abrogé par**:
-
-	  - Décret n°88-625 du 6 mai 1988 - art. 3 (Ab)
-
-
-###### Article R*234-30
-
-Les dépenses d'équipement à prendre en compte pour l'application de l'article précédent sont :
-
-- les prélèvements opérés sur les recettes ordinaires ;
-
-- les intérêts des emprunts ;
-
-- et éventuellement les dotations aux comptes d'amortissement.
-
-**Nota:**
-
-Le décret 80-16 du 10 janvier 1980 a créé un article R239-30 dans la présente sous-section II alors que cet article existait
-déjà dans la sous-section III (répartition d'une part des amendes relatives à la circulation routière).
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°77-91 1977-01-27
-
-	**Créé par**:
-
-	  - Décret n°80-16 1980-01-10 jorf 13 janvier 1980
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°80-1102 1980-12-31
-
-	**Abrogé par**:
-
-	  - Décret n°88-625 du 6 mai 1988 - art. 3 (Ab)
-
-
-###### Article R234-21-1
-
-Un indice pondéré de capacité d'accueil en voie de création obtenu en totalisant les chiffres résultant des produits visés à
-l'article R. 234-21 est calculé chaque année par le commissaire de la République en tenant compte des possibilités
-d'hébergement touristiques en chantier dans la commune au 1er janvier.
-
-**Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - SPEC_APPLI: *Dispositions non applicables aux communes des départements de la Guadeloupe, de la Martinique, de la Guyane, de la Réunion et de Saint-Pierre-et-Miquelon*
-	  - SPEC_APPLI: Code des communes R262-1, R262-12 :
-
-	**Codifié par**:
-
-	  - Décret n°77-91 1977-01-27
-
-	**Abrogé par**:
-
-	  - Décret n°88-625 du 6 mai 1988 - art. 1 () JORF 8 mai 1988
-
-	**Cite**:
-
-	  - Code des communes R234-21
-
-
-##### Dotation supplémentaire versée aux communes touristiques et thermales et à leurs groupements.
-
-###### Article R*234-22
-
-Pour l'application de l'article R. 234-20, le chiffre de la population permanente [*définition*] est le chiffre de la
-population municipale, tel qu'il résulte du dernier recensement général ou complémentaire .
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°77-91 1977-01-27
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°80-1102 1980-12-31 : *Ces dispositions ne sont applicables que jusqu'au 1er janvier 1986*
-	  - SPEC_APPLI: Code des communes R262-1, R262-12 : *Dispositions non applicables aux communes des départements de la Guadeloupe, de la Martinique, de la Guyane, de la Réunion et de Saint-Pierre-et-Miquelon*
-
-
-##### Dotation supplémentaire versée aux communes touristiques ou thermales et à leurs groupements SECTION 1 : Dotation globale de fonctionnement
-
-##### SOUS-SECTION 5 : Comité des finances locales.
-
-###### Article R*234-26
-
-Les communes fusionnées, quelle que soit leur situation au regard des dispositions des articles R. 234-20 à R. 234-25,
-bénéficient d'une garantie de recettes, calculée par référence au montant des dotations supplémentaires perçues en
-application de l'article R. 234-24 par les communes préexistantes, au titre de la dernière répartition effectuée avant la
-date de prise d'effet de la fusion.
-
-Cette garantie de recettes s'applique chaque fois qu'elle assure à la nouvelle commune, issue de la fusion, une dotation
-supérieure à celle qui résulterait pour elle de l'application de l'article R. 234-24. Elle est accordée pour une durée de
-huit ans à compter de la date d'effet de la fusion ou pour le nombre d'années restant à courir dans la limite de ce délai,
-lorsque la fusion a pris effet antérieurement au 1er janvier 1979.
-
-Pendant les cinq premières années [*durée*] qui suivent la date d'effet de la fusion, la garantie est revalorisée chaque
-année dans la même proportion que le montant total des ressources affectées à la dotation supplémentaire versée aux communes
-touristiques ou thermales.
-
-Pour chacune des trois années suivantes, elle est respectivement égale à 75 p. 100, 50 p. 100 et 25 p. 100 du montant qu'elle
-a atteint pour la cinquième année.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°77-91 1977-01-27
-
-	**Modifié par**:
-
-	  - Décret n°80-16 1980-01-10 jorf 13 janvier 1980
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°80-1102 1980-12-31 : *Ces dispositions ne sont applicables que jusqu'au 1er janvier 1986*
-	  - SPEC_APPLI: Code des communes R262-1, R262-12 : *Dispositions non applicables aux communes des départements de la Guadeloupe, de la Martinique, de la Guyane, de la Réunion et de Saint-Pierre-et-Miquelon*
-
-	**Abrogé par**:
-
-	  - Décret n°88-625 du 6 mai 1988 - art. 3 (Ab)
-
-
-#### DOTATION SUPPLEMENTAIRE VERSEE AUX COMMUNES TOURISTIQUES OU THERMALES ET A LEURS GROUPEMENTS.
-
-###### Article R*234-20
-
-Figurent sur la liste annuelle les communes justifiant la fois d'une capacité d'accueil pondérée existante au moins égal aux
-chiffres indiqués dans la colonne 2 du tableau ci-dessous et pour lesquelles le rapport entre cette capacité d'accueil et la
-population permanente est au moins égal aux rapports indiqués dans la colonne 3 du même tableau :
-
-<table>
-  <tbody><tr>
-    <td>:===============================================================:</td>
-  </tr>
-  <tr>
-    <td> :                             : Capacité  : Rapport entre la    :</td>
-  </tr>
-  <tr>
-    <td> :                             : d'accueil : capacité d'accueil  :</td>
-  </tr>
-  <tr>
-    <td> :   Population de la commune  : pondérée  : pondérée existante  :</td>
-  </tr>
-  <tr>
-    <td> :                             : existante : et la population    :</td>
-  </tr>
-  <tr>
-    <td> :             (1)             :   (2)     : permanente          :</td>
-  </tr>
-  <tr>
-    <td> :                             :           :        (3)          :</td>
-  </tr>
-  <tr>
-    <td> :-----------------------------:-----------:---------------------:</td>
-  </tr>
-  <tr>
-    <td> :       0 à  1.999 habitants  :     650   :       1,5           :</td>
-  </tr>
-  <tr>
-    <td> :   2.000 à  4.999 habitants  :   3.000   :       0,8           :</td>
-  </tr>
-  <tr>
-    <td> :   5.000 à 19.999 habitants  :   4.000   :       0,70          :</td>
-  </tr>
-  <tr>
-    <td> :  20.000 à 49.999 habitants  :  14.000   :       0,55          :</td>
-  </tr>
-  <tr>
-    <td> :  50.000 à 99.999 habitants  :  27.500   :       0,30          :</td>
-  </tr>
-  <tr>
-    <td> : 100.000 habitants et plus   :  30.000   :       0,20          :</td>
-  </tr>
-  <tr>
-    <td> :===============================================================:</td>
-  </tr>
-</tbody></table>
-
-Ne peuvent figurer sur la liste les communes dont la capacité d'accueil est principalement liée, à l'existence d'un aéroport
-situé sur leur territoire, même partiellement, ou sur le territoire d'une commune limitrophe.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°77-91 1977-01-27
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°80-1102 1980-12-31 : *Ces dispositions ne sont applicables que jusqu'au 1er janvier 1986*
-	  - SPEC_APPLI: Code des communes R262-1, R262-12 : *Dispositions non applicables aux communes des départements de la Guadeloupe, de la Martinique, de la Guyane, de la Réunion et de Saint-Pierre-et-Miquelon*
-
-
-###### Article R*234-23
-
-Les charges résultant des équipements collectifs touristiques ou thermaux sont appréciées par la charge nette par habitant
-qu'elles représentent dans le budget de chaque commune.
-
-La charge nette [*définition*] est déterminée à partir du dernier compte administratif connu. Elle est égale au montant des
-dépenses réelles de fonctionnement augmenté de celui du remboursement des emprunts et du règlement des dettes à long ou moyen
-terme sans réception de fonds et diminué du montant des produits de l'exploitation et des produits domaniaux.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°77-91 1977-01-27
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°80-1102 1980-12-31 : *Ces dispositions ne sont applicables que jusqu'au 1er janvier 1986*
-	  - SPEC_APPLI: Code des communes R262-1, R262-12 : *Dispositions non applicables aux communes des départements de la Guadeloupe, de la Martinique, de la Guyane, de la Réunion et de Saint-Pierre-et-Miquelon*
-
-
-###### Article R*234-24
-
-La dotation revenant aux communes touristiques ou thermales après prélèvement des sommes affectées aux stations touristiques
-mentionnées à l'article R. 234-28 est divisée en trois parts:
-
-a) La première, égale à 70 p. 100, est répartie proportionnellement au rapport existant entre la capacité d'accueil pondérée
-et la population permanente, et multiplié par le montant des impôts énoncés à l'article L. 234-9. L'attribution ainsi
-calculée est affectée des coefficients suivants    1,25 pour les communes de moins de 2.000 habitants;
-
-1 pour les communes de 2.000 à 99.999 habitants;
-
-0,85 pour les communes de 100.000 habitants et plus.
-
-b) La deuxième part, égale à 20 p. 100, est répartie proportionnellement à la capacité d'accueil pondérée, majorée ou minorée
-par le quart de l'écart relatif entre le potentiel fiscal moyen par habitant de l'ensemble des communes touristiques ou
-thermales, et le potentiel fiscal par habitant de chaque commune bénéficiaire.
-
-c)La troisième part, égale à 10 p. 100, est répartie proportionnellement  à la capacité d'accueil pondérée, majorée ou
-minorée par la moitié de l'écart relatif entre la charge nette par habitant de chaque commune concernée et la charge nette
-moyenne par habitant des communes du même groupe démographique. Lorsque la charge nette par habitant d'une commune est
-inférieure ou égale au tiers de la charge nette moyenne par habitant, la commune ne bénéficie d'aucune attribution au titre
-de la troisième part.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°77-91 1977-01-27
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°80-1102 1980-12-31 : *Ces dispositions ne sont applicables que jusqu'au 1er janvier 1986*
-	  - SPEC_APPLI: Code des communes R262-1, R262-12 : *Dispositions non applicables aux communes des départements de la Guadeloupe, de la Martinique, de la Guyane, de la Réunion et de Saint-Pierre-et-Miquelon*
-
-
-#### Dotation globale de fonctionnement - Autres recettes réparties par le comité des finances locales
-
-##### Recettes réparties par le comité des finances locales
-
-##### Dotation supplémentaire versée aux communes touristiques ou thermales et à leurs groupements.
-
-###### Article R*234-21
-
-La capacité d'accueil pondérée est constaté chaque année par le commissaire de la République en tenant compte des
-possibilités d'hébergement touristique de la commune au 1er janvier sur la base des enquêtes effectuées à cette date. La
-capacité d'accueil pondérée en voie de création est constatée dans les mêmes conditions en tenant compte des possibilités
-d'hébergement touristique dans la commune au 1er janvier.Elle s'ajoute, à raison de la moitié, à la capacité d'accueil
-pondérée existante pour le calcul des attributions faites aux communes bénéficiaires.
-
-La capacité d'accueil pondérée est obtenue en totalisant les chiffres résultant des produits suivants [*calcul*] :
-
-- nombre de chambres dans les hôtels de tourisme, affecté du coefficient 4;
-
-- nombre de chambres dans les hôtels non classés hôtels de tourisme, affecté du coefficient 2;
-
-- nombre de places dans les villages de vacances, affecté du coefficient 2;
-
-- nombre de places dans les terrains de camping et les terrains aménagés pour le stationnement des caravanes, affecté du
-coefficient 1 ;
-
-- nombre de logements meublés exemptés de taxe professionnelle et donnant lieu à des locations saisonnières, y compris les
-gîtes ruraux ou communaux, affecté du coefficient 3 ;
-
-- nombre de pièces dans les logements meublés, autres que ceux qui sont prévus ci-dessus, affecté du coefficient 1 ;
-
-- nombre de places dans les hôpitaux thermaux, dans les maisons d'enfants à caractère sanitaire spécialisées pour cures
-thermales et dans les centres de thalassothérapie, affecté du coefficient 1,5 ;
-
--  nombre de places d'hébergement collectif dans les établissements publics ou privés, à caractère climatique ou touristique,
-tels que sanatoriums, colonies de vacances, auberges de jeunesse, centres de vacances, maisons familiales de vacances,
-affecté du coefficient 1.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°77-91 1977-01-27
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°80-1102 1980-12-31 :
-	  - SPEC_APPLI: Code des communes R262-1, R262-12 : *Dispositions non applicables aux communes des départements de la Guadeloupe, de la Martinique, de la Guyane, de la Réunion et de Saint-Pierre-et-Miquelon*
-
-
 ### DISPOSITIONS PARTICULIERES
 
 #### Dispositions applicables aux communes de la région d'Ile-de-France
@@ -58552,649 +59422,6 @@ Marne située dans la région des transports parisiens mentionnée à l'article 
 	**Nouveaux textes**:
 
 	  - Code général des collectivités territoriales - art. D2531-6 (Ab)
-
-
-## LIVRE 2 : Finances communales TITRE 3 : Recettes  CHAPITRE 3 : Taxes, redevances ou versements autres que ceux prévus par le code général des impôts SECTION 4 : Taxes particulières aux stations Sous-section 1 : Taxe de séjour et taxe de séjour forfaitaire 1 § : Dispositions générales
-
-###### Article R*233-39
-
-La taxe de séjour [*exigibilité*] est due à partir du jour de l'arrivée ; la durée de perception est au maximum de vingt-huit
-jours.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°58-1268 1958-12-17 art. 1 al. 3
-
-	**Codifié par**:
-
-	  - Décret n°77-91 1977-01-27
-
-	**Modifié par**:
-
-	  - Loi n°88-13 du 5 janvier 1988 - art. 58 () JORF 6 janvier 1988
-
-
-###### Article R*233-40
-
-Dans les stations ayant deux saisons distinctes au cours de la même année, où la perception de la taxe de séjour est
-autorisée pendant deux périodes (saison d'été et saison d'hiver), la taxe est due pendant vingt-huit jours au maximum
-[**]durée[**] pour chacune des périodes.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret  1920-05-04 art. 4 al. 4
-
-	**Codifié par**:
-
-	  - Décret n°77-91 1977-01-27
-
-	**Modifié par**:
-
-	  - Loi n°88-13 du 5 janvier 1988 - art. 58 () JORF 6 janvier 1988
-
-
-###### Article R*233-42
-
-Dans les communes touristiques ou thermales et leurs groupements inscrits sur la liste visée à l'article L. 234-11 du présent
-code, la taxe de séjour peut être instituée dans les mêmes conditions que celles qui s'appliquent aux stations classées.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°77-91 1977-01-27
-
-	**Modifié par**:
-
-	  - Loi n°88-13 du 5 janvier 1988 - art. 58 () JORF 6 janvier 1988) A(décret 88-630 1988-05-06 art. 29 jorf 8 mai 1988
-
-	**Cite**:
-
-	  - CODE DES COMMUNES. - art. L234-11 (M)
-
-
-###### Article R233-41
-
-Dans les stations où la saison s'étend sur deux années différentes, si un séjour chevauche sur les deux années, il ne compte
-que pour un seul séjour, pour le calcul de la durée maximum de quatre semaines pendant lesquelles la taxe est due.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°1920-05-04 art. 4 al. 5
-	  - Décret n°58-1268 1958-12-17 art. 1 al. 4
-
-	**Codifié par**:
-
-	  - Décret n°77-91 1977-01-27
-
-	**Modifié par**:
-
-	  - Loi n°88-13 du 5 janvier 1988 - art. 58 () JORF 6 janvier 1988) A(décret 88-630 1988-05-06 art. 29 jorf 8 mai 1988
-
-
-## LIVRE 2 : Finances communales TITRE 3 : Recettes  CHAPITRE 3 : Taxes, redevances ou versements autres que ceux prévus par le code général des impôts SECTION 4 : Taxes particulières aux stations Sous-section 1 : Taxe de séjour et taxe de séjour forfaitaire 2 § : Taxe de séjour.
-
-###### Article R*233-43
-
-Le décret en Conseil d'Etat, prévu à l'article L. 233-38, fixant le tarif de la taxe de séjour est pris sur la proposition
-des ministres intéressés [*compétence*].
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°77-91 1977-01-27
-
-	**Modifié par**:
-
-	  - Loi n°88-13 1988-01-05 art. 58 III, VII JORF 6 janvier 1988
-	  - Loi n°88-13 du 5 janvier 1988 - art. 58 () JORF 6 janvier 1988
-
-	**Cite**:
-
-	  - CODE DES COMMUNES. - art. L233-38 (Ab)
-
-
-###### Article R*233-44
-
-La taxe de séjour est perçue aux tarifs suivants :
-
-Hôtels de tourisme quatre étoiles et quatre étoiles luxe, villas et meublés hors classe : entre 4 F et 5 F par jour et par
-personne ;
-
-Hôtels de tourisme trois étoiles, villas et meublés de 1ère catégorie : entre 3 F et 4 F par jour et par personne ;
-
-Hôtels de tourisme deux étoiles, villas et meublés de 2ème catégorie : entre 2 F et 3 F par jour et par personne ;
-
-Hôtels de tourisme une étoile, villas et meublés de 3ème catégorie : entre 1 F et 2 F par jour et par personne ;
-
-Hôtels non classés "tourisme", villas et meublés de 4ème catégorie, terrains de camping, terrains de caravaning, villages de
-vacances, gîtes ruraux privés, gîtes communaux et tous autres établissements : 1 F par jour et par personne.
-
-Ces chiffres ne comprennent pas la surtaxe départementale dans les stations où celle-ci est perçue.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°58-1268 1958-12-17 ART. 1 AL. 1 MODIFIE
-
-	**Codifié par**:
-
-	  - Décret n°77-91 1977-01-27
-
-	**Modifié par**:
-
-	  - Loi n°88-13 1988-01-05 art. 58 III, VII JORF 6 janvier 1988
-	  - Loi n°88-13 du 5 janvier 1988 - art. 58 () JORF 6 janvier 1988
-
-
-###### Article R*233-46
-
-La taxe n'est pas perçue dans les colonies et centres de vacances collectives d'enfants tels qu'ils sont définis par arrêté
-du ministre chargé de l'organisation et du fonctionnement des colonies et camps de vacances.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°58-1268 1958-12-17 art. 1 al. 5
-
-	**Codifié par**:
-
-	  - Décret n°77-91 1977-01-27
-
-	**Modifié par**:
-
-	  - Loi n°88-13 1988-01-05 art. 58 III, VII JORF 6 janvier 1988
-	  - Loi n°88-13 du 5 janvier 1988 - art. 58 () JORF 6 janvier 1988
-
-
-###### Article R*233-47
-
-Sont exemptés de la taxe de séjour, sans préjudice de l'application de l'article L. 233-31 :
-
-a° Les personnes bénéficiant des dispositions des titres III et IV du code de la famille et de l'aide sociale ;
-
-b° Les mutilés, blessés et malades par suite de faits de guerre ;
-
-c° Les personnes exclusivement attachées aux malades ;
-
-d° Les personnes qui, pour leur travail ou leur profession, participent au fonctionnement et au développement de la station ;
-
-e° Les voyageurs et représentants de commerce porteurs de la carte d'identité professionnelle pendant la durée du séjour
-qu'ils font dans la station pour les besoins exclusifs de leur profession ;
-
-f° Les fonctionnaires et agents de l'Etat appelés temporairement dans la station pour l'exercice de leurs fonctions.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Code de la famille et de l'aide sociale Titres III et IV
-	  - CODE DES COMMUNES. - art. L233-31 (M)
-
-	**Anciens textes**:
-
-	  - Décret n°58-1268 1958-12-17 art. 2
-
-	**Codifié par**:
-
-	  - Décret n°77-91 1977-01-27
-
-	**Modifié par**:
-
-	  - Loi n°88-13 1988-01-05 art. 58 III, VII JORF 6 janvier 1988
-	  - Loi n°88-13 du 5 janvier 1988 - art. 58 () JORF 6 janvier 1988
-
-
-###### Article R*233-48
-
-Les enfants de moins de dix ans bénéficient d'une réduction de 50 p. 100 [*pourcentage*] du montant de la taxe ; les enfants
-de moins de quatre ans en sont exonérés [*conditions d'âge*].
-
-En outre, les membres des familles nombreuses porteurs de la carte d'identité qui leur est délivrée en vertu de la loi du 24
-décembre 1940 bénéficient des mêmes réductions que pour le prix des transports sur les chemins de fer d'intérêt général.
-
-Le conseil municipal peut décider d'augmenter le montant des réductions prévues aux deux alinéas ci-dessus.
-
-Il peut de même décider d'exonérer partiellement ou totalement les personnes bénéficiaires du chèque-vacances ainsi que les
-mineurs de moins de dix-huit ans.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°58-1268 1958-12-17 ART. 3
-
-	**Codifié par**:
-
-	  - Décret n°77-91 1977-01-27
-
-	**Cite**:
-
-	  - Loi n°1940-12-24
-
-	**Modifié par**:
-
-	  - Loi n°88-13 1988-01-05 art. 58 III, VII JORF 6 janvier 1988
-	  - Loi n°88-13 du 5 janvier 1988 - art. 58 () JORF 6 janvier 1988
-
-
-###### Article R*233-53
-
-Les agents municipaux commissionnés à cet effet se présentent périodiquement chez les personnes désignées [*hôteliers et
-autres logeurs*] aux articles R. 233-49 et R. 233-50 pour y recueillir le produit de la taxe de séjour.
-
-Le maire [*attributions*] détermine l'époque des tournées des agents collecteurs.
-
-Dans les hôtels et maisons meublées, les tournées doivent avoir lieu au moins toutes les trois semaines [**]fréquence[**].
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Code des communes R233-49 et R233-50
-
-	**Anciens textes**:
-
-	  - Décret n°1920-05-04 art. 11 remplacé
-
-	**Codifié par**:
-
-	  - Décret n°77-91 1977-01-27
-
-	**Modifié par**:
-
-	  - Loi n°88-13 1988-01-05 art. 58 III, X JORF 6 janvier 1988
-	  - Loi n°88-13 du 5 janvier 1988 - art. 58 () JORF 6 janvier 1988
-
-
-###### Article R*233-54
-
-Les agents collecteurs [*attributions, pouvoirs*] mentionnés à l'article précédent :
-
-- procèdent à la vérification de l'état dont la tenue est prescrite par les articles R. 233-49 et R. 233-50 ;
-
-- peuvent, pour s'assurer que ce document a été correctement tenu, exiger des logeurs et des hôteliers la communication des
-pièces et documents comptables s'y rapportant ;
-
-- encaissent le montant des taxes perçues depuis leur précédente vérification et en donnent aussitôt décharge aux hôteliers,
-logeurs, propriétaires ou principaux locataires par mention inscrite sur cet état ;
-
-- inscrivent, sur un registre à souche, le montant de chaque versement et en délivrent immédiatement quittance.
-
-L'état est présenté pour vérification [*contrôle*] au receveur municipal à l'appui des versements faits à sa caisse par les
-collecteurs [*formalités*].
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°1920-05-04 art. 11 remplacé
-
-	**Codifié par**:
-
-	  - Décret n°77-91 1977-01-27
-
-	**Modifié par**:
-
-	  - Loi n°88-13 1988-01-05 art. 58 III, X JORF 6 janvier 1988
-	  - Loi n°88-13 du 5 janvier 1988 - art. 58 () JORF 6 janvier 1988
-
-	**Cite**:
-
-	  - CODE DES COMMUNES. - art. L233-49 (Ab)
-	  - Code des communes L233-49, L233-50 et L233-53
-
-
-###### Article R*233-56
-
-L'état dont la tenue est imposée aux personnes [*hôteliers et autres logeurs*] désignées aux articles R. 233-49 et R. 233-50,
-les pièces [*documents*] comptables que tiennent à cet effet ces personnes et les quittances délivrées par les agents
-collecteurs sont présentés à toute réquisition des agents de l'autorité [*contrôle*] .
-
-L'état est, contre récépissé, remis annuellement [**]fréquence[**] au maire à une date fixée par ce dernier.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°1920-05-04 art. 13 remplacé
-
-	**Codifié par**:
-
-	  - Décret n°77-91 1977-01-27
-
-	**Modifié par**:
-
-	  - Loi n°88-13 1988-01-05 art. 58 III, X JORF 6 janvier 1988) A(décret 88-630 1988-05-06 art. 29 jorf 8 mai 1988
-	  - Loi n°88-13 du 5 janvier 1988 - art. 58 () JORF 6 janvier 1988) A(décret 88-630 1988-05-06 art. 29 jorf 8 mai 1988
-
-	**Cite**:
-
-	  - Code des communes R233-49 et R233-50
-
-
-###### Article R*233-58
-
-Les infractions aux dispositions concernant les formalités établies pour le recouvrement de la taxe sont constatées par les
-officiers de police judiciaire, les agents collecteurs et les agents des services fiscaux et poursuivies comme en matière de
-contributions indirectes [*procédure*].
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°1920-05-04 art. 15 remplacé
-
-	**Codifié par**:
-
-	  - Décret n°77-91 1977-01-27
-
-	**Modifié par**:
-
-	  - Loi n°88-13 1988-01-05 art. 58 III, X JORF 6 janvier 1988
-	  - Loi n°88-13 du 5 janvier 1988 - art. 58 () JORF 6 janvier 1988
-
-	**Liens**:
-
-	  - TXT_ASSOCIE: CODE DES COMMUNES. - art. R233-68 (Ab)
-
-	**Cite**:
-
-	  - Code des communes R233-49 à R233-57
-
-
-###### Article R233-45
-
-Le tarif de la taxe de séjour est affiché en permanence à la porte de la mairie et tenu, au secrétariat de la mairie, à la
-disposition de toute personne qui désire en prendre connaissance [*publicité*].
-
-Il est affiché dant tous les hôtels et dans toutes les maisons meublées où sont reçues en logement les personnes étrangères à
-la commune.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°77-91 1977-01-27
-
-	**Modifié par**:
-
-	  - Loi n°88-13 1988-01-05 art. 58 III, VII JORF 6 janvier 1988
-	  - Loi n°88-13 du 5 janvier 1988 - art. 58 () JORF 6 janvier 1988
-
-	**Nouveaux textes**:
-
-	  - Code général des collectivités territoriales - art. R2333-46 (M)
-
-	**Anciens textes**:
-
-	  - Décret  1920-05-04 art. 6
-
-
-###### Article R233-49
-
-En vue de la perception de la taxe de séjour, les hôteliers et autres logeurs sont tenus d'établir, par mois, un état
-[*contenu*] comportant le nombre des personnes ayant logé dans leur établissement durant le mois écoulé ainsi que le nombre
-de jours passés, le montant de la taxe perçue et, éventuellement, les motifs d'exonération ou de réduction de cette taxe
-[*formalités - obligation*].
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°77-91 1977-01-27
-
-	**Modifié par**:
-
-	  - Loi n°88-13 1988-01-05 art. 58 III, X JORF 6 janvier 1988
-	  - Loi n°88-13 du 5 janvier 1988 - art. 58 () JORF 6 janvier 1988
-
-	**Cité par**:
-
-	  - CODE DES COMMUNES. - art. R*233-53 (Ab)
-	  - CODE DES COMMUNES. - art. R*233-58 (Ab)
-	  - CODE DES COMMUNES. - art. R233-50 (Ab)
-	  - CODE DES COMMUNES. - art. R233-55 (Ab)
-
-	**Nouveaux textes**:
-
-	  - Code général des collectivités territoriales - art. R2333-50 (M)
-
-	**Anciens textes**:
-
-	  - Décret  1920-05-04 art. 7 remplacé
-
-
-###### Article R233-50
-
-Les propriétaires ou toutes personnes qui ont l'intention de louer, pendant la saison thermale ou climatique, tout ou partie
-de leur habitation personnelle à des étrangers à la station en font la déclaration à la mairie et sont tenus, en vue de la
-perception de la taxe de séjour, de tenir le même état que les hôteliers et logeurs [*formalités - obligation*].
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Décret n°75-411 1975-05-20
-
-	**Codifié par**:
-
-	  - Décret n°77-91 1977-01-27
-
-	**Modifié par**:
-
-	  - Loi n°88-13 1988-01-05 art. 58 III, X JORF 6 janvier 1988
-	  - Loi n°88-13 du 5 janvier 1988 - art. 58 () JORF 6 janvier 1988
-
-	**Cité par**:
-
-	  - CODE DES COMMUNES. - art. R*233-58 (Ab)
-	  - CODE DES COMMUNES. - art. R233-55 (Ab)
-
-	**Nouveaux textes**:
-
-	  - Code général des collectivités territoriales - art. R2333-51 (M)
-
-	**Anciens textes**:
-
-	  - Décret  1920-05-04 art. 8
-
-
-###### Article R233-51
-
-Lorsque les personnes [*hôteliers et autres logeurs*] désignées aux articles R. 233-49 et R. 233-50 reçoivent le montant des
-loyers qui leur sont dus, elles perçoivent la taxe de séjour sur les assujettis et leur en donnent quittance.
-
-Elles inscrivent le montant des taxes encaissées, à la date et dans l'ordre des perceptions effectuées, sur l'état prévu à
-l'article R. 233-49 [*formalités - obligation*].
-
-La taxe est perçue [*date*] avant le départ des assujettis alors même que, du consentement du logeur, de l'hôtelier, du
-propriétaire ou du principal locataire, le paiement du loyer est différé.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Code des communes R233-49 et R233-50
-
-	**Anciens textes**:
-
-	  - Décret n°1920-05-04 art. 9
-
-	**Codifié par**:
-
-	  - Décret n°77-91 1977-01-27
-
-	**Modifié par**:
-
-	  - Loi n°88-13 1988-01-05 art. 58 III, X JORF 6 janvier 1988) A(décret 88-630 1988-05-06 art. 29 jorf 8 mai 1988
-	  - Loi n°88-13 du 5 janvier 1988 - art. 58 () JORF 6 janvier 1988) A(décret 88-630 1988-05-06 art. 29 jorf 8 mai 1988
-
-
-###### Article R233-52
-
-En cas de départ furtif d'un assujetti, la responsabilité des personnes désignées aux articles R. 233-49 et R. 233-50
-[*hôteliers et autres logeurs*] ne peut être dégagée que si elles ont avisé aussitôt le maire et déposé entre ses mains une
-demande en exonération adressée au juge du tribunal d'instance [*formalités*].
-
-Le maire [*attributions*] transmet cette demande dans les vingt-quatre heures [**]délai[**] au juge du tribunal d'instance,
-lequel statue sans frais.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°77-91 1977-01-27
-
-	**Modifié par**:
-
-	  - Loi n°88-13 1988-01-05 art. 58 III, X JORF 6 janvier 1988
-	  - Loi n°88-13 du 5 janvier 1988 - art. 58 () JORF 6 janvier 1988
-
-	**Cite**:
-
-	  - Code des communes R233-49 et R233-50
-
-	**Nouveaux textes**:
-
-	  - Code général des collectivités territoriales - art. R2333-52 (M)
-
-	**Anciens textes**:
-
-	  - Décret  1920-05-04 art. 10
-
-
-###### Article R233-55
-
-Les agents [*collecteurs*] préposés à l'encaissement de la taxe de séjour et commissionnés à cet effet sont tenus, avant de
-prêter serment, de verser un cautionnement dont le montant est fixé par l'acte de nomination.
-
-**Liens relatifs à cet article**
-
-	**Nouveaux textes**:
-
-	  - Code général des collectivités territoriales - art. R2333-55 (M)
-
-	**Anciens textes**:
-
-	  - Décret n°1920-05-04 art. 12 al. 1
-
-	**Codifié par**:
-
-	  - Décret n°77-91 1977-01-27
-
-	**Modifié par**:
-
-	  - Loi n°88-13 1988-01-05 art. 58 III, X JORF 6 janvier 1988
-	  - Loi n°88-13 du 5 janvier 1988 - art. 58 () JORF 6 janvier 1988
-
-
-###### Article R233-59
-
-Les pénalités encourues pour les infractions [*relatives aux formalités établies pour le recouvrement de la taxe*]
-mentionnées à l'article précédent sont, au minimum égales au montant des taxes dont la commune a été privée
-[**]sanctions[**].
-
-Elles peuvent s'élever au triple de ces taxes en cas de fraude, et au double dans les autres cas.
-
-L'article 463 du code pénal [*circonstances atténuantes*] est applicable aux auteurs des infractions prévues par la présente
-sous-section.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°77-91 1977-01-27
-
-	**Modifié par**:
-
-	  - Loi n°88-13 1988-01-05 art. 58 III, X JORF 6 janvier 1988) A(décret 88-630 1988-05-06 art. 29 jorf 8 mai 1988
-	  - Loi n°88-13 du 5 janvier 1988 - art. 58 () JORF 6 janvier 1988) A(décret 88-630 1988-05-06 art. 29 jorf 8 mai 1988
-
-	**Liens**:
-
-	  - TXT_ASSOCIE: CODE DES COMMUNES. - art. R233-68 (Ab)
-
-	**Cite**:
-
-	  - Code des communes R233-49 à R233-58
-	  - Code pénal 463
-
-	**Anciens textes**:
-
-	  - Décret n°1920-05-04 art. 16 al. 1 et 3
-
-
-## LIVRE 2 : Finances communales TITRE 3 : Recettes  CHAPITRE 3 : Taxes, redevances ou versements autres que ceux prévus par le code général des impôts SECTION 4 : Taxes particulières aux stations Sous-section 1 : Taxe de séjour et taxe de séjour forfaitaire 3 § : Recouvrement de la taxe de séjour et pénalités 2 § : Taxe de séjour.
-
-###### Article R*233-57
-
-Tout assujetti qui conteste soit l'application qui lui est faite du tarif par l'hôtelier, logeur, propriétaire, ou principal
-locataire, soit la quotité de la taxe à lui réclamée, acquitte [*paiement*] néanmoins le montant de la taxe contestée, sauf à
-en obtenir le remboursement après qu'il a été statué sur sa réclamation [**]recours[**].
-
-Ces contestations [*recours*] sont portées, quel que soit le montant de la taxe, devant le tribunal d'instance dans le
-ressort duquel se trouve la commune intéressée [*compétence*] et sont jugées sans frais.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°1920-05-04 art. 14 remplacé
-
-	**Codifié par**:
-
-	  - Décret n°77-91 1977-01-27
-
-	**Modifié par**:
-
-	  - Loi n°88-13 1988-01-05 art. 58 III, X JORF 6 janvier 1988
-	  - Loi n°88-13 du 5 janvier 1988 - art. 58 () JORF 6 janvier 1988
-
-	**Liens**:
-
-	  - TXT_ASSOCIE: CODE DES COMMUNES. - art. R233-68 (Ab)
-
-
-## LIVRE 2 : Finances communales TITRE 3 : Recettes  CHAPITRE 3 : Taxes, redevances ou versements autres que ceux prévus par le code général des impôts SECTION 4 : Taxes particulières aux stations Sous-section 1 : Taxe de séjour et taxe de séjour forfaitaire 5 § : Dispositions particulières aux stations de sport d'hiver et d'alpinisme.
-
-###### Article R233-60
-
-Dans les stations de sports d'hiver et d'alpinisme classées, mentionnées à l'article R. 143-33, l'établissement de la taxe de
-séjour est autorisé après une enquête à laquelle il est procédé dans les formes établies par les articles R. 11-3 à R. 11-13
-du code de l'expropriation pour cause d'utilité publique.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°77-91 1977-01-27
-
-	**Modifié par**:
-
-	  - Loi n°88-13 du 5 janvier 1988 - art. 58 () JORF 6 janvier 1988
-
-	**Cité par**:
-
-	  - Arrêté du 28 décembre 1976 - art. 12 (Ab)
-
-	**Cite**:
-
-	  - CODE DES COMMUNES. - art. R143-33 (Ab)
-	  - Code de l'expropriation pour cause d'utilité publique 11-3 à Code de l'expropriation pour cause d'utilité publique R11-13
-
-	**Nouveaux textes**:
-
-	  - Code général des collectivités territoriales - art. R2333-60 (Ab)
 
 
 ## LIVRE 3 : Administration et services communaux
@@ -62362,6 +62589,76 @@ du ministre de l'intérieur, du ministre de l'économie et des finances et du ou
 
 ##### SECTION 1 : Dispositions générales.
 
+###### Article R*323-1
+
+La comptabilité des régies est tenue dans les conditions définies par un plan comptable conforme au plan comptable général.
+
+Ce plan comptable est arrêté par le ministre chargé des collectivités locales et le ministre chargé du budget, après avis du
+Conseil national de la comptabilité. Des plans comptables particuliers à certaines activités peuvent être définis selon la
+même procédure.
+
+La définition des chapitres et articles des crédits budgétaires est fixée par arrêté conjoint du ministre chargé des
+collectivités locales et du ministre chargé du budget.
+
+Des instructions conjointes du ministre chargé des collectivités locales et du ministre chargé du budget fixent les principes
+comptables, les règles de fonctionnement des comptes ainsi que la liste et la contexture des documents budgétaires et
+comptables à tenir par l'ordonnateur et le comptable.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°70-1297 1970-12-31 ART. 22
+
+	**Codifié par**:
+
+	  - Décret n°77-241 1977-03-07
+
+	**Abrogé par**:
+
+	  - Décret n°2000-318 du 7 avril 2000 - art. 4 (V)
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: CODE DES COMMUNES. - art. R323-79 (Ab)
+	  - TXT_ASSOCIE: CODE DES COMMUNES. - art. R323-80 (Ab)
+
+	**Anciens textes**:
+
+	  - Code de l'administration communale 357 REMPLACE
+
+	**Modifié par**:
+
+	  - Décret n°88-621 1988-05-08 art. 1 JORF 8 mai 1988
+
+
+###### Article R*323-2
+
+La comptabilité des matières, qui a pour objet la description des existants et des mouvements concernant les stocks et les
+biens meubles, est tenue sous la responsabilité du directeur de la régie.
+
+Un inventaire, dont les résultats sont produits au juge des comptes à l'appui du compte financier, est dressé en fin
+d'exercice conformément aux principes du plan comptable général.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Code de l'administration communale 361
+
+	**Codifié par**:
+
+	  - Décret n°77-241 1977-03-07
+
+	**Modifié par**:
+
+	  - Décret n°88-621 1988-05-08 art. 1 JORF 8 mai 1988
+
+	**Abrogé par**:
+
+	  - Décret n°2000-318 du 7 avril 2000 - art. 4 (V)
+
+
 ###### Article R*323-3
 
 Les corps d'inspection habilités à procéder aux vérifications prévues par l'article L. 323-5 sont l'inspection générale de
@@ -62384,6 +62681,30 @@ l'administration au ministère de l'intérieur et l'inspection générale des fi
 	**Cite**:
 
 	  - CODE DES COMMUNES. - art. L323-5 (Ab)
+
+
+###### Article R*323-4
+
+Les dispositions de l'article R. 323-3 sont applicables aux régies municipales mentionnées à l'article L. 323-8.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°77-241 1977-03-07
+
+	**Abrogé par**:
+
+	  - Décret n°2000-318 du 7 avril 2000 - art. 4 (V)
+
+	**Cite**:
+
+	  - CODE DES COMMUNES. - art. L323-8 (Ab)
+	  - Code des communes R323-3, L323-8
+
+	**Modifié par**:
+
+	  - Décret n°88-621 1988-05-08 art. 1 JORF 8 mai 1988
 
 
 ###### Article R*323-5
@@ -62469,6 +62790,70 @@ ministre de l'économie et des finances et, le cas échéant, des autres ministr
 	  - Code général des collectivités territoriales - art. R2221-7 (V)
 
 
+##### SOUS-SECTION 1 : Création de la régie.
+
+###### Article R323-8
+
+La création d'une régie dotée de la personnalité morale en vue d'assurer l'exécution d'un service public à caractère
+industriel ou commercial est décidée par délibération du conseil municipal. La délibération arrête les dispositions du
+règlement intérieur et fixe le montant de la dotation initiale de la régie.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°77-241 1977-03-07
+
+	**Cité par**:
+
+	  - CODE DES COMMUNES. - art. R323-10 (Ab)
+	  - CODE DES COMMUNES. - art. R323-38 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code général des collectivités territoriales - art. R2221-8 (M)
+
+	**Modifié par**:
+
+	  - Décret n°88-621 1988-05-08 art. 1 JORF 8 mai 1988
+
+	**Abrogé par**:
+
+	  - Décret n°2000-318 du 7 avril 2000 - art. 4 (V)
+
+
+###### Article R323-10
+
+Toute délibération qui décide la transformation d'une régie dotée de la seule autonomie financière en régie dotée de la
+personnalité morale et de l'autonomie financière est prise dans les conditions prévues à l'article R323-8.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°59-1225 1959-10-19 art. 3
+
+	**Codifié par**:
+
+	  - Décret n°77-241 1977-03-07
+
+	**Abrogé par**:
+
+	  - Décret n°2000-318 du 7 avril 2000 - art. 4 (V)
+
+	**Cite**:
+
+	  - CODE DES COMMUNES. - art. R323-8 (M)
+
+	**Nouveaux textes**:
+
+	  - Code général des collectivités territoriales - art. R2221-9 (V)
+
+	**Modifié par**:
+
+	  - Décret n°88-621 1988-05-08 art. 5 JORF 8 mai 1988
+
+
 ##### SOUS-SECTION 2 : Organisation administrative
 
 ##### PARAGRAPHE 1 : Dispositions générales.
@@ -62500,7 +62885,70 @@ La régie est administrée par un conseil d'administration et un directeur.
 	  - Code général des collectivités territoriales - art. R2221-10 (V)
 
 
+###### Article R323-12
+
+La régie peut, dans les conditions prévues à l'article 5-III de la loi n°82-213 du 2 mars 1982, acquérir des participations
+financières dans les entreprises publiques, semi-publiques ou privées qui exercent une activité complémentaire ou connexe.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°59-1225 1959-10-19 art. 5
+
+	**Codifié par**:
+
+	  - Décret n°77-241 1977-03-07
+
+	**Nouveaux textes**:
+
+	  - Code général des collectivités territoriales - art. R2221-11 (V)
+
+	**Modifié par**:
+
+	  - Décret n°88-621 1988-05-08 art. 6 JORF 8 mai 1988
+
+	**Cite**:
+
+	  - Loi n°82-213 1982-03-02 art. 5 III
+
+	**Abrogé par**:
+
+	  - Décret n°2000-318 du 7 avril 2000 - art. 4 (V)
+
+
 ##### PARAGRAPHE 2 : Conseil d'administration.
+
+###### Article R323-13
+
+Les membres du conseil d'administration sont désignés par le conseil municipal.
+
+Ils sont relevés de leurs fonctions par la même autorité. Toutefois, les membres du conseil d'administration des régies
+chargées de la gestion d'un marché d'intérêt national sont nommés pour moitié par la ou les collectivités locales
+intéressées, pour moitié par le préfet.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°59-1225 1959-10-19 art. 6
+
+	**Codifié par**:
+
+	  - Décret n°77-241 1977-03-07
+
+	**Nouveaux textes**:
+
+	  - Code général des collectivités territoriales - art. R2221-12 (V)
+
+	**Modifié par**:
+
+	  - Décret n°88-621 1988-05-08 art. 7 JORF 8 mai 1988
+
+	**Abrogé par**:
+
+	  - Décret n°2000-318 du 7 avril 2000 - art. 4 (V)
+
 
 ###### Article R323-14
 
@@ -62528,6 +62976,63 @@ Les membres du conseil d'administration doivent être de nationalité française
 	**Nouveaux textes**:
 
 	  - Code général des collectivités territoriales - art. R2221-13 (V)
+
+
+###### Article R323-15
+
+Le nombre des membres du conseil d'administration titulaires d'un mandat de sénateur, député, conseiller régional, conseiller
+général ou conseiller municipal conféré dans la ou les collectivités intéressées ou dans une circonscription incluant cette
+ou ces collectivités ne peut excéder le tiers du nombre total des membres de ce conseil.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°59-1225 1959-10-19 art. 8
+
+	**Codifié par**:
+
+	  - Décret n°77-241 1977-03-07
+
+	**Nouveaux textes**:
+
+	  - Code général des collectivités territoriales - art. R2221-14 (V)
+
+	**Modifié par**:
+
+	  - Décret n°88-621 1988-05-08 art. 8 JORF 8 mai 1988) A(Décret 2000-318 2000-04-07 art. 4 jorf 9 avril 2000
+
+
+###### Article R323-16
+
+Le règlement intérieur fixe :
+
+- le nombre des membres du conseil d'administration qui ne peut être inférieur à trois ni supérieur à quinze ;
+
+- les catégories de personnes parmi lesquelles ils peuvent ou doivent être choisis ;
+
+- la durée de leurs fonctions dans la limite de la durée du mandat municipal, ainsi que la durée du mandat du président ou
+des vice-présidents ;
+
+- leur mode de renouvellement.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°59-1225 1959-10-19 art. 9
+
+	**Codifié par**:
+
+	  - Décret n°77-241 1977-03-07
+
+	**Nouveaux textes**:
+
+	  - Code général des collectivités territoriales - art. R2221-15 (Ab)
+
+	**Modifié par**:
+
+	  - Décret n°88-621 1988-05-08 art. 9 JORF 8 mai 1988) A(Décret 2000-318 2000-04-07 art. 4 jorf 9 avril 2000
 
 
 ###### Article R323-17
@@ -62569,6 +63074,45 @@ diligence de son président, soit par le préfet agissant de sa propre initiativ
 	  - Code général des collectivités territoriales - art. R2221-8 (V)
 
 
+###### Article R323-18
+
+Le conseil d'administration élit, en son sein, son président et un ou plusieurs vice-présidents.
+
+Le conseil d'administration se réunit au moins tous les trois mois [*fréquence*]. Il est en outre réuni chaque fois que le
+président le juge utile, ou sur la demande du préfet ou de la majorité de ses membres.
+
+Ses séances ne sont pas publiques.
+
+En cas de partage, la voix du président est prépondérante.
+
+Sauf lorsqu'il est personnellement concerné par l'affaire en discussion, le directeur assiste aux séances avec voix
+consultative.
+
+Le maire ou ses représentants peuvent y assister avec voix consultative.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°59-1225 1959-10-19 art. 11, al. 1 et 2
+
+	**Codifié par**:
+
+	  - Décret n°77-241 1977-03-07
+
+	**Modifié par**:
+
+	  - Décret n°88-621 1988-05-08 art. 10 JORF 8 mai 1988
+
+	**Abrogé par**:
+
+	  - Décret n°2000-318 du 7 avril 2000 - art. 4 (V)
+
+	**Nouveaux textes**:
+
+	  - Code général des collectivités territoriales - art. R2221-17 (V)
+
+
 ###### Article R323-19
 
 Les fonctions de membre du conseil d'administration sont gratuites [*rémunération, non*].
@@ -62596,6 +63140,294 @@ Le règlement intérieur prévoit dans quelles conditions les membres peuvent pe
 	**Nouveaux textes**:
 
 	  - Code général des collectivités territoriales - art. R2221-18 (V)
+
+
+###### Article R323-20
+
+Le conseil d'administration [**]attributions[**] délibère sur toutes les questions intéressant le fonctionnement de la régie.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°59-1225 1959-10-19 ART. 13
+
+	**Codifié par**:
+
+	  - Décret n°77-241 1977-03-07
+
+	**Cité par**:
+
+	  - CODE DES COMMUNES. - art. R*142-9 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code général des collectivités territoriales - art. R2221-19 (V)
+
+	**Modifié par**:
+
+	  - Décret n°88-621 1988-05-08 art. 72 JORF 8 mai 1988) A(Décret 2000-318 2000-04-07 art. 4 jorf 9 avril 2000
+
+
+##### PARAGRAPHE 3 : Directeur.
+
+###### Article R323-21
+
+Le directeur de la régie est nommé par le maire, sur proposition du conseil d'administration.
+
+Il peut être relevé de ses fonctions dans les mêmes conditions.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°59-1225 1959-10-19 art. 14
+
+	**Codifié par**:
+
+	  - Décret n°77-241 1977-03-07
+
+	**Abrogé par**:
+
+	  - Décret n°2000-318 du 7 avril 2000 - art. 4 (V)
+
+	**Nouveaux textes**:
+
+	  - Code général des collectivités territoriales - art. R2221-20 (V)
+
+	**Modifié par**:
+
+	  - Décret n°88-621 1988-05-08 art. 11 JORF 8 mai 1988
+
+
+###### Article R323-22
+
+Les fonctions de directeur sont incompatibles avec un mandat de sénateur, député, conseiller régional, conseiller général ou
+conseiller municipal conféré dans la ou les collectivités intéressées ou dans une circonscription incluant cette ou ces
+collectivités.
+
+Les fonctions de directeur sont incompatibles avec celles de membre du conseil d'administration de la régie. Le directeur ne
+peut prendre ou conserver aucun intérêt dans des entreprises en rapport avec la régie, occuper aucune fonction dans ces
+entreprises, ni assurer des prestations pour leur compte.
+
+En cas d'infraction à ces interdictions, le directeur est relevé de ses fonctions soit par le maire, soit par le préfet. Il
+est immédiatement remplacé.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°59-1225 1959-10-19 art. 15
+
+	**Codifié par**:
+
+	  - Décret n°77-241 1977-03-07
+
+	**Nouveaux textes**:
+
+	  - Code général des collectivités territoriales - art. R2221-21 (V)
+
+	**Modifié par**:
+
+	  - Décret n°88-621 1988-05-08 art. 12 JORF 8 mai 1988) A(Décret 2000-318 2000-04-07 art. 4 jorf 9 avril 2000
+
+
+###### Article R323-23
+
+Le directeur assure, sous l'autorité et le contrôle du président du conseil d'administration, le fonctionnement de la régie.
+A cet effet [*attributions*] :
+
+- il prend les mesures nécessaires à l'exécution des décisions du conseil d'administration ;
+
+- il exerce la direction de l'ensemble des services, sous réserve des dispositions ci-après concernant l'agent comptable ;
+
+- il recrute et licencie le personnel nécessaire dans la limite des inscriptions budgétaires ;
+
+- il peut faire assermenter certains agents nommés par lui et agréés par le préfet.
+
+- il est l'ordonnateur de la régie et, à ce titre, prescrit l'exécution des recettes et des dépenses.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°59-1225 1959-10-19 art. 16
+
+	**Codifié par**:
+
+	  - Décret n°77-241 1977-03-07
+
+	**Modifié par**:
+
+	  - Décret n°88-621 1988-05-08 art. 13 JORF 8 mai 1988
+
+	**Abrogé par**:
+
+	  - Décret n°2000-318 du 7 avril 2000 - art. 4 (V)
+
+	**Cité par**:
+
+	  - CODE DES COMMUNES. - art. R*142-15 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code général des collectivités territoriales - art. R2221-22 (V)
+
+
+###### Article R323-24
+
+Le directeur passe, en exécution des décisions du conseil d'administration et avec l'agrément de son président, tous actes,
+contrats, traités et marchés.
+
+Il peut, sous sa responsabilité, déléguer sa signature à un ou plusieurs chefs de service.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°59-1225 1959-10-19 art. 17
+
+	**Codifié par**:
+
+	  - Décret n°77-241 1977-03-07
+
+	**Abrogé par**:
+
+	  - Décret n°2000-318 du 7 avril 2000 - art. 4 (V)
+
+	**Cité par**:
+
+	  - CODE DES COMMUNES. - art. R*142-15 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code général des collectivités territoriales - art. R2221-23 (V)
+
+	**Modifié par**:
+
+	  - Décret n°88-621 1988-05-08 art. 14 JORF 8 mai 1988
+
+
+##### PARAGRAPHE 4 : Agent comptable.
+
+###### Article R323-25
+
+Les fonctions d'agent comptable, chef des services de la comptabilité, sont confiées soit à un comptable direct du Trésor,
+soit à un comptable spécial. Le comptable spécial est nommé par le préfet sur proposition du conseil d'administration, après
+avis du trésorier-payeur général. Il ne peut être remplacé ou révoqué que dans les mêmes formes.
+
+L'agent comptable peut, sous sa responsabilité, déléguer sa signature à un ou plusieurs agents qu'il constitue ses fondés de
+pouvoir par une procuration régulière.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°59-1225 1959-10-19 art. 18
+
+	**Codifié par**:
+
+	  - Décret n°77-241 1977-03-07
+
+	**Nouveaux textes**:
+
+	  - Code général des collectivités territoriales - art. R2221-24 (V)
+
+	**Modifié par**:
+
+	  - Décret n°88-621 1988-05-08 art. 15 JORF 8 mai 1988) A(Décret 2000-318 2000-04-07 art. 4 jorf 9 avril 2000
+
+
+###### Article R323-26
+
+L'agent comptable assure le fonctionnement des services de la comptabilité avec l'aide du personnel nécessaire.
+
+Il est soumis, sous sa responsabilité personnelle et pécuniaire, à l'ensemble des obligations qui incombent aux comptables
+publics en vertu du décret n° 62-1587 du 29 décembre 1962 portant règlement général sur la comptabilité publique. L'agent
+comptable est placé sous l'autorité du directeur, sauf pour les actes qu'il accomplit sous sa responsabilité propre en tant
+que comptable public.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°59-1225 1959-10-19 art. 19
+
+	**Cite**:
+
+	  - Décret n°62-1587 1962-12-29
+
+	**Codifié par**:
+
+	  - Décret n°77-241 1977-03-07
+
+	**Nouveaux textes**:
+
+	  - Code général des collectivités territoriales - art. R2221-25 (V)
+
+	**Modifié par**:
+
+	  - Décret n°88-621 1988-05-08 art. 16 JORF 8 mai 1988) A(Décret 2000-318 2000-04-07 art. 4 jorf 9 avril 2000
+
+
+###### Article R323-27
+
+L'agent comptable tient la comptabilité générale ainsi que, le cas échéant et sous l'autorité du directeur, la comptabilité
+analytique.
+
+Le directeur peut, avec l'agrément du conseil d'administration et sur avis conforme de l'agent comptable, créer des régies de
+recettes et des régies d'avances soumises aux conditions de fonctionnement prévues aux articles 3 à 14 du décret n° 64-486 du
+28 mai 1964 relatif aux régies de recettes et aux régies d'avances des organismes publics.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°59-1225 1959-10-19 art. 20
+
+	**Cite**:
+
+	  - Décret n°64-486 1964-05-28 art. 3 à 14
+
+	**Codifié par**:
+
+	  - Décret n°77-241 1977-03-07
+
+	**Nouveaux textes**:
+
+	  - Code général des collectivités territoriales - art. R2221-26 (V)
+
+	**Modifié par**:
+
+	  - Décret n°88-621 1988-05-08 art. 17 JORF 8 mai 1988) A(Décret 2000-318 2000-04-07 art. 4 jorf 9 avril 2000
+
+
+###### Article R323-29
+
+L'agent comptable de la régie est soumis au contrôle de l'inspection générale des finances et du trésorier-payeur général ou
+du receveur particulier des finances.
+
+Le préfet reçoit en communication les rapports de contrôle des membres de l'inspection générale des finances, du trésorier-
+payeur général ou du receveur particulier des finances. Il peut faire contrôler les opérations et les écritures de la régie
+par un délégué qu'il désigne à cet effet.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°59-1225 1959-10-19 art. 22
+
+	**Codifié par**:
+
+	  - Décret n°77-241 1977-03-07
+
+	**Nouveaux textes**:
+
+	  - Code général des collectivités territoriales - art. R2221-27 (V)
+
+	**Modifié par**:
+
+	  - Décret n°88-621 1988-05-08 art. 18 JORF 8 mai 1988) A(Décret 2000-318 2000-04-07 art. 4 jorf 9 avril 2000
 
 
 ##### SOUS-SECTION 3 : Fonctionnement
@@ -62696,6 +63528,40 @@ les mises en location de biens mobiliers et immobiliers qui appartiennent à la 
 	  - Code général des collectivités territoriales - art. R2221-31 (V)
 
 
+###### Article R323-34
+
+Les taux des redevances dues par les usagers de la régie sont fixés par le conseil d'administration.
+
+Les taux sont établis de manière à assurer l'équilibre financier de la régie dans les conditions prévues aux articles L.
+322-5 et L. 322-6.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°59-1225 1959-10-19 art. 27
+
+	**Codifié par**:
+
+	  - Décret n°77-241 1977-03-07
+
+	**Abrogé par**:
+
+	  - Décret n°2000-318 du 7 avril 2000 - art. 4 (V)
+
+	**Cite**:
+
+	  - Code des communes L322-5 et L322-6
+
+	**Nouveaux textes**:
+
+	  - Code général des collectivités territoriales - art. R2221-32 (V)
+
+	**Modifié par**:
+
+	  - Décret n°88-621 1988-05-08 art. 19 JORF 8 mai 1988
+
+
 ###### Article R323-35
 
 Les marchés de travaux, transports et fournitures sont soumis aux règles applicables aux marchés de la commune ou de
@@ -62727,6 +63593,651 @@ courantes dont la liste est arrêtée par le conseil d'administration.
 	  - Code général des collectivités territoriales - art. R2221-33 (V)
 
 
+##### PARAGRAPHE 2 : Régime financier.
+
+###### Article R323-38
+
+La dotation initiale de la régie, prévue par l'article R. 323-8, représente la contrepartie des créances ainsi que des
+apports en nature ou en espèces effectués par la collectivité locale de rattachement, déduction faite des dettes ayant grevé
+leur acquisition, lesquelles sont mises à la charge de la régie.
+
+Les apports en nature sont enregistrés pour leur valeur vénale. Elle s'accroît des apports ultérieurs, des dons et
+subventions et des réserves.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°59-1225 1959-10-19 art. 31
+
+	**Modifié par**:
+
+	  - Décret n°88-621 1988-05-08 art. 20 JORF 8 mai 1988) A(Décret 2000-318 2000-04-07 art. 4 jorf 9 avril 2000
+
+	**Cité par**:
+
+	  - Décret n°72-27 du 10 janvier 1972 - art. 15 (VT)
+
+	**Codifié par**:
+
+	  - Décret n°77-241 1977-03-07
+
+	**Cite**:
+
+	  - CODE DES COMMUNES. - art. R323-8 (M)
+
+	**Nouveaux textes**:
+
+	  - Code général des collectivités territoriales - art. R2221-34 (V)
+
+
+###### Article R323-39
+
+Les immobilisations peuvent être réévaluées selon les dispositions applicables aux entreprises commerciales.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°59-1225 1959-10-19 art. 32
+
+	**Codifié par**:
+
+	  - Décret n°77-241 1977-03-07
+
+	**Nouveaux textes**:
+
+	  - Code général des collectivités territoriales - art. R2221-35 (V)
+
+	**Modifié par**:
+
+	  - Décret n°88-621 1988-05-08 art. 21 JORF 8 mai 1988) A(Décret 2000-318 2000-04-07 art. 4 jorf 9 avril 2000
+
+
+###### Article R323-49
+
+La régie est habilitée à contracter des emprunts auprès de tous organismes prêteurs et auprès des particuliers. Elle peut
+également acquérir ou faire construire des biens meubles et immeubles payables en plusieurs termes aux cédants et
+entrepreneurs.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°59-1225 1959-10-19 ART. 42
+
+	**Codifié par**:
+
+	  - Décret n°77-241 1977-03-07
+
+	**Nouveaux textes**:
+
+	  - Code général des collectivités territoriales - art. R2221-36 (V)
+
+	**Modifié par**:
+
+	  - Décret n°88-621 1988-05-08 art. 72 JORF 8 mai 1988) A(Décret 2000-318 2000-04-07 art. 4 jorf 9 avril 2000
+
+
+###### Article R323-50
+
+La régie peut recevoir en règlement de ses créances des effets de commerce acceptés, les endosser ou les remettre à
+l'encaissement. Les effets de commerce reçus en règlement peuvent être escomptés conformément aux usages du commerce.
+
+Certaines dépenses fixées par le règlement intérieur peuvent être réglées au moyen d'effets de commerce.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°59-1225 1959-10-19 art. 43
+
+	**Codifié par**:
+
+	  - Décret n°77-241 1977-03-07
+
+	**Nouveaux textes**:
+
+	  - Code général des collectivités territoriales - art. R2221-37 (V)
+
+	**Modifié par**:
+
+	  - Décret n°88-621 1988-05-08 art. 22 JORF 8 mai 1988) A(Décret 2000-318 2000-04-07 art. 4 jorf 9 avril 2000
+
+
+###### Article R323-51
+
+Les fonds de la régie sont déposés au Trésor.
+
+Cependant la régie peut se faire ouvrir des comptes de dépôt à un centre de chèques postaux, à la Caisse des dépôts et
+consignations et à la caisse de crédit municipal.
+
+L'ouverture d'un compte de dépôt dans tout autre établissement de crédit est subordonnée à l'autorisation du trésorier-payeur
+général.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°59-1225 1959-10-19 art. 44
+
+	**Codifié par**:
+
+	  - Décret n°77-241 1977-03-07
+
+	**Nouveaux textes**:
+
+	  - Code général des collectivités territoriales - art. R2221-38 (V)
+
+	**Modifié par**:
+
+	  - Décret n°88-621 1988-05-08 art. 23 JORF 8 mai 1988) A(Décret 2000-318 2000-04-07 art. 4 jorf 9 avril 2000
+
+
+##### PARAGRAPHE 3 : Budget.
+
+###### Article R323-52
+
+Le budget est présenté en deux sections :
+
+- dans la première, sont prévues et autorisées les opérations d'exploitation ;
+
+- dans la seconde, sont prévues et autorisées les opérations d'investissement.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°59-1225 1959-10-19 art. 45
+
+	**Codifié par**:
+
+	  - Décret n°77-241 1977-03-07
+
+	**Nouveaux textes**:
+
+	  - Code général des collectivités territoriales - art. R2221-39 (V)
+
+	**Modifié par**:
+
+	  - Décret n°88-621 1988-05-08 art. 24 JORF 8 mai 1988) A(Décret 2000-318 2000-04-07 art. 4 jorf 9 avril 2000
+
+
+###### Article R323-53
+
+La section d'exploitation ou compte de résultat prévisionnel fait apparaître successivement :
+
+- au titre des produits : les produits d'exploitation, les produits financiers et les produits exceptionnels ;
+
+- au titre des charges : les charges d'exploitation, les charges financières et les charges exceptionnelles.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°59-1225 1959-10-19 art. 46
+
+	**Codifié par**:
+
+	  - Décret n°77-241 1977-03-07
+
+	**Nouveaux textes**:
+
+	  - Code général des collectivités territoriales - art. R2221-40 (V)
+
+	**Modifié par**:
+
+	  - Décret n°88-621 1988-05-08 art. 25 JORF 8 mai 1988
+
+	**Abrogé par**:
+
+	  - Décret n°2000-318 du 7 avril 2000 - art. 4 (V)
+
+
+###### Article R323-54
+
+Les recettes de la section d'investissement, classées par nature de produit, comprennent notamment :
+
+- les apports, réserves et recettes assimilées ;
+
+- les subventions d'investissement ;
+
+- les provisions et les amortissements ;
+
+- les emprunts et dettes assimilées ;
+
+- la valeur nette comptable et la plus-value résultant de la cession d'immobilisation ;
+
+- la diminution des stocks et en-cours de production.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°59-1225 1959-10-19 art. 47
+
+	**Codifié par**:
+
+	  - Décret n°77-241 1977-03-07
+
+	**Abrogé par**:
+
+	  - Décret n°2000-318 du 7 avril 2000 - art. 4 (V)
+
+	**Nouveaux textes**:
+
+	  - Code général des collectivités territoriales - art. R2221-41 (Ab)
+
+	**Modifié par**:
+
+	  - Décret n°88-621 1988-05-08 art. 26 JORF 8 mai 1988
+
+
+###### Article R323-55
+
+Les autorisations de dépenses de la section d'investissement sont classées, conformément à la nomenclature du plan comptable,
+par nature de charges.
+
+Elles sont destinées à couvrir notamment :
+
+- le remboursement du capital des emprunts et dettes assimilées ;
+
+- l'acquisition d'immobilisations incorporelles, corporelles et financières ;
+
+- les charges à répartir sur plusieurs exercices ;
+
+- l'augmentation des stocks et en-cours de production ;
+
+- les reprises sur provisions ;
+
+- le transfert des subventions d'investissement au compte de résultat.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°59-1225 1959-10-19 art. 48
+
+	**Codifié par**:
+
+	  - Décret n°77-241 1977-03-07
+
+	**Nouveaux textes**:
+
+	  - Code général des collectivités territoriales - art. R2221-42 (V)
+
+	**Modifié par**:
+
+	  - Décret n°88-621 1988-05-08 art. 27 JORF 8 mai 1988) A(Décret 2000-318 2000-04-07 art. 4 jorf 9 avril 2000
+
+
+###### Article R323-56
+
+Le projet de budget de l'année à venir est préparé par le directeur. Il est voté par le conseil d'administration.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°59-1225 1959-10-19 art. 49
+
+	**Codifié par**:
+
+	  - Décret n°77-241 1977-03-07
+
+	**Nouveaux textes**:
+
+	  - Code général des collectivités territoriales - art. R2221-43 (V)
+
+	**Modifié par**:
+
+	  - Décret n°88-621 1988-05-08 art. 28 JORF 8 mai 1988) A(Décret 2000-318 2000-04-07 art. 4 jorf 9 avril 2000
+
+
+###### Article R323-57
+
+Les crédits budgétaires de la section d'exploitation du budget non engagés à la clôture de l'exercice ne peuvent être
+reportés au budget de l'exercice suivant.
+
+Les dépenses de la section d'exploitation régulièrement engagées, non mandatées et pour lesquelles il y a eu service fait au
+31 décembre calendaire, sont notifiées par le directeur au comptable et rattachées au résultat de l'exercice qui s'achève.
+
+Les crédits budgétaires de la section d'investissement du budget régulièrement engagés et correspondant à des dépenses non
+mandatées pour lesquelles il y a eu service fait au 31 décembre calendaire sont notifiés par le directeur au comptable et
+reportés au budget de l'exercice suivant.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°59-1225 1959-10-19 art. 50
+
+	**Codifié par**:
+
+	  - Décret n°77-241 1977-03-07
+
+	**Nouveaux textes**:
+
+	  - Code général des collectivités territoriales - art. R2221-44 (V)
+
+	**Modifié par**:
+
+	  - Décret n°88-621 1988-05-08 art. 29 JORF 8 mai 1988) A(Décret 2000-318 2000-04-07 art. 4 jorf 9 avril 2000
+
+
+###### Article R323-57-1
+
+Le conseil d'administration délibère sur l'affectation du résultat comptable de la section d'exploitation du budget selon les
+modalités suivantes :
+
+- L'excédent comptable est affecté :
+
+1° En priorité au compte Report à nouveau dans la limite du solde débiteur de ce compte ;
+
+2° Au financement des mesures d'investissement pour le montant des plus-values de cession d'éléments d'actifs ;
+
+3° Pour le surplus, au financement des charges d'exploitation ou d'investissement, en report à nouveau ou au reversement à la
+collectivité locale de rattachement.
+
+Le déficit comptable est couvert :
+
+1° En priorité par une reprise totale ou partielle sur le report à nouveau créditeur ;
+
+2° Pour le surplus, par ajout aux charges d'exploitation de l'exercice qui suit celui au titre duquel est affecté le
+résultat.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°77-241 1977-03-07
+
+	**Nouveaux textes**:
+
+	  - Code général des collectivités territoriales - art. R2221-45 (V)
+
+	**Créé par**:
+
+	  - Décret n°88-621 1988-05-08 art. 30 JORF 8 mai 1988
+
+	**Abrogé par**:
+
+	  - Décret n°2000-318 du 7 avril 2000 - art. 4 (V)
+
+
+##### PARAGRAPHE 4 : Comptabilité.
+
+###### Article R323-61
+
+La comptabilité tenue par l'agent comptable est placée sous le contrôle du directeur [*pouvoirs*].
+
+Celui-ci peut, ainsi que le président du conseil d'administration, prendre connaissance à tout moment dans les bureaux de
+l'agent comptable des pièces justificatives des recettes et des dépenses et des registres de comptabilité. Il peut recevoir
+copie des pièces de comptabilité.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°59-1225 1959-10-19 art. 54
+
+	**Codifié par**:
+
+	  - Décret n°77-241 1977-03-07
+
+	**Nouveaux textes**:
+
+	  - Code général des collectivités territoriales - art. R2221-28 (V)
+
+	**Modifié par**:
+
+	  - Décret n°88-621 1988-05-08 art. 31 JORF 8 mai 1988
+
+	**Abrogé par**:
+
+	  - Décret n°2000-318 du 7 avril 2000 - art. 4 (V)
+
+
+##### PARAGRAPHE 5 : Compte de fin d'exercice.
+
+###### Article R323-66
+
+En fin d'exercice et après inventaire, le directeur fait établir le compte financier par l'agent comptable.
+
+Ce document est présenté au conseil d'administration en annexe à un rapport du directeur donnant tous éléments d'information
+sur l'activité de la régie au cours du dernier exercice et indiquant les mesures qu'il convient de prendre pour :
+
+- abaisser les prix de revient ;
+
+- accroître la productivité ;
+
+- donner plus de satisfaction aux usagers ;
+
+- d'une manière générale, maintenir l'exploitation de la régie au niveau du progrès technique en modernisant les
+installations et l'organisation. Le conseil d'administration [*attributions*] délibère sur ce rapport et ses annexes.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°59-1225 1959-10-19 art. 59
+
+	**Codifié par**:
+
+	  - Décret n°77-241 1977-03-07
+
+	**Abrogé par**:
+
+	  - Décret n°2000-318 du 7 avril 2000 - art. 4 (V)
+
+	**Nouveaux textes**:
+
+	  - Code général des collectivités territoriales - art. R2221-46 (V)
+
+	**Modifié par**:
+
+	  - Décret n°88-621 1988-05-08 art. 32 JORF 8 mai 1988
+
+
+###### Article R323-67
+
+Le compte financier comprend :
+
+- la balance définitive des comptes ;
+
+- le développement des dépenses et des recettes budgétaires ;
+
+- le bilan et le compte de résultat ;
+
+- le tableau d'affectation des résultats ;
+
+- les annexes définies par instruction conjointe du ministre chargé des collectivités locales et du ministre chargé du
+budget ;
+
+- la balance des stocks établie après inventaire.
+
+Le conseil d'administration arrête le compte financier.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°59-1225 1959-10-19 art. 60
+
+	**Codifié par**:
+
+	  - Décret n°77-241 1977-03-07
+
+	**Cité par**:
+
+	  - CODE DES COMMUNES. - art. R323-68 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code général des collectivités territoriales - art. R2221-47 (V)
+
+	**Modifié par**:
+
+	  - Décret n°88-621 1988-05-08 art. 33 JORF 8 mai 1988) A(Décret 2000-318 2000-04-07 art. 4 jorf 9 avril 2000
+
+
+##### SOUS-SECTION 4 : Fin de la régie.
+
+###### Article R323-71
+
+La régie cesse son exploitation en exécution d'une délibération du conseil municipal.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°59-1225 1959-10-19 art. 64
+
+	**Codifié par**:
+
+	  - Décret n°77-241 1977-03-07
+
+	**Cite**:
+
+	  - CODE DES COMMUNES. - art. L323-2 (M)
+	  - Code des communes L323-2, R323-1
+
+	**Nouveaux textes**:
+
+	  - Code général des collectivités territoriales - art. R2221-49 (V)
+
+	**Modifié par**:
+
+	  - Décret n°88-621 1988-05-08 art. 35 JORF 8 mai 1988) A(Décret 2000-318 2000-04-07 art. 4 jorf 9 avril 2000
+
+
+###### Article R323-72
+
+Dans les cas prévus au 3 de l'article L. 323-7, le préfet peut mettre en demeure le conseil d'administration de la régie de
+prendre dans un délai imparti toutes mesures en vue de remédier à la situation en cause.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°59-1225 1959-10-19 art. 65
+
+	**Codifié par**:
+
+	  - Décret n°77-241 1977-03-07
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: CODE DES COMMUNES. - art. L323-7 (M)
+
+	**Cite**:
+
+	  - CODE DES COMMUNES. - art. L323-7 (M)
+
+	**Nouveaux textes**:
+
+	  - Code général des collectivités territoriales - art. R2221-50 (V)
+
+	**Modifié par**:
+
+	  - Décret n°88-621 1988-05-08 art. 36 JORF 8 mai 1988) A(Décret 2000-318 2000-04-07 art. 4 jorf 9 avril 2000
+
+
+###### Article R323-73
+
+Après une mise en demeure restée sans résultat, le préfet peut décider la suspension provisoire ou l'arrêt définitif des
+opérations de la régie.
+
+Dans ce dernier cas, les dispositions des deuxième, troisième et quatrième alinéas de l'article R. 323-74 sont applicables.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°59-1225 1959-10-19 art. 66
+
+	**Codifié par**:
+
+	  - Décret n°77-241 1977-03-07
+
+	**Cite**:
+
+	  - CODE DES COMMUNES. - art. R323-74 (M)
+
+	**Nouveaux textes**:
+
+	  - Code général des collectivités territoriales - art. R2221-51 (V)
+
+	**Modifié par**:
+
+	  - Décret n°88-621 1988-05-08 art. 37 JORF 8 mai 1988) A(Décret 2000-318 2000-04-07 art. 4 jorf 9 avril 2000
+
+
+###### Article R323-74
+
+La délibération du conseil municipal décidant de renoncer à l'exploitation de la régie détermine la date à laquelle prennent
+fin les opérations de la régie.
+
+Les comptes sont arrêtés à cette date.
+
+Le maire est chargé de procéder à la liquidation de la régie ; à cet effet, il désigne un liquidateur dont il détermine les
+pouvoirs.
+
+Les opérations de liquidation sont retracées dans une comptabilité tenue par l'agent comptable. Cette comptabilité est
+annexée à celle de la commune. Au terme des opérations de liquidation, l'actif et le passif sont repris au budget de la
+commune.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°59-1225 1959-10-19 art. 67
+
+	**Codifié par**:
+
+	  - Décret n°77-241 1977-03-07
+
+	**Cité par**:
+
+	  - CODE DES COMMUNES. - art. R323-73 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code général des collectivités territoriales - art. R2221-52 (V)
+
+	**Modifié par**:
+
+	  - Décret n°88-621 1988-05-08 art. 38 JORF 8 mai 1988) A(Décret 2000-318 2000-04-07 art. 4 jorf 9 avril 2000
+
+
+##### SOUS-SECTION 5 : Règles intercommunales.
+
+###### Article R323-74-1
+
+Les dispositions des sous-sections I à IV sont applicables aux régies dotées de la personnalité morale et de l'autonomie
+financière dont la création est décidée par le comité d'un syndicat de communes en application des articles L. 323-1 et L.
+323-3.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°77-241 1977-03-07
+
+	**Abrogé par**:
+
+	  - Décret n°2000-318 du 7 avril 2000 - art. 4 (V)
+
+	**Cite**:
+
+	  - CODE DES COMMUNES. - art. L323-1 (M)
+	  - CODE DES COMMUNES. - art. L323-3 (Ab)
+
+	**Créé par**:
+
+	  - Décret n°88-621 1988-05-08 art. 39 JORF 8 mai 1988
+
+
 ##### SECTION 3 : Régies dotées de la seule autonomie financière.
 
 ###### Article R*323-75
@@ -62751,6 +64262,37 @@ ministre de l'économie et des finances.
 	**Cite**:
 
 	  - CODE DES COMMUNES. - art. L323-13 (M)
+
+
+##### SOUS-SECTION 1 : Création.
+
+###### Article R323-76
+
+La création d'une régie dotée de la seule autonomie financière en vue d'assurer l'exécution d'un service public à caractère
+industriel ou commercial est décidée par délibération du conseil municipal. Cette délibération arrête les dispositions du
+règlement intérieur de la régie et détermine les moyens qui sont mis à sa disposition.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°77-241 1977-03-07
+
+	**Cité par**:
+
+	  - CODE DES COMMUNES. - art. R323-122 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code général des collectivités territoriales - art. R2221-54 (V)
+
+	**Anciens textes**:
+
+	  - Décret n°1930-02-17 art. 1
+
+	**Modifié par**:
+
+	  - Décret n°88-621 1988-05-08 art. 40 JORF 8 mai 1988) A(Décret 2000-318 2000-04-07 art. 4 jorf 9 avril 2000
 
 
 ##### SOUS-SECTION 2 : Organisation administrative
@@ -62788,7 +64330,202 @@ régies[*cumul des postes*].
 	  - Code général des collectivités territoriales - art. R2221-55 (V)
 
 
+###### Article R323-82
+
+Le conseil municipal [**]attributions[**], après avis du conseil d'exploitation et dans les conditions prévues par le
+règlement intérieur :
+
+- règle les conditions de recrutement, de licenciement et de rémunération du personnel ;
+
+- fixe les tarifs ou les modalités d'établissement des prix ;
+
+- approuve les plans et devis afférents aux constructions neuves ou reconstructions, travaux de première installation ou
+d'extension ;
+
+- autorise le maire à intenter ou soutenir les actions judiciaires, à accepter les transactions ;
+
+- vote le budget de la régie et délibère sur les comptes ;
+
+- délibère sur les mesures à prendre d'après les résultats de l'exploitation à la fin de chaque exercice et, au besoin, en
+cours d'exercice.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret  1930-02-17 ART. 13
+
+	**Codifié par**:
+
+	  - Décret n°77-241 1977-03-07
+
+	**Cité par**:
+
+	  - CODE DES COMMUNES. - art. R323-130 (Ab)
+	  - CODE DES COMMUNES. - art. R323-83 (M)
+
+	**Nouveaux textes**:
+
+	  - Code général des collectivités territoriales - art. R2221-56 (V)
+
+	**Modifié par**:
+
+	  - Décret n°88-621 1988-05-08 art. 72 JORF 8 mai 1988) A(Décret 2000-318 2000-04-07 art. 4 jorf 9 avril 2000
+
+
+###### Article R323-83
+
+Le maire est l'ordonnateur de la régie.
+
+Il prend les mesures nécessaires à l'exécution des décisions du conseil municipal.
+
+Il présente au conseil municipal le budget et le compte financier.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°77-241 1977-03-07
+
+	**Nouveaux textes**:
+
+	  - Code général des collectivités territoriales - art. R2221-57 (V)
+
+	**Anciens textes**:
+
+	  - Décret n°1930-02-17 art. 14
+
+	**Modifié par**:
+
+	  - Décret n°88-621 1988-05-08 art. 41 JORF 8 mai 1988) A(Décret 2000-318 2000-04-07 art. 4 jorf 9 avril 2000
+
+
 ##### PARAGRAPHE 2 : Conseil d'exploitation.
+
+###### Article R323-84
+
+Les membres du conseil d'exploitation sont nommés par le conseil municipal. Ils sont relevés de leurs fonctions par la même
+autorité.
+
+Sauf lorsqu'il est personnellement concerné par l'affaire en discussion, le directeur de la régie assiste aux séances du
+conseil d'exploitation avec voix consultative.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°77-241 1977-03-07
+
+	**Nouveaux textes**:
+
+	  - Code général des collectivités territoriales - art. R2221-58 (V)
+
+	**Anciens textes**:
+
+	  - Décret n°1930-02-17 art. 6
+
+	**Modifié par**:
+
+	  - Décret n°88-621 1988-05-08 art. 42 JORF 8 mai 1988) A(Décret 2000-318 2000-04-07 art. 4 jorf 9 avril 2000
+
+
+###### Article R323-85
+
+Le nombre des membres du conseil d'exploitation titulaires d'un mandat de sénateur, député, conseiller régional, conseiller
+général ou conseiller municipal conféré dans la ou les collectivités intéressées ou dans une circonscription incluant cette
+ou ces collectivités ne peut excéder le tiers du nombre total des membres de ce conseil.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°77-241 1977-03-07
+
+	**Cité par**:
+
+	  - CODE DES COMMUNES. - art. R323-92 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code général des collectivités territoriales - art. R2221-59 (V)
+
+	**Anciens textes**:
+
+	  - Décret n°1930-02-17 art. 7 al. 1
+
+	**Modifié par**:
+
+	  - Décret n°88-621 1988-05-08 art. 43 JORF 8 mai 1988) A(Décret 2000-318 2000-04-07 art. 4 jorf 9 avril 2000
+
+
+###### Article R323-86
+
+Les membres du conseil d'exploitation et les membres du conseil municipal ne peuvent être entrepreneurs ou fournisseurs du
+service à un titre quelconque, ni faire partie du conseil d'administration d'une société qui est elle-même fournisseur de la
+régie [*incompatibilité*].
+
+En cas d'infraction à ces interdictions, l'intéressé est déclaré démissionnaire par l'autorité qui l'a nommé ou par le
+préfet.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°77-241 1977-03-07
+
+	**Cité par**:
+
+	  - CODE DES COMMUNES. - art. R323-73 (M)
+	  - CODE DES COMMUNES. - art. R323-93 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code général des collectivités territoriales - art. R2221-60 (V)
+
+	**Anciens textes**:
+
+	  - Décret n°1930-02-17 art. 7 al. 3
+
+	**Modifié par**:
+
+	  - Décret n°88-621 1988-05-08 art. 44 JORF 8 mai 1988
+
+	**Abrogé par**:
+
+	  - Décret n°2000-318 du 7 avril 2000 - art. 4 (V)
+
+
+###### Article R323-87
+
+Le règlement intérieur fixe :
+
+- le nombre des membres du conseil d'exploitation qui ne peut être inférieur à trois, ni supérieur à quinze ;
+
+- les catégories de personnes parmi lesquelles ils peuvent ou ils doivent être choisis ;
+
+- la durée de leurs fonctions dans la limite de la durée du mandat municipal, ainsi que la durée du mandat du président ou
+des vice-présidents ;
+
+- leur mode de renouvellement.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°1930-02-17 art. 8
+
+	**Codifié par**:
+
+	  - Décret n°77-241 1977-03-07
+
+	**Nouveaux textes**:
+
+	  - Code général des collectivités territoriales - art. R2221-61 (V)
+
+	**Modifié par**:
+
+	  - Décret n°88-621 1988-05-08 art. 45 JORF 8 mai 1988) A(Décret 2000-318 2000-04-07 art. 4 jorf 9 avril 2000
+
 
 ###### Article R323-88
 
@@ -62850,7 +64587,105 @@ En cas de partage, la voix du président est prépondérante.
 	  - Code général des collectivités territoriales - art. R2221-63 (V)
 
 
+###### Article R323-90
+
+Sauf pour les catégories d'affaires pour lesquelles le conseil municipal s'est réservé le pouvoir de décision, le conseil
+d'exploitation délibère sur celles pour lesquelles il n'est pas attribué à une autre autorité par la présente section ou par
+le règlement intérieur.
+
+Il est obligatoirement consulté par le maire sur toutes les questions d'ordre général intéressant le fonctionnement de la
+régie ; il est notamment appelé à émettre son avis dans les cas prévus par les articles R. 323-82 et R. 323-83.
+
+Les projets de budget et les comptes lui sont soumis.
+
+Le conseil peut procéder à toutes mesures d'investigation et de contrôle.
+
+Il présente au maire toutes propositions utiles.
+
+Le directeur tient le conseil au courant de la marche du service.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°1930-02-17 art. 11
+
+	**Codifié par**:
+
+	  - Décret n°77-241 1977-03-07
+
+	**Modifié par**:
+
+	  - Décret n°88-621 1988-05-08 art. 46 JORF 8 mai 1988
+
+	**Abrogé par**:
+
+	  - Décret n°2000-318 du 7 avril 2000 - art. 4 (V)
+
+	**Cite**:
+
+	  - Code des communes R323-75 à R323-132
+
+	**Nouveaux textes**:
+
+	  - Code général des collectivités territoriales - art. R2221-64 (V)
+
+
 ##### PARAGRAPHE 3 : Directeur.
+
+###### Article R323-91
+
+Le directeur de la régie est nommé par le maire, après avis du conseil d'exploitation.
+
+Il est révoqué dans les mêmes conditions.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°1930-02-17 art. 6 al. 2
+
+	**Codifié par**:
+
+	  - Décret n°77-241 1977-03-07
+
+	**Nouveaux textes**:
+
+	  - Code général des collectivités territoriales - art. R2221-65 (V)
+
+	**Modifié par**:
+
+	  - Décret n°88-621 1988-05-08 art. 47 JORF 8 mai 1988) A(Décret 2000-318 2000-04-07 art. 4 jorf 9 avril 2000
+
+
+###### Article R323-92
+
+Les fonctions de directeur sont incompatibles avec l'exercice d'un mandat de sénateur, député, conseiller régional,
+conseiller général ou conseiller municipal conféré dans la ou les collectivités intéressées ou dans une circonscription
+incluant cette ou ces collectivités, ainsi qu'avec celui de membre du conseil d'exploitation de la régie.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°77-241 1977-03-07
+
+	**Cite**:
+
+	  - CODE DES COMMUNES. - art. R323-85 (M)
+
+	**Nouveaux textes**:
+
+	  - Code général des collectivités territoriales - art. R2221-66 (V)
+
+	**Anciens textes**:
+
+	  - Décret n°1930-02-17 art. 7 al. 2
+
+	**Modifié par**:
+
+	  - Décret n°88-621 1988-05-08 art. 48 JORF 8 mai 1988) A(Décret 2000-318 2000-04-07 art. 4 jorf 9 avril 2000
+
 
 ###### Article R323-93
 
@@ -62883,6 +64718,138 @@ Les dispositions de l'article R. 323-86 sont applicables au directeur[*incompati
 	  - Décret n°2000-318 du 7 avril 2000 - art. 4 (V)
 
 
+###### Article R323-94
+
+La rémunération du directeur est fixée par le conseil municipal, sur la proposition du maire, après avis du conseil
+d'exploitation.
+
+**Liens relatifs à cet article**
+
+	**Nouveaux textes**:
+
+	  - Code général des collectivités territoriales - art. R2221-68 (V)
+
+	**Anciens textes**:
+
+	  - Décret n°1930-02-17 art. 9 al. 2
+
+	**Codifié par**:
+
+	  - Décret n°77-241 1977-03-07
+
+	**Modifié par**:
+
+	  - Décret n°88-621 1988-05-08 art. 49 JORF 8 mai 1988) A(Décret 2000-318 2000-04-07 art. 4 jorf 9 avril 2000
+
+
+###### Article R323-95
+
+Le directeur nomme et révoque les agents et employés de la régie, sous réserve, le cas échéant, des dispositions du règlement
+intérieur.
+
+Il assure la bonne marche du service et prépare le budget.
+
+Il procède, sous l'autorité du maire, aux ventes et aux achats courants, dans les conditions fixées par le règlement
+intérieur.
+
+Le directeur peut sous la surveillance et la responsabilité du maire recevoir en toutes matières intéressant le
+fonctionnement de la régie délégation de signature de celui-ci.
+
+Il est remplacé, en cas d'absence ou d'empêchement, par un des fonctionnaires ou employés du service, désigné par le maire
+après avis du conseil d'exploitation.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°77-241 1977-03-07
+
+	**Cite**:
+
+	  - Code des communes R323-90 et R323-110
+
+	**Nouveaux textes**:
+
+	  - Code général des collectivités territoriales - art. R2221-69 (V)
+
+	**Anciens textes**:
+
+	  - Décret n°1930-02-17 art. 12
+
+	**Modifié par**:
+
+	  - Décret n°88-621 1988-05-08 art. 50 JORF 8 mai 1988) A(Décret 2000-318 2000-04-07 art. 4 jorf 9 avril 2000
+
+
+##### PARAGRAPHE 4 : Agent comptable et régisseur.
+
+###### Article R323-96
+
+Les fonctions d'agent comptable de la régie sont remplies par le comptable de la commune.
+
+Toutefois, lorsque les recettes annuelles d'exploitation excèdent 500 000 F [*montant*] , ces fonctions peuvent être confiées
+à un comptable spécial par délibération du conseil municipal prise après avis du conseil d'exploitation et du trésorier-
+payeur général.
+
+L'agent qui remplit les fonctions de comptable spécial est nommé par le préfet sur proposition du maire.
+
+Il est soumis, sous sa responsabilité personnelle et pécuniaire, à l'ensemble des obligations qui incombent aux comptables
+publics en vertu du règlement général sur la comptabilité publique.
+
+Le comptable spécial est soumis à la surveillance du comptable de la commune et du trésorier-payeur général, ainsi qu'au
+contrôle de l'inspection générale des finances.
+
+Les comptes du comptable spécial sont rendus dans les mêmes formes et délais et jugés dans les mêmes conditions que ceux du
+comptable de la commune.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°1930-02-17 art. 26
+
+	**Codifié par**:
+
+	  - Décret n°77-241 1977-03-07
+
+	**Nouveaux textes**:
+
+	  - Code général des collectivités territoriales - art. R2221-70 (V)
+
+	**Modifié par**:
+
+	  - Décret n°88-621 1988-05-08 art. 51 JORF 8 mai 1988) A(Décret 2000-318 2000-04-07 art. 4 jorf 9 avril 2000
+
+
+###### Article R323-97
+
+Le maire peut, après avis du conseil d'exploitation et sur avis conforme de l'agent comptable, créer des régies de recettes
+et des régies d'avances soumises aux conditions de fonctionnement prévues aux articles 3 à 14 du décret n° 64-486 du 28 mai
+1964 relatif aux régies de recettes et aux régies d'avances des organismes publics.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°1930-02-17 art. 29
+
+	**Cite**:
+
+	  - Décret n°64-486 1964-05-28 art. 3 à 14
+
+	**Codifié par**:
+
+	  - Décret n°77-241 1977-03-07
+
+	**Nouveaux textes**:
+
+	  - Code général des collectivités territoriales - art. R2221-71 (V)
+
+	**Modifié par**:
+
+	  - Décret n°88-621 1988-05-08 art. 52 JORF 8 mai 1988) A(Décret 2000-318 2000-04-07 art. 4 jorf 9 avril 2000
+
+
 ##### SOUS-SECTION 3 : Régime financier.
 
 ###### Article R323-98
@@ -62910,6 +64877,91 @@ Les recettes et les dépenses d'exploitation de chaque régie font l'objet d'un 
 	**Nouveaux textes**:
 
 	  - Code général des collectivités territoriales - art. R2221-72 (V)
+
+
+###### Article R323-99
+
+Les moyens mis à la disposition de la régie par le conseil municipal sont constitués par les créances, les sommes et autres
+biens qui lui sont affectés, déduction faite des dettes ayant grevé l'acquisition de ces biens.
+
+Les biens affectés sont enregistrés pour leur valeur vénale.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°77-241 1977-03-07
+
+	**Cité par**:
+
+	  - CODE DES COMMUNES. - art. R323-101 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code général des collectivités territoriales - art. R2221-73 (V)
+
+	**Anciens textes**:
+
+	  - Décret n°1930-02-17 art. 16
+
+	**Modifié par**:
+
+	  - Décret n°88-621 1988-05-08 art. 53 JORF 8 mai 1988) A(Décret 2000-318 2000-04-07 art. 4 jorf 9 avril 2000
+
+
+###### Article R323-100
+
+La délibération qui institue la régie détermine les conditions du remboursement des sommes mises à sa disposition. La durée
+du remboursement ne peut excéder trente ans.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°77-241 1977-03-07
+
+	**Nouveaux textes**:
+
+	  - Code général des collectivités territoriales - art. R2221-74 (V)
+
+	**Anciens textes**:
+
+	  - Décret  1930-02-17 ART. 17
+
+	**Modifié par**:
+
+	  - Décret n°88-621 1988-05-08 art. 72 JORF 8 mai 1988) A(Décret 2000-318 2000-04-07 art. 4 jorf 9 avril 2000
+
+
+###### Article R323-101
+
+En cas d'insuffisance des sommes mises à la disposition de la régie en application de l'article R. 323-99, la régie ne peut
+demander d'avances qu'à la commune.
+
+Le conseil municipal fixe la date de remboursement des avances.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°77-241 1977-03-07
+
+	**Cite**:
+
+	  - CODE DES COMMUNES. - art. R323-99 (M)
+
+	**Nouveaux textes**:
+
+	  - Code général des collectivités territoriales - art. R2221-75 (V)
+	  - Code général des collectivités territoriales - art. R2221-76 (M)
+
+	**Anciens textes**:
+
+	  - Décret n°1930-02-17 art. 18
+
+	**Modifié par**:
+
+	  - Décret n°88-621 1988-05-08 art. 54 JORF 8 mai 1988) A(Décret 2000-318 2000-04-07 art. 4 jorf 9 avril 2000
 
 
 ###### Article R323-102
@@ -62944,7 +64996,522 @@ en dépense au budget de la régie et en recette au budget de la commune.
 	  - Code général des collectivités territoriales - art. R2221-76 (V)
 
 
+###### Article R323-103
+
+Le budget de la régie est préparé par le directeur, soumis pour avis au conseil d'exploitation, présenté par le maire et voté
+par le conseil municipal.
+
+Il est exécutoire dans les mêmes conditions que le budget de la commune.
+
+Il peut être modifié dans les mêmes formes.
+
+Le maire fournit à l'appui de ses propositions un exemplaire du dernier compte administratif ainsi qu'un rapport faisant
+ressortir la situation financière et économique de la régie.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°77-241 1977-03-07
+
+	**Abrogé par**:
+
+	  - Décret n°2000-318 du 7 avril 2000 - art. 4 (V)
+
+	**Nouveaux textes**:
+
+	  - Code général des collectivités territoriales - art. R2221-77 (V)
+
+	**Anciens textes**:
+
+	  - Décret n°1930-02-17 art. 20
+
+	**Modifié par**:
+
+	  - Décret n°88-621 1988-05-08 art. 55 JORF 8 mai 1988
+
+
+###### Article R323-104
+
+Le budget est présenté en deux sections :
+
+- dans la première sont prévues et autorisées les opérations d'exploitation ;
+
+- dans la seconde sont prévues et autorisées les opérations d'investissement.
+
+**Liens relatifs à cet article**
+
+	**Nouveaux textes**:
+
+	  - Code général des collectivités territoriales - art. R2221-78 (V)
+
+	**Anciens textes**:
+
+	  - Décret n°1930-02-17 art. 21 al. 1
+
+	**Codifié par**:
+
+	  - Décret n°77-241 1977-03-07
+
+	**Modifié par**:
+
+	  - Décret n°88-621 1988-05-08 art. 56 JORF 8 mai 1988) A(Décret 2000-318 2000-04-07 art. 4 jorf 9 avril 2000
+
+
+###### Article R323-105
+
+La section d'exploitation ou compte de résultat prévisionnel fait apparaître successivement :
+
+- au titre des produits : les produits d'exploitation, les produits financiers et les produits exceptionnels ;
+
+- au titre des charges : les charges d'exploitation, les charges financières et les charges exceptionnelles.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°77-241 1977-03-07
+
+	**Cite**:
+
+	  - CODE DES COMMUNES. - art. L221-1 (Ab)
+	  - CODE DES COMMUNES. - art. R323-107 (M)
+
+	**Nouveaux textes**:
+
+	  - Code général des collectivités territoriales - art. R2221-79 (V)
+
+	**Anciens textes**:
+
+	  - Décret n°1930-02-17 art. 21 al. 2
+
+	**Modifié par**:
+
+	  - Décret n°88-621 1988-05-08 art. 57 JORF 8 mai 1988) A(Décret 2000-318 2000-04-07 art. 4 jorf 9 avril 2000
+
+
+###### Article R323-106
+
+Les recettes de la section d'investissement classées par nature de produit, comprennent notamment :
+
+- la valeur des biens affectés ;
+
+- les réserves et recettes assimilées ;
+
+- les subventions d'investissement ;
+
+- les provisions et les amortissements ;
+
+- les emprunts et dettes assimilées ;
+
+- la valeur nette comptable et la plus-value résultant de la cession d'immobilisations ;
+
+- la diminution des stocks et en-cours de production.
+
+**Liens relatifs à cet article**
+
+	**Nouveaux textes**:
+
+	  - Code général des collectivités territoriales - art. R2221-80 (V)
+
+	**Anciens textes**:
+
+	  - Décret n°1930-02-17 art. 21 al. 3
+
+	**Codifié par**:
+
+	  - Décret n°77-241 1977-03-07
+
+	**Modifié par**:
+
+	  - Décret n°88-621 1988-05-08 art. 58 JORF 8 mai 1988) A(Décret 2000-318 2000-04-07 art. 4 jorf 9 avril 2000
+
+
+###### Article R323-107
+
+Les autorisations de dépenses de la section d'investissement sont classées, conformément à la nomenclature du plan comptable,
+par nature de charges.
+
+Elles sont destinées à couvrir notamment :
+
+- le remboursement du capital des emprunts et dettes assimilées ;
+
+- l'acquisition d'immobilisations incorporelles, corporelles et financières ;
+
+- les charges à répartir sur plusieurs exercices ;
+
+- l'augmentation des stocks et en-cours de production ;
+
+- les reprises sur provisions ;
+
+- le transfert des subventions d'investissement au compte de résultat.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - CODE DES COMMUNES. - art. R323-105 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code général des collectivités territoriales - art. R2221-81 (V)
+
+	**Anciens textes**:
+
+	  - Décret n°1930-02-17 art. 22
+
+	**Codifié par**:
+
+	  - Décret n°77-241 1977-03-07
+
+	**Modifié par**:
+
+	  - Décret n°88-621 1988-05-08 art. 59 JORF 8 mai 1988) A(Décret 2000-318 2000-04-07 art. 4 jorf 9 avril 2000
+
+
+###### Article R323-110
+
+Les crédits budgétaires de la section d'exploitation du budget non engagés à la clôture de l'exercice ne peuvent être
+reportés au budget de l'exercice suivant.
+
+Les dépenses de la section d'exploitation régulièrement engagées, non mandatées, et pour lesquelles il y a eu service fait au
+31 décembre calendaire, sont notifiées par le directeur au comptable et rattachées au résultat de l'exercice qui s'achève.
+
+Les crédits budgétaires de la section d'investissement du budget régulièrement engagés et correspondant à des dépenses non
+mandatées, pour lesquelles il y a eu service fait au 31 décembre calendaire [*date*], sont notifiés par le directeur au
+comptable et reportés au budget de l'exercice suivant.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°1930-02-17 art. 25
+
+	**Codifié par**:
+
+	  - Décret n°77-241 1977-03-07
+
+	**Nouveaux textes**:
+
+	  - Code général des collectivités territoriales - art. R2221-82 (V)
+
+	**Modifié par**:
+
+	  - Décret n°88-621 1988-05-08 art. 60 JORF 8 mai 1988) A(Décret 2000-318 2000-04-07 art. 4 jorf 9 avril 2000
+
+
+###### Article R323-111
+
+Le conseil municipal délibère sur l'affectation du résultat comptable de la section d'exploitation du budget selon les
+modalités suivantes :
+
+L'excédent comptable est affecté :
+
+1° En priorité au compte Report à nouveau dans la limite du solde débiteur de ce compte ;
+
+2° Au financement des mesures d'investissement pour montant des plus-values de cession d'éléments d'actif dans la limite du
+solde disponible ;
+
+3° Pour le surplus, au financement des charges d'exploitation ou d'investissement, en report à nouveau ou au reversement à la
+collectivité locale de rattachement.
+
+Le déficit comptable est couvert :
+
+1° En priorité par une reprise totale ou partielle sur le report à nouveau débiteur ;
+
+2° Pour le surplus, par ajout aux charges d'exploitation de l'exercice qui suit celui au titre duquel est affecté le
+résultat.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°77-241 1977-03-07
+
+	**Cite**:
+
+	  - Code des communes R241-4
+
+	**Nouveaux textes**:
+
+	  - Code général des collectivités territoriales - art. R2221-83 (V)
+
+	**Anciens textes**:
+
+	  - Décret n°1930-02-17 art. 27
+
+	**Modifié par**:
+
+	  - Décret n°88-621 1988-05-08 art. 61 JORF 8 mai 1988) A(Décret 2000-318 2000-04-07 art. 4 jorf 9 avril 2000
+
+
+###### Article R323-112
+
+Les fonds de la régie sont déposés au Trésor.
+
+Toutefois, il peut être ouvert au nom de l'agent comptable un compte de chèques postaux dont le solde créditeur ne doit pas
+dépasser un maximum fixé par le règlement intérieur.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°77-241 1977-03-07
+
+	**Nouveaux textes**:
+
+	  - Code général des collectivités territoriales - art. R2221-84 (V)
+
+	**Anciens textes**:
+
+	  - Décret n°1930-02-17 art. 28
+
+	**Modifié par**:
+
+	  - Décret n°88-621 1988-05-08 art. 62 JORF 8 mai 1988) A(Décret 2000-318 2000-04-07 art. 4 jorf 9 avril 2000
+
+
+###### Article R323-113
+
+A la fin de chaque exercice et après inventaire, l'agent comptable prépare le compte financier.
+
+Le compte financier comprend :
+
+- la balance définitive des comptes ;
+
+- le développement des dépenses et des recettes budgétaires ;
+
+- le bilan et le compte de résultat ;
+
+- le tableau d'affectations des résultats ;
+
+- les annexes définies par instruction conjointe du ministre chargé des collectivités locales et du ministre chargé du
+budget ;
+
+- la balance des stocks établie après inventaire par le responsable de la comptabilité matière.
+
+L'ordonnateur vise le compte financier. Il le soumet pour avis au conseil d'exploitation accompagné d'un rapport donnant tous
+éléments d'information sur l'activité de la régie.
+
+Le compte financier est présenté par le maire au conseil municipal qui l'arrête.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°77-241 1977-03-07
+
+	**Cité par**:
+
+	  - CODE DES COMMUNES. - art. R323-121 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code général des collectivités territoriales - art. R2221-85 (V)
+
+	**Anciens textes**:
+
+	  - Décret n°1930-02-17 art. 30
+
+	**Modifié par**:
+
+	  - Décret n°88-621 1988-05-08 art. 63 JORF 8 mai 1988) A(Décret 2000-318 2000-04-07 art. 4 jorf 9 avril 2000
+
+
+###### Article R323-115
+
+Indépendamment des comptes, un relevé provisoire des résultats de l'exploitation est arrêté tous les six mois [*date,
+périodicité*] par le directeur, soumis pour avis au conseil d'exploitation, et présenté par le maire au conseil municipal.
+
+Lorsqu'il résulte de ce relevé que l'exploitation est en déficit, le conseil municipal est immédiatement invité par le maire
+à prendre les mesures nécessaires pour rétablir l'équilibre soit en modifiant les tarifs ou les prix de vente, soit en
+réalisant des économies dans l'organisation des services.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°77-241 1977-03-07
+
+	**Nouveaux textes**:
+
+	  - Code général des collectivités territoriales - art. R2221-86 (V)
+
+	**Anciens textes**:
+
+	  - Décret n°1930-02-17 art. 32
+
+	**Modifié par**:
+
+	  - Décret n°88-621 1988-05-08 art. 64 JORF 8 mai 1988) A(Décret 2000-318 2000-04-07 art. 4 jorf 9 avril 2000
+
+
+##### SOUS-SECTION 4 : Fin de la régie.
+
+###### Article R323-117
+
+L'exploitation de la régie prend fin en vertu d'une délibération du conseil municipal.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°1930-02-17 art. 34
+
+	**Codifié par**:
+
+	  - Décret n°77-241 1977-03-07
+
+	**Cite**:
+
+	  - CODE DES COMMUNES. - art. L323-2 (M)
+	  - Code des communes L323-2, R323-1
+
+	**Nouveaux textes**:
+
+	  - Code général des collectivités territoriales - art. R2221-87 (V)
+
+	**Modifié par**:
+
+	  - Décret n°88-621 1988-05-08 art. 65 JORF 8 mai 1988) A(Décret 2000-318 2000-04-07 art. 4 jorf 9 avril 2000
+
+
+###### Article R323-119
+
+Dans les cas prévus au 3° de l'article L. 323-7, le préfet peut mettre en demeure le conseil municipal de prendre dans un
+délai imparti toutes mesures en vue de remédier à la situation en cause.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CODE DES COMMUNES. - art. L323-7 (M)
+
+	**Nouveaux textes**:
+
+	  - Code général des collectivités territoriales - art. R2221-88 (V)
+
+	**Anciens textes**:
+
+	  - Décret n°1930-02-17 art. 36 al. 1 et 2
+
+	**Codifié par**:
+
+	  - Décret n°77-241 1977-03-07
+
+	**Modifié par**:
+
+	  - Décret n°88-621 1988-05-08 art. 66 JORF 8 mai 1988) A(Décret 2000-318 2000-04-07 art. 4 jorf 9 avril 2000
+
+
+###### Article R323-120
+
+Après une mise en demeure restée sans résultat, le préfet peut décider la suspension provisoire ou l'arrêt définitif des
+opérations de la régie.
+
+Dans ce dernier cas, les dispositions des deuxième, troisième et quatrième alinéas de l'article R. 323-121 sont applicables.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°1930-02-17 art. 36 al. 3
+
+	**Codifié par**:
+
+	  - Décret n°77-241 1977-03-07
+
+	**Cite**:
+
+	  - CODE DES COMMUNES. - art. R323-121 (M)
+
+	**Nouveaux textes**:
+
+	  - Code général des collectivités territoriales - art. R2221-89 (V)
+
+	**Modifié par**:
+
+	  - Décret n°88-621 1988-05-08 art. 67 JORF 8 mai 1988) A(Décret 2000-318 2000-04-07 art. 4 jorf 9 avril 2000
+
+
+###### Article R323-121
+
+La délibération du conseil municipal décidant de mettre fin à l'exploitation de la régie détermine la date à laquelle
+prennent fin les opérations de la régie.
+
+Les comptes sont arrêtés à cette date.
+
+Le maire est chargé de procéder à la liquidation de la régie ; à cet effet, il désigne un liquidateur dont il détermine les
+pouvoirs.
+
+Les opérations de liquidation sont retracées dans une comptabilité tenue par l'agent comptable ; cette comptabilité est
+annexée à celle de la commune.
+
+Au terme des opérations de liquidation, l'actif et le passif sont repris au budget de la commune.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°1930-02-17 art. 37
+
+	**Codifié par**:
+
+	  - Décret n°77-241 1977-03-07
+
+	**Cite**:
+
+	  - CODE DES COMMUNES. - art. R323-113 (M)
+
+	**Cité par**:
+
+	  - CODE DES COMMUNES. - art. R323-120 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code général des collectivités territoriales - art. R2221-90 (V)
+
+	**Modifié par**:
+
+	  - Décret n°88-621 1988-05-08 art. 68 JORF 8 mai 1988) A(Décret 2000-318 2000-04-07 art. 4 jorf 9 avril 2000
+
+
 ##### SOUS-SECTION 5 : Régies intercommunales.
+
+###### Article R323-122
+
+L'exploitation d'un ou de plusieurs services d'intérêt public à caractère industriel ou commercial présentant une utilité
+intercommunale peut être assurée, soit par une seule commune agissant à l'égard des autres communes comme concessionnaire,
+soit par un syndicat groupant les diverses communes intéressées.
+
+Il est fait application de l'article R. 323-76 dans chacune des communes intéressées.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°1930-02-17 art. 38
+
+	**Codifié par**:
+
+	  - Décret n°77-241 1977-03-07
+
+	**Abrogé par**:
+
+	  - Décret n°2000-318 du 7 avril 2000 - art. 4 (V)
+
+	**Cite**:
+
+	  - CODE DES COMMUNES. - art. R323-76 (M)
+
+	**Nouveaux textes**:
+
+	  - Code général des collectivités territoriales - art. R2221-91 (V)
+
+	**Modifié par**:
+
+	  - Décret n°88-621 1988-05-08 art. 69 JORF 8 mai 1988
+
 
 ###### Article R323-123
 
@@ -63043,6 +65610,84 @@ dans lesquelles les bénéfices ou les pertes de la régie sont réparties entre
 	**Créé par**:
 
 	  - Décret n°77-241 1977-03-07 JORF et JONC 18 Mars 1977
+
+	**Abrogé par**:
+
+	  - Décret n°2000-318 du 7 avril 2000 - art. 4 (V)
+
+
+###### Article R323-130
+
+Lorsque le syndicat est formé exclusivement en vue d'exploiter un service à caractère industriel ou commercial, l'acte
+institutif du syndicat peut décider que l'administration du syndicat se confond avec celle de la régie.
+
+Dans ce cas, le bureau élu par le comité du syndicat conformément à l'article L. 163-12 exerce les attributions du conseil
+d'exploitation prévu par la sous-section II de la présente section . Les membres de ce bureau peuvent être pris pour un tiers
+[*proportion*] en dehors des membres du comité.
+
+Le comité règle l'organisation générale du service dans les conditions prévues à l'article R. 323-82 et vote le budget.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°1930-02-17 art. 46
+
+	**Codifié par**:
+
+	  - Décret n°77-241 1977-03-07
+
+	**Modifié par**:
+
+	  - Décret n°88-621 1988-05-08 art. 70 JORF 8 mai 1988
+
+	**Abrogé par**:
+
+	  - Décret n°2000-318 du 7 avril 2000 - art. 4 (V)
+
+	**Cite**:
+
+	  - CODE DES COMMUNES. - art. L163-12 (M)
+	  - CODE DES COMMUNES. - art. R323-82 (M)
+
+	**Cité par**:
+
+	  - CODE DES COMMUNES. - art. R323-132 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code général des collectivités territoriales - art. R2221-95 (V)
+
+
+###### Article R323-132
+
+Sous les réserves prévues à l'article R323-130, les dispositions des sous-sections II, III et IV s'appliquent aux régies dont
+l'exploitation est assurée par un syndicat de communes.
+
+Le président du comité exerce les fonctions qui sont dévolues au maire et le comité a les attributions qui appartiennent au
+conseil municipal.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CODE DES COMMUNES. - art. R323-130 (M)
+
+	**Nouveaux textes**:
+
+	  - Code général des collectivités territoriales - art. R2221-96 (V)
+
+	**Anciens textes**:
+
+	  - Décret n°1930-02-17 art. 47
+
+	**Codifié par**:
+
+	  - Décret n°77-241 1977-03-07
+
+	**Modifié par**:
+
+	  - Décret n°88-621 1988-05-08 art. 71 JORF 8 mai 1988
 
 	**Abrogé par**:
 
@@ -63846,6 +66491,40 @@ Un extrait des délibérations est obligatoirement affiché dans les locaux du c
 	**Liens**:
 
 	  - SPEC_APPLI: Décret n°89-229 du 17 avril 1989 - art. 47 (V)
+
+	**Abrogé par**:
+
+	  - Décret n°99-1039 du 10 décembre 1999 - art. 72 ()
+
+
+##### SECTION 3 : Règlement de service - commandement.
+
+###### Article R352-20
+
+Tout sapeur-pompier doit obéissance à ses supérieurs.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°53-170 1953-03-07 ART. 30
+
+	**Codifié par**:
+
+	  - Décret n°77-241 1977-03-07
+
+	**Modifié par**:
+
+	  - Décret n°88-623 du 6 mai 1988 - art. 50 (Ab)
+
+	**Cité par**:
+
+	  - Décret n°88-623 du 6 mai 1988 - art. 50 (Ab)
+	  - Décret n°90-850 du 25 septembre 1990 - art. 25 (V)
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°90-850 1990-09-25 art. 25
 
 	**Abrogé par**:
 
@@ -64956,6 +67635,37 @@ un corps l'attribution de la fourragère*], prévues à l'article R. 352-57.
 
 
 ##### SECTION 7 : Service de santé et de secours médical.
+
+###### Article R352-64
+
+Les médecins assistent avec voix consultative aux séances du conseil d'administration[*du corps*].
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°53-170 1953-03-07 ART. 46 REMPLACE AL. 1, 2 et 4
+
+	**Codifié par**:
+
+	  - Décret n°77-241 1977-03-07
+
+	**Modifié par**:
+
+	  - Décret n°88-623 du 6 mai 1988 - art. 50 (Ab)
+
+	**Cité par**:
+
+	  - Décret n°88-623 du 6 mai 1988 - art. 50 (Ab)
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°90-850 1990-09-25 art. 25
+
+	**Abrogé par**:
+
+	  - Décret n°99-1039 du 10 décembre 1999 - art. 72 ()
+
 
 ###### Article R352-66
 
@@ -66802,6 +69512,39 @@ professionnels est au moins égal aux deux tiers des effectifs ci-dessus mention
 	**Abrogé par**:
 
 	  - Décret n°90-853 du 25 septembre 1990 - art. 30 (Ab)
+
+
+###### Article R353-49
+
+Les sous-officiers, caporaux-chefs, caporaux et sapeurs sont nommés par arrêté du maire, pris après avis du conseil
+d'administration [*du corps de sapeurs-pompiers*].
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°53-170 1953-03-07 ART. 118 REMPLACE
+
+	**Codifié par**:
+
+	  - Décret n°77-241 1977-03-07
+
+	**Modifié par**:
+
+	  - Décret n°88-623 du 6 mai 1988 - art. 50 (Ab)
+
+	**Cité par**:
+
+	  - Décret n°88-623 du 6 mai 1988 - art. 50 (Ab)
+	  - Décret n°89-229 du 17 avril 1989 - art. 47 (V)
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°89-229 du 17 avril 1989 - art. 47 (V)
+
+	**Abrogé par**:
+
+	  - Décret n°89-229 du 17 avril 1989 - art. 47 (V)
 
 
 ###### Article R353-50
@@ -79799,3531 +82542,6 @@ armées et du ministre de l'intérieur.
 
 ## Administration et services communaux
 
-### Services communaux
-
-#### Régies municipales
-
-##### Dispositions générales .
-
-###### Article R*323-1
-
-L'approbation, prévue à l'article L. 323-2, des délibérations des conseils municipaux désignant les services dont ils se
-proposent d'assurer l'exploitation en régie et arrêtant les dispositions qui doivent figurer dans le règlement intérieur de
-ces services, est donnée :
-
-- par arrêté du ministre de l'intérieur et du ou des ministres intéressés lorsque ce règlement déroge à l'un des règlements
-types approuvés par décret en Conseil d'Etat en application de l'article L. 322-1 [*compétence*] ;
-
-- par le préfet dans le cas où il n'existe pas de règlement type applicable à ces services.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Code de l'administration communale 357 REMPLACE
-
-	**Cite**:
-
-	  - Loi n°70-1297 1970-12-31 ART. 22
-	  - CODE DES COMMUNES. - art. L322-1 (Ab)
-	  - CODE DES COMMUNES. - art. L323-2 (M)
-
-	**Codifié par**:
-
-	  - Décret n°77-241 1977-03-07
-
-	**Créé par**:
-
-	  - Décret n°77-241 1977-03-07 JORF et JONC 18 Mars 1977
-
-	**Liens**:
-
-	  - TXT_ASSOCIE: CODE DES COMMUNES. - art. R323-79 (Ab)
-	  - TXT_ASSOCIE: CODE DES COMMUNES. - art. R323-80 (Ab)
-
-
-###### Article R*323-2
-
-Les résultats de la comptabilité matières de chaque régie sont produits au juge des comptes à l'appui du compte en deniers.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Code de l'administration communale 361
-
-	**Codifié par**:
-
-	  - Décret n°77-241 1977-03-07
-
-	**Créé par**:
-
-	  - Décret n°77-241 1977-03-07 JORF et JONC 18 Mars 1977
-
-
-###### Article R*323-4
-
-Les dispositions des articles R. 323-2 et R. 323-3 sont applicables aux régies municipales [*antérieures au 28 décembre 1926
-- date*] mentionnées à l'article L. 323-8.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°77-241 1977-03-07
-
-	**Créé par**:
-
-	  - Décret n°77-241 1977-03-07 JORF et JONC 18 Mars 1977
-
-	**Cite**:
-
-	  - CODE DES COMMUNES. - art. L323-8 (Ab)
-	  - Code des communes R323-2 ET R323-3
-
-
-##### Régies dotées de la personnalité morale et de l'autonomie financière  Création de la régie .
-
-###### Article R323-8
-
-La délibération par laquelle le conseil municipal décide, pour assurer l'exécution d'un service d'intérêt public à caractère
-industriel ou commercial, de créer une régie dotée de la personnalité morale et de l'autonomie financière, fait l'objet d'une
-enquête.
-
-Il est procédé à cette enquête dans les conditions prévues aux articles R. 11-3 à R. 11-13 du code de l'expropriation pour
-cause d'utilité publique.
-
-Si le registre d'enquête contient des déclarations défavorables à l'adoption du projet ou si l'avis du commissaire enquêteur
-lui est opposé, le conseil municipal délibère à nouveau. La nouvelle délibération est jointe aux pièces de l'enquête.
-
-La délibération institutive fixe le montant de la dotation initiale.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°77-241 1977-03-07
-
-	**Cité par**:
-
-	  - CODE DES COMMUNES. - art. R323-10 (Ab)
-	  - CODE DES COMMUNES. - art. R323-38 (Ab)
-
-	**Nouveaux textes**:
-
-	  - Code général des collectivités territoriales - art. R2221-8 (M)
-
-	**Cite**:
-
-	  - Code de l'expropriation pour cause d'utilité publique R11-3 à Code de l'expropriation pour cause d'utilité publique R11-13
-
-
-###### Article R323-9
-
-La délibération, à laquelle est annexé un exemplaire du règlement intérieur, est approuvée dans les conditions [*de
-compétence*] prévues à l'article R. 323-1.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°59-1225 1959-10-19 ART. 2 (PARTIE)
-
-	**Codifié par**:
-
-	  - Décret n°77-241 1977-03-07
-
-	**Créé par**:
-
-	  - Décret n°77-241 1977-03-07 JORF et JONC 18 Mars 1977
-
-	**Cite**:
-
-	  - Code des communes R323-1
-
-	**Abrogé par**:
-
-	  - Décret n°88-621 1988-05-08 art. 72 JORF 8 mai 1988
-
-
-###### Article R323-10
-
-Toute délibération qui décide la transformation d'une régie dotée de la seule autonomie financière en régie dotée de la
-personnalité morale et de l'autonomie financière est instruite et approuvée dans les conditions [*de forme - compétence*]
-prévues aux deux articles précédents.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°59-1225 1959-10-19 ART. 3
-
-	**Codifié par**:
-
-	  - Décret n°77-241 1977-03-07
-
-	**Créé par**:
-
-	  - Décret n°77-241 1977-03-07 JORF et JONC 18 Mars 1977
-
-	**Cite**:
-
-	  - Code des communes R323-8 et R323-9
-
-	**Nouveaux textes**:
-
-	  - Code général des collectivités territoriales - art. R2221-9 (V)
-
-
-##### Régies dotées de la personnalité morale et de l'autonomie financière  Organisation administrative
-
-##### Dispositions générales .
-
-###### Article R323-12
-
-La régie peut, dans les conditions prévues à l'article R. 323-33, acquérir des participations financières dans les
-entreprises publiques, semi-publiques ou privées qui exercent une activité complémentaire ou connexe.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°59-1225 1959-10-19 ART. 5
-
-	**Codifié par**:
-
-	  - Décret n°77-241 1977-03-07
-
-	**Créé par**:
-
-	  - Décret n°77-241 1977-03-07 JORF et JONC 18 Mars 1977
-
-	**Cite**:
-
-	  - CODE DES COMMUNES. - art. R323-33 (Ab)
-
-	**Nouveaux textes**:
-
-	  - Code général des collectivités territoriales - art. R2221-11 (V)
-
-
-##### Conseil d'administration .
-
-###### Article R323-13
-
-Les membres du conseil d'administration sont désignés à concurrence d'un quart [*proportion*] par le préfet [*compétence*].
-Les autres membres sont désignés par le maire, avec l'agrément du préfet [*conditions de forme*].
-
-Ils sont relevés de leurs fonctions par les mêmes autorités.
-
-Toutefois, les membres du conseil d'administration des régies chargées de la gestion d'un marché d'intérêt national sont
-nommés pour moitié par la ou les collectivités locales intéressées, pour moitié par le préfet.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°59-1225 1959-10-19 ART. 6
-
-	**Codifié par**:
-
-	  - Décret n°77-241 1977-03-07
-
-	**Créé par**:
-
-	  - Décret n°77-241 1977-03-07 JORF et JONC 18 Mars 1977
-
-	**Nouveaux textes**:
-
-	  - Code général des collectivités territoriales - art. R2221-12 (V)
-
-
-###### Article R323-15
-
-Le nombre des membres du conseil d'administration titulaires d'un mandat de sénateur, député, conseiller général ou
-conseiller municipal ne peut excéder le tiers du nombre total des membres de ce conseil [*proportion*].
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°59-1225 1959-10-19 art. 8
-
-	**Codifié par**:
-
-	  - Décret n°77-241 1977-03-07
-
-	**Créé par**:
-
-	  - Décret n°77-241 1977-03-07 JORF et JONC 18 Mars 1977
-
-	**Nouveaux textes**:
-
-	  - Code général des collectivités territoriales - art. R2221-14 (V)
-
-
-###### Article R323-16
-
-Le règlement intérieur fixe : [*contenu*]        - le nombre des membres du conseil d'administration qui ne peut être
-inférieur à quatre ni supérieur à douze ;
-
-- les catégories de personnes parmi lesquelles ils peuvent ou doivent être choisis ;
-
-- la durée de leurs fonctions ;
-
-- leur mode de renouvellement.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°59-1225 1959-10-19 art. 9
-
-	**Codifié par**:
-
-	  - Décret n°77-241 1977-03-07
-
-	**Créé par**:
-
-	  - Décret n°77-241 1977-03-07 JORF et JONC 18 Mars 1977
-
-	**Nouveaux textes**:
-
-	  - Code général des collectivités territoriales - art. R2221-15 (Ab)
-
-
-###### Article R323-18
-
-Le conseil d'administration élit, en son sein, son président et un ou plusieurs vice-présidents.
-
-Le conseil d'administration se réunit au moins tous les trois mois [*fréquence*]. Il est en outre réuni chaque fois que le
-président le juge utile, ou sur la demande du préfet ou de la majorité de ses membres.
-
-Ses séances ne sont pas publiques.
-
-En cas de partage, la voix du président est prépondérante.
-
-Le directeur assiste aux séances avec voix consultative.
-
-Le maire ou ses représentants peuvent y assister avec voix consultative.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°59-1225 1959-10-19 ART. 11, AL. 1 et 2
-
-	**Codifié par**:
-
-	  - Décret n°77-241 1977-03-07
-
-	**Créé par**:
-
-	  - Décret n°77-241 1977-03-07 JORF et JONC 18 Mars 1977
-
-	**Nouveaux textes**:
-
-	  - Code général des collectivités territoriales - art. R2221-17 (V)
-
-
-###### Article R323-20
-
-Le conseil d'administration [**]attributions[**] délibère sur toutes les questions intéressant le fonctionnement de la régie.
-
-Le président du conseil d'administration adresse dans les huit jours [**]délai[**] une expédition des délibérations du
-conseil au sous-préfet ou au préfet dans l'arrondissement chef-lieu. Il en est délivré immédiatement récépissé.
-
-Les délibérations soumises à approbation par application des sous-sections III et IV [*fonctionnement et fin de la régie*] de
-la présente section sont considérées comme approuvées si le préfet ou le sous-préfet n'a pas fait connaître sa décision dans
-un délai de quarante jours à compter du dépôt de délibération [*accord tacite*].
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°59-1225 1959-10-19 ART. 13
-
-	**Codifié par**:
-
-	  - Décret n°77-241 1977-03-07
-
-	**Créé par**:
-
-	  - Décret n°77-241 1977-03-07 JORF et JONC 18 Mars 1977
-
-	**Cité par**:
-
-	  - CODE DES COMMUNES. - art. R*142-9 (Ab)
-
-	**Cite**:
-
-	  - Code des communes R323-30 à R323-74
-
-	**Nouveaux textes**:
-
-	  - Code général des collectivités territoriales - art. R2221-19 (V)
-
-
-##### Directeur .
-
-###### Article R323-21
-
-Le directeur de la régie est nommé par le préfet, sur proposition du conseil d'administration.
-
-Il peut être relevé de ses fonctions dans les mêmes conditions.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°59-1225 1959-10-19 ART. 14
-
-	**Codifié par**:
-
-	  - Décret n°77-241 1977-03-07
-
-	**Créé par**:
-
-	  - Décret n°77-241 1977-03-07 JORF et JONC 18 Mars 1977
-
-	**Nouveaux textes**:
-
-	  - Code général des collectivités territoriales - art. R2221-20 (V)
-
-
-###### Article R323-22
-
-Les fonctions de directeur sont incompatibles avec un mandat de sénateur, député, conseiller général ou conseiller municipal
-conféré dans la ou les collectivités intéressées.
-
-Les fonctions de directeur sont incompatibles avec celles de membre du conseil d'administration de la régie.
-
-Le directeur ne peut prendre ou conserver aucun intérêt dans des entreprises en rapport avec la régie, occuper aucune
-fonction dans ces entreprises, ni assurer des prestations pour leur compte.
-
-En cas d'infraction à ces interdictions, le directeur est relevé de ses fonctions par le préfet agissant, soit de sa propre
-initiative, soit sur proposition du conseil d'administration [*sanctions*].Il est immédiatement [**]délai[**] remplacé.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°59-1225 1959-10-19 art. 15
-
-	**Codifié par**:
-
-	  - Décret n°77-241 1977-03-07
-
-	**Créé par**:
-
-	  - Décret n°77-241 1977-03-07 JORF et JONC 18 Mars 1977
-
-	**Nouveaux textes**:
-
-	  - Code général des collectivités territoriales - art. R2221-21 (V)
-
-
-###### Article R323-23
-
-Le directeur assure, sous l'autorité et le contrôle du président du conseil d'administration, le fonctionnement de la régie.
-A cet effet [*attributions*] :
-
-- il prend les mesures nécessaires à l'exécution des décisions du conseil d'administration ;
-
-- il exerce la direction de l'ensemble des services, sous réserve des dispositions ci-après concernant l'agent comptable ;
-
-- il recrute et licencie le personnel nécessaire dans la limite des inscriptions budgétaires ;
-
-- il peut faire assermenter certains agents nommés par lui et agréés par le préfet.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°59-1225 1959-10-19 ART. 16
-
-	**Codifié par**:
-
-	  - Décret n°77-241 1977-03-07
-
-	**Créé par**:
-
-	  - Décret n°77-241 1977-03-07 JORF et JONC 18 Mars 1977
-
-	**Cité par**:
-
-	  - CODE DES COMMUNES. - art. R*142-15 (Ab)
-
-	**Nouveaux textes**:
-
-	  - Code général des collectivités territoriales - art. R2221-22 (V)
-
-
-###### Article R323-24
-
-Le directeur passe, en exécution des décisions du conseil d'administration et avec l'agrément de son président, tous actes,
-contrats, traités et marchés.
-
-Il peut, sous sa responsabilité, déléguer sa signature à un ou plusieurs chefs de service, préalablement agréés à cet effet
-par le président du conseil d'administration [*attributions*].
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°59-1225 1959-10-19 ART. 17
-
-	**Codifié par**:
-
-	  - Décret n°77-241 1977-03-07
-
-	**Créé par**:
-
-	  - Décret n°77-241 1977-03-07 JORF et JONC 18 Mars 1977
-
-	**Cité par**:
-
-	  - CODE DES COMMUNES. - art. R*142-15 (Ab)
-
-	**Nouveaux textes**:
-
-	  - Code général des collectivités territoriales - art. R2221-23 (V)
-
-
-##### Agent comptable .
-
-###### Article R323-25
-
-Les fonctions d'agent comptable, chef de la comptabilité générale, sont confiées soit à un comptable direct du Trésor, soit à
-un agent comptable spécial. Ce dernier est nommé par le préfet sur proposition du conseil d'administration, après avis du
-trésorier-payeur général ; il ne peut être remplacé ou révoqué que dans les mêmes [*conditions de*] formes.
-
-L'agent comptable peut, sous sa responsabilité et avec l'approbation du trésorier-payeur général, déléguer sa signature à un
-ou plusieurs agents qu'il constitue ses fondés de pouvoir par une procuration régulière [**]définition[**].
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°59-1225 1959-10-19 art. 18
-
-	**Codifié par**:
-
-	  - Décret n°77-241 1977-03-07
-
-	**Créé par**:
-
-	  - Décret n°77-241 1977-03-07 JORF et JONC 18 Mars 1977
-
-	**Nouveaux textes**:
-
-	  - Code général des collectivités territoriales - art. R2221-24 (V)
-
-
-###### Article R323-26
-
-L'agent comptable [**]attributions[**] assure le fonctionnement des services de la comptabilité de type commercial de la
-régie, avec l'aide du personnel nécessaire.
-
-L'agent comptable est placé sous l'autorité du directeur.
-
-L'agent comptable est personnellement et pécuniairement responsable de sa gestion et de la sincérité de ses écritures.
-
-Il est astreint à fournir un cautionnement dont le montant est fixé par le préfet après avis du directeur et du trésorier-
-payeur général.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°59-1225 1959-10-19 art. 19
-
-	**Codifié par**:
-
-	  - Décret n°77-241 1977-03-07
-
-	**Créé par**:
-
-	  - Décret n°77-241 1977-03-07 JORF et JONC 18 Mars 1977
-
-	**Nouveaux textes**:
-
-	  - Code général des collectivités territoriales - art. R2221-25 (V)
-
-
-###### Article R323-27
-
-L'agent comptable [*attributions*] est, sous sa responsabilité propre, chargé :
-
-- de la perception des recettes ;
-
-- du paiement des mandats émis par le directeur ;
-
-- de la tenue de la caisse et du portefeuille.
-
-Il a seul qualité pour opérer tout maniement de fonds ou de valeurs.
-
-Il veille à la conservation des droits de la régie et au recouvrement des revenus et créances de toute nature.
-
-Il prend en charge les ordres de recettes émis par le directeur.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°59-1225 1959-10-19 art. 20
-
-	**Codifié par**:
-
-	  - Décret n°77-241 1977-03-07
-
-	**Créé par**:
-
-	  - Décret n°77-241 1977-03-07 JORF et JONC 18 Mars 1977
-
-	**Nouveaux textes**:
-
-	  - Code général des collectivités territoriales - art. R2221-26 (V)
-
-
-###### Article R323-28
-
-Toute saisie-arrêt ou opposition sur les sommes dues par la régie, toute signification de cession ou de transport de ces
-sommes et toute autre signification ayant pour objet d'en arrêter le paiement sont faites entre les mains de l'agent
-comptable [*compétence*].
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°59-1225 1959-10-19 ART. 21
-
-	**Codifié par**:
-
-	  - Décret n°77-241 1977-03-07
-
-	**Créé par**:
-
-	  - Décret n°77-241 1977-03-07 JORF et JONC 18 Mars 1977
-
-	**Abrogé par**:
-
-	  - Décret n°88-621 1988-05-08 art. 72 JORF 8 mai 1988
-
-
-###### Article R323-29
-
-Les comptes de l'agent comptable d'une régie mixte sont justiciables de la Cour des comptes [*recours - compétence*].
-
-L'agent comptable est soumis au contrôle de l'inspection générale des finances et du trésorier-payeur général.
-
-Les comptes des régies communales sont jugés par la Cour des comptes ou apurés par le trésorier-payeur général ou le receveur
-particulier des finances dans les mêmes conditions que les comptes des communes.
-
-Le préfet reçoit en communication les rapports de contrôle des membres de l'inspection générale des finances, du trésorier-
-payeur général ou du receveur particulier des finances. Il peut faire contrôler les opérations et les écritures de la régie
-par un délégué qu'il désigne à cet effet.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°59-1225 1959-10-19 art. 22
-
-	**Codifié par**:
-
-	  - Décret n°77-241 1977-03-07
-
-	**Créé par**:
-
-	  - Décret n°77-241 1977-03-07 JORF et JONC 18 Mars 1977
-
-	**Nouveaux textes**:
-
-	  - Code général des collectivités territoriales - art. R2221-27 (V)
-
-
-##### Régies dotées de la personnalité morale et de l'autonomie financière Fonctionnement
-
-##### Dispositions générales .
-
-###### Article R323-33
-
-Le conseil d'administration [*attributions*] décide la prise ou la cession de participations financières.
-
-Ces décisions sont approuvées dans les conditions [*de forme*] prévues au 6° de l'article L. 121-38 et à l'article L. 121-39
-[*relatifs à l'approbation des délibérations des conseils municipaux*].
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°59-1225 1959-10-19 ART. 26
-
-	**Codifié par**:
-
-	  - Décret n°77-241 1977-03-07
-
-	**Créé par**:
-
-	  - Décret n°77-241 1977-03-07 JORF et JONC 18 Mars 1977
-
-	**Cite**:
-
-	  - CODE DES COMMUNES. - art. L121-39 (Ab)
-	  - Code des communes L121-38 6
-
-	**Cité par**:
-
-	  - CODE DES COMMUNES. - art. R323-12 (M)
-
-	**Abrogé par**:
-
-	  - Décret n°88-621 1988-05-08 art. 72 JORF 8 mai 1988
-
-
-###### Article R323-34
-
-Les taux des redevances dues par les usagers de la régie sont fixés par le conseil d'administration et approuvés par le sous-
-préfet ou par le préfet dans l'arrondissement chef-lieu [*compétence*].
-
-Les taux sont établis de manière à assurer l'équilibre financier de la régie dans les conditions prévues aux articles L.
-322-5 et L. 322-6.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°59-1225 1959-10-19 ART. 27
-
-	**Codifié par**:
-
-	  - Décret n°77-241 1977-03-07
-
-	**Créé par**:
-
-	  - Décret n°77-241 1977-03-07 JORF et JONC 18 Mars 1977
-
-	**Cite**:
-
-	  - Code des communes L322-5 et L322-6
-
-	**Nouveaux textes**:
-
-	  - Code général des collectivités territoriales - art. R2221-32 (V)
-
-
-###### Article R323-36
-
-Sans préjudice des dispositions de l'article L. 322-4 [*interdiction d'attribuer une rémunération supérieure à celle que
-l'Etat alloue à ses fonctionnaires remplissant des fonctions équivalentes*], le personnel de la régie est recruté, rémunéré
-et licencié dans les conditions du droit privé, selon les modalités arrêtées par le conseil d'administration.
-
-Les décisions relatives aux rémunérations sont approuvées [*conditions de forme*] par le sous-préfet ou par le préfet dans
-l'arrondissement chef-lieu [*compétence*].
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°59-1225 1959-10-19 ART. 29
-
-	**Codifié par**:
-
-	  - Décret n°77-241 1977-03-07
-
-	**Créé par**:
-
-	  - Décret n°77-241 1977-03-07 JORF et JONC 18 Mars 1977
-
-	**Cite**:
-
-	  - CODE DES COMMUNES. - art. L322-4 (Ab)
-
-	**Abrogé par**:
-
-	  - Décret n°88-621 1988-05-08 art. 72 JORF 8 mai 1988
-
-
-###### Article R323-37
-
-Le sous-préfet, ou le préfet dans l'arrondissement chef-lieu [*compétence*] peut, à tout moment, faire procéder par des
-agents désignés par ses soins à toutes opérations de contrôle en vue de s'assurer que les prescriptions imposées par la
-présente section et par le règlement de la régie sont observées.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°59-1225 1959-10-19 ART. 30
-
-	**Codifié par**:
-
-	  - Décret n°77-241 1977-03-07
-
-	**Créé par**:
-
-	  - Décret n°77-241 1977-03-07 JORF et JONC 18 Mars 1977
-
-	**Cite**:
-
-	  - Code des communes R323-7 à R323-74
-
-	**Abrogé par**:
-
-	  - Décret n°88-621 1988-05-08 art. 72 JORF 8 mai 1988
-
-
-##### Régime financier .
-
-###### Article R323-38
-
-La dotation initiale de la régie [*définition*], prévue par l'article R. 323-8, est constituée par la valeur des biens
-meubles et immeubles qui lui sont affectés [*ressources*].
-
-Elle s'accroît :
-
-- de la valeur nette des apports ultérieurs consentis à la régie ;
-
-- des dons et subventions faits au titre de l'investissement et attribués par des collectivités ou établissements publics ou
-toute autre personne morale ou physique ;
-
-- des réserves obligatoires qui lui sont incorporées.
-
-La dotation est éventuellement réduite de la valeur des apports restitués ou transférés par la régie.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°59-1225 1959-10-19 art. 31
-
-	**Cité par**:
-
-	  - Décret n°72-27 du 10 janvier 1972 - art. 15 (VT)
-
-	**Codifié par**:
-
-	  - Décret n°77-241 1977-03-07
-
-	**Créé par**:
-
-	  - Décret n°77-241 1977-03-07 JORF et JONC 18 Mars 1977
-
-	**Cite**:
-
-	  - CODE DES COMMUNES. - art. R323-8 (M)
-
-	**Nouveaux textes**:
-
-	  - Code général des collectivités territoriales - art. R2221-34 (V)
-
-
-###### Article R323-39
-
-La dotation [*initiale fixée par le conseil municipal pour la création de la régie*] peut être réévaluée par le conseil
-d'administration [*ressources*].
-
-Cette opération est soumise à l'approbation du sous-préfet ou du préfet dans l'arrondissement chef-lieu [*compétence -
-conditions de forme*].
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°59-1225 1959-10-19 art. 32
-
-	**Codifié par**:
-
-	  - Décret n°77-241 1977-03-07
-
-	**Créé par**:
-
-	  - Décret n°77-241 1977-03-07 JORF et JONC 18 Mars 1977
-
-	**Nouveaux textes**:
-
-	  - Code général des collectivités territoriales - art. R2221-35 (V)
-
-
-###### Article R323-40
-
-Les charges d'exploitation      comprennent notamment :
-
-- les frais de personnel ;
-
-- les impôts et taxes ;
-
-- les travaux, fournitures et services extérieurs ;
-
-- les frais divers de gestion ;
-
-- les frais financiers et charges exceptionnelles ;
-
-- les achats ou les consommations de matières ou fournitures ;
-
-- les dotations annuelles aux comptes d'amortissement et aux comptes de provisions.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°59-1225 1959-10-19 ART. 33
-
-	**Codifié par**:
-
-	  - Décret n°77-241 1977-03-07
-
-	**Créé par**:
-
-	  - Décret n°77-241 1977-03-07 JORF et JONC 18 Mars 1977
-
-	**Abrogé par**:
-
-	  - Décret n°88-621 1988-05-08 art. 72 JORF 8 mai 1988
-
-
-###### Article R323-41
-
-Le conseil d'administration [**]attributions[**] fixe les règles d'amortissement des biens meubles ou immeubles qui se
-déprécient par usage, usure, vétusté ou en raison de l'évolution des techniques [*obsolescence*].
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°59-1225 1959-10-19 ART. 34
-
-	**Codifié par**:
-
-	  - Décret n°77-241 1977-03-07
-
-	**Créé par**:
-
-	  - Décret n°77-241 1977-03-07 JORF et JONC 18 Mars 1977
-
-	**Abrogé par**:
-
-	  - Décret n°88-621 1988-05-08 art. 72 JORF 8 mai 1988
-
-
-###### Article R323-42
-
-Les frais de premier établissement tels que les frais d'études et de recherches et, plus généralement, toutes les charges
-exceptionnelles non portées directement au compte d'exploitation ou de pertes et profits, sont amortis dans un délai maximum
-de cinq ans, sauf dérogation accordée par [*compétence*] le sous-préfet ou par le préfet dans l'arrondissement chef-lieu
-[*bilan*].
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°59-1225 1959-10-19 ART. 35
-
-	**Codifié par**:
-
-	  - Décret n°77-241 1977-03-07
-
-	**Créé par**:
-
-	  - Décret n°77-241 1977-03-07 JORF et JONC 18 Mars 1977
-
-	**Abrogé par**:
-
-	  - Décret n°88-621 1988-05-08 art. 72 JORF 8 mai 1988
-
-
-###### Article R323-43
-
-Les produits d'exploitation comprennent notamment        :
-
-- les redevances ;
-
-- les cessions de fournitures ou de déchets ;
-
-- les produits accessoires ;
-
-- les produits financiers ;
-
-- les produits exceptionnels ;
-
-- la valeur des travaux et productions faits en régie ;
-
-- le montant des reprises des provisions et des subventions d'équipement reçues ;
-
-- les subventions d'exploitation.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°59-1225 1959-10-19 ART. 36
-
-	**Codifié par**:
-
-	  - Décret n°77-241 1977-03-07
-
-	**Créé par**:
-
-	  - Décret n°77-241 1977-03-07 JORF et JONC 18 Mars 1977
-
-	**Abrogé par**:
-
-	  - Décret n°88-621 1988-05-08 art. 72 JORF 8 mai 1988
-
-
-###### Article R323-44
-
-Le résultat d'exploitation de chaque exercice est porté intégralement au bilan.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°59-1225 1959-10-19 ART. 37 AL. 1
-
-	**Codifié par**:
-
-	  - Décret n°77-241 1977-03-07
-
-	**Créé par**:
-
-	  - Décret n°77-241 1977-03-07 JORF et JONC 18 Mars 1977
-
-	**Abrogé par**:
-
-	  - Décret n°88-621 1988-05-08 art. 72 JORF 8 mai 1988
-
-
-###### Article R323-45
-
-Sur l'excédent disponible des résultats d'exploitation cumulés, il est prélevé au début de l'exercice suivant :
-
-- en priorité, la somme nécessaire pour couvrir les pertes antérieures reportées ;
-
-- sur le solde, 5 % pour affectation à la réserve obligatoire dans la limite de 10 % de la dotation [*pourcentage*].
-
-Le solde résiduel est, soit reporté à nouveau, soit versé à d'autres réserves, soit versé au budget de la commune qui a
-institué la régie.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°59-1225 1959-10-19 ART. 37 AL. 2
-
-	**Codifié par**:
-
-	  - Décret n°77-241 1977-03-07
-
-	**Créé par**:
-
-	  - Décret n°77-241 1977-03-07 JORF et JONC 18 Mars 1977
-
-	**Abrogé par**:
-
-	  - Décret n°88-621 1988-05-08 art. 72 JORF 8 mai 1988
-
-
-###### Article R323-46
-
-Le conseil d'administration utilise en priorité la réserve obligatoire pour réduire les pertes reportées et pour amortir les
-frais d'établissement. Il peut, en outre, utiliser le reliquat pour augmenter la dotation.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°59-1225 1959-10-19 ART. 38
-
-	**Codifié par**:
-
-	  - Décret n°77-241 1977-03-07
-
-	**Créé par**:
-
-	  - Décret n°77-241 1977-03-07 JORF et JONC 18 Mars 1977
-
-	**Abrogé par**:
-
-	  - Décret n°88-621 1988-05-08 art. 72 JORF 8 mai 1988
-
-
-###### Article R323-47
-
-Lorsque le compte d'exploitation se solde par un déficit, celui-ci est couvert par prélèvement, en priorité, sur les
-excédents antérieurs qui n'ont pas reçu d'affectation et, ensuite, sur la réserve obligatoire ou les autres réserves.
-
-Lorsque ces prélèvements ne couvrent pas entièrement le déficit constaté, le surplus est inscrit comme report à nouveau, en
-vue d'être ultérieurement apuré.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°59-1225 1959-10-19 ART. 40
-
-	**Codifié par**:
-
-	  - Décret n°77-241 1977-03-07
-
-	**Créé par**:
-
-	  - Décret n°77-241 1977-03-07 JORF et JONC 18 Mars 1977
-
-	**Abrogé par**:
-
-	  - Décret n°88-621 1988-05-08 art. 72 JORF 8 mai 1988
-
-
-###### Article R323-48
-
-La situation nette de la régie est constituée par la différence entre   : 
-
-1° D'une part :
-
-- la dotation ;
-
-- la réserve obligatoire ;
-
-- la réserve spéciale de réévaluation ;
-
-- les autres réserves ;
-
-- les résultats d'exploitation excédentaires ;
-
-- le report à nouveau créditeur. 2° D'autre part :
-
-- le report à nouveau débiteur ;
-
-- les frais d'établissement non amortis ;
-
-- les résultats d'exploitation déficitaires.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°59-1225 1959-10-19 ART. 41
-
-	**Codifié par**:
-
-	  - Décret n°77-241 1977-03-07
-
-	**Créé par**:
-
-	  - Décret n°77-241 1977-03-07 JORF et JONC 18 Mars 1977
-
-	**Abrogé par**:
-
-	  - Décret n°88-621 1988-05-08 art. 72 JORF 8 mai 1988
-
-
-###### Article R323-49
-
-La régie est habilitée à contracter des emprunts auprès de tous organismes prêteurs et auprès des particuliers. Elle peut
-également acquérir ou faire construire des biens meubles et immeubles payables en plusieurs termes aux cédants et
-entrepreneurs.
-
-Sont approuvés par le sous-préfet [*compétence - tutelle*] ou par le préfet dans l'arrondissement chef-lieu, les projets de
-contrats portant règlement de dettes à termes échelonnés sur plus d'une année, ainsi que les emprunts autres que ceux
-contractés auprès des organismes [*Caisse des dépôts et consignations, caisses d'épargne, Crédit foncier de France, caisses
-de Crédit agricole, fonds forestier national, caisse de prêts aux organismes d'habitation à loyer modéré, agences financières
-de bassin, caisse d'aide à l'équipement des collectivités locales*] énumérés au 1° de l'article L. 121-38.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°59-1225 1959-10-19 ART. 42
-
-	**Codifié par**:
-
-	  - Décret n°77-241 1977-03-07
-
-	**Créé par**:
-
-	  - Décret n°77-241 1977-03-07 JORF et JONC 18 Mars 1977
-
-	**Cite**:
-
-	  - Code des communes L121-38 1°
-
-	**Nouveaux textes**:
-
-	  - Code général des collectivités territoriales - art. R2221-36 (V)
-
-
-###### Article R323-50
-
-La régie peut recevoir en règlement de ses créances des traites acceptées, les endosser ou les remettre à l'encaissement au
-Trésor ou à tout établissement de crédit auprès duquel elle a un compte. Les traites reçues en règlement peuvent être
-escomptées conformément aux usages du commerce.
-
-Les opérations matérielles de recouvrement et de paiement peuvent être effectuées conformément aux usages du commerce, et
-notamment par virements bancaires, par chèques, par traites, par mandats-cartes ou chèques postaux [*moyens de paiement*].
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°59-1225 1959-10-19 art. 43
-
-	**Codifié par**:
-
-	  - Décret n°77-241 1977-03-07
-
-	**Créé par**:
-
-	  - Décret n°77-241 1977-03-07 JORF et JONC 18 Mars 1977
-
-	**Nouveaux textes**:
-
-	  - Code général des collectivités territoriales - art. R2221-37 (V)
-
-
-###### Article R323-51
-
-La régie peut se faire ouvrir des comptes courants au Trésor public, à un centre de chèques postaux, à la Caisse des dépôts
-et consignations et à la caisse de crédit municipal des communes intéressées.
-
-L'ouverture d'un compte courant dans tout autre établissement de crédit est subordonnée à l'autorisation du préfet, après
-accord du trésorier-payeur général [*conditions de forme*].
-
-L'agent comptable signe seul les documents relatifs aux mouvements de fonds [*compétence*].
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°59-1225 1959-10-19 art. 44
-
-	**Codifié par**:
-
-	  - Décret n°77-241 1977-03-07
-
-	**Créé par**:
-
-	  - Décret n°77-241 1977-03-07 JORF et JONC 18 Mars 1977
-
-	**Nouveaux textes**:
-
-	  - Code général des collectivités territoriales - art. R2221-38 (V)
-
-
-##### Budget .
-
-###### Article R323-52
-
-Le budget de la régie présente les prévisions des recettes et des dépenses.
-
-Il comprend une section de fonctionnement et une section d'investissement.
-
-Il est établi pour la période allant du 1er janvier au 31 décembre de chaque année [*exercice budgétaire - définition*] et
-divisé en chapitres qui ne doivent comprendre respectivement que des recettes et des dépenses de même nature [*conditions de
-forme*].
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°59-1225 1959-10-19 art. 45
-
-	**Codifié par**:
-
-	  - Décret n°77-241 1977-03-07
-
-	**Créé par**:
-
-	  - Décret n°77-241 1977-03-07 JORF et JONC 18 Mars 1977
-
-	**Nouveaux textes**:
-
-	  - Code général des collectivités territoriales - art. R2221-39 (V)
-
-
-###### Article R323-53
-
-La section de fonctionnement comprend [**]définition[**] :
-
-- un compte d'exploitation prévisionnel ;
-
-- un compte de pertes et profits prévisionnel ;
-
-- un compte prévisionnel de répartition des résultats.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°59-1225 1959-10-19 ART. 46
-
-	**Codifié par**:
-
-	  - Décret n°77-241 1977-03-07
-
-	**Créé par**:
-
-	  - Décret n°77-241 1977-03-07 JORF et JONC 18 Mars 1977
-
-	**Nouveaux textes**:
-
-	  - Code général des collectivités territoriales - art. R2221-40 (V)
-
-
-###### Article R323-54
-
-Les opérations de la section d'investissement sont classées par nature.
-
-Elles comprennent : [*définition*] 1° En dépenses :
-
-- les remboursements d'emprunts ;
-
-- les acquisitions des biens meubles et immeubles ;
-
-- les achats de fournitures stockées. 2° En recettes :
-
-- le produit des emprunts ;
-
-- les subventions d'équipement, les dons et legs ;
-
-- les cessions et l'amortissement des biens meubles et immeubles ;
-
-- la consommation de fournitures stockées ;
-
-- la part de l'excédent de la section de fonctionnement affectée à l'équipement.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°59-1225 1959-10-19 ART. 47
-
-	**Codifié par**:
-
-	  - Décret n°77-241 1977-03-07
-
-	**Créé par**:
-
-	  - Décret n°77-241 1977-03-07 JORF et JONC 18 Mars 1977
-
-	**Nouveaux textes**:
-
-	  - Code général des collectivités territoriales - art. R2221-41 (Ab)
-
-
-###### Article R323-55
-
-La section de fonctionnement et la section d'investissement doivent, l'une et l'autre, être présentées en équilibre réel.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°59-1225 1959-10-19 art. 48
-
-	**Codifié par**:
-
-	  - Décret n°77-241 1977-03-07
-
-	**Créé par**:
-
-	  - Décret n°77-241 1977-03-07 JORF et JONC 18 Mars 1977
-
-	**Nouveaux textes**:
-
-	  - Code général des collectivités territoriales - art. R2221-42 (V)
-
-
-###### Article R323-56
-
-Le projet de budget de l'année à venir est préparé par le directeur. Il est voté par le conseil d'administration avant le 15
-octobre [*date - délai*].
-
-Il est approuvé par le sous-préfet [*compétence*], ou par le préfet dans l'arrondissement chef-lieu, lorsque le compte
-d'exploitation du dernier exercice fait apparaître un déficit. En cas de refus d'approbation, le budget est réexaminé par le
-conseil d'administration. Le préfet, ou le sous-préfet, l'arrête ensuite définitivement.
-
-Dans le cas prévu à l'alinéa précédent, lorsque le budget n'a pas été approuvé ou arrêté par le préfet ou le sous-préfet à
-l'ouverture de l'exercice, le président du conseil d'administration peut autoriser le directeur, dans la limite des
-prévisions votées par le conseil d'administration et sauf opposition du préfet, à procéder à l'engagement des dépenses
-d'exploitation ou à la continuation des travaux entrepris en exécution des programmes antérieurement approuvés.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°59-1225 1959-10-19 art. 49
-
-	**Codifié par**:
-
-	  - Décret n°77-241 1977-03-07
-
-	**Créé par**:
-
-	  - Décret n°77-241 1977-03-07 JORF et JONC 18 Mars 1977
-
-	**Nouveaux textes**:
-
-	  - Code général des collectivités territoriales - art. R2221-43 (V)
-
-
-###### Article R323-57
-
-Les inscriptions concernant les éléments variables de la section de fonctionnement sont faites à titre indicatif.
-
-Pour modifier les éléments fixes de la section de fonctionnement tels que taux des redevances, effectifs maximums et tarifs
-de rémunérations du personnel, ainsi que l'ensemble des opérations de la section d'investissement, la régie établit et vote
-un budget modificatif dans les conditions prévues aux articles précédents.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°59-1225 1959-10-19 art. 50
-
-	**Codifié par**:
-
-	  - Décret n°77-241 1977-03-07
-
-	**Créé par**:
-
-	  - Décret n°77-241 1977-03-07 JORF et JONC 18 Mars 1977
-
-	**Cite**:
-
-	  - Code des communes R323-52 à R323-56
-
-	**Nouveaux textes**:
-
-	  - Code général des collectivités territoriales - art. R2221-44 (V)
-
-
-##### Comptabilité .
-
-###### Article R323-58
-
-La comptabilité de la régie est organisée et tenue de manière à permettre :
-
-1° De contrôler l'exécution régulière des prévisions de recettes et de dépenses approuvées pour chaque exercice ;
-
-2° De déterminer le montant des produits et des charges de l'exploitation ;
-
-3° D'apprécier la situation de l'actif et du passif de la régie ;
-
-4° De dégager le coût des différents secteurs d'activité de la régie.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°59-1225 1959-10-19 ART. 51
-
-	**Codifié par**:
-
-	  - Décret n°77-241 1977-03-07
-
-	**Créé par**:
-
-	  - Décret n°77-241 1977-03-07 JORF et JONC 18 Mars 1977
-
-	**Abrogé par**:
-
-	  - Décret n°88-621 1988-05-08 art. 72 JORF 8 mai 1988
-
-
-###### Article R323-59
-
-Le directeur [*attributions*] procède à la liquidation des dépenses et des recettes.
-
-Il établit et transmet à l'agent comptable les ordres de paiement et les titres de recettes.
-
-Il tient comptabilité de l'engagement des dépenses, de l'émission des titres de recettes et des ordres de paiement transmis à
-l'agent comptable.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°59-1225 1959-10-19 ART. 52
-
-	**Codifié par**:
-
-	  - Décret n°77-241 1977-03-07
-
-	**Créé par**:
-
-	  - Décret n°77-241 1977-03-07 JORF et JONC 18 Mars 1977
-
-	**Abrogé par**:
-
-	  - Décret n°88-621 1988-05-08 art. 72 JORF 8 mai 1988
-
-
-###### Article R323-60
-
-Les opérations en deniers et en matières de la régie sont constatées dans des écritures tenues selon les principes du plan
-comptable général et conformément à un plan comptable particulier par type de régie, qui est arrêté conjointement par le
-ministre de l'intérieur et le ministre de l'économie et des finances.
-
-Ces opérations sont récapitulées dans les balances mensuelles. Les résultats sont déterminés, en fin d'exercice, après un
-inventaire, par une balance générale des comptes, un compte d'exploitation, un compte de pertes et profits et un bilan.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°59-1225 1959-10-19 ART. 53
-
-	**Codifié par**:
-
-	  - Décret n°77-241 1977-03-07
-
-	**Créé par**:
-
-	  - Décret n°77-241 1977-03-07 JORF et JONC 18 Mars 1977
-
-	**Abrogé par**:
-
-	  - Décret n°88-621 1988-05-08 art. 72 JORF 8 mai 1988
-
-
-###### Article R323-61
-
-La comptabilité tenue par l'agent comptable est placée sous le contrôle du directeur [*pouvoirs*].
-
-Celui-ci peut, ainsi que le président du conseil d'administration, prendre connaissance à tout moment dans les bureaux de
-l'agent comptable des pièces justificatives des recettes et des dépenses et des registres de comptabilité. Il peut recevoir
-en communication les pièces de comptabilité contre reçu détaillé et certifié.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°59-1225 1959-10-19 ART. 54
-
-	**Codifié par**:
-
-	  - Décret n°77-241 1977-03-07
-
-	**Créé par**:
-
-	  - Décret n°77-241 1977-03-07 JORF et JONC 18 Mars 1977
-
-	**Nouveaux textes**:
-
-	  - Code général des collectivités territoriales - art. R2221-28 (V)
-
-
-###### Article R323-62
-
-Le directeur peut, avec l'agrément du conseil d'administration [*conditions de forme*], confier les opérations de recettes et
-de dépenses à des régisseurs de recettes et de dépenses, conformément à la réglementation applicable aux communes.
-
-Les régisseurs agissent sous la responsabilité de l'agent comptable, qui donne son avis sur leur nomination.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°59-1225 1959-10-19 ART. 55
-
-	**Codifié par**:
-
-	  - Décret n°77-241 1977-03-07
-
-	**Créé par**:
-
-	  - Décret n°77-241 1977-03-07 JORF et JONC 18 Mars 1977
-
-	**Abrogé par**:
-
-	  - Décret n°88-621 1988-05-08 art. 72 JORF 8 mai 1988
-
-
-###### Article R323-63
-
-Les motifs de tout refus de paiement doivent être aussitôt [**]délai[**] portés par l'agent comptable à la connaissance du
-directeur.
-
-Lorsque le directeur requiert par écrit et sous sa responsabilité qu'il soit passé outre, l'agent comptable se conforme à
-cette réquisition, qu'il annexe au titre de paiement.
-
-Le directeur rend compte au président du conseil d'administration des réquisitions de paiement émises par lui. L'agent
-comptable en informe le préfet et le trésorier-payeur général par une lettre dont il remet copie au directeur.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°59-1225 1959-10-19 ART. 56
-
-	**Codifié par**:
-
-	  - Décret n°77-241 1977-03-07
-
-	**Créé par**:
-
-	  - Décret n°77-241 1977-03-07 JORF et JONC 18 Mars 1977
-
-	**Abrogé par**:
-
-	  - Décret n°88-621 1988-05-08 art. 72 JORF 8 mai 1988
-
-
-###### Article R323-64
-
-Lorsque les recettes n'ont pu être recouvrées par les voies ordinaires, l'agent comptable en rend compte au directeur, qui
-procède, s'il y a lieu, aux poursuites et instances judiciaires [*action en justice*].
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°59-1225 1959-10-19 ART. 57
-
-	**Codifié par**:
-
-	  - Décret n°77-241 1977-03-07
-
-	**Créé par**:
-
-	  - Décret n°77-241 1977-03-07 JORF et JONC 18 Mars 1977
-
-	**Abrogé par**:
-
-	  - Décret n°88-621 1988-05-08 art. 72 JORF 8 mai 1988
-
-
-###### Article R323-65
-
-En fin d'année ou au moment de la cessation de fonctions de l'agent comptable, le directeur [**]attributions[**] arrête les
-registres principaux de comptabilité de l'agent comptable. Il procède à la reconnaissance des soldes des comptes de
-disponibilités, des comptes de portefeuille et des comptes de valeurs inactives. Il dresse procès-verbal de ces différentes
-opérations.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°59-1225 1959-10-19 ART. 58
-
-	**Codifié par**:
-
-	  - Décret n°77-241 1977-03-07
-
-	**Créé par**:
-
-	  - Décret n°77-241 1977-03-07 JORF et JONC 18 Mars 1977
-
-	**Cité par**:
-
-	  - CODE DES COMMUNES. - art. R323-69 (Ab)
-
-	**Abrogé par**:
-
-	  - Décret n°88-621 1988-05-08 art. 72 JORF 8 mai 1988
-
-
-##### Compte de fin d'exercice .
-
-###### Article R323-66
-
-En fin d'exercice, le directeur fait établir par l'agent comptable après inventaire, la balance générale des comptes, le
-bilan, le compte d'exploitation, le compte de pertes et profits et la situation de l'exécution du budget.
-
-Ces documents sont présentés au conseil d'administration en annexe à un rapport du directeur donnant tous éléments
-d'information sur l'activité de la régie au cours du dernier exercice et indiquant les mesures qu'il convient de prendre
-pour :
-
-- abaisser les prix de revient ;
-
-- accroître la productivité ;
-
-- donner plus de satisfaction aux usagers ;
-
-- d'une manière générale, maintenir l'exploitation de la régie au niveau du progrès technique en modernisant les
-installations et l'organisation.
-
-Le conseil d'administration [*attributions*] délibère sur ce rapport et ses annexes.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°59-1225 1959-10-19 ART. 59
-
-	**Codifié par**:
-
-	  - Décret n°77-241 1977-03-07
-
-	**Créé par**:
-
-	  - Décret n°77-241 1977-03-07 JORF et JONC 18 Mars 1977
-
-	**Nouveaux textes**:
-
-	  - Code général des collectivités territoriales - art. R2221-46 (V)
-
-
-###### Article R323-67
-
-Le compte financier de la régie, présenté au juge des comptes par l'agent comptable, comprend [*contenu - définition*] :
-
-- la balance générale des comptes du grand livre établie après inventaire ;
-
-- le développement des opérations de la section de fonctionnement du budget ;
-
-- le développement des opérations de la section d'investissement du budget.
-
-Après avoir été visé par le directeur qui en vérifie l'exactitude, le compte financier est délibéré par le conseil
-d'administration [*attributions*] auquel il est soumis avant le 1er juillet [*date - délai*] qui suit la clôture de
-l'exercice.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°59-1225 1959-10-19 art. 60
-
-	**Codifié par**:
-
-	  - Décret n°77-241 1977-03-07
-
-	**Créé par**:
-
-	  - Décret n°77-241 1977-03-07 JORF et JONC 18 Mars 1977
-
-	**Cité par**:
-
-	  - CODE DES COMMUNES. - art. R323-68 (Ab)
-
-	**Nouveaux textes**:
-
-	  - Code général des collectivités territoriales - art. R2221-47 (V)
-
-
-###### Article R323-69
-
-Le compte financier est accompagné des pièces ci-après :
-
-1° Etat des prix de revient par service ;
-
-2° Inventaire, bilan, compte de pertes et profits et rapport du directeur ;
-
-3° Procès-verbal prévu à l'article R. 323-65 ;
-
-4° Etat de développement des soldes des comptes de tiers et des comptes financiers ;
-
-5° Balance des comptes de valeurs inactives ;
-
-6° Balance provisoire à la clôture de l'exercice ;
-
-7° Budget primitif de l'exercice, ainsi que toutes décisions modificatives ayant pu l'affecter ;
-
-8° Tableau des rectifications de crédits ;
-
-9° Décisions fixant ou modifiant le statut du personnel, le tableau des effectifs et les tarifs des rémunérations ;
-
-10° Décisions nommant des régisseurs de recettes ou des régisseurs de dépenses ;
-
-11° Ampliation des décisions du conseil d'administration sur toute question d'ordre financier et notamment de la décision qui
-statue sur le compte financier et de celle qui fixe le mode de calcul des amortissements ;
-
-12° Pièces justificatives des recettes et des dépenses ;
-
-13° Etat de l'actif ;
-
-14° Etat du passif ;
-
-15° Etat des restes à recouvrer ;
-
-16° Etat des restes à payer.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°59-1225 1959-10-19 ART. 62
-
-	**Codifié par**:
-
-	  - Décret n°77-241 1977-03-07
-
-	**Créé par**:
-
-	  - Décret n°77-241 1977-03-07 JORF et JONC 18 Mars 1977
-
-	**Cite**:
-
-	  - CODE DES COMMUNES. - art. R323-65 (Ab)
-
-	**Abrogé par**:
-
-	  - Décret n°88-621 1988-05-08 art. 72 JORF 8 mai 1988
-
-
-###### Article R323-70
-
-Le compte financier est apuré dans les formes et sous les sanctions applicables aux comptes des communes.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°59-1225 1959-10-19 ART. 63
-
-	**Codifié par**:
-
-	  - Décret n°77-241 1977-03-07
-
-	**Créé par**:
-
-	  - Décret n°77-241 1977-03-07 JORF et JONC 18 Mars 1977
-
-	**Cité par**:
-
-	  - CODE DES COMMUNES. - art. R*142-28 (Ab)
-
-	**Abrogé par**:
-
-	  - Décret n°88-621 1988-05-08 art. 72 JORF 8 mai 1988
-
-
-##### Régies dotées de la personnalité morale et de l'autonomie financière Fin de la régie .
-
-###### Article R323-71
-
-La régie cesse son exploitation :
-
-- soit en exécution d'une délibération du conseil d'administration ou du conseil municipal, approuvée par le préfet lorsque
-la création de la régie était soumise à approbation [**]conditions de forme[**], par application des articles L. 323-2 et R.
-323-1 ;
-
-- soit par suite du retrait de l'autorisation d'exploiter qui avait été le cas échéant accordée à la régie, par application
-des mêmes articles.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°59-1225 1959-10-19 art. 64
-
-	**Codifié par**:
-
-	  - Décret n°77-241 1977-03-07
-
-	**Créé par**:
-
-	  - Décret n°77-241 1977-03-07 JORF et JONC 18 Mars 1977
-
-	**Cite**:
-
-	  - CODE DES COMMUNES. - art. L323-2 (M)
-	  - Code des communes R323-1
-
-	**Nouveaux textes**:
-
-	  - Code général des collectivités territoriales - art. R2221-49 (V)
-
-
-###### Article R323-72
-
-Dans les conditions prévues à l'article L. 323-7, l'autorisation d'exploiter peut être retirée à toute époque par l'autorité
-qui l'a accordée [*compétence*] et dans les [*conditions de*] formes prescrites pour l'octroi de l'autorisation :
-
-- lorsqu'il s'avère que le fonctionnement de la régie est de nature à compromettre la sécurité ou l'hygiène publiques ;
-
-- lorsque la régie n'apparaît plus en état d'assurer le service dont elle est chargée ;
-
-- éventuellement dans les cas prévus par le règlement intérieur.
-
-Avant l'intervention de la décision de retrait, le préfet impartit un délai au conseil d'administration de la régie pour
-qu'il présente ses explications ou prenne les mesures estimées nécessaires. Si le conseil d'administration ne prend pas des
-mesures reconnues satisfaisantes, ou s'il garde le silence [*accord tacite*], la décision est prise à l'expiration du délai.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°59-1225 1959-10-19 art. 65
-
-	**Codifié par**:
-
-	  - Décret n°77-241 1977-03-07
-
-	**Créé par**:
-
-	  - Décret n°77-241 1977-03-07 JORF et JONC 18 Mars 1977
-
-	**Liens**:
-
-	  - TXT_ASSOCIE: CODE DES COMMUNES. - art. L323-7 (M)
-
-	**Cite**:
-
-	  - CODE DES COMMUNES. - art. L323-7 (M)
-
-	**Nouveaux textes**:
-
-	  - Code général des collectivités territoriales - art. R2221-50 (V)
-
-
-###### Article R323-73
-
-Sans préjudice des dispositions qui précèdent [*décision de retrait d'autorisation d'exploiter*], le préfet
-[**]compétence[**] peut décider la suspension provisoire des opérations de la régie lorsque son fonctionnement compromet la
-sécurité publique.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°59-1225 1959-10-19 art. 66
-
-	**Codifié par**:
-
-	  - Décret n°77-241 1977-03-07
-
-	**Créé par**:
-
-	  - Décret n°77-241 1977-03-07 JORF et JONC 18 Mars 1977
-
-	**Cite**:
-
-	  - CODE DES COMMUNES. - art. R323-86 (M)
-
-	**Nouveaux textes**:
-
-	  - Code général des collectivités territoriales - art. R2221-51 (V)
-
-
-###### Article R323-74
-
-La délibération du conseil d'administration ou du conseil municipal décidant de renoncer à l'exploitation ou la décision
-portant retrait de l'autorisation d'exploiter détermine la date à laquelle prennent fin les opérations de la régie.
-
-Les comptes sont arrêtés à cette date.
-
-Le préfet [**]compétence[**] est chargé de procéder à la liquidation de la régie ; à cet effet, il désigne un ou plusieurs
-liquidateurs dont il détermine les pouvoirs.
-
-La nomination du liquidateur met fin aux pouvoirs du conseil d'administration et du directeur.
-
-Les résultats de la liquidation sont portés à un compte hors budget rattaché au budget de la collectivité.
-
-Lorsque la collectivité a contracté des emprunts pour la régie, le solde excédentaire de la liquidation est affecté par
-priorité au remboursement de ces emprunts.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°59-1225 1959-10-19 art. 67
-
-	**Codifié par**:
-
-	  - Décret n°77-241 1977-03-07
-
-	**Créé par**:
-
-	  - Décret n°77-241 1977-03-07 JORF et JONC 18 Mars 1977
-
-	**Cité par**:
-
-	  - CODE DES COMMUNES. - art. R323-73 (Ab)
-
-	**Nouveaux textes**:
-
-	  - Code général des collectivités territoriales - art. R2221-52 (V)
-
-
-##### Régies dotées de la seule autonomie financière
-
-##### Création .
-
-###### Article R323-76
-
-Le maire adresse au sous-préfet ou au préfet dans l'arrondissement chef-lieu [*compétence*], dans un délai de huit jours, les
-délibérations du conseil municipal qui tendent à assurer l'exécution par une régie dotée de la seule autonomie financière de
-services d'intérêt public à caractère industriel ou commercial et arrêtent les dispositions du règlement intérieur.
-
-Le sous-préfet ou le préfet constate la réception sur un registre et délivre immédiatement récépissé.
-
-Dans les huit jours qui suivent l'enregistrement à la sous-préfecture, le sous-préfet transmet ces délibérations au préfet,
-accompagnées de son avis motivé [*formalités*].
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°77-241 1977-03-07
-
-	**Créé par**:
-
-	  - Décret n°77-241 1977-03-07 JORF et JONC 18 Mars 1977
-
-	**Cité par**:
-
-	  - CODE DES COMMUNES. - art. R323-122 (Ab)
-
-	**Nouveaux textes**:
-
-	  - Code général des collectivités territoriales - art. R2221-54 (V)
-
-	**Anciens textes**:
-
-	  - Décret n°1930-02-17 art. 1
-
-
-###### Article R323-77
-
-Le préfet fait procéder dans la commune à une enquête dans les formes et conditions prévues par les articles R. 11-3 à R.
-11-13 du code de l'expropriation pour cause d'utilité publique.
-
-Cette enquête est ouverte dans les huit jours [*délai*] qui suivent la réception à la préfecture des délibérations
-mentionnées à l'article précédent.
-
-Le président de la chambre de commerce et d'industrie et, s'il y a lieu, le président de la chambre d'agriculture, dans le
-ressort desquelles se trouve la commune intéressée, sont avisés par le préfet des dates d'ouverture et de clôture de
-l'enquête et sont admis à présenter leurs observations.
-
-Lorsque, par application de l'article R. 11-13 du code de l'expropriation pour cause d'utilité publique, le conseil municipal
-est appelé à émettre son avis sur les résultats de l'enquête, la délibération est prise dans un délai de quinze jours à
-compter de la transmission des pièces au maire par le commissaire enquêteur et adressée dans les cinq jours au préfet avec
-les autres pièces de l'enquête.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°77-241 1977-03-07
-
-	**Cite**:
-
-	  - Code de l'expropriation pour cause d'utilité publique R11-3 à Code de l'expropriation pour cause d'utilité publique R11-13
-
-	**Abrogé par**:
-
-	  - Décret n°88-621 1988-05-08 art. 72 JORF 8 mai 1988
-
-
-###### Article R323-78
-
-Par application du 6° de l'article L. 121-38 [*relatif aux délibérations du conseil municipal soumises à approbation*]
-lorsque le règlement intérieur adopté par le conseil municipal est conforme à l'un des règlements types approuvés par décret
-en Conseil d'Etat et lorsque le service à exploiter en régie est susceptible d'être concédé, la délibération du conseil
-municipal est exécutoire dans les conditions [*de forme*] prévues à l'article L. 121-31.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret  1930-02-17 ART. 3 AL. 1
-
-	**Codifié par**:
-
-	  - Décret n°77-241 1977-03-07
-
-	**Créé par**:
-
-	  - Décret n°77-241 1977-03-07 JORF et JONC 18 Mars 1977
-
-	**Cite**:
-
-	  - Code des communes L121-31 et L121-38 6°
-
-	**Abrogé par**:
-
-	  - Décret n°88-621 1988-05-08 art. 72 JORF 8 mai 1988
-
-
-###### Article R323-79
-
-Dans le cas où, par application des articles L. 323-2 et R. 323-1, la délibération du conseil municipal est soumise à
-l'approbation du préfet, si aucune décision n'est intervenue dans un délai de trois mois à compter de la délivrance du
-récépissé prévu à l'article R. 323-76, la délibération devient exécutoire de plein droit [*accord tacite*].
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°77-241 1977-03-07
-
-	**Créé par**:
-
-	  - Décret n°77-241 1977-03-07 JORF et JONC 18 Mars 1977
-
-	**Liens**:
-
-	  - TXT_ASSOCIE: CODE DES COMMUNES. - art. L323-2 (M)
-	  - TXT_ASSOCIE: CODE DES COMMUNES. - art. R*323-1 (Ab)
-
-	**Cite**:
-
-	  - CODE DES COMMUNES. - art. L323-2 (M)
-	  - Code des communes R323-1 et R323-76
-
-	**Anciens textes**:
-
-	  - Décret  1930-02-17 ART. 3 AL. 2
-
-	**Abrogé par**:
-
-	  - Décret n°88-621 1988-05-08 art. 72 JORF 8 mai 1988
-
-
-###### Article R323-80
-
-Dans le cas où, par application des articles L. 323-2 et R. 323-1 la délibération du conseil municipal est soumise à
-approbation par arrêté du ministre de l'intérieur et du ministre de l'économie et des finances, le préfet, dans le mois qui
-suit le retour à la préfecture des pièces [*documents*] de l'enquête, transmet le dossier de l'affaire accompagné de son avis
-au ministre de l'intérieur.
-
-Lorsque aucune décision n'est intervenue dans un délai de six mois à compter de la délivrance du récépissé prévu à l'article
-R. 323-76, la délibération devient exécutoire de plein droit [*accord tacite*].
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°77-241 1977-03-07
-
-	**Créé par**:
-
-	  - Décret n°77-241 1977-03-07 JORF et JONC 18 Mars 1977
-
-	**Liens**:
-
-	  - TXT_ASSOCIE: CODE DES COMMUNES. - art. L323-2 (M)
-	  - TXT_ASSOCIE: CODE DES COMMUNES. - art. R*323-1 (Ab)
-
-	**Cite**:
-
-	  - CODE DES COMMUNES. - art. L323-2 (M)
-	  - Code des communes R323-1 et R323-76
-
-	**Anciens textes**:
-
-	  - Décret  1930-02-17 ART. 4
-
-	**Abrogé par**:
-
-	  - Décret n°88-621 1988-05-08 art. 72 JORF 8 mai 1988
-
-
-##### Organisation administrative
-
-##### Dispositions générales .
-
-###### Article R323-82
-
-Le conseil municipal [**]attributions[**], après avis du conseil d'exploitation et dans les conditions prévues par le
-règlement intérieur :
-
-- règle les conditions de recrutement, de licenciement et de rémunération du personnel ;
-
-- fixe les tarifs ou les modalités d'établissement des prix ;
-
-- approuve les plans et devis afférents aux constructions neuves ou reconstructions, travaux de première installation ou
-d'extension ;
-
-- autorise le maire à intenter ou soutenir les actions judiciaires, à accepter les transactions ;
-
-- vote le budget de la régie et délibère sur les comptes ;
-
-- délibère sur les mesures à prendre d'après les résultats de l'exploitation à la fin de chaque exercice et, au besoin, en
-cours d'exercice.
-
-Les délibérations prises en exécution du présent article sont exécutoires sous réserve des approbations prévues par la loi.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°77-241 1977-03-07
-
-	**Créé par**:
-
-	  - Décret n°77-241 1977-03-07 JORF et JONC 18 Mars 1977
-
-	**Cité par**:
-
-	  - CODE DES COMMUNES. - art. R323-130 (Ab)
-	  - CODE DES COMMUNES. - art. R323-83 (M)
-
-	**Nouveaux textes**:
-
-	  - Code général des collectivités territoriales - art. R2221-56 (V)
-
-	**Anciens textes**:
-
-	  - Décret  1930-02-17 ART. 13
-
-
-###### Article R323-83
-
-Le maire [*attributions*], après avis du conseil d'exploitation [*conditions de forme*] :
-
-- souscrit les marchés et traités, passe les baux ;
-
-- intente ou soutient les actions judiciaires et accepte les transactions ;
-
-- présente au conseil municipal le budget et les comptes et lui adresse les propositions relatives aux questions mentionnées
-par l'article précédent [*conditions de recrutement, licenciement, rémunération du personnel, tarifs et modalités
-d'établissement des prix, plans et devis afférents aux constructions, mesures à prendre en fin ou en cours d'exercice,
-actions judiciaires et transactions*].
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°77-241 1977-03-07
-
-	**Créé par**:
-
-	  - Décret n°77-241 1977-03-07 JORF et JONC 18 Mars 1977
-
-	**Cite**:
-
-	  - CODE DES COMMUNES. - art. R323-82 (M)
-
-	**Nouveaux textes**:
-
-	  - Code général des collectivités territoriales - art. R2221-57 (V)
-
-	**Anciens textes**:
-
-	  - Décret n°1930-02-17 art. 14
-
-
-##### Conseil d'exploitation .
-
-###### Article R323-84
-
-Les membres du conseil d'exploitation sont nommés à concurrence d'un quart [*proportion*] par le préfet.
-
-Les autres membres sont nommés par le maire avec l'agrément du préfet.
-
-Ils ne peuvent être relevés de leurs fonctions que dans les mêmes [*conditions de*] formes.
-
-Le directeur de la régie assiste au conseil avec voix délibérative.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°1930-02-17 art. 6 al. 1 et 2 phr. 3
-
-	**Codifié par**:
-
-	  - Décret n°77-241 1977-03-07
-
-	**Créé par**:
-
-	  - Décret n°77-241 1977-03-07 JORF et JONC 18 Mars 1977
-
-	**Nouveaux textes**:
-
-	  - Code général des collectivités territoriales - art. R2221-58 (V)
-
-
-###### Article R323-85
-
-Le nombre des membres du conseil d'exploitation titulaires d'un mandat de sénateur, député, conseiller général ou conseiller
-municipal [*proportion*] ne peut excéder le tiers du nombre total des membres de ce conseil.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°1930-02-17 art. 7 al. 1
-
-	**Codifié par**:
-
-	  - Décret n°77-241 1977-03-07
-
-	**Créé par**:
-
-	  - Décret n°77-241 1977-03-07 JORF et JONC 18 Mars 1977
-
-	**Cité par**:
-
-	  - CODE DES COMMUNES. - art. R323-92 (Ab)
-
-	**Nouveaux textes**:
-
-	  - Code général des collectivités territoriales - art. R2221-59 (V)
-
-
-###### Article R323-86
-
-Les membres du conseil d'exploitation[*, le directeur du conseil d'exploitation*], et les membres du conseil municipal ne
-peuvent être entrepreneurs ou fournisseurs du service à un titre quelconque, ni faire partie du conseil d'administration
-d'une société qui est elle-même fournisseur de la régie [*incompatibilité*].
-
-En cas d'infraction à ces interdictions, l'intéressé est déclaré démissionnaire par l'autorité qui l'a nommé
-[**]sanctions[**].
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°77-241 1977-03-07
-
-	**Créé par**:
-
-	  - Décret n°77-241 1977-03-07 JORF et JONC 18 Mars 1977
-
-	**Cité par**:
-
-	  - CODE DES COMMUNES. - art. R323-73 (M)
-	  - CODE DES COMMUNES. - art. R323-93 (Ab)
-
-	**Nouveaux textes**:
-
-	  - Code général des collectivités territoriales - art. R2221-60 (V)
-
-	**Anciens textes**:
-
-	  - Décret  1930-02-17 ART. 7 AL. 3 (PARTIE)
-
-
-###### Article R323-87
-
-Le règlement intérieur fixe : [*contenu*]        - le nombre des membres du conseil d'exploitation qui ne peut être inférieur
-à quatre, ni supérieur à douze, le directeur non compris ;
-
-- les catégories de personnes parmi lesquelles ils peuvent ou ils doivent être choisis ;
-
-- la durée de leurs fonctions ;
-
-- leur mode de renouvellement.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°77-241 1977-03-07
-
-	**Créé par**:
-
-	  - Décret n°77-241 1977-03-07 JORF et JONC 18 Mars 1977
-
-	**Nouveaux textes**:
-
-	  - Code général des collectivités territoriales - art. R2221-61 (V)
-
-	**Anciens textes**:
-
-	  - Décret n°1930-02-17 art. 8
-
-
-###### Article R323-90
-
-Le conseil d'exploitation **attributions** délibère sur les catégories d'affaires pour lesquelles le pouvoir de décision
-n'est pas attribué à une autre autorité par la présente section ou par le règlement intérieur.
-
-Il est obligatoirement consulté par le maire sur toutes les questions d'ordre général intéressant le fonctionnement de la
-régie ; il est notamment appelé à émettre son avis dans les cas prévus par les articles R. 323-82 et R. 323-83 *questions
-relatives au personnel, questions financières, *questions relatives aux marchés, traités, baux, actions judiciaires,
-transactions, budget*.
-
-Les projets de budget et les comptes lui sont soumis.
-
-Le conseil peut procéder à toutes mesures d'investigation et de contrôle.
-
-Il présente au maire toutes propositions utiles.
-
-Le directeur tient le conseil au courant de la marche du service.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°77-241 1977-03-07
-
-	**Créé par**:
-
-	  - Décret n°77-241 1977-03-07 JORF et JONC 18 Mars 1977
-
-	**Cite**:
-
-	  - Code des communes R323-75 à R323-132
-
-	**Nouveaux textes**:
-
-	  - Code général des collectivités territoriales - art. R2221-64 (V)
-
-	**Anciens textes**:
-
-	  - Décret  1930-02-17 ART. 11
-
-
-##### Directeur .
-
-###### Article R323-91
-
-Le directeur de la régie est nommé par le maire, avec l'agrément du préfet.
-
-Il ne peut être révoqué que par le préfet, après avis du maire et du conseil d'exploitation [**]conditions de forme[**].
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°1930-02-17 art. 6 al. 2 sauf phr. 3
-
-	**Codifié par**:
-
-	  - Décret n°77-241 1977-03-07
-
-	**Créé par**:
-
-	  - Décret n°77-241 1977-03-07 JORF et JONC 18 Mars 1977
-
-	**Nouveaux textes**:
-
-	  - Code général des collectivités territoriales - art. R2221-65 (V)
-
-
-###### Article R323-92
-
-Les fonctions de directeur de la régie sont incompatibles avec l'exercice de l'un quelconque des mandats énumérés à l'article
-R. 323-85 [*sénateur, député, conseiller général ou conseiller municipal*]. L'incompatibilité [*durée*] se prolonge deux
-années après l'expiration de ces mandats.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°77-241 1977-03-07
-
-	**Créé par**:
-
-	  - Décret n°77-241 1977-03-07 JORF et JONC 18 Mars 1977
-
-	**Cite**:
-
-	  - CODE DES COMMUNES. - art. R323-85 (M)
-
-	**Nouveaux textes**:
-
-	  - Code général des collectivités territoriales - art. R2221-66 (V)
-
-	**Anciens textes**:
-
-	  - Décret n°1930-02-17 art. 7 al. 2
-
-
-###### Article R323-94
-
-La rémunération du directeur est fixée par le conseil municipal, sur la proposition du maire, après avis du conseil
-d'exploitation et avec l'agrément du préfet [**]conditions de forme[**].
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°1930-02-17 art. 9 al. 2
-
-	**Codifié par**:
-
-	  - Décret n°77-241 1977-03-07
-
-	**Créé par**:
-
-	  - Décret n°77-241 1977-03-07 JORF et JONC 18 Mars 1977
-
-	**Nouveaux textes**:
-
-	  - Code général des collectivités territoriales - art. R2221-68 (V)
-
-
-###### Article R323-95
-
-Le directeur [**]attributions[**] nomme et révoque les agents et employés de la régie sous réserve, le cas échéant, des
-dispositions du règlement intérieur.
-
-Il assure la bonne marche du service et prépare le budget.
-
-Il prend les décisions qui, en vertu de l'article R. 323-90, entrent dans les attributions du conseil d'exploitation et pour
-lesquelles ce conseil lui a donné délégation.
-
-Il procède, sous l'autorité du maire, aux ventes et aux achats courants, dans les conditions fixées par le règlement
-intérieur.
-
-Il peut recevoir délégation du maire [*pour le visa des quittances ou des tickets de perception et pour le mandatement des
-dépenses*], comme il est dit à l'article R. 323-110.
-
-Il est remplacé, en cas d'absence, par un des fonctionnaires ou employés du service, désigné par le maire, sur la proposition
-du conseil d'exploitation.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°77-241 1977-03-07
-
-	**Créé par**:
-
-	  - Décret n°77-241 1977-03-07 JORF et JONC 18 Mars 1977
-
-	**Cite**:
-
-	  - Code des communes R323-90 et R323-110
-
-	**Nouveaux textes**:
-
-	  - Code général des collectivités territoriales - art. R2221-69 (V)
-
-	**Anciens textes**:
-
-	  - Décret n°1930-02-17 art. 12
-
-
-##### Agent comptable et régisseur .
-
-###### Article R323-96
-
-Les fonctions d'agent comptable de la régie sont remplies par le receveur municipal.
-
-Toutefois, lorsque les recettes prévues excèdent 500.000 F [*francs*], ces fonctions peuvent être confiées à un comptable
-spécial, par délibération du conseil municipal et sur demande du conseil d'exploitation. Dans le même cas, le ministre de
-l'économie et des finances peut exiger la nomination d'un comptable spécial de la régie, si les fonctions de receveur
-municipal sont exercées par le percepteur.
-
-L'agent qui remplit les fonctions de comptable spécial est nommé par le préfet sur proposition du maire ; il est soumis à la
-surveillance du receveur municipal et du receveur particulier des finances ainsi qu'au contrôle de l'inspection générale des
-finances.
-
-Les comptes du comptable spécial de la régie sont rendus dans les mêmes formes et délais et jugés dans les mêmes conditions
-que ceux du receveur municipal. Le comptable spécial est astreint à fournir, comme celui-ci, un cautionnement dont le montant
-est fixé par l'acte de nomination [*obligations*].
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°77-241 1977-03-07
-
-	**Créé par**:
-
-	  - Décret n°77-241 1977-03-07 JORF et JONC 18 Mars 1977
-
-	**Nouveaux textes**:
-
-	  - Code général des collectivités territoriales - art. R2221-70 (V)
-
-	**Anciens textes**:
-
-	  - Décret n°1930-02-17 art. 26
-
-
-###### Article R323-97
-
-Le maire peut, sur proposition du conseil d'exploitation, désigner un agent de la régie pour exercer les fonctions de
-régisseur comptable, chargé, pour le compte de l'agent comptable, d'opérations d'encaissement ou de paiement dans les
-conditions prévues par les articles 3 à 14 du décret n° 64-486 du 28 mai 1964 relatif aux régies de recettes et aux régies
-d'avances des organismes publics.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°1930-02-17 art. 29
-
-	**Cite**:
-
-	  - Décret n°64-486 1964-05-28 art. 3 à 14
-
-	**Codifié par**:
-
-	  - Décret n°77-241 1977-03-07
-
-	**Créé par**:
-
-	  - Décret n°77-241 1977-03-07 JORF et JONC 18 Mars 1977
-
-	**Nouveaux textes**:
-
-	  - Code général des collectivités territoriales - art. R2221-71 (V)
-
-
-##### Régime financier .
-
-###### Article R323-99
-
-La délibération du conseil municipal portant création de la régie détermine les sommes que la commune met à la disposition de
-cette régie ou lui affecte à titre de dotation initiale. Un crédit correspondant est ouvert au budget communal.
-
-A toute époque, le montant de la dotation initiale peut être accru ou diminué suivant les besoins du service par une
-délibération du conseil municipal après avis du conseil d'exploitation.
-
-Les augmentations donnent lieu dans le budget communal à des ouvertures de crédits et les diminutions à des inscriptions en
-recettes correspondant aux reversements faits par la régie.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°77-241 1977-03-07
-
-	**Créé par**:
-
-	  - Décret n°77-241 1977-03-07 JORF et JONC 18 Mars 1977
-
-	**Cité par**:
-
-	  - CODE DES COMMUNES. - art. R323-101 (Ab)
-
-	**Nouveaux textes**:
-
-	  - Code général des collectivités territoriales - art. R2221-73 (V)
-
-	**Anciens textes**:
-
-	  - Décret n°1930-02-17 art. 16
-
-
-###### Article R323-100
-
-La délibération qui institue la régie détermine les conditions du remboursement des sommes mises à sa disposition. La durée
-du remboursement ne peut excéder trente ans.
-
-Si ces sommes ont été obtenues en totalité ou en partie au moyen d'emprunts, l'annuité correspondante mise à la charge de la
-régie est égale, chaque année, au total des charges d'intérêts, de remboursement et de service de ces emprunts.
-
-L'annuité est inscrite, chaque année [**]fréquence[**], en dépenses au budget de la régie et en recettes à un article spécial
-du budget de la commune.
-
-**Liens relatifs à cet article**
-
-	**Nouveaux textes**:
-
-	  - Code général des collectivités territoriales - art. R2221-74 (V)
-
-	**Anciens textes**:
-
-	  - Décret  1930-02-17 ART. 17
-
-	**Codifié par**:
-
-	  - Décret n°77-241 1977-03-07
-
-	**Créé par**:
-
-	  - Décret n°77-241 1977-03-07 JORF et JONC 18 Mars 1977
-
-
-###### Article R323-101
-
-En cas d'insuffisance des sommes mises à la disposition de la régie [*par la commune*] en application de l'article R. 323-99,
-la régie ne peut demander d'avances supplémentaires qu'à la commune.
-
-Le conseil municipal [*attributions*] fixe la date de remboursement des avances à court terme.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°1930-02-17 art. 18
-
-	**Codifié par**:
-
-	  - Décret n°77-241 1977-03-07
-
-	**Créé par**:
-
-	  - Décret n°77-241 1977-03-07 JORF et JONC 18 Mars 1977
-
-	**Cite**:
-
-	  - CODE DES COMMUNES. - art. R323-99 (M)
-
-	**Nouveaux textes**:
-
-	  - Code général des collectivités territoriales - art. R2221-75 (V)
-	  - Code général des collectivités territoriales - art. R2221-76 (M)
-
-
-###### Article R323-103
-
-Le budget de la régie est préparé par le directeur, soumis au conseil d'exploitation, présenté par le maire et voté par le
-conseil municipal [*conditions de forme*].
-
-Il est exécutoire dans les mêmes conditions que le budget de la commune.
-
-Il peut être modifié dans les mêmes formes.
-
-Le maire fournit à l'appui de ses propositions un exemplaire du dernier compte administratif ainsi qu'un rapport faisant
-ressortir la situation financière et économique de la régie.
-
-**Liens relatifs à cet article**
-
-	**Nouveaux textes**:
-
-	  - Code général des collectivités territoriales - art. R2221-77 (V)
-
-	**Anciens textes**:
-
-	  - Décret  1930-02-17 ART. 20
-
-	**Codifié par**:
-
-	  - Décret n°77-241 1977-03-07
-
-	**Créé par**:
-
-	  - Décret n°77-241 1977-03-07 JORF et JONC 18 Mars 1977
-
-
-###### Article R323-104
-
-Le budget de la régie comprend deux sections [*nombre*] :
-
-- une section de fonctionnement ;
-
-- une section d'investissement.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°1930-02-17 art. 21 al. 1
-
-	**Codifié par**:
-
-	  - Décret n°77-241 1977-03-07
-
-	**Créé par**:
-
-	  - Décret n°77-241 1977-03-07 JORF et JONC 18 Mars 1977
-
-	**Nouveaux textes**:
-
-	  - Code général des collectivités territoriales - art. R2221-78 (V)
-
-
-###### Article R323-105
-
-La section de fonctionnement comprend en recettes :
-
-1° Les produits de l'exploitation ;
-
-2° Les prélèvements sur le fonds de réserve prévu à l'article R. 323-107 ;
-
-3° Les produits divers et exceptionnels, y compris les subventions d'exploitation et les reprises sur subventions
-d'équipement reçues ;
-
-4° S'il y a lieu, les ressources au moyen desquelles il est fait face à l'excédent des dépenses sur les recettes ci-dessus
-énumérées.
-
-Elle comprend en dépenses :
-
-1° Les frais d'exploitation et d'entretien ;
-
-2° Les traitements, salaires et indemnités du personnel ;
-
-3° Le loyer des immeubles affectés à la régie ;
-
-4° Les impôts et contributions de toute nature ;
-
-5° Les dépenses diverses ;
-
-6° Les charges d'intérêts, d'amortissement et de service des emprunts contractés par la commune en vue de fournir des avances
-à la régie ;
-
-7° Les sommes affectées à l'intérêt et au remboursement des avances diverses consenties par la commune sur les ressources du
-budget communal, autres que les emprunts ;
-
-8° S'il y a lieu, les emplois prévus pour l'excédent des recettes sur les dépenses, conformément à l'article R. 323-107.
-
-Les dépenses énumérées ci-dessus ont le caractère de dépenses obligatoires au sens de l'article L. 221-1.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°77-241 1977-03-07
-
-	**Créé par**:
-
-	  - Décret n°77-241 1977-03-07 JORF et JONC 18 Mars 1977
-
-	**Cite**:
-
-	  - CODE DES COMMUNES. - art. L221-1 (Ab)
-	  - CODE DES COMMUNES. - art. R323-107 (M)
-
-	**Nouveaux textes**:
-
-	  - Code général des collectivités territoriales - art. R2221-79 (V)
-
-	**Anciens textes**:
-
-	  - Décret n°1930-02-17 art. 21 al. 2
-
-
-###### Article R323-106
-
-La section d'investissement [*définition*] comprend :
-
-- en dépenses : les sommes consacrées au développement des installations ;
-
-- en recettes : les ressources prévues pour y faire face.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°1930-02-17 art. 21 al. 3
-
-	**Codifié par**:
-
-	  - Décret n°77-241 1977-03-07
-
-	**Créé par**:
-
-	  - Décret n°77-241 1977-03-07 JORF et JONC 18 Mars 1977
-
-	**Nouveaux textes**:
-
-	  - Code général des collectivités territoriales - art. R2221-80 (V)
-
-
-###### Article R323-107
-
-Un fonds de réserve est constitué pour subvenir, s'il y a lieu, au déficit des recettes prévues pour couvrir les dépenses
-d'exploitation et au renouvellement du matériel. Le règlement intérieur fixe la proportion de l'excédent des recettes qui est
-versée à ce fonds de réserve, sans que cette proportion puisse être inférieure au dixième, ainsi que le montant maximum du
-fonds de réserve.
-
-Un prélèvement ne peut être opéré sur le fonds de réserve qu'en vertu d'une décision du maire, prise sur avis conforme du
-conseil d'exploitation et dont il est rendu compte au conseil municipal à sa prochaine réunion [*conditions de forme*].
-
-Le surplus de l'excédent des recettes de la régie, sous déduction des sommes nécessaires pour accroître le fonds de
-roulement, est versé au budget de la commune où il est inscrit en recette.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°77-241 1977-03-07
-
-	**Créé par**:
-
-	  - Décret n°77-241 1977-03-07 JORF et JONC 18 Mars 1977
-
-	**Cité par**:
-
-	  - CODE DES COMMUNES. - art. R323-105 (Ab)
-
-	**Nouveaux textes**:
-
-	  - Code général des collectivités territoriales - art. R2221-81 (V)
-
-	**Anciens textes**:
-
-	  - Décret n°1930-02-17 art. 22
-
-
-###### Article R323-108
-
-Le fonds de réserve est déposé à la recette municipale.
-
-Les retraits sont effectués sur demande du directeur de la régie, visée par le maire [*conditions de forme*].
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret  1930-02-17 ART. 23
-
-	**Codifié par**:
-
-	  - Décret n°77-241 1977-03-07
-
-	**Créé par**:
-
-	  - Décret n°77-241 1977-03-07 JORF et JONC 18 Mars 1977
-
-	**Abrogé par**:
-
-	  - Décret n°88-621 1988-05-08 art. 72 JORF 8 mai 1988
-
-
-###### Article R323-109
-
-La période d'exécution du budget de la régie       est la même que celle du budget de la commune. 
-
-En fin d'exercice, les restes à recouvrer et les restes à payer sont ajoutés aux prévisions et autorisations du budget en
-cours. 
-
-Les crédits non utilisés afférents aux travaux d'installation et d'entretien sont reportés de plein droit au budget de
-l'exercice suivant.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret  1930-02-17 ART. 24
-
-	**Codifié par**:
-
-	  - Décret n°77-241 1977-03-07
-
-	**Créé par**:
-
-	  - Décret n°77-241 1977-03-07 JORF et JONC 18 Mars 1977
-
-	**Nouveaux textes**:
-
-	  - Code général des collectivités territoriales - art. R2221-79 (M)
-
-	**Abrogé par**:
-
-	  - Décret n°88-621 1988-05-08 art. 72 JORF 8 mai 1988
-
-
-###### Article R323-110
-
-Le maire [**]attributions[**] émet les titres de recettes et mandate les dépenses sur proposition du directeur.
-
-Il peut, toutefois, donner délégation au directeur :
-
-1° Pour le visa des quittances délivrées aux usagers du service ou le visa des tickets de perception ; ce visa peut, en vertu
-d'une proposition spéciale du règlement intérieur, être apposé au moyen d'une griffe ;
-
-2° Pour le mandatement des dépenses, au moyen de crédits subdélégués dans une limite fixée par le règlement intérieur.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°1930-02-17 art. 25
-
-	**Codifié par**:
-
-	  - Décret n°77-241 1977-03-07
-
-	**Créé par**:
-
-	  - Décret n°77-241 1977-03-07 JORF et JONC 18 Mars 1977
-
-	**Nouveaux textes**:
-
-	  - Code général des collectivités territoriales - art. R2221-82 (V)
-
-
-###### Article R323-111
-
-Lorsque le règlement intérieur de la régie n'a pas prévu d'autre mode de recouvrement, les recettes font l'objet d'un état
-exécutoire dans les formes prévues par l'article R. 241-4.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°1930-02-17 art. 27
-
-	**Codifié par**:
-
-	  - Décret n°77-241 1977-03-07
-
-	**Créé par**:
-
-	  - Décret n°77-241 1977-03-07 JORF et JONC 18 Mars 1977
-
-	**Cite**:
-
-	  - Code des communes R241-4
-
-	**Nouveaux textes**:
-
-	  - Code général des collectivités territoriales - art. R2221-83 (V)
-
-
-###### Article R323-112
-
-Les fonds libres de la régie sont placés en compte courant à la recette municipale.
-
-Les retraits de fonds sont faits par l'agent comptable après autorisation du maire [*conditions de forme*].
-
-Toutefois, il peut être ouvert au nom de l'agent comptable un compte de chèques postaux dont le solde créditeur ne doit
-jamais dépasser un maximum fixé par le règlement intérieur.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°1930-02-17 art. 28
-
-	**Codifié par**:
-
-	  - Décret n°77-241 1977-03-07
-
-	**Créé par**:
-
-	  - Décret n°77-241 1977-03-07 JORF et JONC 18 Mars 1977
-
-	**Nouveaux textes**:
-
-	  - Code général des collectivités territoriales - art. R2221-84 (V)
-
-
-###### Article R323-113
-
-Le compte administratif de la régie est préparé par le directeur [*attributions*] et soumis au conseil d'exploitation dans
-les trois mois qui suivent la clôture de l'exercice [*délai*].
-
-Il y est joint un bilan établi par actif et passif.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°77-241 1977-03-07
-
-	**Créé par**:
-
-	  - Décret n°77-241 1977-03-07 JORF et JONC 18 Mars 1977
-
-	**Cité par**:
-
-	  - CODE DES COMMUNES. - art. R323-121 (Ab)
-
-	**Nouveaux textes**:
-
-	  - Code général des collectivités territoriales - art. R2221-85 (V)
-
-	**Anciens textes**:
-
-	  - Décret n°1930-02-17 art. 30
-
-
-###### Article R323-114
-
-Une comptabilité matière constate les entrées et les sorties. Elle est résumée chaque année [**]fréquence[**] par un
-inventaire dressé suivant les usages du commerce. Ses résultats sont produits au juge des comptes à l'appui du compte en
-deniers.
-
-Les formes de cette comptabilité sont fixées par le règlement intérieur. Elle est tenue par un agent nommé par le maire sur
-proposition du conseil d'exploitation. Cet agent fournit un cautionnement dont le montant est fixé par le règlement intérieur
-ou, à défaut, par l'acte de nomination.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret  1930-02-17 ART. 31
-
-	**Codifié par**:
-
-	  - Décret n°77-241 1977-03-07
-
-	**Créé par**:
-
-	  - Décret n°77-241 1977-03-07 JORF et JONC 18 Mars 1977
-
-	**Abrogé par**:
-
-	  - Décret n°88-621 1988-05-08 art. 72 JORF 8 mai 1988
-
-
-###### Article R323-115
-
-Indépendamment des comptes, un relevé provisoire des résultats de l'exploitation est arrêté tous les six mois [*fréquence*]
-par le conseil d'exploitation et présenté par le maire au conseil municipal ; copie en est adressée au préfet.
-
-Lorsqu'il résulte de ce relevé que l'exploitation est en déficit, le conseil municipal est immédiatement [*délai*] invité par
-le maire ou par le préfet à prendre les mesures nécessaires pour rétablir l'équilibre, soit en modifiant les tarifs ou les
-prix de vente, soit en réalisant des économies dans l'organisation des services.
-
-**Liens relatifs à cet article**
-
-	**Nouveaux textes**:
-
-	  - Code général des collectivités territoriales - art. R2221-86 (V)
-
-	**Anciens textes**:
-
-	  - Décret n°1930-02-17 art. 32
-
-	**Codifié par**:
-
-	  - Décret n°77-241 1977-03-07
-
-	**Créé par**:
-
-	  - Décret n°77-241 1977-03-07 JORF et JONC 18 Mars 1977
-
-
-###### Article R323-116
-
-Lorsqu'une commune exploite plusieurs régies, les dépenses et les recettes afférentes à l'ensemble des exploitations sont
-réparties entre les budgets des diverses régies suivant une proportion fixée par délibération du conseil municipal d'après
-l'importance de la participation de chacune de ces régies.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret  1930-02-17 ART. 33
-
-	**Codifié par**:
-
-	  - Décret n°77-241 1977-03-07
-
-	**Créé par**:
-
-	  - Décret n°77-241 1977-03-07 JORF et JONC 18 Mars 1977
-
-	**Abrogé par**:
-
-	  - Décret n°88-621 1988-05-08 art. 72 JORF 8 mai 1988
-
-
-##### Fin de la régie .
-
-###### Article R323-117
-
-L'exploitation de la régie prend fin :
-
-- soit en vertu d'une délibération du conseil municipal [*attributions*] ;
-
-- soit par suite du retrait de l'autorisation d'exploiter accordée, le cas échéant, à la commune, par application des
-articles L. 323-2 et R. 323-1.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°1930-02-17 art. 34
-
-	**Codifié par**:
-
-	  - Décret n°77-241 1977-03-07
-
-	**Créé par**:
-
-	  - Décret n°77-241 1977-03-07 JORF et JONC 18 Mars 1977
-
-	**Cite**:
-
-	  - CODE DES COMMUNES. - art. L323-2 (M)
-	  - Code des communes R323-1
-
-	**Nouveaux textes**:
-
-	  - Code général des collectivités territoriales - art. R2221-87 (V)
-
-
-###### Article R323-118
-
-Le règlement intérieur fixe les règles dont l'inobservation [*sanctions*] entraîne le retrait de l'autorisation [*d'exploiter
-accordée à la commune*] mentionnée à l'article précédent. Il précise que le retrait est encouru pour toutes infractions aux
-dispositions des sous-sections II et III [*organisation administrative et régime financier*] de la présente section.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°77-241 1977-03-07
-
-	**Créé par**:
-
-	  - Décret n°77-241 1977-03-07 JORF et JONC 18 Mars 1977
-
-	**Cite**:
-
-	  - Code des communes R323-81 à R323-116 et R323-117
-
-	**Anciens textes**:
-
-	  - Décret  1930-02-17 ART. 35
-
-	**Abrogé par**:
-
-	  - Décret n°88-621 1988-05-08 art. 72 JORF 8 mai 1988
-
-
-###### Article R323-119
-
-Conformément à l'article L. 323-6, dans les cas prévus par le règlement intérieur ou pour chaque nature de service par les
-règlements d'administration publique pris en exécution de l'article L. 323-7, et notamment lorsque le fonctionnement de la
-régie compromet la sécurité publique ou l'hygiène, l'autorisation peut être retirée à toute époque par l'autorité qui l'a
-accordée, dans les [*conditions*] formes prescrites par l'article R. 323-1.
-
-Avant l'intervention de la décision de retrait, le préfet impartit un délai au conseil municipal pour qu'il présente ses
-explications ou prenne les mesures estimées nécessaires. Si le conseil municipal ne prend pas les mesures reconnues
-satisfaisantes ou s'il garde le silence [*accord tacite*], la décision de retrait est prise à l'expiration du délai.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°1930-02-17 art. 36 al. 1 et 2
-
-	**Codifié par**:
-
-	  - Décret n°77-241 1977-03-07
-
-	**Créé par**:
-
-	  - Décret n°77-241 1977-03-07 JORF et JONC 18 Mars 1977
-
-	**Cite**:
-
-	  - Code des communes L323-6 et L323-7
-
-	**Nouveaux textes**:
-
-	  - Code général des collectivités territoriales - art. R2221-88 (V)
-
-
-###### Article R323-120
-
-Sans préjudice des dispositions qui précèdent [*relatives au retrait de l'autorisation d'exploiter la régie*], lorsque le
-fonctionnement de la régie compromet la sécurité publique le préfet use immédiatement des pouvoirs [*de police municipale*]
-qui lui sont conférés par l'article L. 131-13 et, notamment, prononce la suspension provisoire des opérations de la régie.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°77-241 1977-03-07
-
-	**Créé par**:
-
-	  - Décret n°77-241 1977-03-07 JORF et JONC 18 Mars 1977
-
-	**Cite**:
-
-	  - CODE DES COMMUNES. - art. L131-13 (M)
-	  - Code des communes R323-117 à R323-119
-
-	**Nouveaux textes**:
-
-	  - Code général des collectivités territoriales - art. R2221-89 (V)
-
-	**Anciens textes**:
-
-	  - Décret n°1930-02-17 art. 36 al. 3
-
-
-###### Article R323-121
-
-La délibération du conseil municipal décidant de mettre fin à l'exploitation par voie de régie ou la décision portant retrait
-de l'autorisation d'exploiter détermine la date à laquelle prennent fin les opérations de la régie.
-
-Le compte administratif du directeur, prévu à l'article R. 323-113, est arrêté à cette date.
-
-Le maire [*attributions*] est chargé de procéder à la liquidation de la régie ; il désigne, avec l'agrément du préfet, un
-liquidateur qui prend les mesures nécessaires sous son autorité.
-
-Les résultats de la liquidation sont portés à un compte hors budget rattaché au budget communal. Si la commune a contracté
-des emprunts pour la régie, le solde actif de la liquidation est employé par priorité au remboursement de ces emprunts.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°1930-02-17 art. 37
-
-	**Codifié par**:
-
-	  - Décret n°77-241 1977-03-07
-
-	**Créé par**:
-
-	  - Décret n°77-241 1977-03-07 JORF et JONC 18 Mars 1977
-
-	**Cite**:
-
-	  - CODE DES COMMUNES. - art. R323-113 (M)
-
-	**Cité par**:
-
-	  - CODE DES COMMUNES. - art. R323-120 (Ab)
-
-	**Nouveaux textes**:
-
-	  - Code général des collectivités territoriales - art. R2221-90 (V)
-
-
-##### Régies intercommunales .
-
-###### Article R323-122
-
-L'exploitation d'un ou de plusieurs services d'intérêt public à caractère industriel ou commercial présentant une utilité
-intercommunale peut être assurée, soit par une seule commune agissant à l'égard des autres communes comme concessionnaire,
-soit par un syndicat groupant les diverses communes intéressées.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret  1930-02-17 ART. 38
-
-	**Codifié par**:
-
-	  - Décret n°77-241 1977-03-07
-
-	**Créé par**:
-
-	  - Décret n°77-241 1977-03-07 JORF et JONC 18 Mars 1977
-
-	**Nouveaux textes**:
-
-	  - Code général des collectivités territoriales - art. R2221-91 (V)
-
-
-###### Article R323-124
-
-Les délibérations par lesquelles deux ou plusieurs conseils municipaux décident d'exploiter en régie et par voie de
-concession attribuée à une seule commune un service d'utilité intercommunale, le règlement intérieur de la régie, le contrat
-de concession et le cahier des charges sont soumis à l'approbation [*conditions de forme*] dans les conditions prévues par
-l'article R. 323-1 et par les articles R. 323-79 et R. 323-80.
-
-Si l'exploitation du service que doit assumer la commune concessionnaire s'étend à des communes qui appartiennent à des
-départements différents, le droit d'approbation conféré au préfet par l'article R. 323-1 est exercé par le préfet du
-département où se trouve la commune concessionnaire [*compétence*]        La procédure [*de création*] organisée par la sous-
-section I ci-dessus [*relative aux régies dotées de la seule autonomie financière*] est suivie dans chacune des communes
-intéressées.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret  1930-02-17 ART. 40
-
-	**Codifié par**:
-
-	  - Décret n°77-241 1977-03-07
-
-	**Créé par**:
-
-	  - Décret n°77-241 1977-03-07 JORF et JONC 18 Mars 1977
-
-	**Cite**:
-
-	  - Code des communes R323-1, R323-76 à R323-80
-
-	**Abrogé par**:
-
-	  - Décret n°88-621 1988-05-08 art. 72 JORF 8 mai 1988
-
-
-###### Article R323-126
-
-Sont soumises à approbation [*conditions de forme*], dans les conditions prévues à l'article R. 323-1, R. 323-79 et R.
-323-80, les délibérations par lesquelles les conseils municipaux de plusieurs communes décident d'exploiter en régie un ou
-plusieurs services d'utilité intercommunale et font connaître leur volonté précise et concordante de faire assurer
-l'exploitation de ces services, soit par un syndicat [*intercommunal*] déjà existant qui doit recevoir de nouvelles
-attributions, soit par un syndicat constitué exclusivement en vue des services envisagés.
-
-Aux délibérations tendant à la création de la régie, sont jointes soit celles qui décident la constitution du syndicat et
-déterminent les conditions de son administration, soit celles qui décident l'extension de ses attributions ; ces
-délibérations allouent les ressources nécessaires et arrêtent le règlement intérieur de chaque service.
-
-L'autorisation d'exploiter en régie éventuellement accordée aux conseils municipaux qui doivent constituer le syndicat est
-transférée de plein droit au syndicat dès qu'il est régulièrement constitué.
-
-La procédure organisée par la sous-section I ci-dessus [*relative à la création d'une régie dotée de la seule autonomie
-financière*] est suivie dans chacune des communes intéressées.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret  1930-02-17 ART. 42
-
-	**Codifié par**:
-
-	  - Décret n°77-241 1977-03-07
-
-	**Créé par**:
-
-	  - Décret n°77-241 1977-03-07 JORF et JONC 18 Mars 1977
-
-	**Cite**:
-
-	  - Code des communes R323-1, R323-76 à R233-80
-
-	**Abrogé par**:
-
-	  - Décret n°88-621 1988-05-08 art. 72 JORF 8 mai 1988
-
-
-###### Article R323-127
-
-Dès que l'approbation éventuellement nécessaire pour exploiter le service en régie est obtenue, le syndicat est constitué
-dans les conditions prévues par les articles L. 163-1 et L. 163-2 [*relatifs à la création d'un syndicat de communes*] ou,
-s'il existe déjà, ses attributions sont étendues conformément à l'article L. 163-17.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret  1930-02-17 ART. 43
-
-	**Codifié par**:
-
-	  - Décret n°77-241 1977-03-07
-
-	**Créé par**:
-
-	  - Décret n°77-241 1977-03-07 JORF et JONC 18 Mars 1977
-
-	**Cite**:
-
-	  - CODE DES COMMUNES. - art. L163-1 (M)
-	  - Code des communes L163-1, L163-2 et L163-17
-
-	**Abrogé par**:
-
-	  - Décret n°88-621 1988-05-08 art. 72 JORF 8 mai 1988
-
-
-###### Article R323-128
-
-Lorsque, par application des articles L. 323-2 et R. 323-1, des conseils municipaux ont déjà été autorisés à exploiter un
-service en régie, les délibérations par lesquelles ces conseils confient l'exploitation de ce service à un syndicat déjà
-existant qui assure la gestion du même service sur le territoire d'autres communes du même département sont soumises à
-l'approbation du préfet [*conditions de forme*].
-
-A la délibération du conseil municipal, sont joints le règlement intérieur du service et l'acte d'accord entre la commune et
-le syndicat.
-
-Lorsque le syndicat comprend des communes appartenant à des départements différents, l'approbation est donnée par le préfet
-du département où se trouve situé le siège du syndicat [*compétence*] .
-
-L'admission d'une nouvelle commune dans le syndicat est autorisée dans les conditions définies à l'article L. 163-2.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°77-241 1977-03-07
-
-	**Créé par**:
-
-	  - Décret n°77-241 1977-03-07 JORF et JONC 18 Mars 1977
-
-	**Cite**:
-
-	  - CODE DES COMMUNES. - art. L163-2 (Ab)
-	  - CODE DES COMMUNES. - art. L323-2 (M)
-	  - Code des communes R323-1
-
-	**Anciens textes**:
-
-	  - Décret  1930-02-17 ART. 44
-
-	**Abrogé par**:
-
-	  - Décret n°88-621 1988-05-08 art. 72 JORF 8 mai 1988
-
-
-###### Article R323-130
-
-Lorsque le syndicat est formé conformément au premier alinéa de l'article R. 323-126, exclusivement en vue d'exploiter un
-service à caractère industriel ou commercial, l'acte institutif du syndicat peut décider que l'administration du syndicat se
-confond avec celle de la régie.
-
-Dans ce cas, le bureau élu par le comité du syndicat conformément à l'article L. 163-12 exerce les attributions du conseil
-d'exploitation prévu par la sous-section II [*organisation administrative*] de la présente section [*régies dotées de la
-seule autonomie financière*]. Les membres de ce bureau peuvent être pris pour un tiers [*proportion*] en dehors des membres
-du comité.
-
-L'acte institutif du syndicat peut attribuer au bureau le règlement de certaines catégories d'affaires. Toutefois, le comité
-a seul qualité pour régler l'organisation générale du service et voter le budget.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret  1930-02-17 ART. 46
-
-	**Codifié par**:
-
-	  - Décret n°77-241 1977-03-07
-
-	**Créé par**:
-
-	  - Décret n°77-241 1977-03-07 JORF et JONC 18 Mars 1977
-
-	**Cite**:
-
-	  - CODE DES COMMUNES. - art. L163-12 (M)
-	  - Code des communes R323-84 à R323-90 et R323-126 al. 1
-
-	**Cité par**:
-
-	  - CODE DES COMMUNES. - art. R323-132 (Ab)
-
-	**Nouveaux textes**:
-
-	  - Code général des collectivités territoriales - art. R2221-95 (V)
-
-
-###### Article R323-131
-
-Lorsqu'un syndicat chargé de l'exploitation d'un service en régie est dissous soit de plein droit soit par délibération des
-conseils municipaux intéressés, le comité du syndicat [*attributions*], au cours de sa dernière réunion, détermine les
-conditions dans lesquelles est liquidée la régie.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret  1930-02-17 ART. 48
-
-	**Codifié par**:
-
-	  - Décret n°77-241 1977-03-07
-
-	**Créé par**:
-
-	  - Décret n°77-241 1977-03-07 JORF et JONC 18 Mars 1977
-
-	**Abrogé par**:
-
-	  - Décret n°88-621 1988-05-08 art. 72 JORF 8 mai 1988
-
-
-###### Article R323-132
-
-Sous les réserves prévues aux deux articles précédents, les dispositions des sous-sections II, III et IV s'appliquent aux
-régies dont l'exploitation est assurée par un syndicat de communes.
-
-Le président du comité exerce les fonctions qui sont dévolues au maire et le comité a les attributions qui appartiennent au
-conseil municipal.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°77-241 1977-03-07
-
-	**Créé par**:
-
-	  - Décret n°77-241 1977-03-07 JORF et JONC 18 Mars 1977
-
-	**Cite**:
-
-	  - Code des communes R323-81 à R323-121, R323-130 et R323-131
-
-	**Nouveaux textes**:
-
-	  - Code général des collectivités territoriales - art. R2221-96 (V)
-
-	**Anciens textes**:
-
-	  - Décret  1930-02-17 ART. 47
-
-
 ### Bibliothèques et musées
 
 #### Bibliothèques
@@ -83604,70 +82822,6 @@ professionnels*] prévues au chapitre III du présent titre.
 	  - Code des communes R353-1 à R353-120
 
 
-##### Service de santé et de secours médical .
-
-###### Article R352-64
-
-Le service de santé et de secours médical est assuré dans chaque centre de secours par un médecin au moins [*nombre*].
-
-Il peut être assuré dans chaque corps de première intervention par un médecin.
-
-Les médecins assistent avec voix consultative aux séances du conseil d'administration [*du corps*].
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°53-170 1953-03-07 ART. 46 REMPLACE AL. 1, 2 et 4
-
-	**Codifié par**:
-
-	  - Décret n°77-241 1977-03-07
-
-	**Créé par**:
-
-	  - Décret n°77-241 1977-03-07 JORF et JONC 18 Mars 1977
-
-	**Cité par**:
-
-	  - Décret n°88-623 du 6 mai 1988 - art. 50 (Ab)
-
-
-#### Dispositions communes à l'ensemble des sapeurs-pompiers communaux *professionnels et non professionnels (volontaires)*
-
-##### Règlement de service - commandement.
-
-###### Article R352-20
-
-Tout sapeur-pompier doit obéissance à ses supérieurs.
-
-Les chefs de corps doivent obtempérer aux ordres du maire et aux réquisitions du sous-préfet et du préfet dans les cas prévus
-à l'article R. 352-1.    Ils doivent, d'autre part, se conformer aux instructions techniques du directeur départemental des
-services d'incendie et de secours.
-
-Les chefs de corps de première intervention doivent, en outre, obéir aux ordres du chef du centre de secours auquel leur
-commune est rattachée.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°53-170 1953-03-07 ART. 30
-
-	**Codifié par**:
-
-	  - Décret n°77-241 1977-03-07
-
-	**Cité par**:
-
-	  - Décret n°88-623 du 6 mai 1988 - art. 50 (Ab)
-	  - Décret n°90-850 du 25 septembre 1990 - art. 25 (V)
-
-	**Cite**:
-
-	  - CODE DES COMMUNES. - art. R352-1 (Ab)
-
-
 #### Dispositions applicables aux sapeurs-pompiers communaux professionnels
 
 ##### Généralités .
@@ -83722,728 +82876,6 @@ conditions de forme*].
 	**Abrogé par**:
 
 	  - Décret n°89-231 1989-04-17 art. 4 JORF 18 avril 1989
-
-
-##### Notation et avancement.
-
-###### Article R353-49
-
-Les sous-officiers, caporaux-chefs, caporaux et sapeurs sont nommés par arrêté du maire, pris après avis du conseil
-d'administration [*du corps de sapeurs-pompiers*].
-
-Les officiers jusqu'au grade de chef de bataillon sont nommés par arrêté préfectoral, sur proposition du maire.
-
-Les lieutenants-colonels et les colonels sont nommés par arrêté du ministre de l'intérieur [*conditions de forme -
-compétence*].
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°53-170 1953-03-07 ART. 118 REMPLACE
-
-	**Codifié par**:
-
-	  - Décret n°77-241 1977-03-07
-
-	**Créé par**:
-
-	  - Décret n°77-241 1977-03-07 JORF et JONC 18 Mars 1977
-
-	**Cité par**:
-
-	  - Décret n°88-623 du 6 mai 1988 - art. 50 (Ab)
-	  - Décret n°89-229 du 17 avril 1989 - art. 47 (V)
-
-
-## LIVRE 16 : Administration et services communaux
-
-### TITRE 2 : Protection contre l'incendie
-
-#### CHAPITRE 1 : Dispositions générales.
-
-###### Article R*351-2
-
-Le conseil supérieur de la protection civile   est formé par la réunion de la commission supérieure de la protection contre
-l'incendie et autres sinistres du temps de paix et de la commission supérieure de la défense passive créée par arrêté
-interministériel du 6 août 1952, pris en application de la loi du 11 juillet 1938. 
-
-Les deux commissions sont réunies en séance commune par le ministre de l'intérieur pour étudier, sous sa présidence ou celle
-de son délégué, des questions qui entrent dans leur compétence commune.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Arrêté  1952-08-06
-	  - Loi n°1938-07-11
-
-	**Anciens textes**:
-
-	  - Décret n°1953-03-13 ART. 3
-
-	**Codifié par**:
-
-	  - Décret n°77-241 1977-03-07
-
-	**Créé par**:
-
-	  - Décret n°77-241 1977-03-07 JORF et JONC 18 Mars 1977
-
-	**Abrogé par**:
-
-	  - Décret n°88-623 du 6 mai 1988 - art. 50 (Ab)
-
-
-###### Article R*351-3
-
-La composition et le fonctionnement de la commission supérieure de la protection contre l'incendie et autres sinistres du
-temps de paix sont fixés par arrêté du ministre de l'intérieur [*compétence*].
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°1953-03-13 ART. 2
-
-	**Codifié par**:
-
-	  - Décret n°77-241 1977-03-07
-
-	**Créé par**:
-
-	  - Décret n°77-241 1977-03-07 JORF et JONC 18 Mars 1977
-
-	**Abrogé par**:
-
-	  - Décret n°88-623 du 6 mai 1988 - art. 50 (Ab)
-
-
-###### Article R*351-4
-
-La commission supérieure de la protection contre l'incendie et autres sinistres du temps de paix [*attributions*] étudie les
-questions qui lui sont soumises par le ministre de l'intérieur.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°1953-03-13
-
-	**Codifié par**:
-
-	  - Décret n°77-241 1977-03-07
-
-	**Créé par**:
-
-	  - Décret n°77-241 1977-03-07 JORF et JONC 18 Mars 1977
-
-	**Abrogé par**:
-
-	  - Décret n°88-623 du 6 mai 1988 - art. 50 (Ab)
-
-
-###### Article R351-1
-
-Le conseil supérieur de la protection civile [*attributions*] participe à l'établissement des règles générales de
-fonctionnement des services de protection contre l'incendie, notamment au point de vue du recrutement, de l'avancement et de
-la rémunération des sapeurs-pompiers communaux.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°53-170 1953-03-07 ART. 177
-
-	**Codifié par**:
-
-	  - Décret n°77-241 1977-03-07
-
-	**Créé par**:
-
-	  - Décret n°77-241 1977-03-07 JORF et JONC 18 Mars 1977
-
-	**Abrogé par**:
-
-	  - Décret n°88-623 du 6 mai 1988 - art. 50 (Ab)
-
-
-#### CHAPITRE 2 : Sapeurs-pompiers communaux
-
-##### SECTION 1 : Mission et constitution des corps de sapeurs-pompiers.
-
-###### Article R352-1
-
-Les corps de sapeurs-pompiers sont spécialement chargés des secours et de la protection contre les incendies et contre les
-périls ou accidents de toute nature menaçant la sécurité publique [*attributions*].
-
-Ils peuvent être appelés exceptionnellement à fournir des escortes dans les cérémonies officielles.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°53-170 1953-03-07 ART. 1
-
-	**Codifié par**:
-
-	  - Décret n°77-241 1977-03-07
-
-	**Créé par**:
-
-	  - Décret n°77-241 1977-03-07 JORF et JONC 18 Mars 1977
-
-	**Abrogé par**:
-
-	  - Décret n°88-623 du 6 mai 1988 - art. 50 (Ab)
-
-	**Cité par**:
-
-	  - Décret n°88-623 du 6 mai 1988 - art. 50 (Ab)
-	  - CODE DES COMMUNES. - art. R352-20 (M)
-	  - CODE DES COMMUNES. - art. R353-1 (Ab)
-
-
-###### Article R352-3
-
-Les corps de sapeurs-pompiers sont organisés par arrêté du préfet [*compétence*] à la demande des communes ou de leurs
-groupements qui justifient posséder un matériel de secours suffisant ou être en mesure de l'acquérir.
-
-En outre, la commune ou le groupement souscrit l'engagement de subvenir pendant trente années [*durée*] aux dépenses
-énumérées à l'article R. 352-68.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°53-170 1953-03-07 ART. 3
-
-	**Codifié par**:
-
-	  - Décret n°77-241 1977-03-07
-
-	**Créé par**:
-
-	  - Décret n°77-241 1977-03-07 JORF et JONC 18 Mars 1977
-
-	**Abrogé par**:
-
-	  - Décret n°88-623 du 6 mai 1988 - art. 50 (Ab)
-
-	**Cité par**:
-
-	  - CODE DES COMMUNES. - art. R352-68 (Ab)
-
-
-###### Article R352-4
-
-Six mois au moins avant l'expiration de la période de trente années prévue à l'article précédent, le préfet invite le conseil
-municipal à se prononcer sur le renouvellement de son engagement [*de subvenir pendant trente ans aux dépenses énumérées à
-l'article R352-58*].
-
-Il lui fait connaître qu'à défaut de délibération expresse dans ce délai, il est réputé [*accord tacite*] avoir renouvelé son
-engagement pour une période d'égale durée.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°53-170 1953-03-07 ART. 4
-
-	**Codifié par**:
-
-	  - Décret n°77-241 1977-03-07
-
-	**Créé par**:
-
-	  - Décret n°77-241 1977-03-07 JORF et JONC 18 Mars 1977
-
-	**Abrogé par**:
-
-	  - Décret n°88-623 du 6 mai 1988 - art. 50 (Ab)
-
-	**Cite**:
-
-	  - Code des communes R352-3 et R352-68
-
-
-###### Article R352-5
-
-L'arrêté qui crée le corps de sapeurs-pompiers fixe son effectif et son encadrement en fonction du nombre d'engins
-nécessaires pour faire face aux risques particuliers de la commune et du rôle éventuel du corps dans une organisation
-d'ensemble du service d'incendie.
-
-Un arrêté du ministre de l'intérieur, pris après avis du conseil supérieur de la protection civile, précise les modalités
-d'application du présent article (1).
-
-(1) Arrêté ministériel du 24 février 1969 fixant les effectifs, l'armement et l'encadrement des corps de sapeurs-pompiers
-communaux, modifié par l'arrêté ministériel du 12 avril 1973 (J.O. du 25 mars 1969 et 13 mai 1973).
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°53-170 1953-03-07 ART. 5
-
-	**Codifié par**:
-
-	  - Décret n°77-241 1977-03-07
-
-	**Créé par**:
-
-	  - Décret n°77-241 1977-03-07 JORF et JONC 18 Mars 1977
-
-	**Abrogé par**:
-
-	  - Décret n°88-623 du 6 mai 1988 - art. 50 (Ab)
-
-
-###### Article R352-6
-
-Les corps de sapeurs-pompiers peuvent être composés de personnels tant masculins que féminins.
-
-Ces personnels sont recrutés et remplissent leurs fonctions dans les conditions prévues par les chapitre II, III et IV du
-présent titre.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°53-170 1953-03-07 ART. 9 COMPLETE AL. 1
-
-	**Codifié par**:
-
-	  - Décret n°77-241 1977-03-07
-
-	**Créé par**:
-
-	  - Décret n°77-241 1977-03-07 JORF et JONC 18 Mars 1977
-
-	**Abrogé par**:
-
-	  - Décret n°88-623 du 6 mai 1988 - art. 50 (Ab)
-
-	**Cite**:
-
-	  - Code des communes R353-1 à R353-120
-
-
-###### Article R352-9
-
-Des arrêtés du ministre de l'intérieur déterminent le modèle de l'uniforme et de la tenue de feu des sapeurs-pompiers (1).
-
-Les insignes des grades des officiers et sous-officiers sont en argent.
-
-(1) Arrêté ministériel du 18 juillet 1953, modifié par l'arrêté ministériel du 28 mars 1958, réglementant les tenues
-d'uniforme des officiers, sous-officiers, caporaux et sapeurs des corps de sapeurs-pompiers communaux (J.O. des 4 août 1953
-et 10 avril 1958) ; arrêté ministériel du 28 mars 1958 réglementant les tenues d'uniforme des médecins des corps de sapeurs-
-pompiers (J.O. des 10 avril et 26 avril 1958). Tenue d'uniforme des pharmaciens des corps de sapeurs-pompiers, V. Arr. min. 6
-juillet 1981 (J.O. 17 juillet).
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°53-170 1953-03-07 ART. 11
-
-	**Codifié par**:
-
-	  - Décret n°77-241 1977-03-07
-
-	**Créé par**:
-
-	  - Décret n°77-241 1977-03-07 JORF et JONC 18 Mars 1977
-
-	**Abrogé par**:
-
-	  - Décret n°88-623 du 6 mai 1988 - art. 50 (Ab)
-
-
-#### CHAPITRE 3 : Dispositions communes à l'ensemble des sapeurs-pompiers communaux *professionnels et non professionnels (volontaires)*.
-
-##### SECTION 1 : Mission et constitution des corps de sapeurs-pompiers.
-
-###### Article R352-10
-
-Les corps de sapeurs-pompiers des communes qui n'ont pas été classées centres de secours sont dissous par arrêté du préfet,
-sur avis conforme du conseil municipal et après consultation du directeur départemental des services d'incendie et de secours
-[*conditions de forme*].
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°53-170 1953-03-07 ART. 6
-
-	**Codifié par**:
-
-	  - Décret n°77-241 1977-03-07
-
-	**Abrogé par**:
-
-	  - Décret n°88-623 du 6 mai 1988 - art. 50 (Ab)
-
-
-###### Article R352-11
-
-Les corps de sapeurs-pompiers des communes qui ont été classées centres de secours sont dissous par arrêté du ministre de
-l'intérieur sur proposition du préfet, après avis du conseil municipal et du directeur départemental des services d'incendie
-et de secours [*conditions de forme*].
-
-Les corps communaux de première intervention sont dissous dans les mêmes conditions en cas d'avis défavorable du conseil
-municipal.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°53-170 1953-03-07 ART. 7
-
-	**Codifié par**:
-
-	  - Décret n°77-241 1977-03-07
-
-	**Abrogé par**:
-
-	  - Décret n°88-623 du 6 mai 1988 - art. 50 (Ab)
-
-
-#### CHAPITRE 4 : Sapeurs-pompiers communaux
-
-##### SECTION 1 : Mission et constitution des corps de sapeurs-pompiers.
-
-###### Article R352-12
-
-Lorsqu'un corps de sapeurs-pompiers est dissous, non à titre définitif, mais en vue de sa réorganisation, l'arrêté
-ministériel ou préfectoral édicte les dispositions nécessaires pour assurer le service jusqu'à la réorganisation du corps,
-laquelle intervient dans les trois mois [*délai*].
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°53-170 1953-03-07 ART. 8
-
-	**Codifié par**:
-
-	  - Décret n°77-241 1977-03-07
-
-	**Créé par**:
-
-	  - Décret n°77-241 1977-03-07 JORF et JONC 18 Mars 1977
-
-	**Abrogé par**:
-
-	  - Décret n°88-623 du 6 mai 1988 - art. 50 (Ab)
-
-
-#### CHAPITRE 7 : Dispositions communes à l'ensemble des sapeurs-pompiers communaux *professionnels et non professionnels (volontaires)*.
-
-##### SECTION 1 : Règlement de service - commandement.
-
-###### Article R352-22
-
-Le service est réglé dans chaque commune par un arrêté municipal pris après avis du conseil d'administration et soumis à
-l'approbation du préfet, après avis du directeur départemental des services d'incendie et de secours [*conditions de forme*].
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°53-170 1953-03-07 ART. 31
-
-	**Codifié par**:
-
-	  - Décret n°77-241 1977-03-07
-
-	**Abrogé par**:
-
-	  - Décret n°88-623 du 6 mai 1988 - art. 50 (Ab)
-
-	**Cité par**:
-
-	  - Décret n°88-623 du 6 mai 1988 - art. 50 (Ab)
-	  - CODE DES COMMUNES. - art. R354-6 (Ab)
-
-
-#### CHAPITRE 8 : Sapeurs-pompiers communaux
-
-##### SECTION 1 : Règlement de service - Commandement.
-
-###### Article R352-24
-
-En cas de sinistre, la direction et l'organisation des secours relèvent, sous l'autorité du maire [*attributions*] :
-
-- du chef de corps local de sapeurs-pompiers jusqu'à l'intervention du centre de secours ;
-
-- du chef de centre le plus élevé en grade.
-
-Le commandement du corps ou du centre appartient, en l'absence du chef, au sapeur-pompier le plus ancien dans le grade le
-plus élevé.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°53-170 1953-03-07 ART. 33
-
-	**Codifié par**:
-
-	  - Décret n°77-241 1977-03-07
-
-	**Créé par**:
-
-	  - Décret n°77-241 1977-03-07 JORF et JONC 18 Mars 1977
-
-	**Abrogé par**:
-
-	  - Décret n°88-623 du 6 mai 1988 - art. 50 (Ab)
-
-
-#### CHAPITRE 9 : Dispositions communes à l'ensemble des sapeurs-pompiers communaux *professionnels et non professionnels (volontaires)*.
-
-##### SECTION 1 : Règlement de service - commandement.
-
-###### Article R352-25
-
-La direction des secours appartient au directeur départemental des services d'incendie et de secours dès qu'il arrive sur les
-lieux du sinistre ou à l'officier de sapeurs-pompiers désigné par le préfet.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°53-170 1953-03-07 ART. 34
-
-	**Codifié par**:
-
-	  - Décret n°77-241 1977-03-07
-
-	**Abrogé par**:
-
-	  - Décret n°88-623 du 6 mai 1988 - art. 50 (Ab)
-
-
-#### CHAPITRE 10 : Sapeurs-pompiers communaux
-
-##### SECTION 1 : Règlement de service - Commandement.
-
-###### Article R352-26
-
-Le maire conserve ses droits pour le maintien de l'ordre pendant le sinistre, sous réserve des pouvoirs de substitution
-[*pour prendre toutes mesures relatives au maintien de la salubrité, de la sûreté et de la tranquillité publiques*] conférés
-au préfet par l'article L. 131-13.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°53-170 1953-03-07 ART. 35
-
-	**Codifié par**:
-
-	  - Décret n°77-241 1977-03-07
-
-	**Créé par**:
-
-	  - Décret n°77-241 1977-03-07 JORF et JONC 18 Mars 1977
-
-	**Abrogé par**:
-
-	  - Décret n°88-623 du 6 mai 1988 - art. 50 (Ab)
-
-	**Cite**:
-
-	  - CODE DES COMMUNES. - art. L131-13 (M)
-
-
-#### CHAPITRE 16 : Sapeurs-pompiers communaux
-
-##### SECTION 2 : Service de santé et de secours médical.
-
-###### Article R352-65
-
-Des pharmaciens peuvent être appelés à faire partie du service de santé et de secours médical ; la nomination d'un pharmacien
-peut intervenir dans chaque centre de secours.
-
-Le pharmacien [*attributions*] supplée le médecin du centre de secours dans l'exercice des fonctions qui n'ont pas un
-caractère strictement médical ; il fait partie du personnel volontaire d'instruction et d'intervention en cas de sinistre
-important.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°53-170 1953-03-07 ART. 46 REMPLACE AL. 5 et 6
-
-	**Codifié par**:
-
-	  - Décret n°77-241 1977-03-07
-
-	**Créé par**:
-
-	  - Décret n°77-241 1977-03-07 JORF et JONC 18 Mars 1977
-
-	**Abrogé par**:
-
-	  - Décret n°88-623 du 6 mai 1988 - art. 50 (Ab)
-
-	**Cité par**:
-
-	  - Décret n°88-623 du 6 mai 1988 - art. 50 (Ab)
-
-
-###### Article R352-67
-
-Dans chaque département, il peut être créé un emploi de médecin chef et le cas échéant un emploi de pharmacien chef des
-services départementaux d'incendie et de secours. Les titulaires de ces emplois ont au moins le grade de chef de bataillon.
-Il peut également être pourvu en cas de besoin à un ou plusieurs emplois de médecin chef adjoint et de pharmacien chef
-adjoint.
-
-Le médecin-chef du service départemental d'incendie et de secours veille à l'organisation du service de santé et de secours
-médical dans les corps de sapeurs-pompiers, assure l'instruction médicale et vérifie l'état du matériel de secours.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°77-241 1977-03-07
-
-	**Abrogé par**:
-
-	  - Décret n°88-623 du 6 mai 1988 - art. 50 (Ab)
-
-
-##### SECTION 3 : Dépenses relatives aux corps de sapeurs-pompiers.
-
-###### Article R352-68
-
-Indépendamment des dépenses de lutte contre l'incendie et de secours mises à la charge des communes par la loi, les dépenses
-que les communes, en vertu de l'article R. 352-3, s'engagent à assumer pour le fonctionnement d'un corps de sapeurs-pompiers
-sont :       1° Les rémunérations des sapeurs-pompiers professionnels fixées à l'article R. 353-27 et les vacations horaires
-payées aux sapeurs-pompiers non professionnels dans la limite prévue par les textes en vigueur ; 
-
-2° Les frais de la tenue de feu et, pour les pompiers professionnels, de la tenue d'exercice ; 
-
-3° Les frais d'achat de matériel de lutte contre l'incendie ; 
-
-4° Les frais d'entretien de ce matériel et de ses accessoires ; 
-
-5° Le loyer, l'entretien, le chauffage et l'éclairage d'un local réservé au matériel d'incendie ; 
-
-6° Le loyer, l'entretien, le chauffage, l'éclairage et le mobilier du local servant aux réunions du conseil d'administration
-et des locaux affectés aux sapeurs-pompiers professionnels ; 
-
-7° Les frais de registres, livrets, papier, contrôle et les menus frais de bureau ; 
-
-8° La réparation du préjudice subi en service par les sapeurs-pompiers volontaires ou les primes de la police d'assurance
-contractée pour garantir ce risque.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°53-170 1953-03-07 ART. 49
-
-	**Codifié par**:
-
-	  - Décret n°77-241 1977-03-07
-
-	**Créé par**:
-
-	  - Décret n°77-241 1977-03-07 JORF et JONC 18 Mars 1977
-
-	**Abrogé par**:
-
-	  - Décret n°88-623 du 6 mai 1988 - art. 50 (Ab)
-
-	**Cite**:
-
-	  - CODE DES COMMUNES. - art. R352-3 (Ab)
-	  - CODE DES COMMUNES. - art. R353-27 (Ab)
-
-
-###### Article R352-69
-
-Les dépenses du service communal d'incendie sont réglées par le maire sur présentation de mémoires visés par le chef de corps
-[*modalités de paiement*].
-
-Elles sont mandatées au nom des créanciers réels et acquittées suivant les règles de comptabilité applicables aux dépenses
-communales.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°53-170 1953-03-07 ART. 50
-
-	**Codifié par**:
-
-	  - Décret n°77-241 1977-03-07
-
-	**Créé par**:
-
-	  - Décret n°77-241 1977-03-07 JORF et JONC 18 Mars 1977
-
-	**Abrogé par**:
-
-	  - Décret n°88-623 du 6 mai 1988 - art. 50 (Ab)
-
-
-###### Article R352-70
-
-Il peut être créé dans chaque corps de sapeurs-pompiers professionnels ou volontaires une caisse amicale, régie par la loi du
-1er juillet 1901.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°53-170 1953-03-07 ART. 53
-
-	**Codifié par**:
-
-	  - Décret n°77-241 1977-03-07
-
-	**Créé par**:
-
-	  - Décret n°77-241 1977-03-07 JORF et JONC 18 Mars 1977
-
-	**Abrogé par**:
-
-	  - Décret n°88-623 du 6 mai 1988 - art. 50 (Ab)
-
-	**Cite**:
-
-	  - Loi   1901-07-01
-
-
-#### CHAPITRE 18 : Dispositions applicables aux sapeurs-pompiers communaux non professionnels
-
-##### SECTION 2 : Notation et avancement.
-
-###### Article R354-16
-
-Les officiers sont promus au grade supérieur par arrêté du préfet à l'exception des lieutenants-colonels et des colonels qui
-sont nommés par arrêté du ministre de l'intérieur.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°53-170 1953-03-07 ART. 69 REMPLACE PHR. 1
-
-	**Codifié par**:
-
-	  - Décret n°77-241 1977-03-07
-
-	**Abrogé par**:
-
-	  - Décret n°88-623 du 6 mai 1988 - art. 50 (Ab)
-
-	**Cité par**:
-
-	  - Décret n°88-623 du 6 mai 1988 - art. 50 (Ab)
 
 
 ## LIVRE 4 : Personnel communal
@@ -93418,8 +91850,4 @@ activités exercées le justifie.
 
 	  - Décret n°77-373 1977-03-28
 
-
-## Personnel communal
-
-### Agents nommés dans des emplois permanents à temps complet
 
