@@ -1,5 +1,5 @@
 # Code des communes  
-Version Consolidée au 1983-08-08
+Version Consolidée au 1983-09-25
 
 # Statuts types d'une caisse communale de secours et de retraite de sapeurs-pompiers
 
@@ -50575,10 +50575,98 @@ de forme*].
 
 ##### SOUS-SECTION 2 : Effets du transfert des compétences.
 
-###### Article R*165-13
+###### Article R*165-6
 
-La procédure prévue aux articles R. 165-9 à R. 165-12 utilisée à défaut d'accord amiable n'est pas applicable aux contrats
-par lesquels les communes restent, à la date du transfert de compétence, liées pour une durée inférieure à quatre ans.
+La communauté urbaine est, à la date de transfert de chaque compétence ou partie de compétence effectué dans les conditions
+définies aux articles L. 165-7 et L. 165-11, substituée de plein droit aux communes qui la composent, dans les contrats de
+concession, d'affermage ou de prestations de services relatifs à des services publics ou d'intérêt public.
+
+Les communes membres d'une communauté urbaine sont, à la date de transfert de chaque compétence ou partie de compétence
+effectué dans les conditions définies à l'article L. 165-11, substituées de plein droit à la communauté urbaine dans les
+contrats de concession, d'affermage ou de prestation de services relatifs à des services publics ou d'intérêt public.
+
+Les contrats visés aux alinéas précédents sont exécutés dans les conditions anterieures jusqu'à leur modification éventuelle.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - SPEC_APPLI: *Dispositions non applicables aux communes des départements de la Guadeloupe, de la Guyane, de la Martinique, de la Réunion et de Saint-Pierre-et-Miquelon*
+	  - TXT_ASSOCIE: Code des communes R165-14
+	  - SPEC_APPLI: Code des communes R182-1, R182-3 :
+
+	**Anciens textes**:
+
+	  - Décret n°67-1046 1967-11-30 art. 1
+
+	**Codifié par**:
+
+	  - Décret n°77-91 1977-01-27
+
+	**Abrogé par**:
+
+	  - Décret n°2000-318 du 7 avril 2000 - art. 4 (V)
+
+	**Cite**:
+
+	  - CODE DES COMMUNES. - art. L165-11 (M)
+	  - CODE DES COMMUNES. - art. L165-7 (M)
+
+
+###### Article R*165-7
+
+Dans un délai de deux mois à compter de la date de transfert de chaque compétence, ou partie de compétence, le conseil de la
+communauté urbaine ou le conseil municipal de chaque commune concernée à laquelle est transférée la compétence délibère sur
+le principe d'une modification des contrats mentionnés à l'article précédent et, le cas échéant, sur les modalités de
+révision et de résiliation de ces contrats.
+
+Les titulaires des contrats sont informés par le commissaire de la République de la date à laquelle le délai de deux mois
+précité commence à courir. Dans ce délai, ils font connaître leurs proposition de modification à la communauté urbaine ou à
+chaque commune concernée suivant le cas.
+
+A défaut de délibération dans le délai prévu au premier alinéa, le conseil de communauté, ou le conseil municipal, de chaque
+commune concernée, suivant le cas, est réputé avoir opté pour le maintien sans modification des contrats existants. Il en est
+de même en ce qui concerne les titulaires des contrats lorsque ceux-ci n'ont pas fait connaître, dans le délai prévu au
+second alinéa, leurs propositions au conseil de communauté ou au conseil municipal de chaque commune concernée.
+
+Les parties contractantes disposent d'un délai de deux mois à compter de la délibération prévue au premier alinéa ou de la
+réception des propositions de modification mentionnées au second alinéa pour parvenir à un accord amiable sur la révision ou
+la résiliation du contrat. Ce délai peut être prolongé de deux mois d'un commun accord.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - SPEC_APPLI: *Dispositions non applicables aux communes des départements de la Guadeloupe, de la Guyane, de la Martinique, de la Réunion et de Saint-Pierre-et-Miquelon*
+	  - TXT_ASSOCIE: Code des communes R165-14
+	  - SPEC_APPLI: Code des communes R182-1, R182-3 :
+
+	**Anciens textes**:
+
+	  - Décret n°71-82 1971-01-29 ART. 2 AL. 1
+
+	**Codifié par**:
+
+	  - Décret n°77-91 1977-01-27
+
+	**Abrogé par**:
+
+	  - Décret n°2000-318 du 7 avril 2000 - art. 4 (V)
+
+	**Cite**:
+
+	  - Code des communes R165-6
+
+	**Nouveaux textes**:
+
+	  - Code général des collectivités territoriales L
+
+
+###### Article R*165-8
+
+En cas d'accord amiable sur les modalités de la révision ou de la résiliation du contrat, les délibérations relatives à cette
+révision ou à cette résiliation prises par le conseil de communauté ou le conseil municipal, suivant le cas, sont exécutoires
+de plein droit dans les conditions de droit commun.
 
 **Liens relatifs à cet article**
 
@@ -50594,35 +50682,74 @@ par lesquels les communes restent, à la date du transfert de compétence, liée
 
 	**Anciens textes**:
 
-	  - Décret n°67-1046 1967-11-30 art. 8
+	  - Décret n°67-1046 1967-11-30 art. 3
 
 	**Codifié par**:
 
 	  - Décret n°77-91 1977-01-27
 
-	**Créé par**:
-
-	  - Décret n°77-91 1977-01-27 JORF et JONC 3 février 1977 date d'entrée en vigueur élection des maires
-
 	**Abrogé par**:
 
-	  - Décret n°83-845 1983-09-19 art. 1 jorf 25 septembre 1983
-
-	**Cite**:
-
-	  - Code des communes R165-9 à R165-12
+	  - Décret n°2000-318 du 7 avril 2000 - art. 4 (V)
 
 
-###### Article R*165-14
+###### Article R*165-9
 
-Les dispositions des articles R. 165-6 à R. 165-13 sont applicables aux contrats passés par les syndicats de communes et
-districts préexistant dans le périmètre de l'agglomération dans laquelle la communauté urbaine exerce ses compétences.
+Si à l'issue du délai fixé au dernier alinéa de l'article R. 165-7 les parties contractantes ne parviennent pas à un accord
+amiable, le président de la communauté urbaine, le maire de chaque commune concernée, ou le titulaire du contrat, en informe
+le commissaire de la République dans un délai de quinze jours.
+
+Dans le même délai de quinze jours, la partie la plus diligente peut demander au commissaire de la République de soumettre le
+dossier à l'examen de la commission prévue à l'article R. 165-10. En l'absence d'une telle demande, la résiliation du contrat
+est poursuivie dans les conditions de droit commun applicables à chaque type de contrat.
 
 **Liens relatifs à cet article**
 
 	**Liens**:
 
 	  - SPEC_APPLI: *Dispositions non applicables aux communes des départements de la Guadeloupe, de la Guyane, de la Martinique, de la Réunion et de Saint-Pierre-et-Miquelon*
+	  - TXT_ASSOCIE: Code des communes R165-13 et R165-14
+	  - SPEC_APPLI: Code des communes R182-1, R182-3 :
+
+	**Anciens textes**:
+
+	  - Décret n°67-1046 1967-11-30 art. 4
+
+	**Codifié par**:
+
+	  - Décret n°77-91 1977-01-27
+
+	**Abrogé par**:
+
+	  - Décret n°2000-318 du 7 avril 2000 - art. 4 (V)
+
+	**Cite**:
+
+	  - Code des communes L165-8 al. 1
+
+	**Nouveaux textes**:
+
+	  - Code général des collectivités territoriales L
+
+
+###### Article R*165-10
+
+Par dérogation aux dispositions des articles 37 et 45 de la loi du 8 avril 1946 sur la nationalisation de l'électricité et du
+gaz et à toute disposition réglementaire contraire, le commissaire de la République soumet, lorsque la demande lui en a été
+faite, le dossier à une commission chargée de formuler des propositions sur les conditions dans lesquelles la révision ou la
+résiliation du contrat peut intervenir. Cette commission est présidée par un conseiller du tribunal administratif ou un
+conseiller de la chambre régionale des comptes et comprend :
+
+1° Un membre désigné par l'organe exécutif de la collectivité attributaire du contrat ;
+
+2° Un membre désigné par le titulaire du contrat.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - SPEC_APPLI: *Dispositions non applicables aux communes des départements de la Guadeloupe, de la Guyane, de la Martinique, de la Réunion et de Saint-Pierre-et-Miquelon*
+	  - TXT_ASSOCIE: Code des communes R165-13 et R165-14
 	  - SPEC_APPLI: Code des communes R182-1, R182-3 :
 
 	**Nouveaux textes**:
@@ -50631,19 +50758,92 @@ districts préexistant dans le périmètre de l'agglomération dans laquelle la 
 
 	**Anciens textes**:
 
-	  - Décret n°67-1046 1967-11-30 art. 9
+	  - Décret n°67-1046 1967-11-30 art. 5
 
 	**Codifié par**:
 
 	  - Décret n°77-91 1977-01-27
 
-	**Créé par**:
+	**Abrogé par**:
 
-	  - Décret n°77-91 1977-01-27 JORF et JONC 3 février 1977 date d'entrée A(Décret 83-845 1983-09-019 art. 1 jorf 25 septembre 1983
+	  - Décret n°2000-318 du 7 avril 2000 - art. 4 (V)
 
 	**Cite**:
 
-	  - Code des communes R165-6 à R165-13
+	  - Loi n°1946-04-08 art. 37 et 45
+	  - Loi n°42-329 1942-03-04 art. 5
+
+
+###### Article R*165-11
+
+Dans le délai de deux mois à compter de son institution, la commission établit ses propositions pour la révision ou, le cas
+échéant, la résiliation du contrat, et les transmet au commissaire de la République.
+
+Le commissaire de la République communique aux parties contractantes les propositions de la commission assorties, le cas
+échéant, de ses propres observations.
+
+Si dans le délai de deux mois à compter de la communication de ces propositions, les parties n'ont pas pu se mettre d'accord
+sur leur application, la résiliation est poursuivie dans les conditions du droit commun applicable à chaque type de contrat.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - SPEC_APPLI: *Dispositions non applicables aux communes des départements de la Guadeloupe, de la Guyane, de la Martinique, de la Réunion et de Saint-Pierre-et-Miquelon*
+	  - TXT_ASSOCIE: Code des communes R165-13 et R165-14
+	  - SPEC_APPLI: Code des communes R182-1, R182-3 :
+
+	**Nouveaux textes**:
+
+	  - Code général des collectivités territoriales L
+
+	**Anciens textes**:
+
+	  - Décret n°67-1046 1967-11-30 art. 6
+
+	**Codifié par**:
+
+	  - Décret n°77-91 1977-01-27
+
+	**Abrogé par**:
+
+	  - Décret n°2000-318 du 7 avril 2000 - art. 4 (V)
+
+	**Cite**:
+
+	  - Code des communes R165-10
+
+
+###### Article R*165-12
+
+Les dispositions des articles R. 165-6 à R. 165-11 sont applicables aux contrats conclus par les syndicats de communes et
+districts préexistants dans le périmètre de la communauté urbaine lorsque ces contrats peuvent être affectés par les
+transferts de compétences ou partie de compétences à la communauté urbaine, effectués en vertu des articles L. 165-7 et L.
+165-11.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - SPEC_APPLI: *Dispositions non applicables aux communes des départements de la Guadeloupe, de la Guyane, de la Martinique, de la Réunion et de Saint-Pierre-et-Miquelon*
+	  - TXT_ASSOCIE: Code des communes R165-13 et R165-14
+	  - SPEC_APPLI: Code des communes R182-1, R182-3 :
+
+	**Nouveaux textes**:
+
+	  - Code général des collectivités territoriales L
+
+	**Anciens textes**:
+
+	  - Décret n°67-1046 1967-11-30 art. 7
+
+	**Codifié par**:
+
+	  - Décret n°77-91 1977-01-27
+
+	**Abrogé par**:
+
+	  - Décret n°2000-318 du 7 avril 2000 - art. 4 (V)
 
 
 ##### SECTION 4 : Dispositions relatives aux transferts des biens, droits et obligations.
@@ -53654,260 +53854,6 @@ déterminées par un arrêté du commissaire de la République.
 ### INTERETS COMMUNS A PLUSIEURS COMMUNES
 
 #### Communautés urbaines
-
-##### Compétences de la communauté urbaine
-
-##### Effets du transfert des compétences .
-
-###### Article R*165-6
-
-La communauté urbaine est, à la date de transfert de chaque compétence, substituée de plein droit aux communes qui la
-composent, dans les contrats de concession, d'affermage ou de prestations de services relatifs à des services publics ou
-d'intérêt public.
-
-Ces contrats sont exécutés dans les conditions antérieures jusqu'à leur modification éventuelle.
-
-**Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - SPEC_APPLI: *Dispositions non applicables aux communes des départements de la Guadeloupe, de la Guyane, de la Martinique, de la Réunion et de Saint-Pierre-et-Miquelon*
-	  - TXT_ASSOCIE: Code des communes R165-14
-	  - SPEC_APPLI: Code des communes R182-1, R182-3 :
-
-	**Anciens textes**:
-
-	  - Décret n°67-1046 1967-11-30 art. 1
-
-	**Codifié par**:
-
-	  - Décret n°77-91 1977-01-27
-
-	**Créé par**:
-
-	  - Décret n°77-91 1977-01-27 JORF et JONC 3 février 1977 date d'entrée en vigueur élection des maires
-
-
-###### Article R*165-7
-
-Dans un délai de six mois à compter de la date de transfert de chaque compétence, le conseil de communauté délibère sur la
-nécessité d'une modification des contrats mentionnés à l'article précédent.
-
-Dans ce même délai, les titulaires des contrats peuvent proposer à la communauté toutes modifications qu'ils estiment
-nécessaires.
-
-Dans les six mois d'une délibération posant, conformément au premier alinéa, le principe d'une modification du contrat ou de
-la réception des propositions de modifications mentionnées au deuxième alinéa, le conseil de communauté propose aux
-titulaires des contrats en cause les modalités d'une revision ou d'une résiliation ou se prononce sur les propositions du
-cocontractant.
-
-A défaut de délibération dans le délai prévu à l'alinéa précédent, le conseil de communauté est réputé avoir opté pour le
-maintien sans modification des contrats existants. Il en est de même au cas où aucune délibération n'a posé le principe d'une
-modification du contrat.
-
-Les délibérations mentionnées aux alinéas 1er, 3 et 4 ci-dessus sont notifiées aux titulaires des contrats par le président
-du conseil de communauté dans le délai d'un mois.
-
-**Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - SPEC_APPLI: *Dispositions non applicables aux communes des départements de la Guadeloupe, de la Guyane, de la Martinique, de la Réunion et de Saint-Pierre-et-Miquelon*
-	  - TXT_ASSOCIE: Code des communes R165-14
-	  - SPEC_APPLI: Code des communes R182-1, R182-3 :
-
-	**Anciens textes**:
-
-	  - Décret n°71-82 1971-01-29 ART. 2 AL. 1
-
-	**Codifié par**:
-
-	  - Décret n°77-91 1977-01-27
-
-	**Créé par**:
-
-	  - Décret n°77-91 1977-01-27 JORF et JONC 3 février 1977 date d'entrée en vigueur élection des maires
-
-	**Cite**:
-
-	  - Code des communes R165-6
-
-
-###### Article R*165-8
-
-La communauté et le titulaire du contrat disposent d'un délai de trois mois pour parvenir à un accord amiable. Si les parties
-en conviennent, ce délai peut être prorogé une fois. Cette prolongation est portée à la connaissance du préfet.
-
-En cas d'accord, les modifications intervenues sont approuvées conformément aux dispositions applicables à chaque contrat.
-Dans le cas où les accords amiables entraînent la substitution d'un contrat unique à plusieurs contrats antérieurs,
-l'approbation est donnée par l'autorité compétente pour approuver le nouveau contrat.
-
-Il en est de même pour les modalités de la résiliation décidée par accord amiable.
-
-**Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - SPEC_APPLI: *Dispositions non applicables aux communes des départements de la Guadeloupe, de la Guyane, de la Martinique, de la Réunion et de Saint-Pierre-et-Miquelon*
-	  - TXT_ASSOCIE: Code des communes R165-14
-	  - SPEC_APPLI: Code des communes R182-1, R182-3 :
-
-	**Anciens textes**:
-
-	  - Décret n°67-1046 1967-11-30 art. 3
-
-	**Codifié par**:
-
-	  - Décret n°77-91 1977-01-27
-
-	**Créé par**:
-
-	  - Décret n°77-91 1977-01-27 JORF et JONC 3 février 1977 date d'entrée en vigueur élection des maires
-
-
-###### Article R*165-9
-
-Le défaut d'accord amiable [*entre la communauté et le titulaire d'un contrat passé avec les communes et relatif à un service
-public ou d'intérêt public*] est porté à la connaissance du préfet par le président du conseil de communauté à l'expiration
-des délais fixés au premier alinéa de l'article précédent.
-
-A défaut d'accord amiable, le préfet met en demeure la communauté et le titulaire du contrat de produire, dans un délai d'un
-mois, leurs observations ou de nouvelles propositions.
-
-Il transmet le dossier, ainsi complété le cas échéant, au ministre de l'intérieur [*procédure*].
-
-**Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - SPEC_APPLI: *Dispositions non applicables aux communes des départements de la Guadeloupe, de la Guyane, de la Martinique, de la Réunion et de Saint-Pierre-et-Miquelon*
-	  - TXT_ASSOCIE: Code des communes R165-13 et R165-14
-	  - SPEC_APPLI: Code des communes R182-1, R182-3 :
-
-	**Anciens textes**:
-
-	  - Décret n°67-1046 1967-11-30 art. 4
-
-	**Codifié par**:
-
-	  - Décret n°77-91 1977-01-27
-
-	**Créé par**:
-
-	  - Décret n°77-91 1977-01-27 JORF et JONC 3 février 1977 date d'entrée en vigueur élection des maires
-
-	**Cite**:
-
-	  - Code des communes L165-8 al. 1
-
-
-###### Article R*165-10
-
-Par dérogation aux dispositions de l'article 5 de la loi n° 329 du 4 mars 1942 concernant les voies ferrées d'intérêt local
-et à celles des articles 37 et 45 de la loi du 8 avril 1946 sur la nationalisation de l'électricité et du gaz et à toute
-disposition réglementaire contraire, le ministre de l'intérieur soumet le dossier [*relatif au défaut d'accord amiable entre
-la communauté et le titulaire d'un contrat de service public ou d'intérêt public passé avec une commune*] à l'examen d'une
-commission composée d'un conseiller d'Etat, président, d'un représentant du ministre de l'intérieur, d'un représentant du
-ministre de l'économie et des finances et, suivant l'objet du contrat, d'un représentant du ou des ministres intéressés ainsi
-que deux maires désignés par le ministre de l'intérieur.
-
-Les deux maires mentionnés à l'alinéa précédent sont choisis sur une liste de six noms établis pour deux ans par arrêté du
-ministre de l'intérieur et comprenant exclusivement des maires de communes faisant partie d'une communauté urbaine. Pour une
-affaire donnée, le choix du ministre ne peut porter sur le maire d'une commune faisant partie de la communauté urbaine
-intéressée par le dossier à examiner [*procédure*].
-
-**Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - SPEC_APPLI: *Dispositions non applicables aux communes des départements de la Guadeloupe, de la Guyane, de la Martinique, de la Réunion et de Saint-Pierre-et-Miquelon*
-	  - TXT_ASSOCIE: Code des communes R165-13 et R165-14
-	  - SPEC_APPLI: Code des communes R182-1, R182-3 :
-
-	**Anciens textes**:
-
-	  - Décret n°67-1046 1967-11-30 art. 5
-
-	**Codifié par**:
-
-	  - Décret n°77-91 1977-01-27
-
-	**Créé par**:
-
-	  - Décret n°77-91 1977-01-27 JORF et JONC 3 février 1977 date d'entrée en vigueur élection des maires
-
-	**Cite**:
-
-	  - Loi n°1946-04-08 art. 37 et 45
-	  - Loi n°42-329 1942-03-04 art. 5
-
-
-###### Article R*165-11
-
-Après avoir recueilli les observations des parties contractantes, la commission [*chargée du dossier relatif au défaut
-d'accord amiable entre la communauté et le titulaire d'un contrat de service public ou d'intérêt public passé avec une
-commune*] instituée à l'article précédent présente son avis sur la suite à donner à l'affaire et formule, le cas échéant,
-toutes propositions sur les conditions dans lesquelles la révision ou la résiliation du contrat est susceptible d'intervenir,
-et notamment les indemnités auxquelles cette révision ou cette résiliation peut donner lieu [*procédure*].
-
-**Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - SPEC_APPLI: *Dispositions non applicables aux communes des départements de la Guadeloupe, de la Guyane, de la Martinique, de la Réunion et de Saint-Pierre-et-Miquelon*
-	  - TXT_ASSOCIE: Code des communes R165-13 et R165-14
-	  - SPEC_APPLI: Code des communes R182-1, R182-3 :
-
-	**Anciens textes**:
-
-	  - Décret n°67-1046 1967-11-30 art. 6
-
-	**Codifié par**:
-
-	  - Décret n°77-91 1977-01-27
-
-	**Créé par**:
-
-	  - Décret n°77-91 1977-01-27 JORF et JONC 3 février 1977 date d'entrée en vigueur élection des maires
-
-	**Cite**:
-
-	  - Code des communes R165-10
-
-
-###### Article R*165-12
-
-Au vu de l'avis de la commission [*chargée d'examiner le dossier relatif au défaut d'accord amiable entre la communauté et le
-titulaire d'un contrat de service public ou d'intérêt public passé avec la commune*] , le ministre de l'intérieur, le
-ministre de l'économie et des finances et, le cas échéant, le ou les ministres intéressés arrêtent les propositions à faire
-aux parties contractantes sur les conditions de modification ou de révision du contrat [*procédure*].
-
-Si, dans les trois mois de la notification de ces propositions, les parties n'ont pu se mettre d'accord sur leur application,
-la résiliation est poursuivie dans les conditions du droit commun applicable à chaque type de contrat.
-
-Toutefois, en ce qui concerne les contrats de droit public, la résiliation peut être prononcée par décret en Conseil d'Etat à
-la demande de l'une des parties [*conditions de forme*].
-
-**Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - SPEC_APPLI: *Dispositions non applicables aux communes des départements de la Guadeloupe, de la Guyane, de la Martinique, de la Réunion et de Saint-Pierre-et-Miquelon*
-	  - TXT_ASSOCIE: Code des communes R165-13 et R165-14
-	  - SPEC_APPLI: Code des communes R182-1, R182-3 :
-
-	**Anciens textes**:
-
-	  - Décret n°67-1046 1967-11-30 art. 7
-
-	**Codifié par**:
-
-	  - Décret n°77-91 1977-01-27
-
-	**Créé par**:
-
-	  - Décret n°77-91 1977-01-27 JORF et JONC 3 février 1977 date d'entrée en vigueur élection des maires
-
 
 ##### Le conseil de communauté
 
