@@ -1,5 +1,5 @@
 # Code des communes  
-Version Consolidée au 1981-05-03
+Version Consolidée au 1981-05-15
 
 # ORGANISATION COMMUNALE
 
@@ -61090,6 +61090,42 @@ d'assurances sociales agricoles sont applicables au versement de transport sous 
 	  - Code général des collectivités territoriales - art. D2333-101 (Ab)
 
 
+###### Article R233-99
+
+L'assiette du versement de transport est constituée par le montant des salaires payés dans la limite du plafond servant
+d'assiette aux cotisations d'assurances sociales agricoles.
+
+Le versement est dû au titre de chaque trimestre [*périodicité*] par tout employeur qui, au cours du trimestre, a employé
+plus de neuf salariés [*nombre*].
+
+Pour l'application du présent article, chaque salarié à temps partiel au sens de l'article L. 212-4-2 du code du travail
+entre en compte dans l'effectif du personnel au prorata du rapport entre la durée hebdomadaire de travail mentionnée dans son
+contrat et la durée légale de travail ou, si elle est inférieure à la durée légale, la durée normale de travail accomplie
+dans l'établissement ou la partie d'établissement où il est employé.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°81-540 1981-05-12 : *les dispositions de l'alinéa 3 sont applicables aux contributions dues à compter du 1er janvier 1982*
+
+	**Abrogé par**:
+
+	  - Décret n°2000-318 du 7 avril 2000 - art. 4 (V)
+
+	**Nouveaux textes**:
+
+	  - Code général des collectivités territoriales - art. D2333-102 (V)
+
+	**Cite**:
+
+	  - Code du travail - art. L212-4-2 (M)
+
+
 ###### Article R233-100
 
 Le versement de transport est mis en recouvrement en même temps et dans les mêmes conditions que les cotisations d'assurances
@@ -68790,6 +68826,47 @@ transport lorsqu'elles remplissent les conditions imposées à l'article précé
 	  - Code général des collectivités territoriales - art. R2531-8 (V)
 
 
+###### Article R263-11
+
+Sont réputés employeurs de plus de neuf salariés ceux qui sont tenus au paiement mensuel des cotisations de sécurité sociale
+ou d'allocations familiales en application de l'article 1er du décret n° 72-230 du 24 mars 1972.
+
+Lorsque la déclaration annuelle de salaires, prévue à l'article 3 du décret précité [*référence à l'article 3 du décret
+61-100 du 25 janvier 1961 cité dans l'alinéa 1 ancien*], d'un employeur non tenu au paiement mensuel des cotisations et dont
+les effectifs sont soumis à fluctuations, permet de constater que l'effectif annuel obtenu en faisant la moyenne arithmétique
+des effectifs du dernier jour de chaque trimestre est supérieur à neuf, cet employeur est considéré comme ayant occupé plus
+de neuf salariés durant l'année entière et fait en conséquence l'objet d'un rappel de versement.
+
+L'employeur dont le personnel salarié s'accroît pendant l'année pour devenir supérieur à neuf de manière durable peut le
+signaler à l'organisme de recouvrement en vue d'effectuer le versement sans attendre que lui soit appliqué le rappel
+mentionné à l'alinéa précédent.
+
+L'employeur dont le personnel salarié diminue pour devenir inférieur ou au plus égal à neuf de manière durable peut, de même,
+le déclarer à l'organisme de recouvrement en vue de cesser le versement.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Décret n°72-230 1972-03-24
+
+	**Codifié par**:
+
+	  - Décret n°77-91 1977-01-27
+
+	**Cité par**:
+
+	  - Décret n°79-881 du 11 octobre 1979 - art. 3 (V)
+
+	**Abrogé par**:
+
+	  - Décret n°2000-318 du 7 avril 2000 - art. 4 (V)
+
+	**Nouveaux textes**:
+
+	  - Code général des collectivités territoriales - art. R2531-9 (V)
+
+
 ###### Article R263-12
 
 Les employeurs redevables du versement de transport qui emploient uniquement du personnel relevant du régime général de la
@@ -69143,6 +69220,46 @@ d'assurances sociales agricoles sont applicables au versement de transport sous 
 	**Nouveaux textes**:
 
 	  - Code général des collectivités territoriales - art. D2531-19 (V)
+
+
+###### Article R263-22
+
+L'assiette du versement de transport est constituée par le montant des salaires payés dans la limite du plafond servant
+d'assiette aux cotisations d'assurances sociales agricoles.
+
+Le versement est dû au titre de chaque trimestre [*périodicité*] par tout employeur qui, au cours du trimestre, a employé
+plus de neuf salariés[*nombre*].
+
+Pour l'application du présent article, chaque salarié à temps partiel au sens de l'article L. 212-4-2 du code du travail
+entre en compte dans l'effectif du personnel au prorata du rapport entre la durée hebdomadaire de travail mentionnée dans son
+contrat et la durée légale de travail ou, si elle est inférieure à la durée légale, la durée normale de travail accomplie
+dans l'établissement ou la partie d'établissement où il est employé.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°81-540 1981-05-12 : *les dispositions de l'alinéa 3 sont applicables aux contributions dues à compter du 1er janvier 1982*
+
+	**Abrogé par**:
+
+	  - Décret n°2000-318 du 7 avril 2000 - art. 4 (V)
+
+	**Cité par**:
+
+	  - CODE DES COMMUNES. - art. R263-8 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code général des collectivités territoriales - art. R2531-20 (V)
+
+	**Cite**:
+
+	  - Code du travail - art. L212-4-2 (M)
 
 
 ###### Article R263-23
@@ -71186,35 +71303,6 @@ recouvre.
 	  - Code général des collectivités territoriales - art. D2333-93 (Ab)
 
 
-##### DISPOSITIONS PARTICULIERES AUX  EMPLOYEURS RELEVANT DU REGIME DES ASSURANCES SOCIALES AGRICOLES .
-
-###### Article R233-99
-
-L'assiette du versement de transport est constitué par le montant des salaires payés dans la limite du plafond servant
-d'assiette aux cotisations d'assurances sociales agricoles.
-
-Le versement est dû au titre de chaque trimestre par tout employeur qui, au cours du trimestre, a employé plus de neuf
-salariés.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°74-66 1974-01-29 art. 9
-
-	**Codifié par**:
-
-	  - Décret n°77-91 1977-01-27
-
-	**Créé par**:
-
-	  - Décret n°77-91 1977-01-27 JORF et JONC 3 février 1977 date d'entrée en vigueur élection des maires
-
-	**Nouveaux textes**:
-
-	  - Code général des collectivités territoriales - art. D2333-102 (V)
-
-
 #### Dotation globale de fonctionnement et autres recettes réparties par le comité des finances locales
 
 ##### Recettes réparties par le comité des finances locales
@@ -71726,91 +71814,6 @@ Marne située dans la région des transports parisiens mentionnée à l'article 
 	**Nouveaux textes**:
 
 	  - Code général des collectivités territoriales - art. D2531-6 (Ab)
-
-
-#### Dispositions applicables aux communes de la région d'Ile-de-France *région parisienne*
-
-##### Versement destiné aux transports en commun
-
-##### Employeurs relevant de régimes autres que le régime des assurances sociales agricoles
-
-###### Article R263-11
-
-Sont réputés employeurs de plus de neuf salariés ceux qui sont tenus au paiement mensuel des cotisations de sécurité sociale
-ou d'allocations familiales en application de l'article 1er /M/du décret n° 61-100 du 25 janvier 1961 /M/modifié par décret
-540 du 12 mai 1981 : du décret n° 72-230 du 24 mars 1972//.
-
-Lorsque la déclaration annuelle de salaires, prévue à l'article 3 du décret précité, d'un employeur non tenu au paiement
-mensuel des cotisations et dont les effectifs sont soumis à fluctuations, permet de constater que l'effectif annuel obtenu en
-faisant la moyenne arithmétique des effectifs du dernier jour de chaque trimestre est supérieur à neuf, cet employeur est
-considéré comme ayant occupé plus de neuf salariés durant l'année entière et fait en conséquence l'objet d'un rappel de
-versement.
-
-L'employeur dont le personnel salarié s'accroît pendant l'année pour devenir supérieur à neuf de manière durable peut le
-signaler à l'organisme de recouvrement en vue d'effectuer le versement sans attendre que lui soit appliqué le rappel
-mentionné à l'alinéa précédent.
-
-L'employeur dont le personnel salarié diminue pour devenir inférieur ou au plus égal à neuf de manière durable peut, de même,
-le déclarer à l'organisme de recouvrement en vue de cesser le versement.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Décret n°61-100 1961-01-25 art. 1 et 3
-
-	**Anciens textes**:
-
-	  - Décret n°71-710 1971-08-30 art. 1 al. 3 et suivants
-
-	**Codifié par**:
-
-	  - Décret n°77-91 1977-01-27
-
-	**Créé par**:
-
-	  - Décret n°77-91 1977-01-27 JORF et JONC 3 février 1977 date d'entrée en vigueur 20 mars 1977
-
-	**Cité par**:
-
-	  - Décret n°79-881 du 11 octobre 1979 - art. 3 (V)
-
-	**Nouveaux textes**:
-
-	  - Code général des collectivités territoriales - art. R2531-9 (V)
-
-
-##### EMPLOYEURS RELEVANT DU REGIME DES ASSURANCES SOCIALES AGRICOLES .
-
-###### Article R263-22
-
-L'assiette du versement de transport est constituée par le montant des salaires payés dans la limite du plafond servant
-d'assiette aux cotisations d'assurances sociales agricoles.
-
-Le versement est dû au titre de chaque trimestre par tout employeur qui, au cours du trimestre, a employé plus de neuf
-salariés.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°71-710 1971-08-30 art. 9
-
-	**Codifié par**:
-
-	  - Décret n°77-91 1977-01-27
-
-	**Créé par**:
-
-	  - Décret n°77-91 1977-01-27 JORF et JONC 3 février 1977 date d'entrée en vigueur élection des maires
-
-	**Cité par**:
-
-	  - CODE DES COMMUNES. - art. R263-8 (Ab)
-
-	**Nouveaux textes**:
-
-	  - Code général des collectivités territoriales - art. R2531-20 (V)
 
 
 ## LIVRE 3 : Administration et services communaux
