@@ -1,5 +1,5 @@
 # Code des communes  
-Version Consolidée au 1977-08-19
+Version Consolidée au 1977-09-30
 
 # ORGANISATION COMMUNALE
 
@@ -7690,6 +7690,37 @@ livre à l'exception de celles qui sont mentionnées au 1° ci-dessus et de cell
 
 	  - Code général des collectivités territoriales - art. L2561-1 (M)
 	  - Code général des collectivités territoriales - art. L5821-1 (V)
+
+
+##### SECTION 2 : Dispositions applicables aux communes du département de Saint-Pierre-et-Miquelon.
+
+###### Article L182-2
+
+Les dispositions des titres Ier à VI du présent livre [*nom, limites territoriales et population des communes, organes de la
+commune, police, stations classées, intérêts propres à certaines catégories d'habitants, intérêts communs à plusieurs
+communes*] sont applicables aux communes du département de Saint-Pierre-et-Miquelon, à l'exception de celles ci-après :
+
+Titre Ier, chapitre II, section II (Fusion de communes) ;
+
+Titre V, chapitre III (Communes associées) ;
+
+Titre VI, chapitre V (Communautés urbaines).
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 77-1099 1977-09-26
+
+	**Abrogé par**:
+
+	  - Loi n°96-142 du 21 février 1996 - art. 12 (V)
+
+	**Cite**:
+
+	  - CODE DES COMMUNES. - art. L111-1 (Ab)
+	  - CODE DES COMMUNES. - art. L111-2 (Ab)
+	  - Code des communes L112-19 à L152-7
 
 
 #### CHAPITRE 4 : Dispositions applicables à la ville de Paris
@@ -21035,6 +21066,99 @@ versement des subventions de l'Etat.
 	  - Loi n°93-1436 1994-01-04 art. 23 jorf 4 janvier 1994
 
 
+##### SECTION 2 : Dispositions applicables aux communes du département de Saint-Pierre-et-Miquelon.
+
+###### Article L262-11
+
+La subvention annuelle [*recettes*] prévue à l'article L. 235-1 est uniformément de 2 F [*francs*] par habitant [*subvention
+de fonctionnement sans affectation spéciale - montant*].
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 77-1099 1977-09-26
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: CODE DES COMMUNES. - art. L235-1 (Ab)
+
+	**Cite**:
+
+	  - CODE DES COMMUNES. - art. L235-1 (MMN)
+
+	**Abrogé par**:
+
+	  - Loi n°93-1436 1994-01-04 art. 23 jorf 4 janvier 1994
+
+
+###### Article L262-12
+
+La majoration de subvention [*de fonctionnement, sans affectation spéciale*] prévue à l'article L. 235-2 est uniformément
+fixée à 2 F [*francs*] par élève et par an [*montant - recettes*].
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 77-1099 1977-09-26
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: CODE DES COMMUNES. - art. L235-2 (Ab)
+
+	**Cité par**:
+
+	  - CODE DES COMMUNES. - art. L262-12 (Ab)
+
+	**Abrogé par**:
+
+	  - Loi n°93-1436 1994-01-04 art. 23 jorf 4 janvier 1994
+
+
+###### Article L262-13
+
+Les modalités d'application des articles L. 262-11 et L. 262-12 [*relatifs aux subventions de fonctionnement sans affectation
+spéciale et aux majorations de subventions*] sont déterminées conformément à l'article L. 262-9 de la précédente section.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CODE DES COMMUNES. - art. L262-9 (Ab)
+	  - Code des communes L262-9, L262-11 et L262-12
+
+	**Abrogé par**:
+
+	  - Loi n°93-1436 1994-01-04 art. 23 jorf 4 janvier 1994
+
+	**Codifié par**:
+
+	  - Ordonnance 77-1099 1977-09-26
+
+
+###### Article L262-14
+
+Les dispositions du a (1°) de l'article L. 231-5 relatives à la taxe foncière sur les propriétés bâties, à la taxe foncière
+sur les propriétés non bâties, à la taxe d'habitation et à la taxe professionnelle [*budget, recettes de la section de
+fonctionnement*] seront applicables aux communes de Saint-Pierre-et-Miquelon à une date qui sera fixée par décret en Conseil
+d'Etat.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 77-1099 1977-09-26
+
+	**Abrogé par**:
+
+	  - Loi n°96-142 du 21 février 1996 - art. 12 (V)
+
+	**Cite**:
+
+	  - Code des communes L231-5 a 1°
+
+
 #### CHAPITRE 3 : Dispositions applicables aux communes de la région d'Ile-de-France.
 
 ###### Article L263-1
@@ -26914,6 +27038,80 @@ totale de l'ensemble des départements.
 	**Nouveaux textes**:
 
 	  - Code général des collectivités territoriales - art. L2563-4 (VT)
+
+
+##### COMMUNES DU DEPARTEMENT DE SAINT-PIERRE-ET-MIQUELON
+
+###### Article L262-10
+
+Sont applicables aux communes du département de Saint-Pierre-et-Miquelon :
+
+1° Les dispositions contenues dans les titres Ier à V [*budget, dépenses, recettes, comptabilité et dispositions financières
+applicables à certains établissements publics communaux*] du présent livre, à l'exception de celles des 11° et 24° de
+l'article L. 221-2 ; des 2° et 3° de l'article L. 231-8 ; du 2° de l'article L. 231-9 ; des articles L. 233-70, L. 233-75, L.
+234-12 à L. 234-15, L. 234-20 à L. 234-22 ; L. 234-25 à L. 234-27 ; du deuxième alinéa de l'article L. 235-1 ; du deuxième
+alinéa de l'article L. 235-2 ; des articles L. 235-3 ; L. 235-4 ; L. 235-7 ; L. 235-10 à L. 235-12 ; L. 236-4 ; L. 236-15 ;
+L. 236-16 ; L. 253-1 à L. 253-8 ; L. 255-1 à L. 257-4.
+
+2° Les dispositions des articles L. 262-5 et L. 262-6 de la section I du présent chapitre.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 77-1099 1977-09-26
+
+	**Cite**:
+
+	  - CODE DES COMMUNES. - art. L221-1 (Ab)
+	  - CODE DES COMMUNES. - art. L234-23 (M)
+	  - CODE DES COMMUNES. - art. L234-24 (Ab)
+	  - CODE DES COMMUNES. - art. L235-5 (Ab)
+	  - CODE DES COMMUNES. - art. L235-6 (M)
+	  - CODE DES COMMUNES. - art. L235-8 (Ab)
+	  - CODE DES COMMUNES. - art. L235-9 (Ab)
+	  - CODE DES COMMUNES. - art. L262-5 (M)
+	  - Code des communes L254-1 à L254-3
+
+	**Cité par**:
+
+	  - CODE DES COMMUNES. - art. L262-15 (T)
+	  - CODE DES COMMUNES. - art. R262-4 (M)
+
+
+###### Article L262-15
+
+A titre transitoire et par dérogation aux dispositions combinées des articles L. 234-6 à L. 234-11, L. 262-5, L. 262-6 et L.
+262-10 du présent code [*attributions de garantie dans le cadre du V.R.T.S.*], les communes du département de Saint-Pierre-
+et-Miquelon [*recettes*] reçoivent annuellement [**]fréquence[**] une attribution globale de versement représentatif de la
+taxe sur les salaires égale au produit par le nombre de leurs habitants de la moyenne de ressources de versement
+représentatif de la taxe sur les salaires par habitant dans les communes des départements de la Guadeloupe, de la Guyane, de
+la Martinique et de la Réunion pendant l'année considérée.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°77-90 1977-01-27
+
+	**Transféré par**:
+
+	  - Loi n°79-15 1979-01-03 ART. 13 JORF 4 JANVIER 1979
+
+	**Cite**:
+
+	  - CODE DES COMMUNES L234-6 à L234-11, L262-5, L262-6, L262-10
+	  - CODE DES COMMUNES. - art. L262-10 (M)
+	  - CODE DES COMMUNES. - art. L262-5 (M)
+	  - CODE DES COMMUNES. - art. L262-6 (M)
+
+	**Nouveaux textes**:
+
+	  - Code des communes L262-10 (2e version)
+
+	**Liens**:
+
+	  - SPEC_APPLI: L'article L262-15 a été intégré dans le nouvel article L262-10
 
 
 #### Dispositions applicables aux communes de la région d'Ile-de-France
@@ -34622,6 +34820,37 @@ le présent article.
 	**Abrogé par**:
 
 	  - Loi n°96-142 du 21 février 1996 - art. 12 (V)
+
+
+##### SECTION 2 : Dispositions applicables aux communes du département de Saint-Pierre-et-Miquelon.
+
+###### Article L392-4
+
+Sont applicables aux communes du département de Saint-Pierre-et-Miquelon :
+
+1° Les dispositions contenues dans les titres Ier à VII [*administration de la commune, services communaux, voirie,
+bibliothèques et musées, protection contre l'incendie, pompes funèbres et cimetières, eau, assainissement des eaux usées,
+ordures ménagères et autres déchets, gaz, électricité, halles, marchés et poids publics, abattoirs et établissements
+frigorifiques publics*] du présent livre à l'exception de celles des articles L. 311-5, L. 311-6, L. 311-10, L. 311-11, L.
+331-2, L. 331-3, L. 354-1 à L. 354-16, L. 372-3, L. 377-5 et L. 381-9.
+
+2° Les dispositions de l'article L. 392-2 de la section I du présent chapitre.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 77-1099 1977-09-26
+
+	**Abrogé par**:
+
+	  - Loi n°96-142 du 21 février 1996 - art. 12 (V)
+
+	**Cite**:
+
+	  - CODE DES COMMUNES. - art. L372-1 (Ab)
+	  - CODE DES COMMUNES. - art. L392-2 (Ab)
+	  - Code des communes L371-1 à L371-10
 
 
 #### CHAPITRE 3 : Dispositions applicables aux communes des départements des Hauts-de-Seine, de la Seine-Saint-Denis et du Val-de-Marne.
@@ -43142,6 +43371,32 @@ département ou territoire d'origine.
 	  - Loi n°84-53 du 26 janvier 1984 - art. 119 (V)
 
 
+###### Article L415-7
+
+L'agent originaire des départements de la Guadeloupe, de la Guyane, de la Martinique et de la Réunion, de Saint-Pierre-et-
+Miquelon, exerçant en métropole peut cumuler ses congés dans les mêmes conditions que les fonctionnaires de l'Etat
+originaires de ces départements.
+
+Il peut bénéficier en matière de congé des avantages accordés, par décret, aux fonctionnaires de l'Etat [*prise en charge des
+frais de voyage de congés bonifiés*] à condition que la charge financière qui en résulte n'excède pas les ressources propres
+de la collectivité locale intéressée.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - SPEC_APPLI: *Dispositions applicables aux agents nommés dans des emplois permanents à temps non complet*
+	  - SPEC_APPLI: Code des communes L421-1 :
+
+	**Codifié par**:
+
+	  - Décret n°77-372 1977-03-28
+
+	**Abrogé par**:
+
+	  - Loi n°84-53 1984-01-26 ART. 119 JORF 27 JANVIER 1984
+
+
 ###### Article L415-8
 
 Un congé d'une durée maximum de douze jours ouvrables par an, pris en une ou deux fois, est accordé, dans des conditions
@@ -43944,38 +44199,6 @@ fédéraux, confédéraux et internationaux, ainsi que des organismes directeurs
 	**Anciens textes**:
 
 	  - Code de l'administration communale 541
-
-
-##### ACTIVITE
-
-##### CONGES ANNUELS .
-
-###### Article L415-7
-
-L'agent originaire des départements de la Guadeloupe, de la Guyane, de la Martinique et de la Réunion exerçant en métropole
-peut cumuler ses congés dans les mêmes conditions que les fonctionnaires de l'Etat originaires de ces départements.
-
-Il peut bénéficier en matière de congé des avantages accordés, par décret, aux fonctionnaires de l'Etat à condition que la
-charge financière qui en résulte n'excède pas les ressources propres de la collectivité locale intéressée.
-
-**Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - SPEC_APPLI: *Dispositions applicables aux agents nommés dans des emplois permanents à temps non complet*
-	  - SPEC_APPLI: Code des communes L421-1 :
-
-	**Anciens textes**:
-
-	  - Code de l'administration communale 539 complété AL. 3
-
-	**Codifié par**:
-
-	  - Décret n°77-372 1977-03-28
-
-	**Créé par**:
-
-	  - Décret n°77-372 1977-03-28 JORF et JONC 5 avril 1977
 
 
 ##### CONGE POSTNATAL .
@@ -46557,6 +46780,30 @@ de la Martinique et de la Réunion à l'exception des articles L. 412-48 et L. 4
 	**Anciens textes**:
 
 	  - Code de l'administration communale 628 al. 1 (Partie)
+
+
+##### Dispositions applicables aux communes du département de Saint-Pierre-et-Miquelon .
+
+###### Article L442-2
+
+Sont applicables aux communes du département de Saint-Pierre-et-Miquelon les dispositions contenues dans les titres Ier et II
+du présent livre, à l'exception des articles L. 417-1 à L. 417-9 [*les articles L417-3 à L417-7 ont été transférés sous les
+articles L413-11 à L413-15*], L421-16 et L. 422-8.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 77-1099 1977-09-26
+
+	**Abrogé par**:
+
+	  - Loi n°84-53 1984-01-26 ART. 119 JORF 27 JANVIER 1984
+
+	**Cite**:
+
+	  - CODE DES COMMUNES. - art. L423-1 (Ab)
+	  - Code des communes L421-1 à L421-15
 
 
 #### Dispositions applicables aux communes des départements de la région d'Ile-de-France .
