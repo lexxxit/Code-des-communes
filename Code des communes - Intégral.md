@@ -1,5 +1,5 @@
 # Code des communes  
-Version Consolidée au 1992-01-01
+Version Consolidée au 1992-01-03
 
 # Statuts types d'une caisse communale de secours et de retraite de sapeurs-pompiers
 
@@ -28954,399 +28954,38 @@ accompli dans l'une des formes prévues au titre III de ce code.
 
 ##### PARAGRAPHE 1 : Allocations, rentes, pensions et indemnités.
 
-###### Article L354-1
-
-Les sapeurs-pompiers non professionnels blessés ainsi que ceux qui ont contracté une maladie à l'occasion du service commandé
-ont droit aux allocations, rentes et indemnités, définies par la présente sous-section. Ces prestations sont à la charge de
-l'Etat.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°75-1258 1975-12-27 art. 1 al. 1
-
-	**Codifié par**:
-
-	  - Décret n°77-240 1977-03-07
-
-	**Abrogé par**:
-
-	  - Loi n°91-1389 du 31 décembre 1991 - art. 21 (V) JORF 3 janvier 1991
-
-	**Cité par**:
-
-	  - CODE DES COMMUNES. - art. R*354-36 (Ab)
-	  - CODE DES COMMUNES. - art. R*354-46 (Ab)
-	  - CODE DES COMMUNES. - art. R*354-49 (Ab)
-	  - CODE DES COMMUNES. - art. R*354-50 (Ab)
-	  - CODE DES COMMUNES. - art. R*354-67 (Ab)
-
-
-###### Article L354-2
-
-Toutefois, le régime d'indemnisation qui résulte des dispositions de la présente sous-section ne s'applique pas aux
-fonctionnaires titulaires ou stagiaires de l'Etat, aux agents titulaires permanents des collectivités locales et de leurs
-établissements publics qui relèvent, en cas d'accident survenu ou de maladie contractée en service commandé, du régime
-d'indemnisation fixé par les dispositions statutaires qui les régissent.
-
-Les intéressés et leurs ayants cause peuvent demander le bénéfice du régime d'indemnisation institué par la présente sous-
-section s'ils y ont intérêt.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°75-1258 1975-12-27 art. 1 al. 2
-
-	**Codifié par**:
-
-	  - Décret n°77-240 1977-03-07
-
-	**Abrogé par**:
-
-	  - Loi n°91-1389 du 31 décembre 1991 - art. 21 (V) JORF 3 janvier 1991
-
-
-###### Article L354-3
-
-Lorsque le taux d'invalidité qui lui est reconnu est de 10 p. 100 à 50 p. 100, l'intéressé perçoit une allocation
-d'invalidité dont le montant est fixé conformément aux dispositions du premier alinéa de l'article 23 bis de l'ordonnance n°
-59-244 du 4 février 1959 relative au statut général des fonctionnaires.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Ordonnance 59-244 1959-02-04 art. 23 bis
-
-	**Anciens textes**:
-
-	  - Loi n°75-1258 1975-12-27 art. 2
-
-	**Codifié par**:
-
-	  - Décret n°77-240 1977-03-07
-
-	**Abrogé par**:
-
-	  - Loi n°91-1389 du 31 décembre 1991 - art. 21 (V) JORF 3 janvier 1991
-
-
-###### Article L354-4
-
-Lorsque le taux d'invalidité est supérieur à 50 p. 100, l'intéressé perçoit une rente d'invalidité. Un décret détermine,
-compte tenu de la durée des services des intéressés, le traitement à retenir par référence aux échelles de traitement
-applicables aux sapeurs-pompiers professionnels.
-
-La durée des services volontaires est décomptée à partir du jour où le sapeur-pompier non professionnel a atteint l'âge
-minimum fixé pour le recrutement des sapeurs-pompiers professionnels.
-
-La majoration pour assistance d'une tierce personne concédée en application de la présente sous-section est accordée au
-titulaire d'une rente d'invalidité au taux et suivant les modalités fixés pour les agents permanents des collectivités
-locales affiliés à la caisse nationale de retraites des agents des collectivités locales.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°75-1258 1975-12-27 art. 3
-
-	**Codifié par**:
-
-	  - Décret n°77-240 1977-03-07
-
-	**Abrogé par**:
-
-	  - Loi n°91-1389 du 31 décembre 1991 - art. 21 (V) JORF 3 janvier 1991
-
-	**Cité par**:
-
-	  - CODE DES COMMUNES. - art. L354-7 (Ab)
-	  - CODE DES COMMUNES. - art. R*354-57 (Ab)
-
-
-###### Article L354-5
-
-Les avantages prévus aux deux articles précédents donnent lieu à l'attribution d'un titre provisoire d'allocation ou de
-rente.
-
-Au terme d'une période de trois ans, il est procédé à un nouvel examen du taux d'invalidité indemnisable et à la concession
-du titre définitif d'allocation ou de rente.
-
-Ce taux ne peut plus donner lieu à révision.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°75-1258 1975-12-27 art. 4
-
-	**Codifié par**:
-
-	  - Décret n°77-240 1977-03-07
-
-	**Abrogé par**:
-
-	  - Loi n°91-1389 du 31 décembre 1991 - art. 21 (V) JORF 3 janvier 1991
-
-
-###### Article L354-6
-
-Les ayants cause des sapeurs-pompiers non professionnels peuvent prétendre à une rente de réversion et, le cas échéant, à une
-pension d'orphelin, assises sur la rente d'invalidité dont bénéficiait le de cujus, ou dont celui-ci aurait pu bénéficier au
-jour de son décès.
-
-Ces prestations sont calculées et allouées dans les conditions fixées par la réglementation applicable aux agents affiliés à
-la caisse nationale de retraites des agents des collectivités locales.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°75-1258 1975-12-27 art. 5
-
-	**Codifié par**:
-
-	  - Décret n°77-240 1977-03-07
-
-	**Abrogé par**:
-
-	  - Loi n°91-1389 du 31 décembre 1991 - art. 21 (V) JORF 3 janvier 1991
-
-	**Cité par**:
-
-	  - CODE DES COMMUNES. - art. L354-12 (Ab)
-	  - CODE DES COMMUNES. - art. R*354-57 (Ab)
-
-
-###### Article L354-7
-
-Les ayants cause des sapeurs-pompiers non professionnels dont la mort a été reconnue imputable au service bénéficient, en
-outre, d'une indemnité calculée et attribuée suivant la règle fixée pour l'octroi d'un capital décès aux ayants cause des
-sapeurs-pompiers professionnels communaux.
-
-Cette indemnité est calculée par référence au traitement annuel retenu pour le calcul de la rente d'invalidité prévue à
-l'article L. 354-4. Elle ne peut être servie que si le décès intervient dans le délai d'un an suivant l'accident ou la
-première constatation médicale de la maladie résultant du service commandé.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°75-1258 1975-12-27 art. 6 al. 1 et 2
-
-	**Codifié par**:
-
-	  - Décret n°77-240 1977-03-07
-
-	**Abrogé par**:
-
-	  - Loi n°91-1389 du 31 décembre 1991 - art. 21 (V) JORF 3 janvier 1991
-
-	**Cite**:
-
-	  - CODE DES COMMUNES. - art. L354-4 (Ab)
-
-	**Cité par**:
-
-	  - CODE DES COMMUNES. - art. R*354-42 (Ab)
-
-
-###### Article L354-8
-
-Lorsque le décès du sapeur-pompier non professionnel ouvre droit à un capital-décès au titre du régime institué en
-application de la législation de sécurité sociale, et notamment du code de la sécurité sociale ou du code rural, ce capital-
-décès est versé à l'organisme chargé du paiement des avantages définis par la présente sous-section en atténuation des
-dépenses.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°75-1258 1975-12-27 art. 6 al. 3
-
-	**Codifié par**:
-
-	  - Décret n°77-240 1977-03-07
-
-	**Abrogé par**:
-
-	  - Loi n°91-1389 du 31 décembre 1991 - art. 21 (V) JORF 3 janvier 1991
-
-	**Cite**:
-
-	  - Code des communes L354-1 à L354-7
-
-
-###### Article L354-9
-
-Les actes de l'état civil et les pièces à produire à l'appui des demandes d'allocation, de rente ou de pension par les
-sapeurs-pompiers ou leurs ayants droit sont délivrés gratuitement.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°77-240 1977-03-07
-
-	**Anciens textes**:
-
-	  - Loi n°1930-07-27 art. 5
-
-	**Abrogé par**:
-
-	  - Loi n°91-1389 du 31 décembre 1991 - art. 21 (V) JORF 3 janvier 1991
-
-
-###### Article L354-10
-
-Les allocations, rentes, pensions et indemnités allouées en application de la présente sous-section sont incessibles.
-
-Une saisie ou retenue ne peut être opérée du vivant du bénéficiaire que jusqu'à concurrence d'un cinquième pour débet envers
-l'Etat ou pour des créances privilégiées aux termes de l'article 2101 du code civil, et d'un tiers dans les circonstances
-prévues par les articles 203, 205, 206, 207 et 214 du même code.
-
-Les dispositions sur le cumul ne leur sont pas applicables.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°77-240 1977-03-07
-
-	**Abrogé par**:
-
-	  - Loi n°91-1389 du 31 décembre 1991 - art. 21 (V) JORF 3 janvier 1991
-
-	**Cite**:
-
-	  - Code civil - art. 203 (V)
-	  - Code civil - art. 205 (V)
-	  - Code civil - art. 206 (V)
-	  - Code civil - art. 207 (V)
-	  - Code civil - art. 2101 (M)
-	  - Code civil - art. 214 (V)
-
-	**Anciens textes**:
-
-	  - Loi n°1930-07-27 art. 6
-
-
 ###### Article L354-11
 
-Aucun avantage supplémentaire ne peut être accordé par les collectivités locales pour l'indemnisation des risques couverts
-par la présente sous-section [*en cas d'incapacité permanente*].
-
-Toutefois, les sapeurs-pompiers non professionnels atteints antérieurement au 30 décembre 1975 [*date*] d'une incapacité
-permanente de travail, ou leurs ayants cause, et bénéficiaires d'un contrat d'assurance souscrit au titre de l'article 49-8
-du décret n° 53-170 du 7 mars 1953 et de l'article 9 du décret n° 55-612 du 20 mai 1955 conservent les avantages acquis.
+Les sapeurs-pompiers non professionnels atteints antérieurement au 30 décembre 1975 d'une incapacité permanente de travail,
+ou leurs ayants cause, et bénéficiaires d'un contrat d'assurance souscrit au titre de l'article 49-8 du décret n° 53-170 du 7
+mars 1953 et de l'article 9 du décret n° 55-612 du 20 mai 1955 conservent les avantages acquis.
 
 **Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - SPEC_APPLI: *Dispositions non applicables aux communes du département de Saint-Pierre-et-Miquelon*
-	  - SPEC_APPLI: Code des communes L392-4 :
 
 	**Cite**:
 
-	  - Décret n°53-170 1953-03-07 ART. 49 8°
-	  - Décret n°55-612 1955-05-20 ART. 9
+	  - Décret n°53-170 1953-03-07 art. 49-8
+	  - Décret n°55-612 1955-05-20 art. 9
 
 	**Anciens textes**:
 
-	  - Loi n°75-1258 1975-12-27 ART. 9
+	  - Loi n°75-1258 1975-12-27 art. 9
 
 	**Codifié par**:
 
 	  - Décret n°77-240 1977-03-07
 
-	**Créé par**:
-
-	  - Décret n°77-240 1977-03-07 JORF et JONC 18 Mars 1977
-
-	**Cité par**:
-
-	  - Loi n°91-1389 du 31 décembre 1991 - art. 21 (V)
-
-
-##### PARAGRAPHE 2 : Affiliation aux assurances sociales.
-
-###### Article L354-12
-
-Les dispositions des articles L. 576 à L. 581 du code de la sécurité sociale sont étendues :
-
-1° Aux sapeurs-pompiers non professionnels titulaires d'une rente correspondant à un taux d'invalidité d'au moins 66,66 p.
-100 et qui ne sont pas assurés sociaux ;
-
-2° Aux conjoints non remariés des sapeurs-pompiers non professionnels mentionnés à l'article L. 354-6, titulaires d'une rente
-de réversion au titre des dispositions de la présente sous-section lorsqu'ils ne sont pas assurés sociaux ;
-
-3° Aux orphelins titulaires d'une rente de réversion ou d'une pension d'orphelin au titre des dispositions de la présente
-sous-section, lorsqu'ils ne sont pas assurés sociaux, ou que la personne qui les a recueillis n'est pas elle-même assurée
-sociale.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°75-1258 1975-12-27 art. 7
-
-	**Codifié par**:
-
-	  - Décret n°77-240 1977-03-07
-
-	**Abrogé par**:
+	**Modifié par**:
 
 	  - Loi n°91-1389 du 31 décembre 1991 - art. 21 (V) JORF 3 janvier 1991
 
 	**Cité par**:
 
 	  - Loi n°91-1389 du 31 décembre 1991 - art. 21 (V)
-	  - CODE DES COMMUNES. - art. R*354-51 (Ab)
-	  - CODE DES COMMUNES. - art. R*354-54 (Ab)
-	  - CODE DES COMMUNES. - art. R*354-55 (Ab)
-	  - CODE DES COMMUNES. - art. R*354-56 (Ab)
-	  - CODE DES COMMUNES. - art. R*354-58 (Ab)
-	  - CODE DES COMMUNES. - art. R*354-59 (Ab)
-	  - CODE DES COMMUNES. - art. R*354-61 (Ab)
-
-	**Cite**:
-
-	  - CODE DES COMMUNES. - art. L354-6 (Ab)
-	  - Code de la sécurité sociale L576 à L581
-
-
-##### SOUS-SECTION 3 : Frais médicaux chirurgicaux et pharmaceutiques.
-
-###### Article L354-13
-
-Les sapeurs-pompiers ont droit, leur vie durant, aux soins gratuits médicaux, chirurgicaux et pharmaceutiques nécessités par
-la blessure ou la maladie contractée en service.
-
-L'Etat participe pour la moitié au règlement de ces dépenses et la commune pour l'autre moitié, sur la base des tarifs en
-vigueur pour les assurances sociales.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°77-240 1977-03-07
-
-	**Anciens textes**:
-
-	  - Loi n°44-210 1944-05-22 art. 4 al. 1 et 2
 
 	**Abrogé par**:
 
-	  - Loi n°91-1389 du 31 décembre 1991 - art. 21 (V) JORF 3 janvier 1991
-
-	**Cité par**:
-
-	  - Loi n°91-1389 du 31 décembre 1991 - art. 21 (V)
-	  - CODE DES COMMUNES. - art. R*354-70 (Ab)
-	  - CODE DES COMMUNES. - art. R*354-71 (Ab)
+	  - Loi n°96-142 du 21 février 1996 - art. 12 (V) JORF 24 février 1996
 
 
 ##### SOUS-SECTION 5 : Caisse communale de secours et de retraite.
