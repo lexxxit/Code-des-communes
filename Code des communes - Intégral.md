@@ -1,5 +1,5 @@
 # Code des communes  
-Version Consolidée au 1984-06-29
+Version Consolidée au 1984-07-13
 
 # Statuts types d'une caisse communale de secours et de retraite de sapeurs-pompiers
 
@@ -27959,6 +27959,30 @@ défense contre l'incendie sont obligatoires pour les communes   .
 	  - Code des communes L221-2 7°
 
 
+###### Article L351-2
+
+Les communes participent au fonctionnement du service départemental d'incendie et de secours dans des conditions fixées par
+décret.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°77-240 1977-03-07
+
+	**Modifié par**:
+
+	  - Loi n°84-594 1984-07-12 art. 50 JORF 13 juillet 1984
+
+	**Abrogé par**:
+
+	  - Loi n°96-142 du 21 février 1996 - art. 12 (V) JORF 24 février 1996
+
+	**Nouveaux textes**:
+
+	  - Code général des collectivités territoriales - art. L1424-6 (MMN)
+
+
 #### CHAPITRE 3 : Dispositions applicables aux sapeurs-pompiers communaux professionnels.
 
 ###### Article L353-1
@@ -33450,79 +33474,6 @@ Il est interdit aux communes de prendre en charge dans leur budget propre, des d
 
 	  - Décret n°89-945 du 22 décembre 1989 - art. 3 (Ab)
 	  - CODE DES COMMUNES. - art. R*372-16 (M)
-
-
-### PROTECTION CONTRE  L'INCENDIE .
-
-#### Dispositions générales .
-
-###### Article L351-2
-
-La commune participe au fonctionnement du service départemental de protection contre l'incendie dans les conditions fixées
-par le décret n° 55-612 du 20 mai 1955.
-
-Conformément aux dispositions de l'article 8 de ce décret, le représentant de l'Etat dans le département [*commissaire de la
-République*] détermine [**]attributions[**], après avis de la commission administrative prévue à l'article 5 de ce décret et
-après avis du conseil général [*conditions de forme*], la cotisation annuelle des communes aux dépenses du service
-départemental de protection contre l'incendie.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Code de l'administration communale 438
-
-	**Cite**:
-
-	  - Décret n°55-612 1955-05-20
-
-	**Codifié par**:
-
-	  - Décret n°77-240 1977-03-07
-
-	**Modifié par**:
-
-	  - Loi n°82-213 du 2 mars 1982 - art. 21 (V) JORF 3 MARS 1982
-
-	**Nouveaux textes**:
-
-	  - Code général des collectivités territoriales - art. L1424-6 (MMN)
-
-
-#### Sapeurs-pompiers communaux .
-
-###### Article L352-1
-
-L'organisation générale des corps de sapeurs-pompiers est fixée par règlement d'administration publique [**]conditions de
-forme[**].
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Code de l'administration communale 439
-
-	**Liens**:
-
-	  - TXT_ASSOCIE: Décret n°53-170 1953-03-07
-
-	**Codifié par**:
-
-	  - Décret n°77-240 1977-03-07
-
-	**Créé par**:
-
-	  - Décret n°77-240 1977-03-07 JORF et JONC 18 Mars 1977
-
-	**Abrogé par**:
-
-	  - Loi n°84-594 1984-07-12 ART. 51 I JORF 13 Juillet 1984
-
-	**Cité par**:
-
-	  - Loi n°84-594 du 12 juillet 1984 - art. 51 (V)
-	  - CODE DES COMMUNES. - art. L392-1 (Ab)
-	  - CODE DES COMMUNES. - art. L411-7 (Ab)
 
 
 ### Pompes funèbres et cimetières
