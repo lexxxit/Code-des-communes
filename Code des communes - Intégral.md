@@ -1,5 +1,5 @@
 # Code des communes  
-Version Consolidée au 1984-01-27
+Version Consolidée au 1984-02-03
 
 # Statuts types d'une caisse communale de secours et de retraite de sapeurs-pompiers
 
@@ -33384,49 +33384,6 @@ seule attribution les revenus provenant de libéralités assorties de charges an
 	  - Loi n°84-562 du 4 juillet 1984 - art. 6 (Ab) JORF 6 juillet 1984  en vigueur le 1er octobre 1984
 
 
-#### Travaux communaux
-
-##### Dispositions générales .
-
-###### Article L315-2
-
-Le tarif des honoraires et autres rémunérations alloués aux architectes, ingénieurs et autres techniciens spécialisés, pour
-la direction des travaux exécutés au compte des communes et de leurs établissements publics ou sur subventions de ces
-collectivités et établissements est fixé par décret.
-
-**Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - TXT_ASSOCIE: Arrêté 1973-06-29
-	  - TXT_ASSOCIE: Circulaire 1976-04-22
-
-	**Cite**:
-
-	  - Code civil 1792 et 2270
-
-	**Anciens textes**:
-
-	  - Code de l'administration communale 326 AL. 1 (Partie)
-
-	**Codifié par**:
-
-	  - Décret n°77-240 1977-03-07
-
-	**Créé par**:
-
-	  - Décret n°77-240 1977-03-07 JORF ET JONC 18 MARS 1977
-
-	**Abrogé par**:
-
-	  - Loi n°82-213 du 2 mars 1982 - art. 21 (V) JORF 3 MARS 1982 en vigueur le 3 février 1984 loi 83-663 1983-07-22 art. 118 jorf 23  juillet 1983
-
-	**Cité par**:
-
-	  - Loi n°82-213 du 2 mars 1982 - art. 21 (V)
-	  - Loi n°90-1247 du 29 décembre 1990 - art. 3 (Ab)
-
-
 #### Actions judiciaires
 
 ##### Dispositions générales .
@@ -33856,66 +33813,6 @@ l'article L. 417-23, ainsi que les dépenses afférentes au service prévu à l'
 
 	  - CODE DES COMMUNES. - art. L417-23 (Ab)
 	  - CODE DES COMMUNES. - art. L417-27 (M)
-
-
-#### Recrutement, formation et promotion sociale
-
-##### Recrutement
-
-##### Modalités de recrutement applicables à certains emplois.
-
-###### Article L412-18
-
-Les dispositions en vigueur au 14 juillet 1972 qui fixent, pour certains emplois, un mode spécial de nomination demeurent
-applicables.
-
-Le maire conserve la faculté de faire assermenter les agents nommés par lui, à condition qu'ils soient agréés par l'autorité
-supérieure.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°77-372 1977-03-28
-
-	**Créé par**:
-
-	  - Décret n°77-372 1977-03-28 JORF et JONC 5 avril 1977
-
-	**Cité par**:
-
-	  - CODE DES COMMUNES. - art. R412-14 (V)
-
-
-#### Sécurité sociale, pensions, hygiène et sécurité
-
-##### Hygiène et sécurité .
-
-##### Médecine professionnelle .
-
-###### Article L417-27
-
-Le syndicat de communes pour le personnel peut créer un service de médecine professionnelle. Ce dernier peut être mis à la
-disposition des communes, des établissements publics administratifs communaux et intercommunaux, adhérant ou non au syndicat.
-
-**Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - SPEC_APPLI: *Dispositions applicables aux agents nommés dans des emplois permanents à temps non complet et aux agents non titulaires*
-	  - SPEC_APPLI: CODE DES COMMUNES. - art. L421-2 (M)
-	  - SPEC_APPLI: Code des communes L421-2, L422-1 :
-
-	**Codifié par**:
-
-	  - Décret n°77-372 1977-03-28
-
-	**Cité par**:
-
-	  - Loi n°78-1183 du 20 décembre 1978 - art. 7 (V)
-	  - Décret n°88-145 du 15 février 1988 - art. 2 (V)
-	  - CODE DES COMMUNES. - art. L411-30 (Ab)
-	  - CODE DES COMMUNES. - art. L417-26 (Ab)
 
 
 ## LIVRE 4 : Personnel communal
