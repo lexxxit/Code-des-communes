@@ -1,5 +1,5 @@
 # Code des communes  
-Version Consolidée au 1978-01-13
+Version Consolidée au 1978-01-18
 
 # ORGANISATION COMMUNALE
 
@@ -97872,6 +97872,8 @@ L'entreprise de la collecte et de l'évacuation des ordures ménagères dans les
 
 ### PARTICIPATION A DES  ENTREPRISES PRIVEES .
 
+#### Dispositions générales .
+
 ###### Article R381-2
 
 Par dérogation à l'article précédent et sous réserve que les statuts de la société soient conformes aux statuts types
@@ -97884,28 +97886,25 @@ l'habitation ;
 2° A des sociétés concessionnaires de services publics communaux à caractère industriel et commercial lorsque le contrat de
 concession est soumis à l'approbation du préfet.
 
+3° A des sociétés d'économie mixte sportives, constituées en application de l'article 9 de la loi n° 75-988 du 29 octobre
+1975 relatives au développement de l'éducation physique et du sport.
+
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Code de l'administration communale 395 AL. 3
 
 	**Cite**:
 
+	  - Code de l'urbanisme et de l'habitation 257
 	  - Loi n°75-988 1975-10-29
-	  - Code de l'urbanisme 257 Devenu Code de la construction et de l'habitation R311-1 AL. 2 et AL. 3 et R324-1
-	  - Code de la construction et de l'habitation R324-1
+	  - CODE DES COMMUNES. - art. R381-1 (Ab)
+	  - Code de la construction et de l'habitation R311-1 AL. 2 et AL. 3, R324-1
 
 	**Codifié par**:
 
 	  - Décret n°77-241 1977-03-07
 
-	**Créé par**:
-
-	  - Décret n°77-241 1977-03-07 JORF et JONC 18 mars 1977
-
 	**Liens**:
 
+	  - TXT_ASSOCIE: Décret n°78-45 1978-01-06 et annexe *statuts types des sociétés d'économie mixte sportives locales*
 	  - TXT_ASSOCIE: CODE DES COMMUNES. - art. R381-1 (Ab)
 
 
