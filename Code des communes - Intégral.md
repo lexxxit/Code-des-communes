@@ -1,5 +1,5 @@
 # Code des communes  
-Version Consolidée au 1995-02-03
+Version Consolidée au 1995-02-05
 
 # Partie législative
 
@@ -4488,12 +4488,90 @@ La délibération qui décide la consultation indique expressément que cette co
 	  - Code général des collectivités territoriales - art. L2142-2 (M)
 
 
+###### Article L125-2-1
+
+Un cinquième des électeurs inscrits sur les listes électorales peuvent saisir le conseil municipal en vue de l'organisation
+d'une consultation sur une opération d'aménagement relevant de la décision des autorités municipales.
+
+Dans l'année, un électeur ne peut signer qu'une seule saisine tendant à l'organisation d'une consultation.
+
+Cette saisine du conseil municipal ne peut intervenir avant la fin de la deuxième année ni après la fin de la quatrième année
+suivant l'élection du conseil municipal de la commune concernée.
+
+Le conseil municipal délibère sur le principe et les modalités d'organisation de cette consultation.
+
+La délibération qui décide la consultation indique expressément que cette consultation n'est qu'une demande d'avis.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°77-90 1977-01-27
+
+	**Créé par**:
+
+	  - Loi n°95-115 du 4 février 1995 - art. 85 () JORF 5 février 1995
+
+	**Abrogé par**:
+
+	  - Loi n°96-142 du 21 février 1996 - art. 12 (V) JORF 24 février 1996
+
+	**Nouveaux textes**:
+
+	  - Code général des collectivités territoriales - art. L2142-3 (Ab)
+	  - Code général des collectivités territoriales - art. L2142-3 (M)
+
+
+###### Article L125-2-2
+
+Les électeurs des communes membres d'un établissement public de coopération intercommunale peuvent être consultés sur les
+décisions que l'assemblée ou le président de cet établissement sont appelés à prendre pour régler les affaires de la
+compétence de l'établissement en matière d'aménagement.
+
+Sur proposition de l'ensemble des maires des communes membres, ou sur demande écrite de la moitié des membres de l'assemblée
+délibérante, l'assemblée délibérante de l'établissement délibère sur le principe et les modalités d'organisation de la
+consultation. Dans ce cas, l'urgence ne peut être invoquée.
+
+Un cinquième des électeurs inscrits sur les listes électorales des communes membres de l'établissement public de coopération
+intercommunale peuvent saisir celui-ci en vue de l'organisation d'une consultation sur une opération d'aménagement relevant
+de sa décision. Dans l'année, tout électeur ne peut signer qu'une seule saisine tendant à l'organisation d'une consultation.
+L'assemblée délibérante de l'établissement délibère dans les conditions prévues à l'alinéa ci-dessus sur le principe et les
+modalités d'organisation de cette consultation.
+
+La délibération qui décide la consultation indique expressément que cette consultation n'est qu'une demande d'avis.
+
+Les dépenses afférentes à la consultation sont à la charge de l'établissement public de coopération intercommunale qui
+l'organise.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°77-90 1977-01-27
+
+	**Créé par**:
+
+	  - Loi n°95-115 du 4 février 1995 - art. 85 () JORF 5 février 1995
+
+	**Abrogé par**:
+
+	  - Loi n°96-142 du 21 février 1996 - art. 12 (V) JORF 24 février 1996
+
+	**Nouveaux textes**:
+
+	  - Code général des collectivités territoriales - art. L5211-20 (M)
+
+
 ###### Article L125-3
 
 Un dossier d'information sur l'objet de la consultation est mis à la disposition du public sur place à la mairie et, le cas
 échéant, à la mairie annexe quinze jours au moins avant le scrutin. L'accès du public au dossier est assuré dans les
 conditions fixées par l'article 4 de la loi n° 78-753 du 17 juillet 1978 portant diverses mesures d'amélioration des
 relations entre l'administration et le public.
+
+Lorsque la consultation est organisée par un établissement public de coopération intercommunale, le dossier d'information
+mentionné à l'alinéa précédent est mis à la disposition du public dans les mêmes conditions au siège de l'établissement
+public, dans chaque mairie et, le cas échéant, mairie annexe des communes membres de l'établissement public.
 
 **Liens relatifs à cet article**
 
@@ -4505,15 +4583,23 @@ relations entre l'administration et le public.
 
 	  - Loi n°78-753 du 17 juillet 1978 - art. 4 (M)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°92-125 du 6 février 1992 - art. 21 ()
+	  - Loi n°95-115 du 4 février 1995 - art. 85 () JORF 5 février 1995
+
+	**Abrogé par**:
+
+	  - Loi n°96-142 du 21 février 1996 - art. 12 (V) JORF 24 février 1996
+
+	**Nouveaux textes**:
+
+	  - Code général des collectivités territoriales - art. L5211-21 (M)
 
 
 ###### Article L125-4
 
-Après avoir pris connaissance du résultat de la consultation, le conseil municipal délibère dans les conditions prévues à
-l'article L. 121-12.
+Après avoir pris connaissance du résultat de la consultation, le conseil municipal ou l'assemblée délibérante de
+l'établissement public de coopération intercommunale délibère dans les conditions prévues à l'article L. 121-12.
 
 **Liens relatifs à cet article**
 
@@ -4521,13 +4607,21 @@ l'article L. 121-12.
 
 	  - Décret n°77-90 1977-01-27
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°92-125 du 6 février 1992 - art. 21 ()
+	  - Loi n°95-115 du 4 février 1995 - art. 85 () JORF 5 février 1995
+
+	**Abrogé par**:
+
+	  - Loi n°96-142 du 21 février 1996 - art. 12 (V) JORF 24 février 1996
 
 	**Cite**:
 
 	  - CODE DES COMMUNES. - art. L121-12 (M)
+
+	**Nouveaux textes**:
+
+	  - Code général des collectivités territoriales - art. L5211-22 (M)
 
 
 ###### Article L125-5
@@ -4559,9 +4653,10 @@ Un délai d'un an doit s'écouler entre deux consultations.
 
 ###### Article L125-6
 
-En cas de recours en annulation devant le tribunal administratif et, s'il y a lieu, en appel devant le Conseil d'Etat, aucune
-consultation ne peut avoir lieu tant que l'élection du conseil municipal n'a pas fait l'objet d'une décision devenue
-définitive.
+Lorsque l'élection du conseil municipal ou du maire ou la désignation des délégués à l'assemblée délibérante de
+l'établissement public de coopération intercommunale, ou du président de celle-ci, fait l'objet d'un recours contentieux
+devant le tribunal administratif et, s'il y a lieu, devant le Conseil d'Etat, aucune consultation ne peut avoir lieu tant que
+cette élection ou cette désignation n'a fait l'objet d'une décision devenue définitive.
 
 **Liens relatifs à cet article**
 
@@ -4569,9 +4664,17 @@ définitive.
 
 	  - Décret n°77-90 1977-01-27
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°92-125 du 6 février 1992 - art. 21 ()
+	  - Loi n°95-115 du 4 février 1995 - art. 85 () JORF 5 février 1995
+
+	**Abrogé par**:
+
+	  - Loi n°96-142 du 21 février 1996 - art. 12 (V) JORF 24 février 1996
+
+	**Nouveaux textes**:
+
+	  - Code général des collectivités territoriales - art. L5211-24 (M)
 
 
 ###### Article L125-7
@@ -10298,35 +10401,21 @@ opérations.
 
 La communauté urbaine est administrée par un conseil composé de délégués des communes.
 
-Le conseil règle [*attributions*] par ses délibérations les affaires qui sont de la compétence de la communauté.
+Le conseil règle par ses délibérations les affaires qui sont de la compétence de la communauté.
 
-Les délégués des communes directement représentées au conseil de communauté sont désignés par chaque conseil municipal en son
-sein. Toutefois, au cas où le nombre des conseillers municipaux est inférieur au nombre de sièges attribués à la commune, le
-conseil municipal peut désigner tout citoyen éligible au conseil municipal de la commune pour occuper les sièges qui ne
-peuvent être pourvus par des conseillers municipaux.
+Les délégués des communes au conseil de communauté sont désignés par chaque conseil municipal en son sein. Toutefois, au cas
+où le nombre des conseillers municipaux est inférieur au nombre de sièges attribués à la commune, le conseil municipal peut
+désigner tout citoyen éligible au conseil municipal de la commune pour occuper les sièges qui ne peuvent être pourvus par des
+conseillers municipaux.
 
-Les délégués des communes non directement représentées au conseil de communauté sont désignés au sein des conseils municipaux
-de ces communes par un collège composé conformément aux dispositions des articles L. 165-29 ou L. 165-30.
+L'élection des délégués s'effectue selon les modalités suivantes :
 
-" L'élection des délégués des communes visés aux deux alinéas précédents s'effectue selon les modalités suivantes :
+1° s'il n'y a qu'un délégué, est appliquée la procédure prévue au dernier alinéa de l'article L. 121-12 ;
 
-" 1° S'il n'y a qu'un délégué, est appliquée la procédure prévue au dernier alinéa de l'article L. 121-12 ;
-
-" 2° Dans les autres cas, l'élection s'effectue au [*mode*] scrutin de liste sans panachage ni vote préférentiel ; la
-répartition des sièges entre les listes est opérée selon les règles de la représentation proportionnelle à la plus forte
-moyenne. "
+2° dans les autres cas, l'élection s'effectue au scrutin de liste sans panachage ni vote préférentiel ; la répartition des
+sièges entre les listes est opérée selon les règles de la représentation proportionnelle à la plus forte moyenne.
 
 **Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - SPEC_APPLI: *Dispositions non applicables aux communes des départements de la Guadeloupe, de la Guyane, de la Martinique, de la Réunion et de Saint-Pierre-et-Miquelon*
-	  - SPEC_APPLI: CODE DES COMMUNES. - art. L182-1 (Ab)
-	  - SPEC_APPLI: Code des communes L182-1, L182-2 :
-
-	**Anciens textes**:
-
-	  - Loi n°66-1069 1966-12-31 ART. 15 I AL. 1 (PARTIE) ET ART. 17 AL. 1
 
 	**Codifié par**:
 
@@ -10334,22 +10423,29 @@ moyenne. "
 
 	**Modifié par**:
 
-	  - Loi n°89-19 du 13 janvier 1989 - art. 15 () JORF 14 JANVIER 1989
+	  - Loi n°95-115 du 4 février 1995 - art. 80 (V) JORF 5 février 1995
+
+	**Abrogé par**:
+
+	  - Loi n°96-142 du 21 février 1996 - art. 12 (V) JORF 24 février 1996
 
 	**Cite**:
 
 	  - CODE DES COMMUNES. - art. L121-12 (M)
-	  - CODE DES COMMUNES. - art. L165-29 (M)
-	  - CODE DES COMMUNES. - art. L165-30 (M)
+
+	**Nouveaux textes**:
+
+	  - Code général des collectivités territoriales - art. L5215-10 (M)
+	  - Code général des collectivités territoriales - art. L5215-19 (V)
+	  - Code général des collectivités territoriales - art. L5215-5 (Ab)
+	  - Code général des collectivités territoriales - art. L5215-9 (Ab)
 
 
 ##### SOUS-SECTION 2 : Composition du conseil de communauté et désignation de ses membres.
 
 ###### Article L165-25
 
-Le conseil de communauté est composé de délégués des communes, dont le nombre est fixé :
-
-1° Pour l'application de l'article L. 165-26 et du I de l'article L. 165-28, conformément au tableau ci-dessous :
+Le conseil de communauté est composé de délégués des communes, dont le nombre est fixé conformément au tableau ci-dessous :
 
 Nombre de communes, population municipale totale de l'agglomération.
 
@@ -10375,17 +10471,7 @@ plus de 1000000, 140.
 
 plus de 50, 600001 à 1000000, 140.
 
-plus de 1000000, 140.
-
-2° Pour l'application du II de l'article L. 165-28, conformément  au tableau ci-dessous :
-
-50 au plus, 200000 au plus, 50.
-
-plus de 2000000, 80.
-
-plus de 50, 200000 au plus, 70.
-
-plus de 2000000, 100.
+plus de 1000000, 155.
 
 **Liens relatifs à cet article**
 
@@ -10395,7 +10481,11 @@ plus de 2000000, 100.
 
 	**Modifié par**:
 
-	  - Loi n°82-1169 1982-12-31 art. 46 JORF 1er janvier 1983 en vigueur le 13 mars 1983
+	  - Loi n°95-115 du 4 février 1995 - art. 80 (V) JORF 5 février 1995
+
+	**Abrogé par**:
+
+	  - Loi n°96-142 du 21 février 1996 - art. 12 (V) JORF 24 février 1996
 
 	**Cité par**:
 
@@ -10405,155 +10495,23 @@ plus de 2000000, 100.
 	**Nouveaux textes**:
 
 	  - Code général des collectivités territoriales - art. L5215-6 (Ab)
-
-
-###### Article L165-26
-
-La répartition des sièges au sein du conseil de communauté est fixée par décision des deux tiers au moins des conseils
-municipaux des communes intéressées représentant plus des trois quarts de la population totale de celles-ci, ou des trois
-quarts des conseils municipaux des communes intéressées représentant plus des deux tiers de la population totale, cette
-majorité devant nécessairement comprendre les conseils municipaux des communes dont la population totale est supérieure au
-quart de la population totale concernée.
-
-Toutefois, cette répartition ne peut aboutir, sans l'accord du conseil municipal, à la diminution de la part en valeur
-relative de la représentation directe de cette commune dans le conseil de communauté, par rapport à celle qui résulterait de
-l'application du paragraphe II de l'article L. 165-28. Le nombre de sièges correspondant à cette part relative est arrondi,
-le cas échéant, à l'entier inférieur.
-
-Les délibérations nécessaires pour l'application des dispositions des alinéas précédents doivent intervenir dans un délai de
-trois mois à compter du renouvellement général des conseils municipaux ou du décret fixant le périmètre de l'agglomération.
-
-Le représentant de l'Etat dans le département [*commissaire de la République*] rend publique la répartition ou constate que
-les conditions requises ne sont pas remplies. Dans ce dernier cas, il est fait application :
-
-a) Des dispositions du paragraphe II de l'article L. 165-28 dans les communautés urbaines dont plus de la moitié des communes
-ont une population municipale totale inférieure au quotient obtenu en divisant la population municipale totale de
-l'agglomération, telle qu'elle résulte du dernier recensement général, par le nombre total de sièges à pourvoir en
-application du 1° de l'article L. 165-25 ;
-
-b) Des dispositions du paragraphe I de l'article L. 165-28 dans les autres communautés urbaines.
-
-**Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - SPEC_APPLI: *Dispositions non applicables aux communes des départements de la Guadeloupe, de la Guyane, de la Martinique, de la Réunion et de Saint-Pierre-et-Miquelon*
-	  - SPEC_APPLI: CODE DES COMMUNES. - art. L165-28 (M)
-	  - SPEC_APPLI: CODE DES COMMUNES. - art. L182-1 (Ab)
-	  - SPEC_APPLI: Code des communes L182-1, L182-2 :
-
-	**Anciens textes**:
-
-	  - Loi n°66-1069 1966-12-31 ART. 15 II AL. 1 ET 2
-
-	**Codifié par**:
-
-	  - Décret n°77-90 1977-01-27
-
-	**Cité par**:
-
-	  - Loi n°77-825 du 22 juillet 1977 - art. 7 (V)
-	  - Loi n°95-115 du 4 février 1995 - art. 80 (V)
-	  - CODE DES COMMUNES. - art. L165-28 (M)
-	  - CODE DES COMMUNES. - art. L165-38 (Ab)
-	  - CODE DES COMMUNES. - art. R*165-34 (Ab)
-
-	**Modifié par**:
-
-	  - Loi n°82-1169 1982-12-31 ART. 47 JORF 1ER JANVIER 1983 date d'entrée en vigueur 13 MARS 1983
-
-	**Abrogé par**:
-
-	  - Loi n°95-115 du 4 février 1995 - art. 80 (V)
-
-	**Cite**:
-
-	  - Code des communes L165-25 1/
-
-
-###### Article L165-27
-
-Aucune commune ne peut être contrainte de participer à une communauté créée en application de l'article L. 165-4 si sa
-représentation directe n'est pas assurée au sein du conseil de communauté.
-
-**Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - SPEC_APPLI: *Dispositions non applicables aux communes des départements de la Guadeloupe, de la Guyane, de la Martinique, de la Réunion et de Saint-Pierre-et-Miquelon*
-	  - SPEC_APPLI: CODE DES COMMUNES. - art. L182-1 (Ab)
-	  - SPEC_APPLI: Code des communes L182-1, L182-2 :
-
-	**Anciens textes**:
-
-	  - Loi n°66-1069 1966-12-31 art. 15 II al. 3
-
-	**Codifié par**:
-
-	  - Décret n°77-90 1977-01-27
-
-	**Créé par**:
-
-	  - Décret n°77-90 1977-01-27 JORF et JONC 3 février 1977 date d'entrée en vigueur élection des maires
-
-	**Abrogé par**:
-
-	  - Loi n°95-115 du 4 février 1995 - art. 80 (V)
-
-	**Cité par**:
-
-	  - Loi n°95-115 du 4 février 1995 - art. 80 (V)
-
-	**Cite**:
-
-	  - CODE DES COMMUNES. - art. L165-4 (M)
+	  - Code général des collectivités territoriales - art. L5215-6 (M)
 
 
 ###### Article L165-28
 
-I. Les conseils municipaux intéressés se prononcent, à la majorité prévue au premier alinéa de l'article L. 165-26, sur la
-répartition des sièges établis selon les modalités suivantes :
+La répartition des sièges est établie selon les modalités suivantes :
 
-a) Un siège est attribué à chaque commune membre de la communauté ;
+a) un siège est attribué à chaque commune membre de la communauté ;
 
-b) Seules participent à la répartition des sièges restant à pourvoir les communes dont la population municipale totale est
+b) seules participent à la répartition des sièges restant à pourvoir les communes dont la population municipale totale est
 supérieure au quotient obtenu en divisant la population municipale totale de l'agglomération, telle qu'elle résulte du
-dernier recensement général, par le nombre total des sièges à pourvoir. 
-
-Les sièges restant à pourvoir sont répartis entre ces communes suivant le système de la représentation proportionnelle avec
-application de la règle de la plus forte moyenne, sur la base de leur population municipale totale diminuée d'un nombre
-d'habitants égal au quotient mentionné à la phrase précédente ;
-
-c) Aucune commune membre de la communauté ne peut, sans l'accord de son conseil municipal, se voir attribuer un nombre de
-délégués inférieur à celui dont elle disposait à la date de publication de la loi n° 82-1169 du 31 décembre 1982 relative à
-l'organisation administrative de Paris, Marseille, Lyon et des établissements publics de coopération intercommunale. Le
-nombre des délégués fixé à l'article L. 165-25 est, en tant que de besoin, augmenté pour satisfaire à la prescription du
-présent alinéa.
-
-Les délibérations nécessaires pour l'application des dispositions qui précèdent doivent intervenir dans un délai de deux mois
-à compter de la constatation du désaccord dans les conditions prévues au dernier alinéa de l'article L. 165-26.
-
-Le représentant de l'Etat dans le département rend publique la répartition ou constate que les conditions requises ne sont
-pas remplies. Dans ce dernier cas, il est fait application des dispositions du paragraphe II du présent article.
-
-II. La répartition des sièges s'effectue suivant le système de la représentation proportionnelle avec application de la règle
-du plus fort reste ; l'ensemble des communes dont la population municipale totale est inférieure au quotient obtenu en
-divisant la population municipale totale de l'agglomération, telle qu'elle résulte du dernier recensement général, par le
-nombre de sièges à pourvoir, se voit attribuer un nombre de sièges calculé sur la population municipale totale de l'ensemble
-de ces communes.
+dernier recensement général, par le nombre total de sièges à pourvoir. Les sièges restant à pourvoir sont répartis entre ces
+communes suivant le système de la représentation proportionnelle avec application de la règle de la plus forte moyenne, sur
+la base de leur population municipale totale diminuée d'un nombre d'habitants égal au quotient mentionné à la phrase
+précédente.
 
 **Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - SPEC_APPLI: *Dispositions non applicables aux communes des départements de la Guadeloupe, de la Guyane, de la Martinique, de la Réunion et de Saint-Pierre-et-Miquelon*
-	  - SPEC_APPLI: CODE DES COMMUNES. - art. L165-26 (M)
-	  - SPEC_APPLI: CODE DES COMMUNES. - art. L182-1 (Ab)
-	  - SPEC_APPLI: Code des communes L182-1, L182-2 :
-
-	**Anciens textes**:
-
-	  - Loi n°66-1069 1966-12-31 ART. 15 III
 
 	**Codifié par**:
 
@@ -10561,7 +10519,11 @@ de ces communes.
 
 	**Modifié par**:
 
-	  - Loi n°82-1169 1982-12-31 ART. 48 JORF 1ER JANVIER 1983 date d'entrée en vigueur 13 MARS 1983
+	  - Loi n°95-115 du 4 février 1995 - art. 80 (V) JORF 5 février 1995
+
+	**Abrogé par**:
+
+	  - Loi n°96-142 du 21 février 1996 - art. 12 (V) JORF 24 février 1996
 
 	**Cité par**:
 
@@ -10572,117 +10534,7 @@ de ces communes.
 	**Nouveaux textes**:
 
 	  - Code général des collectivités territoriales - art. L5215-7 (V)
-
-
-###### Article L165-29
-
-Pour l'application du paragraphe II de l'article L. 165-28, un collège, composé des maires des communes intéressées et
-convoqué par le représentant de l'Etat dans le département [*commissaire de la République*], désigne, au sein des conseils
-municipaux, les délégués de l'ensemble des communes dont la population municipale totale est inférieure au quotient prévu au
-paragraphe II de cet article.
-
-Dans les agglomérations comptant plus de cinquante communes, les sièges sont pourvus dans le cadre de secteurs électoraux qui
-sont délimités par accord entre les conseils municipaux des communes concernées.
-
-A défaut de cet accord dans le délai d'un mois à compter de l'acte par lequel le représentant de l'Etat dans le département
-constate que les conditions visées à l'article L. 165-26 ou au paragraphe I de
-
-l'article L. 165-28 ne sont pas remplies, les secteurs électoraux sont délimités par arrêté du représentant de l'Etat dans le
-département après avis du président du tribunal administratif.
-
-La population de ces secteurs ne peut être inférieure au sixième de la population municipale totale de l'ensemble des
-communes intéressées.
-
-Les sièges attribués aux communes non directement représentées sont répartis entre les secteurs suivant le système de la
-représentation proportionnelle avec application de la règle du plus fort reste sur la base de la population municipale totale
-de l'ensemble des communes de chacun des secteurs.
-
-**Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - SPEC_APPLI: *Dispositions non applicables aux communes des départements de la Guadeloupe, de la Guyane, de la Martinique, de la Réunion et de Saint-Pierre-et-Miquelon*
-	  - SPEC_APPLI: CODE DES COMMUNES. - art. L182-1 (Ab)
-	  - SPEC_APPLI: Code des communes L182-1, L182-2 :
-
-	**Anciens textes**:
-
-	  - Loi n°66-1069 1966-12-31 ART. 15 IV AL. 1, 2 ET 3
-
-	**Codifié par**:
-
-	  - Décret n°77-90 1977-01-27
-
-	**Modifié par**:
-
-	  - Loi n°82-1169 1982-12-31 ART. 49 JORF 1ER JANVIER 1983 date d'entrée en vigueur 13 MARS 1983
-
-	**Abrogé par**:
-
-	  - Loi n°95-115 du 4 février 1995 - art. 80 (V)
-
-	**Cité par**:
-
-	  - Loi n°95-115 du 4 février 1995 - art. 80 (V)
-	  - CODE DES COMMUNES. - art. L165-24 (M)
-	  - CODE DES COMMUNES. - art. L165-37 (M)
-
-	**Cite**:
-
-	  - CODE DES COMMUNES. - art. L165-28 (M)
-
-
-###### Article L165-30
-
-Dans les agglomérations où n'ont pas été créés des secteurs électoraux, les communes dont le chiffre de population municipale
-totale n'atteint pas le quotient [*population municipale totale de l'agglomération divisée par le nombre de sièges à
-pourvoir*] prévu au paragraphe II de l'article L. 165-28 peuvent, si elles sont limitrophes, se grouper entre elles afin de
-réunir une population municipale totale ou supérieure à ce quotient.
-
-Un collège composé des conseillers municipaux des communes regroupées désigne en son sein les délégués de ces communes.
-
-Lorsque les communes n'ont pas accepté de se regrouper conformément aux dispositions ci-dessus et qu'elles ne réunissent pas
-une population municipale totale au moins égale au quotient prévu au paragraphe II de l'article L. 165-28, elles se
-rattachent à l'un des groupements existants.
-
-A défaut de rattachement volontaire dans le délai de trois mois, il y est procédé par arrêté du représentant de l'Etat dans
-le département [*commissaire de la République*].
-
-**Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - SPEC_APPLI: *Dispositions non applicables aux communes des départements de la Guadeloupe, de la Guyane, de la Martinique, de la Réunion et de Saint-Pierre-et-Miquelon*
-	  - SPEC_APPLI: CODE DES COMMUNES. - art. L182-1 (Ab)
-	  - SPEC_APPLI: Code des communes L182-1, L182-2 :
-
-	**Anciens textes**:
-
-	  - Loi n°66-1069 1966-12-31 ART. 15 IV AL. 4, 5, 6
-	  - Loi n°66-1069 du 31 décembre 1966 - art. 5 (Ab)
-	  - Loi n°66-1069 du 31 décembre 1966 - art. 6 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°77-90 1977-01-27
-
-	**Modifié par**:
-
-	  - Loi n°82-1169 1982-12-31 ART. 50 ET 51 JORF 1ER JANVIER 1983 date d'entrée en vigueur 13 MARS 1983
-
-	**Abrogé par**:
-
-	  - Loi n°95-115 du 4 février 1995 - art. 80 (V)
-
-	**Cité par**:
-
-	  - Loi n°95-115 du 4 février 1995 - art. 80 (V)
-	  - CODE DES COMMUNES. - art. L165-24 (M)
-	  - CODE DES COMMUNES. - art. L165-37 (Ab)
-
-	**Cite**:
-
-	  - CODE DES COMMUNES. - art. L165-28 (M)
+	  - Code général des collectivités territoriales - art. L5215-7 (M)
 
 
 ###### Article L165-31
@@ -10879,153 +10731,6 @@ par les dispositions du chapitre I du titre II du présent livre qui ne sont pas
 	**Nouveaux textes**:
 
 	  - Code général des collectivités territoriales - art. L5211-1 (M)
-
-
-##### SOUS-SECTION 4 : Organismes consultatifs placés auprès du conseil de communauté.
-
-###### Article L165-36
-
-Lorsque toutes les communes de l'agglomération ne sont pas directement représentées au sein du conseil de communauté, le
-président de ce conseil réunit les maires de toutes les communes de l'agglomération en vue de leur consultation dans les cas
-
-suivants :
-
-- à la demande des deux tiers des maires des communes non directement représentées au conseil de communauté ;
-
-- à la demande de la majorité des maires de l'agglomération ;
-
-- à la demande du conseil de communauté ;
-
-- avant le vote du budget de la communauté.
-
-Cette réunion est présidée par le président du conseil de communauté.
-
-Les modalités de la consultation sont déterminées par le conseil de communauté [*attributions*].
-
-**Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - SPEC_APPLI: *Dispositions non applicables aux communes des départements de la Guadeloupe, de la Guyane, de la Martinique, de la Réunion et de Saint-Pierre-et-Miquelon*
-	  - SPEC_APPLI: CODE DES COMMUNES. - art. L182-1 (Ab)
-	  - SPEC_APPLI: Code des communes L182-1, L182-2 :
-
-	**Anciens textes**:
-
-	  - Loi n°66-1069 du 31 décembre 1966 - art. 18 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°77-90 1977-01-27
-
-	**Modifié par**:
-
-	  - Loi n°82-1169 1982-12-31 ART. 53 JORF 1ER JANVIER 1983 date d'entrée en vigueur 13 MARS 1983
-
-	**Abrogé par**:
-
-	  - Loi n°95-115 du 4 février 1995 - art. 80 (V)
-
-	**Cité par**:
-
-	  - Loi n°95-115 du 4 février 1995 - art. 80 (V)
-
-
-###### Article L165-36-1
-
-Le maire d'une commune non directement représentée au conseil de communauté assiste, avec voix consultative, aux séances du
-conseil de communauté lorsque l'ordre du jour comprend des délibérations sur des affaires dont l'exécution est prévue, en
-tout ou partie, dans les limites de la commune.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°77-90 1977-01-27
-
-	**Créé par**:
-
-	  - Loi n°82-1169 1982-12-31 ART. 54 JORF 1ER JANVIER 1983 date d'entrée en vigueur 13 MARS 1983
-
-	**Abrogé par**:
-
-	  - Loi n°95-115 du 4 février 1995 - art. 80 (V)
-
-	**Cité par**:
-
-	  - Loi n°95-115 du 4 février 1995 - art. 80 (V)
-
-
-###### Article L165-36-2
-
-Au cours d'une séance [*nombre, fréquence, périodicité*] par an au moins, le conseil de communauté délibère des questions
-inscrites à l'ordre du jour à la demande des maires des communes qui ne sont pas directement représentées au conseil de
-communauté.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°77-90 1977-01-27
-
-	**Créé par**:
-
-	  - Loi n°82-1169 1982-12-31 ART. 55 JORF 1ER JANVIER 1983 date d'entrée en vigueur 13 MARS 1983
-
-	**Abrogé par**:
-
-	  - Loi n°95-115 du 4 février 1995 - art. 80 (V)
-
-	**Cité par**:
-
-	  - Loi n°95-115 du 4 février 1995 - art. 80 (V)
-
-
-###### Article L165-37
-
-Dans les agglomérations comportant plus de cinquante communes [*nombre*] pourvues des secteurs électoraux mentionnés à
-l'article
-
-L. 165-29, des comités consultatifs composés des maires des communes de chaque secteur peuvent être créés.
-
-Dans les agglomérations où n'ont pas été créés des secteurs électoraux, les mêmes dispositions s'appliquent à chaque
-groupement de communes mentionné à l'article L. 165-30, constitué en vue de réunir une population municipale totale égale ou
-supérieure au quotient.
-
-Ces comités dits "de secteur" [*attributions, compétences*] sont appelés à donner leur avis au conseil de communauté sur
-toutes les questions intéressant leurs communes.
-
-**Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - SPEC_APPLI: *Dispositions non applicables aux communes des départements de la Guadeloupe, de la Guyane, de la Martinique, de la Réunion et de Saint-Pierre-et-Miquelon*
-	  - SPEC_APPLI: CODE DES COMMUNES. - art. L182-1 (Ab)
-	  - SPEC_APPLI: Code des communes L182-1, L182-2 :
-
-	**Anciens textes**:
-
-	  - Loi n°66-1069 du 31 décembre 1966 - art. 19 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°77-90 1977-01-27
-
-	**Modifié par**:
-
-	  - Loi n°82-1169 1982-12-31 ART. 56 JORF 1ER JANVIER 1983 date d'entrée en vigueur 13 MARS 1983
-
-	**Abrogé par**:
-
-	  - Loi n°95-115 du 4 février 1995 - art. 80 (V)
-
-	**Cité par**:
-
-	  - Loi n°95-115 du 4 février 1995 - art. 80 (V)
-
-	**Cite**:
-
-	  - CODE DES COMMUNES. - art. L165-30 (M)
 
 
 ##### SECTION 6 : Durée de la communauté urbaine.
@@ -11305,17 +11010,19 @@ La décision institutive détermine le siège de la communauté de communes.
 
 ###### Article L167-2
 
-Les membres du conseil de la communauté de communes sont élus par les conseils municipaux des communes intéressées.
+La communauté de communes est administrée par un conseil composé de délégués des communes adhérentes. Les délégués de chaque
+commune sont élus au sein du conseil municipal ou parmi les citoyens éligibles au sein du conseil d'une des communes de la
+communauté de communes.
 
-" La répartition des sièges au sein du conseil est assurée en fonction de la population, chaque commune disposant au minimum
+La répartition des sièges au sein du conseil est assurée en fonction de la population, chaque commune disposant au minimum
 d'un siège, aucune commune ne pouvant disposer de plus de la moitié des sièges.
 
-" Le nombre et le mode de répartition des sièges sont fixés par décision des deux tiers au moins des conseils municipaux des
+Le nombre et le mode de répartition des sièges sont fixés par décision des deux tiers au moins des conseils municipaux des
 communes intéressées représentant plus des trois quarts de la population totale, cette majorité devant nécessairement
 comprendre les conseils municipaux des communes dont la population totale est supérieure au quart de la population totale
 concernée.
 
-" La décision institutive ou une décision modificative peut prévoir la désignation d'un ou plusieurs délégués suppléants,
+La décision institutive ou une décision modificative peut prévoir la désignation d'un ou plusieurs délégués suppléants,
 appelés à siéger au conseil avec voix délibérative en cas d'empêchement du ou des titulaires.
 
 **Liens relatifs à cet article**
@@ -11324,9 +11031,19 @@ appelés à siéger au conseil avec voix délibérative en cas d'empêchement du
 
 	  - Décret n°77-90 1977-01-27
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°92-125 du 6 février 1992 - art. 71 ()
+	  - Loi n°95-115 du 4 février 1995 - art. 78 (V) JORF 5 février 1995
+
+	**Abrogé par**:
+
+	  - Loi n°96-142 du 21 février 1996 - art. 12 (V) JORF 24 février 1996
+
+	**Nouveaux textes**:
+
+	  - Code général des collectivités territoriales - art. L5214-5 (Ab)
+	  - Code général des collectivités territoriales - art. L5214-7 (M)
+	  - Code général des collectivités territoriales - art. L5214-8 (Ab)
 
 
 ###### Article L167-3
@@ -20102,45 +19819,45 @@ Cette population est la population totale majorée, sauf disposition particuliè
 
 ###### Article L234-3
 
-Pour l'application des articles L. 234-5 et L. 234-13 du présent code et de l'article 1648 B du code général des impôts, les
-communes sont classées par groupes démographiques déterminés en fonction de l'importance de leur population. Les groupes
+Pour l'application des articles L. 234-5 et L. 234-13 du présent code et de l'article 1648 B bis du code général des impôts,
+les communes sont classées par groupes démographiques déterminés en fonction de l'importance de leur population. Les groupes
 démographiques sont définis ainsi qu'il suit :
 
-" Communes de       0 à     499 habitants ;
+Communes de 0 à 499 habitants ;
 
-" Communes de     500 à     999 habitants ;
+Communes de 500 à 999 habitants ;
 
-" Communes de   1 000 à   1 999 habitants ;
+Communes de 1 000 à 1 999 habitants ;
 
-" Communes de   2 000 à   3 499 habitants ;
+Communes de 2 000 à 3 499 habitants ;
 
-" Communes de   3 500 à   4 999 habitants ;
+Communes de 3 500 à 4 999 habitants ;
 
-" Communes de   5 000 à   7 499 habitants ;
+Communes de 5 000 à 7 499 habitants ;
 
-" Communes de   7 500 à   9 999 habitants ;
+Communes de 7 500 à 9 999 habitants ;
 
-" Communes de  10 000 à  14 999 habitants ;
+Communes de 10 000 à 14 999 habitants ;
 
-" Communes de  15 000 à  19 999 habitants ;
+Communes de 15 000 à 19 999 habitants ;
 
-" Communes de  20 000 à  34 999 habitants ;
+Communes de 20 000 à 34 999 habitants ;
 
-" Communes de  35 000 à  49 999 habitants ;
+Communes de 35 000 à 49 999 habitants ;
 
-" Communes de  50 000 à  74 999 habitants ;
+Communes de 50 000 à 74 999 habitants ;
 
-" Communes de  75 000 à  99 999 habitants ;
+Communes de 75 000 à 99 999 habitants ;
 
-" Communes de 100 000 à 199 999 habitants ;
+Communes de 100 000 à 199 999 habitants ;
 
-" Communes de 200 000 habitants et plus. "
+Communes de 200 000 habitants et plus.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - CGI 1648 B
+	  - CGI 1648 B bis
 	  - CODE DES COMMUNES. - art. L234-13 (M)
 	  - CODE DES COMMUNES. - art. L234-5 (M)
 
@@ -20159,11 +19876,16 @@ démographiques sont définis ainsi qu'il suit :
 
 	**Modifié par**:
 
-	  - Loi n°93-1436 1993-12-31 art. 3 jorf 4 janvier 1994
+	  - Loi n°95-115 du 4 février 1995 - art. 70 () JORF 5 février 1995
+
+	**Abrogé par**:
+
+	  - Loi n°96-142 du 21 février 1996 - art. 12 (V) JORF 24 février 1996
 
 	**Nouveaux textes**:
 
 	  - Code général des collectivités territoriales - art. L2334-3 (V)
+	  - Code général des collectivités territoriales - art. L2334-3 (M)
 
 
 ##### SOUS-SECTION 1 : Dispositions générales.
@@ -21511,6 +21233,50 @@ qu'aux commissions des finances de l'assemblée nationale et du Sénat.
 	**Modifié par**:
 
 	  - Loi n°93-1436 1994-01-04 art. 17, 18 JORF 4 janvier 1994
+
+
+##### SECTION 4 : Concours particuliers
+
+##### SOUS-SECTION 6 : Comité des finances locales.
+
+###### Article L234-21-1
+
+Le comité des finances locales a pour mission de fournir au Gouvernement et au Parlement les analyses nécessaires à
+l'élaboration des dispositions du projet de loi de finances intéressant les collectivités locales.
+
+Il établit chaque année sur la base des comptes administratif un rapport sur la situation financière des collectivités
+locales.
+
+Dans un cadre pluriannuel, il a la charge de la réalisation d'études sur les facteurs d'évolution de la dépense locale. Les
+résultats de ces études font l'objet d'un rapport au Gouvernement.
+
+Les missions mentionnées au présent article peuvent être exercées par une formation spécialisée du comité, dénommée
+observatoire des finances locales et comportant des représentants de toutes ses composantes. Les membres de l'observatoire
+des finances locales sont désignés par le président du comité.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°77-90 1977-01-27
+
+	**Cité par**:
+
+	  - Loi n°91-429 du 13 mai 1991 - art. 11 (V)
+	  - CODE DES COMMUNES. - art. L234-17 (Ab)
+
+	**Créé par**:
+
+	  - Loi n°95-115 du 4 février 1995 - art. 75 () JORF 5 février 1995
+
+	**Abrogé par**:
+
+	  - Loi n°96-142 du 21 février 1996 - art. 12 (V) JORF 24 février 1996
+
+	**Nouveaux textes**:
+
+	  - Code général des collectivités territoriales - art. L1211-4 (M)
+	  - Code général des collectivités territoriales - art. L1211-4 (V)
 
 
 ##### SECTION 2 : Répartition du produit des amendes relatives à la circulation routière.
