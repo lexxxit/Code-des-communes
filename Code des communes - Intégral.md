@@ -1,5 +1,5 @@
 # Code des communes  
-Version Consolidée au 1985-01-25
+Version Consolidée au 1985-01-26
 
 # Statuts types d'une caisse communale de secours et de retraite de sapeurs-pompiers
 
@@ -13184,6 +13184,9 @@ notifier aux expropriés et de répondre à leurs demandes ;
 15° D'exercer au nom de la commune le droit de préemption à l'intérieur des zones d'aménagement différé ou des zones
 d'intervention foncière ou le droit de substitution dans les zones de préemption des périmètres sensibles.
 
+16° D'intenter au nom de la commune les actions en justice ou de défendre  la commune dans les actions intentées contre elle,
+dans les cas définis par le conseil municipal.
+
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
@@ -13193,10 +13196,6 @@ d'intervention foncière ou le droit de substitution dans les zones de préempti
 	**Codifié par**:
 
 	  - Décret n°77-90 1977-01-27
-
-	**Modifié par**:
-
-	  - Loi n°82-213 du 2 mars 1982 - art. 21 (V) JORF 3 MARS 1982
 
 	**Cité par**:
 
@@ -13209,6 +13208,10 @@ d'intervention foncière ou le droit de substitution dans les zones de préempti
 	  - CODE DES COMMUNES. - art. L181-1 (M)
 	  - CODE DES COMMUNES. - art. L331-1 (Ab)
 	  - CODE DES COMMUNES. - art. R122-7 (Ab)
+
+	**Modifié par**:
+
+	  - Loi n°85-97 du 25 janvier 1985 - art. 23 () JORF 26 Janvier 1985
 
 	**Nouveaux textes**:
 
@@ -26233,6 +26236,35 @@ de ces redevances est répartie entre les collectivités intéressées dans les 
 
 ##### SECTION 1 : Dispositions générales.
 
+###### Article L316-1
+
+Sous réserve des dispositions du 16 de l'article L. 122-20, le conseil municipal délibère sur les actions à intenter au nom
+de la commune.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°77-240 1977-03-07
+
+	**Modifié par**:
+
+	  - Loi n°85-97 du 25 janvier 1985 - art. 23 () JORF 26 janvier 1985
+
+	**Abrogé par**:
+
+	  - Loi n°96-142 du 21 février 1996 - art. 12 (V) JORF 24 février 1996
+
+	**Cite**:
+
+	  - Code des communes L122-20 16
+
+	**Nouveaux textes**:
+
+	  - Code général des collectivités territoriales - art. L2132-1 (V)
+	  - Code général des collectivités territoriales - art. L2131-1 (M)
+
+
 ###### Article L316-2
 
 Sont illégales les décisions et délibérations par lesquelles les collectivités locales renoncent soit directement, soit par
@@ -33428,38 +33460,6 @@ publiques peuvent se consentir entre elles.
 	**Cite**:
 
 	  - Code de l'urbanisme - art. L222-1 (Ab)
-
-
-#### Actions judiciaires
-
-##### Dispositions générales .
-
-###### Article L316-1
-
-Le conseil municipal [**]attributions[**] délibère sur les actions à intenter au nom de la commune.
-
-**Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - SPEC_APPLI: *Dispositions non applicables aux communes des départements de la Moselle, du Bas-Rhin et du Haut-Rhin (Alsace-Lorraine)*
-	  - SPEC_APPLI: Code des communes L391-1 :
-
-	**Anciens textes**:
-
-	  - Code de l'administration communale 330
-
-	**Codifié par**:
-
-	  - Décret n°77-240 1977-03-07
-
-	**Créé par**:
-
-	  - Décret n°77-240 1977-03-07 JORF et JONC 18 Mars 1977
-
-	**Nouveaux textes**:
-
-	  - Code général des collectivités territoriales - art. L2132-1 (V)
 
 
 ### Services communaux
