@@ -1,5 +1,5 @@
 # Code des communes  
-Version Consolidée au 1991-03-22
+Version Consolidée au 1991-05-14
 
 # Statuts types d'une caisse communale de secours et de retraite de sapeurs-pompiers
 
@@ -18886,6 +18886,34 @@ Une dotation globale de fonctionnement est instituée en faveur des communes et 
 compose d'une dotation de base, d'une dotation de péréquation, d'une dotation de compensation et, le cas échéant, de concours
 particuliers.
 
+" A compter du 1er janvier 1992, le montant de la dotation globale de fonctionnement versée par l'Etat aux collectivités
+locales et à certains de leurs groupements évolue chaque année en fonction d'un indice égal à la somme du taux d'évolution de
+la moyenne annuelle du prix de la consommation des ménages et des deux tiers du taux d'évolution du produit intérieur brut
+total en volume sous réserve que celui-ci soit positif.
+
+" La dotation inscrite dans le projet de loi de finances est arrêtée en appliquant à la dotation de l'année en cours l'indice
+prévu à l'alinéa précédent et calculé à partir des estimations figurant dans la projection économique annexée au projet de
+loi de finances.
+
+" Il est procédé, au plus tard le 31 juillet, à la régularisation du montant de la dotation afférente à l'exercice précédent,
+lorsque l'indice calculé sur la base du taux d'évolution de la moyenne annuelle du prix de la consommation des ménages et du
+taux d'évolution du produit intérieur brut total en volume relatifs à cet exercice tels qu'ils sont constatés à cette date
+est supérieur à l'indice qui a été retenu pour le calcul de la dotation prévisionnelle.
+
+" Le montant de la régularisation, auquel est ajouté le reliquat comptable éventuel du même exercice, est réparti entre les
+bénéficiaires de la dotation globale de fonctionnement selon les modalités appliquées pour la dotation initiale de l'année au
+cours de laquelle la régularisation est versée.
+
+" Lorsque la dotation globale de fonctionnement présente, par rapport à celle de l'exercice précédent, un taux de progression
+inférieur à celui constaté, pendant la même période de référence, pour la valeur annuelle du traitement des fonctionnaires
+défini à l'article 20 de la loi n° 83-634 du 13 juillet 1983 portant droits et obligations des fonctionnaires et afférent à
+l'indice 100 majoré, ce dernier taux est appliqué lors de la régularisation visée ci-dessus.
+
+" Le montant prévisionnel de la dotation globale de fonctionnement est arrêté, pour être inscrit dans le projet de loi de
+finances, après avis du comité des finances locales institué par l'article L. 234-20, qui est saisi des éléments d'évaluation
+fournis par le ministre chargé du budget. Il est tenu compte, pour le calcul de ce montant, de celui de la régularisation
+opérée au titre de l'année précédente. "
+
 **Liens relatifs à cet article**
 
 	**Codifié par**:
@@ -18909,13 +18937,18 @@ particuliers.
 	  - CODE DES COMMUNES. - art. L234-19-1 (M)
 	  - CODE DES COMMUNES. - art. R*234-1 (Ab)
 
-	**Modifié par**:
+	**Cite**:
 
-	  - Loi n°89-935 1989-12-29 art. 47 IX jorf 30 décembre 1990   en vigueur le 1er janvier 1990
+	  - Loi n°83-634 1983-07-13 art. 20
+	  - CODE DES COMMUNES. - art. L234-20 (M)
 
 	**Nouveaux textes**:
 
 	  - Code général des collectivités territoriales - art. L2334-1 (V)
+
+	**Modifié par**:
+
+	  - Loi n°90-429 1990-05-13 art. 1 jorf 14 mai 1991
 
 
 ##### SOUS-SECTION 2 : Dotation de base.
@@ -19061,7 +19094,9 @@ Cette fraction est destinée à tenir compte de l'inégalité des ressources fis
 
 - une deuxième fraction qui représente 7,5 p. 100 des ressources affectées à la dotation globale de fonctionnement après
 déduction des sommes prévues pour les concours particuliers mentionnés au deuxième alinéa, destinée à tenir compte de
-l'insuffisance du revenu par habitant.
+l'insuffisance du revenu par habitant. Pour l'application du présent alinéa, par dérogation au deuxième alinéa de l'article
+L. 234-19-3, la population prise en considération est la population totale de la commune, non majorée d'un habitant par
+résidence secondaire.
 
 Le revenu pris en considération pour l'application du présent article est le revenu imposable. Toutefois, pour les communes
 comprenant au plus dix contribuables imposés à l'impôt sur le revenu, le revenu pris en considération est le revenu moyen par
@@ -19449,6 +19484,287 @@ définis à l'article L. 234-10.
 
 ##### SOUS-SECTION 4 : Concours particuliers.
 
+###### Article L234-12
+
+Dans les cas prévus aux articles suivants, des concours particuliers peuvent être apportés aux communes et à certains de
+leurs groupements.
+
+La part des ressources affectée aux concours particuliers, fixée à 3 p. 100 de la dotation globale de fonctionnement des
+communes, peut être portée jusqu'à 4 p. 100 par le comité des finances locales institué par l'article L. 234-20.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°77-90 1977-01-27
+
+	**Cité par**:
+
+	  - Loi n°79-15 du 3 janvier 1979 - art. 15 (Ab)
+	  - Loi n°79-15 du 3 janvier 1979 - art. 16 (Ab)
+	  - Loi n°79-15 du 3 janvier 1979 - art. 17 bis (Ab)
+	  - Loi n°85-1268 du 29 novembre 1985 - art. 34 bis (Ab)
+	  - Loi n°91-429 du 13 mai 1991 - art. 4 (M)
+	  - Loi n°95-115 du 4 février 1995 - art. 73 (Ab)
+	  - Loi n°96-241 du 26 mars 1996 - art. 9 (V)
+	  - CODE DES COMMUNES. - art. L234-14 (M)
+	  - CODE DES COMMUNES. - art. L234-14-1 (Ab)
+	  - CODE DES COMMUNES. - art. L234-19-1 (M)
+	  - CODE DES COMMUNES. - art. L234-2 (M)
+	  - CODE DES COMMUNES. - art. L234-4 (Ab)
+	  - CODE DES COMMUNES. - art. L234-6 (M)
+	  - CODE DES COMMUNES. - art. L262-10 (Ab)
+	  - CODE DES COMMUNES. - art. L262-5 (M)
+	  - CODE DES COMMUNES. - art. L263-13 (M)
+	  - CODE DES COMMUNES. - art. L263-15 (Ab)
+	  - CODE DES COMMUNES. - art. R*234-12 (M)
+	  - CODE DES COMMUNES. - art. R*234-7 (Ab)
+	  - CODE DES COMMUNES. - art. R*234-8 (Ab)
+	  - CODE DES COMMUNES. - art. R*234-9 (Ab)
+	  - CODE DES COMMUNES. - art. R*263-40 (M)
+	  - CODE DES COMMUNES. - art. R262-4 (M)
+	  - CODE GENERAL DES IMPOTS, CGI. - art. 1466 A (M)
+	  - CODE GENERAL DES IMPOTS, CGI. - art. 1648 B (M)
+	  - Code de la construction et de l'habitation. - art. L301-3-1 (M)
+	  - Code de la construction et de l'habitation. - art. L302-5 (M)
+	  - Code de la construction et de l'habitation. - art. L302-5-1 (Ab)
+	  - Code de la construction et de l'habitation. - art. L302-8 (M)
+
+	**Modifié par**:
+
+	  - Loi n°91-429 1991-05-13 art. 4 I jorf 14 mai 1991
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°91-429 1991-05-13 art. 4 II
+
+	**Cite**:
+
+	  - CODE DES COMMUNES. - art. L234-20 (M)
+
+	**Abrogé par**:
+
+	  - Loi n°93-1436 1994-01-04 art. 7 jorf 4 janvier 1994
+
+
+###### Article L234-13
+
+I. Les communes et les groupements de communes touristiques et thermaux reçoivent une dotation supplémentaire destinée à
+tenir compte des charges exceptionnelles qui résultent, pour elles, de l'accueil saisonnier de la population non résidente à
+titre principal.
+
+La liste des communes touristiques ou thermales est arrêtée, chaque année, après avis du comité des finances locales, en
+tenant compte de l'importance de leur capacité d'accueil existante et en voie de création, dans des conditions fixées par
+décret en Conseil d'Etat.
+
+Le montant des crédits affectés à la dotation supplémentaire aux communes touristiques ou thermales est fixé chaque année par
+le comité des finances locales. Il ne peut être inférieur à 30 p. 100 ni supérieur à 40 p. 100 des sommes affectées aux
+concours particuliers.
+
+Ces crédits sont répartis entre les communes touristiques ou thermales dans des conditions fixées par décret en Conseil
+d'Etat en tenant compte :
+
+1° Du surcroît de charges supporté par ces communes par rapport aux communes appartenant au même groupe démographique ;
+
+2° De la capacité d'accueil existante et de la capacité d'accueil en voie de création ;
+
+3° Du produit de la taxe de séjour ou de la taxe de séjour forfaitaire perçu sur le territoire de ces communes ;
+
+4° De l'écart relatif entre le potentiel fiscal moyen par habitant de l'ensemble des communes appartenant au même groupe
+démographique et le potentiel fiscal par habitant de la commune.
+
+" La dotation perçue par chaque commune ou groupement ne peut ni être inférieure à 85 p. 100 [*pourcentage*] de la dotation
+perçue l'année précédente, ni connaître un taux d'augmentation annuelle supérieur au double du taux d'évolution des
+ressources affectées à la dotation supplémentaire au titre de l'exercice considéré, sans toutefois que ce taux d'augmentation
+maximum soit inférieur à 10 p. 100.
+
+" Les communes et groupements qui remplissent pour la première fois les conditions pour bénéficier de la dotation
+supplémentaire perçoivent la première année une attribution égale à la moitié de celle qui résulte de l'application des
+dispositions mentionnées aux quatrième à huitième alinéas ci-dessus.
+
+" La dotation revenant aux communes et aux groupements qui cessent de remplir les conditions pour être inscrits sur la liste
+des communes et groupements bénéficiaires de la dotation supplémentaire est égale la première année à 80 p. 100 de la
+dotation perçue l'année précédente. Pour les années ultérieures ce pourcentage est diminué de vingt points par an.
+
+" Dans le cas où une commune ou un groupement qui avait cessé de remplir les conditions d'attribution de la dotation
+supplémentaire les réunit à nouveau, cette collectivité reçoit une dotation calculée conformément aux dispositions du dixième
+alinéa ci-dessus sans que celle-ci puisse être inférieure à celle résultant des dispositions du onzième alinéa ci-dessus. "
+
+II. Une dotation particulière, destinée à tenir compte des charges spécifiques qu'elles supportent, est également versée aux
+communes de moins de 7500 habitants qui connaissent une importante fréquentation touristique journalière. Leur liste est
+arrêtée chaque année après avis du comité des finances locales qui fixe le montant des sommes à répartir.
+
+" La dotation perçue par chaque commune ne peut être inférieure à 80 p. 100 de la dotation perçue l'année précédente.
+
+" Lorsqu'une commune cesse de remplir les conditions requises pour bénéficier de la dotation particulière, elle perçoit, à
+titre de garantie non renouvelable, une attribution égale à la moitié de celle qu'elle a perçue l'année précédente. "
+
+Le montant de cette dotation compris dans celui de la dotation supplémentaire visée par cet article ne peut être inférieur à
+22 millions de francs pour 1986. Pour les années ultérieures, ce minimum évolue comme le montant de la dotation
+supplémentaire des communes touristiques et thermales.
+
+Les conditions d'attribution de cette dotation sont déterminées par décret en Conseil d'Etat en tenant compte notamment du
+nombre des emplacements de stationnement public aménagés et entretenus et de la présence sur le territoire communal de
+monuments historiques ouverts au public et classés conformément à la loi du 31 décembre 1913 sur les monuments historiques ".
+
+" Lorsqu'une commune remplit les conditions requises pour bénéficier à la fois de la dotation supplémentaire mentionnée au
+paragraphe I ci-dessus et de la dotation particulière prévue au présent paragraphe, seule la plus élevée des deux dotations
+lui est versée. "
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°77-90 1977-01-27
+
+	**Cité par**:
+
+	  - Loi n°83-8 du 7 janvier 1983 - art. 103 (M)
+	  - Décret n°83-621 du 8 juillet 1983 - art. 1 (V)
+	  - Décret n°83-621 du 8 juillet 1983 - art. 3 (V)
+	  - Loi n°85-1268 du 29 novembre 1985 - art. 28 (Ab)
+	  - Loi n°85-1268 du 29 novembre 1985 - art. 29 (M)
+	  - Loi n°85-1352 du 20 décembre 1985 - art. 9 (V)
+	  - Décret n°85-1510 du 31 décembre 1985 - art. 5 (Ab)
+	  - Décret n°86-420 du 12 mars 1986 - art. 1 (M)
+	  - Décret n°86-421 du 12 mars 1986 - art. 4 (Ab)
+	  - Loi n°86-972 du 19 août 1986 - art. 45 (V)
+	  - Décret n°87-228 du 27 mars 1987 - art. 1 (Ab)
+	  - Loi n°88-13 du 5 janvier 1988 - art. 55 (V)
+	  - Loi n°91-429 du 13 mai 1991 - art. 5 (M)
+	  - Loi n°93-1436 du 31 décembre 1993 - art. 32 (V)
+	  - Arrêté du 1 mars 1994 - art. 2 (V)
+	  - Décret n°94-366 du 10 mai 1994 - art. 9 (Ab)
+	  - Décret n°94-655 du 27 juillet 1994 - art. 2 (Ab)
+	  - Loi n°95-115 du 4 février 1995 - art. 73 (Ab)
+	  - CODE DES COMMUNES. - art. L233-29 (M)
+	  - CODE DES COMMUNES. - art. L233-45 (M)
+	  - CODE DES COMMUNES. - art. L234-10 (Ab)
+	  - CODE DES COMMUNES. - art. L234-14 (Ab)
+	  - CODE DES COMMUNES. - art. L234-14-1 (Ab)
+	  - CODE DES COMMUNES. - art. L234-17 (Ab)
+	  - CODE DES COMMUNES. - art. L234-19-1 (M)
+	  - CODE DES COMMUNES. - art. L234-2 (M)
+	  - CODE DES COMMUNES. - art. L234-21 (M)
+	  - CODE DES COMMUNES. - art. L234-3 (Ab)
+	  - CODE DES COMMUNES. - art. L234-7 (Ab)
+	  - CODE DES COMMUNES. - art. L262-5 (M)
+	  - CODE DES COMMUNES. - art. R*234-13 (Ab)
+	  - CODE DES COMMUNES. - art. R*234-14 (Ab)
+	  - CODE DES COMMUNES. - art. R*234-15 (Ab)
+	  - CODE DES COMMUNES. - art. R*234-16 (Ab)
+	  - CODE DES COMMUNES. - art. R*234-19 (M)
+	  - CODE DES COMMUNES. - art. R*234-22 (Ab)
+	  - CODE GENERAL DES IMPOTS, CGI. - art. 1648 B (M)
+	  - Code général des collectivités territoriales - art. L2334-7 (V)
+	  - Code général des collectivités territoriales - art. L2334-7-1 (MMN)
+	  - Code général des collectivités territoriales - art. L5211-24 (V)
+	  - Code général des collectivités territoriales - art. L5211-30 (T)
+	  - Code général des collectivités territoriales - art. R1211-5 (M)
+
+	**Cite**:
+
+	  - Loi n°1913-12-31
+
+	**Liens**:
+
+	  - TXT_SOURCE: Décret n°87-228 du 27 mars 1987
+	  - TXT_SOURCE: Décret n°87-228 du 27 mars 1987 - art. 1 (Ab)
+	  - TXT_SOURCE: Décret n°87-228 du 27 mars 1987 - art. 2 (Ab)
+	  - TXT_SOURCE: Décret n°87-228 du 27 mars 1987 - art. 3 (Ab)
+	  - TXT_SOURCE: Décret n°87-228 du 27 mars 1987 - art. 4 (Ab)
+	  - SPEC_APPLI: Loi n°91-429 1991-05-13 art. 5 II
+
+	**Modifié par**:
+
+	  - Loi n°91-429 1991-05-13 art. 5 I jorf 14 mai 1991
+
+	**Abrogé par**:
+
+	  - Loi n°93-1436 1994-01-04 art. 7 jorf 4 janvier 1994
+
+
+###### Article L234-14-1
+
+- I. - Il est institué une dotation de solidarité urbaine afin de contribuer à l'amélioration des conditions de vie dans les
+communes urbaines confrontées à une insuffisance de leurs ressources et supportant des charges élevées. Bénéficient de cette
+dotation les communes soit de moins de 10 000 habitants dont le nombre de logements sociaux tels que définis au 3° de
+l'article L. 234-10 est supérieur à 1 100, soit celles de 10 000 habitants et plus, et qui remplissent les deux conditions
+suivantes :
+
+" 1° Le rapport entre le nombre de logements sociaux et la population de la commune telle qu'elle résulte des recensements
+généraux ou complémentaires doit être supérieur à 11 p. 100 ; toutefois, cette condition sera considérée comme remplie si le
+rapport entre le nombre de bénéficiaires des prestations prévues aux articles L. 351-1 du code de la construction et de
+l'habitation, L. 542-1 et L. 831-1 du code de la sécurité sociale et la population de la commune calculée dans les mêmes
+conditions est supérieur à 10 p. 100 ;
+
+" 2° Le potentiel fiscal par habitant de la commune, tel que défini à l'article L. 234-6, doit être inférieur au potentiel
+fiscal moyen national par habitant des communes de plus de 10 000 habitants.
+
+" Ce dernier est égal à la somme des potentiels fiscaux des communes de plus de 10 000 habitants rapportée à la population de
+ces mêmes communes prise en compte dans les conditions prévues à l'article L. 234-19-3.
+
+" Pour apprécier le seuil de 10 000 habitants mentionné au premier alinéa ci-dessus, la population de la commune est calculée
+dans les conditions prévues à l'article L. 234-19-3.
+
+" La liste des communes remplissant les conditions ci-dessus énoncées est arrêtée chaque année après avis du comité des
+finances locales.
+
+" II. - Le montant des crédits affectés à la dotation de solidarité urbaine est fixé à 400 millions de francs en 1991, 700
+millions de francs en 1992 et un milliard de francs en 1993. Ces montants ne sont pas pris en compte pour l'application des
+articles L. 234-12 et L. 234-13.
+
+" A compter de 1994, le taux de progression de la dotation est arrêté chaque année par le comité des finances locales. Le
+montant de la dotation ne peut être inférieur à 35 p. 100 des sommes affectées aux concours particuliers.
+
+" III. - Les crédits ouverts au titre de la dotation de solidarité urbaine sont répartis, après avis du comité des finances
+locales, entre les communes éligibles dans des conditions fixées par décret en Conseil d'Etat, en tenant compte de la
+population, du potentiel fiscal, de l'effort fiscal pris en compte dans la limite de 1,20 et du nombre de logements sociaux.
+
+" L'avis du comité des finances locales est donné au vu d'un rapport présenté par le Gouvernement, qui retrace les actions de
+développement social urbain entreprises au cours de l'exercice précédent par les communes bénéficiaires de la dotation de
+solidarité urbaine. "
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°77-90 1977-01-27
+
+	**Cité par**:
+
+	  - Loi n°85-1268 du 29 novembre 1985 - art. 28 (Ab)
+	  - Loi n°85-1268 du 29 novembre 1985 - art. 29 (M)
+	  - Décret n°85-1510 du 31 décembre 1985 - art. 4 (Ab)
+	  - Loi n°91-429 du 13 mai 1991 - art. 8 (Ab)
+	  - Décret n°94-704 du 17 août 1994 - art. 17 (V)
+	  - Décret n°96-463 du 28 mai 1996 - art. 1 (V)
+	  - CODE DES COMMUNES. - art. L123-5 (Ab)
+	  - CODE DES COMMUNES. - art. L234-16-1 (Ab)
+	  - CODE DES COMMUNES. - art. L262-5 (M)
+	  - CODE DES COMMUNES. - art. R*234-33 (M)
+	  - CODE GENERAL DES IMPOTS, CGI. - art. 1648 B (M)
+
+	**Créé par**:
+
+	  - Loi n°91-429 du 13 mai 1991 - art. 7 ()
+
+	**Cite**:
+
+	  - CODE DES COMMUNES. - art. L234-10 (M)
+	  - CODE DES COMMUNES. - art. L234-12 (M)
+	  - CODE DES COMMUNES. - art. L234-13 (M)
+	  - CODE DES COMMUNES. - art. L234-19-3 (M)
+	  - CODE DES COMMUNES. - art. L234-6 (M)
+	  - Code de la sécurité sociale. - art. L542-1 (M)
+	  - code de la sécurité sociale L542-1, L. 831-1
+	  - Code de la construction et de l'habitation. - art. L351-1 (V)
+
+	**Abrogé par**:
+
+	  - Loi n°93-1436 1994-01-04 art. 7 jorf 4 janvier 1994
+
+
 ###### Article L234-15
 
 Les collectivités et établissements qui mettent des fonctionnaires à la disposition des organisations syndicales, dans les
@@ -19536,6 +19852,56 @@ sont nécessaires, est prélevée sur les ressources prévues pour les concours 
 	  - TXT_ASSOCIE: CODE DES COMMUNES. - art. L234-12 (M)
 
 
+##### SOUS-SECTION 4 bis A : Dotation particulière de solidarité urbaine.
+
+###### Article L234-16-1
+
+- I. - Il est institué une dotation particulière de solidarité urbaine dont les attributions sont réparties par le comité des
+finances locales sur proposition du ministre chargé de la ville.
+
+" Peuvent bénéficier d'attributions au titre de la dotation particulière de solidarité urbaine :
+
+" 1° Les communes de 10 000 habitants et plus ne remplissant que l'une des conditions prévues à l'article L. 234-14-1 ;
+l'attribution moyenne par habitant pour chaque commune bénéficiaire ne peut excéder la moitié de l'attribution moyenne par
+habitant versée pour le même exercice à l'ensemble des communes bénéficiaires de la dotation prévue à l'article L. 234-14-1 ;
+
+" 2° Les communes qui ont cessé de remplir les conditions prévues à l'article L. 234-14-1 ; ces communes ne peuvent recevoir
+d'attribution au titre de la dotation particulière de solidarité urbaine que l'année suivant celle au cours de laquelle elles
+ont cessé de remplir les conditions susmentionnées ; l'attribution qu'elles reçoivent ne peut être supérieure à la moitié de
+la dernière attribution qu'elles ont reçue au titre de la dotation de solidarité urbaine mentionnée à l'article L. 234-14-1.
+
+" Lorsqu'une commune remplit les conditions pour bénéficier à la fois d'attributions au titre du 1° et du 2° ci-dessus, seule
+l'attribution la plus élevée lui est versée.
+
+" II. - Le financement de la dotation prévue au I ci-dessus est assuré par un prélèvement sur les ressources dégagées par
+l'application de l'article 34 bis de la loi n° 85-1268 du 29 novembre 1985 relative à la dotation globale de fonctionnement.
+Le montant de ce prélèvement est fixé à 150 millions de francs pour 1992. Pour les années ultérieures, il évolue comme la
+dotation globale de fonctionnement des départements. "
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°77-90 1977-01-27
+
+	**Cite**:
+
+	  - Loi n°85-1268 1985-11-29 art. 34 bis
+	  - CODE DES COMMUNES. - art. L234-14-1 (Ab)
+
+	**Créé par**:
+
+	  - Loi n°91-429 du 13 mai 1991 - art. 19 ()
+
+	**Cité par**:
+
+	  - CODE GENERAL DES IMPOTS, CGI. - art. 1648 B (M)
+
+	**Abrogé par**:
+
+	  - Loi n°93-1436 1994-01-04 art. 7 jorf 4 janvier 1994
+
+
 ##### SOUS-SECTION 5 : Dispositions communes aux diverses sortes d'attributions.
 
 ###### Article L234-19
@@ -19567,6 +19933,100 @@ groupement continue à remplir les conditions requises pour bénéficier de cett
 
 	  - Loi n°93-1436 du 31 décembre 1993 - art. 16 (V)
 	  - CODE DES COMMUNES. - art. R*234-3 (M)
+
+
+###### Article L234-19-1
+
+- I-Les communes et groupements de communes reçoivent au titre de la dotation de base, de la dotation de péréquation et, pour
+les communes, de la dotation de compensation, une attribution qui progresse d'une année sur l'autre de 55 p. 100 au moins du
+taux d'évolution de l'ensemble des ressources affectées à la dotation globale de fonctionnement.
+
+" II. - Toutefois, le taux de progression fixé au I est ramené à 20 p. 100 du taux d'évolution de l'ensemble des ressources
+affectées à la dotation globale pour les communes d'au moins 10 000 habitants remplissant les conditions suivantes :
+
+" 1° L'attribution au titre de la garantie d'évolution minimale, telle que définie au I, représente entre 10 p. 100 et 20 p.
+100 du total des attributions perçues au titre de la dotation de base, de la dotation de péréquation, de la dotation de
+compensation et de la garantie d'évolution minimale ;
+
+" 2° Le potentiel fiscal par habitant de la commune, tel que défini à l'article L. 234-6, divisé par l'effort fiscal, tel que
+défini à l'article L. 234-5 et pris en compte dans la limite de 1,20, est supérieur au potentiel fiscal moyen national par
+habitant ; pour l'application de cette disposition, l'effort fiscal des communes membres d'un groupement de communes à
+fiscalité propre est calculé en ajoutant aux taux de chacune de leurs propres taxes communales ceux appliqués par le
+groupement aux bases respectives desdites taxes ;
+
+" 3° Le rapport entre le nombre de logements sociaux tels que définis au 3° de l'article L. 234-10 et la population de la
+commune telle qu'elle résulte des recensements généraux ou complémentaires est inférieur à 11 p. 100.
+
+" III. - Le taux de progression fixé au I est ramené à 10 p. 100 du taux d'évolution de l'ensemble des ressources affectées à
+la dotation globale pour les communes d'au moins 10 000 habitants remplissant les conditions suivantes :
+
+" 1° L'attribution au titre de la garantie d'évolution minimale, telle que définie au I, représente plus de 20 p. 100 du
+total des attributions perçues au titre de la dotation de base, de la dotation de péréquation, de la dotation de compensation
+et de la garantie d'évolution minimale ;
+
+" 2° Le potentiel fiscal par habitant de la commune, tel que défini à l'article L. 234-6, divisé par l'effort fiscal, tel que
+défini à l'article 234-5 et pris en compte dans la limite de 1,20, est supérieur au potentiel fiscal moyen national par
+habitant ; pour l'application de cette disposition, l'effort fiscal des communes membres d'un groupement de communes à
+fiscalité propre est calculé en ajoutant aux taux de chacune de leurs propres taxes communales ceux appliqués par le
+groupement aux bases respectives desdites taxes ;
+
+" 3° Le rapport entre le nombre de logements sociaux tels que définis au 3° de l'article L. 234-10 et la population de la
+commune telle qu'elle résulte des recensements généraux ou complémentaires est inférieur à 11 p. 100.
+
+" Exceptionnellement, pour 1991, le taux mentionné au premier alinéa du présent paragraphe est déterminé de manière que le
+total des sommes dégagées par son application et de celles dégagées par l'application du II ci-dessus s'élève à 400 millions
+de francs.
+
+" IV. - Les dispositions visées aux II et III ci-dessus ne s'appliquent pas aux communes chefs-lieux d'arrondissement de
+moins de 20 000 habitants. "
+
+- V-Les sommes correspondantes sont prélevées sur la dotation globale de fonctionnement des communes après déduction des
+concours particuliers régis par les articles L. 234-13 et L. 234-14.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°77-90 1977-01-27
+
+	**Cité par**:
+
+	  - Loi n°79-15 du 3 janvier 1979 - art. 17 (Ab)
+	  - Loi n°83-1186 du 29 décembre 1983 - art. 2 (Ab)
+	  - Loi n°83-1186 du 29 décembre 1983 - art. 8 (Ab)
+	  - Loi n°84-1284 du 31 décembre 1984 - art. 1 (V)
+	  - Loi n°85-1268 du 29 novembre 1985 - art. 28 (Ab)
+	  - Loi n°85-1268 du 29 novembre 1985 - art. 29 (M)
+	  - Décret n°85-1511 du 31 décembre 1985 - art. 1 (Ab)
+	  - Loi n°86-972 du 19 août 1986 - art. 45 (V)
+	  - Loi - art. 110 (V)
+	  - Loi n°93-1436 du 31 décembre 1993 - art. 16 (V)
+	  - CODE DES COMMUNES. - art. L234-10 (Ab)
+	  - CODE DES COMMUNES. - art. L234-14 (Ab)
+	  - CODE DES COMMUNES. - art. L234-14-2 (Ab)
+	  - CODE DES COMMUNES. - art. L234-17 (Ab)
+	  - CODE DES COMMUNES. - art. L234-19-2 (Ab)
+	  - CODE DES COMMUNES. - art. L234-2 (M)
+	  - CODE DES COMMUNES. - art. L234-21-1 (Ab)
+	  - CODE DES COMMUNES. - art. L234-4 (Ab)
+	  - CODE DES COMMUNES. - art. L234-6 (M)
+	  - CODE DES COMMUNES. - art. L234-7 (Ab)
+	  - CODE DES COMMUNES. - art. L262-5 (M)
+	  - CODE GENERAL DES IMPOTS, CGI. - art. 1636 B sexies (M)
+	  - Code général des collectivités territoriales - art. L2334-7 (M)
+
+	**Cite**:
+
+	  - CODE DES COMMUNES. - art. L234-5 (M)
+	  - Code des communes L234-6, L234-5, L234-10, 234-5
+
+	**Modifié par**:
+
+	  - Loi n°91-429 1991-05-14 art. 10 JORF 14 mai 1991
+
+	**Abrogé par**:
+
+	  - Loi n°93-1436 1994-01-04 art. 16 jorf 4 janvier 1994
 
 
 ###### Article L234-19-2
@@ -19711,194 +20171,6 @@ présentés ainsi qu'aux commissions des finances de l'assemblée nationale et d
 
 ##### SECTION 4 : Concours particuliers
 
-###### Article L234-12
-
-Dans les cas prévus aux articles suivants, des concours particuliers peuvent être apportés aux communes et à certains de
-leurs groupements.
-
-La part des ressources affectée aux concours particuliers, fixée à 2 p. 100 de la dotation globale de fonctionnement des
-communes, peut être portée jusqu'à 3 p. 100 par le comité des finances locales institué par l'article L. 234-20.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°77-90 1977-01-27
-
-	**Cité par**:
-
-	  - Loi n°79-15 du 3 janvier 1979 - art. 15 (Ab)
-	  - Loi n°79-15 du 3 janvier 1979 - art. 16 (Ab)
-	  - Loi n°79-15 du 3 janvier 1979 - art. 17 bis (Ab)
-	  - Loi n°85-1268 du 29 novembre 1985 - art. 34 bis (Ab)
-	  - Loi n°91-429 du 13 mai 1991 - art. 4 (M)
-	  - Loi n°95-115 du 4 février 1995 - art. 73 (Ab)
-	  - Loi n°96-241 du 26 mars 1996 - art. 9 (V)
-	  - CODE DES COMMUNES. - art. L234-14 (M)
-	  - CODE DES COMMUNES. - art. L234-14-1 (Ab)
-	  - CODE DES COMMUNES. - art. L234-19-1 (M)
-	  - CODE DES COMMUNES. - art. L234-2 (M)
-	  - CODE DES COMMUNES. - art. L234-4 (Ab)
-	  - CODE DES COMMUNES. - art. L234-6 (M)
-	  - CODE DES COMMUNES. - art. L262-10 (Ab)
-	  - CODE DES COMMUNES. - art. L262-5 (M)
-	  - CODE DES COMMUNES. - art. L263-13 (M)
-	  - CODE DES COMMUNES. - art. L263-15 (Ab)
-	  - CODE DES COMMUNES. - art. R*234-12 (M)
-	  - CODE DES COMMUNES. - art. R*234-7 (Ab)
-	  - CODE DES COMMUNES. - art. R*234-8 (Ab)
-	  - CODE DES COMMUNES. - art. R*234-9 (Ab)
-	  - CODE DES COMMUNES. - art. R*263-40 (M)
-	  - CODE DES COMMUNES. - art. R262-4 (M)
-	  - CODE GENERAL DES IMPOTS, CGI. - art. 1466 A (M)
-	  - CODE GENERAL DES IMPOTS, CGI. - art. 1648 B (M)
-	  - Code de la construction et de l'habitation. - art. L301-3-1 (M)
-	  - Code de la construction et de l'habitation. - art. L302-5 (M)
-	  - Code de la construction et de l'habitation. - art. L302-5-1 (Ab)
-	  - Code de la construction et de l'habitation. - art. L302-8 (M)
-
-	**Modifié par**:
-
-	  - Loi n°85-1268 1985-11-29 art. 1, art. 15 JORF 3 décembre 1985
-
-	**Cite**:
-
-	  - CODE DES COMMUNES. - art. L234-20 (M)
-
-
-###### Article L234-13
-
-I. Les communes et les groupements de communes touristiques et thermaux reçoivent une dotation supplémentaire destinée à
-tenir compte des charges exceptionnelles qui résultent, pour elles, de l'accueil saisonnier de la population non résidente à
-titre principal.
-
-La liste des communes touristiques ou thermales est arrêtée, chaque année, après avis du comité des finances locales, en
-tenant compte de l'importance de leur capacité d'accueil existante et en voie de création, dans des conditions fixées par
-décret en Conseil d'Etat.
-
-Le montant des crédits affectés à la dotation supplémentaire aux communes touristiques ou thermales est fixé chaque année par
-le comité des finances locales. Il ne peut être inférieur à 50 p. 100 ni supérieur à 60 p. 100 des sommes affectées aux
-concours particuliers.
-
-Ces crédits sont répartis entre les communes touristiques ou thermales dans des conditions fixées par décret en Conseil
-d'Etat en tenant compte :
-
-1° Du surcroît de charges supporté par ces communes par rapport aux communes appartenant au même groupe démographique ;
-
-2° De la capacité d'accueil existante et de la capacité d'accueil en voie de création ;
-
-3° Du produit de la taxe de séjour ou de la taxe de séjour forfaitaire perçu sur le territoire de ces communes ;
-
-4° De l'écart relatif entre le potentiel fiscal moyen par habitant de l'ensemble des communes appartenant au même groupe
-démographique et le potentiel fiscal par habitant de la commune.
-
-" La dotation perçue par chaque commune ou groupement ne peut ni être inférieure à 85 p. 100 [*pourcentage*] de la dotation
-perçue l'année précédente, ni connaître un taux d'augmentation annuelle supérieur au double du taux d'évolution des
-ressources affectées à la dotation supplémentaire au titre de l'exercice considéré, sans toutefois que ce taux d'augmentation
-maximum soit inférieur à 10 p. 100.
-
-" Les communes et groupements qui remplissent pour la première fois les conditions pour bénéficier de la dotation
-supplémentaire perçoivent la première année une attribution égale à la moitié de celle qui résulte de l'application des
-dispositions mentionnées aux quatrième à huitième alinéas ci-dessus.
-
-" La dotation revenant aux communes et aux groupements qui cessent de remplir les conditions pour être inscrits sur la liste
-des communes et groupements bénéficiaires de la dotation supplémentaire est égale la première année à 80 p. 100 de la
-dotation perçue l'année précédente. Pour les années ultérieures ce pourcentage est diminué de vingt points par an.
-
-" Dans le cas où une commune ou un groupement qui avait cessé de remplir les conditions d'attribution de la dotation
-supplémentaire les réunit à nouveau, cette collectivité reçoit une dotation calculée conformément aux dispositions du dixième
-alinéa ci-dessus sans que celle-ci puisse être inférieure à celle résultant des dispositions du onzième alinéa ci-dessus. "
-
-II. Une dotation particulière, destinée à tenir compte des charges spécifiques qu'elles supportent, est également versée aux
-communes de moins de 7500 habitants qui connaissent une importante fréquentation touristique journalière. Leur liste est
-arrêtée chaque année après avis du comité des finances locales qui fixe le montant des sommes à répartir.
-
-" La dotation perçue par chaque commune ne peut être inférieure à 80 p. 100 de la dotation perçue l'année précédente.
-
-" Lorsqu'une commune cesse de remplir les conditions requises pour bénéficier de la dotation particulière, elle perçoit, à
-titre de garantie non renouvelable, une attribution égale à la moitié de celle qu'elle a perçue l'année précédente. "
-
-Le montant de cette dotation compris dans celui de la dotation supplémentaire visée par cet article ne peut être inférieur à
-22 millions de francs pour 1986. Pour les années ultérieures, ce minimum évolue comme le montant de la dotation
-supplémentaire des communes touristiques et thermales.
-
-Les conditions d'attribution de cette dotation sont déterminées par décret en Conseil d'Etat en tenant compte notamment du
-nombre des emplacements de stationnement public aménagés et entretenus et de la présence sur le territoire communal de
-monuments historiques ouverts au public et classés conformément à la loi du 31 décembre 1913 sur les monuments historiques ".
-
-" Lorsqu'une commune remplit les conditions requises pour bénéficier à la fois de la dotation supplémentaire mentionnée au
-paragraphe I ci-dessus et de la dotation particulière prévue au présent paragraphe, seule la plus élevée des deux dotations
-lui est versée. "
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°77-90 1977-01-27
-
-	**Cité par**:
-
-	  - Loi n°83-8 du 7 janvier 1983 - art. 103 (M)
-	  - Décret n°83-621 du 8 juillet 1983 - art. 1 (V)
-	  - Décret n°83-621 du 8 juillet 1983 - art. 3 (V)
-	  - Loi n°85-1268 du 29 novembre 1985 - art. 28 (Ab)
-	  - Loi n°85-1268 du 29 novembre 1985 - art. 29 (M)
-	  - Loi n°85-1352 du 20 décembre 1985 - art. 9 (V)
-	  - Décret n°85-1510 du 31 décembre 1985 - art. 5 (Ab)
-	  - Décret n°86-420 du 12 mars 1986 - art. 1 (M)
-	  - Décret n°86-421 du 12 mars 1986 - art. 4 (Ab)
-	  - Loi n°86-972 du 19 août 1986 - art. 45 (V)
-	  - Décret n°87-228 du 27 mars 1987 - art. 1 (Ab)
-	  - Loi n°88-13 du 5 janvier 1988 - art. 55 (V)
-	  - Loi n°91-429 du 13 mai 1991 - art. 5 (M)
-	  - Loi n°93-1436 du 31 décembre 1993 - art. 32 (V)
-	  - Arrêté du 1 mars 1994 - art. 2 (V)
-	  - Décret n°94-366 du 10 mai 1994 - art. 9 (Ab)
-	  - Décret n°94-655 du 27 juillet 1994 - art. 2 (Ab)
-	  - Loi n°95-115 du 4 février 1995 - art. 73 (Ab)
-	  - CODE DES COMMUNES. - art. L233-29 (M)
-	  - CODE DES COMMUNES. - art. L233-45 (M)
-	  - CODE DES COMMUNES. - art. L234-10 (Ab)
-	  - CODE DES COMMUNES. - art. L234-14 (Ab)
-	  - CODE DES COMMUNES. - art. L234-14-1 (Ab)
-	  - CODE DES COMMUNES. - art. L234-17 (Ab)
-	  - CODE DES COMMUNES. - art. L234-19-1 (M)
-	  - CODE DES COMMUNES. - art. L234-2 (M)
-	  - CODE DES COMMUNES. - art. L234-21 (M)
-	  - CODE DES COMMUNES. - art. L234-3 (Ab)
-	  - CODE DES COMMUNES. - art. L234-7 (Ab)
-	  - CODE DES COMMUNES. - art. L262-5 (M)
-	  - CODE DES COMMUNES. - art. R*234-13 (Ab)
-	  - CODE DES COMMUNES. - art. R*234-14 (Ab)
-	  - CODE DES COMMUNES. - art. R*234-15 (Ab)
-	  - CODE DES COMMUNES. - art. R*234-16 (Ab)
-	  - CODE DES COMMUNES. - art. R*234-19 (M)
-	  - CODE DES COMMUNES. - art. R*234-22 (Ab)
-	  - CODE GENERAL DES IMPOTS, CGI. - art. 1648 B (M)
-	  - Code général des collectivités territoriales - art. L2334-7 (V)
-	  - Code général des collectivités territoriales - art. L2334-7-1 (MMN)
-	  - Code général des collectivités territoriales - art. L5211-24 (V)
-	  - Code général des collectivités territoriales - art. L5211-30 (T)
-	  - Code général des collectivités territoriales - art. R1211-5 (M)
-
-	**Liens**:
-
-	  - TXT_SOURCE: Décret n°87-228 du 27 mars 1987
-	  - TXT_SOURCE: Décret n°87-228 du 27 mars 1987 - art. 1 (Ab)
-	  - TXT_SOURCE: Décret n°87-228 du 27 mars 1987 - art. 2 (Ab)
-	  - TXT_SOURCE: Décret n°87-228 du 27 mars 1987 - art. 3 (Ab)
-	  - TXT_SOURCE: Décret n°87-228 du 27 mars 1987 - art. 4 (Ab)
-
-	**Modifié par**:
-
-	  - Loi n°88-13 1988-01-05 art. 55 I, II, III, IV, V, VI, VII, VIII JORF 6 janvier 1988
-	  - Loi n°88-13 du 5 janvier 1988 - art. 55 (V) JORF 6 janvier 1988
-
-	**Cite**:
-
-	  - Loi n°1913-12-31
-
-
 ###### Article L234-14
 
 Bénéficient d'une dotation particulière destinée à tenir compte des charges qui résultent de l'utilisation de leurs
@@ -19914,7 +20186,9 @@ du département, lorsque leur population est au moins égale à la moitié de ce
 département ;
 
 4° Les communes chefs-lieux de département. Dans la région d'Ile-de-France, seules ces communes bénéficient de la dotation
-particulière.
+particulière ; il en est de même pour les communes qui, faisant partie d'une communauté urbaine, d'un district ou d'un
+syndicat d'agglomération nouvelle de plus de 150 000 habitants, représentent au moins 25 p. 100 de la population de ce
+groupement de communes.
 
 Le montant des sommes à répartir chaque année, en application du présent article, est fixé chaque année par le comité des
 finances locales.
@@ -19933,10 +20207,6 @@ et de la dotation supplémentaire instituée par l'article L. 234-13, seule la p
 	**Codifié par**:
 
 	  - Décret n°77-90 1977-01-27
-
-	**Modifié par**:
-
-	  - Loi n°88-13 1988-01-06 art. 55 X JORF 6 janvier 1988
 
 	**Cité par**:
 
@@ -19960,6 +20230,10 @@ et de la dotation supplémentaire instituée par l'article L. 234-13, seule la p
 	  - CODE GENERAL DES IMPOTS, CGI. - art. 1648 B (M)
 	  - Code général des collectivités territoriales - art. L2334-21 (M)
 	  - Code général des collectivités territoriales - art. L2334-7 (V)
+
+	**Modifié par**:
+
+	  - Loi n°91-429 du 13 mai 1991 - art. 6 () JORF 14 mai 1991
 
 	**Liens**:
 
@@ -20060,58 +20334,6 @@ communautés urbaines et des districts à fiscalité propre réparties en applic
 	  - CODE DES COMMUNES. - art. L234-21-1 (M)
 
 
-##### SOUS-SECTION 5 : Dispositions communes aux diverses sortes d'attributions.
-
-###### Article L234-19-1
-
-Les communes et groupements de communes reçoivent au titre de la dotation de base, de la dotation de péréquation et, pour les
-communes, de la dotation de compensation, une attribution qui progresse d'une année sur l'autre de 55 p. 100 au moins du taux
-d'évolution de l'ensemble des ressources affectées à la dotation globale de fonctionnement.
-
-Les sommes correspondantes sont prélevées sur la dotation globale de fonctionnement des communes après déduction des concours
-particuliers institués régis par les articles L. 234-13 et L. 234-14.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°77-90 1977-01-27
-
-	**Cité par**:
-
-	  - Loi n°79-15 du 3 janvier 1979 - art. 17 (Ab)
-	  - Loi n°83-1186 du 29 décembre 1983 - art. 2 (Ab)
-	  - Loi n°83-1186 du 29 décembre 1983 - art. 8 (Ab)
-	  - Loi n°84-1284 du 31 décembre 1984 - art. 1 (V)
-	  - Loi n°85-1268 du 29 novembre 1985 - art. 28 (Ab)
-	  - Loi n°85-1268 du 29 novembre 1985 - art. 29 (M)
-	  - Décret n°85-1511 du 31 décembre 1985 - art. 1 (Ab)
-	  - Loi n°86-972 du 19 août 1986 - art. 45 (V)
-	  - Loi - art. 110 (V)
-	  - Loi n°93-1436 du 31 décembre 1993 - art. 16 (V)
-	  - CODE DES COMMUNES. - art. L234-10 (Ab)
-	  - CODE DES COMMUNES. - art. L234-14 (Ab)
-	  - CODE DES COMMUNES. - art. L234-14-2 (Ab)
-	  - CODE DES COMMUNES. - art. L234-17 (Ab)
-	  - CODE DES COMMUNES. - art. L234-19-2 (Ab)
-	  - CODE DES COMMUNES. - art. L234-2 (M)
-	  - CODE DES COMMUNES. - art. L234-21-1 (Ab)
-	  - CODE DES COMMUNES. - art. L234-4 (Ab)
-	  - CODE DES COMMUNES. - art. L234-6 (M)
-	  - CODE DES COMMUNES. - art. L234-7 (Ab)
-	  - CODE DES COMMUNES. - art. L262-5 (M)
-	  - CODE GENERAL DES IMPOTS, CGI. - art. 1636 B sexies (M)
-	  - Code général des collectivités territoriales - art. L2334-7 (M)
-
-	**Modifié par**:
-
-	  - Loi n°89-935 1989-12-29 art. 47 IX JORF 30 décembre 1989   en vigueur le 1er janvier 1990
-
-	**Cite**:
-
-	  - CODE DES COMMUNES. - art. L234-13 (M)
-
-
 ##### SOUS-SECTION 6 : Comité des finances locales.
 
 ###### Article L234-20
@@ -20181,47 +20403,6 @@ vice-présidents.
 	**Modifié par**:
 
 	  - Loi n°85-1268 1985-11-29 art. 1, art. 24 JORF 3 décembre 1985
-
-
-###### Article L234-21-1
-
-Pour 1986, et à défaut de nouvelles dispositions pour 1987 la dotation globale de fonctionnement revenant à chaque commune et
-à chaque groupement comprend, sans préjudice de l'application de l'article L. 234-15, deux fractions :
-
-a) 80 p. 100 des sommes reçues en 1985 au titre de la dotation globale de fonctionnement, à l'exception des dotations
-mentionnées à l'article L. 234-13 et à l'article L. 234-15.
-
-b) Le solde, par application des dispositions des articles L. 234-2 à L. 234-11 et L. 234-14.
-
-Pour les années ultérieures, le pourcentage mentionné au a ci-dessus est diminué de vingt points par an.
-
-Pendant cette période transitoire, la garantie d'évolution prévue par l'article L. 234-19-1 s'applique au montant total des
-deux fractions de la dotation globale mentionnée ci-dessus, après déduction, dans chacune de ces deux fractions, des sommes
-correspondant aux concours particuliers prévus aux articles L. 234-13 et L. 234-14.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°77-90 1977-01-27
-
-	**Modifié par**:
-
-	  - Loi n°88-13 du 5 janvier 1988 - art. 55 (V) JORF 6 janvier 1988) A(Loi 91-429 1991-05-13 art. 11 jorf 14 mai 1991
-
-	**Cité par**:
-
-	  - Loi n°91-429 du 13 mai 1991 - art. 11 (V)
-	  - CODE DES COMMUNES. - art. L234-17 (Ab)
-
-	**Cite**:
-
-	  - CODE DES COMMUNES. - art. L234-19-1 (M)
-	  - Code des communes L234-2 à L234-15
-
-	**Nouveaux textes**:
-
-	  - Code général des collectivités territoriales - art. L1211-4 (M)
 
 
 ##### SECTION 2 : Répartition du produit des amendes relatives à la circulation routière.
@@ -23825,26 +24006,16 @@ urbain peuvent demander qu'il soit procédé, dans cette agglomération,
 
 Les communes des départements d'outre-mer bénéficient de la dotation de base instituée par l'article L. 234-2. Elles
 reçoivent une quote-part de la dotation de péréquation régie par l'article L. 234-4, de la dotation de compensation régie par
-l'article L. 234-10 et des concours particuliers régis par les articles L. 234-13, L. 234-14 et L. 234-15. Elles bénéficient,
-en outre, de l'article L. 234-19-1.
+l'article L. 234-10 et des concours particuliers régis par les articles L. 234-13, L. 234-14, L. 234-14-1 et L. 234-15. Elles
+bénéficient, en outre, des dispositions du I de l'article L. 234-19-1.
 
 Un décret en Conseil d'Etat fixe les règles particulières de répartition entre les communes de chacune de ces quote-parts.
 
 **Liens relatifs à cet article**
 
-	**Liens**:
-
-	  - SPEC_APPLI: *Dispositions applicables aux communes du département de Saint-Pierre-et-Miquelon*
-	  - TXT_ASSOCIE: CODE DES COMMUNES. - art. L262-6 (M)
-	  - SPEC_APPLI: Loi n°79-15 1979-01-04 ART. 13 2° :
-
 	**Codifié par**:
 
 	  - Décret n°77-90 1977-01-27
-
-	**Modifié par**:
-
-	  - Loi n°85-1268 1985-11-29 art. 27 JORF 3 décembre 1985
 
 	**Cité par**:
 
@@ -23857,11 +24028,16 @@ Un décret en Conseil d'Etat fixe les règles particulières de répartition ent
 	  - CODE DES COMMUNES. - art. L262-6 (Ab)
 	  - CODE DES COMMUNES. - art. R262-4 (M)
 
+	**Modifié par**:
+
+	  - Loi n°91-429 du 13 mai 1991 - art. 12 () JORF 14 mai 1991
+
 	**Cite**:
 
 	  - CODE DES COMMUNES. - art. L234-10 (M)
 	  - CODE DES COMMUNES. - art. L234-13 (M)
 	  - CODE DES COMMUNES. - art. L234-14 (M)
+	  - CODE DES COMMUNES. - art. L234-14-1 (Ab)
 	  - CODE DES COMMUNES. - art. L234-15 (M)
 	  - CODE DES COMMUNES. - art. L234-19-1 (M)
 	  - CODE DES COMMUNES. - art. L234-2 (Ab)
@@ -24437,6 +24613,157 @@ syndicat*].
 	**Cite**:
 
 	  - Code des communes L263-6 à L263-9
+
+
+##### SECTION 2 : Fonds de solidarité des communes de la région d'Ile-de-France.
+
+###### Article L263-13
+
+Afin de contribuer à l'amélioration des conditions de vie dans les communes urbaines d'Ile-de-France supportant des charges
+particulières au regard de besoins sociaux de leur population sans disposer de ressources fiscales suffisantes, il est créé,
+à compter du 1er janvier 1991, un fonds de solidarité des communes de la région d'Ile-de-France.
+
+La répartition des crédits du fonds de solidarité des communes de la région d'Ile-de-France est soumise à l'avis d'un comité
+d'élus de la région, rendu sur proposition du ministre chargé de la ville et du ministre chargé des collectivités
+territoriales.
+
+Le comité comprend :
+
+- le président du conseil régional d'Ile-de-France ;
+
+- les présidents des conseils généraux de la région d'Ile-de-France ;
+
+- le maire de Paris ;
+
+- trois présidents de groupements de communes, dont deux au titre des communautés ou syndicats d'agglomération nouvelle, élus
+par le collège des présidents de groupements de communes de la région d'Ile-de-France à la représentation proportionnelle au
+plus fort reste ;
+
+- treize maires élus par le collège des maires de la région d'Ile-de-France à la représentation proportionnelle au plus fort
+reste.
+
+Ce comité élit en son sein son président.
+
+Les membres du comité sont renouvelés au terme du mandat ou de la fonction au titre duquel ils ont été désignés.
+
+Un décret en Conseil d'Etat définit les conditions d'application du présent article.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°77-90 1977-01-27
+
+	**Créé par**:
+
+	  - Loi n°91-429 du 13 mai 1991 - art. 14 () JORF 14 mai 1991
+
+	**Cité par**:
+
+	  - Loi n°91-429 du 13 mai 1991 - art. 15 (Ab)
+	  - Loi n°91-429 du 13 mai 1991 - art. 16 (V)
+	  - CODE DES COMMUNES. - art. L263-15 (Ab)
+	  - CODE DES COMMUNES. - art. L263-16 (Ab)
+	  - CODE DES COMMUNES. - art. L263-19 (Ab)
+	  - CODE DES COMMUNES. - art. R*263-25 (Ab)
+
+	**Abrogé par**:
+
+	  - Loi n°96-142 du 21 février 1996 - art. 12 (V) JORF 24 février 1996
+
+	**Nouveaux textes**:
+
+	  - Code général des collectivités territoriales - art. L2531-12 (V)
+
+
+###### Article L263-15
+
+I. - Bénéficient d'une attribution du fonds destinée à tenir compte de l'insuffisance de leurs ressources fiscales et des
+charges particulièrement élevées qu'elles supportent les communes soit de moins de 10 000 habitants dont le nombre de
+logements sociaux tels que définis au 3° de l'article L. 234-10 est supérieur à 1 100, soit celles de 10 000 habitants et
+plus et qui remplissent les deux conditions suivantes :
+
+1° Le rapport entre le nombre de logements sociaux et la population de la commune telle que définie à l'article L. 234-19-3
+est supérieur à 11 p. 100 ;
+
+2° Le potentiel fiscal par habitant de la commune tel que défini à l'article L. 234-6 est inférieur à 80 p. 100 du potentiel
+fiscal moyen par habitant des communes de la région d'Ile-de-France.
+
+La liste des communes remplissant les conditions ci-dessus est arrêtée chaque année après avis du comité institué à l'article
+L. 263-13.
+
+II. - Les ressources du fonds sont réparties entre les communes dans des conditions fixées par décret en Conseil d'Etat en
+tenant compte de la population, du potentiel fiscal, de l'effort fiscal pris en compte dans la limite de 1,20 et du nombre de
+logements sociaux.
+
+Le comité institué par l'article L. 263-13 arrête la pondération des critères définis à l'alinéa précédent dans des limites
+fixées par décret en Conseil d'Etat.
+
+En 1991, à titre exceptionnel, le comité des finances locales institué par l'article L. 234-20 est substitué au comité ci-
+dessus pour l'application du présent article.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°77-90 1977-01-27
+
+	**Cité par**:
+
+	  - Loi n°79-15 du 3 janvier 1979 - art. 26 (V)
+	  - Loi n°91-429 du 13 mai 1991 - art. 16 (V)
+	  - CODE DES COMMUNES. - art. R*263-40 (M)
+	  - CODE GENERAL DES IMPOTS, CGI. - art. 1648 B (M)
+
+	**Créé par**:
+
+	  - Loi n°91-429 du 13 mai 1991 - art. 14 () JORF 14 mai 1991
+
+	**Cite**:
+
+	  - CODE DES COMMUNES. - art. L234-10 (M)
+	  - CODE DES COMMUNES. - art. L234-19-3 (M)
+	  - CODE DES COMMUNES. - art. L234-20 (M)
+	  - CODE DES COMMUNES. - art. L234-6 (M)
+	  - CODE DES COMMUNES. - art. L263-13 (M)
+
+	**Nouveaux textes**:
+
+	  - Code général des collectivités territoriales - art. L2531-14 (V)
+
+
+###### Article L263-16
+
+Le Gouvernement présente chaque année au comité institué à l'article L. 263-13 un rapport sur l'exécution des dispositions de
+la présente section. Ce rapport retrace les actions de développement social urbain entreprises au cours de l'exercice
+précédent par les communes bénéficiaires d'attributions au titre du fonds de solidarité prévu audit article.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°77-90 1977-01-27
+
+	**Cité par**:
+
+	  - Loi n°79-15 du 3 janvier 1979 - art. 26 (V)
+	  - CODE DES COMMUNES. - art. L263-17 (Ab)
+
+	**Créé par**:
+
+	  - Loi n°91-429 du 13 mai 1991 - art. 14 () JORF 14 mai 1991
+
+	**Abrogé par**:
+
+	  - Loi n°96-142 du 21 février 1996 - art. 12 (V) JORF 24 février 1996
+
+	**Cite**:
+
+	  - CODE DES COMMUNES. - art. L263-13 (M)
+
+	**Nouveaux textes**:
+
+	  - Code général des collectivités territoriales - art. L2531-15 (V)
 
 
 #### CHAPITRE 4 : Dispositions applicables à la ville de Paris
