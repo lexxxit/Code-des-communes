@@ -1,5 +1,5 @@
 # Code des communes  
-Version Consolidée au 1981-06-13
+Version Consolidée au 1981-10-27
 
 # ORGANISATION COMMUNALE
 
@@ -96705,28 +96705,6 @@ Deux représentants du ministre de l'intérieur.
 	**Créé par**:
 
 	  - Décret n°77-241 1977-03-07 JORF et JONC 18 Mars 1977
-
-
-#### ORDURES MENAGERES  ET AUTRES DECHETS .
-
-###### Article R*373-2
-
-L'entreprise de la collecte et de l'évacuation des ordures ménagères dans les villes de plus de dix mille habitants
-[*nombre*] peut être soumise aux dispositions du cahier des charges type annexé au décret n° 59-1081 du 31 août 1959.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Décret n°59-1081 1959-08-31 ANNEXE (CAHIER DES CHARGES TYPE)
-
-	**Codifié par**:
-
-	  - Décret n°77-241 1977-03-07
-
-	**Créé par**:
-
-	  - Décret n°77-241 1977-03-07 JORF et JONC 18 MARS 1977
 
 
 ### PARTICIPATION A DES  ENTREPRISES PRIVEES .
