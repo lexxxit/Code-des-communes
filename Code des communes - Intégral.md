@@ -1,5 +1,5 @@
 # Code des communes  
-Version Consolidée au 1977-07-08
+Version Consolidée au 1977-07-23
 
 # ORGANISATION COMMUNALE
 
@@ -12779,6 +12779,36 @@ Elle ne peut toutefois intervenir si plus d'un tiers des conseils municipaux s'o
 	  - CODE DES COMMUNES. - art. R*168-2 (Ab)
 
 
+###### Article L164-9
+
+Le district est constitué soit à perpétuité, soit pour une durée déterminée par la décision institutive.
+
+Il est dissous soit sur la demande de la moitié au moins des conseils municipaux représentant plus de la moitié de la
+population totale du district, soit lorsque, par délibération spéciale de son conseil municipal, une commune exerce son droit
+de retrait dans les conditions prévues à l'article L. 164-10 [*proportion*].
+
+Il est également dissous de plein droit selon les dispositions de l'article L. 165-18 [*transfert de compétences à une
+communauté urbaine*].
+
+L'arrêté de dissolution détermine, sous la réserve des droits des tiers, les conditions dans lesquelles le district est
+liquidé.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°77-90 1977-01-27
+
+	**Cité par**:
+
+	  - Loi n°84-53 du 26 janvier 1984 - art. 121 (M)
+
+	**Cite**:
+
+	  - CODE DES COMMUNES. - art. L164-10 (Ab)
+	  - CODE DES COMMUNES. - art. L165-18 (M)
+
+
 ###### Article L164-10
 
 A l'expiration d'un délai de dix années à compter de la date de la décision institutive, et dans un délai de six mois après
@@ -13554,6 +13584,45 @@ titre II du présent livre qui ne sont pas contraires à celles du présent chap
 
 
 ##### Durée de la communauté urbaine
+
+###### Article L165-38
+
+La communauté urbaine est créée sans limitation de durée.
+
+Elle peut être dissoute sur la demande des conseils municipaux des communes qu'elle rassemble, statuant à la majorité fixée à
+l'article L. 165-4. La dissolution est prononcée par décret en conseil des ministres.
+
+Elle est dissoute lorsque, par délibération spéciale de son conseil municipal, une commune exerce son droit de retrait dans
+les conditions prévues à l'article L. 165-39.
+
+Un décret en Conseil d'Etat [**]conditions de forme[**] détermine, sous réserve du droit des tiers, les conditions dans
+lesquelles la communauté est liquidée ; il fixe notamment les conditions dans lesquelles s'opère le transfert des biens,
+droits et obligations, après l'avis d'une commission composée comme il est dit à l'article L. 165-21.
+
+Les personnels de la communauté sont répartis entre les communes membres ou leurs éventuels organismes de coopération, par
+une commission présidée par le président de la commission nationale paritaire du personnel communal, sans qu'il puisse être
+procédé à un dégagement des cadres et en tenant compte de leurs droits acquis. Les communes ou leurs éventuels organismes de
+coopération attributaires supportent les charges financières correspondantes.
+
+Un décret en Conseil d'Etat fixe les conditions et les modalités de cette répartition ainsi que la composition de cette
+commission.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°77-90 1977-01-27
+
+	**Cité par**:
+
+	  - Loi n°84-53 du 26 janvier 1984 - art. 121 (M)
+
+	**Cite**:
+
+	  - CODE DES COMMUNES. - art. L165-21 (Ab)
+	  - CODE DES COMMUNES. - art. L165-39 (Ab)
+	  - CODE DES COMMUNES. - art. L165-4 (M)
+
 
 ###### Article L165-39
 
