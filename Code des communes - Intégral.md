@@ -1,5 +1,5 @@
 # Code des communes  
-Version Consolidée au 1986-02-01
+Version Consolidée au 1986-02-28
 
 # Statuts types d'une caisse communale de secours et de retraite de sapeurs-pompiers
 
@@ -71573,6 +71573,38 @@ commodo et incommodo.
 	  - Ordonnance  1843-12-06 ART. 2
 
 
+###### Article R*361-3
+
+Ont le caractère de communes urbaines,   pour l'application du deuxième alinéa de l'article L. 361-1, les communes dont la
+population agglomérée compte plus de 2.000 habitants et celles qui appartiennent, en totalité ou en partie, à une
+agglomération de plus de 2.000 habitants. 
+
+L'autorisation prévue par le même article est accordée après enquête de commodo et incommodo et avis du conseil départemental
+d'hygiène.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°23 prairial an XII remplacé ART. 2 (partie)
+
+	**Codifié par**:
+
+	  - Décret n°77-241 1977-03-07
+
+	**Modifié par**:
+
+	  - Décret n°86-272 1986-02-24 art. 1 JORF 28 février 1986
+
+	**Abrogé par**:
+
+	  - Décret n°2000-318 du 7 avril 2000 - art. 4 (V)
+
+	**Cite**:
+
+	  - Code des communes L361-1 AL. 2
+
+
 ###### Article R*361-4
 
 Les terrains les plus élevés et exposés au nord sont choisis de préférence[*translation des cimetières*].
@@ -82191,34 +82223,6 @@ compétence*].
 #### Sépultures
 
 ##### Lieux de sépultures ; inhumations et exhumations
-
-##### Cimetières .
-
-###### Article R*361-3
-
-Dans les deux cas prévus au deuxième alinéa de l'article L. 361-1, les décrets sont pris après avis du conseil supérieur
-d'hygiène publique de France. 
-
-Le décret prévu au 1° de cet alinéa est pris sur le rapport du ministre de l'intérieur.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°23 prairial an XII remplacé ART. 2 (partie)
-
-	**Codifié par**:
-
-	  - Décret n°77-241 1977-03-07
-
-	**Créé par**:
-
-	  - Décret n°77-241 1977-03-07 JORF et JONC 18 mars 1977
-
-	**Cite**:
-
-	  - Code des communes L361-1 AL. 2
-
 
 ##### Inhumations .
 
