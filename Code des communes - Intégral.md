@@ -1,5 +1,5 @@
 # Code des communes  
-Version Consolidée au 1984-02-07
+Version Consolidée au 1984-04-04
 
 # Statuts types d'une caisse communale de secours et de retraite de sapeurs-pompiers
 
@@ -43986,6 +43986,83 @@ du périmètre de l'agglomération dans laquelle la communauté urbaine exerce s
 	  - Décret n°2000-318 du 7 avril 2000 - art. 4 (V)
 
 
+##### SECTION 5 : Le conseil de communauté
+
+##### SOUS-SECTION 2 : Composition du conseil de communauté et désignation de ses membres.
+
+###### Article R*165-32
+
+Lorsqu'il y a lieu de procéder à une nouvelle répartition des sièges au conseil de communauté urbaine dans les cas prévus à
+l'article L. 165-31, le délai de trois mois prévu au 3e alinéa de l'article L. 165-26 commence à compter de :
+
+1. La date d'entrée en vigueur de l'arrêté du commissaire de la république modifiant le périmètre de la communauté urbaine en
+application de l'article L. 165-6 ;
+
+2. La date d'entrée en vigueur de l'acte prononçant la fusion ou la création de la ou des nouvelles communes.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - SPEC_APPLI: *Dispositions non applicables aux communes des départements de la Guadeloupe, de la Guyane, de la Martinique, de la Réunion et de Saint-Pierre-et-Miquelon*
+	  - TXT_ASSOCIE: Code des communes R165-35
+	  - SPEC_APPLI: Code des communes R182-1, R182-3 :
+
+	**Anciens textes**:
+
+	  - Décret n°71-82 1971-01-29 art. 1
+
+	**Codifié par**:
+
+	  - Décret n°77-91 1977-01-27
+
+	**Abrogé par**:
+
+	  - Décret n°2000-318 du 7 avril 2000 - art. 4 (V)
+
+	**Cite**:
+
+	  - CODE DES COMMUNES. - art. L165-31 (M)
+	  - CODE DES COMMUNES. - art. L165-6 (M)
+
+	**Nouveaux textes**:
+
+	  - Code général des collectivités territoriales L
+
+
+###### Article R*165-33
+
+Lorsque l'arrêté ou l'acte visés à l'article R. 165-32 interviennent dans un délai d'un an avant le renouvellement général
+des conseils municipaux, il n'est pas procédé à une nouvelle répartition des sièges avant ce renouvellement.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - SPEC_APPLI: *Dispositions non applicables aux communes des départements de la Guadeloupe, de la Guyane, de la Martinique, de la Réunion et de Saint-Pierre-et-Miquelon*
+	  - SPEC_APPLI: Code des communes R182-1, R182-3 :
+
+	**Anciens textes**:
+
+	  - Décret n°71-82 1971-01-29 art. 1 al. 1
+
+	**Codifié par**:
+
+	  - Décret n°77-91 1977-01-27
+
+	**Abrogé par**:
+
+	  - Décret n°2000-318 du 7 avril 2000 - art. 4 (V)
+
+	**Cite**:
+
+	  - CODE DES COMMUNES. - art. L165-32 (M)
+
+	**Nouveaux textes**:
+
+	  - Code général des collectivités territoriales L
+
+
 #### CHAPITRE  6 : Syndicats mixtes .
 
 ###### Article R*166-1
@@ -46278,177 +46355,6 @@ déterminées par un arrêté du commissaire de la République.
 	**Cite**:
 
 	  - Code des communes R112-25 A R112-27
-
-
-### INTERETS COMMUNS A PLUSIEURS COMMUNES
-
-#### Communautés urbaines
-
-##### Le conseil de communauté
-
-##### Composition du conseil de communauté et désignation de ses membres .
-
-###### Article R*165-32
-
-Une nouvelle répartition des sièges au conseil de communauté peut intervenir dans les cas suivants :
-
-1° Lorsque le périmètre de l'agglomération dans laquelle la communauté urbaine exerce ses compétences est modifié par
-adjonction de communes nouvelles, en application de l'article L. 165-6 ou par inclusion des communes intéressées par la
-création d'une agglomération nouvelle, en application de l'article L. 171-5 ; 
-
-2° Lorsque les variations de population, constatées par le dernier recensement général, ou l'adjonction de communes nouvelles
-ont pour effet de modifier le nombre des membres du conseil de communauté en application de l'article L. 165-25 ; 
-
-3° Lorsque, à la suite du dernier recensement général de la population, les modalités de la représentation d'une ou plusieurs
-communes au conseil de communauté sont susceptibles d'être modifiées ; 
-
-4° Lorsque, à la suite de fusions ou de modifications aux limites territoriales de communes membres de la communauté urbaine,
-une ou plusieurs communes qui n'étaient pas représentées directement au conseil de communauté sont susceptibles de bénéficier
-d'une telle représentation en vertu de l'article L. 165-28 ; 
-
-5° Lorsque le territoire d'un ensemble urbain est distrait de celui de la communauté urbaine par application du dernier
-alinéa de l'article L. 171-9.
-
-**Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - SPEC_APPLI: *Dispositions non applicables aux communes des départements de la Guadeloupe, de la Guyane, de la Martinique, de la Réunion et de Saint-Pierre-et-Miquelon*
-	  - TXT_ASSOCIE: Code des communes R165-35
-	  - SPEC_APPLI: Code des communes R182-1, R182-3 :
-
-	**Anciens textes**:
-
-	  - Décret n°71-82 1971-01-29 art. 1
-
-	**Codifié par**:
-
-	  - Décret n°77-91 1977-01-27
-
-	**Créé par**:
-
-	  - Décret n°77-91 1977-01-27 JORF et JONC 3 février 1977 date d'entrée en vigueur élection des maires
-
-	**Cite**:
-
-	  - CODE DES COMMUNES. - art. L165-25 (M)
-	  - CODE DES COMMUNES. - art. L165-28 (M)
-	  - CODE DES COMMUNES. - art. L165-35 (M)
-	  - CODE DES COMMUNES. - art. L165-6 (M)
-	  - CODE DES COMMUNES. - art. L171-5 (Ab)
-	  - CODE DES COMMUNES. - art. L171-9 (Ab)
-
-
-###### Article R*165-33
-
-La nouvelle répartition des sièges est faite suivant les modalités prévues aux articles L. 165-26 à L. 165-30.
-
-**Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - SPEC_APPLI: *Dispositions non applicables aux communes des départements de la Guadeloupe, de la Guyane, de la Martinique, de la Réunion et de Saint-Pierre-et-Miquelon*
-	  - SPEC_APPLI: Code des communes R182-1, R182-3 :
-
-	**Anciens textes**:
-
-	  - Décret n°71-82 1971-01-29 art. 1 al. 1
-
-	**Codifié par**:
-
-	  - Décret n°77-91 1977-01-27
-
-	**Créé par**:
-
-	  - Décret n°77-91 1977-01-27 JORF et JONC 3 février 1977 date d'entrée en vigueur élection des maires
-
-	**Cite**:
-
-	  - Code des communes L165-26 à L165-30
-
-
-###### Article R*165-34
-
-Le délai de trois mois [*pour accord entre les conseils municipaux intéressés sur la répartition des sièges au conseil de
-communauté*] prévu au deuxième alinéa de l'article L. 165-26 commence à courir :
-
-1° A dater de la publication de l'arrêté préfectoral modifiant le périmètre ou du décret prévu à l'article L. 171-4 créant
-l'agglomération nouvelle et modifiant le périmètre de l'agglomération de la communauté urbaine dans le cas prévu au 1° de
-l'article R. 165-32 [*cas dans lesquels peut intervenir une nouvelle répartition des sièges*] ; 
-
-2° A dater, soit de l'entrée en vigueur du décret relatif aux résultats du recensement, soit de l'arrêté préfectoral
-modifiant le périmètre dans le cas prévu au 2° de l'article R. 165-32 ; 
-
-3° A dater du premier jour du mois qui précède celui au cours duquel a lieu le renouvellement général des conseils municipaux
-dans le cas prévu au 3° de l'article R. 165-32 ; 
-
-4° A dater de l'acte prononçant la fusion ou la modification des limites territoriales dans le cas prévu au 4° de l'article
-R. 165-32 ; 
-
-5° A dater de la publication du décret constituant l'ensemble urbain prévu à l'article L. 171-9, dans le cas prévu au 5° de
-l'article R. 165-32.
-
-**Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - SPEC_APPLI: *Dispositions non applicables aux communes des départements de la Guadeloupe, de la Guyane, de la Martinique, de la Réunion et de Saint-Pierre-et-Miquelon*
-	  - SPEC_APPLI: Code des communes R182-1, R182-3 :
-
-	**Anciens textes**:
-
-	  - Décret n°71-82 1971-01-29 art. 2 al. 2
-
-	**Codifié par**:
-
-	  - Décret n°77-91 1977-01-27
-
-	**Créé par**:
-
-	  - Décret n°77-91 1977-01-27 JORF et JONC 3 février 1977 date d'entrée en vigueur élection des maires
-
-	**Abrogé par**:
-
-	  - Décret n°84-239 1984-03-29 art. 1 JORF 4 AVRIL 1984
-
-	**Cite**:
-
-	  - CODE DES COMMUNES. - art. L165-26 (M)
-	  - Code des communes R165-32
-
-
-###### Article R*165-35
-
-La nouvelle répartition des sièges est de droit dans les cas prévus au 1°, 2° et 5° de l'article R. 165-32. 
-
-Il y est procédé à l'initiative des communes intéressées dans les cas prévus aux 3° et 4° dudit article.
-
-**Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - SPEC_APPLI: *Dispositions non applicables aux communes des départements de la Guadeloupe, de la Guyane, de la Martinique, de la Réunion et de Saint-Pierre-et-Miquelon*
-	  - SPEC_APPLI: Code des communes R182-1, R182-3 :
-
-	**Anciens textes**:
-
-	  - Décret n°71-82 1971-01-29 art. 3
-
-	**Codifié par**:
-
-	  - Décret n°77-91 1977-01-27
-
-	**Créé par**:
-
-	  - Décret n°77-91 1977-01-27 JORF et JONC 3 février 1977 date d'entrée en vigueur élection des maires
-
-	**Modifié par**:
-
-	  - Décret n°84-239 1984-03-29 art. 1 JORF 4 AVRIL 1984
-
-	**Cite**:
-
-	  - Code des communes R165-32
 
 
 ## LIVRE 2 : Finances communales
