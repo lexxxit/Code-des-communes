@@ -1,5 +1,5 @@
 # Code des communes  
-Version Consolidée au 1986-01-16
+Version Consolidée au 1986-02-01
 
 # Statuts types d'une caisse communale de secours et de retraite de sapeurs-pompiers
 
@@ -46478,157 +46478,145 @@ sont signalées aux ministres intéressés par la Cour des comptes ;
 
 ##### SECTION 1 : Taxe sur certaines fournitures d'électricité
 
-##### SOUS-SECTION 2 : Dispositions applicables à l'électricité livrée en basse tension par des distributeurs.
+###### Article R233-1
 
-###### Article R*233-6
-
-Le taux de la taxe [*communale et intercommunale*]
-
-mentionnée à l'article précédent, fixé par la commune [**]compétence[**] ou le syndicat de communes pour l'électricité dans
-la limite prévue à l'article L. 233-3, est exprimé en pourcentage de l'assiette définie à l'article précédent. 
-
-Ce taux est unique, quelle que soit l'utilisation faite par l'usager de l'énergie électrique taxée.
+Le taux de La taxe est unique sur le territoire d'une même commune
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Décret n°70-957 1970-10-21 art. 2
-
-	**Codifié par**:
-
-	  - Décret n°77-91 1977-01-27
-
-	**Créé par**:
-
-	  - Décret n°77-91 1977-01-27 JORF et JONC 3 février 1977 date d'entrée en vigueur élection des maires
-
-	**Abrogé par**:
-
-	  - Décret n°86-143 du 27 janvier 1986 - art. 1 (V) JORF 1er février 1986
+	  - Décret  1926-12-11 art. 15 al. 1
 
 	**Cite**:
 
-	  - CODE DES COMMUNES. - art. L233-3 (M)
-	  - CODE DES COMMUNES. - art. R233-5 (M)
-
-
-###### Article R*233-7
-
-Lorsqu'à la demande de la commune ou du syndicat de communes ayant institué la taxe, le distributeur perçoit celle-ci en même
-temps que les sommes qui lui sont dues au titre de la fourniture d'énergie électrique, le montant de la taxe apparaît
-distinctement sur les factures [*conditions de forme*].
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°70-957 1970-10-21 art. 3
+	  - Décret n°55-465 1955-04-30 art. 1
+	  - Loi   1942-12-31 art. 29
 
 	**Codifié par**:
 
 	  - Décret n°77-91 1977-01-27
 
-	**Créé par**:
+	**Liens**:
 
-	  - Décret n°77-91 1977-01-27 JORF et JONC 3 février 1977 date d'entrée en vigueur élection des maires
+	  - SPEC_APPLI: Décret n°86-143 du 27 janvier 1986 - art. 2 (V)
 
 	**Abrogé par**:
 
-	  - Décret n°86-143 du 27 janvier 1986 - art. 1 (V) JORF 1er février 1986
+	  - Décret n°2000-318 du 7 avril 2000 - art. 4 (V)
 
 
-###### Article R*233-8
+###### Article R233-2
 
-L'autorisation de majorer, par application des dispositions de l'article L. 233-7, le taux limite [*de la taxation*] fixé à
-l'article L. 233-5 est donnée par arrêté préfectoral [*conditions de forme, compétence*].
+La taxe est recouvrée par le distributeur pour le compte de la commune ou du groupement de communes dans les conditions
+prévues aux articles ci-après, sauf lorsqu'elle est due en application des conventions maintenues en vigueur conformément aux
+dispositions de l'article l. 233-4 du présent code.
+
+Lorsqu'il existait au 1er janvier 1985 une convention entre la commune ou le groupement de communes et le distributeur
+prévoyant le recouvrement par ce dernier de la taxe due par les usagers livrés en haute ou moyenne tension, le recouvrement
+de la taxe due en application de l'article l. 233-4 du présent code pourra continuer à être assuré par le distributeur en
+application d'une nouvelle convention.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Décret n°70-957 1970-10-21 art. 4
+	  - Décret  1926-12-11 art. 15 al. 2 modifié
 
 	**Codifié par**:
 
 	  - Décret n°77-91 1977-01-27
 
-	**Créé par**:
+	**Liens**:
 
-	  - Décret n°77-91 1977-01-27 JORF et JONC 3 février 1977 date d'entrée en vigueur élection des maires
+	  - SPEC_APPLI: Décret n°86-143 du 27 janvier 1986 - art. 2 (V)
 
 	**Abrogé par**:
 
-	  - Décret n°86-143 du 27 janvier 1986 - art. 1 (V) JORF 1er février 1986
+	  - Décret n°2000-318 du 7 avril 2000 - art. 4 (V)
 
 	**Cite**:
 
-	  - Code des communes L233-5 et L233-7
+	  - CODE DES COMMUNES. - art. L233-4 (M)
 
 
-###### Article R*233-9
+###### Article R233-3
 
-Au cas où sont perçues, sur le territoire d'une même commune, une taxe communale instituée par la commune et une surtaxe ou
-majoration de tarifs instituée par un groupement de collectivités territoriales concernant ladite commune, cette surtaxe ou
-majoration de tarifs est, pour l'application des articles L. 233-6 et L. 233-7, incorporée dans la taxe communale,
-
-à charge pour la commune de prendre toutes dispositions nécessaires pour que soit respecté, tant à l'égard de la commune
-elle-même que du groupement de collectivités territoriales dont elle fait partie, le principe de l'équivalence de ressources
-édicté à l'article L. 233-7. 
-
-A défaut d'accord entre la commune et le groupement de collectivités territoriales comprenant la commune, le préfet
-[*compétence*] statue.
+Le distributeur perçoit la taxe en même temps que les sommes qui lui sont dues au titre de la fourniture d'énergie
+électrique. le montant des taxes apparaît distinctement sur les factures.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Décret n°70-957 1970-10-21 art. 5
+	  - Décret n°1926-12-11 art. 15 al. 3
 
 	**Codifié par**:
 
 	  - Décret n°77-91 1977-01-27
 
-	**Créé par**:
+	**Liens**:
 
-	  - Décret n°77-91 1977-01-27 JORF et JONC 3 février 1977 date d'entrée en vigueur élection des maires
+	  - SPEC_APPLI: Décret n°86-143 du 27 janvier 1986 - art. 2 (V)
 
 	**Abrogé par**:
 
-	  - Décret n°86-143 du 27 janvier 1986 - art. 1 (V) JORF 1er février 1986
-
-	**Cite**:
-
-	  - Code des communes L233-6 et L233-7
+	  - Décret n°2000-318 du 7 avril 2000 - art. 4 (V)
 
 
-###### Article R*233-10
+###### Article R233-4
 
-L'autorisation de majoration temporaire du taux limite prévue à l'article L. 233-8 est donnée par arrêté préfectoral [*forme,
-compétence*] pour une durée fixée dans l'arrêté et déterminée en fonction des charges d'électrification auxquelles doit
-correspondre la majoration.
+Le distributeur reverse le montant de la taxe dans la proportion des sommes effectivement payées par les abonnés.
+
+A défaut de convention entre la commune ou le groupement de communes et le distributeur, le délai de reversement est de deux
+mois suivant les perceptions réalisées au cours de chaque trimestre civil et le taux du prélèvement pour frais de perception
+au profit du ditributeur est égal à 2 p. 100 du produit de la taxe reversée.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Décret n°70-957 1970-10-21 art. 6
+	  - Décret  1926-12-11 complété art. 15 al. 4, 5 et 6
 
 	**Codifié par**:
 
 	  - Décret n°77-91 1977-01-27
 
-	**Créé par**:
+	**Liens**:
 
-	  - Décret n°77-91 1977-01-27 JORF et JONC 3 février 1977 date d'entrée en vigueur élection des maires
+	  - SPEC_APPLI: Décret n°86-143 du 27 janvier 1986 - art. 2 (V)
 
 	**Abrogé par**:
 
-	  - Décret n°86-143 du 27 janvier 1986 - art. 1 (V) JORF 1er février 1986
+	  - Décret n°2000-318 du 7 avril 2000 - art. 4 (V)
 
-	**Cite**:
 
-	  - CODE DES COMMUNES. - art. L233-8 (M)
+###### Article R233-5
+
+Lorsque les communes ou groupements de communes recouvrent eux-même la taxe, celle-ci est recouvrée comme en matière de
+contributions indirectes.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°70-957 1970-10-21 art. 1
+
+	**Codifié par**:
+
+	  - Décret n°77-91 1977-01-27
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°86-143 du 27 janvier 1986 - art. 2 (V)
+
+	**Abrogé par**:
+
+	  - Décret n°2000-318 du 7 avril 2000 - art. 4 (V)
+
+	**Cité par**:
+
+	  - CODE DES COMMUNES. - art. R*233-6 (Ab)
 
 
 ##### SECTION 2 : Taxes d'usage des abattoirs publics et de protection sanitaire et d'organisation du marché des viandes
@@ -57464,145 +57452,6 @@ conditions de forme*].
 ### RECETTES
 
 #### Taxes, redevances ou versements autres que ceux prévus par le code général des Impôts
-
-##### Taxe sur l'électricité
-
-##### Dispositions générales .
-
-###### Article R233-1
-
-La taxe est due par les usagers pour les quantités d'électricité consommées sur le territoire de la commune pour le
-chauffage, l'éclairage et les usages domestiques à l'exclusion de celles consommées pour tous autres usages [*assiette -
-définition*].
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°1926-12-11 art. 15 al. 1
-
-	**Cite**:
-
-	  - Décret n°55-465 1955-04-30 art. 1
-	  - Loi n°1942-12-31 art. 29
-
-	**Codifié par**:
-
-	  - Décret n°77-91 1977-01-27
-
-	**Créé par**:
-
-	  - Décret n°77-91 1977-01-27 JORF et JONC 3 février 1977 date d'entrée en vigueur élection des maires
-
-
-###### Article R233-2
-
-Le taux de la taxe ne peut excéder 8 p. 100 [*pourcentage - maximum*] de la somme représentant, sur la facture, le prix de la
-fourniture d'électricité [*assiette - définition*]. 
-
-Lorsque le consommateur est son propre fournisseur, une convention conclue entre la commune et lui règle à forfait le montant
-de la taxe ; à défaut d'entente, l'intéressé est taxé d'office par le maire, sauf recours au préfet. 
-
-Le montant des taxes acquittées [*paiement*] dans la commune par les autres usagers sert de guide pour l'établissement du
-forfait conventionnel et pour la fixation de la taxation d'office.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°1926-12-11 art. 15 al. 2 modifié
-
-	**Codifié par**:
-
-	  - Décret n°77-91 1977-01-27
-
-	**Créé par**:
-
-	  - Décret n°77-91 1977-01-27 JORF et JONC 3 février 1977 date d'entrée en vigueur élection des maires
-
-
-###### Article R233-3
-
-Sont exemptées de la taxe les consommations :
-
-1° Pour l'éclairage du domaine public, national, départemental et communal ; 
-
-2° Pour l'éclairage des véhicules de toutes espèces.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°1926-12-11 art. 15 al. 3
-
-	**Codifié par**:
-
-	  - Décret n°77-91 1977-01-27
-
-	**Créé par**:
-
-	  - Décret n°77-91 1977-01-27 JORF et JONC 3 février 1977 date d'entrée en vigueur élection des maires
-
-
-###### Article R233-4
-
-La taxe est recouvrée comme en matière de contributions indirectes. 
-
-Les communes arrêtent, d'accord avec les distributeurs,
-
-les conditions dans lesquelles ces derniers peuvent percevoir le montant de la taxe, en même temps que les sommes qui leur
-sont dues. 
-
-Toutefois, les sommes dues aux distributeurs au titre des frais de perception ne sauraient, en aucun cas, dépasser les
-limites fixées par arrêté des ministres de l'intérieur et de l'économie et des finances [*compétence*] pris après avis
-[*consultation*] du ministre chargé de l'électricité [**]conditions de forme[**].
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°1926-12-11 complété art. 15 al. 4, 5 et 6
-
-	**Codifié par**:
-
-	  - Décret n°77-91 1977-01-27
-
-	**Créé par**:
-
-	  - Décret n°77-91 1977-01-27 JORF et JONC 3 février 1977 date d'entrée en vigueur élection des maires
-
-
-##### Dispositions applicables à l'électricité livrée en basse tension par des distributeurs .
-
-###### Article R233-5
-
-L'assiette de la taxe communale et intercommunale prévue aux articles L. 233-1 et L. 233-2 est constituée [**]définition[**],
-pour l'électricité livrée en basse tension par les distributeurs, par le montant, calculé hors taxe sur la valeur ajoutée, de
-la facture établie par le distributeur à l'exception de toute prime fixe ou redevance d'abonnement ainsi que des frais divers
-éventuellement facturés.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°70-957 1970-10-21 art. 1
-
-	**Codifié par**:
-
-	  - Décret n°77-91 1977-01-27
-
-	**Créé par**:
-
-	  - Décret n°77-91 1977-01-27 JORF et JONC 3 février 1977 date d'entrée en vigueur élection des maires
-
-	**Cité par**:
-
-	  - CODE DES COMMUNES. - art. R*233-6 (Ab)
-
-	**Cite**:
-
-	  - Code des communes L233-1 et L233-2
-
 
 ##### Taxe communale sur les emplacements publicitaires fixes
 
