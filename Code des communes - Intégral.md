@@ -1,5 +1,5 @@
 # Code des communes  
-Version Consolidée au 1993-09-16
+Version Consolidée au 1993-09-28
 
 # Partie législative
 
@@ -40215,6 +40215,32 @@ Les autorisations accordées en application du présent article sont révocables
 	  - Code général des collectivités territoriales - art. R2121-9 (V)
 
 
+###### Article R*121-10-1
+
+Dans les communes de 3 500 habitants et plus, le dispositif des délibérations du conseil municipal et les arrêtés du maire, à
+caractère réglementaire, sont publiés dans un recueil des actes administratifs ayant une périodicité au moins trimestrielle.
+
+Ce recueil est mis à la disposition du public à la mairie et, le cas échéant, dans les mairies annexes, à Paris, Marseille et
+Lyon dans les mairies d'arrondissement. Le public est informé, dans les vingt-quatre heures, que le recueil est mis à sa
+disposition par affichage aux lieux habituels de l'affichage officiel.
+
+La diffusion du recueil peut être effectuée à titre gratuit ou par vente au numéro ou par abonnement.
+
+**Liens relatifs à cet article**
+
+	**Nouveaux textes**:
+
+	  - Code général des collectivités territoriales L
+
+	**Codifié par**:
+
+	  - Décret n°77-91 1977-01-27
+
+	**Créé par**:
+
+	  - Décret n°93-1121 1993-09-20 art. 1 jorf 28 septembre 1993) A(Décret 2000-318 2000-04-07 art. 4 jorf 9 avril 2000
+
+
 ##### SECTION 3 : Dispositions applicables aux membres des conseils municipaux.
 
 ###### Article R*121-11
@@ -47500,6 +47526,34 @@ Cet article demeure en vigueur jusqu'au 1er janvier 2002 en tant qu'il concerne 
 
 	  - CODE DES COMMUNES. - art. L163-17 (M)
 	  - CODE DES COMMUNES. - art. L164-7 (M)
+
+
+#### CHAPITRE 9 : Dispositions communes.
+
+###### Article R*169-1
+
+Dans les établissements publics de coopération comprenant au moins une commune de 3 500 habitants et plus, le recueil des
+actes administratifs créé, le cas échéant, en application de l'article L. 169-1, a une périodicité au moins semestrielle.
+
+Ce recueil est mis à la disposition du public au siège de l'établissement public de coopération. Le public est informé, dans
+les vingt-quatre heures, que le recueil est mis à sa disposition par affichage aux lieux habituels de l'affichage officiel
+des communes concernées.
+
+La diffusion du recueil peut être effectuée à titre gratuit ou par vente au numéro ou par abonnement.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°77-91 1977-01-27
+
+	**Créé par**:
+
+	  - Décret n°93-1121 1993-09-20 art. 2 jorf 28 septembre 1993) A(Décret 2000-318 2000-04-07 art. 4 jorf 9 avril 2000
+
+	**Cite**:
+
+	  - CODE DES COMMUNES. - art. L169-1 (Ab)
 
 
 ### TITRE 7 : Agglomérations nouvelles
