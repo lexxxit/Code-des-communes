@@ -1,5 +1,5 @@
 # Code des communes  
-Version Consolidée au 1977-08-12
+Version Consolidée au 1977-08-19
 
 # ORGANISATION COMMUNALE
 
@@ -79680,6 +79680,29 @@ Les sapeurs-pompiers peuvent être promus à la 1re classe, après trois ans de 
 	  - Décret n°90-851 1990-09-25 art. 26 jorf 26 septembre 1990
 
 
+###### Article R353-39
+
+Sont nommés caporaux les sapeurs-pompiers qui comptent une ancienneté de trois ans et sont titulaires du brevet national de
+secouriste avec la mention "spécialiste en ranimation" et soit d'un certificat d'aptitude professionnelle, soit d'un des
+diplômes et certificats de qualification professionnelle des sapeurs-pompiers définis par arrêté du ministre de l'intérieur.
+
+Les caporaux parvenus au 6è échelon de leur grade sont nommés au grade de caporal-chef.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°53-170 1953-03-07 ART. 111 REMPLACE AL. 1 et ART. 112 REMPLACE AL. 1
+
+	**Codifié par**:
+
+	  - Décret n°77-241 1977-03-07
+
+	**Abrogé par**:
+
+	  - Décret n°90-851 1990-09-25 art. 26 jorf 26 septembre 1990
+
+
 ###### Article R353-41
 
 Les adjudants sont nommés parmi les sergents et sergents-chefs qui comptent trois ans de fonctions dans leur grade
@@ -95137,29 +95160,6 @@ conditions de forme*].
 
 
 ##### Notation et avancement.
-
-###### Article R353-39
-
-Sont nommés caporaux les sapeurs-pompiers qui comptent une ancienneté de trois ans et sont titulaires du brevet national de
-secouriste avec la mention "spécialiste en ranimation" et soit d'un certificat d'aptitude professionnelle, soit d'un des
-diplômes et certificats de qualification professionnelle des sapeurs-pompiers définis par arrêté du ministre de l'intérieur.
-
-Les caporaux parvenus au 7è échelon sont nommés caporaux-chefs après trois ans de fonctions dans le grade.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°53-170 1953-03-07 ART. 111 REMPLACE AL. 1 et ART. 112 REMPLACE AL. 1
-
-	**Codifié par**:
-
-	  - Décret n°77-241 1977-03-07
-
-	**Créé par**:
-
-	  - Décret n°77-241 1977-03-07 JORF et JONC 18 mars 1977
-
 
 ###### Article R353-49
 
