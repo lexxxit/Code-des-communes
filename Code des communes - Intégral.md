@@ -1,5 +1,5 @@
 # Code des communes  
-Version Consolidée au 1981-12-20
+Version Consolidée au 1981-12-31
 
 # ORGANISATION COMMUNALE
 
@@ -23534,6 +23534,38 @@ Lorsqu'elle est exigible par périodes mensuelles, toute fraction de mois est co
 
 ##### Dispositions générales .
 
+###### Article L233-29
+
+Dans les stations classées ainsi que dans les communes qui bénéficient de la dotation visée à l'article L. 234-14 du présent
+code, il peut être institué, par délibération du conseil municipal, une taxe dite "taxe de séjour".
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°77-90 1977-01-27
+
+	**Créé par**:
+
+	  - Loi n°81-1160 du 30 décembre 1981 - art. 117 () JORF 31 décembre 1981
+
+	**Cité par**:
+
+	  - Ordonnance n°91-755 du 22 juillet 1991 - art. 2 (VT)
+	  - Arrêté du 28 décembre 1976 - art. 12 (Ab)
+	  - CODE DES COMMUNES. - art. L231-5 (Ab)
+	  - CODE DES COMMUNES. - art. L233-45 (Ab)
+	  - CODE DES COMMUNES. - art. R*233-43 (Ab)
+
+	**Cite**:
+
+	  - CODE DES COMMUNES. - art. L234-14 (M)
+
+	**Nouveaux textes**:
+
+	  - Code général des collectivités territoriales - art. L2333-26 (V)
+
+
 ###### Article L233-30
 
 Le produit de la taxe de séjour est intégralement affecté aux travaux [*développement de la fréquentation et de l'équipement
@@ -23595,6 +23627,30 @@ une résidence à raison de laquelle elles sont passibles de la taxe d'habitatio
 
 
 ##### Tarifs de la taxe de séjour et exonérations .
+
+###### Article L233-33
+
+Le tarif de la taxe de séjour est établi par personne et par journée de séjour.
+
+Il ne peut être inférieur à 1 F par personne et par jour, ni supérieur à 5 F.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°77-90 1977-01-27
+
+	**Modifié par**:
+
+	  - Loi n°81-1160 du 30 décembre 1981 - art. 117 () JORF 31 décembre 1981
+
+	**Cité par**:
+
+	  - Ordonnance n°91-755 du 22 juillet 1991 - art. 2 (VT)
+	  - CODE DES COMMUNES. - art. L233-29 (M)
+	  - CODE DES COMMUNES. - art. L233-40 (Ab)
+	  - CODE DES COMMUNES. - art. L233-41 (Ab)
+
 
 ###### Article L233-34
 
@@ -23953,33 +24009,6 @@ l'Etat est réduit de façon que le total des deux prélèvements soit de 80 p. 
 
 ##### TAXE DE SEJOUR.
 
-###### Article L233-29
-
-Il peut être institué dans les stations classées, par délibération du conseil municipal, une taxe dite taxe de séjour.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°77-90 1977-01-27
-
-	**Modifié par**:
-
-	  - Loi n°81-1160 du 30 décembre 1981 - art. 117 () JORF 31 décembre 1981
-
-	**Cité par**:
-
-	  - Ordonnance n°91-755 du 22 juillet 1991 - art. 2 (VT)
-	  - Arrêté du 28 décembre 1976 - art. 12 (Ab)
-	  - CODE DES COMMUNES. - art. L231-5 (Ab)
-	  - CODE DES COMMUNES. - art. L233-45 (Ab)
-	  - CODE DES COMMUNES. - art. R*233-43 (Ab)
-
-	**Nouveaux textes**:
-
-	  - Code général des collectivités territoriales - art. L2333-26 (V)
-
-
 ###### Article L233-32
 
 La période de perception de la taxe de séjour est fixée, pour chaque station, par le décret de classement. 
@@ -24016,34 +24045,6 @@ forme[**].
 
 
 ##### TARIFS ET  EXONERATIONS .
-
-###### Article L233-33
-
-Le tarif de la taxe de séjour est établi par personne et par journée de séjour.
-
-Il ne peut être inférieur à 0,08 F [*francs*] par personne et par jour, ni supérieur à 0,50 F.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Code de l'administration communale 218 modifié
-
-	**Codifié par**:
-
-	  - Décret n°77-90 1977-01-27
-
-	**Créé par**:
-
-	  - Décret n°77-90 1977-01-27 JORF et JONC 3 février 1977 date d'entrée en vigueur élection des maires
-
-	**Cité par**:
-
-	  - Ordonnance n°91-755 du 22 juillet 1991 - art. 2 (VT)
-	  - CODE DES COMMUNES. - art. L233-29 (M)
-	  - CODE DES COMMUNES. - art. L233-40 (Ab)
-	  - CODE DES COMMUNES. - art. L233-41 (Ab)
-
 
 ###### Article L233-41
 
