@@ -1,5 +1,5 @@
 # Code des communes  
-Version Consolidée au 1979-12-27
+Version Consolidée au 1980-01-01
 
 # ORGANISATION COMMUNALE
 
@@ -44801,6 +44801,33 @@ communes et les établissements qui dépendent d'elle [*attributions*].
 	  - Loi n°84-53 1984-01-26 ART. 119 JORF 27 JANVIER 1984
 
 
+##### Médecine professionnelle .
+
+###### Article L417-27
+
+Le syndicat de communes pour le personnel peut créer un service de médecine professionnelle. Ce dernier peut être mis à la
+disposition des communes, des établissements publics administratifs communaux et intercommunaux, adhérant ou non au syndicat.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - SPEC_APPLI: *Dispositions applicables aux agents nommés dans des emplois permanents à temps non complet et aux agents non titulaires*
+	  - SPEC_APPLI: CODE DES COMMUNES. - art. L421-2 (M)
+	  - SPEC_APPLI: Code des communes L421-2, L422-1 :
+
+	**Codifié par**:
+
+	  - Décret n°77-372 1977-03-28
+
+	**Cité par**:
+
+	  - Loi n°78-1183 du 20 décembre 1978 - art. 7 (V)
+	  - Décret n°88-145 du 15 février 1988 - art. 2 (V)
+	  - CODE DES COMMUNES. - art. L411-30 (Ab)
+	  - CODE DES COMMUNES. - art. L417-26 (Ab)
+
+
 ### Personnels divers
 
 #### Agents nommés dans des emplois permanents à temps non complet
@@ -47201,6 +47228,84 @@ carrière.
 	**Codifié par**:
 
 	  - Décret n°77-372 1977-03-28
+
+
+##### SECTION 5 : Hygiène et sécurité
+
+##### SOUS-SECTION 3 : Médecine professionnelle.
+
+###### Article L417-26
+
+Les communes et les établissements publics administratifs communaux et intercommunaux employant des agents, titulaires ou
+non, soumis aux dispositions du présent livre, doivent disposer d'un service de médecine professionnelle, soit en créant leur
+propre service, soit en adhérant à un service interentreprises ou intercommunal, soit en adhérant au service prévu par
+l'article L. 417-27 *service de médecine professionnelle*.
+
+Les dépenses résultant de l'application du présent article sont à la charge des collectivités intéressées.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - SPEC_APPLI: *Dispositions applicables aux agents nommés dans des emplois permanents à temps non complet et aux agents non titulaires*
+	  - SPEC_APPLI: CODE DES COMMUNES. - art. L421-2 (M)
+	  - SPEC_APPLI: Code des communes L421-2, L422-1 :
+
+	**Codifié par**:
+
+	  - Décret n°77-372 1977-03-28
+
+	**Cite**:
+
+	  - Loi n°78-1183 du 20 décembre 1978 - art. 7 (V)
+	  - CODE DES COMMUNES. - art. L417-27 (M)
+
+	**Cité par**:
+
+	  - Décret n°87-602 du 30 juillet 1987 - art. 9 (M)
+	  - Décret n°88-145 du 15 février 1988 - art. 2 (V)
+
+	**Abrogé par**:
+
+	  - Loi n°2007-209 du 19 février 2007 - art. 56 () JORF 21 février 2007
+
+
+###### Article L417-28
+
+Le service de médecine professionnelle a pour mission d'éviter toute altération de la santé des agents du fait de leur
+travail, notamment en surveillant les conditions d'hygiène du travail, les risques de contagion et l'état de santé des
+agents. A cet effet, les agents sont obligatoirement soumis à un examen médical au moment de l'embauche et, au minimum, à un
+examen médical annuel. En outre, le service peut être consulté, à la demande du maire, du président de l'établissement
+intéressé ou du président du syndicat, sur les mesures de nature à améliorer l'hygiène générale des locaux, la prévention des
+accidents et l'éducation sanitaire dans le cadre de la commune, de l'établissement ou du syndicat.
+
+**Nota:**
+
+Loi 2007-209 du 19 février 2007 art. 56 : l'article L417-28 du code des communes est abrogé à l'exception de sa deuxième
+phrase. Elle est supprimée à compter de la publication du décret prévu au second alinéa de l'article 108-2 de la loi n° 84-53
+du 26 janvier 1984 (décret n° 85-603 du 10 juin 1985, article 20).
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°77-372 1977-03-28
+
+	**Cité par**:
+
+	  - Décret n°85-603 du 10 juin 1985 - art. 20 (V)
+
+	**Liens**:
+
+	  - SPEC_APPLI: Fin d'application : date indéterminée
+
+	**Cite**:
+
+	  - Loi n°78-1183 du 20 décembre 1978 - art. 7 (V)
+
+	**Abrogé par**:
+
+	  - Loi n°2007-209 du 19 février 2007 - art. 56 () JORF 21 février 2007
 
 
 ### TITRE 2 : Personnels divers
