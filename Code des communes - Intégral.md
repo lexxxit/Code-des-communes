@@ -1,5 +1,5 @@
 # Code des communes  
-Version Consolidée au 1981-05-17
+Version Consolidée au 1981-06-13
 
 # ORGANISATION COMMUNALE
 
@@ -79069,6 +79069,40 @@ professionnels de sapeurs-pompiers communaux (J.O. 30 janvier 1977) modifié par
 	  - CODE DES COMMUNES. - art. R354-17 (Ab)
 
 
+###### Article R353-46
+
+Les capitaines inscrits sur une liste d'aptitude nationale annuelle, et qui justifient de cinq années d'ancienneté dans leur
+grade, peuvent être nommés chefs de bataillon après avis de la commission prévue à l'article suivant (1).
+
+Peuvent être inscrits sur cette liste les capitaines qui sont :
+
+- soit chef d'un corps dont l'effectif réel est égal ou supérieur à 80 sapeurs-pompiers professionnels ou qui justifient
+d'une ancienneté de quinze ans dans le grade ;
+
+- soit affectés à un corps dont l'effectif réel est d'au moins 160 sapeurs-pompiers professionnels.
+
+Dans les corps mixtes, les conditions prévues ci-dessus sont considérées comme remplies lorsque le nombre des sapeurs-
+pompiers professionnels est au moins égal aux deux tiers des effectifs ci-dessus mentionnés.
+
+(1) En vertu de l'article 4 du décret n° 77-29 du 13 janvier 1977, par dérogation aux dispositions de l'article R. 353-46 et
+jusqu'au 1er janvier 1980, les capitaines peuvent être inscrits sur la liste d'aptitude au grade de chef de bataillon s'ils
+justifient d'une ancienneté de quatre années dans leur grade.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°77-241 1977-03-07
+
+	**Abrogé par**:
+
+	  - Décret n°90-853 du 25 septembre 1990 - art. 30 (Ab)
+
+	**Cite**:
+
+	  - CODE DES COMMUNES. - art. R353-47 (Ab)
+
+
 ###### Article R353-47
 
 Une commission composée en nombre égal d'officiers de sapeurs-pompiers d'un grade au moins égal à celui de chef de bataillon
@@ -79104,6 +79138,38 @@ l'établissement de la liste d'aptitude aux fonctions de chef de bataillon profe
 	**Cité par**:
 
 	  - CODE DES COMMUNES. - art. R353-46 (Ab)
+
+
+###### Article R353-48
+
+Les lieutenants-colonels sont nommés parmi les chefs de bataillon qui justifient d'une ancienneté de cinq ans dans le grade
+et qui sont en outre :
+
+Soit chef d'un corps dont l'effectif réel est d'au moins 160 sapeurs-pompiers professionnels ;
+
+Soit affectés à un corps dont l'effectif réel est supérieur à 320 sapeurs-pompiers professionnels dans la limite des postes
+disponibles.
+
+Les colonels sont nommés parmi les lieutenants-colonels qui justifient d'une ancienneté de trois ans dans ce grade et qui
+sont en outre :
+
+Soit chef d'un corps dont l'effectif réel est d'au moins 400 sapeurs-pompiers professionnels ;
+
+Soit affectés à un corps dont l'effectif réel est supérieur à 1300 sapeurs-pompiers professionnels dans la limite des postes
+disponibles.
+
+Dans les corps mixtes, les conditions prévues sont considérées comme remplies lorsque le nombre des sapeurs-pompiers
+professionnels est au moins égal aux deux tiers des effectifs ci-dessus mentionnés.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°77-241 1977-03-07
+
+	**Abrogé par**:
+
+	  - Décret n°90-853 du 25 septembre 1990 - art. 30 (Ab)
 
 
 ###### Article R353-50
@@ -94828,84 +94894,6 @@ compétence*].
 
 	  - Décret n°88-623 du 6 mai 1988 - art. 50 (Ab)
 	  - Décret n°89-229 du 17 avril 1989 - art. 47 (V)
-
-
-#### SAPEURS-POMPIERS COMMUNAUX PROFESSIONNELS .
-
-##### AVANCEMENT
-
-###### Article R353-46
-
-Les capitaines inscrits sur une liste d'aptitude nationale annuelle et qui justifient de cinq années d'ancienneté dans leur
-grade peuvent être nommés chefs de bataillon après avis de la commission prévue à l'article suivant (1).
-
-Sont inscrits sur cette liste les capitaines qui sont :
-
-- Soit chefs d'un corps dont l'effectif réel est supérieur à 80 sapeurs-pompiers professionnels ;
-
-- Soit affectés à un corps dont l'effectif réel est d'au moins 160 sapeurs-pompiers professionnels.
-
-Dans les corps mixtes, les effectifs mentionnés ci-dessus comprennent au moins deux tiers [*proportion*] de sapeurs-pompiers
-professionnels.
-
-(1) En vertu de l'article 4 du décret n° 77-29 du 13 janvier 1977, par dérogation aux dispositions de l'article R. 353-46 et
-jusqu'au 1er janvier 1980 [*date*], les capitaines peuvent être inscrits sur la liste d'aptitude au grade de chef de
-bataillon s'ils justifient d'une ancienneté de quatre années dans leur grade.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°53-170 1953-03-07 ART. 117 REMPLACE AL. 1 à 3
-
-	**Cite**:
-
-	  - Décret n°77-29 1977-01-13 ART. 4
-	  - CODE DES COMMUNES. - art. R353-47 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°77-241 1977-03-07
-
-	**Créé par**:
-
-	  - Décret n°77-241 1977-03-07 JORF et JONC 18 mars 1977
-
-
-###### Article R353-48
-
-Les lieutenants-colonels sont nommés parmi les chefs de bataillon qui justifient d'une ancienneté de cinq ans dans le grade
-et qui sont en outre :
-
-- soit chef d'un corps dont l'effectif réel est d'au moins 160 sapeurs-pompiers professionnels ;
-
-- soit affectés à un corps dont l'effectif réel est supérieur à 320 sapeurs-pompiers professionnels dans la limite des postes
-disponibles.
-
-Les colonels sont nommés parmi les lieutenants-colonels qui justifient d'une ancienneté de trois ans dans ce grade et qui
-sont en outre :
-
-- soit chef d'un corps dont l'effectif réel est d'au moins 400 sapeurs-pompiers professionnels ;
-
-- soit affectés à un corps dont l'effectif réel est supérieur à 1.300 sapeurs-pompiers professionnels dans la limite des
-postes disponibles.
-
-Dans les corps mixtes, les conditions prévues sont considérées comme remplies lorsque le nombre des sapeurs-pompiers
-professionnels est au moins égal aux deux tiers des effectifs ci-dessus mentionnés.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°53-170 1953-03-07 ART. 117 BIS
-
-	**Codifié par**:
-
-	  - Décret n°77-241 1977-03-07
-
-	**Créé par**:
-
-	  - Décret n°77-241 1977-03-07 JORF et JONC 18 mars 1977
 
 
 #### SAPEURS-POMPIERS COMMUNAUX NON PROFESSIONNELS *VOLONTAIRES*
