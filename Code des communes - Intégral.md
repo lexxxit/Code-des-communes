@@ -1,5 +1,5 @@
 # Code des communes  
-Version Consolidée au 1983-07-14
+Version Consolidée au 1983-07-23
 
 # Statuts types d'une caisse communale de secours et de retraite de sapeurs-pompiers
 
@@ -7668,6 +7668,42 @@ le département [*commissaire de la République*].
 	  - CODE DES COMMUNES. - art. L165-28 (M)
 
 
+###### Article L165-31
+
+Il est procédé, dans des conditions fixées par décret en conseil d'Etat, entre deux renouvellements généraux des conseils
+municipaux, à une nouvelle répartition des sièges par application des articles L. 165-25 à L. 165-28 dans le cas prévu à
+l'article L. 165-6, ou dans le cas où des modifications aux limites territoriales des communes membres de la communauté
+urbaine entraînent la suppression d'une ou plusieurs communes ou la création d'une ou plusieurs communes nouvelles.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°77-90 1977-01-27
+
+	**Modifié par**:
+
+	  - Loi n°83-663 du 22 juillet 1983 - art. 113 () JORF 23 juillet 1983
+
+	**Abrogé par**:
+
+	  - Loi n°96-142 du 21 février 1996 - art. 12 (V) JORF 24 février 1996
+
+	**Cite**:
+
+	  - CODE DES COMMUNES. - art. L165-6 (M)
+	  - Code des communes L165-25 à L165-28, L165-6
+
+	**Cité par**:
+
+	  - CODE DES COMMUNES. - art. R*165-32 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code général des collectivités territoriales - art. L5215-8 (Ab)
+	  - Code général des collectivités territoriales - art. L5215-8 (V)
+
+
 ###### Article L165-32
 
 Les conditions d'éligibilité, les inéligibilités et les incompatibilités applicables aux membres du conseil de communauté
@@ -13939,51 +13975,6 @@ détermine, à la majorité absolue des suffrages exprimés, le mode de scrutin 
 
 	  - CODE DES COMMUNES. - art. L165-29 (M)
 	  - CODE DES COMMUNES. - art. L165-30 (M)
-
-
-##### Composition du conseil de communauté et désignation de ses membres
-
-###### Article L165-31
-
-Il peut être procédé à de nouvelles répartitions des sièges entre les communes, compte tenu des recensements généraux de la
-population. 
-
-Il en est de même dans les cas prévus aux articles L. 165-6 [*extension du périmètre de l'agglomération dans laquelle la
-communauté est compétente*] et L. 171-8 [*ensemble urbain*]. 
-
-Un décret en Conseil d'Etat détermine les modalités d'application de ces dispositions.
-
-**Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - SPEC_APPLI: *Dispositions non applicables aux communes des départements de la Guadeloupe, de la Guyane, de la Martinique, de la Réunion et de Saint-Pierre-et-Miquelon*
-	  - SPEC_APPLI: CODE DES COMMUNES. - art. L182-1 (Ab)
-	  - SPEC_APPLI: Code des communes L182-1, L182-2 :
-
-	**Anciens textes**:
-
-	  - Loi n°66-1069 1966-12-31 art. 15 V
-
-	**Codifié par**:
-
-	  - Décret n°77-90 1977-01-27
-
-	**Créé par**:
-
-	  - Décret n°77-90 1977-01-27 JORF et JONC 3 février 1977 date d'entrée en vigueur élection des maires
-
-	**Cité par**:
-
-	  - CODE DES COMMUNES. - art. R*165-32 (Ab)
-
-	**Cite**:
-
-	  - Code des communes L165-6 et L171-8
-
-	**Nouveaux textes**:
-
-	  - Code général des collectivités territoriales - art. L5215-8 (Ab)
 
 
 #### Syndicats mixtes .
@@ -23293,54 +23284,6 @@ années du patrimoine communal à l'exclusion du revenu des immeubles bâtis.
 	  - CODE DES COMMUNES. - art. L234-19-2 (Ab)
 
 
-###### Article L234-17
-
-Dans les agglomérations représentant au moins 10 p. 100 [*pourcentage*] de la population du département, les communes centres
-bénéficient d'une dotation particulière destinée à tenir compte des charges qui résultent de l'utilisation de leurs
-équipements par les habitants des communes voisines.
-
-Le montant total des sommes à répartir à ce titre est fixé chaque année par le comité des finances locales.
-
-La dotation revenant à chacune des communes centres concernées est proportionnelle au montant de sa dotation globale de
-fonctionnement multipliée par le rapport entre la population de l'agglomération résidant dans le département, à l'exclusion
-de celles de la commune centre, et la population totale de l'agglomération habitant ce même département. Cette dotation ne
-peut être inférieure à la somme de 17 F [*montant minimum*] par habitant actualisée chaque année du taux de progression des
-ressources affectées à ce concours particulier.
-
-Toutefois, lorsqu'une agglomération comporte plusieurs villes centres, la définition de ces villes centres et les modalités
-de calcul de leur dotation sont fixées par décret en Conseil d'Etat, après avis du comité des finances locales.
-
-Lorsqu'une commune remplit les conditions requises pour bénéficier à la fois de la dotation instituée par le présent article
-et de la dotation particulière instituée par l'article L. 234-14 en faveur des communes touristiques ou thermales, seule la
-plus élevée des deux dotations lui est versée.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°77-90 1977-01-27
-
-	**Modifié par**:
-
-	  - Loi n°81-1179 du 31 décembre 1981 - art. 27 () JORF 1er JANVIER 1982
-
-	**Liens**:
-
-	  - TXT_SOURCE: Décret n°82-998 du 17 novembre 1982
-	  - TXT_SOURCE: Décret n°82-998 du 17 novembre 1982 - art. 1 (V)
-	  - TXT_SOURCE: Décret n°82-998 du 17 novembre 1982 - art. 2 (V)
-	  - TXT_SOURCE: Décret n°82-998 du 17 novembre 1982 - art. 3 (V)
-
-	**Cité par**:
-
-	  - Loi n°83-636 du 13 juillet 1983 - art. 31 bis (Ab)
-	  - Décret n°85-260 du 22 février 1985 - art. 3-1 (M)
-	  - CODE DES COMMUNES. - art. L234-11-1 (Ab)
-	  - CODE DES COMMUNES. - art. L234-18 (M)
-	  - CODE DES COMMUNES. - art. R*234-2 (M)
-	  - CODE GENERAL DES IMPOTS, CGI. - art. 1648 B (M)
-
-
 ###### Article L234-17-1
 
 Les charges salariales supportées par les organisations syndicales auprès desquelles sont détachées des agents communaux sont
@@ -23716,6 +23659,62 @@ La part réservée aux communes thermales ne pourra être inférieure au dixièm
 	**Nouveaux textes**:
 
 	  - Code général des collectivités territoriales - art. L1613-5 (V)
+
+
+###### Article L234-17
+
+Dans les agglomérations représentant au moins 10 p. 100 [*pourcentage*] de la population du département, les communes centres
+bénéficient d'une dotation particulière destinée à tenir compte des charges qui résultent de l'utilisation de leurs
+équipements par les habitants des communes voisines.
+
+Le montant total des sommes à répartir à ce titre est fixé chaque année par le comité des finances locales.
+
+La dotation revenant à chacune des communes centres concernées est proportionnelle au montant de sa dotation globale de
+fonctionnement multipliée par le rapport entre la population de l'agglomération résidant dans le département, à l'exclusion
+de celles de la commune centre, et la population totale de l'agglomération habitant ce même département. Cette dotation ne
+peut être inférieure à la somme de 17 F [*montant minimum*] par habitant actualisée chaque année du taux de progression des
+ressources affectées à ce concours particulier.
+
+Toutefois, lorsqu'une agglomération comporte plusieurs villes centres, la définition de ces villes centres et les modalités
+de calcul de leur dotation sont fixées par décret en Conseil d'Etat, après avis du comité des finances locales.
+
+Lorsqu'une commune remplit les conditions requises pour bénéficier à la fois de la dotation particulière instituée par le
+présent article et de la dotation particulière instituée par l'article L. 234-14 en faveur des communes touristiques ou
+thermales, seule la plus élevée des deux dotations lui est versée.
+
+Les communes qui, en 1982, ont bénéficié de la dotation particulière instituée par le présent article en faveur des villes
+centres d'agglomération et qui, en 1983, ne remplissent plus les conditions requises par les alinéas 1er et 4 ci-dessus, soit
+en raison des mouvements de population constatés lors du recensement général de population de 1982, soit en raison de la
+modification de la structure des agglomérations, continuent, à titre transitoire, à bénéficier de cette dotation particulière
+pendant une période de trois ans à compter du 1er janvier 1983.
+
+Il leur est attribué une dotation égale à celle perçue en 1982.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°77-90 1977-01-27
+
+	**Liens**:
+
+	  - TXT_SOURCE: Décret n°82-998 du 17 novembre 1982
+	  - TXT_SOURCE: Décret n°82-998 du 17 novembre 1982 - art. 1 (V)
+	  - TXT_SOURCE: Décret n°82-998 du 17 novembre 1982 - art. 2 (V)
+	  - TXT_SOURCE: Décret n°82-998 du 17 novembre 1982 - art. 3 (V)
+
+	**Cité par**:
+
+	  - Loi n°83-636 du 13 juillet 1983 - art. 31 bis (Ab)
+	  - Décret n°85-260 du 22 février 1985 - art. 3-1 (M)
+	  - CODE DES COMMUNES. - art. L234-11-1 (Ab)
+	  - CODE DES COMMUNES. - art. L234-18 (M)
+	  - CODE DES COMMUNES. - art. R*234-2 (M)
+	  - CODE GENERAL DES IMPOTS, CGI. - art. 1648 B (M)
+
+	**Modifié par**:
+
+	  - Loi n°83-663 du 22 juillet 1983 - art. 76 () JORF 23 JUILLET 1983
 
 
 #### Avances, emprunts et garanties d'emprunt
@@ -27028,6 +27027,41 @@ administratif ou financier*].
 	**Liens**:
 
 	  - TXT_ASSOCIE: Code des communes R323-4
+
+
+##### SECTION 2 : Régies dotées de la personnalité morale et de l'autonomie financière.
+
+###### Article L323-9
+
+Des règlements d'administration publique :
+
+Déterminent l'organisation administrative, le régime financier et le fonctionnement des régies dotées de la personnalité
+morale et de l'autonomie financière.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°77-90 1977-01-27
+
+	**Modifié par**:
+
+	  - Loi n°83-663 du 22 juillet 1983 - art. 114 () JORF 23 JUILLET 1983
+
+	**Cité par**:
+
+	  - Loi n°86-1067 du 30 septembre 1986 - art. 34 (M)
+	  - CODE DES COMMUNES. - art. L323-4 (Ab)
+	  - CODE DES COMMUNES. - art. R*142-2 (Ab)
+	  - CODE DES COMMUNES. - art. R323-7 (Ab)
+
+	**Anciens textes**:
+
+	  - Code des communes L358 (PARTIE)
+
+	**Nouveaux textes**:
+
+	  - Code général des collectivités territoriales - art. L2221-10 (V)
 
 
 ##### SECTION 3 : Régies dotées de la seule autonomie financière.
@@ -33398,45 +33432,6 @@ Il est interdit aux communes de prendre en charge dans leur budget propre, des d
 
 	  - Décret n°89-945 du 22 décembre 1989 - art. 3 (Ab)
 	  - CODE DES COMMUNES. - art. R*372-16 (M)
-
-
-#### Régies municipales
-
-##### Régies dotées de la personnalité morale et de l'autonomie financière
-
-###### Article L323-9
-
-Des règlements d'administration publique :
-
-Déterminent l'organisation administrative, le régime financier et le fonctionnement des régies dotées de la personnalité
-morale et de l'autonomie financière ;
-
-Etablissent un ou plusieurs règlements types applicables à ces régies.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°77-240 1977-03-07
-
-	**Créé par**:
-
-	  - Décret n°77-240 1977-03-07 JORF et JONC 18 mars 1977
-
-	**Cité par**:
-
-	  - Loi n°86-1067 du 30 septembre 1986 - art. 34 (M)
-	  - CODE DES COMMUNES. - art. L323-4 (Ab)
-	  - CODE DES COMMUNES. - art. R*142-2 (Ab)
-	  - CODE DES COMMUNES. - art. R323-7 (Ab)
-
-	**Anciens textes**:
-
-	  - Code des communes L358 (partie)
-
-	**Nouveaux textes**:
-
-	  - Code général des collectivités territoriales - art. L2221-10 (V)
 
 
 ### PROTECTION CONTRE  L'INCENDIE .
