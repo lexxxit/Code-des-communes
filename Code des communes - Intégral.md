@@ -1,5 +1,5 @@
 # Code des communes  
-Version Consolidée au 1995-02-09
+Version Consolidée au 1995-04-13
 
 # Partie législative
 
@@ -71781,6 +71781,74 @@ exceptionnels.
 	  - Décret n°99-1039 du 10 décembre 1999 - art. 72 ()
 
 
+###### Article R*352-50
+
+La médaille d'ancienneté comporte trois échelons :
+
+1. La médaille d'argent, décernée après vingt ans de services ;
+
+2. La médaille de vermeil, décernée après vingt-cinq ans de services aux titulaires de la médaille d'argent ;
+
+3. La médaille d'or, décernée après trente-cinq ans de services aux titulaires de la médaille d'argent. Toutefois, et à titre
+exceptionnel, la médaille d'or pourra être décernée après trente ans de services aux sapeurs-pompiers au moment de la
+cessation de leur activité.
+
+La médaille d'or peut être décernée à titre posthume, sans condition de durée de service, aux sapeurs-pompiers volontaires
+décédés en service commandé.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°77-241 1977-03-07
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°90-850 1990-09-25 art. 25
+
+	**Modifié par**:
+
+	  - Décret n°95-384 du 12 avril 1995 - art. 23 ()
+
+	**Abrogé par**:
+
+	  - Décret n°99-1039 du 10 décembre 1999 - art. 72 ()
+
+
+###### Article R*352-51
+
+Sont pris en compte pour l'attribution de la médaille d'honneur des sapeurs-pompiers :
+
+1. Les services accomplis en qualité de sapeur-pompier volontaire ;
+
+2. Les services accomplis en qualité de sapeur-pompier professionnel ;
+
+3. Les services accomplis en qualité de sapeur-pompier de la brigade des sapeurs-pompiers de Paris ou de marin-pompier du
+bataillon des marins-pompiers de Marseille ;
+
+4. Les services accomplis au titre du service national actif ;
+
+5. Les services militaires accomplis sous les drapeaux en période de guerre.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°62-1073 1962-09-11 ART. 5
+
+	**Codifié par**:
+
+	  - Décret n°77-241 1977-03-07
+
+	**Modifié par**:
+
+	  - Décret n°95-384 du 12 avril 1995 - art. 24 ()
+
+	**Abrogé par**:
+
+	  - Décret n°99-1039 du 10 décembre 1999 - art. 72 ()
+
+
 ###### Article R*352-52
 
 La médaille avec rosette peut être décernée à tout sapeur-pompier qui s'est particulièrement distingué dans l'exercice de ses
@@ -72201,65 +72269,6 @@ Les médecins et les pharmaciens titulaires d'un grade supérieur à celui de ca
 	**Abrogé par**:
 
 	  - Décret n°99-1039 du 10 décembre 1999 - art. 72 ()
-
-
-#### CHAPITRE 2 : Sapeurs-pompiers communaux
-
-##### SECTION 5 : Honneurs et récompenses.
-
-###### Article R*352-50
-
-La médaille d'ancienneté comporte trois échelons :
-
-1. La médaille d'argent, décernée après vingt ans de services ;
-
-2. La médaille de vermeil, décernée après vingt-cinq ans de services aux titulaires de la médaille d'argent ;
-
-3. La médaille d'or, décernée après trente-cinq ans de services aux titulaires de la médaille d'argent. Toutefois, et à titre
-exceptionnel, la médaille d'or pourra être décernée après trente ans de services aux sapeurs-pompiers au moment de la
-cessation de leur activité.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°77-241 1977-03-07
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°90-850 1990-09-25 art. 25
-
-
-###### Article R*352-51
-
-Les services militaires sont comptés dans la durée des services [*définition*] mentionnés à l'article R. 352-50 [*pour
-obtenir la médaille d'ancienneté*] dans la limite de :
-
-1° La durée légale du service obligatoire en temps de paix ;
-
-2° Le temps passé sous les drapeaux en période de guerre.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°62-1073 1962-09-11 ART. 5
-
-	**Codifié par**:
-
-	  - Décret n°77-241 1977-03-07
-
-	**Créé par**:
-
-	  - Décret n°77-241 1977-03-07 JORF et JONC 18 Mars 1977
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°90-850 1990-09-25 art. 25
-
-	**Cite**:
-
-	  - Code des communes R352-50
 
 
 #### CHAPITRE 3 : Dispositions applicables aux sapeurs-pompiers communaux professionnels
