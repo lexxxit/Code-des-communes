@@ -1,5 +1,5 @@
 # Code des communes  
-Version Consolidée au 1983-03-06
+Version Consolidée au 1983-03-13
 
 # Statuts types d'une caisse communale de secours et de retraite de sapeurs-pompiers
 
@@ -1542,6 +1542,35 @@ Il arrête un programme de réinstallation."
 ### TITRE 2 : Organes de la commune
 
 #### CHAPITRE 1 : Conseil municipal
+
+###### Article L121-1
+
+Le corps municipal de chaque commune se compose du conseil municipal, du maire et d'un ou plusieurs adjoints.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°77-90 1977-01-27
+
+	**Modifié par**:
+
+	  - Loi n°82-1169 1982-12-31 art. 69 JORF 1er janvier 1983 en vigueur le 13 mars 1983
+
+	**Cité par**:
+
+	  - Loi n°83-8 du 7 janvier 1983 - art. 95 (M)
+	  - Loi n°83-8 du 7 janvier 1983 - art. 95-1 (V)
+	  - Loi n°90-1247 du 29 décembre 1990 - art. 2 (Ab)
+
+	**Abrogé par**:
+
+	  - Loi n°96-142 du 21 février 1996 - art. 12 (V) JORF 24 février 1996
+
+	**Nouveaux textes**:
+
+	  - Code général des collectivités territoriales - art. L2121-1 (V)
+
 
 ##### SECTION 1 : Formation.
 
@@ -6803,6 +6832,65 @@ après délibération prise par le conseil de communauté.
 	  - Code de l'urbanisme - art. L123-3 (M)
 
 
+###### Article L165-11
+
+Postérieurement à la création de la communauté, les dispositions suivantes sont applicables.
+
+Les communes membres de la communauté urbaine peuvent transférer, en tout ou partie, à la communauté certaines de leurs
+compétences.
+
+La communauté urbaine peut transférer, en tout ou partie, aux communes membres certaines de ses compétences.
+
+Les transferts de compétences mentionnés au présent article sont décidés par délibérations concordantes du conseil de
+communauté et de tous les conseils municipaux des communes membres.
+
+Ces délibérations déterminent les conditions financières et patrimoniales du transfert de compétences ainsi que l'affectation
+des personnels.
+
+Le transfert de compétences de la communauté urbaine aux communes membres entraîne le transfert des droits et obligations
+correspondants. Il est fait application, le cas échéant, des dispositions de l'article L. 165-20.
+
+Le transfert de compétences des communes à la communauté urbaine se fait selon les modalités prévues aux articles L. 165-16 à
+L. 165-20.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - SPEC_APPLI: *Dispositions non applicables aux communes des départements de la Guadeloupe, de la Guyane, de la Martinique, de la Réunion et de Saint-Pierre-et-Miquelon*
+	  - SPEC_APPLI: CODE DES COMMUNES. - art. L182-1 (Ab)
+	  - SPEC_APPLI: Code des communes L182-1, L182-2 :
+
+	**Anciens textes**:
+
+	  - Loi n°66-1069 du 31 décembre 1966 - art. 6 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°77-90 1977-01-27
+
+	**Modifié par**:
+
+	  - Loi n°82-1169 1982-12-31 ART. 58 JORF 1ER JANVIER 1983 date d'entrée en vigueur 13 MARS 1983
+
+	**Cité par**:
+
+	  - Loi n°82-1169 du 31 décembre 1982 - art. 60 (V)
+	  - Loi n°82-1169 du 31 décembre 1982 - art. 61 (V)
+	  - CODE DES COMMUNES. - art. L172-7 (Ab)
+	  - CODE DES COMMUNES. - art. R*165-6 (Ab)
+	  - CODE DES COMMUNES. - art. R*255-13 (Ab)
+	  - CODE DES COMMUNES. - art. R*255-9 (Ab)
+
+	**Cite**:
+
+	  - Code des communes L165-16 et L165-20
+
+	**Nouveaux textes**:
+
+	  - Code général des collectivités territoriales - art. L5215-41 (Ab)
+
+
 ###### Article L165-12
 
 Les services techniques de la communauté urbaine, dans des conditions fixées par décret en Conseil d'Etat, assurent
@@ -6913,6 +7001,38 @@ l'intérieur suivant qu'il s'agit ou non de routes nationales [**]compétence - 
 	**Cité par**:
 
 	  - Code de la voirie routière - art. L123-5 (V)
+
+
+###### Article L165-15
+
+La communauté urbaine peut confier, par convention avec la ou les collectivités concernées, la création ou la gestion de
+certains équipements ou services relevant de ses attributions à une ou plusieurs communes membres, à leurs groupements ou à
+toute autre collectivité territoriale ou établissement public.
+
+Dans les mêmes conditions, ces collectivités peuvent confier à la communauté urbaine la création ou la gestion de certains
+équipements ou services relevant de leurs attributions.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°66-1069 du 31 décembre 1966 - art. 13 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°77-90 1977-01-27
+
+	**Modifié par**:
+
+	  - Loi n°82-1169 1982-12-31 art. 59 JORF 1er janvier 1983 en vigueur le 13 mars 1983
+
+	**Abrogé par**:
+
+	  - Loi n°96-142 du 21 février 1996 - art. 12 (V) JORF 24 février 1996
+
+	**Nouveaux textes**:
+
+	  - Code général des collectivités territoriales - art. L5215-27 (V)
 
 
 ##### SOUS-SECTION 2 : Effets du transfert des compétences.
@@ -7208,6 +7328,132 @@ opérations.
 
 ##### SOUS-SECTION 2 : Composition du conseil de communauté et désignation de ses membres.
 
+###### Article L165-25
+
+Le conseil de communauté est composé de délégués des communes, dont le nombre est fixé :
+
+1° Pour l'application de l'article L. 165-26 et du I de l'article L. 165-28, conformément au tableau ci-dessous :
+
+Nombre de communes, population municipale totale de l'agglomération.
+
+20 au plus, 200000 au plus, 50.
+
+200001 à 600000, 80.
+
+21 à 50, 200000 au plus, 70.
+
+200001 à 600000, 90.
+
+plus de 50, 200000 au plus, 90.
+
+200001 à 600000, 120.
+
+20 au plus, 600001 à 1000000, 90.
+
+plus de 1000000, 120.
+
+21 à 50, 600001 à 1000000, 120.
+
+plus de 1000000, 140.
+
+plus de 50, 600001 à 1000000, 140.
+
+plus de 1000000, 140.
+
+2° Pour l'application du II de l'article L. 165-28, conformément  au tableau ci-dessous :
+
+50 au plus, 200000 au plus, 50.
+
+plus de 2000000, 80.
+
+plus de 50, 200000 au plus, 70.
+
+plus de 2000000, 100.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°77-90 1977-01-27
+
+	**Modifié par**:
+
+	  - Loi n°82-1169 1982-12-31 art. 46 JORF 1er janvier 1983 en vigueur le 13 mars 1983
+
+	**Cité par**:
+
+	  - CODE DES COMMUNES. - art. L168-3 (Ab)
+	  - CODE DES COMMUNES. - art. R*165-32 (M)
+
+	**Nouveaux textes**:
+
+	  - Code général des collectivités territoriales - art. L5215-6 (Ab)
+
+
+###### Article L165-26
+
+La répartition des sièges au sein du conseil de communauté est fixée par décision des deux tiers au moins des conseils
+municipaux des communes intéressées représentant plus des trois quarts de la population totale de celles-ci, ou des trois
+quarts des conseils municipaux des communes intéressées représentant plus des deux tiers de la population totale, cette
+majorité devant nécessairement comprendre les conseils municipaux des communes dont la population totale est supérieure au
+quart de la population totale concernée.
+
+Toutefois, cette répartition ne peut aboutir, sans l'accord du conseil municipal, à la diminution de la part en valeur
+relative de la représentation directe de cette commune dans le conseil de communauté, par rapport à celle qui résulterait de
+l'application du paragraphe II de l'article L. 165-28. Le nombre de sièges correspondant à cette part relative est arrondi,
+le cas échéant, à l'entier inférieur.
+
+Les délibérations nécessaires pour l'application des dispositions des alinéas précédents doivent intervenir dans un délai de
+trois mois à compter du renouvellement général des conseils municipaux ou du décret fixant le périmètre de l'agglomération.
+
+Le représentant de l'Etat dans le département [*commissaire de la République*] rend publique la répartition ou constate que
+les conditions requises ne sont pas remplies. Dans ce dernier cas, il est fait application :
+
+a) Des dispositions du paragraphe II de l'article L. 165-28 dans les communautés urbaines dont plus de la moitié des communes
+ont une population municipale totale inférieure au quotient obtenu en divisant la population municipale totale de
+l'agglomération, telle qu'elle résulte du dernier recensement général, par le nombre total de sièges à pourvoir en
+application du 1° de l'article L. 165-25 ;
+
+b) Des dispositions du paragraphe I de l'article L. 165-28 dans les autres communautés urbaines.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - SPEC_APPLI: *Dispositions non applicables aux communes des départements de la Guadeloupe, de la Guyane, de la Martinique, de la Réunion et de Saint-Pierre-et-Miquelon*
+	  - SPEC_APPLI: CODE DES COMMUNES. - art. L165-28 (M)
+	  - SPEC_APPLI: CODE DES COMMUNES. - art. L182-1 (Ab)
+	  - SPEC_APPLI: Code des communes L182-1, L182-2 :
+
+	**Anciens textes**:
+
+	  - Loi n°66-1069 1966-12-31 ART. 15 II AL. 1 ET 2
+
+	**Codifié par**:
+
+	  - Décret n°77-90 1977-01-27
+
+	**Cité par**:
+
+	  - Loi n°77-825 du 22 juillet 1977 - art. 7 (V)
+	  - Loi n°95-115 du 4 février 1995 - art. 80 (V)
+	  - CODE DES COMMUNES. - art. L165-28 (M)
+	  - CODE DES COMMUNES. - art. L165-38 (Ab)
+	  - CODE DES COMMUNES. - art. R*165-34 (Ab)
+
+	**Modifié par**:
+
+	  - Loi n°82-1169 1982-12-31 ART. 47 JORF 1ER JANVIER 1983 date d'entrée en vigueur 13 MARS 1983
+
+	**Abrogé par**:
+
+	  - Loi n°95-115 du 4 février 1995 - art. 80 (V)
+
+	**Cite**:
+
+	  - Code des communes L165-25 1/
+
+
 ###### Article L165-27
 
 Aucune commune ne peut être contrainte de participer à une communauté créée en application de l'article L. 165-4 si sa
@@ -7244,6 +7490,232 @@ représentation directe n'est pas assurée au sein du conseil de communauté.
 	**Cite**:
 
 	  - CODE DES COMMUNES. - art. L165-4 (M)
+
+
+###### Article L165-28
+
+I. Les conseils municipaux intéressés se prononcent, à la majorité prévue au premier alinéa de l'article L. 165-26, sur la
+répartition des sièges établis selon les modalités suivantes :
+
+a) Un siège est attribué à chaque commune membre de la communauté ;
+
+b) Seules participent à la répartition des sièges restant à pourvoir les communes dont la population municipale totale est
+supérieure au quotient obtenu en divisant la population municipale totale de l'agglomération, telle qu'elle résulte du
+dernier recensement général, par le nombre total des sièges à pourvoir. 
+
+Les sièges restant à pourvoir sont répartis entre ces communes suivant le système de la représentation proportionnelle avec
+application de la règle de la plus forte moyenne, sur la base de leur population municipale totale diminuée d'un nombre
+d'habitants égal au quotient mentionné à la phrase précédente ;
+
+c) Aucune commune membre de la communauté ne peut, sans l'accord de son conseil municipal, se voir attribuer un nombre de
+délégués inférieur à celui dont elle disposait à la date de publication de la loi n° 82-1169 du 31 décembre 1982 relative à
+l'organisation administrative de Paris, Marseille, Lyon et des établissements publics de coopération intercommunale. Le
+nombre des délégués fixé à l'article L. 165-25 est, en tant que de besoin, augmenté pour satisfaire à la prescription du
+présent alinéa.
+
+Les délibérations nécessaires pour l'application des dispositions qui précèdent doivent intervenir dans un délai de deux mois
+à compter de la constatation du désaccord dans les conditions prévues au dernier alinéa de l'article L. 165-26.
+
+Le représentant de l'Etat dans le département rend publique la répartition ou constate que les conditions requises ne sont
+pas remplies. Dans ce dernier cas, il est fait application des dispositions du paragraphe II du présent article.
+
+II. La répartition des sièges s'effectue suivant le système de la représentation proportionnelle avec application de la règle
+du plus fort reste ; l'ensemble des communes dont la population municipale totale est inférieure au quotient obtenu en
+divisant la population municipale totale de l'agglomération, telle qu'elle résulte du dernier recensement général, par le
+nombre de sièges à pourvoir, se voit attribuer un nombre de sièges calculé sur la population municipale totale de l'ensemble
+de ces communes.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - SPEC_APPLI: *Dispositions non applicables aux communes des départements de la Guadeloupe, de la Guyane, de la Martinique, de la Réunion et de Saint-Pierre-et-Miquelon*
+	  - SPEC_APPLI: CODE DES COMMUNES. - art. L165-26 (M)
+	  - SPEC_APPLI: CODE DES COMMUNES. - art. L182-1 (Ab)
+	  - SPEC_APPLI: Code des communes L182-1, L182-2 :
+
+	**Anciens textes**:
+
+	  - Loi n°66-1069 1966-12-31 ART. 15 III
+
+	**Codifié par**:
+
+	  - Décret n°77-90 1977-01-27
+
+	**Modifié par**:
+
+	  - Loi n°82-1169 1982-12-31 ART. 48 JORF 1ER JANVIER 1983 date d'entrée en vigueur 13 MARS 1983
+
+	**Cité par**:
+
+	  - CODE DES COMMUNES. - art. L165-29 (Ab)
+	  - CODE DES COMMUNES. - art. L165-30 (Ab)
+	  - CODE DES COMMUNES. - art. R*165-32 (M)
+
+	**Nouveaux textes**:
+
+	  - Code général des collectivités territoriales - art. L5215-7 (V)
+
+
+###### Article L165-29
+
+Pour l'application du paragraphe II de l'article L. 165-28, un collège, composé des maires des communes intéressées et
+convoqué par le représentant de l'Etat dans le département [*commissaire de la République*], désigne, au sein des conseils
+municipaux, les délégués de l'ensemble des communes dont la population municipale totale est inférieure au quotient prévu au
+paragraphe II de cet article.
+
+Dans les agglomérations comptant plus de cinquante communes, les sièges sont pourvus dans le cadre de secteurs électoraux qui
+sont délimités par accord entre les conseils municipaux des communes concernées.
+
+A défaut de cet accord dans le délai d'un mois à compter de l'acte par lequel le représentant de l'Etat dans le département
+constate que les conditions visées à l'article L. 165-26 ou au paragraphe I de
+
+l'article L. 165-28 ne sont pas remplies, les secteurs électoraux sont délimités par arrêté du représentant de l'Etat dans le
+département après avis du président du tribunal administratif.
+
+La population de ces secteurs ne peut être inférieure au sixième de la population municipale totale de l'ensemble des
+communes intéressées.
+
+Les sièges attribués aux communes non directement représentées sont répartis entre les secteurs suivant le système de la
+représentation proportionnelle avec application de la règle du plus fort reste sur la base de la population municipale totale
+de l'ensemble des communes de chacun des secteurs.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - SPEC_APPLI: *Dispositions non applicables aux communes des départements de la Guadeloupe, de la Guyane, de la Martinique, de la Réunion et de Saint-Pierre-et-Miquelon*
+	  - SPEC_APPLI: CODE DES COMMUNES. - art. L182-1 (Ab)
+	  - SPEC_APPLI: Code des communes L182-1, L182-2 :
+
+	**Anciens textes**:
+
+	  - Loi n°66-1069 1966-12-31 ART. 15 IV AL. 1, 2 ET 3
+
+	**Codifié par**:
+
+	  - Décret n°77-90 1977-01-27
+
+	**Modifié par**:
+
+	  - Loi n°82-1169 1982-12-31 ART. 49 JORF 1ER JANVIER 1983 date d'entrée en vigueur 13 MARS 1983
+
+	**Abrogé par**:
+
+	  - Loi n°95-115 du 4 février 1995 - art. 80 (V)
+
+	**Cité par**:
+
+	  - Loi n°95-115 du 4 février 1995 - art. 80 (V)
+	  - CODE DES COMMUNES. - art. L165-24 (M)
+	  - CODE DES COMMUNES. - art. L165-37 (M)
+
+	**Cite**:
+
+	  - CODE DES COMMUNES. - art. L165-28 (M)
+
+
+###### Article L165-30
+
+Dans les agglomérations où n'ont pas été créés des secteurs électoraux, les communes dont le chiffre de population municipale
+totale n'atteint pas le quotient [*population municipale totale de l'agglomération divisée par le nombre de sièges à
+pourvoir*] prévu au paragraphe II de l'article L. 165-28 peuvent, si elles sont limitrophes, se grouper entre elles afin de
+réunir une population municipale totale ou supérieure à ce quotient.
+
+Un collège composé des conseillers municipaux des communes regroupées désigne en son sein les délégués de ces communes.
+
+Lorsque les communes n'ont pas accepté de se regrouper conformément aux dispositions ci-dessus et qu'elles ne réunissent pas
+une population municipale totale au moins égale au quotient prévu au paragraphe II de l'article L. 165-28, elles se
+rattachent à l'un des groupements existants.
+
+A défaut de rattachement volontaire dans le délai de trois mois, il y est procédé par arrêté du représentant de l'Etat dans
+le département [*commissaire de la République*].
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - SPEC_APPLI: *Dispositions non applicables aux communes des départements de la Guadeloupe, de la Guyane, de la Martinique, de la Réunion et de Saint-Pierre-et-Miquelon*
+	  - SPEC_APPLI: CODE DES COMMUNES. - art. L182-1 (Ab)
+	  - SPEC_APPLI: Code des communes L182-1, L182-2 :
+
+	**Anciens textes**:
+
+	  - Loi n°66-1069 1966-12-31 ART. 15 IV AL. 4, 5, 6
+	  - Loi n°66-1069 du 31 décembre 1966 - art. 5 (Ab)
+	  - Loi n°66-1069 du 31 décembre 1966 - art. 6 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°77-90 1977-01-27
+
+	**Modifié par**:
+
+	  - Loi n°82-1169 1982-12-31 ART. 50 ET 51 JORF 1ER JANVIER 1983 date d'entrée en vigueur 13 MARS 1983
+
+	**Abrogé par**:
+
+	  - Loi n°95-115 du 4 février 1995 - art. 80 (V)
+
+	**Cité par**:
+
+	  - Loi n°95-115 du 4 février 1995 - art. 80 (V)
+	  - CODE DES COMMUNES. - art. L165-24 (M)
+	  - CODE DES COMMUNES. - art. L165-37 (Ab)
+
+	**Cite**:
+
+	  - CODE DES COMMUNES. - art. L165-28 (M)
+
+
+###### Article L165-32
+
+Les conditions d'éligibilité, les inéligibilités et les incompatibilités applicables aux membres du conseil de communauté
+sont celles que prévoient pour les élections au conseil municipal les articles L. 44 à L. 46 et L. 228 à L. 239 du code
+électoral.
+
+Le mandat des conseillers de la communauté expire lors de l'installation du conseil de communauté suivant le renouvellement
+général des conseils municipaux.
+
+A partir de l'installation du conseil, les fonctions de président sont assurées par le doyen jusqu'à l'élection du président
+du conseil de la communauté urbaine.
+
+En cas de suspension, de dissolution ou de démission des membres en exercice d'un conseil municipal, le mandat des délégués
+est prorogé jusqu'à la désignation des nouveaux délégués.
+
+En cas de vacances parmi Les conseillers de la communauté, par suite de décès, de démission ou toute autre cause, il est
+pourvu au remplacement dans le délai de deux mois.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°66-1069 du 31 décembre 1966 - art. 16 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°77-90 1977-01-27
+
+	**Modifié par**:
+
+	  - Loi n°82-1169 1982-12-31 art. 52 JORF 1er janvier 1983 en vigueur le 13 mars 1983
+
+	**Abrogé par**:
+
+	  - Loi n°96-142 du 21 février 1996 - art. 12 (V) JORF 24 février 1996
+
+	**Cité par**:
+
+	  - CODE DES COMMUNES. - art. R*165-33 (Ab)
+
+	**Cite**:
+
+	  - Code électoral L44 à L46, L228 à L239
+
+	**Nouveaux textes**:
+
+	  - Code général des collectivités territoriales - art. L5215-11 (Ab)
+	  - Code général des collectivités territoriales - art. L5215-12 (Ab)
 
 
 ##### SOUS-SECTION 3 : Fonctionnement du conseil de communauté.
@@ -7352,6 +7824,204 @@ par les dispositions du chapitre I du titre II du présent livre qui ne sont pas
 	**Nouveaux textes**:
 
 	  - Code général des collectivités territoriales - art. L5211-1 (M)
+
+
+##### SOUS-SECTION 4 : Organismes consultatifs placés auprès du conseil de communauté.
+
+###### Article L165-36
+
+Lorsque toutes les communes de l'agglomération ne sont pas directement représentées au sein du conseil de communauté, le
+président de ce conseil réunit les maires de toutes les communes de l'agglomération en vue de leur consultation dans les cas
+
+suivants :
+
+- à la demande des deux tiers des maires des communes non directement représentées au conseil de communauté ;
+
+- à la demande de la majorité des maires de l'agglomération ;
+
+- à la demande du conseil de communauté ;
+
+- avant le vote du budget de la communauté.
+
+Cette réunion est présidée par le président du conseil de communauté.
+
+Les modalités de la consultation sont déterminées par le conseil de communauté [*attributions*].
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - SPEC_APPLI: *Dispositions non applicables aux communes des départements de la Guadeloupe, de la Guyane, de la Martinique, de la Réunion et de Saint-Pierre-et-Miquelon*
+	  - SPEC_APPLI: CODE DES COMMUNES. - art. L182-1 (Ab)
+	  - SPEC_APPLI: Code des communes L182-1, L182-2 :
+
+	**Anciens textes**:
+
+	  - Loi n°66-1069 du 31 décembre 1966 - art. 18 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°77-90 1977-01-27
+
+	**Modifié par**:
+
+	  - Loi n°82-1169 1982-12-31 ART. 53 JORF 1ER JANVIER 1983 date d'entrée en vigueur 13 MARS 1983
+
+	**Abrogé par**:
+
+	  - Loi n°95-115 du 4 février 1995 - art. 80 (V)
+
+	**Cité par**:
+
+	  - Loi n°95-115 du 4 février 1995 - art. 80 (V)
+
+
+###### Article L165-36-1
+
+Le maire d'une commune non directement représentée au conseil de communauté assiste, avec voix consultative, aux séances du
+conseil de communauté lorsque l'ordre du jour comprend des délibérations sur des affaires dont l'exécution est prévue, en
+tout ou partie, dans les limites de la commune.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°77-90 1977-01-27
+
+	**Créé par**:
+
+	  - Loi n°82-1169 1982-12-31 ART. 54 JORF 1ER JANVIER 1983 date d'entrée en vigueur 13 MARS 1983
+
+	**Abrogé par**:
+
+	  - Loi n°95-115 du 4 février 1995 - art. 80 (V)
+
+	**Cité par**:
+
+	  - Loi n°95-115 du 4 février 1995 - art. 80 (V)
+
+
+###### Article L165-36-2
+
+Au cours d'une séance [*nombre, fréquence, périodicité*] par an au moins, le conseil de communauté délibère des questions
+inscrites à l'ordre du jour à la demande des maires des communes qui ne sont pas directement représentées au conseil de
+communauté.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°77-90 1977-01-27
+
+	**Créé par**:
+
+	  - Loi n°82-1169 1982-12-31 ART. 55 JORF 1ER JANVIER 1983 date d'entrée en vigueur 13 MARS 1983
+
+	**Abrogé par**:
+
+	  - Loi n°95-115 du 4 février 1995 - art. 80 (V)
+
+	**Cité par**:
+
+	  - Loi n°95-115 du 4 février 1995 - art. 80 (V)
+
+
+###### Article L165-37
+
+Dans les agglomérations comportant plus de cinquante communes [*nombre*] pourvues des secteurs électoraux mentionnés à
+l'article
+
+L. 165-29, des comités consultatifs composés des maires des communes de chaque secteur peuvent être créés.
+
+Dans les agglomérations où n'ont pas été créés des secteurs électoraux, les mêmes dispositions s'appliquent à chaque
+groupement de communes mentionné à l'article L. 165-30, constitué en vue de réunir une population municipale totale égale ou
+supérieure au quotient.
+
+Ces comités dits "de secteur" [*attributions, compétences*] sont appelés à donner leur avis au conseil de communauté sur
+toutes les questions intéressant leurs communes.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - SPEC_APPLI: *Dispositions non applicables aux communes des départements de la Guadeloupe, de la Guyane, de la Martinique, de la Réunion et de Saint-Pierre-et-Miquelon*
+	  - SPEC_APPLI: CODE DES COMMUNES. - art. L182-1 (Ab)
+	  - SPEC_APPLI: Code des communes L182-1, L182-2 :
+
+	**Anciens textes**:
+
+	  - Loi n°66-1069 du 31 décembre 1966 - art. 19 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°77-90 1977-01-27
+
+	**Modifié par**:
+
+	  - Loi n°82-1169 1982-12-31 ART. 56 JORF 1ER JANVIER 1983 date d'entrée en vigueur 13 MARS 1983
+
+	**Abrogé par**:
+
+	  - Loi n°95-115 du 4 février 1995 - art. 80 (V)
+
+	**Cité par**:
+
+	  - Loi n°95-115 du 4 février 1995 - art. 80 (V)
+
+	**Cite**:
+
+	  - CODE DES COMMUNES. - art. L165-30 (M)
+
+
+##### SECTION 6 : Durée de la communauté urbaine.
+
+###### Article L165-38
+
+La communauté urbaine est créée sans limitation de durée.
+
+Elle peut être dissoute sur la demande des conseils municipaux des communes qu'elle rassemble ; statuant à la majorité fixée
+au premier alinéa de l'article L. 165-26. La dissolution est prononcée par décret en conseil des ministres.
+
+Un décret en conseil d'état détermine, sous réserve du droit des tiers, les conditions dans lesquelles la
+
+communauté est liquidée ; il fixe notamment les conditions dans lesquelles s'opère le transfert des biens, droits et
+obligations, après l'avis d'une commission composée comme il est dit à l'article L. 165-21.
+
+Les personnels de la communauté sont répartis entre les communes membres ou leurs éventuels organismes de coopération, par
+une commission présidée par le président de la commission nationale paritaire du personnel communal, sans qu'il puisse être
+procédé à un dégagement des cadres et en tenant compte de leurs droits acquis. Les communes ou leurs éventuels organismes de
+coopération attributaires supportent les charges financières correspondantes.
+
+Un décret en conseil d'état fixe les conditions et les modalités de cette répartition ainsi que la composition de cette
+commission.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°77-825 1977-07-22
+
+	**Modifié par**:
+
+	  - Loi n°82-1169 1982-12-31 art. 65 I et II JORF 1er janvier 1983 en vigueur le 13 mars 1983
+
+	**Cité par**:
+
+	  - Loi n°84-53 du 26 janvier 1984 - art. 121 (M)
+
+	**Abrogé par**:
+
+	  - Loi n°96-142 du 21 février 1996 - art. 12 (V) JORF 24 février 1996
+
+	**Cite**:
+
+	  - CODE DES COMMUNES. - art. L165-21 (Ab)
+	  - CODE DES COMMUNES. - art. L165-26 (M)
+
+	**Nouveaux textes**:
+
+	  - Code général des collectivités territoriales - art. L5215-4 (V)
+	  - Code général des collectivités territoriales - art. L5215-42 (M)
 
 
 #### CHAPITRE 6 : Syndicats mixtes.
@@ -10548,6 +11218,118 @@ Le préfet de police exerce les pouvoirs dévolus par l'article L. 131-3 au pré
 	  - Code des communes L131-3 et L131-4
 
 
+###### Article L184-14
+
+Le préfet de police est chargé, dans le domaine de sa compétence, de l'exécution des délibérations du conseil de Paris et le
+cas échéant, des conseils d'arrondissement.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Loi n°75-1331 du 31 décembre 1975 - art. 9 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°77-90 1977-01-27
+
+	**Modifié par**:
+
+	  - Loi n°82-1169 1982-12-31 art. 42 III JORF 1er janvier 1983 en vigueur le 13 mars 1983
+
+	**Abrogé par**:
+
+	  - Loi n°96-142 du 21 février 1996 - art. 12 (V) JORF 24 février 1996
+
+	**Nouveaux textes**:
+
+	  - Code général des collectivités territoriales - art. L2512-7 (V)
+
+
+###### Article L184-15
+
+Le préfet de police, ou son représentant, a entrée au conseil de Paris et aux conseils d'arrondissement.
+
+Il est entendu quand il le demande et assiste aux délibérations relatives aux affaires relevant de sa compétence, excepté
+lorsqu'il s'agit de l'apurement de ses comptes.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°75-1331 du 31 décembre 1975 - art. 11 (M)
+
+	**Codifié par**:
+
+	  - Décret n°77-90 1977-01-27
+
+	**Modifié par**:
+
+	  - Loi n°82-1169 1982-12-31 art. 42 III JORF 1er janvier 1983 en vigueur le 13 mars 1983
+
+	**Abrogé par**:
+
+	  - Loi n°96-142 du 21 février 1996 - art. 12 (V) JORF 24 février 1996
+
+	**Nouveaux textes**:
+
+	  - Code général des collectivités territoriales - art. L2512-7 (V)
+
+
+###### Article L184-16
+
+Le conseil de Paris et les conseils d'arrondissement sont réunis à la demande du préfet de police pour délibérer des affaires
+relevant de la compétence de celui-ci.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°75-1331 du 31 décembre 1975 - art. 11 (M)
+
+	**Codifié par**:
+
+	  - Décret n°77-90 1977-01-27
+
+	**Modifié par**:
+
+	  - Loi n°82-1169 1982-12-31 art. 42 III JORF 1er janvier 1983 en vigueur le 13 mars 1983
+
+	**Abrogé par**:
+
+	  - Loi n°96-142 du 21 février 1996 - art. 12 (V) JORF 24 février 1996
+
+	**Nouveaux textes**:
+
+	  - Code général des collectivités territoriales - art. L2512-6 (V)
+
+
+##### SECTION 6 : La représentation de l'Etat dans la commune de Paris.
+
+###### Article L184-25
+
+Le commissaire de la république du département de Paris et le préfet de police sont, dans le cadre de leurs attributions
+respectives, les représentants de l'Etat sur le territoire de la ville de Paris.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°77-90 1977-01-27
+
+	**Modifié par**:
+
+	  - Loi n°82-1169 1982-12-31 art. 42 JORF 1er janvier 1983 en vigueur le 13 mars 1983
+
+	**Abrogé par**:
+
+	  - Loi n°96-142 du 21 février 1996 - art. 12 (V) JORF 24 février 1996
+
+	**Nouveaux textes**:
+
+	  - Code général des collectivités territoriales - art. L2512-12 (V)
+
+
 ## Organisation communale
 
 ### Nom, limites territoriales et population des communes
@@ -10855,40 +11637,6 @@ entre les communes intéressées.
 ### ORGANES DE LA COMMUNE
 
 #### CONSEIL MUNICIPAL .
-
-###### Article L121-1
-
-Le corps municipal de chaque commune se compose du conseil municipal, du maire et de deux ou plusieurs adjoints [*nombre*].
-
-**Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - SPEC_APPLI: *Dispositions non applicables aux communes des départements de la Moselle, du Bas-Rhin et du Haut-Rhin (Alsace-Lorraine)*
-	  - SPEC_APPLI: Code des communes L181-1 :
-
-	**Anciens textes**:
-
-	  - Code de l'administration communale 15
-
-	**Codifié par**:
-
-	  - Décret n°77-90 1977-01-27
-
-	**Créé par**:
-
-	  - Décret n°77-90 1977-01-27 JORF et JONC 3 février 1977 date d'entrée en vigueur élection des maires
-
-	**Cité par**:
-
-	  - Loi n°83-8 du 7 janvier 1983 - art. 95 (M)
-	  - Loi n°83-8 du 7 janvier 1983 - art. 95-1 (V)
-	  - Loi n°90-1247 du 29 décembre 1990 - art. 2 (Ab)
-
-	**Nouveaux textes**:
-
-	  - Code général des collectivités territoriales - art. L2121-1 (V)
-
 
 ##### Fonctionnement .
 
@@ -12944,35 +13692,32 @@ Elle ne peut, toutefois, intervenir si plus d'un tiers des conseils municipaux s
 	  - Code général des collectivités territoriales - art. L5212-27 (Ab)
 
 
-##### DUREE .
+##### Durée du syndicat .
 
 ###### Article L163-18
 
-Le syndicat est formé, soit à perpétuité, soit pour une durée déterminée par la décision institutive.
+Le syndicat est formé, soit sans fixation de terme, soit pour une durée déterminée par la décision institutive.
 
 Il est dissous :
 
-- soit de plein droit à l'expiration de cette durée ou à l'achèvement de l'opération qu'il avait pour objet de conduire ou à
+a) Soit de plein droit à l'expiration de cette durée ou à l'achèvement de l'opération qu'il avait pour objet de conduire ou à
 la date du transfert à un district des services en vue desquels il avait été institué ;
 
-- soit par le consentement de tous les conseils municipaux intéressés.
+b) Soit par le consentement de tous les conseils municipaux intéressés.
 
-- soit à la suite d'une décision de retrait prise en dehors des cas prévus à l'article L. 163-16 dans un délai de six mois
-après le renouvellement des conseils municipaux, par délibération spéciale du conseil municipal d'une commune dont la
-population totale représente plus du quart de la population totale du syndicat [*proportion*] et dont la contribution au
-budget du syndicat représente, au moment où est prise cette délibération, plus de la moitié des recettes du syndicat.
+Il peut être dissous [*conditions*], soit sur la demande motivée de la majorité de ces conseils municipaux et l'avis du
+bureau du conseil général, soit d'office par un décret rendu sur l'avis conforme du conseil général et du Conseil d'Etat.
 
-Il peut être dissous, soit sur la demande motivée de la majorité de ces conseils municipaux et l'avis du bureau du conseil
-général, soit d'office par un décret rendu sur l'avis conforme du conseil général et du conseil d'Etat.
+La répartition des personnels concernés entre les communes membres est soumise, pour avis, aux commissions paritaires
+compétentes.
+
+Elle ne peut donner lieu à un dégagement des cadres. Les personnels concernés sont nommés dans un emploi de même niveau et en
+tenant compte de leurs droits acquis. Les communes attributaires supportent les charges financières correspondantes.
 
 Le décret de dissolution détermine, sous la réserve des droits des tiers, les conditions dans lesquelles le syndicat est
 liquidé.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Code de l'administration communale 151 MODIFIE
 
 	**Codifié par**:
 
@@ -12980,13 +13725,17 @@ liquidé.
 
 	**Modifié par**:
 
-	  - Loi n°82-213 1982-03-02 ART. 58 X JORF 3 MARS 1982
+	  - Loi n°82-1169 1982-12-31 ART. 62 JORF 1ER JANVIER 1983 date d'entrée en vigueur 13 MARS 1983
 
 	**Cité par**:
 
 	  - Loi n°84-53 du 26 janvier 1984 - art. 121 (M)
 	  - CODE DES COMMUNES. - art. L167-5 (Ab)
 	  - CODE DES COMMUNES. - art. R*163-6 (Ab)
+
+	**Anciens textes**:
+
+	  - Code de l'administration communale 151 MODIFIE
 
 
 #### DISTRICTS .
@@ -13033,21 +13782,25 @@ et L. 122-8 [*élection du maire et des adjoints, incompatibilités de fonctions
 
 Le district est constitué soit à perpétuité, soit pour une durée déterminée par la décision institutive.
 
-Il est dissous soit sur la demande de la moitié au moins des conseils municipaux représentant plus de la moitié de la
-population totale du district, soit lorsque, par délibération spéciale de son conseil municipal, une commune exerce son droit
-de retrait dans les conditions prévues à l'article L. 164-10 [*proportion*].
+Il est dissous [*conditions*] sur la demande de la moitié au moins des conseils municipaux représentant plus de la moitié de
+la population totale du district.
 
 Il est également dissous de plein droit selon les dispositions de l'article L. 165-18 [*transfert de compétences à une
 communauté urbaine*].
 
-L'arrêté de dissolution détermine, sous la réserve des droits des tiers, les conditions dans lesquelles le district est
+La répartition des personnels concernés entre les communes membres est soumise, pour avis, aux commissions paritaires
+compétentes. Elle ne peut donner lieu à un dégagement des cadres. Les personnels concernés sont nommés dans un emploi de même
+niveau et en tenant compte de leurs droits acquis. Les communes attributaires supportent les charges financières
+correspondantes.
+
+L'arrêt de dissolution détermine, sous la réserve des droits des tiers, les conditions dans lesquelles le district est
 liquidé.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°77-90 1977-01-27
+	  - Loi n°82-1169 1982-12-31 ART. 63 ET 64 JORF 1ER JANVIER 1983 date d'entrée en vigueur 13 MARS 1983
 
 	**Cité par**:
 
@@ -13055,82 +13808,59 @@ liquidé.
 
 	**Cite**:
 
-	  - CODE DES COMMUNES. - art. L164-10 (Ab)
 	  - CODE DES COMMUNES. - art. L165-18 (M)
-
-
-###### Article L164-10
-
-A l'expiration d'un délai de dix années à compter de la date de la décision institutive, et dans un délai de six mois après
-le renouvellement des conseils municipaux, toute commune qui en fait partie peut exercer un droit de retrait si elle
-satisfait aux deux conditions suivantes :
-
-Sa population totale représente plus du quart de la population totale du district ;
-
-La contribution de cette commune au budget du district ou le produit des impôts directs perçus sur son territoire pour le
-compte du district représentent respectivement, au moment où est prise la délibération spéciale prévue à l'article L. 164-9
-(alinéa 2), plus de la moitié du total des contributions des communes associées ou plus de la moitié des recettes perçues par
-le district au titre de la fiscalité directe.
-
-**Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°77-90 1977-01-27
-
-	**Abrogé par**:
-
-	  - Loi n°82-1169 1982-12-31 ART. 65 JORF 1ER JANVIER 1983 date d'entrée en vigueur 13 MARS 1983
-
-	**Cité par**:
-
-	  - CODE DES COMMUNES. - art. L164-9 (M)
-
-	**Cite**:
-
-	  - Code des communes L164-9 al. 2
+	  - Décret n°77-825 1977-07-22
 
 
 #### COMMUNAUTES URBAINES
 
-##### Compétence de la communauté urbaine
+##### Compétences de la communauté urbaine
 
-##### Etendue des compétences
+##### Etendue des compétences .
 
 ###### Article L165-7
 
-Sont transférées à la communauté urbaine les compétences attribuées par les lois et règlements aux communes dans les domaines
-suivants :
+Sont transférées à la communauté urbaine les compétences attribuées aux communes dans les domaines suivants :
 
-1° plan de modernisation et d'équipement, plan directeur d'urbanisme intercommunal et plans d'urbanisme communaux, ceux-ci
-devant être soumis pour avis aux conseils municipaux intéressés ; constitution de réserves foncières intéressant la
+1° Chartes intercommunales de développement et d'aménagement, schémas directeurs, plans d'occupation des sols ou documents
+d'urbanisme en tenant lieu, programmes locaux de l'habitat, constitution de réserves foncières intéressant la communauté, les
+conseils municipaux devant être saisis pour avis ;
+
+2° Création et équipement des zones d'habitation, des zones de rénovation urbaine, des zones de réhabilitation, des zones
+industrielles, des zones artisanales et des zones portuaires ;
+
+3° Construction, aménagement et entretien des locaux scolaires dans les zones mentionnées au 2° et réalisés par la
 communauté ;
 
-2° création et équipement des zones d'aménagement concerté : zones d'habitation, zones industrielles, secteurs de rénovation
-ou de restructuration ;
+à l'expiration d'un délai de dix ans à dater de leur mise en service, la propriété et l'entretien de ces locaux sont
+transférés, sur sa demande, à la commune sur le territoire de laquelle ils sont situés ; en ce cas, les conditions de prise
+en charge des annuités d'emprunt afférentes à ces locaux sont déterminées par délibérations concordantes du conseil de
+communauté et du conseil municipal intéressé ;
 
-3° construction et aménagement des locaux scolaires dans les zones d'aménagement concerté ; entretien de ces locaux lorsque
-la zone s'étend sur plusieurs communes ;
+4° Services de secours et de lutte contre l'incendie ;
 
-4° service du logement et organismes d'habitations à loyer modéré ;
+5° Transports urbains de voyageurs ;
 
-5° services de secours et lutte contre l'incendie ;
+6° Lycées et collèges ;
 
-6° transports urbains de voyageurs ;
+7° Eau, assainissement, à l'exclusion de l'hydraulique agricole, ordures ménagères ;
 
-7° lycées et collèges ;
+8° Création de cimetières et extension des cimetières ainsi créés, fours crématoires ;
 
-8° eau, assainissement, à l'exclusion de l'hydraulique agricole, ordures ménagères ;
+9° Abattoirs, abattoirs marchés, marchés d'intérêt national ;
 
-9° création de cimetières et extension des cimetières ainsi créés ; fours crématoires ;
+10° Voirie et signalisation ;
 
-10° abattoirs, abattoirs marchés, marchés d'intérêt national ;
+11° Parcs de stationnement.
 
-11° voirie et signalisation ;
+Lors de la création de la communauté, les communes peuvent décider, dans les conditions de majorité prévues à l'article L.
+165-4, compétences de la communauté tout ou partie de celles relatives aux équipements ou opérations mentionnés aux 2°, 8°,
+10° et 11° ci-dessus lorsque ces équipements ou ces opérations sont principalement destinés aux habitants d'une commune.
 
-12° parcs de stationnement.
-
-Des décrets, lorsque la communauté urbaine est créée par décret, des décrets en Conseil d'Etat dans les autres cas fixent
+Des décrets, lorsque la communauté urbaine est créée par décret, des décrets en conseil d'état dans les autres cas fixent
 pour chaque agglomération les dates d'exercice des différentes compétences transférées, pour tout ou partie de celles-ci.
 
 Ces décrets peuvent, pour certaines des communes composant la communauté, décider qu'il est sursis temporairement au
@@ -13147,6 +13877,10 @@ transfert d'une ou de plusieurs compétences énumérées au présent article.
 
 	  - Décret n°77-90 1977-01-27
 
+	**Modifié par**:
+
+	  - Loi n°82-1169 1982-12-31 art. 57 JORF 1er janvier 1983 en vigueur le 13 mars 1983
+
 	**Cité par**:
 
 	  - Loi n°82-1169 du 31 décembre 1982 - art. 60 (V)
@@ -13157,128 +13891,9 @@ transfert d'une ou de plusieurs compétences énumérées au présent article.
 	  - CODE DES COMMUNES. - art. R*255-13 (Ab)
 	  - CODE DES COMMUNES. - art. R*255-9 (Ab)
 
-
-###### Article L165-10
-
-Le conseil de communauté peut, par délibération, transférer en tout ou partie à la communauté urbaine les compétences des
-communes dans les domaines suivants :
-
-1° Equipement culturel ;
-
-2° Equipement sportif et socio-éducatif ;
-
-3° Equipement sanitaire et services sanitaires et sociaux ;
-
-4° Espaces verts ;
-
-5° Eclairage public.
-
-**Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - SPEC_APPLI: *Dispositions non applicables aux communes des départements de la Guadeloupe, de la Guyane, de la Martinique, de la Réunion et de Saint-Pierre-et-Miquelon*
-	  - SPEC_APPLI: CODE DES COMMUNES. - art. L182-1 (Ab)
-	  - SPEC_APPLI: Code des communes L182-1, L182-2 :
-
-	**Anciens textes**:
-
-	  - Loi n°66-1069 du 31 décembre 1966 - art. 5 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°77-90 1977-01-27
-
-	**Créé par**:
-
-	  - Décret n°77-90 1977-01-27 JORF ET JONC 3 FEVRIER 1977 date d'entrée en vigueur 20 MARS 1977
-
-	**Abrogé par**:
-
-	  - Loi n°82-1169 du 31 décembre 1982 - art. 61 (V) JORF 1ER JANVIER 1983 date d'entrée en vigueur 13 MARS 1983
-
-	**Cité par**:
-
-	  - Loi n°82-1169 du 31 décembre 1982 - art. 61 (V)
-	  - CODE DES COMMUNES. - art. L172-7 (Ab)
-	  - CODE DES COMMUNES. - art. R*255-13 (Ab)
-	  - CODE DES COMMUNES. - art. R*255-9 (Ab)
-
-
-###### Article L165-11
-
-Le conseil de communauté peut, par délibération et avec l'accord des conseils municipaux des communes intéressées de la
-communauté urbaine, étendre les attributions de celle-ci à la gestion des services communaux et à l'étude et l'exécution de
-tous travaux autres que ceux prévus aux articles L. 165-7 [*attributions transférées de droit à la communauté*] et L. 165-10
-[*attributions transférées à la communauté par délibération du conseil de communauté*].
-
-**Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - SPEC_APPLI: *Dispositions non applicables aux communes des départements de la Guadeloupe, de la Guyane, de la Martinique, de la Réunion et de Saint-Pierre-et-Miquelon*
-	  - SPEC_APPLI: CODE DES COMMUNES. - art. L182-1 (Ab)
-	  - SPEC_APPLI: Code des communes L182-1, L182-2 :
-
-	**Anciens textes**:
-
-	  - Loi n°66-1069 du 31 décembre 1966 - art. 6 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°77-90 1977-01-27
-
-	**Créé par**:
-
-	  - Décret n°77-90 1977-01-27 JORF et JONC 3 février 1977 date d'entrée en vigueur élection des maires
-
-	**Cité par**:
-
-	  - Loi n°82-1169 du 31 décembre 1982 - art. 60 (V)
-	  - Loi n°82-1169 du 31 décembre 1982 - art. 61 (V)
-	  - CODE DES COMMUNES. - art. L172-7 (Ab)
-	  - CODE DES COMMUNES. - art. R*165-6 (Ab)
-	  - CODE DES COMMUNES. - art. R*255-13 (Ab)
-	  - CODE DES COMMUNES. - art. R*255-9 (Ab)
-
 	**Cite**:
 
-	  - Code des communes L165-7 et L165-10
-
-	**Nouveaux textes**:
-
-	  - Code général des collectivités territoriales - art. L5215-41 (Ab)
-
-
-###### Article L165-15
-
-La communauté urbaine peut conclure, avec les communes de l'agglomération, avec leurs groupements ou avec toute autre
-collectivité ou établissement public, toute convention en vue de réaliser un ou plusieurs objets entrant dans leurs
-compétences respectives.
-
-**Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - SPEC_APPLI: *Dispositions non applicables aux communes des départements de la Guadeloupe, de la Guyane, de la Martinique, de la Réunion et de Saint-Pierre-et-Miquelon*
-	  - SPEC_APPLI: CODE DES COMMUNES. - art. L182-1 (Ab)
-	  - SPEC_APPLI: Code des communes L182-1, L182-2 :
-
-	**Anciens textes**:
-
-	  - Loi n°66-1069 du 31 décembre 1966 - art. 13 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°77-90 1977-01-27
-
-	**Créé par**:
-
-	  - Décret n°77-90 1977-01-27 JORF et JONC 3 février 1977 date d'entrée en vigueur élection des maires
-
-	**Nouveaux textes**:
-
-	  - Code général des collectivités territoriales - art. L5215-27 (V)
+	  - CODE DES COMMUNES. - art. L165-4 (M)
 
 
 ##### Le conseil de communauté
@@ -13287,9 +13902,18 @@ compétences respectives.
 
 ###### Article L165-24
 
-La communauté urbaine est administrée par un conseil composé de délégués des communes. 
+La communauté urbaine est administrée par un conseil composé de délégués des communes.
 
-Ce conseil règle par ses délibérations les affaires qui sont de la compétence de la communauté.
+Le conseil règle [*attributions*] par ses délibérations les affaires qui sont de la compétence de la communauté.
+
+Les délégués des communes directement représentées au conseil de communauté sont désignés par chaque conseil municipal en son
+sein. Toutefois, au cas où le nombre des conseillers municipaux est inférieur au nombre de sièges attribués à la commune, le
+conseil municipal peut désigner tout citoyen éligible au conseil municipal de la commune pour occuper les sièges qui ne
+peuvent être pourvus par des conseillers municipaux.
+
+Les délégués des communes non directement représentées au conseil de communauté sont désignés au sein des conseils municipaux
+de ces communes par un collège composé conformément aux dispositions des articles L. 165-29 ou L. 165-30. Ce collège
+détermine, à la majorité absolue des suffrages exprimés, le mode de scrutin applicable à la désignation des délégués.
 
 **Liens relatifs à cet article**
 
@@ -13301,230 +13925,23 @@ Ce conseil règle par ses délibérations les affaires qui sont de la compétenc
 
 	**Anciens textes**:
 
-	  - Loi n°66-1069 1966-12-31 art. 15 I al. 1 (partie) et art. 17 al. 1
+	  - Loi n°66-1069 1966-12-31 ART. 15 I AL. 1 (PARTIE) ET ART. 17 AL. 1
 
 	**Codifié par**:
 
 	  - Décret n°77-90 1977-01-27
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°77-90 1977-01-27 JORF et JONC 3 février 1977 date d'entrée en vigueur élection des maires
+	  - Loi n°82-1169 1982-12-31 ART. 45 JORF 1ER JANVIER 1983 date d'entrée en vigueur 13 MARS 1983
+
+	**Cite**:
+
+	  - CODE DES COMMUNES. - art. L165-29 (M)
+	  - CODE DES COMMUNES. - art. L165-30 (M)
 
 
 ##### Composition du conseil de communauté et désignation de ses membres
-
-###### Article L165-25
-
-Le conseil de communauté comprend, selon que la population municipale totale de l'agglomération compte 200.000 habitants au
-moins, 70 ou 50 membres.
-
-Dans les agglomérations comportant plus de cinquante communes, ces chiffres sont respectivement portés à 90 et 70.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°66-1069 1966-12-31 art. 15 I al. 1 (partie) et 2
-
-	**Codifié par**:
-
-	  - Décret n°77-90 1977-01-27
-
-	**Cité par**:
-
-	  - CODE DES COMMUNES. - art. L168-3 (Ab)
-	  - CODE DES COMMUNES. - art. R*165-32 (M)
-
-	**Nouveaux textes**:
-
-	  - Code général des collectivités territoriales - art. L5215-6 (Ab)
-
-
-###### Article L165-26
-
-La répartition des sièges au sein du conseil de communauté s'effectue par accord entre les conseils municipaux intéressés, à
-la majorité fixée à l'article L. 165-4 [*deux tiers des conseils municipaux des communes représentant plus de la moitié de la
-population totale de celles-ci ou moitié des conseils municipaux des communes comptant les deux tiers de la population*].
-
-Cet accord, qui doit intervenir dans un délai de trois mois à compter de la publication du décret fixant le périmètre de
-l'agglomération, est entériné par arrêté du représentant de l'Etat dans le département [*commissaire de la République,
-conditions de forme*].
-
-**Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - SPEC_APPLI: *Dispositions non applicables aux communes des départements de la Guadeloupe, de la Guyane, de la Martinique, de la Réunion et de Saint-Pierre-et-Miquelon*
-	  - SPEC_APPLI: CODE DES COMMUNES. - art. L165-28 (M)
-	  - SPEC_APPLI: CODE DES COMMUNES. - art. L182-1 (Ab)
-	  - SPEC_APPLI: Code des communes L182-1, L182-2 :
-	  - TXT_ASSOCIE: Code des communes R165-34
-
-	**Anciens textes**:
-
-	  - Loi n°66-1069 1966-12-31 art. 15 II al. 1 et 2
-
-	**Codifié par**:
-
-	  - Décret n°77-90 1977-01-27
-
-	**Cité par**:
-
-	  - Loi n°77-825 du 22 juillet 1977 - art. 7 (V)
-	  - Loi n°95-115 du 4 février 1995 - art. 80 (V)
-	  - CODE DES COMMUNES. - art. L165-28 (M)
-	  - CODE DES COMMUNES. - art. L165-38 (Ab)
-	  - CODE DES COMMUNES. - art. R*165-34 (Ab)
-
-	**Modifié par**:
-
-	  - Loi n°82-213 du 2 mars 1982 - art. 21 (V) JORF 3 MARS 1982
-
-	**Cite**:
-
-	  - CODE DES COMMUNES. - art. L165-4 (M)
-
-
-###### Article L165-28
-
-A défaut de l'accord prévu à l'article L. 165-26 [*décision de la majorité des conseils municipaux intéressés*], la
-répartition des sièges s'effectue à la représentation proportionnelle suivant la règle du plus fort reste ; l'ensemble des
-communes dont la population municipale totale est inférieure au quotient obtenu en divisant la population municipale totale
-de l'agglomération sur la base du dernier recensement général par le nombre de sièges à pourvoir, se voit attribuer un nombre
-de sièges calculé sur la population globale de ces communes.
-
-**Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - SPEC_APPLI: *Dispositions non applicables aux communes des départements de la Guadeloupe, de la Guyane, de la Martinique, de la Réunion et de Saint-Pierre-et-Miquelon*
-	  - SPEC_APPLI: CODE DES COMMUNES. - art. L182-1 (Ab)
-	  - SPEC_APPLI: Code des communes L182-1, L182-2 :
-
-	**Anciens textes**:
-
-	  - Loi n°66-1069 1966-12-31 art. 15 III
-
-	**Codifié par**:
-
-	  - Décret n°77-90 1977-01-27
-
-	**Créé par**:
-
-	  - Décret n°77-90 1977-01-27 JORF et JONC 3 février 1977 date d'entrée en vigueur élection des maires
-
-	**Cite**:
-
-	  - CODE DES COMMUNES. - art. L165-26 (M)
-
-	**Cité par**:
-
-	  - CODE DES COMMUNES. - art. L165-29 (Ab)
-	  - CODE DES COMMUNES. - art. L165-30 (Ab)
-	  - CODE DES COMMUNES. - art. R*165-32 (M)
-
-	**Nouveaux textes**:
-
-	  - Code général des collectivités territoriales - art. L5215-7 (V)
-
-
-###### Article L165-29
-
-Les sièges attribués à chaque commune sont pourvus par le conseil municipal au scrutin majoritaire à deux tours ; un droit de
-vote plural peut être accordé par le conseil municipal à certains de ses membres.
-
-Les sièges attribués à l'ensemble des communes, dont la population municipale totale est inférieure au quotient prévu à
-l'article précédent [*population municipale totale de l'agglomération divisée par le nombre de sièges à pourvoir*], sont
-pourvus au scrutin majoritaire de liste plurinominal à deux tours par un collège composé des maires des communes intéressées
-et convoqué par le représentant de l'Etat dans le département [*commissaire de la République*].
-
-Pour l'application du précédent alinéa aux agglomérations comportant plus de cinquante communes [*nombre*], les sièges sont
-pourvus sur la base de secteurs électoraux qui sont délimités par décret en Conseil d'Etat ; la population de ces secteurs ne
-peut être inférieure au sixième [*proportion*] de la population globale des communes intéressées.
-
-**Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - SPEC_APPLI: *Dispositions non applicables aux communes des départements de la Guadeloupe, de la Guyane, de la Martinique, de la Réunion et de Saint-Pierre-et-Miquelon*
-	  - SPEC_APPLI: CODE DES COMMUNES. - art. L182-1 (Ab)
-	  - SPEC_APPLI: Code des communes L182-1, L182-2 :
-
-	**Anciens textes**:
-
-	  - Loi n°66-1069 1966-12-31 art. 15 IV al. 1, 2 et 3
-
-	**Codifié par**:
-
-	  - Décret n°77-90 1977-01-27
-
-	**Modifié par**:
-
-	  - Loi n°82-213 du 2 mars 1982 - art. 21 (V) JORF 3 MARS 1982
-
-	**Cité par**:
-
-	  - Loi n°95-115 du 4 février 1995 - art. 80 (V)
-	  - CODE DES COMMUNES. - art. L165-24 (M)
-	  - CODE DES COMMUNES. - art. L165-37 (M)
-
-	**Cite**:
-
-	  - CODE DES COMMUNES. - art. L165-28 (M)
-
-
-###### Article L165-30
-
-Dans les agglomérations où n'ont pas été créés des secteurs électoraux, les communes dont le chiffre de population municipale
-totale n'atteint pas le quotient [*population municipale totale de l'agglomération divisée par le nombre de sièges à
-pourvoir*]
-
-prévu à l'article L. 165-28 peuvent, si elles sont limitrophes,
-
-se grouper entre elles afin de réunir une population globale égale ou supérieure à ce quotient. 
-
-Leurs délégués sont élus au scrutin majoritaire à deux tours par un collège composé des conseillers municipaux des communes
-regroupées. 
-
-Lorsque les communes n'ont pas accepté de se regrouper conformément aux dispositions ci-dessus et qu'elles ne réunissent pas
-une population globale au moins égale au quotient prévu à l'article L. 165-28, elles se rattachent à l'un des groupements
-existants. 
-
-A défaut de rattachement volontaire dans le délai de trois mois, il y est procédé par décret.
-
-**Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - SPEC_APPLI: *Dispositions non applicables aux communes des départements de la Guadeloupe, de la Guyane, de la Martinique, de la Réunion et de Saint-Pierre-et-Miquelon*
-	  - SPEC_APPLI: CODE DES COMMUNES. - art. L182-1 (Ab)
-	  - SPEC_APPLI: Code des communes L182-1, L182-2 :
-
-	**Anciens textes**:
-
-	  - Loi n°66-1069 1966-12-31 art. 15 IV al. 4, 5, 6
-	  - Loi n°66-1069 du 31 décembre 1966 - art. 5 (Ab)
-	  - Loi n°66-1069 du 31 décembre 1966 - art. 6 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°77-90 1977-01-27
-
-	**Créé par**:
-
-	  - Décret n°77-90 1977-01-27 JORF et JONC 3 février 1977 date d'entrée en vigueur élection des maires
-
-	**Cité par**:
-
-	  - Loi n°95-115 du 4 février 1995 - art. 80 (V)
-	  - CODE DES COMMUNES. - art. L165-24 (M)
-	  - CODE DES COMMUNES. - art. L165-37 (Ab)
-
-	**Cite**:
-
-	  - CODE DES COMMUNES. - art. L165-28 (M)
-
 
 ###### Article L165-31
 
@@ -13567,206 +13984,6 @@ Un décret en Conseil d'Etat détermine les modalités d'application de ces disp
 	**Nouveaux textes**:
 
 	  - Code général des collectivités territoriales - art. L5215-8 (Ab)
-
-
-###### Article L165-32
-
-Les conditions d'éligibilité, les inéligibilités et les incompatibilités applicables aux membres du conseil de communauté
-sont celles que prévoient pour les élections au conseil municipal les articles L. 44 à L. 46 et L. 228 à L. 239 du code
-électoral. 
-
-Le mandat des conseillers de la communauté expire deux mois après celui des conseils municipaux [*date*]. 
-
-En cas de suspension, de dissolution ou de démission des membres en exercice d'un conseil municipal, le mandat des délégués
-est prorogé jusqu'à la désignation des nouveaux délégués. 
-
-En cas de vacances parmi les conseillers de la communauté,
-
-par suite de décès, de démission ou toute autre cause, il est pourvu au remplacement dans le délai de deux mois.
-
-**Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - SPEC_APPLI: *Dispositions non applicables aux communes des départements de la Guadeloupe, de la Guyane, de la Martinique, de la Réunion et de Saint-Pierre-et-Miquelon*
-	  - SPEC_APPLI: CODE DES COMMUNES. - art. L182-1 (Ab)
-	  - SPEC_APPLI: Code des communes L182-1, L182-2 :
-
-	**Anciens textes**:
-
-	  - Loi n°66-1069 1966-12-31, art. 16 al. 1 à 4
-	  - Loi n°66-1069 du 31 décembre 1966 - art. 16 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°77-90 1977-01-27
-
-	**Créé par**:
-
-	  - Décret n°77-90 1977-01-27 JORF et JONC 3 février 1977 date d'entrée en vigueur élection des maires
-
-	**Cité par**:
-
-	  - CODE DES COMMUNES. - art. R*165-33 (Ab)
-
-	**Cite**:
-
-	  - Code électoral L44 à L46, L228 à L239
-
-
-##### Organismes consultatifs placés auprès du conseil de communauté
-
-###### Article L165-36
-
-Lorsque toutes les communes de l'agglomération ne sont pas directement représentées au sein du conseil de communauté, le
-président de ce conseil réunit les maires de toutes les communes de l'agglomération en vue de leur consultation dans les cas
-suivants :
-
-- à la demande de la majorité des maires de l'agglomération ; 
-
-- à la demande du conseil de communauté ; 
-
-- avant le vote du budget de la communauté. 
-
-Cette réunion est présidée par le président du conseil de communauté. 
-
-Les modalités de la consultation sont déterminées par le conseil de communauté [**]attributions[**].
-
-**Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - SPEC_APPLI: *Dispositions non applicables aux communes des départements de la Guadeloupe, de la Guyane, de la Martinique, de la Réunion et de Saint-Pierre-et-Miquelon*
-	  - SPEC_APPLI: CODE DES COMMUNES. - art. L182-1 (Ab)
-	  - SPEC_APPLI: Code des communes L182-1, L182-2 :
-
-	**Anciens textes**:
-
-	  - Loi n°66-1069 du 31 décembre 1966 - art. 18 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°77-90 1977-01-27
-
-	**Créé par**:
-
-	  - Décret n°77-90 1977-01-27 JORF et JONC 3 février 1977 date d'entrée en vigueur élection des maires
-
-	**Cité par**:
-
-	  - Loi n°95-115 du 4 février 1995 - art. 80 (V)
-
-
-###### Article L165-37
-
-Dans les agglomérations comportant plus de cinquante communes [*nombre*] pourvues des secteurs électoraux mentionnés à
-l'article L. 165-29, des comités consultatifs composés des maires des communes de chaque secteur peuvent être créés. 
-
-Ces comités dits "de secteur" [**]définition[**] sont appelés à donner leur avis au conseil de communauté sur toutes les
-questions intéressant leurs communes.
-
-**Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - SPEC_APPLI: *Dispositions non applicables aux communes des départements de la Guadeloupe, de la Guyane, de la Martinique, de la Réunion et de Saint-Pierre-et-Miquelon*
-	  - SPEC_APPLI: CODE DES COMMUNES. - art. L182-1 (Ab)
-	  - SPEC_APPLI: Code des communes L182-1, L182-2 :
-
-	**Anciens textes**:
-
-	  - Loi n°66-1069 du 31 décembre 1966 - art. 19 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°77-90 1977-01-27
-
-	**Créé par**:
-
-	  - Décret n°77-90 1977-01-27 JORF et JONC 3 février 1977 date d'entrée en vigueur élection des maires
-
-	**Cité par**:
-
-	  - Loi n°95-115 du 4 février 1995 - art. 80 (V)
-
-	**Cite**:
-
-	  - CODE DES COMMUNES. - art. L165-29 (M)
-
-
-##### Durée de la communauté urbaine
-
-###### Article L165-38
-
-La communauté urbaine est créée sans limitation de durée.
-
-Elle peut être dissoute sur la demande des conseils municipaux des communes qu'elle rassemble, statuant à la majorité fixée à
-l'article L. 165-4. La dissolution est prononcée par décret en conseil des ministres.
-
-Elle est dissoute lorsque, par délibération spéciale de son conseil municipal, une commune exerce son droit de retrait dans
-les conditions prévues à l'article L. 165-39.
-
-Un décret en Conseil d'Etat [**]conditions de forme[**] détermine, sous réserve du droit des tiers, les conditions dans
-lesquelles la communauté est liquidée ; il fixe notamment les conditions dans lesquelles s'opère le transfert des biens,
-droits et obligations, après l'avis d'une commission composée comme il est dit à l'article L. 165-21.
-
-Les personnels de la communauté sont répartis entre les communes membres ou leurs éventuels organismes de coopération, par
-une commission présidée par le président de la commission nationale paritaire du personnel communal, sans qu'il puisse être
-procédé à un dégagement des cadres et en tenant compte de leurs droits acquis. Les communes ou leurs éventuels organismes de
-coopération attributaires supportent les charges financières correspondantes.
-
-Un décret en Conseil d'Etat fixe les conditions et les modalités de cette répartition ainsi que la composition de cette
-commission.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°77-90 1977-01-27
-
-	**Cité par**:
-
-	  - Loi n°84-53 du 26 janvier 1984 - art. 121 (M)
-
-	**Cite**:
-
-	  - CODE DES COMMUNES. - art. L165-21 (Ab)
-	  - CODE DES COMMUNES. - art. L165-39 (Ab)
-	  - CODE DES COMMUNES. - art. L165-4 (M)
-
-
-###### Article L165-39
-
-A l'expiration d'un délai de six années à compter de la date de publication de la loi n° 66-1069 du 31 décembre 1966 pour les
-communautés créées en application de l'article 3 de ladite loi et de celle du décret institutif pour les autres communautés,
-et dans un délai de six mois après le renouvellement des conseils municipaux, toute commune qui en fait partie peut exercer
-un droit de retrait si elle satisfait aux deux conditions suivantes :
-
-Sa population totale représente plus du quart de la population totale [**]proportion[**] de la communauté urbaine ;
-
-Le produit des recettes fiscales perçues sur son territoire pour le compte de la communauté urbaine, telles qu'elles sont
-définies à l'article L. 253-2 (1° et 2°), représente plus de 40 p. 100 des impôts directs perçus par la communauté au titre
-des mêmes recettes inscrites au budget de l'exercice précédant l'année de la délibération spéciale prévue à l'article L.
-165-38, alinéa 3.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Loi n°66-1069 du 31 décembre 1966 - art. 3 (V)
-	  - Code des communes L165-38 al. 3
-
-	**Codifié par**:
-
-	  - Décret n°77-90 1977-01-27
-
-	**Abrogé par**:
-
-	  - Loi n°82-1169 1982-12-31 ART. 65 I JORF 1er JANVIER 1983 en vigueur le 13 MARS 1983
-
-	**Cité par**:
-
-	  - CODE DES COMMUNES. - art. L165-38 (M)
 
 
 #### Syndicats mixtes .
@@ -13924,258 +14141,6 @@ La commune juge de la nécessité d'en établir davantage.
 
 #### Dispositions applicables à la ville de Paris
 
-##### Dispositions générales
-
-###### Article L184-1
-
-Le territoire de la ville de Paris       recouvre deux collectivités territoriales distinctes dont l'une est la commune de
-Paris.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°75-1331 du 31 décembre 1975 - art. 1 (M)
-	  - Loi n°75-1131 1975-12-31 art. 1 al. 1 (partie)
-
-	**Codifié par**:
-
-	  - Décret n°77-90 1977-01-27
-
-	**Créé par**:
-
-	  - Décret n°77-90 1977-01-27 JORF ET JONC 3 FEVRIER 1977 date d'entrée en vigueur 20 MARS 1977
-
-	**Abrogé par**:
-
-	  - Loi n°82-1169 1982-12-31 ART. 42 I JORF 1ER JANVIER 1983 13 MARS 1983
-
-
-###### Article L184-2
-
-Les dispositions des titres I à VII [*nom, limites territoriales et population des communes, organes de la commune, police,
-stations classées, intérêts propres à certaines catégories d'habitants, intérêts communs à plusieurs communes, agglomérations
-nouvelles*] du présent Livre sont applicables à la commune de Paris, sous réserve des dispositions des sections II, III, IV
-et V du présent chapitre [*conseil de Paris, maire et adjoints, préfet de police, commissions d'arrondissement*].
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°75-1331 du 31 décembre 1975 - art. 1 (M)
-	  - Loi n°75-1331 du 31 décembre 1975 - art. 2 (Ab)
-	  - Loi n°75-1131 1975-12-31 art. 2 (partie)
-
-	**Codifié par**:
-
-	  - Décret n°77-90 1977-01-27
-
-	**Créé par**:
-
-	  - Décret n°77-90 1977-01-27 JORF ET JONC 3 FEVRIER 1977 date d'entrée en vigueur 20 MARS 1977
-
-	**Abrogé par**:
-
-	  - Loi n°82-1169 1982-12-31 ART. 42 I JORF 1ER JANVIER 1983 13 MARS 1983
-
-	**Cite**:
-
-	  - Code des communes L111-1 à L174-1, L184-3 à L184-24
-	  - Loi n°75-1131 1975-12-31 art. 32 et 33
-
-
-###### Article L184-3
-
-Le conseil de Paris est composé de 109 membres.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°77-90 1977-01-27
-
-	**Créé par**:
-
-	  - Décret n°77-90 1977-01-27 JORF ET JONC 3 FEVRIER 1977 date d'entrée en vigueur 20 MARS 1977
-
-	**Cite**:
-
-	  - Loi   1871-08-10 art. 35 et 36
-
-	**Anciens textes**:
-
-	  - Loi n°75-1131 1975-12-31 art. 1 al. 2, art. 3, 4, 5
-
-	**Abrogé par**:
-
-	  - Loi n°82-1169 1982-12-31 ART. 42 I JORF 1ER JANVIER 1983 13 MARS 1983
-
-
-##### Le conseil de Paris
-
-###### Article L184-4
-
-Les affaires de la commune de Paris sont réglées par les délibérations de l'assemblée dénommée conseil de Paris.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°75-1331 1975-12-31 ART. 1 AL. 2 (partie)
-
-	**Codifié par**:
-
-	  - Décret n°77-90 1977-01-27
-
-	**Créé par**:
-
-	  - Décret n°77-90 1977-01-27 JORF ET JONC 3 FEVRIER 1977 date d'entrée en vigueur 20 MARS 1977
-
-	**Abrogé par**:
-
-	  - Loi n°82-1169 1982-12-31 ART. 42 I JORF 1ER JANVIER 1983 13 MARS 1983
-
-
-###### Article L184-5
-
-Le conseil de Paris fait son règlement intérieur.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°75-1331 du 31 décembre 1975 - art. 4 (V)
-
-	**Codifié par**:
-
-	  - Décret n°77-90 1977-01-27
-
-	**Créé par**:
-
-	  - Décret n°77-90 1977-01-27 JORF ET JONC 3 FEVRIER 1977 date d'entrée en vigueur 20 MARS 1977
-
-	**Abrogé par**:
-
-	  - Loi n°82-1169 1982-12-31 ART. 42 I JORF 1ER JANVIER 1983 13 MARS 1983
-
-
-###### Article L184-6
-
-Le conseil de Paris est dissous par décret motivé en conseil des ministres.
-
-Il ne peut être suspendu.
-
-Les dispositions des articles 35 et 36 de la loi modifiée du 10 août 1871 relative aux conseils généraux sont applicables à
-la dissolution du conseil de Paris.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°77-90 1977-01-27
-
-	**Créé par**:
-
-	  - Décret n°77-90 1977-01-27 JORF ET JONC 3 FEVRIER 1977 date d'entrée en vigueur 20 MARS 1977
-
-	**Cite**:
-
-	  - Loi n°1871-08-10 ART. 35 et ART. 36
-
-	**Anciens textes**:
-
-	  - Loi n°75-1331 du 31 décembre 1975 - art. 5 (V)
-
-	**Abrogé par**:
-
-	  - Loi n°82-1169 1982-12-31 ART. 42 I JORF 1ER JANVIER 1983 13 MARS 1983
-
-
-###### Article L184-9
-
-Le nombre des adjoints réglementaires est de 18.
-
-Le nombre des adjoints supplémentaires ne peut étre supérieur à 9.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°77-90 1977-01-27
-
-	**Créé par**:
-
-	  - Décret n°77-90 1977-01-27 JORF ET JONC 3 FEVRIER 1977 date d'entrée en vigueur 20 MARS 1977
-
-	**Anciens textes**:
-
-	  - Loi n°75-1131 1975-12-31 art. 6
-
-	**Abrogé par**:
-
-	  - Loi n°82-1169 1982-12-31 ART. 42 I JORF 1ER JANVIER 1983 13 MARS 1983
-
-
-###### Article L184-10
-
-Sous réserve des dispositions de l'article L. 122-11 [*maire seul chargé de l'administration, mais délégation possible d'une
-partie de ses fonctions à ses adjoints ou à des membres du conseil*] , le maire peut donner par arrêté, sous sa surveillance
-et sa responsabilité, délégation de signature aux directeurs et chefs de service de la commune de Paris.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°77-90 1977-01-27
-
-	**Créé par**:
-
-	  - Décret n°77-90 1977-01-27 JORF ET JONC 3 FEVRIER 1977 date d'entrée en vigueur 20 MARS 1977
-
-	**Abrogé par**:
-
-	  - Loi n°82-1169 1982-12-31 ART. 42 I JORF 1ER JANVIER 1983 13 MARS 1983
-
-	**Cite**:
-
-	  - CODE DES COMMUNES. - art. L122-11 (M)
-
-	**Anciens textes**:
-
-	  - Loi n°75-1131 1975-12-31 art. 7
-
-
-##### MAIRE ET ADJOINTS
-
-###### Article L184-11
-
-Le maire peut déléguer les fonctions qu'il exerce en tant qu'officier d'état civil aux conseillers de Paris pour
-l'arrondissement ou le groupe d'arrondissements où ils sont élus.
-
-En outre il nomme, pour exercer les mêmes fonctions dans chaque arrondissement, des officiers municipaux.
-
-Le nombre des officiers municipaux est égal à celui des conseillers élus dans l'arrondissement ou le groupe d'arrondissements
-auquel cet arrondissement appartient.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°77-90 1977-01-27
-
-	**Créé par**:
-
-	  - Décret n°77-90 1977-01-27 JORF ET JONC 3 FEVRIER 1977 date d'entrée en vigueur 20 MARS 1977
-
-	**Anciens textes**:
-
-	  - Loi n°75-1131 1975-12-31 art. 8
-
-	**Abrogé par**:
-
-	  - Loi n°82-1169 1982-12-31 ART. 42 I JORF 1ER JANVIER 1983 13 MARS 1983
-
-
 ##### Le préfet de police .
 
 ###### Article L184-12
@@ -14205,613 +14170,6 @@ l'article 10 de la loi n° 64-707 du 10 juillet 1964 portant réorganisation de 
 	**Abrogé par**:
 
 	  - Loi n°86-1308 du 29 décembre 1986 - art. 14 ()
-
-
-##### PREFET DE POLICE .
-
-###### Article L184-14
-
-Le préfet de police est chargé [*attributions*] , dans le domaine de sa compétence, de l'exécution des délibérations du
-conseil de Paris.
-
-**Liens relatifs à cet article**
-
-	**Cité par**:
-
-	  - Loi n°75-1331 du 31 décembre 1975 - art. 9 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°77-90 1977-01-27
-
-	**Créé par**:
-
-	  - Décret n°77-90 1977-01-27 JORF et JONC 3 février 1977 date d'entrée en vigueur élection des maires
-
-	**Anciens textes**:
-
-	  - Loi n°75-1131 1975-12-31 art. 10
-
-
-###### Article L184-15
-
-Le préfet de police, ou son représentant, a entrée au conseil de Paris. 
-
-Il est entendu quand il le demande et assiste aux délibérations relatives aux affaires relevant de sa compétence, excepté
-lorsqu'il s'agit de l'apurement de ses comptes [*pouvoirs*].
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°77-90 1977-01-27
-
-	**Créé par**:
-
-	  - Décret n°77-90 1977-01-27 JORF et JONC 3 février 1977 date d'entrée en vigueur élection des maires
-
-	**Anciens textes**:
-
-	  - Loi n°75-1131 1975-12-31 art. 11 al. 1
-	  - Loi n°75-1331 du 31 décembre 1975 - art. 11 (M)
-
-
-###### Article L184-16
-
-Le maire réunit le conseil de Paris à la demande du préfet de police [*pouvoirs*] pour délibérer des affaires relevant de la
-compétence de celui-ci.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°75-1331 du 31 décembre 1975 - art. 11 (M)
-	  - Loi n°75-1131 1975-12-31 art. 11 al. 2
-
-	**Codifié par**:
-
-	  - Décret n°77-90 1977-01-27
-
-	**Créé par**:
-
-	  - Décret n°77-90 1977-01-27 JORF et JONC 3 février 1977 date d'entrée en vigueur élection des maires
-
-	**Nouveaux textes**:
-
-	  - Code général des collectivités territoriales - art. L2512-6 (V)
-
-
-##### COMMISSIONS  D'ARRONDISSEMENT .
-
-###### Article L184-17
-
-La commune de Paris est divisée en vingt arrondissements municipaux [*nombre*] .
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°77-90 1977-01-27
-
-	**Créé par**:
-
-	  - Décret n°77-90 1977-01-27 JORF ET JONC 3 FEVRIER 1977 date d'entrée en vigueur 20 MARS 1977
-
-	**Anciens textes**:
-
-	  - Loi   1859-06-16 art. 2
-
-	**Abrogé par**:
-
-	  - Loi n°82-1169 1982-12-31 ART. 42 I JORF 1ER JANVIER 1983 date d'entrée en vigueur 13 MARS 1983
-
-
-###### Article L184-18
-
-Il est créé dans chaque arrondissement de Paris une commission dénommée commission d'arrondissement       .
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°77-90 1977-01-27
-
-	**Créé par**:
-
-	  - Décret n°77-90 1977-01-27 JORF ET JONC 3 FEVRIER 1977 date d'entrée en vigueur 20 MARS 1977
-
-	**Anciens textes**:
-
-	  - Loi n°75-1131 1975-12-31 art. 12 al. 1
-
-	**Abrogé par**:
-
-	  - Loi n°82-1169 1982-12-31 ART. 42 I JORF 1ER JANVIER 1983 date d'entrée en vigueur 13 MARS 1983
-
-
-###### Article L184-19
-
-La commission d'arrondissement se réunit à la mairie d'arrondissement, qui prend le nom de mairie annexe       .
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°77-90 1977-01-27
-
-	**Créé par**:
-
-	  - Décret n°77-90 1977-01-27 JORF ET JONC 3 FEVRIER 1977 date d'entrée en vigueur 20 MARS 1977
-
-	**Anciens textes**:
-
-	  - Loi n°75-1131 1975-12-31 art. 12 al. 2
-
-	**Abrogé par**:
-
-	  - Loi n°82-1169 1982-12-31 ART. 42 I JORF 1ER JANVIER 1983 date d'entrée en vigueur 13 MARS 1983
-
-
-###### Article L184-20
-
-La commission d'arrondissement est composée, à parts égales [*proportion*] :
-
-1° Des conseillers élus dans l'arrondissement ou le groupe d'arrondissements ;
-
-2° Des officiers municipaux [*attributions*] nommés par le maire pour exercer les fonctions d'officier d'état civil dans
-l'arrondissement ;
-
-3° De membres élus par le conseil de Paris.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°77-90 1977-01-27
-
-	**Créé par**:
-
-	  - Décret n°77-90 1977-01-27 JORF ET JONC 3 FEVRIER 1977 date d'entrée en vigueur 20 MARS 1977
-
-	**Anciens textes**:
-
-	  - Loi n°75-1131 1975-12-31 art. 13 al. 1
-
-	**Abrogé par**:
-
-	  - Loi n°82-1169 1982-12-31 ART. 42 I JORF 1ER JANVIER 1983 date d'entrée en vigueur 13 MARS 1983
-
-
-###### Article L184-21
-
-Les membres de la commission d'arrondissement élus par le conseil de Paris sont choisis parmi les représentants des activités
-sociales, familiales, éducatives, culturelles et sportives exercées dans le ressort de l'arrondissement et les personnalités
-qui, en raison de leur qualité ou de leurs activités, concourent à l'animation ou au développement de l'arrondissement.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°75-1331 1975-12-31 art. 13 al. 2
-
-	**Codifié par**:
-
-	  - Décret n°77-90 1977-01-27
-
-	**Créé par**:
-
-	  - Décret n°77-90 1977-01-27 JORF ET JONC 3 FEVRIER 1977 date d'entrée en vigueur 20 MARS 1977
-
-	**Abrogé par**:
-
-	  - Loi n°82-1169 1982-12-31 ART. 42 I JORF 1ER JANVIER 1983 date d'entrée en vigueur 13 MARS 1983
-
-
-###### Article L184-22
-
-La commission d'arrondissement désigne son bureau en son sein.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°77-90 1977-01-27
-
-	**Créé par**:
-
-	  - Décret n°77-90 1977-01-27 JORF ET JONC 3 FEVRIER 1977 date d'entrée en vigueur 20 MARS 1977
-
-	**Anciens textes**:
-
-	  - Loi n°75-1131 1975-12-31 art. 13 al. 3
-
-	**Abrogé par**:
-
-	  - Loi n°82-1169 1982-12-31 ART. 42 I JORF 1ER JANVIER 1983 date d'entrée en vigueur 13 MARS 1983
-
-
-###### Article L184-23
-
-La commission d'arrondissement [*attributions*] donne son avis sur les affaires qui lui sont soumises par le conseil de Paris
-ou par le maire.
-
-Elle est également chargée d'assister le maire et le conseil de Paris pour animer la vie locale en général et, en
-particulier, les organismes de caractère administratif de l'arrondissement.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°77-90 1977-01-27
-
-	**Créé par**:
-
-	  - Décret n°77-90 1977-01-27 JORF ET JONC 3 FEVRIER 1977 date d'entrée en vigueur 20 MARS 1977
-
-	**Anciens textes**:
-
-	  - Loi n°75-1131 1975-12-31 art. 14 al. 1 et 2
-
-	**Abrogé par**:
-
-	  - Loi n°82-1169 1982-12-31 ART. 42 I JORF 1ER JANVIER 1983 date d'entrée en vigueur 13 MARS 1983
-
-
-###### Article L184-24
-
-Les avis et propositions sur des affaires étrangères à la compétence de la commission d'arrondissement [*incompétence*] sont
-nuls et de nul effet.
-
-Leur nullité est constatée dans les conditions prévues par les articles L. 121-32, L. 121-33, L. 121-35 et L. 121-36.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°77-90 1977-01-27
-
-	**Créé par**:
-
-	  - Décret n°77-90 1977-01-27 JORF ET JONC 3 FEVRIER 1977 date d'entrée en vigueur 20 MARS 1977
-
-	**Anciens textes**:
-
-	  - Loi n°75-1131 1975-12-31 art. 14 al. 3
-
-	**Abrogé par**:
-
-	  - Loi n°82-1169 1982-12-31 ART. 42 I JORF 1ER JANVIER 1983 date d'entrée en vigueur 13 MARS 1983
-
-	**Cite**:
-
-	  - CODE DES COMMUNES. - art. L121-32 (Ab)
-	  - CODE DES COMMUNES. - art. L121-33 (Ab)
-	  - Code des communes L121-32, L121-33, L121-35 et L121-36
-
-
-##### LA REPRESENTATION DE L'ETAT DANS LA COMMUNE DE PARIS .
-
-###### Article L184-25
-
-Le préfet de Paris et le préfet de police sont, en leur qualité de préfets et dans le cadre de leurs attributions
-respectives, les représentants de l'Etat sur le territoire de Paris.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°77-90 1977-01-27
-
-	**Créé par**:
-
-	  - Décret n°77-90 1977-01-27 JORF et JONC 3 février 1977 date d'entrée en vigueur élection des maires
-
-	**Nouveaux textes**:
-
-	  - Code général des collectivités territoriales - art. L2512-12 (V)
-
-	**Anciens textes**:
-
-	  - Loi n°75-1131 1975-12-31 art. 17
-
-
-#### DISPOSITIONS APPLICABLES A CERTAINES GRANDES VILLES
-
-##### VILLE DE  LYON .
-
-###### Article L185-1
-
-Les dispositions des titres Ier à VII du présent livre [*nom, limites territoriales et population des communes, organes de la
-commune, police, stations classées, intérêts propres à certaines catégories d'habitants, intérêts communs à plusieurs
-communes, agglomérations nouvelles*] sont applicables à la ville de Lyon sous réserve des dispositions de la présente section
-[*limite*] .
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°77-90 1977-01-27
-
-	**Créé par**:
-
-	  - Décret n°77-90 1977-01-27 JORF ET JONC 3 FEVRIER 1977 date d'entrée en vigueur 20 MARS 1977
-
-	**Abrogé par**:
-
-	  - Loi n°82-1169 1982-12-31 ART. 42 I JORF 1ER JANVIER 1983 date d'entrée en vigueur 13 MARS 1983
-
-	**Cite**:
-
-	  - Code des communes L111-1 à L174-1
-
-
-###### Article L185-2
-
-Le conseil municipal de la ville de Lyon est composé de 61 membres [*nombre*] .
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Code de l'administration communale 16 complété al. 4 (partie)
-
-	**Codifié par**:
-
-	  - Décret n°77-90 1977-01-27
-
-	**Créé par**:
-
-	  - Décret n°77-90 1977-01-27 JORF ET JONC 3 FEVRIER 1977 date d'entrée en vigueur 20 MARS 1977
-
-	**Abrogé par**:
-
-	  - Loi n°82-1169 1982-12-31 ART. 42 I JORF 1ER JANVIER 1983 date d'entrée en vigueur 13 MARS 1983
-
-
-###### Article L185-3
-
-Le maire délégue spécialement deux de ses adjoints [*nombre*] dans chacun des arrondissements municipaux.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Code de l'administration communale 54 al. 3 phr. 1
-
-	**Codifié par**:
-
-	  - Décret n°77-90 1977-01-27
-
-	**Créé par**:
-
-	  - Décret n°77-90 1977-01-27 JORF ET JONC 3 FEVRIER 1977 date d'entrée en vigueur 20 MARS 1977
-
-	**Abrogé par**:
-
-	  - Loi n°82-1169 1982-12-31 ART. 42 I JORF 1ER JANVIER 1983 date d'entrée en vigueur 13 MARS 1983
-
-	**Cité par**:
-
-	  - CODE DES COMMUNES. - art. L185-4 (Ab)
-
-
-###### Article L185-4
-
-Les adjoints délégués [*par le maire dans chaque arrondissement*] mentionnés à l'article précédent sont chargés de la tenue
-des registres de l'état civil [*attributions*] .
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Code de l'administration communale 54 al. 3 phr. 2 (partie)
-
-	**Codifié par**:
-
-	  - Décret n°77-90 1977-01-27
-
-	**Créé par**:
-
-	  - Décret n°77-90 1977-01-27 JORF ET JONC 3 FEVRIER 1977 date d'entrée en vigueur 20 MARS 1977
-
-	**Abrogé par**:
-
-	  - Loi n°82-1169 1982-12-31 ART. 42 I JORF 1ER JANVIER 1983 date d'entrée en vigueur 13 MARS 1983
-
-	**Cite**:
-
-	  - CODE DES COMMUNES. - art. L185-3 (Ab)
-
-
-###### Article L185-5
-
-Les adjoints délégués remplissent les fonctions attribuées aux maires des communes par les lois, réglements et instructions
-relatifs :
-
-1° Au recrutement de l'armée ;
-
-2° A la formation des listes électorales ;
-
-3° A la confection des rôles des impôts directs et à l'instruction des demandes de dégrèvements ;
-
-4° A l'expropriation pour cause d'utilité publique ;
-
-5° Aux successions en déshérence.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Code de l'administration communale 54 al. 3 phr. 2 (partie)
-
-	**Codifié par**:
-
-	  - Décret n°77-90 1977-01-27
-
-	**Créé par**:
-
-	  - Décret n°77-90 1977-01-27 JORF ET JONC 3 FEVRIER 1977 date d'entrée en vigueur 20 MARS 1977
-
-	**Abrogé par**:
-
-	  - Loi n°82-1169 1982-12-31 ART. 42 I JORF 1ER JANVIER 1983 date d'entrée en vigueur 13 MARS 1983
-
-
-###### Article L185-6
-
-Les adjoints délégués apposent leur visa sur les actes judiciaires qui doivent être visés par les maires [*compétence -
-conditions de forme*].
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Code de l'administration communale 54 al. 3 phr. 2 (partie)
-
-	**Codifié par**:
-
-	  - Décret n°77-90 1977-01-27
-
-	**Créé par**:
-
-	  - Décret n°77-90 1977-01-27 JORF ET JONC 3 FEVRIER 1977 date d'entrée en vigueur 20 MARS 1977
-
-	**Abrogé par**:
-
-	  - Loi n°82-1169 1982-12-31 ART. 42 I JORF 1ER JANVIER 1983 date d'entrée en vigueur 13 MARS 1983
-
-
-###### Article L185-7
-
-Les adjoints délégués [*attributions*] délivrent les certificats exigés pour certifier :
-
-1° La notoriété des accidents allégués à l'appui des demandes de pension conformément au code des pensions civiles et
-militaires de retraite et des demandes d'allocation temporaire d'invalidité conformément à l'article 23 bis de l'ordonnance
-n° 59-244 du 4 février 1959 relative au statut général des fonctionnaires ;
-
-2° L'apposition des affiches prescrites par la loi.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Code de l'administration communale 54 al. 3 phr. 2 (partie)
-
-	**Cite**:
-
-	  - Ordonnance 59-244 1959-02-04 art. 23 bis
-	  - Code des pensions civiles et militaires de retraite
-	  - Code des pensions militaires d'invalidité et des victimes de la guerre
-
-	**Codifié par**:
-
-	  - Décret n°77-90 1977-01-27
-
-	**Créé par**:
-
-	  - Décret n°77-90 1977-01-27 JORF ET JONC 3 FEVRIER 1977 date d'entrée en vigueur 20 MARS 1977
-
-	**Abrogé par**:
-
-	  - Loi n°82-1169 1982-12-31 ART. 42 I JORF 1ER JANVIER 1983 date d'entrée en vigueur 13 MARS 1983
-
-
-###### Article L185-8
-
-Les adjoints délégués [*attributions*] légalisent les signatures.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Code de l'administration communale 54 al. 3 phr. 2 (partie)
-
-	**Codifié par**:
-
-	  - Décret n°77-90 1977-01-27
-
-	**Créé par**:
-
-	  - Décret n°77-90 1977-01-27 JORF ET JONC 3 FEVRIER 1977 date d'entrée en vigueur 20 MARS 1977
-
-	**Abrogé par**:
-
-	  - Loi n°82-1169 1982-12-31 ART. 42 I JORF 1ER JANVIER 1983 date d'entrée en vigueur 13 MARS 1983
-
-
-##### VILLE DE  MARSEILLE .
-
-###### Article L185-9
-
-Les dispositions des titres Ier à VII du présent livre [*nom, limites territoriales, population des communes, organes de la
-commune, police, stations classées, intérêts propres à certaines catégories d'habitants, intérêts communs à plusieurs
-communes, agglomérations nouvelles*] sont applicables à la ville de Marseille sous réserve des dispositions de la présente
-section.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°77-90 1977-01-27
-
-	**Créé par**:
-
-	  - Décret n°77-90 1977-01-27 JORF ET JONC 3 FEVRIER 1977 date d'entrée en vigueur 20 MARS 1977
-
-	**Abrogé par**:
-
-	  - Loi n°82-1169 1982-12-31 ART. 42 I JORF 1ER JANVIER 1983 date d'entrée en vigueur 13 MARS 1983
-
-	**Cite**:
-
-	  - Code des communes L185-10 et L185-11
-
-
-###### Article L185-10
-
-Le conseil municipal de la ville de Marseille est composé de 63 membres [*nombre*] .
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Code de l'administration communale 16 complété al. 4 (partie)
-
-	**Codifié par**:
-
-	  - Décret n°77-90 1977-01-27
-
-	**Créé par**:
-
-	  - Décret n°77-90 1977-01-27 JORF ET JONC 3 FEVRIER 1977 date d'entrée en vigueur 20 MARS 1977
-
-	**Abrogé par**:
-
-	  - Loi n°82-1169 1982-12-31 ART. 42 I JORF 1ER JANVIER 1983 date d'entrée en vigueur 13 MARS 1983
-
-
-###### Article L185-11
-
-Les adjoints d'arrondissement sont chargés de toutes les attributions que les lois, règlements et instructions confèrent au
-maire en matière d'état civil et en matière militaire.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Code de l'administration communale 55 al. 3
-
-	**Codifié par**:
-
-	  - Décret n°77-90 1977-01-27
-
-	**Créé par**:
-
-	  - Décret n°77-90 1977-01-27 JORF ET JONC 3 FEVRIER 1977 date d'entrée en vigueur 20 MARS 1977
-
-	**Abrogé par**:
-
-	  - Loi n°82-1169 1982-12-31 ART. 42 I JORF 1ER JANVIER 1983 date d'entrée en vigueur 13 MARS 1983
 
 
 ## LIVRE 2 : Finances communales
@@ -24793,38 +24151,6 @@ remboursement fixée par arrêté interministériel.
 	**Nouveaux textes**:
 
 	  - Code général des collectivités territoriales - art. L2531-7 (V)
-
-
-#### Dispositions applicables à la ville de Paris.
-
-###### Article L264-1
-
-Les dispositions des titres Ier à V [*budget, dépenses, recettes, comptabilité, dispositions financières applicables à
-certains établissements communaux*] du présent livre sont applicables à la commune de Paris, sous réserve des dispositions
-ci-après.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°75-1331 1975-12-31 art. 2 (partie)
-	  - Loi n°75-1331 du 31 décembre 1975 - art. 2 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°77-90 1977-01-27
-
-	**Créé par**:
-
-	  - Décret n°77-90 1977-01-27 JORF et JONC 3 FEVRIER 1977 date d'entrée en vigueur 20 MARS 1977
-
-	**Abrogé par**:
-
-	  - Loi n°82-1169 1982-12-31 ART. 42 I JORF 1ER JANVIER 1983 date d'entrée en vigueur 13 MARS 1983
-
-	**Cite**:
-
-	  - Code des communes L264-2 à L264-17
 
 
 ## LIVRE 3 : Administration et services communaux
