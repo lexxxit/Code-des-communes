@@ -1,5 +1,5 @@
 # Code des communes  
-Version Consolidée au 1986-12-01
+Version Consolidée au 1986-12-30
 
 # Statuts types d'une caisse communale de secours et de retraite de sapeurs-pompiers
 
@@ -14291,39 +14291,6 @@ La commune juge de la nécessité d'en établir davantage.
 	**Nouveaux textes**:
 
 	  - Code général des collectivités territoriales - art. L2542-9 (V)
-
-
-#### Dispositions applicables à la ville de Paris
-
-##### Le préfet de police .
-
-###### Article L184-12
-
-Le préfet de police continue d'exercer, dans la commune de Paris, les pouvoirs et attributions fixés par le premier alinéa de
-l'article 10 de la loi n° 64-707 du 10 juillet 1964 portant réorganisation de la région parisienne.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Loi n°64-707 1964-07-10 art. 10
-
-	**Anciens textes**:
-
-	  - Loi n°75-1331 du 31 décembre 1975 - art. 9 (M)
-	  - Loi n°75-1131 1975-12-31 art. 9 al. 1
-
-	**Codifié par**:
-
-	  - Décret n°77-90 1977-01-27
-
-	**Créé par**:
-
-	  - Décret n°77-90 1977-01-27 JORF et JONC 3 février 1977 date d'entrée en vigueur élection des maires
-
-	**Abrogé par**:
-
-	  - Loi n°86-1308 du 29 décembre 1986 - art. 14 ()
 
 
 ## LIVRE 2 : Finances communales
