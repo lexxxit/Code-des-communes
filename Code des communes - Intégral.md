@@ -1,5 +1,5 @@
 # Code des communes  
-Version Consolidée au 1981-12-31
+Version Consolidée au 1982-01-01
 
 # ORGANISATION COMMUNALE
 
@@ -20335,6 +20335,40 @@ les mêmes conditions que l'allocation servie aux communes conformément aux dis
 	  - Code général des collectivités territoriales - art. L5215-35 (V)
 
 
+###### Article L253-6
+
+La dotation forfaitaire des communautés urbaines est augmentée d'une part de la dotation forfaitaire versée aux communes qui
+les composent. Cette part est égale au prélèvement effectué sur les dotations forfaitaires des communes membres en 1981,
+majoré chaque année du taux de progression de la dotation forfaitaire.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°66-1069 du 31 décembre 1966 - art. 38 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°77-90 1977-01-27
+
+	**Modifié par**:
+
+	  - Loi n°81-1179 du 31 décembre 1981 - art. 26 () JORF 1er janvier 1982
+
+	**Abrogé par**:
+
+	  - Loi n°96-142 du 21 février 1996 - art. 12 (V) JORF 24 février 1996
+
+	**Cité par**:
+
+	  - CODE DES COMMUNES. - art. R*253-2 (M)
+
+	**Nouveaux textes**:
+
+	  - Code général des collectivités territoriales - art. L5215-36 (VT)
+	  - Code général des collectivités territoriales - art. L5215-36 (V)
+
+
 ###### Article L253-7
 
 Le conseil de la communauté peut consentir une aide financière [*dépenses*] aux communes qui font partie de la communauté
@@ -24801,6 +24835,97 @@ finances locales. Il ne peut être inférieur à 25 p. 100 des ressources prévu
 	  - Code général des collectivités territoriales - art. R1211-5 (M)
 
 
+###### Article L234-17
+
+Dans les agglomérations représentant au moins 10 p. 100 [*pourcentage*] de la population du département, les communes centres
+bénéficient d'une dotation particulière destinée à tenir compte des charges qui résultent de l'utilisation de leurs
+équipements par les habitants des communes voisines.
+
+Le montant total des sommes à répartir à ce titre est fixé chaque année par le comité des finances locales.
+
+La dotation revenant à chacune des communes centres concernées est proportionnelle au montant de sa dotation globale de
+fonctionnement multipliée par le rapport entre la population de l'agglomération résidant dans le département, à l'exclusion
+de celles de la commune centre, et la population totale de l'agglomération habitant ce même département. Cette dotation ne
+peut être inférieure à la somme de 17 F [*montant minimum*] par habitant actualisée chaque année du taux de progression des
+ressources affectées à ce concours particulier.
+
+Toutefois, lorsqu'une agglomération comporte plusieurs villes centres, la définition de ces villes centres et les modalités
+de calcul de leur dotation sont fixées par décret en Conseil d'Etat, après avis du comité des finances locales.
+
+Lorsqu'une commune remplit les conditions requises pour bénéficier à la fois de la dotation instituée par le présent article
+et de la dotation particulière instituée par l'article L. 234-14 en faveur des communes touristiques ou thermales, seule la
+plus élevée des deux dotations lui est versée.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°77-90 1977-01-27
+
+	**Modifié par**:
+
+	  - Loi n°81-1179 du 31 décembre 1981 - art. 27 () JORF 1er JANVIER 1982
+
+	**Liens**:
+
+	  - TXT_SOURCE: Décret n°82-998 du 17 novembre 1982
+	  - TXT_SOURCE: Décret n°82-998 du 17 novembre 1982 - art. 1 (V)
+	  - TXT_SOURCE: Décret n°82-998 du 17 novembre 1982 - art. 2 (V)
+	  - TXT_SOURCE: Décret n°82-998 du 17 novembre 1982 - art. 3 (V)
+
+	**Cité par**:
+
+	  - Loi n°83-636 du 13 juillet 1983 - art. 31 bis (Ab)
+	  - Décret n°85-260 du 22 février 1985 - art. 3-1 (M)
+	  - CODE DES COMMUNES. - art. L234-11-1 (Ab)
+	  - CODE DES COMMUNES. - art. L234-18 (M)
+	  - CODE DES COMMUNES. - art. R*234-2 (M)
+	  - CODE GENERAL DES IMPOTS, CGI. - art. 1648 B (M)
+
+
+###### Article L234-17-1
+
+Les charges salariales supportées par les organisations syndicales auprès desquelles sont détachées des agents communaux sont
+remboursées par les communes concernées auxdites organisations.
+
+Ces communes reçoivent à cette fin une dotation particulière prélevée sur les ressources affectées à la dotation globale de
+fonctionnement au titre des concours particuliers.
+
+Le montant de ce concours particulier est fixé chaque année par le comité des finances locales.
+
+Un décret en Conseil d'Etat fixe les modalités d'application du présent article.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°77-90 1977-01-27
+
+	**Cité par**:
+
+	  - Décret n°82-573 du 2 juillet 1982
+	  - Décret n°82-573 du 2 juillet 1982 - art. 1 (Ab)
+	  - Décret n°82-573 du 2 juillet 1982 - art. 2 (Ab)
+	  - Décret n°82-573 du 2 juillet 1982 - art. 3 (Ab)
+	  - Décret n°82-573 du 2 juillet 1982 - art. 4 (Ab)
+	  - Décret n°82-573 du 2 juillet 1982 - art. 5 (Ab)
+	  - Décret n°85-397 du 3 avril 1985 - art. 22 (V)
+	  - Décret n°85-397 du 3 avril 1985 - art. 23 (V)
+
+	**Liens**:
+
+	  - TXT_SOURCE: Décret n°82-573 du 2 juillet 1982
+	  - TXT_SOURCE: Décret n°82-573 du 2 juillet 1982 - art. 1 (Ab)
+	  - TXT_SOURCE: Décret n°82-573 du 2 juillet 1982 - art. 2 (Ab)
+	  - TXT_SOURCE: Décret n°82-573 du 2 juillet 1982 - art. 3 (Ab)
+	  - TXT_SOURCE: Décret n°82-573 du 2 juillet 1982 - art. 4 (Ab)
+	  - TXT_SOURCE: Décret n°82-573 du 2 juillet 1982 - art. 5 (Ab)
+
+	**Abrogé par**:
+
+	  - Loi n°85-1268 1985-11-29 art. 46 JORF 3 décembre 1985
+
+
 ###### Article L234-18
 
 Une dotation, destinée à couvrir les frais de fonctionnement du comité des finances locales et le coût des travaux qui lui
@@ -25801,71 +25926,6 @@ Les communes peuvent accorder leur garantie à des emprunts dans les conditions 
 	  - Code des communes L121-38 2°
 
 
-### DOTATION GLOBALE DE FONCTIONNEMENT ET AUTRES RECETTES REPARTIES PAR LE COMITE DES FINANCES LOCALES
-
-#### CONCOURS PARTICULIERS
-
-###### Article L234-17
-
-Les communes centres d'une unité urbaine bénéficient d'une dotation particulière destinée à tenir compte des charges qui
-résultent de l'utilisation de leurs équipements par une population extérieure.
-
-Cette dotation n'est accordée à la commune centre que si la population de l'unité urbaine à laquelle elle appartient
-représente au moins 10 p. 100 de la population du département.
-
-Le montant global des sommes à répartir en application du présent article est fixé chaque année par le comité des finances
-locales.
-
-Pour 1979, ce montant global est de 15 p. 100 de la dotation afférente aux concours particuliers.
-
-La dotation revenant à chacune des communes centres concernées est proportionnelle au montant de sa dotation globale de
-fonctionnement pondéré par un coefficient égal au rapport entre la population de l'unité urbaine, à l'exclusion de celle de
-la commune centre, résidant dans le département, et la population totale de l'unité urbaine habitant ce même département.
-
-Lorsque, par rapport à l'année précédente, la dotation globale de fonctionnement de la commune centre a évolué plus
-favorablement que la dotation globale de fonctionnement versée à l'ensemble des communes, la dotation particulière est
-réduite à due concurrence du dépassement constaté.
-
-Lorsqu'une commune remplit les conditions requises pour bénéficier à la fois de la dotation instituée par le présent article
-et de la dotation particulière instituée par l'article L. 234-14 en faveur des communes touristiques ou thermales, seule la
-plus élevée des deux dotations lui est versée.
-
-Pour l'application, en 1979, du deuxième alinéa, l'évolution en pourcentage de la dotation globale est calculée par rapport
-au montant total des recettes perçues pour l'exercice 1978 au titre :
-
-Du versement représentatif de la taxe sur les salaires, à l'exclusion de l'allocation supplémentaire aux communes
-touristiques ou thermales, aux stations nouvelles et à leurs groupements ;
-
-Du versement représentatif de l'impôt afférent aux spectacles de cinéma et de télévision ainsi qu'aux théâtres et spectacles
-divers ;
-
-Et de la subvention de l'Etat au titre de sa participation aux dépenses d'intérêt général des collectivités locales.
-
-**Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - SPEC_APPLI: *ces dispositions ne seront applicables que jusqu'au 1er janvier 1986*
-	  - SPEC_APPLI: Loi n°80-1102 1980-12-31 ART. 22 :
-	  - TXT_SOURCE: Décret n°82-998 du 17 novembre 1982
-	  - TXT_SOURCE: Décret n°82-998 du 17 novembre 1982 - art. 1 (V)
-	  - TXT_SOURCE: Décret n°82-998 du 17 novembre 1982 - art. 2 (V)
-	  - TXT_SOURCE: Décret n°82-998 du 17 novembre 1982 - art. 3 (V)
-
-	**Codifié par**:
-
-	  - Décret n°77-90 1977-01-27
-
-	**Cité par**:
-
-	  - Loi n°83-636 du 13 juillet 1983 - art. 31 bis (Ab)
-	  - Décret n°85-260 du 22 février 1985 - art. 3-1 (M)
-	  - CODE DES COMMUNES. - art. L234-11-1 (Ab)
-	  - CODE DES COMMUNES. - art. L234-18 (M)
-	  - CODE DES COMMUNES. - art. R*234-2 (M)
-	  - CODE GENERAL DES IMPOTS, CGI. - art. 1648 B (M)
-
-
 ### Comptabilité
 
 #### Dispositions générales.
@@ -26174,39 +26234,6 @@ la décision en est prise par délibération du conseil de district statuant à 
 	**Cité par**:
 
 	  - CODE DES COMMUNES. - art. R252-3 (Ab)
-
-
-#### COMMUNAUTE URBAINE
-
-###### Article L253-6
-
-Les communautés urbaines perçoivent une part de la dotation forfaitaire versée aux communes qui les composent. Elles peuvent
-rétrocéder à ces communes une part des sommes ainsi prélevées.
-
-Le conseil de communauté fixe le taux du prélèvement et de la rétrocession partielle de son produit aux communes de la
-communauté dans les limites et conditions fixées par décret en Conseil d'Etat.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°66-1069 du 31 décembre 1966 - art. 38 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°77-90 1977-01-27
-
-	**Modifié par**:
-
-	  - Loi n°79-15 1979-01-03 ART. 9 JORF 4 janvier 1979 p. 25
-
-	**Cité par**:
-
-	  - CODE DES COMMUNES. - art. R*253-2 (M)
-
-	**Nouveaux textes**:
-
-	  - Code général des collectivités territoriales - art. L5215-36 (VT)
 
 
 #### SYNDICAT COMMUNAUTAIRE D'AMENAGEMENT .
