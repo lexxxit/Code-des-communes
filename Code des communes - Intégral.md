@@ -1,5 +1,5 @@
 # Code des communes  
-Version Consolidée au 1981-05-16
+Version Consolidée au 1981-05-17
 
 # ORGANISATION COMMUNALE
 
@@ -112467,39 +112467,52 @@ Dans le cas prévu au 6E et 8E de l'article R. 444-127, le détachement est acco
 Le détachement ne peut avoir lieu que dans l'un des cas suivants :
 
 1° Détachement pour occuper un emploi conduisant à pension de la caisse nationale de retraites des agents des collectivités
-locales soit dans un autre corps de la même collectivité, soit auprès des départements, communes ou de leurs établissements
-publics ;
+locales soit dans un autre corps de la ville de Paris, soit auprès des collectivités territoriales ou de leurs établissements
+publics.
 
-2° Détachement auprès des administrations ou entreprises publiques de l'Etat, des offices ou établissements publics autres
-que départementaux ou communaux et des territoires d'outre-mer ;
+2° Détachement auprès des administrations ou entreprises publiques de l'Etat, des établissements publics ne dépendant pas
+d'une collectivité territoriale.
 
-3° Détachement auprès des collectivités mentionnées au 1° ci-dessus dans un emploi ne conduisant pas à pension de la caisse
-nationale de retraites des agents des collectivités locales ou détachement auprès d'une entreprise privée, sous réserve que
-ce détachement satisfasse aux conditions exigées pour les fonctionnaires de l'Etat ;
+3° Détachement pour participer à une mission de coopération au titre de la loi n° 72-659 du 13 juillet 1972.
 
-4° Détachement pour exercer un enseignement ou remplir une mission publique à l'étranger ou auprès d'organismes
-internationaux ;
+4° Détachement auprès des collectivités mentionnées au 1° ci-dessus dans un emploi ne conduisant pas à pension de la caisse
+nationale de retraites des agents des collectivités locales ou détachement auprès d'une entreprise privée ou d'un organisme
+privé, sous réserve que ce détachement satisfasse aux conditions exigées pour les fonctionnaires de l'Etat.
 
-5° Détachement pour exercer les fonctions de membre du Gouvernement, une fonction publique élective ou un mandat syndical
-lorsque la fonction, ou le mandat, comporte des obligations empêchant d'assurer normalement l'exercice de la fonction ;
+5° a) Détachement pour exercer un enseignement à l'étranger ;
 
-6° Détachement auprès d'une entreprise privée pour y effectuer des travaux nécessités par l'exécution du programme de
-recherche d'intérêt national défini par le comité interministériel de la recherche scientifique et technique. Dans ce cas, il
-est mis fin au détachement lorsque le ministre chargé de la recherche
+b) Détachement pour remplir une mission publique à l'étranger ou auprès d'organismes internationaux.
+
+6° Détachement pour exercer les fonctions de membre du Gouvernement, une fonction publique élective ou un mandat syndical
+lorsque la fonction ou le mandat comporte des obligations empêchant d'assurer normalement l'exercice de la fonction.
+
+7° Détachement auprès d'une entreprise privée ou d'un organisme privé pour y exécuter des travaux de recherche d'intérêt
+national entrant dans le cadre fixé par le comité interministériel de la recherche scientifique et technique institué par le
+décret n° 75-1002 du 29 octobre 1975, ou pour assurer le développement, dans le domaine industriel et commercial, de
+recherches de même nature.
+
+Le détachement prévu à l'alinéa précédent ne peut être prononcé que si l'intéressé n'a pas eu, au cours des cinq dernières
+années [*délai*], soit à exercer un contrôle sur l'entreprise, soit à participer à l'élaboration ou à la passation de marchés
+avec elle.
+
+8° Détachement pour l'accomplissement d'un stage ou d'une période de scolarité préalable à la titularisation dans un emploi
+permanent de l'Etat, d'une collectivité territoriale ou d'un établissement public à caractère administratif dépendant de
+l'Etat ou d'une telle collectivité ou pour suivre un cycle de préparation à un concours donnant accès à l'un de ces emplois.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Cite**:
 
-	  - Décret n°76-1041 1976-11-16 ART. 110
+	  - Loi n°72-659 1972-07-13
+	  - Décret n°75-1002 1975-10-29
 
 	**Codifié par**:
 
 	  - Décret n°77-373 1977-03-28
 
-	**Créé par**:
+	**Abrogé par**:
 
-	  - Décret n°77-373 1977-03-28 JORF et JONC 5 avril 1977
+	  - Décret n°86-68 1986-01-13 art. 35 JORF 16 janvier 1986
 
 
 ###### Article R*444-128
@@ -112618,10 +112631,10 @@ détachement que lorsqu'une vacance est budgétairement ouverte.
 
 ###### Article R*444-132
 
-Le fonctionnaire qui fait l'objet d'un détachement de longue durée pour servir dans un territoire d'outre-mer ou pour remplir
-une mission publique à l'étranger ou auprès d'un organisme international est réintégré immédiatement dans son corps
-d'origine, lorsqu'il est mis fin à son détachement pour une cause autre qu'une faute commise dans l'exercice de ses
-fonctions.
+Le fonctionnaire qui a fait l'objet d'un détachement de longue durée pour participer à une mission de coopération, pour
+servir dans un territoire d'outre-mer, pour exercer un enseignement ou remplir une mission publique à l'étranger ou auprès
+d'un organisme international est réintégré immédiatement [*délai*] dans son corps d'origine s'il est mis fin à son
+détachement pour une cause autre qu'une faute commise dans l'exercice de ses fonctions.
 
 Dans cette hypothèse, lorsqu'aucun emploi de son grade n'est vacant dans son corps d'origine, l'intéressé est réintégré en
 surnombre.
@@ -112630,43 +112643,33 @@ Le surnombre ainsi créé est résorbé à la première vacance à s'ouvrir dans
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°76-1041 1976-11-16 ART. 115
-
 	**Codifié par**:
 
 	  - Décret n°77-373 1977-03-28
 
-	**Créé par**:
+	**Abrogé par**:
 
-	  - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
+	  - Décret n°86-68 1986-01-13 art. 35 JORF 16 janvier 1986
 
 
 ###### Article R*444-133
 
-Un détachement de longue durée, prononcé sur la demande du fonctionnaire dans le cas prévu au 6° de l'article R. 444-127
-[*détachement auprès d'une entreprise privée pour y effectuer des travaux nécessités par l'exécution du programme de
-recherche d'intérêt national défini par le comité interministériel de la recherche scientifique et technique*] ne peut être
-renouvelé qu'à titre exceptionnel et pour une seule période de cinq ans.
+Un détachement de longue durée prononcé sur la demande du fonctionnaire dans le cas prévu au 7° de l'article R. 444-127 ne
+peut être renouvelé qu'à titre exceptionnel et pour une seule période de cinq ans.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°76-1041 1976-11-16 ART. 116
 
 	**Codifié par**:
 
 	  - Décret n°77-373 1977-03-28
 
-	**Créé par**:
+	**Abrogé par**:
 
-	  - Décret n°77-373 1977-03-28 JORF et JONC 5 avril 1977
+	  - Décret n°86-68 1986-01-13 art. 35 JORF 16 janvier 1986
 
 	**Cite**:
 
-	  - Code des communes R444-127 6°
+	  - Code des communes R444-127 7
 
 
 ###### Article R*444-134
@@ -112793,31 +112796,21 @@ détaché.
 
 ###### Article R*444-138
 
-Dans le cas où un fonctionnaire de la commune de Paris est détaché dans un emploi de cette collectivité dont le personnel est
-soumis au présent statut, et conduisant à pension de la caisse nationale de retraites des agents des collectivités locales,
-la retenue pour pension est calculée, si l'intéressé en fait la demande, sur le traitement afférent au nouvel emploi.
+Dans le cas où un fonctionnaire de la ville de Paris est détaché dans un emploi de cette collectivité dont le personnel est
+soumis au présent statut et conduisant à pension de la caisse nationale de retraites des agents des collectivités locales, la
+retenue pour pension est calculée sur le traitement afférent à l'emploi de détachement.
 
-Dans cette dernière éventualité, la limite d'âge [**]définition[**] applicable au fonctionnaire est celle de cet emploi.
+Dans ce cas, la limite d'âge applicable au fonctionnaire est celle de cet emploi.
 
 **Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Ordonnance 45-993 1945-05-17 ART. 3
-	  - Décret n°47-1846 1947-09-19 MODIFIE
-	  - Décret n°65-773 1965-09-09 MODIFIE
-
-	**Anciens textes**:
-
-	  - Décret n°76-1041 1976-11-16 ART. 121
 
 	**Codifié par**:
 
 	  - Décret n°77-373 1977-03-28
 
-	**Créé par**:
+	**Abrogé par**:
 
-	  - Décret n°77-373 1977-03-28 JORF et JONC 5 avril 1977
+	  - Décret n°86-68 1986-01-13 art. 35 JORF 16 janvier 1986
 
 
 ###### Article R*444-139
@@ -112944,37 +112937,27 @@ fonctionnaires de la commune de Paris, dans les mêmes conditions que celles pr�
 
 ###### Article R*444-143
 
-Le fonctionnaire qui compte au moins quinze années de services accomplis en position d'activité ou sous les drapeaux
-[*condition d'ancienneté*] dans un emploi conduisant à pension de la caisse nationale de retraites des agents des
-collectivités locales, détaché :
-
-Soit auprès d'une administration ou d'une entreprise publique dans un emploi ne conduisant pas à pension du régime général
-des retraites ou de l'un des régimes fixés à l'article L. 5 (3°, 4°, 5° et 6°) du code des pensions civiles et militaires de
-retraites ;
-
-Soit auprès d'organismes internationaux, peut, dans le délai de trois mois suivant son détachement, être placé, sur sa
-demande, en position hors cadre pour continuer à servir dans la même administration ou entreprise ou dans le même organisme.
+Le fonctionnaire qui compte au moins quinze années [*ancienneté*] de services civils effectifs, de service militaire ou de
+service national, valables pour la constitution du droit à pension et détaché, soit auprès d'une administration ou d'une
+entreprise publique dans un emploi ne conduisant pas à pension du régime général des retraites ou de l'un des régimes fixés à
+l'article L. 5 (3°, 4°, 5° et 6°) du code des pensions civiles et militaires de retraites, soit auprès d'organismes
+internationaux, peut, sur sa demande, être placé en position hors cadre pour continuer à servir dans la même administration
+ou entreprise ou dans le même organisme ; cette demande doit être formulée dans le délai de trois mois suivant la décision
+prononçant son détachement ou le renouvellement de celui-ci.
 
 **Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Ordonnance 45-993 1945-05-17 ART. 3
-	  - Décret n°47-1846 1947-09-19 MODIFIE
-	  - Décret n°65-773 1965-09-09 MODIFIE
-	  - Code des pensions civiles et militaires de retraite L5 3°, 4°, 5° et 6°
-
-	**Anciens textes**:
-
-	  - Décret n°76-1041 1976-11-16 ART. 126 AL. 1
 
 	**Codifié par**:
 
 	  - Décret n°77-373 1977-03-28
 
-	**Créé par**:
+	**Abrogé par**:
 
-	  - Décret n°77-373 1977-03-28 JORF et JONC 5 avril 1977
+	  - Décret n°86-68 1986-01-13 art. 35 JORF 16 janvier 1986
+
+	**Cite**:
+
+	  - Code des pensions civiles et militaires de retraite L5 3, 4, 5 et 6
 
 
 ###### Article R*444-144
@@ -113184,28 +113167,22 @@ Elle est décidée soit d'office, soit à la demande du fonctionnaire.
 
 ###### Article R*444-151
 
-La mise en disponibilité ne peut être prononcée d'office que dans les cas prévus aux articles R. 444-115 [*fonctionnaire qui
-a obtenu pendant douze mois consécutifs des congés de maladie et qui ne peut, à l'expiration de son dernier congé, reprendre
-son service*] et R. 444-118 [*fonctionnaire qui ne peut, à l'expiration d'un congé de longue durée ou d'un congé de longue
-maladie, reprendre son service*] pour raison de santé.
+La mise en disponibilité ne peut être prononcée d'office que dans les cas prévus aux articles R. 444-115, R. 444-118 et R.
+444-159 pour raison de santé.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°76-1041 1976-11-16 ART. 129 AL. 1
 
 	**Codifié par**:
 
 	  - Décret n°77-373 1977-03-28
 
-	**Créé par**:
+	**Abrogé par**:
 
-	  - Décret n°77-373 1977-03-28 JORF et JONC 5 avril 1977
+	  - Décret n°86-68 1986-01-13 art. 35 JORF 16 janvier 1986
 
 	**Cite**:
 
-	  - Code des communes R444-115 et R444-118
+	  - Code des communes R444-115, R444-118, R444-159
 
 
 ###### Article R*444-152
@@ -113273,31 +113250,35 @@ d'une nouvelle année, la disponibilité peut faire l'objet d'un troisième reno
 
 La mise en disponibilité sur demande de l'intéressé ne peut être accordée que dans les cas suivants :
 
-1° Pour accident ou maladie grave du conjoint ou d'un enfant :
+1° Soins à donner au conjoint, à un enfant ou à un ascendant à la suite d'un accident ou d'une maladie grave :
 
-La durée de cette disponibilité ne peut excéder trois années mais est renouvelable à deux reprises pour une durée égale.
+La durée de cette disponibilité ne peut excéder trois années mais est renouvelable à deux reprises pour une durée égale ;
 
 2° Pour études ou recherches présentant un intérêt général :
 
-La durée de cette disponibilité ne peut excéder trois années mais est renouvelable une fois pour une durée égale.
+La durée de cette disponibilité ne peut excéder trois années mais est renouvelable une fois pour une durée égale ;
 
 3° Pour convenances personnelles :
 
 La durée de cette disponibilité ne peut excéder six années pour l'ensemble de la carrière par périodes maximales de deux
 années consécutives. Le fonctionnaire qui a obtenu une mise en disponibilité doit, pour en obtenir une nouvelle, avoir repris
 effectivement ses fonctions pendant une durée au moins égale à celle de la dernière période de disponibilité pour convenances
-personnelles, sans pouvoir être inférieure à un an.
+personnelles, sans pouvoir être inférieure à un an ;
 
 4° Pour contracter un engagement dans une formation militaire :
 
-La durée de cette disponibilité ne peut excéder trois années mais peut être renouvelée une fois pour une durée égale.
+La durée de cette disponibilité ne peut excéder trois années mais peut être renouvelée une fois pour une durée égale ;
 
-5° Pour élever un enfant de moins de huit ans [*âge*] ou atteint d'une infirmité exigeant des soins continus :
+5° Pour suivre une formation organisée en exécution de la loi n° 71-575 du 16 juillet 1971 :
+
+La durée de cette disponibilité ne peut excéder trois ans pour l'ensemble de la carrière ;
+
+6° Pour élever un enfant de moins de huit ans [*âge*] ou atteint d'une infirmité exigeant des soins continus :
 
 Cette disponibilité est accordée de droit. Sa durée ne peut excéder deux années, mais peut être renouvelée dans les
-conditions requises pour l'obtenir.
+conditions requises pour l'obtenir ;
 
-6° Pour le fonctionnaire dont le conjoint est astreint à établir sa résidence habituelle, à raison de sa profession, en un
+7° Pour le fonctionnaire dont le conjoint est astreint à établir sa résidence habituelle, en raison de sa profession, en un
 lieu éloigné de celui de l'exercice de l'activité du fonctionnaire :
 
 Cette disponibilité, d'une durée maximum de deux années, peut être accordée au fonctionnaire pour suivre son conjoint. Elle
@@ -113305,17 +113286,17 @@ peut être renouvelée pour une durée égale sans pouvoir excéder dix années 
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Cite**:
 
-	  - Décret n°76-1041 1976-11-16 ART. 130 (PARTIE)
+	  - Loi n°71-575 1971-07-16
 
 	**Codifié par**:
 
 	  - Décret n°77-373 1977-03-28
 
-	**Créé par**:
+	**Abrogé par**:
 
-	  - Décret n°77-373 1977-03-28 JORF et JONC 5 avril 1977
+	  - Décret n°86-68 1986-01-13 art. 35 JORF 16 janvier 1986
 
 
 ###### Article R*444-155
@@ -113364,29 +113345,24 @@ durée égale.
 
 ###### Article R*444-156
 
-Le fonctionnaire mis en disponibilité sur sa demande n'a droit à aucun traitement.
+Le fonctionnaire mis en disponibilité n'a droit à aucune rémunération.
 
-Toutefois, le fonctionnaire placé en disponibilité en application du 5° de l'article R. 444-154 [*pour élever un enfant de
-moins de huit ans ou atteint d'une infirmité exigeant des soins continus*] perçoit la totalité des prestations familiales
-obligatoires.
+Toutefois, le fonctionnaire mis en disponibilité en application du 5° de l'article R. 444-154 peut percevoir une indemnité
+dans des conditions fixées par décret.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°76-1041 1976-11-16 ART. 131
 
 	**Codifié par**:
 
 	  - Décret n°77-373 1977-03-28
 
-	**Créé par**:
+	**Abrogé par**:
 
-	  - Décret n°77-373 1977-03-28 JORF et JONC 5 avril 1977
+	  - Décret n°86-68 1986-01-13 art. 35 JORF 16 janvier 1986
 
 	**Cite**:
 
-	  - Code des communes R444-154 5°
+	  - Code des communes R444-154
 
 
 ###### Article R*444-157
@@ -113441,50 +113417,51 @@ dans cette position.
 ###### Article R*444-159
 
 Le fonctionnaire mis en disponibilité sur sa demande doit solliciter sa réintégration deux mois au moins avant l'expiration
-de la période en cours [*délai*].
+de la période en cours.
 
-Cette réintégration est alors de droit à l'une des trois premières vacances si la durée de la disponibilité n'a pas excédé
-trois années.
+La réintégration est subordonnée à la vérification par un médecin assermenté de l'aptitude physique du fonctionnaire à
+l'exercice des fonctions afférentes à son grade.
+
+Le comité médical peut être saisi soit par l'administration, soit par l'intéressé des conclusions du médecin assermenté.
+
+L'intéressé peut faire entendre, par le comité, le médecin de son choix.
+
+Sous réserve des dispositions du deuxième alinéa ci-dessus et du respect par l'intéressé pendant la période de disponibilité
+des obligations qui s'imposent à un fonctionnaire même en dehors du service, la réintégration est de droit. Elle doit
+intervenir à l'une des trois premières vacances si la durée de la disponibilité n'a pas excédé trois années.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°76-1041 1976-11-16 ART. 133 AL. 1
 
 	**Codifié par**:
 
 	  - Décret n°77-373 1977-03-28
 
-	**Créé par**:
+	**Abrogé par**:
 
-	  - Décret n°77-373 1977-03-28 JORF et JONC 5 avril 1977
+	  - Décret n°86-68 1986-01-13 art. 35 JORF 16 janvier 1986
 
 
 ###### Article R*444-160
 
-Lorsque, à l'expiration d'une disponibilité sur demande, le fonctionnaire n'est pas reconnu physiquement apte à reprendre ses
-fonctions par le médecin de l'administration, il est maintenu dans la position de disponibilité sans traitement pour une
-durée ne pouvant excéder celle prévue à l'article R. 444-153 [*relatif à la durée de la disponibilité prononcée d'office pour
-raison de santé*].
+Le fonctionnaire qui a formulé avant l'expiration de la période de mise en disponibilité une demande de réintégration est
+maintenu en disponibilité jusqu'à ce qu'un poste lui soit assigné.
+
+Toutefois au cas où il ne peut être réintégré pour cause d'inaptitude physique, il est soit mis en disponibilité d'office
+dans les conditions prévues à l'article R. 444-151, soit radié des cadres, s'il est reconnu définitivement inapte.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°76-1041 1976-11-16 ART. 133 AL. 2
 
 	**Codifié par**:
 
 	  - Décret n°77-373 1977-03-28
 
-	**Créé par**:
+	**Abrogé par**:
 
-	  - Décret n°77-373 1977-03-28 JORF et JONC 5 avril 1977
+	  - Décret n°86-68 1986-01-13 art. 35 JORF 16 janvier 1986
 
 	**Cite**:
 
-	  - Code des communes R444-153
+	  - Code des communes R444-151
 
 
 ###### Article R*444-161
@@ -113511,36 +113488,30 @@ cadres après avis de la commission administrative paritaire compétente.
 	  - Décret n°86-68 1986-01-13 art. 35 JORF 16 janvier 1986
 
 
-##### Dispositions *applicables* au détachement et à la disponibilité.
+##### Dispositions communes au détachement et à la disponibilité .
 
 ###### Article R*444-162
 
 Les statuts particuliers fixent pour chaque catégorie de personnel la proportion maximum des fonctionnaires susceptibles
 d'être détachés ou mis en disponibilité.
 
-Les détachements prévus au 5° de l'article R. 444-127 et les mises en disponibilité prononcées d'office ou au titre des 5° et
-6° de l'article R. 444-154 n'entrent pas en ligne de compte pour le calcul de cette proportion.
+Les détachements prévus au 6° de l'article R. 444-127 et les mises en disponibilité prononcées d'office ou au titre des 6° et
+7° de l'article R. 444-154 n'entrent pas en ligne de compte pour le calcul de cette proportion.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°76-1041 1976-11-16 ART. 135
 
 	**Codifié par**:
 
 	  - Décret n°77-373 1977-03-28
 
-	**Créé par**:
+	**Abrogé par**:
 
-	  - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
+	  - Décret n°86-68 1986-01-13 art. 35 JORF 16 janvier 1986
 
 	**Cite**:
 
-	  - Code des communes R444-154 5° et 6°
+	  - Code des communes R444-154 6° et 7°
 
-
-##### Dispositions communes au détachement et à la disponibilité .
 
 ###### Article R*444-163
 
