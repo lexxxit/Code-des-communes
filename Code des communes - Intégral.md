@@ -1,5 +1,5 @@
 # Code des communes  
-Version Consolidée au 1987-07-23
+Version Consolidée au 1987-07-31
 
 # Statuts types d'une caisse communale de secours et de retraite de sapeurs-pompiers
 
@@ -83568,6 +83568,292 @@ de services municipaux.
 	  - SPEC_APPLI: Décret n°85-1003 1985-09-24 art. 38
 
 
+##### SECTION 6 : La médaille d'honneur régionale, départementale et communale.
+
+###### Article R411-41
+
+Il est institué une médaille dite " Médaille d'honneur régionale, départementale et communale .
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°45-1197 1945-06-07 ART. 2 AL. 1 MODIFIE
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Modifié par**:
+
+	  - Décret n°87-594 du 22 juillet 1987 - art. 1 () JORF 31 juillet 1987
+
+	**Cité par**:
+
+	  - CODE DES COMMUNES. - art. R411-42 (M)
+
+
+###### Article R411-42
+
+La médaille d'honneur régionale, départementale et communale est destinée à récompenser ceux qui ont manifesté une réelle
+compétence professionnelle et un dévouement constant au service des régions, des départements, des communes et de leurs
+établissements publics ainsi que des offices publics d'habitation à loyer modéré et des caisses de crédit municipal.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°45-1197 1945-06-07 ART. 2 AL. 1 COMPLETE
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Modifié par**:
+
+	  - Décret n°87-594 du 22 juillet 1987 - art. 1 () JORF 31 juillet 1987
+
+
+###### Article R411-43
+
+Peuvent se voir attribuer la médaille d'honneur régionale, départementale et communale :
+
+- les titulaires et anciens titulaires de mandats électifs des régions, des départements et des communes ;
+
+- les membres et anciens membres des comités économiques et sociaux ;
+
+- les agents et anciens agents des régions, des départements, des communes et de leurs établissements publics, ainsi que ceux
+des offices publics d'habitation à loyer modéré et des caisses de crédit municipal à l'exception, pour ces dernières, des
+directeurs et des agents comptables ;
+
+- les agents et anciens agents de l'Etat ayant rendu des services pour le compte de ces collectivités locales et
+établissements publics.
+
+Les sapeurs-pompiers ne sont pas susceptibles d'être récompensés en tant que tels par la médaille d'honneur régionale,
+départementale et communale.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°45-1197 1945-06-07 ART. 2 AL. 2 REMPLACE
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Modifié par**:
+
+	  - Décret n°87-594 du 22 juillet 1987 - art. 1 () JORF 31 juillet 1987
+
+
+###### Article R411-45
+
+La médaille d'honneur régionale, départementale et communale comporte trois échelons :
+
+- l'échelon " argent , qui peut être décerné après vingt années de services ;
+
+- l'échelon " vermeil , qui peut être décerné après trente années de services aux titulaires de l'échelon " argent  ;
+
+- l'échelon " or , qui peut être décerné après trente-huit années de services aux titulaires de l'échelon " vermeil .
+
+La durée des services exigée est réduite de cinq ans pour les agents des réseaux souterrains des égouts et les agents des
+services insalubres visés à l'article 416-1 (3°) du présent code.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°45-1197 1945-06-07 ART. 3 REMPLACE AL. 5
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Modifié par**:
+
+	  - Décret n°87-594 du 22 juillet 1987 - art. 1 () JORF 31 juillet 1987
+
+
+###### Article R411-47
+
+Le temps passé sous les drapeaux, soit au titre du service national soit au titre des guerres 1914-1918 et 1939-1945, est
+compté intégralement dans la durée des services.
+
+Il est fait application, pour le calcul de la durée des services, de l'article 8 de la loi du 6 août 1948 relatif à
+l'attribution de bonifications aux déportés et internés de la Résistance.
+
+Les dispositions qui précèdent ne sont applicables aux étrangers et aux Français par naturalisation que si les services ont
+été homologués au titre de la Résistance française ou, lorsqu'il s'agit de services militaires, s'ils ont été accomplis dans
+l'armée française.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°45-1197 1945-06-07 ART. 5 REMPLACE
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Modifié par**:
+
+	  - Décret n°87-594 du 22 juillet 1987 - art. 1 () JORF 31 juillet 1987
+
+	**Cite**:
+
+	  - Loi n°1948-08-06 art. 8
+
+
+###### Article R411-48
+
+Les congés de maternité ou d'adoption sont considérés comme des services à concurrence d'une année maximum.
+
+Les services rendus à temps partiel sont pris en compte au prorata du temps de travail accompli.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°45-1197 1945-06-07 ART. 6 AL. 1 et 2
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Modifié par**:
+
+	  - Décret n°87-594 du 22 juillet 1987 - art. 1 () JORF 31 juillet 1987
+
+
+###### Article R411-49
+
+La médaille d'honneur régionale, départementale et communale peut être décernée aux personnes qui ont été admises à la
+retraite, ou qui ont cessé leur activité ou dont le mandat électif a pris fin, dans un délai de cinq ans à compter de la date
+de cessation de leurs fonctions.
+
+La médaille d'honneur régionale, départementale et communale peut être décernée à titre posthume, dans les cinq ans suivant
+la date du décès, aux personnes qui pouvaient se prévaloir de services de la durée et de la qualité requises par le présent
+code.
+
+La médaille d'or peut être décernée à titre posthume, sans condition de durée de service, aux personnes tuées dans l'exercice
+de leurs fonctions.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°45-1197 1945-06-07 ART. 7
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Modifié par**:
+
+	  - Décret n°87-594 du 22 juillet 1987 - art. 1 () JORF 31 juillet 1987
+
+
+###### Article R411-50
+
+Peuvent être proposées pour l'attribution de la médaille d'honneur régionale, départementale et communale les personnes ayant
+mené une vie parfaitement honorable, exempte de toute condamnation pénale grave.
+
+Leur loyalisme patriotique doit être au-dessus de tout soupçon.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°45-1197 1945-06-07 ART. 8
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Modifié par**:
+
+	  - Décret n°87-594 du 22 juillet 1987 - art. 1 () JORF 31 juillet 1987
+
+
+###### Article R411-51
+
+La médaille d'honneur régionale, départementale et communale est attribuée par arrêté du préfet, commissaire de la République
+du département de résidence.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°45-1197 1945-06-07 ART. 9 AL. 1 REMPLACE
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Modifié par**:
+
+	  - Décret n°87-594 du 22 juillet 1987 - art. 1 () JORF 31 juillet 1987
+
+
+###### Article R411-52
+
+La médaille d'honneur régionale, départementale et communale se perd de plein droit :
+
+- par la déchéance de la nationalité française ;
+
+- par une condamnation à une peine afflictive ou infâmante ;
+
+- par une révocation.
+
+Elle peut être retirée par arrêté du préfet, commissaire de la République :
+
+- pour toute autre condamnation ;
+
+- pour indignité dûment constatée ;
+
+- à la suite d'une sanction pour faute disciplinaire. Dans ce dernier cas, le retrait intervient après avis, le cas échéant,
+du conseil de discipline de l'administration à laquelle appartient l'agent.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°45-1197 1945-06-07 ART. 9 AL. 2 MODIFIE
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Modifié par**:
+
+	  - Décret n°87-594 du 22 juillet 1987 - art. 1 () JORF 31 juillet 1987
+
+
+###### Article R411-53
+
+L'insigne de la médaille d'honneur régionale, départementale et communale, la couleur du ruban et sa disposition sont fixés
+par arrêté du ministre de l'intérieur.
+
+Les titulaires de la médaille d'honneur régionale, départementale et communale reçoivent un diplôme qui rappelle les services
+pour lesquels ils sont récompensés.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°45-1197 1945-06-07 ART. 9 AL. 3 et 4 REMPLACES
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Modifié par**:
+
+	  - Décret n°87-594 du 22 juillet 1987 - art. 1 () JORF 31 juillet 1987
+
+
 ##### SECTION 7 : Honorariat.
 
 ###### Article R411-55
@@ -92447,95 +92733,12 @@ activités exercées le justifie.
 
 ##### La médaille d'honneur départementale et communal .
 
-###### Article R411-41
-
-La médaille d'ancienneté, dite médaille d'honneur départementale et communale, est destinée à récompenser les services des
-agents de toute nature des départements, des communes et des établissements publics départementaux et communaux qui
-remplissent les conditions prévues aux articles ci-après.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°45-1197 1945-06-07 ART. 2 AL. 1 MODIFIE
-
-	**Codifié par**:
-
-	  - Décret n°77-373 1977-03-28
-
-	**Créé par**:
-
-	  - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
-
-	**Cité par**:
-
-	  - CODE DES COMMUNES. - art. R411-42 (M)
-
-	**Cite**:
-
-	  - Code des communes R411-42 à R411-54
-
-
-###### Article R411-42
-
-La médaille d'honneur départementale et communale peut également être attribuée aux personnes titulaires de mandats électifs
-des départements et des communes, dans les mêmes conditions que pour les agents des services désignés à l'article précédent
-[*agents des communes, des départements et de leurs établissements publics*].
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°45-1197 1945-06-07 ART. 2 AL. 1 COMPLETE
-
-	**Codifié par**:
-
-	  - Décret n°77-373 1977-03-28
-
-	**Créé par**:
-
-	  - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
-
-	**Cite**:
-
-	  - CODE DES COMMUNES. - art. R411-41 (M)
-
-
-###### Article R411-43
-
-Les services rendus par les sapeurs-pompiers, en faveur desquels existe la médaille d'ancienneté spéciale, dite médaille
-d'honneur des sapeurs-pompiers, ne sont pas susceptibles d'être récompensés en tant que tels par la médaille d'honneur
-départementale et communale.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°45-1197 1945-06-07 ART. 2 AL. 2 REMPLACE
-
-	**Codifié par**:
-
-	  - Décret n°77-373 1977-03-28
-
-	**Créé par**:
-
-	  - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
-
-
 ###### Article R411-44
 
-La médaille d'honneur départementale et communale comporte trois échelons :
+" La médaille d'honneur régionale, départementale et communale ne peut être attribuée aux membres des assemblées
+parlementaires.
 
-La médaille d'argent est décernée après vingt-quatre ans de services [*ancienneté*] aux agents qui auront manifesté une
-réelle compétence professionnelle et un dévouement constant dans l'exercice de leurs fonctions ainsi qu'aux personnes
-titulaires de mandats électifs des départements et des communes.
-
-La médaille de vermeil peut être décernée après trente-cinq ans de services aux agents qui auront fait preuve de mérites
-particuliers au cours de leur carrière ainsi qu'aux personnes titulaires de mandats électifs des départements et des
-communes ;
-
-La médaille d'or peut être décernée après quarante-cinq ans de services aux agents qui auront fait preuve au cours de leur
-carrière de mérites exceptionnels ainsi qu'aux personnes titulaires de mandats électifs des départements et des communes.
+" Elle ne peut également être attribuée aux membres de la Légion d'honneur ou de l'ordre national du Mérite.
 
 **Liens relatifs à cet article**
 
@@ -92543,35 +92746,13 @@ carrière de mérites exceptionnels ainsi qu'aux personnes titulaires de mandats
 
 	  - Décret n°77-241 1977-03-07
 
+	**Modifié par**:
+
+	  - Décret n°87-594 du 22 juillet 1987 - art. 1 () JORF 31 juillet 1987
+
 	**Cité par**:
 
 	  - CODE DES COMMUNES. - art. R411-46 (M)
-
-
-###### Article R411-45
-
-La médaille d'honneur départementale et communale peut être décernée, à titre posthume, aux personnes qui sont décédées par
-suite de l'exercice de leurs fonctions ou en raison de leur attitude patriotique et qui totalisent au moment de leur décès:
-
-- Dix ans de services pour la médaille d'argent ;
-
-- Vingt-cinq ans de services pour la médaille de vermeil ;
-
-- Trente-cinq ans de services pour la médaille d'or [*conditions d'attribution, ancienneté*].
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°45-1197 1945-06-07 ART. 3 REMPLACE AL. 5
-
-	**Codifié par**:
-
-	  - Décret n°77-373 1977-03-28
-
-	**Créé par**:
-
-	  - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
 
 
 ###### Article R411-46
@@ -92603,183 +92784,6 @@ des avantages spéciaux pour l'ouverture du droit à pension aux personnels du s
 	**Cité par**:
 
 	  - CODE DES COMMUNES. - art. R411-48 (V)
-
-
-###### Article R411-47
-
-Les années de services sont prises en compte à partir de l'âge de seize ans pour l'obtention de la médaille d'honneur
-départementale et communale [*calcul de l'ancienneté*].
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°45-1197 1945-06-07 ART. 5 REMPLACE
-
-	**Codifié par**:
-
-	  - Décret n°77-373 1977-03-28
-
-	**Créé par**:
-
-	  - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
-
-
-###### Article R411-48
-
-Le temps passé sous les drapeaux en période de guerre est compté dans la durée des services [*pour l'obtention de la médaille
-- calcul de l'ancienneté*].
-
-Le service militaire du temps de paix n'y est compté que pour la durée légale du service obligatoire.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°45-1197 1945-06-07 ART. 6 AL. 1 et 2
-
-	**Codifié par**:
-
-	  - Décret n°77-373 1977-03-28
-
-	**Créé par**:
-
-	  - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
-
-
-###### Article R411-49
-
-Après un délai de cinq ans à compter de la date à laquelle un agent a été mis à la retraite ou, lorsqu'il n'est pas
-titulaire, a cessé ses fonctions, aucune proposition ne peut être formulée en vue de provoquer en sa faveur l'octroi de la
-médaille d'honneur départementale et communale.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°45-1197 1945-06-07 ART. 7
-
-	**Codifié par**:
-
-	  - Décret n°77-373 1977-03-28
-
-	**Créé par**:
-
-	  - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
-
-
-###### Article R411-50
-
-Les candidats à la médaille d'honneur départementale, et communale doivent avoir mené une vie parfaitement honorable, exempte
-de toute condamnation pénale grave [*conditions d'attribution*].
-
-Leur loyalisme patriotique doit être au-dessus de tout soupçon.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°45-1197 1945-06-07 ART. 8
-
-	**Codifié par**:
-
-	  - Décret n°77-373 1977-03-28
-
-	**Créé par**:
-
-	  - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
-
-
-###### Article R411-51
-
-La médaille d'honneur départementale et communale est accordée par arrêté préfectoral.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°45-1197 1945-06-07 ART. 9 AL. 1 REMPLACE
-
-	**Codifié par**:
-
-	  - Décret n°77-373 1977-03-28
-
-	**Créé par**:
-
-	  - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
-
-
-###### Article R411-52
-
-Elle se perd de plein droit [**]sanction[**] :
-
-1° Par la déchéance de la nationalité française ;
-
-2° Par la condamnation à une peine afflictive ou infamante ;
-
-3° Par une condamnation à l'emprisonnement ;
-
-4° Par la révocation.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°45-1197 1945-06-07 ART. 9 AL. 2 MODIFIE
-
-	**Codifié par**:
-
-	  - Décret n°77-373 1977-03-28
-
-	**Créé par**:
-
-	  - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
-
-
-###### Article R411-53
-
-Elle peut être retirée en cas de sanction intervenue à la suite d'une faute disciplinaire ; dans ce dernier cas, la médaille
-d'honneur départementale et communale ne peut être retirée à l'agent qu'après avis du conseil de discipline de
-l'administration auquel il appartient. Cette décision est prise par arrêté préfectoral [**]conditions de forme[**].
-
-En cas d'indignité dûment constatée du titulaire, elle peut être retirée par arrêté du préfet.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°45-1197 1945-06-07 ART. 9 AL. 3 et 4 REMPLACES
-
-	**Codifié par**:
-
-	  - Décret n°77-373 1977-03-28
-
-	**Créé par**:
-
-	  - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
-
-
-###### Article R411-54
-
-Le modèle de la médaille, la couleur et la disposition du ruban sont fixés par arrêté du ministre de l'intérieur.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°45-1197 1945-06-07 ART. 11
-
-	**Codifié par**:
-
-	  - Décret n°77-373 1977-03-28
-
-	**Créé par**:
-
-	  - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
-
-	**Abrogé par**:
-
-	  - Décret n°87-594 du 22 juillet 1987 - art. 1 () JORF 31 juillet 1987
 
 
 #### Recrutement, formation et promotion sociale
