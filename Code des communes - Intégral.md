@@ -1,5 +1,5 @@
 # Code des communes  
-Version Consolidée au 1994-08-19
+Version Consolidée au 1994-12-02
 
 # Partie législative
 
@@ -74733,21 +74733,18 @@ est dans l'obligation de l'entretenir en exécution d'une donation ou d'une disp
 
 ###### Article R361-35
 
-Les chambres funéraires sont destinées à recevoir, avant l'inhumation ou la crémation, les corps des personnes dont le déces
-n'a pas été causé par une maladie contagieuse.
+La création ou l'extension d'une chambre funéraire est autorisée par le représentant de l'Etat dans le département.
 
-Elles sont créées, à la demande du conseil municipal, par arrêté du commissaire de la République, aprés enquête de commodo et
-incommodo et avis du conseil départemental d'hygiène. Leur gestion es assurée dans les conditions prévues pour les services
-publics communaux
+Celui-ci fait procéder à une enquête de commodo et incommodo et consulte le conseil départemental d'hygiène. Il recueille
+l'avis du conseil municipal, qui se prononce dans le délai de deux mois.
 
-La commune peut également passer une convention avec un établissement de soins ou de retraite en vue de l'utilisation de la
-chambre funéraire de cet établissement.
+La décision intervient dans le délai de quatre mois suivant le dépôt de la demande. En l'absence de notification de la
+décision à l'expiration de ce délai, l'autorisation est considérée comme accordée.
 
-Les personnels des agences de funérailles munis d'une autorisation du maire ne peuvent se voir refuser l'accés des chambres
-funéraires pour le dépôt ou le retrait des corps.
+L'autorisation ne peut être refusée qu'en cas d'atteinte à l'ordre public ou de danger pour la salubrité publique.
 
-Lorsqu'une chambre funéraire présente des inconvénients graves, le commissaire de la République peut en ordonner la
-suppression aprés avis du conseil municipal.
+Dans les mêmes cas, le représentant de l'Etat dans le département peut, après mise en demeure, ordonner la fermeture
+provisoire ou définitive de la chambre funéraire. Le maire de la commune concernée est informé.
 
 **Liens relatifs à cet article**
 
@@ -74761,7 +74758,7 @@ suppression aprés avis du conseil municipal.
 
 	**Modifié par**:
 
-	  - Décret n°87-28 1987-01-14 art. 6 JORF 18 JANVIER 1987
+	  - Décret n°94-1027 du 23 novembre 1994 - art. 1 ()
 
 	**Cité par**:
 
@@ -74776,9 +74773,9 @@ suppression aprés avis du conseil municipal.
 
 ###### Article R361-36
 
-le corps d'une personne décédée ne peut être admis dans une chambre funéraire située sur le territoire de la commune du lieu
-du décès que sur la production d'un certificat médical constatant que le défunt n'était pas atteint de l'une des maladies
-contagieuses mentionnées dans l'arrêté prévu à l'article R. 363-6 [*formalités*].
+Les personnels des régies, entreprises ou associations de pompes funèbres habilitées conformément à l'article L. 362-2-1
+mandatés par toute personne qui a qualité pour pourvoir aux funérailles ont accès aux chambres funéraires pour le dépôt et le
+retrait des corps et la pratique des soins de conservation prévus à l'article R. 363-1 et de la toilette mortuaire.
 
 **Liens relatifs à cet article**
 
@@ -74790,13 +74787,14 @@ contagieuses mentionnées dans l'arrêté prévu à l'article R. 363-6 [*formali
 
 	  - Décret n°77-241 1977-03-07
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°77-241 1977-03-07 JORF et JONC 18 Mars 1977
+	  - Décret n°94-1027 du 23 novembre 1994 - art. 2 ()
 
 	**Cite**:
 
-	  - CODE DES COMMUNES. - art. R363-6 (M)
+	  - CODE DES COMMUNES. - art. L362-2-1 (Ab)
+	  - CODE DES COMMUNES. - art. R363-1 (M)
 
 	**Nouveaux textes**:
 
@@ -74805,21 +74803,33 @@ contagieuses mentionnées dans l'arrêté prévu à l'article R. 363-6 [*formali
 
 ###### Article R361-37
 
-L'admission intervient dans un délai maximum de dix-huit heures à compter du décès. Ce délai est porté à trente-six heures
-lorsque le corps a subi les soins de conservation prévus à l'article R. 363-1.
+L'admission en chambre funéraire intervient dans un délai de vingt-quatre heures à compter du décès. Le délai est porté à
+quarante-huit heures lorsque le corps a subi les soins de conservation prévus à l'article R. 363-1.
 
-Elle a lieu sur la demande écrite [*formalités - qualité pour agir*] :
+Elle a lieu sur la demande écrite :
 
 - soit de toute personne qui a qualité pour pourvoir aux funérailles et justifie de son état civil et de son domicile ;
 
 - soit de la personne chez qui le décès a eu lieu, à condition qu'elle atteste par écrit qu'il lui a été impossible de
 joindre ou de retrouver l'une des personnes ayant qualité pour pourvoir aux funérailles ;
 
-- soit du directeur de l'établissement, dans le cas de décès dans un établissement d'hospitalisation public ou privé, sous la
-condition prévue au paragraphe précédent lorsque la chambre funéraire n'est pas la chambre mortuaire de l'établissement.
+- soit du directeur de l'établissement, dans le cas de décès dans un établissement de santé public ou privé qui n'entre pas
+dans la catégorie de ceux devant disposer obligatoirement d'une chambre mortuaire conformément à l'article L. 361-19-1, sous
+la condition qu'il atteste par écrit qu'il lui a été impossible de joindre ou de retrouver dans un délai de dix heures à
+compter du décès l'une des personnes ayant qualité pour pourvoir aux funérailles.
 
-La demande d'admission en chambre funéraire est présentée aprés le décés. Elle énonce les nom, prénom, âge et domicile du
+La demande d'admission en chambre funéraire est présentée après le décès. Elle énonce les nom, prénoms, âge et domicile du
 défunt.
+
+Le corps d'une personne décédée ne peut être admis dans une chambre funéraire que sur production d'un extrait du certificat
+prévu à l'article L. 363-1 attestant exclusivement que le décès n'a pas été causé par l'une des maladies contagieuses
+définies par l'arrêté du ministre chargé de la santé prévu à l'article R. 363-6.
+
+Lorsque la chambre funéraire d'accueil du corps est située sur le territoire de la commune du lieu du décès, la remise de
+l'extrait du certificat précité s'effectue auprès du responsable de cette chambre funéraire.
+
+Dans les autres cas, le maire de la commune où se trouve la chambre funéraire d'accueil du corps et le responsable de la
+chambre funéraire sont destinataires de l'extrait du certificat précité.
 
 **Liens relatifs à cet article**
 
@@ -74831,21 +74841,24 @@ défunt.
 
 	  - Décret n°77-241 1977-03-07
 
+	**Modifié par**:
+
+	  - Décret n°94-1027 du 23 novembre 1994 - art. 3 ()
+
 	**Cité par**:
 
 	  - Décret n°97-1039 du 14 novembre 1997 - art. 4 (Ab)
 
 	**Cite**:
 
+	  - CODE DES COMMUNES. - art. L361-19-1 (Ab)
+	  - CODE DES COMMUNES. - art. L363-1 (Ab)
 	  - CODE DES COMMUNES. - art. R363-1 (M)
+	  - CODE DES COMMUNES. - art. R363-6 (M)
 
 	**Nouveaux textes**:
 
 	  - Code général des collectivités territoriales - art. R2223-76 (V)
-
-	**Modifié par**:
-
-	  - Décret n°87-28 1987-01-14 art. 7 JORF 18 janvier 1987
 
 
 ###### Article R361-38
@@ -74938,14 +74951,19 @@ de police*].
 
 ###### Article R361-40
 
-Lorsque le transfert à une chambre funéraire du corps d'une personne décédée dans un établissement d'hospitalisation public
-ou privé a été opéré à la demande du directeur de l'établissement, les frais résultant du transport et du séjour à la chambre
-funéraire sont à la charge de l'établissement.
+Le dépôt et le séjour à la chambre mortuaire d'un établissement de santé public ou privé du corps d'une personne qui y est
+décédée sont gratuits pendant les trois premiers jours suivant le décès.
 
-Le corps peut faire l'objet d'un nouveau transport, soit à une autre chambre funéraire, soit à la résidence du défunt ou d'un
-membre de sa famille, dans les délais et conditions prévus à la présente section et aux sections II, III et IV du chapitre
-III [*transports avant et après la mise en bière, dépôts temporaires*], à la demande de toute personne qui a qualité pour
-pourvoir aux funérailles [*qualité pour agir*].
+Lorsque le transfert à une chambre funéraire du corps d'une personne décédée dans un établissement de santé public ou privé,
+qui n'entre pas dans la catégorie à l'article de ceux devant disposer obligatoirement d'une chambre mortuaire conformément à
+l'article L. 361-19-1, a été opéré à la demande du directeur de l'établissement, les frais résultant du transport à la
+chambre funéraire sont à la charge de l'établissement ainsi que les frais de séjour durant les trois premiers jours suivant
+l'admission.
+
+Dans le cas prévu à l'alinéa précédent, le corps peut faire l'objet d'un nouveau transport soit à une autre chambre
+funéraire, soit à la résidence du défunt ou d'un membre de sa famille, dans les délais et conditions prévus à la présente
+section et aux sections II, III et IV du chapitre III, à la demande de toute personne qui a qualité pour pourvoir aux
+funérailles.
 
 **Liens relatifs à cet article**
 
@@ -74957,48 +74975,20 @@ pourvoir aux funérailles [*qualité pour agir*].
 
 	  - Décret n°77-241 1977-03-07
 
+	**Modifié par**:
+
+	  - Décret n°94-1027 du 23 novembre 1994 - art. 4 ()
+
 	**Cité par**:
 
 	  - Décret n°97-1039 du 14 novembre 1997 - art. 5 (Ab)
 
 	**Cite**:
 
-	  - Code des communes R363-4 à R363-36
-
-	**Modifié par**:
-
-	  - Décret n°87-28 1987-01-14 art. 9 JORF 18 janvier 1987
+	  - CODE DES COMMUNES. - art. L361-19-1 (Ab)
 
 
 ##### SECTION 4 : Crémations.
-
-###### Article R361-41
-
-Aucun appareil crématoire ne peut être mis en usage sans une autorisation du préfet, accordée après avis du conseil
-départemental d'hygiène [*conditions de forme*].
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°76-435 1976-05-18 ART. 22
-
-	**Codifié par**:
-
-	  - Décret n°77-241 1977-03-07
-
-	**Créé par**:
-
-	  - Décret n°77-241 1977-03-07 JORF et JONC 18 Mars 1977
-
-	**Abrogé par**:
-
-	  - Décret n°94-1027 du 23 novembre 1994 - art. 7 (V)
-
-	**Cité par**:
-
-	  - Décret n°94-1027 du 23 novembre 1994 - art. 7 (V)
-
 
 ###### Article R361-42
 
@@ -75396,36 +75386,6 @@ dans les conditions fixées par le décret du 28 mai 1990 susvisé.
 	**Créé par**:
 
 	  - Décret n°93-905 du 13 juillet 1993 - art. 1 ()
-
-
-##### SECTION 2 : Réglementation de l'activité des entreprises privées participant au service extérieur des pompes funèbres.
-
-###### Article R*362-4
-
-Indépendamment des peines prévues en cas de récidive à l'article L. 362-12, toute infraction aux dispositions des articles L.
-362-1, L. 362-4-1, L. 362-8, L.362-9 et L.362-10 est punie des peines d'amendes [*sanctions*] prévues pour les contraventions
-de 5è classe.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°77-241 1977-03-07
-
-	**Abrogé par**:
-
-	  - Décret n°94-1027 du 23 novembre 1994 - art. 7 (V) JORF 2 décembre 1994
-
-	**Cite**:
-
-	  - CODE DES COMMUNES. - art. L362-1 (M)
-	  - CODE DES COMMUNES. - art. L362-12 (M)
-	  - CODE DES COMMUNES. - art. L362-4-1 (MMN)
-	  - Code des communes L362-8 à L362-10
-
-	**Modifié par**:
-
-	  - Décret n°87-28 1977-01-14 art. 15 JORF 18 janvier 1987
 
 
 #### CHAPITRE 3 : Soins de conservation et transport de corps
@@ -75881,57 +75841,10 @@ délai est porté à quarante-huit heures.
 
 ##### SOUS-SECTION 3 : Conditions du transport.
 
-###### Article R363-12
-
-Peuvent assurer les transports de corps prévus à la section III du chapitre Ier [*relative aux chambres funéraires*] et à la
-section II du présent chapitre [*avant la mise en bière*] :
-
-1° Les établissements d'hospitalisation publics ou privés ;
-
-2° Les entreprises agréées par le commissaire de la République du département où est implanté le siège social de l'entreprise
-et par le commissaire dde la République du département où sont implantés ses établissements secondaires éventuels.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°76-435 1976-05-18 ART. 8 AL. 1
-
-	**Codifié par**:
-
-	  - Décret n°77-241 1977-03-07
-
-	**Abrogé par**:
-
-	  - Décret n°94-1027 du 23 novembre 1994 - art. 7 (V)
-
-	**Cité par**:
-
-	  - Décret n°94-1027 du 23 novembre 1994 - art. 7 (V)
-	  - CODE DES COMMUNES. - art. R363-4 (Ab)
-
-	**Liens**:
-
-	  - TXT_ASSOCIE: CODE DES COMMUNES. - art. R363-15 (Ab)
-
-	**Cite**:
-
-	  - Code des communes R361-35 à R361-40
-
-	**Modifié par**:
-
-	  - Décret n°87-28 1987-01-14 art. 24 JORF 18 janvier 1987
-
-
 ###### Article R363-13
 
-Les transports de corps sont effectués au moyen de véhicules spécialement aménagés, exclusivement réservés aux transports
-mortuaires, agréés par le commissaire de la République du département de réception délivrés par le préfet [*par le préfet de
-police en ce qui concerne la ville de Paris*], certificats qui sont présentés à toute réquisition.
-
-Le visage du défunt reste découvert et les mains libres.
-
-Les voitures sont désinfectées après chaque transport [*formalités*] .
+Les transports de corps visés à la présente section sont effectués au moyen de véhicules spécialement aménagés, exclusivement
+réservés aux transports mortuaires et répondant aux conditions du décret prévu par l'article L. 362-2-1 (5°).
 
 **Liens relatifs à cet article**
 
@@ -75943,13 +75856,13 @@ Les voitures sont désinfectées après chaque transport [*formalités*] .
 
 	  - Décret n°77-241 1977-03-07
 
-	**Liens**:
-
-	  - TXT_ASSOCIE: CODE DES COMMUNES. - art. R363-15 (Ab)
-
 	**Modifié par**:
 
-	  - Décret n°87-28 1987-01-14 art. 25 JORF 18 janvier 1987
+	  - Décret n°94-1027 du 23 novembre 1994 - art. 4 ()
+
+	**Cite**:
+
+	  - CODE DES COMMUNES. - art. L362-2-1 (Ab)
 
 
 ###### Article R363-14
@@ -75986,47 +75899,6 @@ commissaire de police ou le garde champêtre*].
 	**Nouveaux textes**:
 
 	  - Code général des collectivités territoriales - art. R2213-47 (V)
-
-
-###### Article R363-15
-
-Un arrêté du ministre de l'intérieur et du ministre chargé de la santé détermine les conditions d'application des articles R.
-363-12 à R. 363-14 et fixe en particulier les modalités de retrait éventuel de l'agrément (1).
-
-(1) Voir l'arrêté interministériel du 18 mai 1976 relatif aux voitures spéciales destinées aux transports de corps avant mise
-en bière (J.O. 20 mai 1976).
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°76-435 1976-05-18 ART. 8 AL. 4
-
-	**Codifié par**:
-
-	  - Décret n°77-241 1977-03-07
-
-	**Créé par**:
-
-	  - Décret n°77-241 1977-03-07 JORF et JONC 18 Mars 1977
-
-	**Abrogé par**:
-
-	  - Décret n°94-1027 du 23 novembre 1994 - art. 7 (V)
-
-	**Cité par**:
-
-	  - Décret n°94-1027 du 23 novembre 1994 - art. 7 (V)
-
-	**Liens**:
-
-	  - TXT_ASSOCIE: CODE DES COMMUNES. - art. R363-12 (Ab)
-	  - TXT_ASSOCIE: CODE DES COMMUNES. - art. R363-13 (M)
-	  - TXT_ASSOCIE: CODE DES COMMUNES. - art. R363-14 (Ab)
-
-	**Cite**:
-
-	  - Code des communes R363-12 à R363-14
 
 
 ##### SECTION 3 : Mise en bière et transport après mise en bière; fermeture du cercueil
@@ -76105,10 +75977,11 @@ corps :
 
 ###### Article R363-18
 
-La fermeture du cercueil est autorisée par l'officier d'état-civil du lieu du décès [*compétence*].
+La fermeture du cercueil est autorisée par l'officier d'état civil du lieu de décès dans le respect des dispositions de
+l'article L. 363-1..
 
 L'autorisation, établie sur papier libre et sans frais, est délivrée sur production d'un certificat du médecin chargé par
-l'officier d'état civil de s'assurer du décès et attestant que celui-ci ne pose pas de problème médico-légal [*formalités*].
+l'officier d'état civil de s'assurer du décès et attestant que celui-ci ne pose pas de problème médico-légal[*formalités*].
 
 **Liens relatifs à cet article**
 
@@ -76120,9 +75993,13 @@ l'officier d'état civil de s'assurer du décès et attestant que celui-ci ne po
 
 	  - Décret n°77-241 1977-03-07
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°77-241 1977-03-07 JORF et JONC 18 Mars 1977
+	  - Décret n°94-1027 du 23 novembre 1994 - art. 6 ()
+
+	**Cite**:
+
+	  - CODE DES COMMUNES. - art. L363-1 (Ab)
 
 	**Cité par**:
 
@@ -76366,37 +76243,6 @@ l'article R.363-23[*compétence*].
 	**Nouveaux textes**:
 
 	  - Code général des collectivités territoriales - art. R2213-24 (V)
-
-
-###### Article R363-25-1
-
-Les signes distinctifs des entreprises éventuellement apposés sur les véhicules affectés aux convois répondent aux
-caractéristiques fixées par arrêté du ministre de l'intérieur.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°77-241 1977-03-07
-
-	**Liens**:
-
-	  - TXT_SOURCE: Arrêté du 1 décembre 1987
-	  - TXT_SOURCE: Arrêté du 1 décembre 1987 - art. 1 (Ab)
-	  - TXT_SOURCE: Arrêté du 1 décembre 1987 - art. 2 (Ab)
-	  - TXT_SOURCE: Arrêté du 1 décembre 1987 - art. 3 (Ab)
-
-	**Créé par**:
-
-	  - Décret n°87-28 1987-01-14 art. 28 JORF 18 janvier 1987
-
-	**Abrogé par**:
-
-	  - Décret n°94-1027 du 23 novembre 1994 - art. 7 (V)
-
-	**Cité par**:
-
-	  - Décret n°94-1027 du 23 novembre 1994 - art. 7 (V)
 
 
 ##### SOUS-SECTION 3 : Conditions de transport.
