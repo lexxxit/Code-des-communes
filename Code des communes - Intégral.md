@@ -1,5 +1,5 @@
 # Code des communes  
-Version Consolidée au 1995-02-02
+Version Consolidée au 1995-02-03
 
 # Partie législative
 
@@ -5078,6 +5078,32 @@ aux articles 303 à 306 du code de l'urbanisme et de l'habitation.
 	  - Code de l'urbanisme 303 à 306
 
 
+###### Article L131-8-1
+
+Faute pour le propriétaire ou ses ayants droit d'entretenir un terrain non bâti situé à l'intérieur d'une zone d'habitation
+ou à une distance maximum de cinquante mètres des habitations, dépendances, chantiers, ateliers et usines lui appartenant, le
+maire peut, pour des motifs d'environnement, lui notifier par arrêté l'obligation d'exécuter, à ses frais, les travaux de
+remise en état de ce terrain après mise en demeure.
+
+" Si, au jour indiqué par l'arrêté de mise en demeure, les travaux de remise en état du terrain prescrits n'ont pas été
+effectués, le maire peut faire procéder d'office à leur exécution aux frais du propriétaire ou de ses ayants droit.
+
+" Si le propriétaire ou, en cas d'indivision, un ou plusieurs des indivisaires n'ont pu être identifiés, la notification les
+concernant est valablement faite à la mairie.
+
+" Un décret en Conseil d'Etat fixe les modalités d'application du présent article. "
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°77-90 1977-01-27
+
+	**Créé par**:
+
+	  - Loi n°95-101 du 2 février 1995 - art. 94 ()
+
+
 ###### Article L131-9
 
 Le maire [*attributions*] prescrit que le ramonage des fours, fourneaux et cheminées des maisons, usines, etc., doit être
@@ -5409,17 +5435,18 @@ l'article 21 du code de procédure pénale.
 
 ###### Article L132-1
 
-La police des campagnes est spécialement placée sous la surveillance des gardes champêtres et de la gendarmerie nationale
-[*attributions*] .
+La police des campagnes est spécialement placée sous la surveillance des gardes champêtres et de la gendarmerie nationale.
 
 Toute commune peut avoir un ou plusieurs gardes champêtres. Plusieurs communes peuvent avoir un ou plusieurs gardes
 champêtres en commun.
 
+Une région, un département, un groupement de communes ou un établissement public chargé de la gestion d'un parc naturel
+régional peut recruter un ou plusieurs gardes champêtres compétents dans chacune des communes concernées. Dans ces cas, leur
+nomination est prononcée conjointement par le maire de chacune des communes et, respectivement, par le président du conseil
+régional ou le président du conseil général ou le président du groupement ou le président de l'établissement public, dans des
+conditions fixées par décret en Conseil d'Etat.
+
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Code de l'administration communale 108 al. 1
 
 	**Codifié par**:
 
@@ -5427,11 +5454,23 @@ champêtres en commun.
 
 	**Modifié par**:
 
-	  - Loi n°93-24 du 8 janvier 1993 - art. 8 () JORF 9 janvier 1993
+	  - Loi n°95-101 du 2 février 1995 - art. 37 () JORF 3 février 1995
+
+	**Abrogé par**:
+
+	  - Loi n°96-142 du 21 février 1996 - art. 12 (V) JORF 24 février 1996
 
 	**Cité par**:
 
 	  - CODE DES COMMUNES. - art. L181-1 (M)
+
+	**Nouveaux textes**:
+
+	  - Code général des collectivités territoriales - art. L2213-16 (V)
+	  - Code général des collectivités territoriales - art. L2213-17 (M)
+	  - Code général des collectivités territoriales - art. L3221-8 (V)
+	  - Code général des collectivités territoriales - art. L4231-6 (V)
+	  - Code général des collectivités territoriales - art. L5211-12 (M)
 
 
 ###### Article L132-2
@@ -14161,20 +14200,18 @@ des communes constituant ce groupement.
 ###### Article L181-47
 
 Dans les communes où a été instituée la police d'Etat, les maires restent investis des pouvoirs de police conférés aux
-administrations municipales par l'article L. 181-38, pour tout ce qui intéresse les 1°, 5° 7°, 8° et 9° de l'article L. 131-2
-[*sécurité et commodité du passage dans les voies publiques, inspection des denrées vendues au poids ou à la mesure et des
-comestibles exposés dans les lieux de vente, précautions contre les aliénés, les animaux malfaisants, fermeture annuelle des
-boulangeries*] , ainsi que :
+administrations municipales par l'article L. 181-38, pour tout ce qui intéresse les 1°, 2° pour tout ce qui concerne les
+bruits de voisinage, 5°, 7°, 8° et 9° de l'article L. 131-2, ainsi que :
 
-1° Le mode de transport des [*corps*] personnes décédées, les inhumations et exhumations, le maintien du bon ordre et de la
-décence dans les cimetières ; 
+1° Le mode de transport des personnes décédées, les inhumations et exhumations, le maintien du bon ordre et de la décence
+dans les cimetières ;
 
 2° Le soin de prévenir, par des précautions convenables, et celui de faire cesser, par la distribution des secours
-nécessaires, les accidents [*naturels*] et les fléaux calamiteux, tels que les incendies, les inondations, les maladies
-épidémiques ou contagieuses, les épizooties, en provoquant, s'il y a lieu, l'intervention de l'administration supérieure. 
+nécessaires, les accidents et les  fléaux calamiteux, tels que les incendies, les inondations, les maladies épidémiques ou
+contagieuses, les épizooties, en provoquant, s'il y a lieu, l'intervention de l'administration supérieure.
 
-Les maires [*attributions*] sont, en outre, chargés du maintien du bon ordre dans les foires, marchés, réjouissances et
-cérémonies publiques, spectacles, jeux, cafés, églises et autres lieux publics.
+Les maires sont, en outre, chargés du maintien du bon ordre dans les foires, marchés, réjouissances et cérémonies publiques,
+spectacles, jeux, cafés, églises et autres lieux publics.
 
 **Liens relatifs à cet article**
 
@@ -14182,18 +14219,23 @@ cérémonies publiques, spectacles, jeux, cafés, églises et autres lieux publi
 
 	  - Décret n°77-90 1977-01-27
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°77-90 1977-01-27 JORF et JONC 3 février 1977 date d'entrée en vigueur élection des maires
+	  - Loi n°95-101 du 2 février 1995 - art. 70 () JORF 3 février 1995
+
+	**Abrogé par**:
+
+	  - Loi n°96-142 du 21 février 1996 - art. 12 (V) JORF 24 février 1996
 
 	**Cite**:
 
 	  - CODE DES COMMUNES. - art. L131-2 (M)
-	  - Code des communes L131-2, 1°, 5°, 7°, 8°, 9° et L181-38
+	  - CODE DES COMMUNES. - art. L181-38 (M)
 
 	**Nouveaux textes**:
 
 	  - Code général des collectivités territoriales - art. L2542-10 (M)
+	  - Code général des collectivités territoriales - art. L2542-10 (V)
 
 
 ##### SECTION 5 : Section de commune possédant un patrimoine séparé.
@@ -17733,13 +17775,15 @@ les contraventions.
 
 ###### Article L233-29
 
-Dans les stations classées, dans les communes qui bénéficient de l'une des dotations prévues à l'article L. 234-13, dans les
-communes littorales au sens de la loi n° 86-2 du 3 janvier 1986 relative à l'aménagement, la protection et la mise en valeur
-du littoral, dans les communes de montagne au sens de la loi n° 85-30 du 9 janvier 1985 relative au développement et à la
-protection de la montagne et dans les communes qui réalisent des actions de promotion en faveur du tourisme, le conseil
-municipal peut instituer, pour chaque nature d'hébergement, soit une taxe de séjour perçue dans les conditions prévues aux
-articles L. 233-33 à L. 233-44, soit une taxe de séjour forfaitaire perçue dans les conditions prévues aux articles L.
-233-44-1 à L. 233-44-7. Les natures d'hébergement sont fixées par décret en Conseil d'Etat.
+Dans les stations classées, dans les communes percevant la dotation supplémentaire aux communes et groupements touristiques
+ou thermaux et la dotation particulière aux communes touristiques, dans les conditions fixées au deuxième alinéa de l'article
+L. 234-7, dans les communes littorales au sens de la loi n° 86-2 du 3 janvier 1986 relative à l'aménagement, la protection et
+la mise en valeur du littoral, dans les communes de montagne au sens de la loi n° 85-30 du 9 janvier 1985 relative au
+développement et à la protection de la montagne et dans les communes qui réalisent des actions de promotion en faveur du
+tourisme et dans celles qui réalisent des actions de protection et de gestion de leurs espaces naturels, le conseil municipal
+peut instituer, pour chaque nature d'hébergement, soit une taxe de séjour perçue dans les conditions prévues aux articles L.
+233-33 à L. 233-44, soit une taxe de séjour forfaitaire perçue dans les conditions prévues aux articles L. 233-44-1 à L.
+233-44-7. Les natures d'hébergement sont fixées par décret en Conseil d'Etat.
 
 Les délibérations prises en application du premier alinéa précisent les natures d'hébergement auxquelles s'appliquent les
 taxes.
@@ -17754,16 +17798,8 @@ taxes.
 
 	  - Loi n°85-30 1985-01-09
 	  - Loi n°86-2 1986-01-03
-	  - CODE DES COMMUNES. - art. L233-33 (M)
-	  - CODE DES COMMUNES. - art. L233-44 (M)
-	  - CODE DES COMMUNES. - art. L233-44-1 (Ab)
-	  - CODE DES COMMUNES. - art. L234-13 (M)
-	  - Code des communes L234-13, L233-33, L233-44, L233-44-1, L233-44-7
-
-	**Modifié par**:
-
-	  - Loi n°88-13 1988-01-05 art. 58 III, IV JORF 6 janvier 1988
-	  - Loi n°88-13 du 5 janvier 1988 - art. 58 () JORF 6 janvier 1988
+	  - CODE DES COMMUNES. - art. L234-7 (M)
+	  - Code des communes L234-7, L233-33 à L233-44, L233-44-1 à L233-44-7
 
 	**Cité par**:
 
@@ -17773,15 +17809,31 @@ taxes.
 	  - CODE DES COMMUNES. - art. L233-45 (Ab)
 	  - CODE DES COMMUNES. - art. R*233-43 (Ab)
 
+	**Modifié par**:
+
+	  - Loi n°95-101 du 2 février 1995 - art. 50 () JORF 3 février 1995
+
+	**Abrogé par**:
+
+	  - Loi n°96-142 du 21 février 1996 - art. 12 (V) JORF 24 février 1996
+
 	**Nouveaux textes**:
 
 	  - Code général des collectivités territoriales - art. L2333-26 (V)
+	  - Code général des collectivités territoriales - art. L2333-26 (M)
 
 
 ###### Article L233-30
 
-Sous réserve de l'application des dispositions ons de l'article L. 142-10, le produit de la taxe de séjour ou de la taxe de
-séjour forfaitaire est affecté aux dépenses destinées à favoriser la fréquentation touristique de la commune ".
+Sous réserve de l'application des dispositions de l'article L. 142-10, le produit de la taxe de séjour ou de la taxe de
+séjour forfaitaire est affecté aux dépenses destinées à favoriser la fréquentation touristique de la commune.
+
+Dans les communes qui ont institué la taxe de séjour ou la taxe de séjour forfaitaire au titre des actions de protection et
+de gestion de leurs espaces naturels, le produit de la taxe peut être affecté, sous réserve des dispositions de l'article L.
+142-10, aux dépenses destinées à favoriser la protection et la gestion de leurs espaces naturels à des fins touristiques.
+Lorsque ces communes sont situées dans leur intégralité ou en partie sur le territoire d'un parc national ou d'un parc
+naturel régional géré par un établissement public administratif, le produit de la taxe peut être reversé par la commune ou le
+groupement de communes à l'organisme gestionnaire du parc dans le cadre d'une convention.
 
 **Liens relatifs à cet article**
 
@@ -17789,15 +17841,18 @@ séjour forfaitaire est affecté aux dépenses destinées à favoriser la fréqu
 
 	  - Décret n°77-90 1977-01-27
 
-	**Modifié par**:
-
-	  - Loi n°88-13 1988-01-05 art. 58 III, V JORF 6 janvier 1988
-	  - Loi n°88-13 du 5 janvier 1988 - art. 58 () JORF 6 janvier 1988
-
 	**Cité par**:
 
 	  - Ordonnance n°91-755 du 22 juillet 1991 - art. 2 (VT)
 	  - CODE DES COMMUNES. - art. L233-46 (Ab)
+
+	**Modifié par**:
+
+	  - Loi n°95-101 du 2 février 1995 - art. 50 () JORF 3 février 1995
+
+	**Abrogé par**:
+
+	  - Loi n°96-142 du 21 février 1996 - art. 12 (V) JORF 24 février 1996
 
 	**Cite**:
 
@@ -18457,19 +18512,27 @@ la taxe, ainsi que les conditions dans lesquelles sont jugées les réclamations
 
 ###### Article L233-45
 
-Dans les groupements de communes érigées en stations classées, dans ceux bénéficiant de l'une des dotations prévues à
-l'article L. 234-13, ainsi que dans ceux qui réalisent des actions de promotion en faveur du tourisme la taxe de séjour ou la
-taxe de séjour forfaitaire peut être instituée par décision de l'organe délibérant dans les conditions prévues à l'article L.
-233-29, sauf si l'une des communes s'y oppose.
+Dans les groupements de communes érigées en stations classées, dans ceux percevant la dotation prévue au troisième alinéa de
+l'article L. 234-7, dans ceux qui réalisent des actions de promotion en faveur du tourisme ainsi que dans ceux qui réalisent,
+dans la limite de leurs compétences, des actions de protection et de gestion de leurs espaces naturels la taxe de séjour ou
+la taxe de séjour forfaitaire peut être instituée par décision de l'organe délibérant dans les conditions prévues à l'article
+L. 233-29, sauf si l'une des communes s'y oppose.
 
-" En cas de dénonciation de l'accord par une des communes du groupement, la perception de la taxe par le groupement prend fin
+En cas de dénonciation de l'accord par une des communes du groupement, la perception de la taxe par le groupement prend fin
 sur le territoire de cette commune.
 
-" Les communes membres de groupements ayant institué la taxe de séjour ou la taxe de séjour forfaitaire ne peuvent percevoir
+Les communes membres de groupements ayant institué la taxe de séjour ou la taxe de séjour forfaitaire ne peuvent percevoir
 celles-ci.
 
-" Tout changement de bénéficiaire de la taxe de séjour résultant de l'application du présent article ne prend effet qu'à
-l'issue d'une période de perception. "
+Tout changement de bénéficiaire de la taxe de séjour résultant de l'application du présent article ne prend effet qu'à
+l'issue d'une période de perception.
+
+Dans les groupements de communes qui ont institué la taxe de séjour au titre des actions de protection et de gestion de leurs
+espaces naturels, le produit de la taxe de séjour ou de la taxe de séjour forfaitaire peut être affecté, sous réserve des
+dispositions de l'article L. 142-10, aux dépenses destinées à favoriser la protection et la gestion de leurs espaces naturels
+à des fins touristiques. Lorsque ces groupements sont situés dans leur intégralité ou en partie sur le territoire d'un parc
+national ou d'un parc naturel régional géré par un établissement public administratif, le produit de la taxe peut être
+reversé par les groupements de communes à l'organisme gestionnaire du parc dans le cadre d'une convention.
 
 **Liens relatifs à cet article**
 
@@ -18486,13 +18549,13 @@ l'issue d'une période de perception. "
 
 	**Modifié par**:
 
-	  - Loi n°88-13 1988-01-05 art. 58 III, XVI JORF 6 janvier 1988
-	  - Loi n°88-13 du 5 janvier 1988 - art. 58 () JORF 6 janvier 1988
+	  - Loi n°95-101 du 2 février 1995 - art. 50 () JORF 3 février 1995
 
 	**Cite**:
 
+	  - CODE DES COMMUNES. - art. L142-10 (M)
 	  - CODE DES COMMUNES. - art. L233-29 (M)
-	  - CODE DES COMMUNES. - art. L234-13 (M)
+	  - CODE DES COMMUNES. - art. L234-7 (M)
 
 
 ##### SOUS-SECTION 2 : Taxe sur les entreprises spécialement intéressées à la prospérité des stations.
@@ -32094,6 +32157,49 @@ titre VIII du présent livre [*participation à des entreprises privées*], ains
 	  - Code de la santé publique L19 à L24, L46 et L779
 
 
+###### Article L371-2
+
+Le maire présente au conseil municipal ou le président de l'établissement public de coopération intercommunale présente à son
+assemblée délibérante un rapport annuel sur le prix et la qualité du service public d'eau potable destiné notamment à
+l'information des usagers.
+
+Ce rapport est présenté au plus tard dans les six mois qui suivent la clôture de l'exercice concerné.
+
+Le rapport et l'avis du conseil municipal ou de l'assemblée délibérante sont mis à la disposition du public dans les
+conditions prévues à l'article L. 321-6.
+
+Un décret fixe les indicateurs techniques et financiers figurant obligatoirement dans le rapport prévu ci-dessus ainsi que,
+s'il y a lieu, les autres conditions d'application du présent article.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°77-240 1977-03-07
+
+	**Créé par**:
+
+	  - Loi n°95-101 du 2 février 1995 - art. 73 () JORF 3 février 1995
+
+	**Abrogé par**:
+
+	  - Loi n°96-142 du 21 février 1996 - art. 12 (V) JORF 24 février 1996
+
+	**Cite**:
+
+	  - CODE DES COMMUNES. - art. L321-6 (Ab)
+	  - CODE DES COMMUNES. - art. L372-1 (Ab)
+	  - CODE DES COMMUNES. - art. L373-1 (Ab)
+
+	**Cité par**:
+
+	  - CODE DES COMMUNES. - art. L371-2 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code général des collectivités territoriales - art. L2224-5 (V)
+
+
 ###### Article L371-3
 
 Conformément à l'article L. 34 du code du domaine de l'Etat, les communes qui gèrent elles-mêmes leur service d'eau potable
@@ -32648,6 +32754,35 @@ publique.
 	**Cite**:
 
 	  - Code de la santé publique - art. L35-5 (M)
+
+
+###### Article L372-8
+
+Les communes et groupements de communes de moins de 3 000 habitants peuvent établir un budget unique des services de
+distribution d'eau potable et d'assainissement si les deux services sont soumis aux mêmes règles d'assujettissement à la taxe
+sur la valeur ajoutée et si leur mode de gestion est identique.
+
+Le budget et les factures émises doivent faire apparaître la répartition entre les opérations relatives à la distribution
+d'eau potable et celles relatives à l'assainissement.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°77-240 1977-03-07
+
+	**Créé par**:
+
+	  - Loi n°95-101 du 2 février 1995 - art. 74 () JORF 3 février 1995
+
+	**Abrogé par**:
+
+	  - Loi n°96-142 du 21 février 1996 - art. 12 (V) JORF 24 février 1996
+
+	**Nouveaux textes**:
+
+	  - Code général des collectivités territoriales - art. L2224-6 (V)
+	  - Code général des collectivités territoriales - art. L2224-6 (M)
 
 
 #### CHAPITRE 3 : Ordures ménagères et autres déchets.
