@@ -1,5 +1,5 @@
 # Code des communes  
-Version Consolidée au 1994-12-28
+Version Consolidée au 1994-12-30
 
 # Partie législative
 
@@ -25574,9 +25574,10 @@ Le syndicat des transports parisiens rembourse les versements effectués :
 1° Aux employeurs qui justifient [*conditions*] avoir assuré le logement permanent sur les lieux de travail ou effectué
 intégralement le transport collectif de tous leurs salariés ou de certains d'entre eux et qui, de ce fait, sont exemptés du
 paiement de la prime spéciale uniforme mensuelle de transport ; ce remboursement est fait au prorata des effectifs
-transportés ou logés par rapport à l'effectif total ; 
-
-2° Aux employeurs, pour les salariés employés à l'intérieur des périmètres d'urbanisation des villes nouvelles.
+transportés ou logés par rapport à l'effectif total ;    2° Aux employeurs, pour les salariés employés à l'intérieur des
+périmètres d'urbanisation des villes nouvelles, lorsque ces employeurs y sont établis depuis moins de cinq ans. Pour les
+entreprises installées à l'intérieur des périmètres d'urbanisation des villes nouvelles depuis plus de cinq ans et à compter
+de 1995, le remboursement est réduit chaque année d'un cinquième et est supprimé à partir de la cinquième année. "
 
 **Liens relatifs à cet article**
 
@@ -25588,9 +25589,13 @@ transportés ou logés par rapport à l'effectif total ;
 
 	  - Décret n°77-90 1977-01-27
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°77-90 1977-01-27 JORF et JONC 3 février 1977 date d'entrée en vigueur élection des maires
+	  - Loi n°94-1162 du 29 décembre 1994 - art. 75 ()
+
+	**Abrogé par**:
+
+	  - Loi n°96-142 du 21 février 1996 - art. 12 (V)
 
 
 ###### Article L263-10
@@ -35160,30 +35165,39 @@ départements des Hauts-de-Seine, de la Seine-Saint-Denis et du Val-de-Marne, so
 
 ###### Article L393-2
 
-Le préfet de police de Paris est chargé [**]attributions[**] du secours et de la défense contre l'incendie dans les
-départements des Hauts-de-Seine, de la Seine-Saint-Denis et du Val-de-Marne.
+Le préfet de police de Paris est chargé du secours et de la défense contre l'incendie dans les départements des Hauts-de-
+Seine, de la Seine-Saint-Denis et du Val-de-Marne.
 
-Les départements participent au prorata de leur population, au financement des dépenses de la brigade des sapeurs-pompiers de
-Paris, y compris les dépenses d'investissement afférentes au casernement, à hauteur de 37,5 p. 100.
+Les départements participent, au prorata de leur population, au financement des dépenses de la brigade des sapeurs-pompiers
+de Paris, à hauteur de 45 p. 100 s'agissant des dépenses de fonctionnement, et de 37,5 p. 100 s'agissant des dépenses
+d'investissement afférentes au casernement.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Loi n°64-707 1964-07-10 ART. 11 (partie)
 	  - Loi n°75-1331 du 31 décembre 1975 - art. 9 (M)
 
 	**Codifié par**:
 
 	  - Décret n°77-240 1977-03-07
 
-	**Modifié par**:
-
-	  - Loi n°86-1317 du 30 décembre 1986 - art. 100 () JORF 31 décembre 1986
-
 	**Cité par**:
 
 	  - Décret n°89-561 du 11 août 1989 - art. 1 (Ab)
+
+	**Modifié par**:
+
+	  - Loi n°94-1162 du 29 décembre 1994 - art. 91 () JORF 30 décembre 1994
+
+	**Abrogé par**:
+
+	  - Loi n°96-142 du 21 février 1996 - art. 12 (V) JORF 24 février 1996
+
+	**Nouveaux textes**:
+
+	  - Code général des collectivités territoriales - art. L2521-3 (M)
+	  - Code général des collectivités territoriales - art. L3421-2 (V)
 
 
 ###### Article L393-3
@@ -35345,8 +35359,8 @@ L'Etat participe aux dépenses de fonctionnement de la brigade des sapeurs-pompi
 d'entretien, de réparation et de loyer de casernement.
 
 Dans la double limite des dotations inscrites au budget de l'Etat et des paiements effectués par la préfecture de police au
-cours de l'exercice considéré, la participation de l'Etat est égale à 37,5p. 100. [*proportion*] des dépenses suivantes
-inscrites au budget spécial de la préfecture de police.
+cours de l'exercice considéré, la participation de l'Etat est égale à 25 p. 100 des dépenses suivantes inscrites au budget
+spécial de la préfecture de police.
 
 1° Rémunération des militaires de la brigade des sapeurs-pompiers de Paris, y compris l'alimentation des militaires pendant
 la durée légale du service ;
@@ -35360,21 +35374,21 @@ matériel de transmission.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Loi n°64-707 1964-07-10 ART. 40 AL. 2
-
 	**Codifié par**:
 
 	  - Décret n°77-240 1977-03-07
 
-	**Modifié par**:
-
-	  - Loi n°86-1317 du 30 décembre 1986 - art. 100 () JORF du 31 DECEMBRE 1986
-
 	**Cité par**:
 
 	  - Décret n°89-561 du 11 août 1989 - art. 1 (Ab)
+
+	**Modifié par**:
+
+	  - Loi n°94-1162 du 29 décembre 1994 - art. 91 () JORF 30 décembre 1994
+
+	**Abrogé par**:
+
+	  - Loi n°96-142 du 21 février 1996 - art. 12 (V) JORF 24 février 1996
 
 	**Nouveaux textes**:
 
