@@ -1,5 +1,5 @@
 # Code des communes  
-Version Consolidée au 1980-08-08
+Version Consolidée au 1980-09-24
 
 # ORGANISATION COMMUNALE
 
@@ -65164,6 +65164,37 @@ décisions modificatives.
 	  - Code général des collectivités territoriales - art. D2342-2 (V)
 
 
+###### Article R241-3
+
+Au début de chaque année le maire dispose d'un délai d'un mois pour procéder à l'émission des titres de perception et des
+mandats correspondant aux droits acquis et aux services faits pendant l'année ou les années précédentes.
+
+Le receveur dispose du même délai pour comptabiliser les titres de perception et les mandats émis par le maire.
+
+En cas de circonstances particulières, un délai peut être prorogé d'une durée n'excédant pas un mois par décision du sous-
+préfet prise sur un avis du receveur des finances.
+
+Ces dispositions ne sont pas applicables aux opérations intéressant uniquement la section d'investissement du budget.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°77-91 1977-01-27
+
+	**Abrogé par**:
+
+	  - Décret n°2000-318 du 7 avril 2000 - art. 4 (V)
+
+	**Cité par**:
+
+	  - CODE DES COMMUNES. - art. R241-18 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code général des collectivités territoriales - art. D2342-3 (V)
+
+
 ##### SECTION 2 : Comptabilité du maire.
 
 ###### Article R241-6
@@ -71550,39 +71581,6 @@ public, et rendus exécutoires par le préfet ou le sous-préfet [*compétence*]
 	**Créé par**:
 
 	  - Décret n°77-91 1977-01-27 JORF et JONC 3 février 1977 date d'entrée en vigueur 20 mars 1977
-
-
-###### Article R241-3
-
-Au début de chaque année, le maire dispose d'un délai de deux mois pour procéder à l'émission des titres de perception et des
-mandats correspondant aux droits acquis et aux services faits pendant l'année ou les années précédentes. 
-
-Le receveur municipal dispose du même délai pour comptabiliser les titres de perception et les mandats émis par le maire. 
-
-En cas de circonstances particulières, ce délai peut être prorogé d'une durée n'excédant pas un mois par décision du sous-
-préfet [*compétence*] prise sur avis du receveur particulier des finances [*délai complémentaire*].
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°1862-05-31 art. 488 remplacé
-
-	**Codifié par**:
-
-	  - Décret n°77-91 1977-01-27
-
-	**Créé par**:
-
-	  - Décret n°77-91 1977-01-27 JORF et JONC 3 février 1977 date d'entrée en vigueur 20 mars 1977
-
-	**Cité par**:
-
-	  - CODE DES COMMUNES. - art. R241-18 (Ab)
-
-	**Nouveaux textes**:
-
-	  - Code général des collectivités territoriales - art. D2342-3 (V)
 
 
 #### Dispositions générales.
