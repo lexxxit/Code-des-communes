@@ -1,5 +1,5 @@
 # Code des communes  
-Version Consolidée au 1983-09-25
+Version Consolidée au 1983-12-31
 
 # Statuts types d'une caisse communale de secours et de retraite de sapeurs-pompiers
 
@@ -22802,6 +22802,43 @@ répartie en fonction des impôts énoncés à l'article L. 234-9.
 	  - CODE DES COMMUNES. - art. L234-6 (M)
 
 
+###### Article L234-7-1
+
+Le montant des impôts sur les ménages retenu dans le calcul de la dotation de péréquation des groupements de communes est
+majoré chaque année par application d'un coefficient destiné à tenir compte de l'absence d'attribution au titre de la
+première part de dotation de péréquation prévue à l'article L. 234-7. Ce coefficient est fixé chaque année par arrêté du
+ministre chargé de l'intérieur, après avis du comité des finances locales (1).
+
+(1) Les dispositions de l'article L. 234-7-1 du code des communes sont applicables à l'établissement public régional d'Ile-
+de-France.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°77-90 1977-01-27
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°83-1186 1983-12-29 ART. 7 : Les dispositions de l'article L234-7-1 sont applicables à l'établissement public régional d'Ile-de-France
+
+	**Créé par**:
+
+	  - Loi n°83-1186 du 29 décembre 1983 - art. 6 () JORF 31 DECEMBRE 1983
+
+	**Cité par**:
+
+	  - Loi n°83-1186 du 29 décembre 1983 - art. 7 (Ab)
+
+	**Abrogé par**:
+
+	  - Loi n°85-1268 1985-11-29 ART. 46 JORF 3 DECEMBRE 1985
+
+	**Cite**:
+
+	  - CODE DES COMMUNES. - art. L234-7 (M)
+
+
 ###### Article L234-8
 
 Le potentiel fiscal d'une collectivité est égal au montant des bases pondérées des quatre taxes directes locales, ces bases
@@ -23391,57 +23428,6 @@ groupement continue à remplir les conditions requises pour bénéficier de cett
 	  - CODE DES COMMUNES. - art. R*234-3 (M)
 
 
-###### Article L234-19-1
-
-Les communes et groupements de communes reçoivent, au titre de la dotation forfaitaire et de la dotation de péréquation, une
-attribution au moins égale à 105 p. 100 des sommes effectivement perçues l'année précédente au titre de la dotation
-forfaitaire, de la dotation de péréquation et de la garantie de la progression minimale éventuellement majorées du taux de
-l'anticipation sur la régularisation prévue au cinquième alinéa de l'article L. 234-1.
-
-Si dans une loi de finances le taux de progression du produit estimé de la taxe sur la valeur ajoutée est inférieur à 10 p.
-100, la même loi fixe de façon adaptée le taux garanti de progression minimale.
-
-Les sommes correspondantes sont prélevées sur la dotation globale de fonctionnement après déduction du montant des concours
-particuliers institués par l'article L. 234-12. Leur montant est arrêté par le comité des finances locales.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°77-90 1977-01-27
-
-	**Cité par**:
-
-	  - Loi n°79-15 du 3 janvier 1979 - art. 17 (Ab)
-	  - Loi n°83-1186 du 29 décembre 1983 - art. 2 (Ab)
-	  - Loi n°83-1186 du 29 décembre 1983 - art. 8 (Ab)
-	  - Loi n°84-1284 du 31 décembre 1984 - art. 1 (V)
-	  - Loi n°85-1268 du 29 novembre 1985 - art. 28 (Ab)
-	  - Loi n°85-1268 du 29 novembre 1985 - art. 29 (M)
-	  - Décret n°85-1511 du 31 décembre 1985 - art. 1 (Ab)
-	  - Loi n°86-972 du 19 août 1986 - art. 45 (V)
-	  - Loi - art. 110 (V)
-	  - Loi n°93-1436 du 31 décembre 1993 - art. 16 (V)
-	  - CODE DES COMMUNES. - art. L234-10 (Ab)
-	  - CODE DES COMMUNES. - art. L234-14 (Ab)
-	  - CODE DES COMMUNES. - art. L234-14-2 (Ab)
-	  - CODE DES COMMUNES. - art. L234-17 (Ab)
-	  - CODE DES COMMUNES. - art. L234-19-2 (Ab)
-	  - CODE DES COMMUNES. - art. L234-2 (M)
-	  - CODE DES COMMUNES. - art. L234-21-1 (Ab)
-	  - CODE DES COMMUNES. - art. L234-4 (Ab)
-	  - CODE DES COMMUNES. - art. L234-6 (M)
-	  - CODE DES COMMUNES. - art. L234-7 (Ab)
-	  - CODE DES COMMUNES. - art. L262-5 (M)
-	  - CODE GENERAL DES IMPOTS, CGI. - art. 1636 B sexies (M)
-	  - Code général des collectivités territoriales - art. L2334-7 (M)
-
-	**Cite**:
-
-	  - CODE DES COMMUNES. - art. L234-1 (M)
-	  - CODE DES COMMUNES. - art. L234-12 (M)
-
-
 ###### Article L234-19-2
 
 Les communes reçoivent une dotation spéciale de la dotation globale de fonctionnement au titre des charges qu'elles
@@ -23604,19 +23590,29 @@ présentés ainsi qu'aux commissions des finances de l'assemblée nationale et d
 
 ###### Article L234-14
 
-Les communes touristiques ou thermales, et leurs groupements, dont la liste est arrêtée après avis du comité des finances
+Les communes touristiques ou thermales et leurs groupements, dont la liste est arrêtée après avis du comité des finances
 locales institué par l'article L. 234-20, reçoivent une dotation supplémentaire destinée à tenir compte de leurs charges
 exceptionnelles.
 
 Le montant de cette dotation est calculé en fonction de l'importance de la population permanente, de la capacité d'accueil
-existante ou en voie de création ainsi que des équipements collectifs, touristiques ou thermaux et de l'insuffisance du
+existante ou en voie de création, ainsi que des équipements collectifs touristiques ou thermaux et de l'insuffisance du
 potentiel fiscal par habitant de la commune considérée par rapport au potentiel fiscal moyen par habitant de l'ensemble des
 collectivités bénéficiaires.
 
-Le montant global de la dotation est fixé chaque année par le comité des finances locales. Il ne peut être inférieur à 20 p.
-100 ni supérieur à 28 p. 100 des ressources affectées aux concours particuliers.
+Le montant des crédits affectés à la dotation supplémentaire aux communes touristiques ou thermales est fixé chaque année par
+le comité des finances locales. Il ne peut être inférieur à 20 p. 100 ni supérieur à 28 p. 100 des ressources affectées aux
+concours particuliers.
 
-La part réservée aux communes thermales ne pourra être inférieure au dixième du montant prévu au troisième alinéa.
+Le montant de la dotation supplémentaire attribué à chaque commune touristique ou thermale ne peut, à capacité d'accueil
+inchangée ou en accroissement, être inférieur à la dotation reçue l'année précédente.
+
+Pour chaque collectivité bénéficiaire, le montant de la dotation supplémentaire ainsi calculé est diminué du dixième du
+produit de la taxe de séjour effectivement perçu l'année précédente. Les sommes ainsi prélevées sont d'abord affectées au
+financement de la dotation destinée à compenser les charges des communes qui connaissent une importante fréquentation
+touristique journalière dans les conditions fixées à l'article 10 de la loi n° 83-1186 du 29 décembre 1983 portant
+modification de dispositions relatives aux relations financières et aux transferts de compétences entre l'Etat et les
+collectivités locales. Le reliquat éventuel majore la dotation supplémentaire attribuée aux communes touristiques ou
+thermales.
 
 **Liens relatifs à cet article**
 
@@ -23647,14 +23643,15 @@ La part réservée aux communes thermales ne pourra être inférieure au dixièm
 	  - Code général des collectivités territoriales - art. L2334-21 (M)
 	  - Code général des collectivités territoriales - art. L2334-7 (V)
 
+	**Cite**:
+
+	  - Loi n°83-1186 1983-12-29 art. 10
+	  - CODE DES COMMUNES. - art. L234-20 (M)
+
 	**Liens**:
 
 	  - TXT_ASSOCIE: CODE DES COMMUNES. - art. L234-12 (M)
 	  - TXT_ASSOCIE: CODE DES COMMUNES. - art. L234-13 (M)
-
-	**Cite**:
-
-	  - CODE DES COMMUNES. - art. L234-20 (M)
 
 	**Nouveaux textes**:
 
@@ -23715,6 +23712,63 @@ Il leur est attribué une dotation égale à celle perçue en 1982.
 	**Modifié par**:
 
 	  - Loi n°83-663 du 22 juillet 1983 - art. 76 () JORF 23 JUILLET 1983
+
+
+##### Dispositions communes aux diverses sortes d'attributions.
+
+###### Article L234-19-1
+
+Les communes et groupements de communes reçoivent, au titre de la dotation forfaitaire et de la dotation de péréquation, une
+attribution au moins égale à 105 p. 100 des sommes effectivement perçues l'année précédente au titre de la dotation
+forfaitaire, de la dotation de péréquation et de la garantie de la progression minimale éventuellement majorées du taux de
+l'anticipation sur la régularisation prévue au cinquième alinéa de l'article L. 234-1.
+
+Si dans une loi de finances le taux de progression du produit estimé de la taxe sur la valeur ajoutée est inférieur à 10 p.
+100, une loi fixe de façon adaptée le taux garanti de progression minimale.
+
+Les sommes correspondantes sont prélevées sur la dotation globale de fonctionnement après déduction du montant des concours
+particuliers institués par l'article L. 234-12. Leur montant est arrêté par le comité des finances locales.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°77-90 1977-01-27
+
+	**Cité par**:
+
+	  - Loi n°79-15 du 3 janvier 1979 - art. 17 (Ab)
+	  - Loi n°83-1186 du 29 décembre 1983 - art. 2 (Ab)
+	  - Loi n°83-1186 du 29 décembre 1983 - art. 8 (Ab)
+	  - Loi n°84-1284 du 31 décembre 1984 - art. 1 (V)
+	  - Loi n°85-1268 du 29 novembre 1985 - art. 28 (Ab)
+	  - Loi n°85-1268 du 29 novembre 1985 - art. 29 (M)
+	  - Décret n°85-1511 du 31 décembre 1985 - art. 1 (Ab)
+	  - Loi n°86-972 du 19 août 1986 - art. 45 (V)
+	  - Loi - art. 110 (V)
+	  - Loi n°93-1436 du 31 décembre 1993 - art. 16 (V)
+	  - CODE DES COMMUNES. - art. L234-10 (Ab)
+	  - CODE DES COMMUNES. - art. L234-14 (Ab)
+	  - CODE DES COMMUNES. - art. L234-14-2 (Ab)
+	  - CODE DES COMMUNES. - art. L234-17 (Ab)
+	  - CODE DES COMMUNES. - art. L234-19-2 (Ab)
+	  - CODE DES COMMUNES. - art. L234-2 (M)
+	  - CODE DES COMMUNES. - art. L234-21-1 (Ab)
+	  - CODE DES COMMUNES. - art. L234-4 (Ab)
+	  - CODE DES COMMUNES. - art. L234-6 (M)
+	  - CODE DES COMMUNES. - art. L234-7 (Ab)
+	  - CODE DES COMMUNES. - art. L262-5 (M)
+	  - CODE GENERAL DES IMPOTS, CGI. - art. 1636 B sexies (M)
+	  - Code général des collectivités territoriales - art. L2334-7 (M)
+
+	**Modifié par**:
+
+	  - Loi n°83-1186 du 29 décembre 1983 - art. 1 () JORF 31 DECEMBRE 1983
+
+	**Cite**:
+
+	  - CODE DES COMMUNES. - art. L234-1 (M)
+	  - CODE DES COMMUNES. - art. L234-12 (M)
 
 
 #### Avances, emprunts et garanties d'emprunt
