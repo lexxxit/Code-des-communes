@@ -1,5 +1,5 @@
 # Code des communes  
-Version Consolidée au 1985-06-02
+Version Consolidée au 1985-06-07
 
 # Statuts types d'une caisse communale de secours et de retraite de sapeurs-pompiers
 
@@ -70804,6 +70804,73 @@ réforme qui a conclu à l'imputabilité du décès en service commandé [*proc�
 	  - CODE DES COMMUNES. - art. L354-7 (Ab)
 
 
+###### Article R*354-43
+
+Le traitement annuel qui, conformément au premier alinéa de l'article L. 354-4 sert de base au calcul de la rente
+d'invalidité est déterminé comme suit : 
+
+1° Lorsque le sapeur-pompier a accompli moins de dix ans de services volontaires   le traitement de référence est celui que
+perçoit un sapeur-pompier professionnel classé au 1er échelon du grade détenu par l'intéressé ; 
+
+2° Lorsque le sapeur-pompier a accompli au moins dix ans de services volontaires, le traitement de référence est celui
+afférent à la moyenne arithmétique des indices réels majorés qui correspondent à chacun des échelons de l'échelle de
+traitement applicable à un sapeur-pompier professionnel de même grade que l'intéressé. L'indice moyen ainsi établi est, le
+cas échéant, porté à l'indice immédiatement supérieur. 
+
+Le montant de la rente est fixé à la fraction du traitement déterminé conformément à l'alinéa précédent, qui correspond au
+pourcentage d'invalidité. 
+
+Le traitement annuel servant de base au calcul de la pension allouée aux ayants droit du sapeur-pompier non-professionnel
+cité à titre posthume à l'ordre de la Nation, est déterminé dans les conditions suivantes : 
+
+1° Lorsque le sapeur-pompier a accompli moins de dix ans de services en cette qualité, le traitement de référence est celui
+que perçoit un sapeur-pompier professionnel classé au 1er échelon du grade immédiatement supérieur. 
+
+Toutefois, lorsque le classement au 1er échelon du grade supérieur conduit à attribuer un traitement égal ou inférieur à
+celui afférent au 1er échelon du grade détenu par l'intéressé, le traitement de référence est calculé sur la base du 2e
+échelon du grade détenu ; 
+
+2° Lorsque le sapeur-pompier a accompli au moins dix ans de services en cette qualité, le traitement de référence est celui
+afférent à la moyenne arithmétique des indices qui correspondent à chacun des échelons de l'échelle de traitement applicable
+à un sapeur-pompier professionnel du grade supérieur. 
+
+Lorsque l'indice moyen du grade détenu est égal ou supérieur à l'indice moyen déterminé dans les conditions ci-dessus, le
+traitement de référence est celui afférent à un indice déterminé comme suit : 
+
+Cet indice, situé dans l'échelle du grade de référence, est immédiatement supérieur à l'indice moyen du grade détenu. 
+
+Pour la détermination du grade supérieur à retenir, il est fait application des dispositions des articles 2 à 6 du présent
+décret.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - SPEC_APPLI: *Dispositions non applicables aux communes du département de Saint-Pierre-et-Miquelon*
+	  - SPEC_APPLI: Code des communes R392-2 :
+
+	**Anciens textes**:
+
+	  - Décret n°76-590 1976-07-02 ART. 7
+
+	**Codifié par**:
+
+	  - Décret n°77-241 1977-03-07
+
+	**Cite**:
+
+	  - Décret n°85-576 du 3 juin 1985 - art. 2 (Ab)
+	  - Décret n°85-576 du 3 juin 1985 - art. 3 (Ab)
+	  - Décret n°85-576 du 3 juin 1985 - art. 4 (Ab)
+	  - Décret n°85-576 du 3 juin 1985 - art. 5 (Ab)
+	  - Décret n°85-576 du 3 juin 1985 - art. 6 (Ab)
+	  - Code des communes L354-4 AL. 1
+
+	**Abrogé par**:
+
+	  - Décret n°92-620 du 7 juillet 1992 - art. 19 (V)
+
+
 ###### Article R*354-45
 
 Pour permettre d'apprécier cette durée [*des services volontaires à prendre en compte pour le calcul de la rente*] le dossier
@@ -82692,54 +82759,6 @@ compétence*].
 
 	  - Décret n°88-623 du 6 mai 1988 - art. 50 (Ab)
 	  - Décret n°89-229 du 17 avril 1989 - art. 47 (V)
-
-
-#### Dispositions applicables aux sapeurs-pompiers communaux non professionnels
-
-##### Allocations, rentes et autres prestations
-
-##### Indemnisation en cas d'incapacité permanente
-
-##### Allocations, rentes, pensions et indemnités .
-
-###### Article R*354-43
-
-Le traitement annuel qui, conformément au premier alinéa de l'article L. 354-4 sert de base au calcul de la rente
-d'invalidité est déterminé comme suit [*définition*] :
-
-1° Lorsque le sapeur-pompier a accompli moins de dix ans de services volontaires [*ancienneté*] le traitement de référence
-est celui que perçoit un sapeur-pompier professionnel classé au 1er échelon du grade détenu par l'intéressé ;
-
-2° Lorsque le sapeur-pompier a accompli au moins dix ans de services volontaires, le traitement de référence est celui
-afférent à la moyenne arithmétique des indices réels majorés qui correspondent à chacun des échelons de l'échelle de
-traitement applicable à un sapeur-pompier professionnel de même grade que l'intéressé. L'indice moyen ainsi établi est, le
-cas échéant, porté à l'indice immédiatement supérieur.
-
-Le montant de la rente est fixé à la fraction du traitement déterminé conformément à l'alinéa précédent, qui correspond au
-pourcentage d'invalidité.
-
-**Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - SPEC_APPLI: *Dispositions non applicables aux communes du département de Saint-Pierre-et-Miquelon*
-	  - SPEC_APPLI: Code des communes R392-2 :
-
-	**Anciens textes**:
-
-	  - Décret n°76-590 1976-07-02 ART. 7
-
-	**Codifié par**:
-
-	  - Décret n°77-241 1977-03-07
-
-	**Créé par**:
-
-	  - Décret n°77-241 1977-03-07 JORF et JONC 18 Mars 1977
-
-	**Cite**:
-
-	  - Code des communes L354-4 AL. 1
 
 
 ### Pompes funèbres et cimetières
