@@ -1,5 +1,5 @@
 # Code des communes  
-Version Consolidée au 1987-10-07
+Version Consolidée au 1988-01-03
 
 # Statuts types d'une caisse communale de secours et de retraite de sapeurs-pompiers
 
@@ -65987,6 +65987,118 @@ avait procuré son accession à cet échelon.
 	**Abrogé par**:
 
 	  - Décret n°90-853 du 25 septembre 1990 - art. 30 (Ab)
+
+
+###### Article R353-50-1
+
+Lorsque les lieutenants des sapeurs-pompiers professionnels et les fonctionnaires territoriaux titulaires d'emplois situés au
+niveau de la catégorie B, dont la liste est fixée par arrêté du ministre de l'intérieur, sont nommés, selon les règles
+statutaires normales, en qualité de capitaine de sapeurs-pompiers professionnels, ils sont classés dans le grade de début de
+leur nouvel emploi sur la base de la durée maximum de service exigée pour chaque avancement d'échelon en prenant en compte
+une fraction de leur ancienneté dans leur emploi d'origine.
+
+L'ancienneté dans l'emploi d'origine correspond à la durée de carrière nécessaire pour accéder, sur la base de la durée
+maximum de service exigée pour chaque avancement d'échelon, au grade et à l'échelon que les agents concernés ont atteint à la
+date de leur nomination en qualité de capitaine de sapeurs-pompiers professionnels, augmentée, le cas échéant, de
+l'ancienneté acquise dans le dernier échelon occupé dans l'emploi d'origine.
+
+Cette ancienneté est augmentée, lorsqu'il y a lieu, de la durée de carrière qu'il est nécessaire d'acquérir au minimum dans
+le ou les grades inférieurs dans l'emploi de catégorie B pour accéder au grade d'origine en tenant compte pour les
+avancements d'échelon de la durée statutaire maximum.
+
+L'ancienneté ainsi déterminée n'est pas retenue en ce qui concerne les cinq premières années ; elle est prise en compte à
+raison de la moitié pour la fraction comprise entre cinq et douze ans et des trois quarts pour l'ancienneté excédant douze
+ans.
+
+L'application des dispositions qui précèdent ne peut pas avoir pour effet de placer un agent dans une situation plus
+favorable que celle qui aurait été la sienne si, préalablement à sa nomination en qualité de capitaine de sapeurs-pompiers
+professionnels, il avait été promu au grade supérieur de son emploi.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°77-241 1977-03-07
+
+	**Abrogé par**:
+
+	  - Décret n°90-853 du 25 septembre 1990 - art. 30 (Ab)
+
+	**Cité par**:
+
+	  - CODE DES COMMUNES. - art. R353-50-2 (Ab)
+	  - CODE DES COMMUNES. - art. R353-50-3 (Ab)
+
+
+###### Article R353-50-2
+
+Lorsque les sapeurs-pompiers non officiers et les fonctionnaires territoriaux titulaires d'emplois situés au niveau des
+catégories C et D sont nommés, selon les règles statutaires normales, en qualité de capitaine de sapeurs-pompiers
+professionnels, ils sont classés à un échelon déterminé par application, à la date de leur nomination, des dispositions
+énoncées à l'article R. 353-50-1 ci-dessus pour la fraction de l'ancienneté qui aurait été prise en compte pour leur
+classement dans l'emploi de sous-lieutenant de sapeurs-pompiers professionnels.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°77-241 1977-03-07
+
+	**Abrogé par**:
+
+	  - Décret n°90-853 du 25 septembre 1990 - art. 30 (Ab)
+
+	**Cite**:
+
+	  - CODE DES COMMUNES. - art. R353-50-1 (Ab)
+
+
+###### Article R353-50-3
+
+Lorsque les agents non titulaires des collectivités territoriales sont nommés, selon les règles statutaires normales, en
+qualité de capitaine de sapeurs-pompiers professionnels, ils sont classés dans le grade de début de leur nouvel emploi à un
+échelon déterminé en prenant en compte, sur la base des durées maxima d'avancement d'échelon, une fraction de l'ancienneté
+acquise à la date de leur nomination, dans les conditions suivantes :
+
+Les services accomplis dans un emploi du niveau de la catégorie A sont retenus à raison de la moitié de leur durée jusqu'à
+douze ans et des trois quarts au-delà de douze ans.
+
+Les services accomplis dans un emploi du niveau de la catégorie B ne sont pas retenus en ce qui concerne les sept premières
+années ; ils sont pris en compte à raison de six seizièmes pour la fraction comprise entre sept et seize ans et de neuf
+seizièmes pour l'ancienneté excédant seize ans.
+
+Les services accomplis dans un emploi du niveau des catégories C et D sont retenus à raison de six seizièmes de leur durée
+excédant dix ans.
+
+Les agents non titulaires des collectivités territoriales qui ont occupé antérieurement des emplois d'un niveau inférieur à
+celui qu'ils occupent au moment de leur nomination peuvent demander que la totalité de leur ancienneté de service soit prise
+en compte dans les conditions fixées ci-dessus pour les emplois de niveau inférieur.
+
+Dans tous les cas, les services pris en compte doivent avoir été accomplis de façon continue. Toutefois, sont retenus les
+services accomplis avant une interruption de fonctions inférieure à trois mois si cette interruption est du fait de l'agent
+ou inférieure à un an dans le cas contraire.
+
+De plus, l'accomplissement des obligations du service national ou l'utilisation d'un congé parental ne sont pas considérés
+comme une interruption de la continuité des services pour l'application du précédent alinéa.
+
+Les dispositions qui précèdent ne peuvent avoir pour conséquence de placer les agents concernés dans une situation plus
+favorable que celle qui résulterait d'un classement à un échelon comportant un traitement égal ou, à défaut, immédiatement
+supérieur à celui perçu dans l'ancien emploi avec conservation de l'ancienneté d'échelon dans les conditions fixées à
+l'article R. 353-50-1 ci-dessus. "
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°77-241 1977-03-07
+
+	**Abrogé par**:
+
+	  - Décret n°90-853 du 25 septembre 1990 - art. 30 (Ab)
+
+	**Cite**:
+
+	  - CODE DES COMMUNES. - art. R353-50-1 (Ab)
 
 
 ###### Article R353-51
