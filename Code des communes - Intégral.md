@@ -1,5 +1,5 @@
 # Code des communes  
-Version Consolidée au 1988-11-15
+Version Consolidée au 1988-12-30
 
 # Statuts types d'une caisse communale de secours et de retraite de sapeurs-pompiers
 
@@ -17835,6 +17835,46 @@ Le versement est institué par délibération du conseil municipal ou de l'organ
 	  - TXT_ASSOCIE: CODE DES COMMUNES. - art. L233-69 (Ab)
 
 
+###### Article L233-61
+
+Le taux du versement est fixé ou modifié par délibération du conseil municipal ou de l'organisme compétent de l'établissement
+public [*communauté urbaine, district ou syndicat de communes*] dans la limite de 1 p. 100 [*pourcentage*] des salaires
+[*calculés conformément aux législations de la sécurité sociale*] définis à l'article L. 233-59.
+
+Cette limite peut être portée à 1,75 p. 100 si la commune ou l'établissement public a décidé de réaliser une infrastructure
+de transport collectif et obtenu une subvention de l'Etat pour l'investissement correspondant.
+
+Toutefois, pour les communes dont la population est comprise entre 30.000 et 100.000 habitants et pour les établissements
+publics, lorsque la population de l'ensemble des communes en faisant partie est comprise dans les mêmes limites, le taux du
+versement-transport ne peut dépasser 0,5 p. 100 des salaires définis à l'article L. 233-59.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°73-640 1973-07-11 art. 3 al. 1 phr. 2 et al. 2
+
+	**Codifié par**:
+
+	  - Décret n°77-90 1977-01-27
+
+	**Modifié par**:
+
+	  - Loi n°88-1193 du 29 décembre 1988 - art. 46 ()
+
+	**Cite**:
+
+	  - CODE DES COMMUNES. - art. L233-59 (M)
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: CODE DES COMMUNES. - art. L233-69 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code général des collectivités territoriales - art. L2333-67 (V)
+
+
 ###### Article L233-62
 
 Sous réserve des dispositions de l'article L. 233-64, le versement est affecté au financement des dépenses d'investissement
@@ -18520,6 +18560,44 @@ Cette suppression prend effet :
 
 
 ##### SECTION 10 : Taxe communale sur les emplacements publicitaires fixes.
+
+###### Article L233-81
+
+Les conseils municipaux peuvent décider, par délibération prise avant le 1er juillet d'une année, la création d'une taxe
+annuelle applicable à compter de l'année suivante. Cette taxe est assise sur la superficie des emplacements publicitaires
+fixes visibles de toute voie ouverte à la circulation publique au sens de la loi n° 79-1150 du 29 décembre 1979 relative à la
+publicité, aux enseignes et préenseignes. Pour l'application du présent article, sont assimilés à une voie publique les
+locaux et installations des transporteurs publics de marchandises ou de voyageurs ouverts à la circulation du public.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°77-90 1977-01-27
+
+	**Cite**:
+
+	  - Loi n°79-1150 1979-12-29
+
+	**Modifié par**:
+
+	  - Loi n°88-1193 du 29 décembre 1988 - art. 27 () JORF 30 décembre 1988
+
+	**Cité par**:
+
+	  - Ordonnance n°91-755 du 22 juillet 1991 - art. 2 (VT)
+	  - CODE DES COMMUNES. - art. L233-15 (Ab)
+	  - CODE DES COMMUNES. - art. R*233-108 (Ab)
+
+	**Abrogé par**:
+
+	  - Loi n°96-142 du 21 février 1996 - art. 12 (V) JORF 24 février 1996
+
+	**Nouveaux textes**:
+
+	  - Code général des collectivités territoriales - art. L2333-21 (V)
+	  - Code général des collectivités territoriales - art. L2333-21 (M)
+
 
 ###### Article L233-82
 
@@ -24074,6 +24152,40 @@ aux dispositions de ce code.
 	  - Code de la sécurité sociale
 
 
+###### Article L263-4
+
+Le taux du versement exprimé en pourcentage des salaires définis à l'article précédent [*calculés conformément aux
+dispositions du code de la sécurité sociale*] est fixé par décret dans les limites :
+
+- de 2,2 p. 100 à Paris et dans le département des      Hauts-de-Seine;
+
+- de 1,8 p. 100 dans les départements de la Seine-Saint-Denis et      du Val-de-Marne ;
+
+- de 1,5 p. 100 dans les départements de l'Essonne, des      Yvelines, du Val-d'Oise et de Seine-et-Marne.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°71-559 1971-07-12 art. 2 remplacé (partie)
+
+	**Codifié par**:
+
+	  - Décret n°77-90 1977-01-27
+
+	**Modifié par**:
+
+	  - Loi n°88-1193 du 29 décembre 1988 - art. 45 ()
+
+	**Nouveaux textes**:
+
+	  - Code général des collectivités territoriales - art. L2531-4 (V)
+
+	**Cite**:
+
+	  - Code de la sécurité sociale
+
+
 ###### Article L263-6
 
 Les employeurs mentionnés à l'article L. 263-2 sont tenus de procéder au versement prévu à cet article auprès des organismes
@@ -24312,119 +24424,7 @@ A la clôture de l'exercice, le préfet de police [*attributions*] présente au 
 
 ### RECETTES
 
-#### Taxes, redevances ou versements autres que ceux prévus par le code général des impôts
-
-##### Taxes destinées au financement des transports en commun
-
-##### Versement destiné aux transports en commun .
-
-###### Article L233-61
-
-Le taux du versement est fixé ou modifié par délibération du conseil municipal ou de l'organisme compétent de l'établissement
-public [*communauté urbaine, district ou syndicat de communes*] dans la limite de 1 p. 100 [*pourcentage*] des salaires
-[*calculés conformément aux législations de la sécurité sociale*] définis à l'article L. 233-59.
-
-Cette limite peut être portée à 1,50 p. 100 si la commune ou l'établissement public a décidé de réaliser une infrastructure
-de transport collectif et obtenu une subvention de l'Etat pour l'investissement correspondant.
-
-Toutefois, pour les communes dont la population est comprise entre 30.000 et 100.000 habitants et pour les établissements
-publics, lorsque la population de l'ensemble des communes en faisant partie est comprise dans les mêmes limites, le taux du
-versement-transport ne peut dépasser 0,5 p. 100 des salaires définis à l'article L. 233-59.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°73-640 1973-07-11 art. 3 al. 1 phr. 2 et al. 2
-
-	**Codifié par**:
-
-	  - Décret n°77-90 1977-01-27
-
-	**Cite**:
-
-	  - CODE DES COMMUNES. - art. L233-59 (M)
-
-	**Liens**:
-
-	  - TXT_ASSOCIE: CODE DES COMMUNES. - art. L233-69 (Ab)
-
-	**Nouveaux textes**:
-
-	  - Code général des collectivités territoriales - art. L2333-67 (V)
-
-
-##### Taxe communale sur les emplacements publicitaires fixes .
-
-###### Article L233-81
-
-Les conseils municipaux [*autorité compétente*] peuvent décider, par délibération prise avant le 1er juillet d'une année, la
-création d'une taxe annuelle applicable à compter de l'année suivante. Cette taxe est assise sur la superficie des
-emplacements publicitaires fixes visibles de toute voie ouverte à la circulation publique au sens de la loi n° 79-1150 du 29
-décembre 1979 relative à la publicité, aux enseignes et préenseignes.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°77-90 1977-01-27
-
-	**Cite**:
-
-	  - Loi n°79-1150 1979-12-29
-
-	**Anciens textes**:
-
-	  - Loi n°80-1094 du 30 décembre 1980 - art. 55, v. init.
-
-	**Cité par**:
-
-	  - Ordonnance n°91-755 du 22 juillet 1991 - art. 2 (VT)
-	  - CODE DES COMMUNES. - art. L233-15 (Ab)
-	  - CODE DES COMMUNES. - art. R*233-108 (Ab)
-
-	**Nouveaux textes**:
-
-	  - Code général des collectivités territoriales - art. L2333-21 (V)
-
-
 ### Dispositions particulières
-
-#### Dispositions applicables aux communes de la région d'Ile-de-France
-
-##### Versement destiné aux transports en commun .
-
-###### Article L263-4
-
-Le taux du versement exprimé en pourcentage des salaires définis à l'article précédent [*calculés conformément aux
-dispositions du code de la sécurité sociale*] est fixé par décret dans les limites :
-
-- de 2 p. 100 à Paris et dans les départements des Hauts-de-Seine, de la Seine-Saint-Denis et du Val-de-Marne ; 
-
-- de 1,5 p. 100 dans les départements de l'Essonne, des Yvelines, du Val-d'Oise et de la Seine-et-Marne.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°71-559 1971-07-12 art. 2 remplacé (partie)
-
-	**Codifié par**:
-
-	  - Décret n°77-90 1977-01-27
-
-	**Créé par**:
-
-	  - Décret n°77-90 1977-01-27 JORF et JONC 3 février 1977 date d'entrée en vigueur élection des maires
-
-	**Nouveaux textes**:
-
-	  - Code général des collectivités territoriales - art. L2531-4 (V)
-
-	**Cite**:
-
-	  - Code de la sécurité sociale
-
 
 #### Dispositions applicables aux communes de la région d'Ile-de-France *région parisienne*
 
