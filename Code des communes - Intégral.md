@@ -1,5 +1,5 @@
 # Code des communes  
-Version Consolidée au 1989-12-30
+Version Consolidée au 1990-01-01
 
 # Statuts types d'une caisse communale de secours et de retraite de sapeurs-pompiers
 
@@ -18804,29 +18804,7 @@ emplacement, de tout droit de voirie ou de redevance d'occupation du domaine pub
 
 Une dotation globale de fonctionnement est instituée en faveur des communes et de certains de leurs groupements. Elle se
 compose d'une dotation de base, d'une dotation de péréquation, d'une dotation de compensation et, le cas échéant, de concours
-particuliers.    Le montant de la dotation globale de fonctionnement est déterminé chaque année en appliquant un taux de
-prélèvement sur le produit net prévisionnel de la taxe sur la valeur ajoutée, aux taux en vigueur au 1er janvier 1979, tel
-qu'il ressort de la loi de finances initiale de l'année.
-
-Pour 1979, ce taux est fixé à 16,45 p. 100. Toute modification du régime des taux de la taxe sur la valeur ajoutée devra
-comporter une disposition fixant le nouveau taux de prélèvement applicable pour obtenir le même produit que celui attendu
-antérieurement.    Il est procédé au plus tard le 31 juillet à la régularisation du montant de la dotation afférente à
-l'exercice précédent sur la base de l'évolution du produit net de la taxe sur la valeur ajoutée aux taux en vigueur au 1er
-janvier 1979. Cette régularisation ne peut aboutir à une réduction du montant initialement prévu.
-
-Le montant de la régularisation, auquel est ajouté le reliquat comptable éventuel du même exercice, est réparti entre tous
-les bénéficiaires de la dotation globale de fonctionnement au prorata des sommes reçues au cours de l'exercice correspondant.
-Une fraction peut, par anticipation, être notifiée au début de l'année où elle intervient.
-
-Au cas où la dotation globale de fonctionnement ainsi calculée présenterait, par rapport à celle de l'exercice précédent, un
-taux de progression inférieur à celui constaté, pendant la même période de référence, pour l'accroissement du traitement
-annuel des fonctionnaires, défini à l'article 20 de la loi n° 83-634 du 13 juillet 1983 portant droits et obligations des
-fonctionnaires, afférent à l'indice 254 nouveau majoré, ce dernier taux serait appliqué lors de la régularisation du montant
-de la dotation globale de fonctionnement.    Toutefois, à titre exceptionnel, la dotation globale de fonctionnement de
-l'exercice 1984 fait l'objet d'une régularisation égale à 0,6 p. 100 de son montant.    Chaque année, le montant de la
-dotation globale de fonctionnement est arrêté, pour être inscrit dans le projet de loi de finances,   r sur proposition du
-comité des finances locales institué par l'article L. 234-20, qui est saisi des éléments d'évaluation fournis par le ministre
-du budget.
+particuliers.
 
 **Liens relatifs à cet article**
 
@@ -18851,14 +18829,9 @@ du budget.
 	  - CODE DES COMMUNES. - art. L234-19-1 (M)
 	  - CODE DES COMMUNES. - art. R*234-1 (Ab)
 
-	**Cite**:
-
-	  - Loi n°83-634 1983-07-13 art. 20
-	  - CODE DES COMMUNES. - art. L234-20 (M)
-
 	**Modifié par**:
 
-	  - Loi n°85-1268 1985-11-29 art. 1, art. 2 art. 3 JORF 3 décembre 1985
+	  - Loi n°89-935 1989-12-29 art. 47 IX jorf 30 décembre 1990   en vigueur le 1er janvier 1990
 
 	**Nouveaux textes**:
 
@@ -19948,9 +19921,6 @@ Les communes et groupements de communes reçoivent au titre de la dotation de ba
 communes, de la dotation de compensation, une attribution qui progresse d'une année sur l'autre de 55 p. 100 au moins du taux
 d'évolution de l'ensemble des ressources affectées à la dotation globale de fonctionnement.
 
-Si, dans une loi de finances, le taux de progression du produit estimé de la taxe à la valeur ajoutée est supérieur à 12,5 p.
-100, le taux garanti de progression minimale est égal à 7 p. 100.
-
 Les sommes correspondantes sont prélevées sur la dotation globale de fonctionnement des communes après déduction des concours
 particuliers institués régis par les articles L. 234-13 et L. 234-14.
 
@@ -19988,7 +19958,7 @@ particuliers institués régis par les articles L. 234-13 et L. 234-14.
 
 	**Modifié par**:
 
-	  - Loi n°85-1268 1985-11-29 art. 1, art. 22 JORF 3 décembre 1985
+	  - Loi n°89-935 1989-12-29 art. 47 IX JORF 30 décembre 1989   en vigueur le 1er janvier 1990
 
 	**Cite**:
 
