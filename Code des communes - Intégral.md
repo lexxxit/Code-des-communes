@@ -1,5 +1,5 @@
 # Code des communes  
-Version Consolidée au 1977-03-20
+Version Consolidée au 1977-03-25
 
 # ORGANISATION COMMUNALE
 
@@ -59178,6 +59178,155 @@ des titres Ier à V du présent livre sont applicables à la commune de Paris, s
 	  - Code des communes R264-2 à R264-7
 
 
+##### SECTION 3 : Dispositions communes au budget communal et au budget spécial de la préfecture de police.
+
+###### Article R*264-2
+
+Lorsqu'elles ne sont pas réglées par virement de compte, les dépenses de la commune de Paris et de ses établissements publics
+sont obligatoirement réglées par chèque sur le Trésor [*forme du paiement*].
+
+Les chèques sont barrés lorsqu'ils excèdent un montant fixé par le ministre de l'économie et des finances [*compétence*].
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°77-278 1977-03-24
+
+	**Abrogé par**:
+
+	  - Décret n°2000-318 du 7 avril 2000 - art. 4 (V)
+
+
+###### Article R*264-3
+
+Le ou les contrôleurs financiers chargés par application de l'article L. 264-16 du code des communes d'assurer le contrôle
+des budgets d'investissement de Paris sont nommés auprès du maire de Paris et du préfet de police[*affectation*].
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Loi n°75-1331 du 31 décembre 1975 - art. 23 (M)
+
+	**Codifié par**:
+
+	  - Décret n°77-278 1977-03-24
+
+	**Abrogé par**:
+
+	  - Décret n°2000-318 du 7 avril 2000 - art. 4 (V)
+
+	**Cite**:
+
+	  - CODE DES COMMUNES. - art. L264-16 (Ab)
+
+
+###### Article R*264-4
+
+Pour répondre aux prescriptions de l'article 5 de la loi du 10 août 1922, tous arrêtés, contrats, mesures, décisions ou
+approbations de l'un des ordonnateurs de la commune de Paris ayant pour effet d'engager une dépense sur le budget
+d'investissement sont soumis au visa préalable du contrôleur financier.
+
+Le contrôleur les examine au point de vue de l'imputation de la dépense, de la disponibilité des crédits, de l'exactitude de
+l'évaluation, de l'application des dispositions d'ordre financier, des lois et règlements, de la régularité de l'exécution du
+budget et des conséquences que les mesures proposées peuvent entraîner pour les finances de la collectivité. A cet effet, il
+reçoit communication de toutes les pièces [*documents*] justificatives des engagements de dépenses d'investissement.
+
+Si les mesures proposées lui paraissent entachées d'irrégularité le contrôleur refuse son visa. En cas de désaccord
+persistant il en réfère au ministre de l'économie et des finances qui en avise le ministre de l'intérieur[*procédure,
+compétence*].
+
+L'ordonnateur ne peut passer outre au refus de visa du contrôleur que sur avis conforme du ministre de l'économie et des
+finances[*conditions de forme*].
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Loi n°75-1331 du 31 décembre 1975 - art. 23 (M)
+	  - TXT_ASSOCIE: Loi n°1922-08-10 art. 5
+
+	**Codifié par**:
+
+	  - Décret n°77-278 1977-03-24
+
+	**Abrogé par**:
+
+	  - Décret n°2000-318 du 7 avril 2000 - art. 4 (V)
+
+
+###### Article R*264-5
+
+Les règles prévues à l'article 6 de la loi susvisée du 10 août 1922 et relatives au visa du contrôleur financier s'appliquent
+aux mandats de paiement en matière d'investissement [*conditions de forme*].
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°77-278 1977-03-24
+
+	**Abrogé par**:
+
+	  - Décret n°2000-318 du 7 avril 2000 - art. 4 (V)
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Loi n°1922-08-10 art. 6
+	  - TXT_ASSOCIE: Loi n°75-1331 du 31 décembre 1975 - art. 23 (M)
+
+
+###### Article R*264-6
+
+Les rapports établis par les contrôleurs financiers conformément à l'article 7 de la loi du 10 août 1922 sont transmis, selon
+le cas, au maire de Paris, au préfet de police et au préfet de Paris[*communication*].
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Loi n°75-1331 1975-12-31
+	  - TXT_ASSOCIE: Loi n°1922-08-10 art. 7
+
+	**Codifié par**:
+
+	  - Décret n°77-278 1977-03-24
+
+	**Abrogé par**:
+
+	  - Décret n°2000-318 du 7 avril 2000 - art. 4 (V)
+
+
+##### SECTION 4 : Dispositions relatives aux recettes.
+
+###### Article R*264-7
+
+L'autorisation de majorer, par application des dispositions de l'article L. 233-7, le taux limite de la taxe sur
+l'électricité et des surtaxes ou majorations de tarifs fixé à l'article L. 233-5 fait l'objet d'un arrêté concerté du
+ministre de l'économie et des finances, du ministre de l'intérieur et du ministre chargé de l'électricité[*compétence -
+conditions de forme*].
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°70-957 1970-10-21 art. 4 phr. 2
+	  - Code des communes R264-2
+
+	**Codifié par**:
+
+	  - Décret n°77-91 1977-01-27
+
+	**Abrogé par**:
+
+	  - Décret n°2000-318 du 7 avril 2000 - art. 4 (V)
+
+	**Cite**:
+
+	  - Code des communes L233-5 et L233-7
+
+
 ## FINANCES COMMUNALES
 
 ### BUDGET
@@ -63061,40 +63210,6 @@ salariés.
 	**Nouveaux textes**:
 
 	  - Code général des collectivités territoriales - art. R2531-20 (V)
-
-
-#### Dispositions applicables à la ville de Paris
-
-##### Dispositions *applicables* au budget communal et au budget spécial de la préfecture de police
-
-###### Article R*264-2
-
-L'autorisation de majorer, par application des dispositions de l'article L. 233-7 [*relatives à l'électricité livrée en basse
-tension par des distributeurs*], le taux limite de la taxe sur l'électricité et des surtaxes ou majorations de tarifs fixé à
-l'article L. 233-5 fait l'objet d'un arrêté concerté du ministre de l'économie et des finances, du ministre de l'intérieur et
-du ministre chargé de l'électricité [*compétence - conditions de forme*].
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°70-957 1970-10-21 art. 4 phr. 2
-
-	**Codifié par**:
-
-	  - Décret n°77-91 1977-01-27
-
-	**Créé par**:
-
-	  - Décret n°77-91 1977-01-27 JORF et JONC 3 février 1977 date d'entrée en vigueur 20 mars 1977
-
-	**Cite**:
-
-	  - Code des communes L233-5 et L233-7
-
-	**Nouveaux textes**:
-
-	  - Code des communes R264-7
 
 
 ## LIVRE 3 : Administration et services communaux
