@@ -1,5 +1,5 @@
 # Code des communes  
-Version Consolidée au 1990-12-02
+Version Consolidée au 1991-01-05
 
 # Statuts types d'une caisse communale de secours et de retraite de sapeurs-pompiers
 
@@ -4682,13 +4682,14 @@ stationnement des transports publics de voyageurs et des taxis.
 
 ###### Article L131-4-1
 
-En zone de montagne, le maire peut, sous réserve des dispositions de l'article 26 de la loi n° 83-8 du 7 janvier 1983
-relative à la répartition de compétences entre les communes, les départements, les régions et l'Etat, par arrêté motivé,
-interdire l'accès de certaines voies ou de certaines portions de voies ou de secteurs de la commune à diverses catégories de
-véhicules qui sont de nature à compromettre soit la tranquillité publique, soit la protection de certains sites ou leur mise
-en valeur à des fins esthétiques, écologiques, agricoles, forestières ou touristiques.
+Le maire peut, par arrêté motivé, interdire l'accès de certaines voies ou de certaines portions de voies ou de certains
+secteurs de la commune aux véhicules dont la circulation sur ces voies ou dans ces secteurs est de nature à compromettre soit
+la tranquillité publique, soit la protection des espèces animales ou végétales, soit la protection des espaces naturels, des
+paysages ou des sites ou leur mise en valeur à des fins esthétiques, écologiques, agricoles, forestières ou touristiques.
 
-Ces dispositions ne s'appliquent pas aux véhicules à usage professionnel agricole ou forestier [*champ d'application*].
+" Ces dispositions ne s'appliquent pas aux véhicules utilisés pour assurer une mission de service public et ne peuvent
+s'appliquer d'une façon permanente aux véhicules utilisés à des fins professionnelles de recherche, d'exploitation ou
+d'entretien des espaces naturels. "
 
 **Liens relatifs à cet article**
 
@@ -4711,13 +4712,13 @@ Ces dispositions ne s'appliquent pas aux véhicules à usage professionnel agric
 	  - Code de la route. - art. R441-5 (V)
 	  - Code de la route. - art. R442-6 (V)
 
-	**Créé par**:
-
-	  - loi 85-30 1985-01-09 art. 7 JORF 10 janvier 1985
-
 	**Nouveaux textes**:
 
 	  - Code général des collectivités territoriales - art. L2213-4 (V)
+
+	**Modifié par**:
+
+	  - Loi n°91-2 1991-01-05 art. 5 jorf 5 janvier 1991
 
 
 ###### Article L131-4-2
@@ -5114,6 +5115,50 @@ général, être accordées par le représentant de l'Etat dans le département.
 	**Nouveaux textes**:
 
 	  - Code général des collectivités territoriales - art. L2215-5 (V)
+
+
+###### Article L131-14-1
+
+Les pouvoirs confiés au maire par l'article L. 131-4-1 ne font pas obstacle à ce que le représentant de l'Etat dans le
+département puisse, pour plusieurs communes ou pour une seule commune après mise en demeure adressée au maire et restée sans
+résultat, interdire, par arrêté motivé, l'accès de certaines voies ou de certaines portions de voies ou de certains secteurs
+de la ou des communes aux véhicules dont la circulation sur ces voies ou dans ces secteurs est de nature à compromettre soit
+la tranquillité publique, soit la protection des espèces animales ou végétales, soit la protection des espaces naturels, des
+paysages ou des sites ou leur mise en valeur à des fins esthétiques, écologiques, agricoles, forestières ou touristiques.
+
+" Ces dispositions ne s'appliquent pas aux véhicules utilisés pour assurer une mission de service public et ne peuvent
+s'appliquer d'une façon permanente aux véhicules utilisés à des fins professionnelles de recherche, d'exploitation ou
+d'entretien des espaces naturels. "
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°77-90 1977-01-27
+
+	**Cité par**:
+
+	  - Loi n°83-663 du 22 juillet 1983 - art. 56-1 (Ab)
+	  - Loi n°91-2 du 3 janvier 1991 - art. 2 (Ab)
+	  - Décret n°92-258 du 20 mars 1992 - art. 2 (Ab)
+	  - Code de la route - art. R278 (Ab)
+	  - Code de la route - art. R285 (M)
+
+	**Cite**:
+
+	  - CODE DES COMMUNES. - art. L131-4-1 (M)
+
+	**Anciens textes**:
+
+	  - Code de l'administration communale 99 al. 3
+
+	**Nouveaux textes**:
+
+	  - Code général des collectivités territoriales - art. L2215-3 (V)
+
+	**Créé par**:
+
+	  - Loi n°91-2 1991-01-05 art. 6 jorf 5 janvier 1991
 
 
 ##### SECTION 4 : Agents de police municipale.
