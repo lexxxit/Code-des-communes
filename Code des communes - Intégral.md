@@ -1,5 +1,5 @@
 # Code des communes  
-Version Consolidée au 1985-03-13
+Version Consolidée au 1985-06-02
 
 # Statuts types d'une caisse communale de secours et de retraite de sapeurs-pompiers
 
@@ -94373,121 +94373,6 @@ annexes.
 	  - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
 
 
-##### SOUS-SECTION 3 : Les commissions et comités paritaires.
-
-###### Article R*444-24
-
-Des commissions administratives paritaires et des comités techniques paritaires sont institués pour les fonctionnaires de la
-commune de Paris.
-
-**Nota:**
-
-Les dispositions contraires au décret 85-565 du 30 mai 1985 sont abrogées (décret 85-565 du 30 mai 1985 art. 34).
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°76-1041 1976-11-16 ART. 22
-
-	**Codifié par**:
-
-	  - Décret n°77-373 1977-03-28
-
-	**Créé par**:
-
-	  - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
-
-	**Abrogé par**:
-
-	  - Decret 85-565 1985-05-30 art. 34 jorf 2 juin 1985
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°85-1003 1985-09-24 art. 38
-
-	**Cite**:
-
-	  - Décret n°85-565 du 30 mai 1985 - art. 34 (M)
-
-
-###### Article R*444-25
-
-Les commissions administratives paritaires sont compétentes, dans les limites fixées par le présent statut et par les arrêtés
-d'application, en matière de recrutement, de notation, d'avancement, d'affectation, de discipline et, plus généralement, pour
-toutes questions concernant le personnel.
-
-Ces commissions comprennent : [*composition*]
-
-D'une part, le maire de Paris [*attributions*] ou son représentant, président, et des délégués choisis par lui parmi les
-chefs de service de la commune ;
-
-D'autre part, en nombre égal, des représentants du personnel élus au bulletin secret à la proportionnelle par les
-fonctionnaires en activité ou détachés auprès de la commune.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°76-1041 1976-11-16 ART. 23
-
-	**Codifié par**:
-
-	  - Décret n°77-373 1977-03-28
-
-	**Créé par**:
-
-	  - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°85-1003 1985-09-24 art. 38
-
-	**Abrogé par**:
-
-	  - Décret n°85-565 1985-05-30 art. 34 jorf 2 juin 1985
-
-	**Cite**:
-
-	  - Code des communes R444-1 A R444-186
-
-
-###### Article R*444-27
-
-Le conseil de Paris fixe par délibération [*attributions*] les modalités d'organisation et de fonctionnement des commissions
-administratives paritaires et des comités techniques paritaires.
-
-**Nota:**
-
-Les dispositions contraires au décret 85-565 du 30 mai 1985 sont abrogées (décret 85-565 du 30 mai 1985 art. 34).
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°76-1041 1976-11-16 ART. 25
-
-	**Codifié par**:
-
-	  - Décret n°77-373 1977-03-28
-
-	**Créé par**:
-
-	  - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°85-1003 1985-09-24 art. 38
-
-	**Abrogé par**:
-
-	  - Décret n°85-565 1985-05-30 art. 34 jorf 2 juin 1985
-
-	**Cite**:
-
-	  - Décret n°85-565 du 30 mai 1985 - art. 34 (M)
-
-
 ##### SECTION 2 : Recrutement.
 
 ###### Article R*444-28
@@ -98841,60 +98726,6 @@ période de l'engagement restant à courir.
 ### Dispositions particulières
 
 #### Dispositions applicables à la ville de Paris
-
-##### Dispositions générales et organiques
-
-##### Les commissions et comités paritaires .
-
-###### Article R*444-26
-
-Les comités techniques paritaires sont compétents pour connaître des questions relatives :
-
-1° A l'organisation des établissements et services de la commune de Paris ;
-
-2° Au fonctionnement des établissements et services ;
-
-3° Aux programmes de modernisation des méthodes et techniques de travail et à leurs incidences sur la situation des
-personnels ;
-
-4° A l'élaboration et à la modification des règles statutaires [*particulières, fixées par le conseil de Paris, pour les
-personnels soumis au présent statut*] ;
-
-5° A l'examen des grandes orientations à définir pour l'accomplissement des tâches incombant aux services et établissements
-de la commune ;
-
-6° Aux problèmes d'hygiène et de sécurité.
-
-La consultation des comités techniques paritaires est obligatoire dans les cas prévus aux 3°, 4°, 5° et 6° ci-dessus.
-
-Les comités techniques paritaires comprennent : [*composition*]        D'une part, le maire de Paris [*attributions*] ou son
-représentant, président, et des délégués choisis par lui parmi les chefs de service de la commune ;
-
-D'autre part, en nombre égal, des représentants du personnel désignés par les organisations syndicales les plus
-représentatives.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°76-1041 1976-11-16 ART. 24
-
-	**Codifié par**:
-
-	  - Décret n°77-373 1977-03-28
-
-	**Créé par**:
-
-	  - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
-
-	**Abrogé par**:
-
-	  - Décret n°85-565 1985-05-30 art. 34 JORF 2 Juin 1985
-
-	**Cite**:
-
-	  - Code des communes R444-3
-
 
 ##### Recrutement .
 
