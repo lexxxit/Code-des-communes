@@ -1,5 +1,5 @@
 # Code des communes  
-Version Consolidée au 1992-02-05
+Version Consolidée au 1992-02-08
 
 # Statuts types d'une caisse communale de secours et de retraite de sapeurs-pompiers
 
@@ -1831,24 +1831,16 @@ et au plus tard le dimanche suivant le tour de scrutin à l'issue duquel le cons
 
 ###### Article L121-9
 
-Le maire [**]attributions[**] peut réunir le conseil municipal chaque fois [*fréquence*] qu'il le juge utile.
+Le maire peut réunir le conseil municipal chaque fois qu'il le juge utile.
 
-Il est tenu de le convoquer dans un délai maximum de trente jours quand la demande motivée lui en est faite par le
-représentant de l'Etat dans le département [*commissaire de la République*] ou par la moitié [**]proportion[**] au moins des
-membres en exercice du conseil municipal.
+Il est tenu de le convoquer dans un délai maximal de trente jours quand la demande motivée lui en est faite par le
+représentant de l'Etat dans le département ou par le tiers au moins des membres du conseil municipal en exercice dans les
+communes de 3500 habitants et plus et par la majorité des membres du conseil municipal dans les communes de moins de 3500
+habitants.
 
 En cas d'urgence, le représentant de l'Etat dans le département peut abréger ce délai.
 
 **Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - SPEC_APPLI: *Dispositions non applicables aux communes des départements de la Moselle, du Bas-Rhin et du Haut-Rhin (Alsace-Lorraine)*
-	  - SPEC_APPLI: Code des communes L181-1 :
-
-	**Anciens textes**:
-
-	  - Code de l'administration communale 23 remplacé
 
 	**Codifié par**:
 
@@ -1865,7 +1857,11 @@ En cas d'urgence, le représentant de l'Etat dans le département peut abréger 
 
 	**Modifié par**:
 
-	  - Loi n°82-213 du 2 mars 1982 - art. 21 (V) JORF 3 MARS 1982
+	  - Loi n°92-125 du 6 février 1992 - art. 29 () JORF 8 février 1992
+
+	**Abrogé par**:
+
+	  - Loi n°96-142 du 21 février 1996 - art. 12 (V) JORF 24 février 1996
 
 	**Nouveaux textes**:
 
@@ -1874,32 +1870,30 @@ En cas d'urgence, le représentant de l'Etat dans le département peut abréger 
 
 ###### Article L121-10
 
-Toute convocation est faite par le maire. Elle est mentionnée au registre des délibérations, affichée ou publiée. Elle est
-adressée aux conseillers municipaux par écrit et à domicile trois jours au moins avant celui de la réunion.        En cas
-d'urgence, le délai peut être abrégé par le maire, sans pouvoir toutefois être inférieur à un jour franc. Le maire en rend
-compte dès l'ouverture de la séance au conseil municipal, qui se prononce définitivement sur l'urgence et peut décider le
-renvoi de la discussion pour tout ou partie à l'ordre du jour d'une séance ultérieure.    " Dans les communes de 3 500
-[*nombre*] habitants et plus, la convocation indique les questions à l'ordre du jour. "
+I. - Toute convocation est faite par le maire. Elle indique les questions portées à l'ordre du jour. Elle est mentionnée au
+registre des délibérations, affichée ou publiée. Elle est adressée aux conseillers municipaux par écrit et à domicile.
+
+II. - Dans les communes de moins de 3500 habitants, la convocation est adressée trois jours francs au moins avant celui de la
+réunion.
+
+En cas d'urgence, le délai peut être abrégé par le maire, sans pouvoir être toutefois inférieur à un jour franc. Le maire en
+rend compte dès l'ouverture de la séance au conseil municipal, qui se prononce sur l'urgence et peut décider le renvoi de la
+discussion pour tout ou partie à l'ordre du jour d'une séance ultérieure.
+
+III. - Dans les communes de 3500 habitants et plus, une note explicative de synthèse sur les affaires soumises à délibération
+doit être adressée avec la convocation aux membres du conseil municipal.
+
+Si la délibération concerne un contrat de service public, le projet de contrat ou de marché accompagné de l'ensemble des
+pièces peut, à sa demande, être consulté à la mairie par tout conseiller municipal dans les conditions fixées par le
+règlement intérieur.
+
+Le délai de convocation est fixé à cinq jours francs. En cas d'urgence, le délai peut être abrégé par le maire sans pouvoir
+être toutefois inférieur à un jour franc.
+
+Le maire en rend compte dès l'ouverture de la séance au conseil municipal, qui se prononce sur l'urgence et peut décider le
+renvoi de la discussion pour tout ou partie à l'ordre du jour d'une séance ultérieure.
 
 **Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - SPEC_APPLI: *Dispositions non applicables aux communes des départements de la Moselle, du Bas-Rhin et du Haut-Rhin (Alsace-Lorraine)*
-	  - SPEC_APPLI: Code des communes L181-1 :
-
-	**Cité par**:
-
-	  - CODE DES COMMUNES. - art. L122-5 (Ab)
-	  - CODE DES COMMUNES. - art. R*125-8 (Ab)
-	  - CODE DES COMMUNES. - art. R*151-6 (Ab)
-	  - CODE DES COMMUNES. - art. R411-32 (Ab)
-	  - Loi n°92-125 du 6 février 1992 - art. 30 (V)
-	  - Loi n°96-609 du 5 juillet 1996 - art. 25 (M)
-
-	**Anciens textes**:
-
-	  - Code de l'administration communale 24
 
 	**Codifié par**:
 
@@ -1907,7 +1901,59 @@ renvoi de la discussion pour tout ou partie à l'ordre du jour d'une séance ult
 
 	**Modifié par**:
 
-	  - Loi n°88-13 du 5 janvier 1988 - art. 61 () JORF 6 janvier 1988
+	  - Loi n°92-125 du 6 février 1992 - art. 30 (V) JORF 8 février 1992
+
+	**Cité par**:
+
+	  - Loi n°92-125 du 6 février 1992 - art. 30 (V)
+	  - Loi n°96-609 du 5 juillet 1996 - art. 25 (M)
+	  - CODE DES COMMUNES. - art. L122-5 (Ab)
+	  - CODE DES COMMUNES. - art. R*125-8 (Ab)
+	  - CODE DES COMMUNES. - art. R*151-6 (Ab)
+	  - CODE DES COMMUNES. - art. R411-32 (Ab)
+
+	**Abrogé par**:
+
+	  - Loi n°96-142 du 21 février 1996 - art. 12 (V) JORF 24 février 1996
+
+	**Nouveaux textes**:
+
+	  - Code général des collectivités territoriales - art. L2121-10 (M)
+	  - Code général des collectivités territoriales - art. L2121-11 (V)
+	  - Code général des collectivités territoriales - art. L2121-12 (V)
+
+
+###### Article L121-10-1
+
+Dans les communes de 3500 habitants et plus, le conseil municipal établit son règlement intérieur dans les six mois qui
+suivent son installation. Le règlement intérieur peut être déféré devant le tribunal administratif.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°77-90 1977-01-27
+
+	**Cité par**:
+
+	  - Loi n°77-1460 du 29 décembre 1977 - art. 6-1 (AbD)
+	  - Loi n°92-125 du 6 février 1992 - art. 32 bis (M)
+	  - Loi n°92-125 du 6 février 1992 - art. 36 (MMN)
+	  - Loi n°96-609 du 5 juillet 1996 - art. 25 (M)
+	  - CODE DES COMMUNES. - art. L212-1 (Ab)
+	  - CODE DES COMMUNES. - art. L261-3 (Ab)
+
+	**Créé par**:
+
+	  - Loi n°92-125 du 6 février 1992 - art. 31 () JORF 8 février 1992
+
+	**Abrogé par**:
+
+	  - Loi n°96-142 du 21 février 1996 - art. 12 (V) JORF 24 février 1996
+
+	**Nouveaux textes**:
+
+	  - Code général des collectivités territoriales - art. L2121-8 (V)
 
 
 ###### Article L121-11
@@ -1949,25 +1995,25 @@ d'intervalle [*délai*] est valable quel que soit le nombre des membres présent
 
 ###### Article L121-12
 
-Les délibérations sont prises à la majorité absolue des suffrages exprimés. 
+Les délibérations sont prises à la majorité absolue des suffrages exprimés.
 
 Un conseiller municipal empêché d'assister à une séance peut donner à un collègue de son choix pouvoir écrit de voter en son
-nom [*procuration*]. Un même conseiller municipal ne peut être porteur que d'un seul mandat. Le mandat est toujours
-révocable.
-
-Sauf cas de maladie dûment constatée, il ne peut être valable pour plus de trois séances consécutives. 
+nom. Un même conseiller municipal ne peut être porteur que d'un seul mandat. Le mandat est toujours révocable. Sauf cas de
+maladie dûment constatée, il ne peut être valable pour plus de trois séances consécutives.
 
 En cas de partage, sauf le cas de scrutin secret, la voix du président est prépondérante. Le vote a lieu au scrutin public
 sur la demande du quart des membres présents ; les noms des votants, avec la désignation de leurs votes, sont insérés au
-procès-verbal. 
+procès-verbal.
 
 Il est voté au scrutin secret toutes les fois que le tiers des membres présents le réclame, ou qu'il s'agit de procéder à une
-nomination ou présentation. 
+nomination ou présentation.
 
-Dans ces derniers cas, après deux tours de scrutin secret,
+Les désignations opérées en application du présent article, et dont l'irrégularité purement formelle n'a pas été invoquée
+dans le délai de recours pour excès de pouvoir, que ce soit par voie d'action ou par voie d'exception, sont validées.
 
-si aucun des candidats n'a obtenu la majorité absolue, il est procédé à un troisième tour de scrutin et l'élection a lieu à
-la majorité relative ; à égalité de voix, l'élection est acquise au plus âgé.
+Dans ces derniers cas, après deux tours de scrutin secret, si aucun des candidats n'a obtenu la majorité absolue, il est
+procédé à un troisième tour de scrutin et l'élection a lieu à la majorité relative ; à égalité de voix, l'élection est
+acquise au plus âgé.
 
 **Liens relatifs à cet article**
 
@@ -1975,9 +2021,13 @@ la majorité relative ; à égalité de voix, l'élection est acquise au plus â
 
 	  - Décret n°77-90 1977-01-27
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°77-90 1977-01-27 JORF et JONC 3 février 1977 date d'entrée en vigueur élection des maires
+	  - Loi n°92-125 du 6 février 1992 - art. 81 () JORF 8 février 1992
+
+	**Abrogé par**:
+
+	  - Loi n°96-142 du 21 février 1996 - art. 12 (V) JORF 24 février 1996
 
 	**Cité par**:
 
@@ -1993,9 +2043,10 @@ la majorité relative ; à égalité de voix, l'élection est acquise au plus â
 	  - Code électoral - art. R206 (Ab)
 	  - Code électoral - art. R275 (V)
 
-	**Anciens textes**:
+	**Nouveaux textes**:
 
-	  - Code de l'administration communale 27 al. 1 modifié
+	  - Code général des collectivités territoriales - art. L2121-20 (V)
+	  - Code général des collectivités territoriales - art. L2121-21 (M)
 
 
 ###### Article L121-13
@@ -2070,26 +2121,27 @@ pris en dehors de ses membres, qui assistent aux séances mais sans participer a
 
 ###### Article L121-15
 
-Les séances des conseils municipaux sont publiques [*publicité*]. 
+Les séances des conseils municipaux sont publiques.
 
-Néanmoins, sur la demande de trois membres [*nombre*] ou du maire, le conseil municipal, par assis et levé, sans débat,
+Néanmoins, sur la demande de trois membres ou du maire, le conseil municipal peut décider, sans débat, à la majorité absolue
+des membres présents ou représentés, qu'il se réunit à huis clos.
 
-décide qu'il se forme en comité secret.
+Sans préjudice des pouvoirs que le maire tient de l'article L. 121-16, ces séances peuvent être retransmises par les moyens
+de communication audiovisuelle.
 
 **Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - SPEC_APPLI: *Dispositions non applicables aux communes des départements de la Moselle, du Bas-Rhin et du Haut-Rhin (Alsace-Lorraine)*
-	  - SPEC_APPLI: Code des communes L181-1 :
 
 	**Codifié par**:
 
 	  - Décret n°77-90 1977-01-27
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°77-90 1977-01-27 JORF et JONC 3 février 1977 date d'entrée en vigueur élection des maires
+	  - Loi n°92-125 du 6 février 1992 - art. 20 () JORF 8 février 1992
+
+	**Abrogé par**:
+
+	  - Loi n°96-142 du 21 février 1996 - art. 12 (V) JORF 24 février 1996
 
 	**Cité par**:
 
@@ -2100,13 +2152,46 @@ décide qu'il se forme en comité secret.
 	  - Code pénal - art. 715-3 (V)
 	  - Code pénal - art. 725-3 (V)
 
-	**Anciens textes**:
+	**Cite**:
 
-	  - Code de l'administration communale 30
+	  - CODE DES COMMUNES. - art. L121-16 (Ab)
 
 	**Nouveaux textes**:
 
 	  - Code général des collectivités territoriales - art. L2121-18 (V)
+
+
+###### Article L121-15-1
+
+Les conseillers municipaux ont le droit d'exposer en séance du conseil des questions orales ayant trait aux affaires de la
+commune. Dans les communes de 3500 habitants et plus, le règlement intérieur fixe la fréquence ainsi que les règles de
+présentation et d'examen de ces questions. A défaut de règlement intérieur, celles-ci sont fixées par une délibération du
+conseil municipal.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°77-90 1977-01-27
+
+	**Cité par**:
+
+	  - Loi n°77-1460 du 29 décembre 1977 - art. 6-1 (AbD)
+	  - Loi n°92-125 du 6 février 1992 - art. 32 bis (M)
+	  - Loi n°92-125 du 6 février 1992 - art. 36 (MMN)
+	  - Loi n°96-609 du 5 juillet 1996 - art. 25 (M)
+
+	**Créé par**:
+
+	  - Loi n°92-125 du 6 février 1992 - art. 32 () JORF 8 février 1992
+
+	**Abrogé par**:
+
+	  - Loi n°96-142 du 21 février 1996 - art. 12 (V) JORF 24 février 1996
+
+	**Nouveaux textes**:
+
+	  - Code général des collectivités territoriales - art. L2121-19 (V)
 
 
 ###### Article L121-16
@@ -2171,45 +2256,44 @@ Le compte rendu de la séance est affiché [*publicité*] dans la huitaine [*dé
 
 ###### Article L121-18
 
-Les délibérations sont inscrites par ordre de date. 
+Les délibérations sont inscrites par ordre de date.
 
-Elles sont signées par tous les membres présents à la séance,
+Elles sont signées par tous les membres présents à la séance, ou mention est faite de la cause qui les a empêchés de signer.
 
-ou mention est faite de la cause qui les a empêchés de signer [*motifs*].
+Dans les communes de 3500 habitants et plus, le dispositif des délibérations à caractère réglementaire est publié dans un
+recueil des actes administratifs dans des conditions fixées par décret en Conseil d'Etat.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Code de l'administration communale 33
-	  - Loi n°1895-06-06 ART. 51 AL. 1 (partie)
 
 	**Codifié par**:
 
 	  - Décret n°77-90 1977-01-27
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°77-90 1977-01-27 JORF et JONC 3 février 1977 date d'entrée en vigueur élection des maires
+	  - Loi n°92-125 du 6 février 1992 - art. 18 (Ab) JORF 8 février 1992
+
+	**Abrogé par**:
+
+	  - Loi n°96-142 du 21 février 1996 - art. 12 (V) JORF 24 février 1996
+
+	**Nouveaux textes**:
+
+	  - Code général des collectivités territoriales - art. L2121-23 (V)
+	  - Code général des collectivités territoriales - art. L2121-24 (V)
 
 
 ###### Article L121-19
 
-Tout habitant ou contribuable a le droit de demander communication sans déplacement, de prendre copie totale ou partielle des
-procès-verbaux du conseil municipal, des budgets et des comptes de la commune, des arrêtés municipaux. 
+Toute personne physique ou morale a le droit de demander communication sans déplacement, de prendre copie totale ou partielle
+des procès-verbaux du conseil municipal, des budgets et des comptes de la commune, des arrêtés municipaux.
 
 Chacun peut les publier sous sa responsabilité.
 
+La personne visée au premier alinéa désireuse de se faire communiquer la copie des budgets ou des comptes d'une commune peut
+l'obtenir, à ses frais, aussi bien du maire que des services déconcentrés de l'Etat.
+
 **Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - SPEC_APPLI: *Dispositions non applicables aux communes des départements de la Moselle, du Bas-Rhin et du Haut-Rhin (Alsace-Lorraine)*
-	  - SPEC_APPLI: Code des communes L181-1 :
-
-	**Anciens textes**:
-
-	  - Code de l'administration communale 34
 
 	**Cité par**:
 
@@ -2222,40 +2306,44 @@ Chacun peut les publier sous sa responsabilité.
 
 	  - Décret n°77-90 1977-01-27
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°77-90 1977-01-27 JORF et JONC 3 février 1977 date d'entrée en vigueur élection des maires
+	  - Loi n°92-125 du 6 février 1992 - art. 3 (V) JORF 8 février 1992 rectificatif JORF 12 mai 1992
+
+	**Abrogé par**:
+
+	  - Loi n°96-142 du 21 février 1996 - art. 12 (V) JORF 24 février 1996
+
+	**Nouveaux textes**:
+
+	  - Code général des collectivités territoriales - art. L2121-26 (M)
 
 
 ###### Article L121-20
 
-Le conseil municipal peut former, au cours de chaque séance,
+Le conseil municipal peut former, au cours de chaque séance, des commissions chargées d'étudier les questions soumises au
+conseil soit par l'administration, soit à l'initiative d'un de ses membres. Dans les communes de plus de 3500 habitants, la
+composition des différentes commissions, y compris les commissions d'appel d'offre et des bureaux d'adjudications, doit
+respecter le principe de la représentation proportionnelle pour permettre l'expression pluraliste des élus au sein de
+l'assemblée communale.
 
-des commissions chargées d'étudier les questions soumises au conseil soit par l'administration, soit à l'initiative d'un de
-ses membres. 
-
-Elles sont convoquées par le maire [*compétence*], qui en est le président de droit, dans les huit jours qui suivent leur
-nomination, ou à plus bref délai sur la demande de la majorité des membres qui les composent. Dans cette première réunion,
-les commissions désignent un vice-président qui peut les convoquer et les présider si le maire est absent ou empêché.
+Elles sont convoquées par le maire, qui en est le président de droit, dans les huit jours qui suivent leur nomination, ou à
+plus bref délai sur la demande de la majorité des membres qui les composent. Dans cette première réunion, les commissions
+désignent un vice-président qui peut les convoquer et les présider si le maire est absent ou empêché.
 
 **Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - SPEC_APPLI: *Dispositions non applicables aux communes des départements de la Moselle, du Bas-Rhin et du Haut-Rhin (Alsace-Lorraine)*
-	  - SPEC_APPLI: Code des communes L181-1 :
-
-	**Anciens textes**:
-
-	  - Code de l'administration communale 35 al. 1 modifié et al. 3
 
 	**Codifié par**:
 
 	  - Décret n°77-90 1977-01-27
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°77-90 1977-01-27 JORF et JONC 3 février 1977 date d'entrée en vigueur élection des maires
+	  - Loi n°92-125 du 6 février 1992 - art. 33 () JORF 8 février 1992
+
+	**Abrogé par**:
+
+	  - Loi n°96-142 du 21 février 1996 - art. 12 (V) JORF 24 février 1996
 
 	**Cité par**:
 
@@ -2264,6 +2352,41 @@ les commissions désignent un vice-président qui peut les convoquer et les pré
 	**Nouveaux textes**:
 
 	  - Code général des collectivités territoriales - art. L2121-22 (V)
+
+
+###### Article L121-20-1
+
+Le conseil municipal peut créer des comités consultatifs sur tout problème d'intérêt communal concernant tout ou partie du
+territoire de la commune, comprenant des personnes qui peuvent ne pas appartenir au conseil, notamment des représentants des
+associations locales.
+
+Il en fixe la composition sur proposition du maire.
+
+Chaque comité est présidé par un membre du conseil municipal. Il établit chaque année un rapport communiqué au conseil
+municipal.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°77-90 1977-01-27
+
+	**Créé par**:
+
+	  - Loi n°92-125 du 6 février 1992 - art. 22 () JORF 8 février 1992
+
+	**Abrogé par**:
+
+	  - Loi n°96-142 du 21 février 1996 - art. 12 (V) JORF 24 février 1996
+
+	**Cité par**:
+
+	  - Loi n°96-609 du 5 juillet 1996 - art. 25 (M)
+
+	**Nouveaux textes**:
+
+	  - Code général des collectivités territoriales - art. L2143-2 (V)
+	  - Code général des collectivités territoriales - art. L2143-2 (M)
 
 
 ##### SECTION 3 : Dispositions applicables aux membres des conseils municipaux.
@@ -2300,6 +2423,36 @@ Les démissions sont définitives dès leur réception par le maire.
 	**Nouveaux textes**:
 
 	  - Code général des collectivités territoriales - art. L2121-4 (V)
+
+
+###### Article L121-22
+
+Tout membre du conseil municipal a le droit, dans le cadre de sa fonction, d'être informé des affaires de la commune qui font
+l'objet d'une délibération.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°77-90 1977-01-27
+
+	**Cité par**:
+
+	  - Loi n°90-1247 du 29 décembre 1990 - art. 3 (Ab)
+	  - Loi n°96-609 du 5 juillet 1996 - art. 25 (M)
+	  - CODE DES COMMUNES. - art. R*121-13 (Ab)
+
+	**Modifié par**:
+
+	  - Loi n°92-125 du 6 février 1992 - art. 28 () JORF 8 février 1992
+
+	**Abrogé par**:
+
+	  - Loi n°96-142 du 21 février 1996 - art. 12 (V) JORF 24 février 1996
+
+	**Nouveaux textes**:
+
+	  - Code général des collectivités territoriales - art. L2121-13 (V)
 
 
 ###### Article L121-23
@@ -3473,7 +3626,7 @@ Les agents salariés du maire ne peuvent être adjoints.
 Les maires et les adjoints sont nommés pour la même durée que le conseil municipal.
 
 Quand il y a lieu, pour quelque cause que ce soit, à une nouvelle élection du maire, il est procédé à une nouvelle élection
-des adjoints.
+des adjoints ainsi que des délégués de la commune au sein d'organismes extérieurs.
 
 Lorsque le maire a retiré les délégations qu'il avait données à un adjoint, et si celui-ci ne démissionne pas, ces
 délégations peuvent être attribuées à un conseiller municipal nonobstant les dispositions de l'article L. 122-11.
@@ -3482,17 +3635,9 @@ Après une élection partielle, le conseil municipal peut décider qu'il sera pr
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Code de l'administration communale 63 AL. 1 MODIFIE
-
 	**Codifié par**:
 
 	  - Décret n°77-90 1977-01-27
-
-	**Modifié par**:
-
-	  - Loi n°82-974 1982-11-19 ART. 15 JORF 20 NOVEMBRE 1982 date d'entrée en vigueur 6 MARS 1983
 
 	**Cité par**:
 
@@ -3500,9 +3645,22 @@ Après une élection partielle, le conseil municipal peut décider qu'il sera pr
 	  - Loi n°96-609 du 5 juillet 1996 - art. 25 (M)
 	  - CODE DES COMMUNES. - art. L163-12 (Ab)
 
+	**Modifié par**:
+
+	  - Loi n°92-125 du 6 février 1992 - art. 82 () JORF 8 février 1992
+
+	**Abrogé par**:
+
+	  - Loi n°96-142 du 21 février 1996 - art. 12 (V) JORF 24 février 1996
+
 	**Cite**:
 
 	  - CODE DES COMMUNES. - art. L122-11 (M)
+
+	**Nouveaux textes**:
+
+	  - Code général des collectivités territoriales - art. L2122-10 (M)
+	  - Code général des collectivités territoriales - art. L2122-18 (M)
 
 
 ###### Article L122-10
@@ -4276,26 +4434,32 @@ Le maire prend des arrêtés à l'effet :
 
 ###### Article L122-29
 
-Les arrêtés du maire ne sont exécutoires [*condition*] qu'après avoir été portés à la connaissance des intéressés, par voie
-de publication ou d'affiches, toutes les fois qu'ils contiennent des dispositions générales et, dans les autres cas, par voie
-de notification individuelle. 
+Les arrêtés du maire ne sont exécutoires qu'après avoir été portés à la connaissance des intéressés, par voie de publication
+ou d'affiches, toutes les fois qu'ils contiennent des dispositions générales et, dans les autres cas, par voie de
+notification individuelle.
 
 Les arrêtés, actes de publication et de notification sont inscrits par ordre de date.
 
+Dans les communes de 3500 habitants et plus, les arrêtés municipaux à caractère réglementaire sont publiés dans un recueil
+des actes administratifs dans des conditions fixées par décret en Conseil d'Etat.
+
 **Liens relatifs à cet article**
 
-	**Liens**:
+	**Anciens textes**:
 
-	  - SPEC_APPLI: *Dispositions non applicables aux communes des départements de la Moselle, du Bas-Rhin et du Haut-Rhin (Alsace-Lorraine)*
-	  - SPEC_APPLI: Code des communes L181-1 :
+	  - Code de l'administration communale 83 al. 1, al. 4
 
 	**Codifié par**:
 
 	  - Décret n°77-90 1977-01-27
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°77-90 1977-01-27 JORF et JONC 3 février 1977 date d'entrée en vigueur élection des maires
+	  - Loi n°92-125 du 6 février 1992 - art. 18 (Ab) JORF 8 février 1992
+
+	**Abrogé par**:
+
+	  - Loi n°96-142 du 21 février 1996 - art. 12 (V) JORF 24 février 1996
 
 	**Cité par**:
 
@@ -4303,9 +4467,9 @@ Les arrêtés, actes de publication et de notification sont inscrits par ordre d
 	  - CODE DES COMMUNES. - art. R*122-11 (Ab)
 	  - CODE DES COMMUNES. - art. R361-28 (Ab)
 
-	**Anciens textes**:
+	**Nouveaux textes**:
 
-	  - Code de l'administration communale 83 al. 1 et 4 (partie)
+	  - Code général des collectivités territoriales - art. L2122-29 (V)
 
 
 #### CHAPITRE 3 : Indemnités et régime de retraite des titulaires de certaines fonctions municipales
@@ -5048,6 +5212,178 @@ membres du conseil municipal.
 	**Nouveaux textes**:
 
 	  - Code général des collectivités territoriales - art. L2124-6 (V)
+
+
+#### CHAPITRE 5 : Participation des habitants à la vie locale
+
+###### Article L125-1
+
+Les électeurs de la commune peuvent être consultés sur les décisions que les autorités municipales sont appelées à prendre
+pour régler les affaires de la compétence de la commune. La consultation peut ne concerner que les électeurs d'une partie du
+territoire de la commune pour des affaires intéressant spécialement cette partie de la commune.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°77-90 1977-01-27
+
+	**Créé par**:
+
+	  - Loi n°92-125 du 6 février 1992 - art. 21 () JORF 8 février 1992
+
+	**Abrogé par**:
+
+	  - Loi n°96-142 du 21 février 1996 - art. 12 (V) JORF 24 février 1996
+
+	**Nouveaux textes**:
+
+	  - Code général des collectivités territoriales - art. L2142-1 (Ab)
+	  - Code général des collectivités territoriales - art. L2142-1 (M)
+
+
+###### Article L125-2
+
+Sur proposition du maire, ou sur demande écrite du tiers des membres du conseil municipal dans les communes de 3500 habitants
+et plus, ou sur demande écrite de la majorité des membres du conseil municipal dans les communes de moins de 3500 habitants,
+le conseil municipal délibère sur le principe et les modalités d'organisation de la consultation. Dans ce cas, l'urgence ne
+peut être invoquée.
+
+La délibération qui décide la consultation indique expressément que cette consultation n'est qu'une demande d'avis.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°77-90 1977-01-27
+
+	**Créé par**:
+
+	  - Loi n°92-125 du 6 février 1992 - art. 21 () JORF 8 février 1992
+
+	**Abrogé par**:
+
+	  - Loi n°96-142 du 21 février 1996 - art. 12 (V) JORF 24 février 1996
+
+	**Cité par**:
+
+	  - CODE DES COMMUNES. - art. R*125-1 (Ab)
+	  - CODE DES COMMUNES. - art. R*125-4 (Ab)
+	  - CODE DES COMMUNES. - art. R*125-5 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code général des collectivités territoriales - art. L2142-2 (Ab)
+	  - Code général des collectivités territoriales - art. L2142-2 (M)
+
+
+###### Article L125-3
+
+Un dossier d'information sur l'objet de la consultation est mis à la disposition du public sur place à la mairie et, le cas
+échéant, à la mairie annexe quinze jours au moins avant le scrutin. L'accès du public au dossier est assuré dans les
+conditions fixées par l'article 4 de la loi n° 78-753 du 17 juillet 1978 portant diverses mesures d'amélioration des
+relations entre l'administration et le public.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°77-90 1977-01-27
+
+	**Cite**:
+
+	  - Loi n°78-753 du 17 juillet 1978 - art. 4 (M)
+
+	**Créé par**:
+
+	  - Loi n°92-125 du 6 février 1992 - art. 21 ()
+
+
+###### Article L125-4
+
+Après avoir pris connaissance du résultat de la consultation, le conseil municipal délibère dans les conditions prévues à
+l'article L. 121-12.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°77-90 1977-01-27
+
+	**Créé par**:
+
+	  - Loi n°92-125 du 6 février 1992 - art. 21 ()
+
+	**Cite**:
+
+	  - CODE DES COMMUNES. - art. L121-12 (M)
+
+
+###### Article L125-5
+
+Aucune consultation ne peut avoir lieu à par tir du 1er janvier de l'année civile qui précède l'année du renouvellement
+général des conseils municipaux ni durant les campagnes électorales précédant les élections au suffrage universel direct ou
+indirect. Deux consultations portant sur un même objet ne peuvent intervenir dans un délai inférieur à deux ans.
+
+Un délai d'un an doit s'écouler entre deux consultations.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°77-90 1977-01-27
+
+	**Créé par**:
+
+	  - Loi n°92-125 du 6 février 1992 - art. 21 () JORF 8 février 1992
+
+	**Abrogé par**:
+
+	  - Loi n°96-142 du 21 février 1996 - art. 12 (V) JORF 24 février 1996
+
+	**Nouveaux textes**:
+
+	  - Code général des collectivités territoriales - art. L5211-23 (M)
+
+
+###### Article L125-6
+
+En cas de recours en annulation devant le tribunal administratif et, s'il y a lieu, en appel devant le Conseil d'Etat, aucune
+consultation ne peut avoir lieu tant que l'élection du conseil municipal n'a pas fait l'objet d'une décision devenue
+définitive.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°77-90 1977-01-27
+
+	**Créé par**:
+
+	  - Loi n°92-125 du 6 février 1992 - art. 21 ()
+
+
+###### Article L125-7
+
+Un décret en Conseil d'Etat détermine les conditions d'application du présent chapitre.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°77-90 1977-01-27
+
+	**Créé par**:
+
+	  - Loi n°92-125 du 6 février 1992 - art. 21 () JORF 8 février 1992
+
+	**Abrogé par**:
+
+	  - Loi n°96-142 du 21 février 1996 - art. 12 (V) JORF 24 février 1996
+
+	**Nouveaux textes**:
+
+	  - Code général des collectivités territoriales - art. L5211-15 (T)
 
 
 ### TITRE 3 : Police
@@ -8056,6 +8392,95 @@ des électeurs inscrits.
 
 ### TITRE 6 : Intérêts communs à plusieurs communes
 
+###### Article L160-1
+
+Il est institué dans chaque département une commission départementale de la coopération intercommunale. Elle est présidée par
+le représentant de l'Etat dans le département. Il est assisté d'un rapporteur général et de deux assesseurs élus parmi les
+maires.
+
+La commission est composée à raison de :
+
+60 p. 100 par des maires, des adjoints au maire ou des conseillers municipaux élus à la représentation proportionnelle à la
+plus forte moyenne par les maires regroupés au sein des collèges électoraux déterminés en fonction de l'importance
+démographique des communes ;
+
+20 p. 100 par des représentants d'établissements publics de coopération intercommunale ayant leur siège dans le département,
+élus à la représentation proportionnelle à la plus forte moyenne par le collège des présidents des organes délibérants de ces
+établissements et par des représentants de communes associées à la date de publication de la loi d'orientation n° 92-125 du 6
+février 1992 relative à l'administration territoriale de la République dans le cadre de chartes intercommunales de
+développement et d'aménagement, élus à la représentation proportionnelle à la plus forte moyenne par le collège des maires de
+ces communes ;
+
+15 p. 100 par des représentants du conseil général, élus par celui-ci à la représentation proportionnelle à la plus forte
+moyenne et 5 p. 100 par des représentants du conseil régional dans la circonscription départementale, élus par celui-ci à la
+représentation proportionnelle à la plus forte moyenne.
+
+Le mandat des membres de la commission cesse à l'occasion du renouvellement des fonctions au titre desquelles ils ont été
+désignés. Il est pourvu à leur remplacement dans les conditions prévues au présent article.
+
+Dans un délai de trois mois à compter de la publication de la loi n° 92-125 du 6 février 1992 précitée, un décret en Conseil
+d'Etat précise les conditions d'application du présent article, notamment le nombre total des membres de la commission,
+déterminé compte tenu de la population, du nombre des communes du département et de leur importance démographique, les
+critères démographiques utilisés pour la constitution des collèges de maires mentionnés au quatrième alinéa ci-dessus ainsi
+que les modalités de désignation des membres de la commission et les règles de fonctionnement de celle-ci.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°77-90 1977-01-27
+
+	**Cite**:
+
+	  - Loi n°92-125 1992-02-06
+
+	**Créé par**:
+
+	  - Loi n°92-125 du 6 février 1992 - art. 67 () JORF 8 février 1992
+
+	**Abrogé par**:
+
+	  - Loi n°96-142 du 21 février 1996 - art. 12 (V) JORF 24 février 1996
+
+	**Cité par**:
+
+	  - CODE DES COMMUNES. - art. R*160-1 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code général des collectivités territoriales - art. L5211-13 (T)
+	  - Code général des collectivités territoriales - art. L5211-14 (T)
+	  - Code général des collectivités territoriales - art. L5211-15 (T)
+
+
+###### Article L160-2
+
+La commission départementale de la coopération intercommunale établit et tient à jour un état de la coopération
+intercommunale dans le département. Elle entend, à leur demande, des représentants des collectivités territoriales
+concernées, elle peut formuler toute proposition tendant à renforcer la coopération intercommunale. Elle est informée de tout
+projet de création d'établissement public de coopération intercommunale ou d'association de communes en vue de l'élaboration
+d'une charte intercommunale de développement et d'aménagement et peut formuler ses observations. Ses propositions et
+observations sont rendues publiques.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°77-90 1977-01-27
+
+	**Créé par**:
+
+	  - Loi n°92-125 du 6 février 1992 - art. 67 () JORF 8 février 1992
+
+	**Abrogé par**:
+
+	  - Loi n°96-142 du 21 février 1996 - art. 12 (V) JORF 24 février 1996
+
+	**Nouveaux textes**:
+
+	  - Code général des collectivités territoriales - art. L5211-16 (T)
+
+
 #### CHAPITRE 1 : Ententes et conférences intercommunales.
 
 ###### Article L161-1
@@ -8377,33 +8802,25 @@ Des décrets en Conseil d'Etat fixent, en tant que de besoin, les modalités d'a
 
 ###### Article L163-1
 
-Le syndicat de communes est un établissement public [*nature juridique*].
+Le syndicat de communes est un établissement public.
 
-Il peut être créé [*condition*] lorsque les conseils municipaux des deux tiers au moins des communes intéressées représentant
-plus de la moitié de la population totale de celles-ci, ou de la moitié des communes intéressées représentant plus des deux
-tiers de la population totale [*proportion*], ont fait connaître leur volonté d'associer les communes qu'ils représentent en
-vue d'oeuvres ou de services d'intérêt intercommunal.
+Il peut être créé lorsque les conseils municipaux des deux tiers au moins des communes intéressées représentant plus de la
+moitié de la population totale de celles-ci, ou de la moitié des communes intéressées représentant plus des deux tiers de la
+population totale, ont fait connaître leur volonté d'associer les communes qu'ils représentent en vue d'oeuvres ou de
+services d'intérêt intercommunal.
 
 Cette majorité doit nécessairement comprendre les conseils municipaux des communes dont la population totale est supérieure
 au quart de la population totale concernée.
 
 Sauf dans le cas où les conseils municipaux ont fait connaître, par des délibérations concordantes, leur volonté de créer un
-syndicat, le représentant de l'Etat dans le département [*commissaire de la République*] fixe, sur l'initiative d'un ou
-plusieurs conseils municipaux et après avis conforme du ou des conseils généraux, la liste des communes intéressées.
+syndicat, le représentant de l'Etat dans le département fixe, sur l'initiative d'un ou plusieurs conseils municipaux et après
+avis du ou des conseils généraux, la liste des communes intéressées.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Code de l'administration communale 141 remplacé
 
 	**Codifié par**:
 
 	  - Décret n°77-90 1977-01-27
-
-	**Modifié par**:
-
-	  - Loi n°82-213 du 2 mars 1982 - art. 21 (V) JORF 3 MARS 1982
 
 	**Cité par**:
 
@@ -8416,6 +8833,19 @@ plusieurs conseils municipaux et après avis conforme du ou des conseils génér
 	  - CODE DES COMMUNES. - art. R*121-27 (M)
 	  - CODE DES COMMUNES. - art. R323-127 (Ab)
 	  - Code forestier - art. L148-1 (VT)
+
+	**Modifié par**:
+
+	  - Loi n°92-125 du 6 février 1992 - art. 83 () JORF 8 février 1992
+
+	**Abrogé par**:
+
+	  - Loi n°96-142 du 21 février 1996 - art. 12 (V) JORF 24 février 1996
+
+	**Nouveaux textes**:
+
+	  - Code général des collectivités territoriales - art. L5212-1 (V)
+	  - Code général des collectivités territoriales - art. L5212-2 (M)
 
 
 ###### Article L163-2
@@ -8554,25 +8984,31 @@ municipal.
 ###### Article L163-6
 
 Les délégués du conseil municipal au comité du syndicat sont élus au scrutin secret à la majorité absolue ; si, après deux
-tours de scrutin, aucun candidat n'a obtenu la majorité absolue,
-
-il est procédé à un troisième tour et l'élection a lieu à la majorité relative. 
+tours de scrutin, aucun candidat n'a obtenu la majorité absolue, il est procédé à un troisième tour et l'élection a lieu à la
+majorité relative.
 
 En cas d'égalité des suffrages, le plus âgé est déclaré élu.
 
+Les désignations opérées en application du présent article, et dont l'irrégularité purement formelle n'a pas été invoquée
+dans le délai de recours pour excès de pouvoir, que ce soit par voie d'action ou par voie d'exception, sont validées.
+
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Code de l'administration communale 144 al. 1, fin
 
 	**Codifié par**:
 
 	  - Décret n°77-90 1977-01-27
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°77-90 1977-01-27 JORF et JONC 3 février 1977 date d'entrée en vigueur élection des maires
+	  - Loi n°92-125 du 6 février 1992 - art. 81 () JORF 8 février 1992
+
+	**Abrogé par**:
+
+	  - Loi n°96-142 du 21 février 1996 - art. 12 (V) JORF 24 février 1996
+
+	**Nouveaux textes**:
+
+	  - Code général des collectivités territoriales - art. L5212-8 (Ab)
 
 
 ###### Article L163-7
@@ -8722,19 +9158,14 @@ communes.
 
 ###### Article L163-12
 
-Le comité se réunit au moins une fois par trimestre [*périodicité*], ou, lorsque le syndicat a été formé en vue d'une seule
-oeuvre ou d'un seul service d'intérêt intercommunal, une fois par semestre. Le comité se réunit au siège du syndicat ou dans
-un lieu choisi par le comité dans l'une des communes membres. "
+Le comité se réunit au moins une fois par trimestre, ou, lorsque le syndicat a été formé en vue d'une seule oeuvre ou d'un
+seul service d'intérêt intercommunal, une fois par semestre. Le comité se réunit au siège du syndicat ou dans un lieu choisi
+par le comité dans l'une des communes membres.
 
-Le président est obligé de convoquer le comité, à la demande du tiers au moins des membres du comité.    Les règles relatives
-à l'élection et à la durée du mandat du président et des membres du bureau sont celles que fixent les articles L. 122-4 et L.
-122-9 pour le maire et les adjoints.
+Les règles relatives à l'élection et à la durée du mandat du président et des membres du bureau sont celles que fixent les
+articles L. 122-4 et L. 122-9 pour le maire et les adjoints.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Code de l'administration communale 14 modifié
 
 	**Cité par**:
 
@@ -8748,12 +9179,21 @@ Le président est obligé de convoquer le comité, à la demande du tiers au moi
 
 	**Modifié par**:
 
-	  - Loi n°88-13 du 5 janvier 1988 - art. 38 () JORF 6 janvier 1988
+	  - Loi n°92-125 1992-02-06 art. 36 II JORF 8 février 1992
+
+	**Abrogé par**:
+
+	  - Loi n°96-142 du 21 février 1996 - art. 12 (V) JORF 24 février 1996
 
 	**Cite**:
 
 	  - CODE DES COMMUNES. - art. L122-4 (M)
 	  - CODE DES COMMUNES. - art. L122-9 (M)
+
+	**Nouveaux textes**:
+
+	  - Code général des collectivités territoriales - art. L5211-2 (M)
+	  - Code général des collectivités territoriales - art. L5212-13 (Ab)
 
 
 ###### Article L163-13
@@ -9312,17 +9752,17 @@ le département après avis des conseils municipaux.
 
 ###### Article L164-1
 
-Le district [*définition*] est un établissement public groupant plusieurs communes.
+Le district est un établissement public groupant plusieurs communes.
 
-Il peut être créé, par l'autorité qualifiée [*compétence*], sur la demande des deux tiers au moins des conseils municipaux
-des communes intéressées représentant plus de la moitié de la population totale de celles-ci [*proportion*], ou de la moitié
-des conseils municipaux des communes comptant les deux tiers de la population [*condition*].
+Il peut être créé, par l'autorité qualifiée, sur la demande des deux tiers au moins des conseils municipaux des communes
+intéressées représentant plus de la moitié de la population totale de celles-ci, ou de la moitié des conseils municipaux des
+communes comptant les deux tiers de la population.
 
 Cette majorité doit nécessairement comprendre les conseils municipaux des communes dont la population totale est supérieure
 au quart de la population totale concernée.
 
 Sur l'initiative d'un ou plusieurs conseils municipaux demandant la création d'un district, l'autorité qualifiée fixe, après
-avis conforme du ou des conseils généraux, la liste des communes intéressées.
+avis du ou des conseils généraux, la liste des communes intéressées.
 
 La décision institutive détermine le siège du district.
 
@@ -9330,7 +9770,6 @@ La décision institutive détermine le siège du district.
 
 	**Anciens textes**:
 
-	  - Ordonnance 59-30 1959-01-05
 	  - Ordonnance n°59-30 du 5 janvier 1959 - art. 1 (Ab)
 
 	**Codifié par**:
@@ -9339,7 +9778,7 @@ La décision institutive détermine le siège du district.
 
 	**Modifié par**:
 
-	  - Loi n°82-213 du 2 mars 1982 - art. 21 (V) JORF 3 MARS 1982
+	  - Loi n°92-125 du 6 février 1992 - art. 83 () JORF 8 février 1992
 
 	**Cité par**:
 
@@ -9347,6 +9786,16 @@ La décision institutive détermine le siège du district.
 	  - Décret n°95-562 du 6 mai 1995 - art. 27 (Ab)
 	  - CODE DES COMMUNES. - art. R*121-27 (M)
 	  - CODE DES COMMUNES. - art. R*164-1 (Ab)
+
+	**Abrogé par**:
+
+	  - Loi n°96-142 du 21 février 1996 - art. 12 (V) JORF 24 février 1996
+
+	**Nouveaux textes**:
+
+	  - Code général des collectivités territoriales - art. L5213-1 (Ab)
+	  - Code général des collectivités territoriales - art. L5213-2 (Ab)
+	  - Code général des collectivités territoriales - art. L5213-4 (Ab)
 
 
 ###### Article L164-2
@@ -9664,8 +10113,9 @@ liquidé.
 
 ###### Article L165-1
 
-La communauté urbaine [*nature juridique*] est un établissement public administratif dont les attributions et les règles de
-fonctionnement sont fixées par les dispositions du présent code.
+La communauté urbaine est un établissement public de coopération intercommunale dont les attributions et les règles de
+fonctionnement sont identiques à celles des collectivités territoriales, sous réserve de dispositions spécifiques fixées au
+présent code. "
 
 **Liens relatifs à cet article**
 
@@ -9684,18 +10134,18 @@ fonctionnement sont fixées par les dispositions du présent code.
 
 	  - Décret n°77-90 1977-01-27
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°77-90 1977-01-27 JORF et JONC 3 février 1977 date d'entrée en vigueur élection des maires
+	  - Loi n°92-125 du 6 février 1992 - art. 72 ()
 
 	**Cité par**:
 
 	  - Décret n°95-562 du 6 mai 1995 - art. 27 (Ab)
 	  - CODE DES COMMUNES. - art. R*121-27 (M)
 
-	**Cite**:
+	**Abrogé par**:
 
-	  - Code des communes L165-1 à L165-37
+	  - Loi n°96-142 du 21 février 1996 - art. 12 (V)
 
 
 ###### Article L165-2
@@ -9782,38 +10232,22 @@ Les séances du comité du groupement sont publiques.
 
 ###### Article L165-4
 
-Une communauté urbaine peut être créée dans les agglomérations de plus de 50.000 habitants sur la demande des deux tiers au
-moins des conseils municipaux des communes intéressées représentant plus de la moitié de la population totale de celles-ci ou
-de la moitié des conseils municipaux des communes comptant les deux tiers de la population, par décret lorsque toutes les
-communes ont donné leur accord, par décret en Conseil d'Etat dans le cas contraire. La majorité requise par le présent alinéa
-doit nécessairement comprendre les conseils municipaux des communes dont la population totale est supérieure au quart de la
-population totale concernée.
+La communauté urbaine est un établissement public regroupant plusieurs communes d'une agglomération de plus de 20000
+habitants.
 
-En vue de la consultation des intéressés, le représentant de l'Etat dans le département après avis du conseil général,
-définit l'aire géographique dans laquelle la demande des conseils municipaux est prise en considération.
+Elle peut être créée par arrêté du représentant de l'Etat dans le département lorsque les communes font partie du même
+département ou par arrêté conjoint des représentants de l'Etat intéressés dans le cas contraire, sur la demande des deux
+tiers au moins des conseils municipaux des communes intéressées représentant plus de la moitié de la population totale de
+celles-ci ou de la moitié des conseils municipaux des communes comptant les deux tiers de la population. Cette majorité doit
+comprendre le conseil municipal de la commune dont la population est supérieure à la moitié de la population totale
+concernée.
 
-Ont été créées les communautés urbaines ci-après :
+Sur l'initiative d'un ou plusieurs conseils municipaux demandant la création d'une communauté urbaine, le ou les
+représentants de l'Etat fixent par arrêté la liste des communes intéressées.
 
-- Bordeaux, Lille, Lyon et Strasbourg : article 3 de la loi n° 66-1069 du 31 décembre 1966 relative aux communautés
-urbaines ;
-
-- Dunkerque : décret n° 68-910 du 21 octobre 1968 ;
-
-- Le Creusot - Montceau-les-Mines : décret n° 70-37 du 13 janvier 1970 ;
-
-- Cherbourg : décret du 2 octobre 1970 ;
-
-- Le Mans : décret n° 71-922 du 19 novembre 1971 ;
-
-- Brest : décret n° 73-508 du 24 mai 1973.
+La décision institutive détermine le siège de la communauté urbaine.
 
 **Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - SPEC_APPLI: *Dispositions non applicables aux communes des départements de la Guadeloupe, de la Guyane, de la Martinique, de la Réunion et de Saint-Pierre-et-Miquelon*
-	  - SPEC_APPLI: CODE DES COMMUNES. - art. L182-1 (Ab)
-	  - SPEC_APPLI: Code des communes L182-1, L182-2 :
 
 	**Anciens textes**:
 
@@ -9822,10 +10256,6 @@ urbaines ;
 	**Codifié par**:
 
 	  - Décret n°77-90 1977-01-27
-
-	**Modifié par**:
-
-	  - Loi n°82-213 du 2 mars 1982 - art. 21 (V) JORF 3 MARS 1982
 
 	**Cité par**:
 
@@ -9839,35 +10269,19 @@ urbaines ;
 	  - CODE DES COMMUNES. - art. L165-7 (Ab)
 	  - CODE DES COMMUNES. - art. L165-7-1 (Ab)
 
+	**Modifié par**:
 
-###### Article L165-5
-
-Aucune communauté ne peut être créée [*interdiction*] entre des communes faisant partie de départements différents.
-
-**Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - SPEC_APPLI: *Dispositions non applicables aux communes des départements de la Guadeloupe, de la Guyane, de la Martinique, de la Réunion et de Saint-Pierre-et-Miquelon*
-	  - SPEC_APPLI: CODE DES COMMUNES. - art. L182-1 (Ab)
-	  - SPEC_APPLI: Code des communes L182-1, L182-2 :
-
-	**Anciens textes**:
-
-	  - Loi n°66-1069 1966-12-31 art. 43 al. 1
-	  - Loi n°66-1069 du 31 décembre 1966 - art. 43 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°77-90 1977-01-27
-
-	**Créé par**:
-
-	  - Décret n°77-90 1977-01-27 JORF et JONC 3 février 1977 date d'entrée en vigueur élection des maires
+	  - Loi n°92-125 du 6 février 1992 - art. 84 (V) JORF 8 février 1992
 
 	**Abrogé par**:
 
-	  - Loi n°92-125 du 6 février 1992 - art. 84 (V)
+	  - Loi n°96-142 du 21 février 1996 - art. 12 (V) JORF 24 février 1996
+
+	**Nouveaux textes**:
+
+	  - Code général des collectivités territoriales - art. L5215-1 (M)
+	  - Code général des collectivités territoriales - art. L5215-2 (Ab)
+	  - Code général des collectivités territoriales - art. L5215-3 (Ab)
 
 
 ###### Article L165-6
@@ -9916,19 +10330,18 @@ Sont transférées à la communauté urbaine les compétences attribuées aux co
 d'urbanisme en tenant lieu, programmes locaux de l'habitat, constitution de réserves foncières intéressant la communauté, les
 conseils municipaux devant être saisis pour avis ;
 
-2° Création et équipement des zones d'habitation, des zones de rénovation urbaine, des zones de réhabilitation, des zones
-industrielles, des zones artisanales et des zones portuaires ;
+2° Création et réalisation de zones d'aménagement concerté ; actions de développement économique ; création et équipement de
+zones d'activité industrielle, tertiaire, artisanale, touristique, portuaire ou aéroportuaire ; actions de réhabilitation
+d'intérêt communautaire ;
 
 2° bis  Prise en considération d'un programme d'aménagement d'ensemble et détermination  de secteurs d'aménagement mentionnés
 à l'article L. 332-9 du code de l'urbanisme ;
 
 3° Construction, aménagement et entretien des locaux scolaires dans les zones et secteurs mentionnées au 2° et 2° bis et
-réalisés ou déterminés  par la communauté ;
-
-à l'expiration d'un délai de dix ans à dater de leur mise en service, la propriété et l'entretien de ces locaux sont
-transférés, sur sa demande, à la commune sur le territoire de laquelle ils sont situés ; en ce cas, les conditions de prise
-en charge des annuités d'emprunt afférentes à ces locaux sont déterminées par délibérations concordantes du conseil de
-communauté et du conseil municipal intéressé ;
+réalisés ou déterminés  par la communauté ; à l'expiration d'un délai de dix ans à dater de leur mise en service, la
+propriété et l'entretien de ces locaux sont transférés, sur sa demande, à la commune sur le territoire de laquelle ils sont
+situés ; en ce cas, les conditions de prise en charge des annuités d'emprunt afférentes à ces locaux sont déterminées par
+délibérations concordantes du conseil de communauté et du conseil municipal intéressé ;
 
 4° Services de secours et de lutte contre l'incendie ;
 
@@ -9945,6 +10358,9 @@ communauté et du conseil municipal intéressé ;
 10° Voirie et signalisation ;
 
 11° Parcs de stationnement.
+
+La communauté urbaine peut attribuer des fonds de concours aux communes membres afin de contribuer à la réalisation ou au
+fonctionnement d'équipements d'intérêt communautaire.
 
 Lors de la création de la communauté, les communes peuvent décider, dans les conditions de majorité prévues à l'article L.
 165-4, compétences de la communauté tout ou partie de celles relatives aux équipements ou opérations mentionnés aux 2°, 2°
@@ -9980,7 +10396,11 @@ transfert d'une ou de plusieurs compétences énumérées au présent article.
 
 	**Modifié par**:
 
-	  - Loi n°85-729 du 18 juillet 1985 - art. 28 () JORF 19 juillet 1985
+	  - Loi n°92-125 du 6 février 1992 - art. 87 () JORF 8 février 1992
+
+	**Abrogé par**:
+
+	  - Loi n°96-142 du 21 février 1996 - art. 12 (V) JORF 24 février 1996
 
 	**Cite**:
 
@@ -10095,8 +10515,9 @@ compétences.
 
 La communauté urbaine peut transférer, en tout ou partie, aux communes membres certaines de ses compétences.
 
-Les transferts de compétences mentionnés au présent article sont décidés par délibérations concordantes du conseil de
-communauté et de tous les conseils municipaux des communes membres.
+Les transferts de compétences mentionnés au présent article sont décidés par délibérations concordantes du conseil de la
+communauté urbaine et de la majorité qualifiée des conseils municipaux des communes membres définie au deuxième alinéa de
+l'article L. 165-4.
 
 Ces délibérations déterminent les conditions financières et patrimoniales du transfert de compétences ainsi que l'affectation
 des personnels.
@@ -10109,12 +10530,6 @@ L. 165-20.
 
 **Liens relatifs à cet article**
 
-	**Liens**:
-
-	  - SPEC_APPLI: *Dispositions non applicables aux communes des départements de la Guadeloupe, de la Guyane, de la Martinique, de la Réunion et de Saint-Pierre-et-Miquelon*
-	  - SPEC_APPLI: CODE DES COMMUNES. - art. L182-1 (Ab)
-	  - SPEC_APPLI: Code des communes L182-1, L182-2 :
-
 	**Anciens textes**:
 
 	  - Loi n°66-1069 du 31 décembre 1966 - art. 6 (Ab)
@@ -10122,10 +10537,6 @@ L. 165-20.
 	**Codifié par**:
 
 	  - Décret n°77-90 1977-01-27
-
-	**Modifié par**:
-
-	  - Loi n°82-1169 1982-12-31 ART. 58 JORF 1ER JANVIER 1983 date d'entrée en vigueur 13 MARS 1983
 
 	**Cité par**:
 
@@ -10136,9 +10547,19 @@ L. 165-20.
 	  - CODE DES COMMUNES. - art. R*255-13 (Ab)
 	  - CODE DES COMMUNES. - art. R*255-9 (Ab)
 
+	**Modifié par**:
+
+	  - Loi n°92-125 du 6 février 1992 - art. 85 () JORF 8 février 1992
+
+	**Abrogé par**:
+
+	  - Loi n°96-142 du 21 février 1996 - art. 12 (V) JORF 24 février 1996
+
 	**Cite**:
 
-	  - Code des communes L165-16 et L165-20
+	  - CODE DES COMMUNES. - art. L165-20 (Ab)
+	  - CODE DES COMMUNES. - art. L165-4 (M)
+	  - Code des communes L165-4, L165-20, L165-16 à L165-20
 
 	**Nouveaux textes**:
 
@@ -11063,42 +11484,43 @@ pourvu au remplacement dans le délai de deux mois.
 
 ###### Article L165-33
 
-Le bureau du conseil de communauté comprend un président et des vice-présidents. 
+Le bureau du conseil de communauté comprend un président et des vice-présidents.
 
-Le nombre de vice-présidents est de quatre au moins et de douze au plus. 
+Le nombre de vice-présidents est librement déterminé par le conseil de communauté, sans que ce nombre puisse excéder 30 p.
+100 de l'effectif légal du conseil.
 
-Les règles d'élection du président et des vice-présidents sont celles que prévoit l'article L. 122-4 [*élection du maire et
-des adjoints*]. 
+Le nombre de vice-présidents est de quatre au moins et de douze au plus.
 
-Le mandat des membres du bureau prend fin en même temps que celui des membres du conseil [*deux mois après celui des
-conseillers municipaux*].
+Les règles d'élection du président et des vice-présidents sont celles que prévoit l'article L. 122-4.
+
+Le mandat des membres du bureau prend fin en même temps que celui des membres du conseil.
 
 **Liens relatifs à cet article**
 
-	**Liens**:
-
-	  - SPEC_APPLI: *Dispositions non applicables aux communes des départements de la Guadeloupe, de la Guyane, de la Martinique, de la Réunion et de Saint-Pierre-et-Miquelon*
-	  - SPEC_APPLI: CODE DES COMMUNES. - art. L182-1 (Ab)
-	  - SPEC_APPLI: Code des communes L182-1, L182-2 :
-
 	**Anciens textes**:
 
-	  - Loi n°66-1069 1966-12-31 art. 16 al. 5, 6, 7
-	  - Loi n°66-1069 du 31 décembre 1966 - art. 6 (Ab)
-	  - Loi n°66-1069 du 31 décembre 1966 - art. 7 (Ab)
 	  - Loi n°66-1069 du 31 décembre 1966 - art. 16 (Ab)
 
 	**Codifié par**:
 
 	  - Décret n°77-90 1977-01-27
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°77-90 1977-01-27 JORF et JONC 3 février 1977 date d'entrée en vigueur élection des maires
+	  - Loi n°92-125 du 6 février 1992 - art. 79 () JORF 8 février 1992
+
+	**Abrogé par**:
+
+	  - Loi n°96-142 du 21 février 1996 - art. 12 (V) JORF 24 février 1996
 
 	**Cite**:
 
 	  - CODE DES COMMUNES. - art. L122-4 (M)
+
+	**Nouveaux textes**:
+
+	  - Code général des collectivités territoriales - art. L5211-2 (M)
+	  - Code général des collectivités territoriales - art. L5215-15 (Ab)
 
 
 ###### Article L165-34
@@ -11370,24 +11792,15 @@ commission.
 
 ###### Article L166-1
 
-Des syndicats mixtes peuvent être constitués [**]définition[**] par accord entre des institutions d'utilité commune
-interrégionales, des régions, des ententes ou des institutions interdépartementales, des départements, des communautés
-urbaines, des districts, des syndicats de communes, des communes, des chambres de commerce et d'industrie, d'agriculture, de
-métiers et autres établissements publics, en vue d'oeuvres ou de services présentant une utilité pour chacune de ces
-personnes morales.
+Des syndicats mixtes peuvent être constitués par accord entre des institutions d'utilité commune interrégionales, des
+régions, des ententes ou des institutions interdépartementales, des départements, des communautés de villes et des
+communautés de communes, des communautés urbaines, des districts, des syndicats de communes, des communes, des chambres de
+commerce et d'industrie, d'agriculture, de métiers et autres établissements publics, en vue d'oeuvres ou de services
+présentant une utilité pour chacune de ces personnes morales.
 
 Ces syndicats doivent comprendre au moins une collectivité territoriale ou un groupement de ces collectivités.
 
 **Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - TXT_ASSOCIE: Circulaire 1974-10-02
-	  - SPEC_APPLI: Loi n°86-16 du 6 janvier 1986 - art. 32 (V)
-
-	**Anciens textes**:
-
-	  - Code de l'administration communale 152 remplacé
 
 	**Codifié par**:
 
@@ -11410,19 +11823,27 @@ Ces syndicats doivent comprendre au moins une collectivité territoriale ou un g
 
 	**Modifié par**:
 
-	  - Loi n°86-16 du 6 janvier 1986 - art. 27 () JORF 8 janvier 1986
+	  - Loi n°92-125 du 6 février 1992 - art. 86 () JORF 8 février 1992
+
+	**Abrogé par**:
+
+	  - Loi n°96-142 du 21 février 1996 - art. 12 (V) JORF 24 février 1996
 
 	**Nouveaux textes**:
 
 	  - Code général des collectivités territoriales - art. L5721-2 (V)
+	  - Code général des collectivités territoriales - art. L5721-2 (M)
 
 
 ###### Article L166-2
 
-Le syndicat mixte [*définition*] est un établissement public. Sa création est autorisée par l'autorité qualifiée.
+Le syndicat mixte est un établissement public. Sa création est autorisée par l'autorité qualifiée.
 
 La décision d'autorisation approuve les modalités de fonctionnement du syndicat et détermine les conditions d'exercice du
 contrôle administratif, financier ou technique.
+
+Les désignations opérées en application du présent article, et dont l'irrégularité purement formelle n'a pas été invoquée
+dans le délai de recours pour excès de pouvoir, que ce soit par voie d'action ou par voie d'exception, sont validées.
 
 **Liens relatifs à cet article**
 
@@ -11432,11 +11853,20 @@ contrôle administratif, financier ou technique.
 
 	**Modifié par**:
 
-	  - Loi n°82-213 du 2 mars 1982 - art. 21 (V) JORF 3 MARS 1982
+	  - Loi n°92-125 du 6 février 1992 - art. 81 () JORF 8 février 1992
+
+	**Abrogé par**:
+
+	  - Loi n°96-142 du 21 février 1996 - art. 12 (V) JORF 24 février 1996
 
 	**Cité par**:
 
 	  - CODE DES COMMUNES. - art. R*166-1 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code général des collectivités territoriales - art. L5721-1 (V)
+	  - Code général des collectivités territoriales - art. L5721-2 (M)
 
 
 ###### Article L166-3
@@ -11533,6 +11963,701 @@ districts, restent soumis aux dispositions du chapitre III du présent titre [*c
 	**Cite**:
 
 	  - Code des communes L163-1 à L163-18
+
+
+#### CHAPITRE 7 : Communautés de communes
+
+###### Article L167-1
+
+La communauté de communes est un établissement public regroupant plusieurs communes.
+
+Elle est créée par arrêté du représentant de l'Etat dans le département lorsque les communes font partie du même département
+ou par arrêté conjoint des représentants de l'Etat intéressés dans le cas contraire, sur la demande des deux tiers au moins
+des conseils municipaux des communes intéressées représentant plus de la moitié de la population totale de celles-ci ou de la
+moitié au moins des conseils municipaux des communes comptant les deux tiers de la population. Cette majorité doit
+nécessairement comprendre les conseils municipaux des communes dont la population totale est supérieure au quart de la
+population totale concernée.
+
+Sur l'initiative d'un ou plusieurs conseils municipaux demandant la création d'une communauté de communes, le ou les
+représentants de l'Etat fixent par arrêté la liste des communes intéressées.
+
+La décision institutive détermine le siège de la communauté de communes.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°77-90 1977-01-27
+
+	**Créé par**:
+
+	  - Loi n°92-125 du 6 février 1992 - art. 71 () JORF 8 février 1992
+
+	**Cité par**:
+
+	  - Loi n°92-125 du 6 février 1992 - art. 69 (V)
+	  - Décret n°95-562 du 6 mai 1995 - art. 27 (Ab)
+	  - CODE DES COMMUNES. - art. L167-3 (Ab)
+	  - CODE DES COMMUNES. - art. R*121-27 (M)
+	  - CODE GENERAL DES IMPOTS, CGI. - art. 1648 B (M)
+
+	**Abrogé par**:
+
+	  - Loi n°96-142 du 21 février 1996 - art. 12 (V) JORF 24 février 1996
+
+	**Nouveaux textes**:
+
+	  - Code général des collectivités territoriales - art. L5214-1 (M)
+	  - Code général des collectivités territoriales - art. L5214-2 (Ab)
+	  - Code général des collectivités territoriales - art. L5214-3 (Ab)
+
+
+###### Article L167-2
+
+Les membres du conseil de la communauté de communes sont élus par les conseils municipaux des communes intéressées.
+
+" La répartition des sièges au sein du conseil est assurée en fonction de la population, chaque commune disposant au minimum
+d'un siège, aucune commune ne pouvant disposer de plus de la moitié des sièges.
+
+" Le nombre et le mode de répartition des sièges sont fixés par décision des deux tiers au moins des conseils municipaux des
+communes intéressées représentant plus des trois quarts de la population totale, cette majorité devant nécessairement
+comprendre les conseils municipaux des communes dont la population totale est supérieure au quart de la population totale
+concernée.
+
+" La décision institutive ou une décision modificative peut prévoir la désignation d'un ou plusieurs délégués suppléants,
+appelés à siéger au conseil avec voix délibérative en cas d'empêchement du ou des titulaires.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°77-90 1977-01-27
+
+	**Créé par**:
+
+	  - Loi n°92-125 du 6 février 1992 - art. 71 ()
+
+
+###### Article L167-3
+
+La communauté de communes a pour objet d'associer des communes au sein d'un espace de solidarité, en vue de l'élaboration
+d'un projet commun de développement et d'aménagement de l'espace en milieu rural. Elle exerce de plein droit aux lieu et
+place des communes membres, pour la conduite d'actions d'intérêt communautaire, des compétences relevant de chacun des deux
+groupes suivants :
+
+1° Aménagement de l'espace ;
+
+2° Actions de développement économique intéressant l'ensemble de la communauté.
+
+La communauté de communes doit par ailleurs exercer dans les mêmes conditions des compétences relevant d'au moins un des
+quatre groupes suivants :
+
+1° Protection et mise en valeur de l'environnement, le cas échéant dans le cadre de schémas départementaux ;
+
+2° Politique du logement et du cadre de vie ;
+
+3° Création, aménagement et entretien de la voirie ;
+
+4° Construction, entretien et fonctionnement d'équipements culturels et sportifs et d'équipements de l'enseignement
+préélémentaire et élémentaire ; dans les départements du Haut-Rhin, du Bas-Rhin et de la Moselle, construction et entretien
+des bâtiments affectés aux cultes dont les ministres sont salariés par l'Etat.
+
+La définition des compétences transférées au sein de chacun des groupes est fixée par la majorité qualifiée requise à
+l'article L. 167-1.
+
+Par ailleurs, à tout moment, les communes membres de la communauté de communes peuvent transférer, en tout ou partie, à cette
+dernière, certaines de leurs compétences et les équipements ou services publics utiles à l'exercice de celles-ci.
+
+Les transferts de compétences, d'équipements ou de services publics sont décidés par délibérations concordantes du conseil de
+communauté et de la majorité qualifiée des conseils municipaux des communes membres définie à l'article L. 167-1.
+
+L'acte institutif ou les délibérations ultérieures qui procèdent à des transferts de compétence déterminent les conditions
+financières et patrimoniales de ces transferts ainsi que l'affectation des personnels.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°77-90 1977-01-27
+
+	**Créé par**:
+
+	  - Loi n°92-125 du 6 février 1992 - art. 71 ()
+
+	**Cité par**:
+
+	  - Loi n°94-679 du 8 août 1994 - art. 71 (V)
+	  - CODE GENERAL DES IMPOTS, CGI. - art. 257 (M)
+
+	**Cite**:
+
+	  - CODE DES COMMUNES. - art. L167-1 (Ab)
+
+
+###### Article L167-3-1
+
+Les décisions du conseil de communauté dont les effets ne concernent qu'une seule des communes membres ne peuvent être prises
+qu'après avis du conseil municipal de cette commune. S'il n'a pas été rendu dans le délai de deux mois à compter de la
+transmission du projet de la communauté, l'avis est réputé favorable. Lorsque cet avis est défavorable, la décision doit être
+prise à la majorité des deux tiers des membres du conseil de communauté.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°77-90 1977-01-27
+
+	**Créé par**:
+
+	  - Loi n°92-125 du 6 février 1992 - art. 71 () JORF 8 février 1992
+
+	**Abrogé par**:
+
+	  - Loi n°96-142 du 21 février 1996 - art. 12 (V) JORF 24 février 1996
+
+	**Nouveaux textes**:
+
+	  - Code général des collectivités territoriales - art. L5214-20 (Ab)
+
+
+###### Article L167-4
+
+Lorsque des communes ont décidé de créer une communauté de communes et que ces mêmes communes, à l'exclusion de tout autre,
+étaient antérieurement associées dans un syndicat de communes ou un district, la communauté de communes ainsi créée est
+substituée de plein droit à ces syndicats de communes ou à ces districts.
+
+Les districts existants à la date de publication de la loi d'orientation n° 92-125 du 6 février 1992 relative à
+l'administration territoriale de la République peuvent se transformer en communauté de communes par décision du conseil de
+district prise à la majorité des deux tiers au moins de ses membres. La communauté de communes ainsi créée conserve
+l'intégralité des compétences antérieurement exercées par le district.
+
+Pour l'exercice de ses compétences, la communauté de communes est également substituée aux communes qui en font partie
+lorsque celles-ci sont groupées avec des communes extérieures à la communauté.
+
+Cette dernière disposition ne modifie pas les attributions des syndicats de communes ou des districts intéressés ; elle ne
+modifie pas non plus le périmètre dans lequel ces établissements publics exercent leur compétence.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°77-90 1977-01-27
+
+	**Cite**:
+
+	  - Loi n°92-125 1992-02-06
+
+	**Créé par**:
+
+	  - Loi n°92-125 du 6 février 1992 - art. 71 () JORF 8 février 1992
+
+	**Abrogé par**:
+
+	  - Loi n°96-142 du 21 février 1996 - art. 12 (V) JORF 24 février 1996
+
+	**Nouveaux textes**:
+
+	  - Code général des collectivités territoriales - art. L5213-25 (Ab)
+	  - Code général des collectivités territoriales - art. L5214-17 (Ab)
+	  - Code général des collectivités territoriales - art. L5214-21 (M)
+
+
+###### Article L167-5
+
+Les articles L. 163-4 (deuxième alinéa), L. 163-6 à L. 163-14, L. 163-15, L. 163-16, L. 163-17, L. 163-17-2 et L. 163-18 du
+présent code relatifs aux syndicats de communes sont applicables aux communautés de communes.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°77-90 1977-01-27
+
+	**Créé par**:
+
+	  - Loi n°92-125 du 6 février 1992 - art. 71 () JORF 8 février 1992
+
+	**Abrogé par**:
+
+	  - Loi n°96-142 du 21 février 1996 - art. 12 (V) JORF 24 février 1996
+
+	**Cite**:
+
+	  - CODE DES COMMUNES. - art. L163-15 (M)
+	  - CODE DES COMMUNES. - art. L163-16 (M)
+	  - CODE DES COMMUNES. - art. L163-17 (M)
+	  - CODE DES COMMUNES. - art. L163-17-2 (MMN)
+	  - CODE DES COMMUNES. - art. L163-18 (M)
+	  - CODE DES COMMUNES. - art. L163-4 (Ab)
+	  - Code des communes L163-4, L163-6 à L163-14, L163-15, L163-16, L163-17, L163-17-2, L163-18
+
+	**Nouveaux textes**:
+
+	  - Code général des collectivités territoriales - art. L5211-1 (M)
+	  - Code général des collectivités territoriales - art. L5211-2 (M)
+	  - Code général des collectivités territoriales - art. L5211-8 (M)
+	  - Code général des collectivités territoriales - art. L5214-10 (Ab)
+	  - Code général des collectivités territoriales - art. L5214-11 (Ab)
+	  - Code général des collectivités territoriales - art. L5214-12 (Ab)
+	  - Code général des collectivités territoriales - art. L5214-13 (Ab)
+	  - Code général des collectivités territoriales - art. L5214-14 (Ab)
+	  - Code général des collectivités territoriales - art. L5214-15 (Ab)
+	  - Code général des collectivités territoriales - art. L5214-16 (M)
+	  - Code général des collectivités territoriales - art. L5214-24 (Ab)
+	  - Code général des collectivités territoriales - art. L5214-25 (Ab)
+	  - Code général des collectivités territoriales - art. L5214-26 (M)
+	  - Code général des collectivités territoriales - art. L5214-27 (M)
+	  - Code général des collectivités territoriales - art. L5214-28 (M)
+	  - Code général des collectivités territoriales - art. L5214-29 (V)
+	  - Code général des collectivités territoriales - art. L5214-4 (V)
+	  - Code général des collectivités territoriales - art. L5214-8 (Ab)
+	  - Code général des collectivités territoriales - art. L5214-9 (Ab)
+
+
+###### Article L167-6
+
+Un décret en Conseil d'Etat fixe les conditions dans lesquelles peuvent être dévolues à une communauté de communes des
+compétences exercées antérieurement par un syndicat de communes ou un district, inclus en tout ou en partie dans le périmètre
+de la communauté ou englobant celle-ci.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°77-90 1977-01-27
+
+	**Créé par**:
+
+	  - Loi n°92-125 du 6 février 1992 - art. 71 () JORF 8 février 1992
+
+	**Abrogé par**:
+
+	  - Loi n°96-142 du 21 février 1996 - art. 12 (V) JORF 24 février 1996
+
+	**Nouveaux textes**:
+
+	  - Code général des collectivités territoriales - art. L5214-22 (V)
+	  - Code général des collectivités territoriales - art. L5214-22 (M)
+
+
+#### CHAPITRE 8 : Communautés de villes
+
+###### Article L168-1
+
+La communauté de villes est un établissement public regroupant plusieurs communes d'une agglomération de plus de 20000
+habitants.
+
+Elle est créée par arrêté du représentant de l'Etat dans le département lorsque les communes font partie du même département
+ou par arrêté conjoint des représentants de l'Etat intéressés dans le cas contraire, sur la demande des deux tiers au moins
+des conseils municipaux des communes intéressées représentant plus de la moitié de la population totale de celles-ci ou de la
+moitié des conseils municipaux des communes comptant les deux tiers de la population, cette majorité devant comprendre le
+conseil municipal de la commune dont la population est supérieure à la moitié de la population totale concernée.
+
+Sur l'initiative d'un ou plusieurs conseils municipaux demandant la création d'une communauté de villes, le ou les
+représentants de l'Etat fixent par arrêté la liste des communes intéressées.
+
+La décision institutive détermine le siège de la communauté de villes.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°77-90 1977-01-27
+
+	**Créé par**:
+
+	  - Loi n°92-125 du 6 février 1992 - art. 73 () JORF 8 février 1992
+
+	**Cité par**:
+
+	  - Loi n°92-125 du 6 février 1992 - art. 69 (V)
+	  - Loi n°92-125 du 6 février 1992 - art. 70 (V)
+	  - Décret n°95-562 du 6 mai 1995 - art. 27 (Ab)
+	  - CODE DES COMMUNES. - art. L168-4 (Ab)
+	  - CODE DES COMMUNES. - art. R*121-27 (M)
+	  - CODE GENERAL DES IMPOTS, CGI. - art. 1609 nonies C (M)
+
+	**Abrogé par**:
+
+	  - Loi n°96-142 du 21 février 1996 - art. 12 (V) JORF 24 février 1996
+
+	**Nouveaux textes**:
+
+	  - Code général des collectivités territoriales - art. L5216-1 (Ab)
+	  - Code général des collectivités territoriales - art. L5216-2 (Ab)
+	  - Code général des collectivités territoriales - art. L5216-3 (Ab)
+
+
+###### Article L168-2
+
+La communauté de villes est administrée par un conseil composé des délégués des communes.
+
+Le conseil règle par ses délibérations les affaires qui sont de la compétence de la communauté.
+
+La désignation des délégués de chaque commune au conseil de communauté est opérée au sein de chaque conseil municipal au
+scrutin uninominal à deux tours lorsque le nombre de délégués de la commune est inférieur à deux, et au scrutin de liste
+majoritaire dans le cas contraire. Les listes de candidats peuvent comporter moins de noms que de sièges à pourvoir.
+
+Toutefois, au cas où le nombre des conseillers municipaux est inférieur au nombre des sièges attribués à la commune, le
+conseil municipal peut désigner tout citoyen éligible au conseil municipal de la commune pour occuper les sièges qui ne
+peuvent être pourvus par des conseillers municipaux.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°77-90 1977-01-27
+
+	**Créé par**:
+
+	  - Loi n°92-125 du 6 février 1992 - art. 73 () JORF 8 février 1992
+
+	**Abrogé par**:
+
+	  - Loi n°96-142 du 21 février 1996 - art. 12 (V) JORF 24 février 1996
+
+	**Nouveaux textes**:
+
+	  - Code général des collectivités territoriales - art. L5216-15 (Ab)
+	  - Code général des collectivités territoriales - art. L5216-5 (Ab)
+	  - Code général des collectivités territoriales - art. L5216-7 (Ab)
+
+
+###### Article L168-3
+
+A défaut d'accord amiable entre les conseils municipaux intervenu dans un délai de trois mois à compter de leur
+renouvellement général ou de la publication de l'arrêté fixant le périmètre de la communauté, la répartition des sièges au
+sein du conseil de communauté est assurée en fonction de la population à la représentation proportionnelle à la plus forte
+moyenne. Dans ce cas, le nombre total des sièges à répartir est déterminé par application des dispositions du 1° de l'article
+L. 165-25 et est augmenté, après répartition, de façon à ce que chaque commune dispose au moins d'un siège et à ce qu'aucune
+ne dispose de plus de la moitié des sièges.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°77-90 1977-01-27
+
+	**Créé par**:
+
+	  - Loi n°92-125 du 6 février 1992 - art. 73 () JORF 8 février 1992
+
+	**Abrogé par**:
+
+	  - Loi n°96-142 du 21 février 1996 - art. 12 (V) JORF 24 février 1996
+
+	**Cite**:
+
+	  - CODE DES COMMUNES. - art. L165-25 (M)
+
+	**Nouveaux textes**:
+
+	  - Code général des collectivités territoriales - art. L5216-6 (Ab)
+	  - Code général des collectivités territoriales - art. L5216-16 (Ab)
+
+
+###### Article L168-4
+
+La communauté de villes a pour objet d'associer des communes au sein d'un périmètre de solidarité urbaine en vue du
+développement concerté de l'agglomération. A ce titre, elle exerce de plein droit aux lieu et place des communes membres,
+pour la conduite d'actions d'intérêt communautaire, les compétences ainsi que les règlements y afférents relevant de chacun
+des deux groupes suivants :
+
+1° Aménagement de l'espace : schéma directeur, schéma de secteur, charte intercommunale de développement et d'aménagement,
+élaboration des programmes locaux de l'habitat visés à l'article L. 302-1 du code de la construction et de l'habitation,
+création et réalisation de zones d'aménagement concerté ;
+
+2° Actions de développement économique, création et équipement des zones d'activité industrielle, tertiaire, artisanale,
+touristique, portuaire ou aéroportuaire.
+
+La communauté de villes doit par ailleurs exercer dans les mêmes conditions les compétences relevant d'au moins un des quatre
+groupes suivants :
+
+1° Protection et mise en valeur de l'environnement, politique du cadre de vie, lutte contre la pollution des eaux et de
+l'air, lutte contre le bruit, assainissement, collecte, traitement et élimination des déchets dans le cadre des schémas
+départementaux les concernant lorsqu'ils existent ;
+
+2° Politique du logement et actions de réhabilitation ;
+
+3° Création, aménagement et entretien de la voirie, plans de déplacements urbains et transports urbains ;
+
+4° Construction, entretien et fonctionnement d'équipements culturels et sportifs et d'équipements relevant de l'enseignement
+préélémentaire et élémentaire ; action et animation culturelles ; dans les départements du Haut-Rhin, du Bas-Rhin et de la
+Moselle, construction et entretien des bâtiments affectés aux cultes dont les ministres sont salariés par l'Etat.
+
+La définition des compétences transférées au sein de chacun des groupes est fixée par la majorité qualifiée requise à
+l'article L. 168-1.
+
+Par ailleurs, à tout moment, les communes membres de la communauté de villes peuvent transférer en tout ou partie, à cette
+dernière, certaines de leurs compétences et les équipements ou services publics utiles à l'exercice de celles-ci.
+
+Ces transferts de compétences, d'équipements ou de services publics sont décidés par délibérations concordantes du conseil de
+communauté et de la majorité qualifiée des conseils municipaux des communes membres définie au premier alinéa de l'article L.
+168-1.
+
+L'acte institutif ou les délibérations ultérieures qui procèdent à des transferts de compétences déterminent les conditions
+financières et patrimoniales de ces transferts, notamment en ce qui concerne les emprunts antérieurement contractés par les
+communes intéressées, ainsi que l'affectation des personnels.
+
+L'acte institutif ou des délibérations ultérieures déterminent en outre les règles de partage de compétences entre communes
+et communauté en matière d'acquisitions foncières par préemption, de réalisation d'opérations de logements ou d'activités
+économiques, de charge d'équipement de ces zones, de voirie.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°77-90 1977-01-27
+
+	**Créé par**:
+
+	  - Loi n°92-125 du 6 février 1992 - art. 73 () JORF 8 février 1992
+
+	**Cité par**:
+
+	  - Décret n°93-220 du 16 février 1993 - art. 2 (Ab)
+	  - CODE GENERAL DES IMPOTS, CGI. - art. 1609 quinquies A (M)
+
+	**Abrogé par**:
+
+	  - Loi n°96-142 du 21 février 1996 - art. 12 (V) JORF 24 février 1996
+
+	**Cite**:
+
+	  - CODE DES COMMUNES. - art. L168-1 (Ab)
+	  - Code de la construction et de l'habitation. - art. L302-1 (M)
+
+	**Nouveaux textes**:
+
+	  - Code général des collectivités territoriales - art. L5814-1 (M)
+	  - Code général des collectivités territoriales - art. L5816-1 (M)
+	  - Code général des collectivités territoriales L5816-16
+
+
+###### Article L168-4-1
+
+Les décisions du conseil de communauté, dont les effets ne concernent qu'une seule des communes membres, ne peuvent être
+prises qu'après avis du conseil municipal de cette commune. S'il n'a pas été rendu dans un délai de deux mois à compter de la
+transmission du projet de la communauté, l'avis est réputé favorable. Lorsque cet avis est défavorable, la décision doit être
+prise à la majorité des deux tiers des membres du conseil de communauté.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°77-90 1977-01-27
+
+	**Créé par**:
+
+	  - Loi n°92-125 du 6 février 1992 - art. 73 () JORF 8 février 1992
+
+	**Abrogé par**:
+
+	  - Loi n°96-142 du 21 février 1996 - art. 12 (V) JORF 24 février 1996
+
+	**Nouveaux textes**:
+
+	  - Code général des collectivités territoriales - art. L5216-14 (Ab)
+
+
+###### Article L168-5
+
+La communauté de villes est substituée de plein droit aux syndicats de communes ou districts prééxistants dont le périmètre
+est identique au sien.
+
+La communauté de villes est également substituée pour l'exercice de ses compétences aux communes qui en font partie lorsque
+celles-ci sont groupées avec des communes extérieures à la communauté.
+
+Cette disposition ne modifie pas les attributions des syndicats de communes ou des districts intéressés ; elle ne modifie pas
+non plus le périmètre dans lequel ces établissements publics exercent leur compétence.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°77-90 1977-01-27
+
+	**Créé par**:
+
+	  - Loi n°92-125 du 6 février 1992 - art. 73 () JORF 8 février 1992
+
+	**Abrogé par**:
+
+	  - Loi n°96-142 du 21 février 1996 - art. 12 (V) JORF 24 février 1996
+
+	**Cité par**:
+
+	  - CODE GENERAL DES IMPOTS, CGI. - art. 1609 nonies C (M)
+
+	**Nouveaux textes**:
+
+	  - Code général des collectivités territoriales - art. L5216-19 (Ab)
+
+
+###### Article L168-6
+
+Les dispositions des articles L. 165-2, L. 165-6, L. 165-19 à L. 165-23, L. 165-32 à L. 165-35 et L. 165-38 du présent code
+sont applicables aux communautés de villes.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°77-90 1977-01-27
+
+	**Créé par**:
+
+	  - Loi n°92-125 du 6 février 1992 - art. 73 () JORF 8 février 1992
+
+	**Abrogé par**:
+
+	  - Loi n°96-142 du 21 février 1996 - art. 12 (V) JORF 24 février 1996
+
+	**Nouveaux textes**:
+
+	  - Code général des collectivités territoriales - art. L5211-1 (M)
+	  - Code général des collectivités territoriales - art. L5211-2 (M)
+	  - Code général des collectivités territoriales - art. L5211-4 (M)
+	  - Code général des collectivités territoriales - art. L5216-10 (M)
+	  - Code général des collectivités territoriales - art. L5216-11 (Ab)
+	  - Code général des collectivités territoriales - art. L5216-12 (Ab)
+	  - Code général des collectivités territoriales - art. L5216-21 (Ab)
+	  - Code général des collectivités territoriales - art. L5216-22 (Ab)
+	  - Code général des collectivités territoriales - art. L5216-23 (Ab)
+	  - Code général des collectivités territoriales - art. L5216-24 (Ab)
+	  - Code général des collectivités territoriales - art. L5216-26 (Ab)
+	  - Code général des collectivités territoriales - art. L5216-27 (Ab)
+	  - Code général des collectivités territoriales - art. L5216-29 (Ab)
+	  - Code général des collectivités territoriales - art. L5216-4 (Ab)
+	  - Code général des collectivités territoriales - art. L5216-8 (Ab)
+	  - Code général des collectivités territoriales - art. L5216-9 (Ab)
+
+
+###### Article L168-7
+
+Les communautés urbaines et les districts regroupant une population de 20000 habitants et plus, existant à la date de
+publication de la loi d'orientation n° 92-125 du 6 février 1992 relative à l'administration territoriale de la République,
+peuvent se transformer en communauté de villes par décision du conseil de communauté ou du conseil de district prise à la
+majorité des deux tiers au moins de ses membres.
+
+La communauté de villes ainsi créée conserve l'intégralité des compétences antérieurement exercées par la communauté urbaine
+ou le district.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°77-90 1977-01-27
+
+	**Créé par**:
+
+	  - Loi n°92-125 du 6 février 1992 - art. 73 () JORF 8 février 1992
+
+	**Abrogé par**:
+
+	  - Loi n°96-142 du 21 février 1996 - art. 12 (V) JORF 24 février 1996
+
+	**Cité par**:
+
+	  - CODE GENERAL DES IMPOTS, CGI. - art. 1609 nonies C (M)
+
+	**Nouveaux textes**:
+
+	  - Code général des collectivités territoriales - art. L5213-26 (Ab)
+	  - Code général des collectivités territoriales - art. L5216-17 (Ab)
+
+
+###### Article L168-8
+
+Un décret en Conseil d'Etat fixe les conditions dans lesquelles peuvent être dévolues à une communauté de villes des
+compétences exercées antérieurement par un syndicat de communes, un district ou une communauté de communes inclus en tout ou
+en partie dans le périmètre de la communauté de villes ou englobant celle-ci.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°77-90 1977-01-27
+
+	**Créé par**:
+
+	  - Loi n°92-125 du 6 février 1992 - art. 73 () JORF 8 février 1992
+
+	**Abrogé par**:
+
+	  - Loi n°96-142 du 21 février 1996 - art. 12 (V) JORF 24 février 1996
+
+	**Nouveaux textes**:
+
+	  - Code général des collectivités territoriales - art. L5216-20 (Ab)
+
+
+#### CHAPITRE 9 : Dispositions communes
+
+###### Article L169-1
+
+Dans les établissements publics de coopération comprenant au moins une commune de 3500 habitants et plus, le dispositif des
+actes réglementaires pris par l'assemblée délibérante ou l'organe exécutif est transmis dans le mois, pour affichage, aux
+communes membres ou est publié dans un recueil des actes administratifs dans des conditions fixées par décret en Conseil
+d'Etat.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°77-90 1977-01-27
+
+	**Créé par**:
+
+	  - Loi n°92-125 du 6 février 1992 - art. 18 (Ab) JORF 8 février 1992
+
+	**Abrogé par**:
+
+	  - Loi n°96-142 du 21 février 1996 - art. 12 (V) JORF 24 février 1996
+
+	**Cité par**:
+
+	  - CODE DES COMMUNES. - art. R*169-1 (Ab)
+
+	**Cite**:
+
+	  - Code des communes L163-1 à L163-18
+
+	**Nouveaux textes**:
+
+	  - Code général des collectivités territoriales - art. L5211-17 (V)
+	  - Code général des collectivités territoriales - art. L5211-18 (V)
+	  - Code général des collectivités territoriales - art. L5211-19 (V)
+	  - Code général des collectivités territoriales - art. L5211-20 (V)
+	  - Code général des collectivités territoriales - art. L5211-17 (M)
+
+
+###### Article L169-2
+
+Les agents salariés d'un établissement public de coopération intercommunale ne peuvent être désignés par une des communes
+membres pour la représenter au sein de l'organe délibérant de cet établissement.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°77-90 1977-01-27
+
+	**Créé par**:
+
+	  - Loi n°92-125 du 6 février 1992 - art. 90 () JORF 8 février 1992 rectificatif JORF 12 mai 1992
+
+	**Abrogé par**:
+
+	  - Loi n°96-142 du 21 février 1996 - art. 12 (V) JORF 24 février 1996
+
+	**Cité par**:
+
+	  - Loi n°96-609 du 5 juillet 1996 - art. 25 (M)
+
+	**Nouveaux textes**:
+
+	  - Code général des collectivités territoriales - art. L5211-5 (M)
 
 
 ### TITRE 7 : Agglomérations nouvelles
@@ -12526,25 +13651,18 @@ les conditions d'application du présent titre [*relatif aux agglomérations nou
 
 Sont applicables à l'ensemble des communes des départements de la Moselle, du Bas-Rhin et du Haut-Rhin :
 
-1. Les dispositions des articles contenus dans les titres 1er à VII du présent livre [*nom, limites territoriales et
-population des communes, organes de la commune, police, stations classées, intérêts propres à certaines catégories
-d'habitants, intérêts communs à plusieurs communes, agglomérations nouvelles*], à l'exception de celles des articles L.
-121-1, L. 121-9 et L. 121-10, du deuxième alinéa de l'article L. 121-11, des articles L. 121-13 et L. 121-14, L. 121-16, L.
-121-19 et L. 121-20, L. 121-22, des premier, deuxième, troisième et quatrième alinéas de l'article L. 121-26, de l'article L.
-121-27, des 1°, 3° et 6° du premier alinéa de l'article L. 121-28 et du deuxième alinéa du même article, des articles L.
-121-29 et L. 121-30, L. 121-32 et L. 121-33, L. 121-35 et L. 121-36, du premier alinéa de l'article L. 121-39, des articles
-L. 122-1, L. 122-14, des 1° à 8° de l'article L. 122-19, des articles L. 122-22 et L. 122-23, L. 122-27 à L. 122-29, L.
-131-1, L. 131-2, L. 131-5 à L. 131-7, L. 131-9 à L. 131-11, L. 131-13, L. 132-2, L. 132-8, L. 151-1 à L. 151-14, L. 161-1 et
-L. 161-2, L. 162-1 et L. 162-3 ;
+1. Les dispositions des articles contenus dans les titres Ier à VII du présent livre, à l'exception de celles des articles L.
+121-1, L. 121-9 des I et II de l'article L. 121-10, du deuxième alinéa de l'article L. 121-11, des articles L. 121-13 et L.
+121-14, L. 121-16, L. 121-19 et L. 121-20, L. 121-22, des premier, deuxième, troisième et quatrième alinéas de l'article L.
+121-26, de l'article L. 121-27, des 1°, 3° et 6° du premier alinéa de l'article L. 121-28 et du deuxième alinéa du même
+article, des articles L. 121-29 et L. 121-30, L. 121-32 et L. 121-33, L. 121-35 et L. 121-36, du premier alinéa de l'article
+L. 121-39, des articles L. 122-1, L. 122-14, des 1° à 8° de l'article L. 122-19, des articles L. 122-22 et L. 122-23, L.
+122-27, L. 131-1, L. 131-2, L. 131-5 à L. 131-7, L. 131-9 à L. 131-11, L. 131-13, L. 132-2, L. 132-8, L. 151-1 à L. 151-14,
+L. 161-1 et L. 161-2, L. 162-1 et L. 162-3 ;
 
 2. Les dispositions des articles contenus dans les sections II à VI du présent chapitre.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°70-1297 1970-12-31 ART. 15 I PAR. 2
-	  - Loi n°1884-04-05
 
 	**Codifié par**:
 
@@ -12552,38 +13670,27 @@ L. 161-2, L. 162-1 et L. 162-3 ;
 
 	**Modifié par**:
 
-	  - Loi n°82-213 1982-03-02 ART. 17 II JORF 3 mars 1982 rectificatif JORF 6 mars 1982
+	  - Loi n°92-125 du 6 février 1992 - art. 30 (V) JORF 8 février 1992
 
-	**Cite**:
+	**Abrogé par**:
 
-	  - CODE DES COMMUNES. - art. L121-12 (M)
-	  - CODE DES COMMUNES. - art. L121-15 (M)
-	  - CODE DES COMMUNES. - art. L121-21 (M)
-	  - CODE DES COMMUNES. - art. L121-34 (M)
-	  - CODE DES COMMUNES. - art. L121-37 (Ab)
-	  - CODE DES COMMUNES. - art. L121-38 (Ab)
-	  - CODE DES COMMUNES. - art. L122-20 (M)
-	  - CODE DES COMMUNES. - art. L122-21 (M)
-	  - CODE DES COMMUNES. - art. L131-10 (Ab)
-	  - CODE DES COMMUNES. - art. L131-12 (Ab)
-	  - CODE DES COMMUNES. - art. L131-14 (M)
-	  - CODE DES COMMUNES. - art. L131-3 (M)
-	  - CODE DES COMMUNES. - art. L131-4 (M)
-	  - CODE DES COMMUNES. - art. L131-6 (M)
-	  - CODE DES COMMUNES. - art. L131-8 (Ab)
-	  - CODE DES COMMUNES. - art. L132-1 (M)
-	  - CODE DES COMMUNES. - art. L161-3 (Ab)
-	  - CODE DES COMMUNES. - art. L162-2 (M)
-	  - Code des communes L111-1 A L113-4, L121-2 A L121-8, L121-11 AL. 1, L121-12, L121-15, L121-21, L121-23 A L121-25, L121-34, L121-37, L121-38, L122-2 A L122-13, L122-15 A L122-18, L122-20, L122-21, L122-24 A L122-26, L123-2 A L124-8, L131-3, L131-4, L13
+	  - Loi n°96-142 du 21 février 1996 - art. 12 (V) JORF 24 février 1996
 
 	**Liens**:
 
 	  - SPEC_APPLI: CODE DES COMMUNES. - art. L131-2 (M)
-	  - TXT_ASSOCIE: CODE DES COMMUNES. - art. L181-2 (Ab)
 
 	**Cité par**:
 
 	  - CODE DES COMMUNES. - art. L181-2 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code général des collectivités territoriales - art. L2541-1 (M)
+	  - Code général des collectivités territoriales - art. L2542-1 (M)
+	  - Code général des collectivités territoriales - art. L2544-1 (V)
+	  - Code général des collectivités territoriales - art. L5815-1 (V)
+	  - Code général des collectivités territoriales - art. L5816-1 (M)
 
 
 ###### Article L181-2
@@ -15343,31 +16450,60 @@ interministériel.
 	  - CODE DES COMMUNES. - art. R*211-1 (M)
 
 
-#### CHAPITRE 2 : Vote et règlement.
+###### Article L211-4
 
-###### Article L212-1
+Pour les communes et pour les établissements publics administratifs qui remplissent les conditions fixées par décret en
+Conseil d'Etat, des dotations budgétaires affectées aux dépenses d'investissement peuvent comprendre des autorisations de
+programme et des crédits de paiement.
 
-Le budget de la commune [*procédure*] est proposé par le maire et voté par le conseil municipal [*attributions*].
+Les autorisations de programme constituent la limite supérieure des dépenses qui peuvent être engagées pour le financement
+des investissements. Elles demeurent valables, sans limitation de durée, jusqu'à ce qu'il soit procédé à leur annulation.
+Elles peuvent être révisées.
+
+Les crédits de paiement constituent la limite supérieure des dépenses pouvant être mandatées pendant l'année pour la
+couverture des engagements contractés dans le cadre des autorisations de programme correspondantes.
+
+L'équilibre budgétaire de la section d'investissement s'apprécie en tenant compte des seuls crédits de paiement.
 
 **Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - SPEC_APPLI: *Dispositions non applicables aux départements de la Moselle, du Bas-Rhin et du Haut-Rhin (Alsace-Lorraine)*
-	  - SPEC_APPLI: Code des communes L261-1 :
-	  - TXT_ASSOCIE: Code des communes R212-1
-
-	**Anciens textes**:
-
-	  - Code de l'administration communale 174 remplacé
 
 	**Codifié par**:
 
 	  - Décret n°77-90 1977-01-27
 
-	**Modifié par**:
+	**Créé par**:
 
-	  - Loi n°82-213 du 2 mars 1982 - art. 21 (V) JORF 3 MARS 1982
+	  - Loi n°92-125 du 6 février 1992 - art. 50 () JORF 8 février 1992
+
+	**Abrogé par**:
+
+	  - Loi n°96-142 du 21 février 1996 - art. 12 (V) JORF 24 février 1996
+
+	**Cité par**:
+
+	  - Loi n°96-609 du 5 juillet 1996 - art. 25 (M)
+
+	**Nouveaux textes**:
+
+	  - Code général des collectivités territoriales - art. L2311-3 (V)
+	  - Code général des collectivités territoriales - art. L2311-3 (M)
+
+
+#### CHAPITRE 2 : Vote et règlement.
+
+###### Article L212-1
+
+Le budget de la commune est proposé par le maire et voté par le conseil municipal.
+
+Dans les communes de 3500 habitants et plus, un débat a lieu au conseil municipal sur les orientations générales du budget,
+dans un délai de deux mois précédant l'examen de celui-ci et dans les conditions fixées par le règlement intérieur prévu à
+l'article L. 121-10-1.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°77-90 1977-01-27
 
 	**Cité par**:
 
@@ -15377,9 +16513,22 @@ Le budget de la commune [*procédure*] est proposé par le maire et voté par le
 	  - CODE DES COMMUNES. - art. L261-1 (Ab)
 	  - Décret n°80-918 du 13 novembre 1980 - art. 17–1 (V)
 
+	**Modifié par**:
+
+	  - Loi n°92-125 du 6 février 1992 - art. 11 () JORF 8 février 1992
+
+	**Abrogé par**:
+
+	  - Loi n°96-142 du 21 février 1996 - art. 12 (V) JORF 24 février 1996
+
+	**Cite**:
+
+	  - CODE DES COMMUNES. - art. L121-10-1 (Ab)
+
 	**Nouveaux textes**:
 
 	  - Code général des collectivités territoriales - art. L2312-1 (V)
+	  - Code général des collectivités territoriales - art. L2312-1 (M)
 
 
 ###### Article L212-2
@@ -15439,23 +16588,56 @@ l'article 14 de la loi n° 75-678 du 29 juillet 1975.
 
 ###### Article L212-14
 
-Les budgets de la commune restent déposés à la mairie où ils sont tenus à la disposition du public [*publicité*].
+Les budgets de la commune restent déposés à la mairie et, le cas échéant, à la mairie annexe où ils sont mis sur place à la
+disposition du public dans les quinze jours qui suivent leur adoption ou éventuellement leur notification après règlement par
+le représentant de l'Etat dans le département.
+
+" Le public est avisé de la mise à disposition de ces documents par tout moyen de publicité au choix du maire.
+
+Dans les communes de 3 500 habitants et plus, les documents budgétaires, sans préjudice des dispositions de l'article L.
+241-6, sont assortis en annexe :
+
+" 1° De données synthétiques sur la situation financière de la commune ;
+
+" 2° De la liste des concours attribués par la commune aux associations sous forme de prestations en nature et de
+subventions ;
+
+" 3° De la présentation consolidée des résultats afférents au dernier exercice connu du budget principal et des budgets
+annexes de la commune. Cette mesure prend effet à compter de la production du compte administratif afférent à l'année 1992 ;
+
+" 4° Des tableaux de synthèse des comptes administratifs afférents au dernier exercice connu des organismes de coopération
+intercommunale dont est membre la commune ;
+
+" 5° Du bilan certifié conforme du dernier exercice connu des organismes dans lesquels la commune détient une part du capital
+ou au bénéfice desquels la commune a garanti un emprunt ou versé une subvention supérieure à 500 000 F ou représentant plus
+de 50 p. 100 du budget de l'organisme ;
+
+" 6° D'un tableau retraçant l'encours des emprunts garantis par la commune ainsi que l'échéancier de leur amortissement.
+
+" Dans ces mêmes communes de 3 500 habitants et plus, les documents visés au 1° font l'objet d'une insertion dans une
+publication locale diffusée dans la commune.
+
+" Un décret en Conseil d'Etat fixe les conditions d'application du présent article. "
 
 **Liens relatifs à cet article**
 
 	**Liens**:
 
-	  - SPEC_APPLI: *Dispositions non applicables aux départements de la Moselle,
+	  - SPEC_APPLI: *Dispositions non applicables aux départements de la Moselle, du Bas-Rhin et du Haut-Rhin (Alsace-Lorraine)*
+	  - SPEC_APPLI: Loi n°92-125 1992-02-06 art. 15
 	  - SPEC_APPLI: Code des communes L261-1 :
-	  - SPEC_APPLI: du Bas-Rhin et du Haut-Rhin (Alsace-Lorraine)*
+
+	**Cite**:
+
+	  - CODE DES COMMUNES annexe, L241-6
 
 	**Codifié par**:
 
 	  - Décret n°77-90 1977-01-27
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°77-90 1977-01-27 JORF et JONC 3 février 1977 date d'entrée en vigueur élection des maires
+	  - Loi n°92-125 du 6 février 1992 - art. 13 ()
 
 	**Cité par**:
 
@@ -18456,25 +19638,29 @@ délibération du conseil municipal et sur un tarif voté par cette assemblée,
 
 ###### Article L233-58
 
-En dehors de la région d'Ile-de-France [*région parisienne*], les personnes physiques ou morales, publiques ou privées, à
-l'exception des fondations et associations reconnues d'utilité publique à but non lucratif dont l'activité est de caractère
-social, peuvent être assujetties à un versement destiné au financement des transports en commun lorsqu'elles emploient plus
-de neuf salariés [*nombre*]:
+En dehors de la région d'Ile-de-France, les personnes physiques ou morales, publiques ou privées, à l'exception des
+fondations et associations reconnues d'utilité publique à but non lucratif dont l'activité est de caractère social, peuvent
+être assujetties à un versement destiné au financement des transports en commun lorsqu'elles emploient plus de neuf
+salariés :
 
-- dans une commune ou une communauté urbaine dont la population est supérieure à 30.000 habitants ;
+- dans une commune ou une communauté urbaine dont la population est supérieure à 20.000 habitants ;
 
-- ou dans le ressort d'un district ou d'un syndicat de communes compétent pour l'organisation des transports urbains, lorsque
-la population de l'ensemble des communes faisant partie de ces établissements publics atteint le seuil indiqué.
+- ou dans le ressort d'un groupement de communes compétent pour l'organisation des transports urbains, lorsque la population
+de l'ensemble des communes membres du groupement atteint le seuil indiqué.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°73-640 du 11 juillet 1973 - art. 1 (V)
 
 	**Codifié par**:
 
 	  - Décret n°77-90 1977-01-27
+
+	**Modifié par**:
+
+	  - Loi n°92-125 du 6 février 1992 - art. 108 () JORF 8 février 1992
+
+	**Abrogé par**:
+
+	  - Loi n°96-142 du 21 février 1996 - art. 12 (V) JORF 24 février 1996
 
 	**Cité par**:
 
@@ -18485,14 +19671,10 @@ la population de l'ensemble des communes faisant partie de ces établissements p
 	  - CODE DES COMMUNES. - art. R233-87 (Ab)
 	  - CODE DES COMMUNES. - art. R262-2 (M)
 
-	**Liens**:
-
-	  - TXT_ASSOCIE: CODE DES COMMUNES. - art. L233-69 (Ab)
-	  - TXT_ASSOCIE: CODE DES COMMUNES. - art. R233-86 (Ab)
-
 	**Nouveaux textes**:
 
 	  - Code général des collectivités territoriales - art. L2333-64 (V)
+	  - Code général des collectivités territoriales - art. L2333-64 (M)
 
 
 ###### Article L233-59
@@ -18569,16 +19751,24 @@ Le versement est institué par délibération du conseil municipal ou de l'organ
 
 ###### Article L233-61
 
-Le taux du versement est fixé ou modifié par délibération du conseil municipal ou de l'organisme compétent de l'établissement
-public [*communauté urbaine, district ou syndicat de communes*] dans la limite de 1 p. 100 [*pourcentage*] des salaires
-[*calculés conformément aux législations de la sécurité sociale*] définis à l'article L. 233-59.
+Le taux de versement est fixé ou modifié par délibération du conseil municipal ou de l'organisme compétent de l'établissement
+public dans la limite de :
 
-Cette limite peut être portée à 1,75 p. 100 si la commune ou l'établissement public a décidé de réaliser une infrastructure
-de transport collectif et obtenu une subvention de l'Etat pour l'investissement correspondant.
+" - 0,55 p. 100 des salaires définis à l'article L. 233-59 lorsque la population de la commune ou de l'établissement public
+est comprise entre 20 000 et 100 000 habitants ;
 
-Toutefois, pour les communes dont la population est comprise entre 30.000 et 100.000 habitants et pour les établissements
-publics, lorsque la population de l'ensemble des communes en faisant partie est comprise dans les mêmes limites, le taux du
-versement-transport ne peut dépasser 0,5 p. 100 des salaires définis à l'article L. 233-59.
+" - 1,05 p. 100 des salaires définis à l'article L. 233-59 lorsque la population de la commune ou de l'établissement public
+est supérieure à 100 000 habitants ;
+
+" - 1,80 p. 100 des salaires définis à l'article L. 233-59 lorsque la population de la commune ou de l'établissement public
+est supérieure à 100 000 habitants et que l'autorité organisatrice a décidé de réaliser une infrastructure de transport
+collectif et obtenu une subvention de l'Etat pour l'investissement correspondant.
+
+" Toutefois, les communautés de communes et communautés de villes ont la faculté de majorer de 0,05 p. 100 les taux maxima
+mentionnés aux alinéas précédents.
+
+" Cette faculté est également ouverte aux communautés urbaines et aux autorités organisatrices de transports urbains
+auxquelles ont adhéré une communauté urbaine, une communauté de villes ou une communauté de communes. "
 
 **Liens relatifs à cet article**
 
@@ -18592,7 +19782,7 @@ versement-transport ne peut dépasser 0,5 p. 100 des salaires définis à l'arti
 
 	**Modifié par**:
 
-	  - Loi n°88-1193 du 29 décembre 1988 - art. 46 ()
+	  - Loi n°92-125 du 6 février 1992 - art. 109 ()
 
 	**Cite**:
 
@@ -22224,6 +23414,31 @@ Le maire peut seul émettre des mandats.
 	  - Code général des collectivités territoriales - art. L2342-1 (V)
 
 
+###### Article L241-3 bis
+
+Le maire tient la comptabilité de l'engagement des dépenses dans les conditions fixées par arrêté conjoint du ministre de
+l'intérieur et du ministre chargé du budget pris après consultation du comité des finances locales.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°77-90 1977-01-27
+
+	**Créé par**:
+
+	  - Loi n°92-125 du 6 février 1992 - art. 51 () JORF 8 février 1992
+
+	**Abrogé par**:
+
+	  - Loi n°96-142 du 21 février 1996 - art. 12 (V) JORF 24 février 1996
+
+	**Nouveaux textes**:
+
+	  - Code général des collectivités territoriales - art. L2342-2 (V)
+	  - Code général des collectivités territoriales - art. L2342-3 (V)
+
+
 ##### SECTION 3 : Comptabilité du comptable.
 
 ###### Article L241-4
@@ -22820,6 +24035,9 @@ la décision en est prise par délibération du conseil de district statuant à 
 
 Cette décision demeure applicable tant qu'elle n'a pas été rapportée dans les mêmes conditions.
 
+Le district qui perçoit les impôts mentionnés au 1° du a de l'article L. 231-5 ne peut percevoir concurremment les
+contributions des communes associées mentionnées au 1° de l'article L. 251-3.
+
 **Liens relatifs à cet article**
 
 	**Codifié par**:
@@ -22828,11 +24046,12 @@ Cette décision demeure applicable tant qu'elle n'a pas été rapportée dans le
 
 	**Modifié par**:
 
-	  - Loi n°84-1208 du 29 décembre 1984 - art. 97 () JORF 30 décembre 1984
+	  - Loi n°92-125 du 6 février 1992 - art. 107 () JORF 8 février 1992
 
 	**Cite**:
 
 	  - CODE DES COMMUNES. - art. L231-5 (M)
+	  - CODE DES COMMUNES. - art. L251-3 (M)
 
 	**Liens**:
 
@@ -22841,6 +24060,34 @@ Cette décision demeure applicable tant qu'elle n'a pas été rapportée dans le
 	**Cité par**:
 
 	  - CODE DES COMMUNES. - art. R252-3 (Ab)
+
+
+###### Article L252-3-1
+
+Les recettes du budget du district peuvent comprendre, le cas échéant, le produit des impôts mentionnés à l'article 1609
+nonies C ou à l'article 1609 quinquies C du code général des impôts.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 1609 quinquies C, 1609 nonies C
+
+	**Codifié par**:
+
+	  - Décret n°77-90 1977-01-27
+
+	**Créé par**:
+
+	  - Loi n°92-125 du 6 février 1992 - art. 101 () JORF 8 février 1992
+
+	**Abrogé par**:
+
+	  - Loi n°96-142 du 21 février 1996 - art. 12 (V) JORF 24 février 1996
+
+	**Nouveaux textes**:
+
+	  - Code général des collectivités territoriales - art. L5213-17 (Ab)
 
 
 ###### Article L252-4
@@ -22981,7 +24228,8 @@ ci-après.
 
 Les recettes du budget de la communauté urbaine comprennent :
 
-1. Le produit des impôts directs mentionnés aux A-1. de l'article L. 231-5 (1) ;
+1. Le produit des impôts directs mentionnés aux A-1. de l'article L. 231-5 et, le cas échéant, aux articles 1609 quinquies C
+ou 1609 nonies C du code général des impôts ;
 
 2. Le produit de la taxe d'enlèvement des ordures ménagères, de la redevance d'enlèvement des ordures ménagères sur les
 terrains de camping ou de la redevance pour enlèvement des ordures, déchets et résidus (1) ;
@@ -23014,20 +24262,15 @@ compétences transférées ;
 
 14. Le produit des dons et legs ;
 
-15. Le produit des emprunts.
-
-16. Le produit des participations aux dépenses d'équipement publics à la charge des bénéficiaires d'autorisations de
-construire en vertu des dispositions de l'article L. 332-9  du code de l'urbanisme.
-
-17. La participation à la diversité de l'habitat prévue à l'article L. 332-17 du code de l'urbanisme.
-
-(1) Voir également l'article 1609 bis du code général des impôts.
+15. Le produit des emprunts.    16. Le produit des participations aux dépenses d'équipement publics à la charge des
+bénéficiaires d'autorisations de construire en vertu des dispositions de l'article L. 332-9  du code de l'urbanisme.    17.
+La participation à la diversité de l'habitat prévue à l'article L. 332-17 du code de l'urbanisme.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - CGI 1609 bis
+	  - CGI 1609 quinquies C, 1609 nonies C
 	  - Loi n°57-908 1957-08-07 art. 26
 	  - CODE DES COMMUNES. - art. L231-5 (M)
 	  - Code de la santé publique - art. L34 (M)
@@ -23040,11 +24283,6 @@ construire en vertu des dispositions de l'article L. 332-9  du code de l'urbanis
 	  - Code de l'urbanisme - art. L332-9 (M)
 	  - Loi n°64-1245 1964-12-12 art. 12, art. 18
 
-	**Liens**:
-
-	  - SPEC_APPLI: DISPOSITIONS NON APPLICABLES AUX COMMUNES DES DEPARTEMENTS DE LA GUADELOUPE, DE LA GUYANE, DE LA MARTINIQUE, DE LA REUNION ET DE SAINT-PIERRE-ET-MIQUELON
-	  - SPEC_APPLI: Code des communes L262-1 :
-
 	**Anciens textes**:
 
 	  - Loi n°66-1069 du 31 décembre 1966 - art. 29 (Ab)
@@ -23055,7 +24293,12 @@ construire en vertu des dispositions de l'article L. 332-9  du code de l'urbanis
 
 	**Modifié par**:
 
-	  - Loi - art. 17 ()
+	  - Loi n°92-125 du 6 février 1992 - art. 100 ()
+
+	**Liens**:
+
+	  - SPEC_APPLI: Code des communes L262-1 :
+	  - SPEC_APPLI: DISPOSITIONS NON APPLICABLES AUX COMMUNES DES DEPARTEMENTS DE LA GUADELOUPE, DE LA GUYANE, DE LA MARTINIQUE, DE LA REUNION ET DE SAINT-PIERRE-ET-MIQUELON
 
 	**Nouveaux textes**:
 
@@ -24081,6 +25324,138 @@ urbain, syndicat communautaire d'aménagement et communautaire*].
 	  - Code des communes L257-1 à L257-4
 
 
+#### CHAPITRE 8 : Dispositions applicables à la communauté de communes.
+
+###### Article L258-1
+
+Les dispositions des titres Ier à V du présent livre sont applicables à la communauté de communes sous réserve des
+dispositions ci-après.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°77-90 1977-01-27
+
+	**Créé par**:
+
+	  - Loi n°92-125 du 6 février 1992 - art. 101 () JORF 8 février 1992
+
+	**Abrogé par**:
+
+	  - Loi n°96-142 du 21 février 1996 - art. 12 (V) JORF 24 février 1996
+
+	**Nouveaux textes**:
+
+	  - Code général des collectivités territoriales - art. L5211-26 (T)
+
+
+###### Article L258-2
+
+Les recettes du budget de la communauté de communes comprennent :
+
+1° Les ressources énumérées aux 2° à 5° de l'article L. 251-3 ;
+
+2° Le produit des taxes, redevances et contributions correspondant aux services assurés ;
+
+3° Les ressources fiscales mentionnées à l'article 1609 quinquies C ou, le cas échéant, à l'article 1609 nonies C du code
+général des impôts ;
+
+4° Le produit des emprunts ;
+
+5° Le produit du versement destiné au transport en commun prévu à l'article L. 233-58, lorsque la communauté est compétente
+pour l'organisation des transports urbains.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 1609 nonies C
+	  - CODE DES COMMUNES. - art. L251-3 (M)
+
+	**Codifié par**:
+
+	  - Décret n°77-90 1977-01-27
+
+	**Créé par**:
+
+	  - Loi n°92-125 du 6 février 1992 - art. 101 () JORF 8 février 1992
+
+	**Abrogé par**:
+
+	  - Loi n°96-142 du 21 février 1996 - art. 12 (V) JORF 24 février 1996
+
+	**Nouveaux textes**:
+
+	  - Code général des collectivités territoriales - art. L5214-23 (V)
+
+
+#### CHAPITRE 9 : Dispositions applicables à la communauté de villes
+
+###### Article L259-1
+
+Les dispositions des titres Ier à V du présent livre sont applicables à la communauté de villes sous réserve des dispositions
+ci-après.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°77-90 1977-01-27
+
+	**Créé par**:
+
+	  - Loi n°92-125 du 6 février 1992 - art. 101 () JORF 8 février 1992
+
+	**Abrogé par**:
+
+	  - Loi n°96-142 du 21 février 1996 - art. 12 (V) JORF 24 février 1996
+
+	**Nouveaux textes**:
+
+	  - Code général des collectivités territoriales - art. L5211-26 (T)
+
+
+###### Article L259-2
+
+Les recettes du budget de la communauté de villes comprennent :
+
+1° Les ressources énumérées aux 2° à 5° de l'article L. 251-3 ;
+
+2° Le produit des taxes, redevances et contributions correspondant aux services assurés ;
+
+3° Les ressources fiscales mentionnées aux articles 1609 nonies C et 1609 nonies D du code général des impôts ;
+
+4° Le produit des emprunts ;
+
+5° Le produit du versement destiné au transport en commun prévu à l'article L. 233-58 lorsque la communauté est compétente
+pour l'organisation des transports urbains.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 1609 nonies C, 1609 nonies D
+	  - CODE DES COMMUNES. - art. L233-58 (M)
+	  - CODE DES COMMUNES. - art. L251-3 (M)
+
+	**Codifié par**:
+
+	  - Décret n°77-90 1977-01-27
+
+	**Créé par**:
+
+	  - Loi n°92-125 du 6 février 1992 - art. 101 () JORF 8 février 1992
+
+	**Abrogé par**:
+
+	  - Loi n°96-142 du 21 février 1996 - art. 12 (V) JORF 24 février 1996
+
+	**Nouveaux textes**:
+
+	  - Code général des collectivités territoriales - art. L5216-25 (Ab)
+
+
 ### TITRE 6 : Dispositions particulières
 
 #### CHAPITRE 1 : Dispositions applicables aux communes des départements de la Moselle, du Bas-Rhin et du Haut-Rhin
@@ -24092,9 +25467,9 @@ urbain, syndicat communautaire d'aménagement et communautaire*].
 Sont applicables à l'ensemble des communes des départements de la Moselle, du Bas-Rhin et du Haut-Rhin :
 
 1. Les dispositions des articles contenus dans les titres Ier à V du présent livre, à l'exception de celles des articles L.
-212-1, L. 212-14 ; des 1°, 2°, 4°, 6°, 14° à 16°, 19° et 26° de l'article L. 221-2 ; L. 221-7 ; du 7° de l'article L. 231-3 ;
-du 4° (en ce qui concerne les droits de place perçus dans les halles, foires et marchés) du B) de l'article L. 231-5 ; des 4°
-et 9° de l'article L. 231-6 ; L. 232-2 ; L. 241-1, L. 241-3 et L. 241-4 ;
+212-1 ; des 1°, 2°, 4°, 6°, 14° à 16°, 19° et 26° de l'article L. 221-2 ; L. 221-7 ; du 7° de l'article L. 231-3 ; du 4° (en
+ce qui concerne les droits de place perçus dans les halles, foires et marchés) du B) de l'article L. 231-5 ; des 4° et 9° de
+l'article L. 231-6 ; L. 232-2 ; L. 241-1, L. 241-3 et L. 241-4 ;
 
 2. Les dispositions des articles contenus dans les sections II à V du présent chapitre.
 
@@ -24106,12 +25481,15 @@ et 9° de l'article L. 231-6 ; L. 232-2 ; L. 241-1, L. 241-3 et L. 241-4 ;
 
 	**Modifié par**:
 
-	  - Loi n°82-213 1982-03-02 art. 17 XX JORF 3 mars 1982
+	  - Loi n°92-125 du 6 février 1992 - art. 13 () JORF 8 février 1992
+
+	**Abrogé par**:
+
+	  - Loi n°96-142 du 21 février 1996 - art. 12 (V) JORF 24 février 1996
 
 	**Cite**:
 
 	  - CODE DES COMMUNES. - art. L212-1 (M)
-	  - CODE DES COMMUNES. - art. L212-14 (M)
 	  - CODE DES COMMUNES. - art. L221-2 (M)
 	  - CODE DES COMMUNES. - art. L221-7 (M)
 	  - CODE DES COMMUNES. - art. L231-3 (Ab)
@@ -24131,7 +25509,9 @@ et 9° de l'article L. 231-6 ; L. 232-2 ; L. 241-1, L. 241-3 et L. 241-4 ;
 
 ###### Article L261-3
 
-Le budget communal est préparé par le maire [*attributions*] et voté par le conseil municipal.
+Le budget communal est préparé par le maire [*attributions*] et voté par le conseil municipal.    Dans les communes de 3 500
+habitants et plus, un débat a lieu au conseil municipal sur les orientations générales du budget, dans un délai de deux mois
+précédant l'examen de celui-ci et dans les conditions fixées par le règlement intérieur prévu à l'article L. 121-10-1. "
 
 **Liens relatifs à cet article**
 
@@ -24143,13 +25523,25 @@ Le budget communal est préparé par le maire [*attributions*] et voté par le c
 
 	  - Loi n°1895-06-06 ART. 64
 
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°92-125 1992-02-06 art. 15
+
 	**Modifié par**:
 
-	  - Loi n°82-213 1982-03-02 ART. 17 II JORF 3 MARS 1982
+	  - Loi n°92-125 du 6 février 1992 - art. 11 ()
 
 	**Cité par**:
 
 	  - Loi n°92-125 du 6 février 1992 - art. 15 (Ab)
+
+	**Abrogé par**:
+
+	  - Loi n°96-142 du 21 février 1996 - art. 12 (V)
+
+	**Cite**:
+
+	  - CODE DES COMMUNES. - art. L121-10-1 (Ab)
 
 
 ##### SECTION 3 : Dépenses.
@@ -27774,6 +29166,91 @@ Il peut déléguer l'exercice de cette compétence au maire dans les conditions 
 	  - Code général des collectivités territoriales - art. L1421-11 (Ab)
 
 
+#### CHAPITRE 8 : Dispositions diverses
+
+###### Article L318-1
+
+Certains services municipaux peuvent être mis à la disposition de la population dans des annexes mobiles de la mairie.
+
+Toutefois, aucune opération d'état civil impliquant le déplacement des registres d'état civil ne peut être réalisée dans ces
+annexes mobiles.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°77-240 1977-03-07
+
+	**Créé par**:
+
+	  - Loi n°92-125 du 6 février 1992 - art. 27 () JORF 8 février 1992
+
+	**Abrogé par**:
+
+	  - Loi n°96-142 du 21 février 1996 - art. 12 (V) JORF 24 février 1996
+
+	**Nouveaux textes**:
+
+	  - Code général des collectivités territoriales - art. L2143-1 (T)
+
+
+###### Article L318-2
+
+Des locaux communaux peuvent être utilisés par les associations, syndicats ou partis politiques qui en font la demande.
+
+Le maire détermine les conditions dans lesquelles ces locaux peuvent être utilisés, compte tenu des nécessités de
+l'administration des propriétés communales, du fonctionnement des services et du maintien de l'ordre public.
+
+Le conseil municipal fixe, en tant que de besoin, la contribution due à raison de cette utilisation.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°77-240 1977-03-07
+
+	**Créé par**:
+
+	  - Loi n°92-125 du 6 février 1992 - art. 27 () JORF 8 février 1992
+
+	**Abrogé par**:
+
+	  - Loi n°96-142 du 21 février 1996 - art. 12 (V) JORF 24 février 1996
+
+	**Nouveaux textes**:
+
+	  - Code général des collectivités territoriales - art. L2143-3 (T)
+
+
+###### Article L318-3
+
+Dans les communes de plus de 3 500 habitants, les conseillers n'appartenant pas à la majorité municipale qui en font la
+demande peuvent disposer sans frais du prêt d'un local commun. Un décret d'application déterminera les modalités de cette
+mise à disposition.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°77-240 1977-03-07
+
+	**Créé par**:
+
+	  - Loi n°92-125 du 6 février 1992 - art. 27 () JORF 8 février 1992
+
+	**Abrogé par**:
+
+	  - Loi n°96-142 du 21 février 1996 - art. 12 (V) JORF 24 février 1996
+
+	**Cité par**:
+
+	  - CODE DES COMMUNES. - art. R318-1 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code général des collectivités territoriales - art. L2121-27 (V)
+
+
 ### TITRE 2 : Services communaux
 
 #### CHAPITRE 1 : Dispositions générales applicables aux services communaux.
@@ -27941,7 +29418,82 @@ des charges et de règlements prévus à l'article L. 321-1.
 	  - Code général des collectivités territoriales - art. L1231-3 (Ab)
 
 
+###### Article L321-6
+
+Dans les communes de 3 500 habitants et plus, les documents relatifs à l'exploitation des services publics délégués, qui
+doivent être remis à la commune en application de conventions de délégation de service public, à l'exception de ceux
+mentionnés à l'article 6 de la loi n° 78-753 du 17 juillet 1978 portant diverses mesures d'amélioration des relations entre
+l'administration et le public et diverses dispositions d'ordre administratif, social et fiscal, sont mis à la disposition du
+public sur place à la mairie et, le cas échéant, à la mairie annexe, dans les quinze jours qui suivent leur réception. Le
+public est avisé par le maire de cette réception par voie d'affiche apposée en mairie et aux lieux habituels d'affichage
+pendant au moins un mois.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°77-240 1977-03-07
+
+	**Cite**:
+
+	  - Loi n°78-753 du 17 juillet 1978 - art. 6 (M)
+
+	**Créé par**:
+
+	  - Loi n°92-125 du 6 février 1992 - art. 14 () JORF 8 février 1992
+
+	**Cité par**:
+
+	  - Loi n°92-125 du 6 février 1992 - art. 15 (Ab)
+	  - Loi n°96-609 du 5 juillet 1996 - art. 25 (M)
+	  - CODE DES COMMUNES. - art. L371-2 (Ab)
+	  - Loi n°1871-08-10. du 10 août 1871 - art. 67 (Ab)
+
+	**Abrogé par**:
+
+	  - Loi n°96-142 du 21 février 1996 - art. 12 (V) JORF 24 février 1996
+
+	**Nouveaux textes**:
+
+	  - Code général des collectivités territoriales - art. L1411-13 (V)
+	  - Code général des collectivités territoriales - art. L1411-13 (M)
+
+
 #### CHAPITRE 2 : Dispositions communes aux régies, aux concessions et aux affermages.
+
+###### Article L322-2
+
+Il est créé une commission consultative compétente pour un ou plusieurs services publics locaux exploités en régie ou dans le
+cadre d'une convention de gestion déléguée. Elle doit comprendre parmi ses membres des représentants d'associations d'usagers
+du ou des services concernés. Elle est présidée par le maire ou le président de l'établissement public de coopération
+intercommunale compétent. Cette obligation ne s'applique qu'aux services des communes de plus de 3 500 habitants et aux
+établissements publics de coopération comprenant au moins une commune de 3 500 habitants et plus.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°77-240 1977-03-07
+
+	**Modifié par**:
+
+	  - Loi n°92-125 du 6 février 1992 - art. 26 (V) JORF 8 février 1992
+
+	**Cité par**:
+
+	  - Loi n°92-125 du 6 février 1992 - art. 26 (V)
+	  - CODE DES COMMUNES. - art. L322-3 (Ab)
+	  - CODE DES COMMUNES. - art. L324-12 (Ab)
+
+	**Abrogé par**:
+
+	  - Loi n°96-142 du 21 février 1996 - art. 12 (V) JORF 24 février 1996
+
+	**Nouveaux textes**:
+
+	  - Code général des collectivités territoriales - art. L2143-4 (Ab)
+	  - Code général des collectivités territoriales - art. L5211-6 (M)
+
 
 ###### Article L322-4
 
@@ -31636,7 +33188,10 @@ législation particulière à la matière.
 
 Conformément aux dispositions du 2 de l'article 8 et des article 23 et 36 de la loi n° 46-628 du 8 avril 1946 sur la
 nationalisation de l'électricité et du gaz, les communes et les syndicats de commune peuvent, dans les conditions qui y sont
-fixées, continuer à intervenir dans la production et la distribution du gaz.
+fixées, continuer à intervenir dans la production et la distribution du gaz.    " Les services publics locaux de distribution
+du gaz en cours d'exploitation au 1er juillet 1991 peuvent poursuivre de plein droit leur activité dans les limites
+territoriales que celle-ci couvrait à cette date, nonobstant toutes dispositions contraires, notamment celles de la loi n°
+46-628 du 8 avril 1946 sur la nationalisation de l'électricité et du gaz. "
 
 **Liens relatifs à cet article**
 
@@ -31647,15 +33202,19 @@ fixées, continuer à intervenir dans la production et la distribution du gaz.
 
 	**Cite**:
 
-	  - Loi n°46-628 1946-04-08 art. 8 2. et ART. 23 et 26
+	  - Loi n°46-628 1946-04-08 art. 8 2. et ART. 23 et 36
 
 	**Codifié par**:
 
 	  - Décret n°77-240 1977-03-07
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°77-240 1977-03-07 JORF et JONC 18 mars 1977
+	  - Loi n°92-125 1992-02-06 art. 88 jorf 8 février 1992
+
+	**Abrogé par**:
+
+	  - Loi n°96-142 du 21 février 1996 - art. 12 (V)
 
 
 ###### Article L374-3
@@ -34294,6 +35853,78 @@ arrêté du maire dans les limites fixées par décret.
 ## Administration et services communaux
 
 ### Administration de la commune
+
+#### Marchés.
+
+###### Article L314-1
+
+Aux conventions de marché des communes et des établissements publics communaux ou intercommunaux transmises par application
+du II de l'article 2 de la loi n° 82-213 du 2 mars 1982 relative aux droits et libertés des communes, des départements et des
+régions, au représentant de l'Etat dans le département ou à son délégué dans l'arrondissement, dans un délai de quinze jours
+à compter de leur signature, l'autorité territoriale joint l'ensemble des pièces dont la liste est fixée par décret en
+Conseil d'Etat.
+
+" Elle certifie, par une mention apposée sur le marché notifié au titulaire, que celui-ci a bien été transmis en précisant la
+date de cette transmission.
+
+" Elle informe, dans un délai de quinze jours, le représentant de l'Etat dans le département ou son délégué dans
+l'arrondissement de la date de notification de ce marché. "
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Loi n°72-619 du 5 juillet 1972 - art. 7 (Ab)
+	  - Loi n°82-213 du 2 mars 1982 - art. 45 (Ab)
+	  - Loi n°90-1247 du 29 décembre 1990 - art. 3 (Ab)
+	  - Loi n°96-609 du 5 juillet 1996 - art. 25 (M)
+	  - CODE DES COMMUNES. - art. L323-11 (M)
+
+	**Codifié par**:
+
+	  - Décret n°77-240 1977-03-07
+
+	**Cite**:
+
+	  - Loi n°82-213 1982-03-02 art. 2
+
+	**Modifié par**:
+
+	  - Loi n°92-125 du 6 février 1992 - art. 43 ()
+
+	**Nouveaux textes**:
+
+	  - Code général des collectivités territoriales - art. L1411-9 (V)
+
+
+### Services communaux
+
+#### Dispositions communes, aux régies, aux concessions et aux affermages.
+
+###### Article L322-3
+
+Les conventions de délégation de services publics locaux qui doivent être passées par les communes et leurs établissements
+publics sont, à compter du 1er janvier 1993 et en application des directives communautaires qui les concernent, soumises à
+une obligation de publicité préalable dans des conditions prévues par décret en Conseil d'Etat. "
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°77-240 1977-03-07
+
+	**Modifié par**:
+
+	  - Loi n°92-125 du 6 février 1992 - art. 52 ()
+
+	**Abrogé par**:
+
+	  - Loi n°93-122 du 29 janvier 1993 - art. 39 (VT)
+
+	**Cité par**:
+
+	  - CODE DES COMMUNES. - art. R*322-2 (Ab)
+
 
 ## LIVRE 4 : Personnel communal
 
@@ -79840,6 +81471,60 @@ services insalubres visés à l'article 416-1 (3°) du présent code.
 	**Modifié par**:
 
 	  - Décret n°87-594 du 22 juillet 1987 - art. 1 () JORF 31 juillet 1987
+
+
+###### Article R411-46
+
+Sont pris en compte pour l'attribution de la médaille d'honneur régionale, départementale et communale :
+
+- les services accomplis dans les mandats électifs des régions, des départements et des communes ;
+
+- les services accomplis en qualité de membre d'un comité économique et social ;
+
+- les services accomplis en qualité d'agent des régions, des départements, des communes et de leurs établissements publics
+ainsi que des offices publics d'habitation à loyer modéré et des caisses de crédit municipal ;
+
+- les services accomplis dans les préfectures antérieurement à la date de la convention de partage prévue par les articles 26
+et 73 de la loi n° 82-213 du 2 mars 1982 ou dans les services communs jusqu'à la date d'intervention de l'avenant à la
+convention prévue à l'article 22 de la loi n° 85-1098 du 11 octobre 1985 ;
+
+- les services accomplis dans les services déconcentrés de l'Etat antérieurement à la date à laquelle ils ont fait l'objet
+d'un partage en application de la loi n° 83-8 du 7 janvier 1983.
+
+Pour le calcul de l'ancienneté prévue à l'article précédent, n'est comptabilisée qu'une seule fois la durée des services
+rendus concomitamment à plusieurs des titres définis au présent article.
+
+**Nota:**
+
+Loi 92-125 1992-02-06 art. 3 : Dans tous les textes législatifs et réglementaires, la référence à : 
+
+" services extérieurs " est remplaçée par celle à : 
+
+" services déconcentrés ".
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°45-1197 1945-06-07 ART. 3 BIS
+
+	**Cite**:
+
+	  - Décret n°50-1128 1950-09-14
+	  - Loi n°82-213 1982-03-02 art. 26, art. 73 Loi 85-1098 1985-10-11 art. 22 Loi 83-8 1983-01-07
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Modifié par**:
+
+	  - Décret n°87-594 du 22 juillet 1987 - art. 1 () JORF 31 juillet 1987
+	  - Loi n°92-125 du 6 février 1992 - art. 3 (V)
+
+	**Cité par**:
+
+	  - CODE DES COMMUNES. - art. R411-48 (V)
 
 
 ###### Article R411-47
