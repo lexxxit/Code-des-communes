@@ -1,5 +1,5 @@
 # Code des communes  
-Version Consolidée au 1986-02-28
+Version Consolidée au 1986-03-14
 
 # Statuts types d'une caisse communale de secours et de retraite de sapeurs-pompiers
 
@@ -76558,6 +76558,48 @@ ministre de l'intérieur et du ou des ministres intéressés[*autorité compéte
 	  - TXT_ASSOCIE: CODE DES COMMUNES. - art. R381-2 (M)
 
 
+###### Article R381-2
+
+Par dérogation à l'article précédent et sous réserve que les statuts de la société soient conformes aux statuts types
+approuvés par décret en Conseil d'Etat, sont approuvées par le préfet les délibérations portant participation financière :
+
+1° A des sociétés qui ont pour objet la construction d'immeubles à usage d'habitation n'excédant pas les normes de surface et
+de prix exigées pour l'octroi des primes à la construction instituées par l'article 257 du code de l'urbanisme et de
+l'habitation ;
+
+2° A des sociétés concessionnaires de services publics communaux à caractère industriel et commercial lorsque le contrat de
+concession est soumis à l'approbation du préfet.
+
+3° A des sociétés d'économie mixte sportives locales constituées en application de l'article 11 de la loi n° 84-610 du 16
+juillet 1984 relative à l'organisation et à la promotion des activités physiques et sportives.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code de l'urbanisme et de l'habitation 257
+	  - Loi n°84-610 du 16 juillet 1984 - art. 11 (M)
+	  - CODE DES COMMUNES. - art. R381-1 (Ab)
+	  - Code de la construction et de l'habitation R311-1 AL. 2 et AL. 3, R324-1
+
+	**Codifié par**:
+
+	  - Décret n°77-241 1977-03-07
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Décret n°78-45 1978-01-06 et annexe *statuts types des sociétés d'économie mixte sportives locales*
+	  - TXT_ASSOCIE: CODE DES COMMUNES. - art. R381-1 (Ab)
+
+	**Modifié par**:
+
+	  - Décret n°86-408 1986-03-11 art. 2 JORF 14 mars 1986
+
+	**Abrogé par**:
+
+	  - Décret n°2000-318 du 7 avril 2000 - art. 4 (V)
+
+
 ###### Article R381-3
 
 Les syndicats de communes, les syndicats mixtes, les districts et les communautés urbaines jouissent des mêmes facultés que
@@ -83604,44 +83646,6 @@ de la poudre de tan ou du charbon pulvérisé.
 	**Abrogé par**:
 
 	  - Décret n°87-28 1987-01-14 art. 32 JORF 18 janvier 1987
-
-
-### PARTICIPATION A DES  ENTREPRISES PRIVEES .
-
-#### Dispositions générales .
-
-###### Article R381-2
-
-Par dérogation à l'article précédent et sous réserve que les statuts de la société soient conformes aux statuts types
-approuvés par décret en Conseil d'Etat, sont approuvées par le préfet les délibérations portant participation financière :
-
-1° A des sociétés qui ont pour objet la construction d'immeubles à usage d'habitation n'excédant pas les normes de surface et
-de prix exigées pour l'octroi des primes à la construction instituées par l'article 257 du code de l'urbanisme et de
-l'habitation ;
-
-2° A des sociétés concessionnaires de services publics communaux à caractère industriel et commercial lorsque le contrat de
-concession est soumis à l'approbation du préfet.
-
-3° A des sociétés d'économie mixte sportives, constituées en application de l'article 9 de la loi n° 75-988 du 29 octobre
-1975 relatives au développement de l'éducation physique et du sport.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Code de l'urbanisme et de l'habitation 257
-	  - Loi n°75-988 1975-10-29
-	  - CODE DES COMMUNES. - art. R381-1 (Ab)
-	  - Code de la construction et de l'habitation R311-1 AL. 2 et AL. 3, R324-1
-
-	**Codifié par**:
-
-	  - Décret n°77-241 1977-03-07
-
-	**Liens**:
-
-	  - TXT_ASSOCIE: Décret n°78-45 1978-01-06 et annexe *statuts types des sociétés d'économie mixte sportives locales*
-	  - TXT_ASSOCIE: CODE DES COMMUNES. - art. R381-1 (Ab)
 
 
 ## LIVRE 16 : Administration et services communaux
