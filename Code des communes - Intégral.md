@@ -1,5 +1,5 @@
 # Code des communes  
-Version Consolidée au 1981-10-27
+Version Consolidée au 1981-12-19
 
 # ORGANISATION COMMUNALE
 
@@ -76309,6 +76309,29 @@ les postes sont pourvus par un tirage au sort sur la liste des sapeurs-pompiers 
 	  - CODE DES COMMUNES. - art. R352-15 (M)
 
 
+###### Article R352-15
+
+Les élections prévues à l'article précédent ont lieu au scrutin secret et à la majorité absolue des suffrages exprimés.
+
+Au deuxième tour, qui a lieu dans les huit jours, la majorité relative suffit.
+
+Il est procédé en même temps et dans les mêmes conditions à l'élection de deux délégués suppléants par titulaire.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°77-241 1977-03-07
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°89-229 du 17 avril 1989 - art. 47 (V)
+
+	**Abrogé par**:
+
+	  - Décret n°99-1039 du 10 décembre 1999 - art. 72 ()
+
+
 ###### Article R352-17
 
 Le conseil d'administration ne peut délibérer valablement que si les trois quarts au moins de ses membres ou de leurs
@@ -76674,6 +76697,31 @@ Les officiers du corps auquel appartient l'officier déféré au conseil d'enqu�
 	**Cité par**:
 
 	  - CODE DES COMMUNES. - art. R352-44 (Ab)
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°89-677-1989-09-18 art. 36
+
+	**Abrogé par**:
+
+	  - Décret n°99-1039 du 10 décembre 1999 - art. 72 ()
+
+
+###### Article R352-36
+
+Lorsque l'officier déféré au conseil d'enquête paritaire est soit un chef de corps, soit un chef de bataillon, un lieutenant-
+colonel ou un colonel, le conseil est constitué par un arrêté du ministre de l'intérieur et comprend[*composition*] :
+
+Trois officiers de sapeurs-pompiers ayant au moins le même grade que l'intéressé et tirés au sort sur une liste de douze noms
+établie par le ministre ;
+
+Trois membres du conseil municipal désignés par le maire.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°77-241 1977-03-07
 
 	**Liens**:
 
@@ -77052,6 +77100,32 @@ exceptionnels.
 	**Créé par**:
 
 	  - Décret n°77-241 1977-03-07 JORF et JONC 18 Mars 1977
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°90-850 1990-09-25 art. 25
+
+	**Abrogé par**:
+
+	  - Décret n°99-1039 du 10 décembre 1999 - art. 72 ()
+
+
+###### Article R*352-52
+
+La médaille avec rosette peut être décernée à tout sapeur-pompier qui s'est particulièrement distingué dans l'exercice de ses
+fonctions.
+
+Elle comporte deux échelons :
+
+La médaille d'argent ;
+
+La médaille de vermeil qui peut être décernée aux titulaires de la médaille d'argent avec rosette depuis cinq ans au moins.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°77-241 1977-03-07
 
 	**Liens**:
 
@@ -81721,6 +81795,54 @@ Les autres sous-officiers [*autres que les sous-officiers chefs de corps*] et le
 	  - Décret n°99-1039 du 10 décembre 1999 - art. 72 ()
 
 
+###### Article R354-6
+
+Les sous-officiers, caporaux et sapeurs sont recrutés par engagement volontaire.
+
+Constaté par écrit, l'engagement est souscrit pour une durée de cinq ans et renouvelable.
+
+Des engagements de deux mois au moins, renouvelables chaque année, peuvent être souscrits lors de l'accroissement saisonnier
+des risques.
+
+Un arrêté du ministre de l'intérieur fixe pour les différentes missions les qualifications professionnelles nécessaires.
+
+Ils comportent soumission à toutes les obligations résultant des lois, décrets et arrêtés ainsi que du règlement de service
+prévu à l'article R. 352-22.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°77-241 1977-03-07
+
+	**Cité par**:
+
+	  - Arrêté du 14 mai 1991 - art. 1 (Ab)
+	  - Arrêté du 6 avril 1998 - art. 1 (V)
+	  - Décret n°99-709 du 3 août 1999 - art. 1 (M)
+
+	**Liens**:
+
+	  - TXT_SOURCE: Arrêté du 6 avril 1998
+	  - TXT_SOURCE: Arrêté du 6 avril 1998 - art. 1 (V)
+	  - TXT_SOURCE: Arrêté du 6 avril 1998 - art. 2 (M)
+	  - TXT_SOURCE: Arrêté du 6 avril 1998 - art. 3 (Ab)
+	  - TXT_SOURCE: Arrêté du 6 avril 1998 - art. 4 (V)
+	  - TXT_SOURCE: Arrêté du 6 avril 1998 - art. 5 (V)
+	  - TXT_SOURCE: Arrêté du 6 avril 1998 - art. 6 (V)
+	  - TXT_SOURCE: Arrêté du 6 avril 1998 - art. 7 (V)
+	  - TXT_SOURCE: Arrêté du 6 avril 1998 - art. 8 (V)
+	  - TXT_SOURCE: Arrêté du 6 avril 1998 - art. ANNEXE (V)
+
+	**Abrogé par**:
+
+	  - Décret n°99-1039 du 10 décembre 1999 - art. 72 ()
+
+	**Cite**:
+
+	  - CODE DES COMMUNES. - art. R352-22 (M)
+
+
 ###### Article R354-7
 
 Nul ne peut être admis à contracter cet engagement [*volontaire*], s'il n'est de bonne moralité, s'il ne jouit de ses droits
@@ -81816,6 +81938,33 @@ communes de plus de 5.000 habitants [*chiffre*], avec les fonctions d'adjoint au
 	**Abrogé par**:
 
 	  - Décret n°99-1039 du 10 décembre 1999 - art. 72 ()
+
+
+###### Article R354-12
+
+Dans les corps déjà constitués, l'engagement et le rengagement sont prononcés [*autorité compétente*] par décision du maire
+après avis du conseil d'administration.
+
+Le premier engagement souscrit par les sous-officiers, caporaux et sapeurs en application de l'article R. 354-6 comporte
+l'obligation de suivre un stage probatoire dont la durée est fixée à un an. En cas d'insuffisance du stagiaire, l'engagement
+souscrit peut être résilié.
+
+Pour les engagements souscrits en application des alinéas 3 et 4 de l'article R. 354-6 la durée du stage probatoire est fixée
+à deux mois.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°77-241 1977-03-07
+
+	**Abrogé par**:
+
+	  - Décret n°99-1039 du 10 décembre 1999 - art. 72 ()
+
+	**Cite**:
+
+	  - Code des communes R354-6 AL. 3, AL. 4
 
 
 ###### Article R354-13
@@ -94596,6 +94745,23 @@ le poursuivre devant le conseil communal d'enquête, un délai de quinze jours s
 	  - Décret n°77-241 1977-03-07 JORF et JONC 18 Mars 1977
 
 
+##### Honorariat .
+
+###### Article R352-58
+
+Les anciens officiers de sapeurs-pompiers, les médecins et pharmaciens du service de santé et de secours médical et les
+inspecteurs départementaux des services d'incendie et de secours qui ont accompli au moins vingt ans d'activité comme sapeur-
+pompier et qui ont fait constamment preuve de zèle et de dévouement peuvent être nommés, par arrêté préfectoral, officiers
+honoraires avec leur dernier grade ou le grade immédiatement supérieur s'ils ont accompli au moins huit ans de service dans
+leur dernier grade.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°77-241 1977-03-07
+
+
 ##### Service de santé et de secours médical .
 
 ###### Article R352-64
@@ -94623,144 +94789,6 @@ Les médecins assistent avec voix consultative aux séances du conseil d'adminis
 	**Cité par**:
 
 	  - Décret n°88-623 du 6 mai 1988 - art. 50 (Ab)
-
-
-#### Dispositions *applicables* à l'ensemble des sapeurs-pompiers communaux *professionnels et non professionnels (volontaires)*
-
-##### Discipline.
-
-###### Article R352-36
-
-Lorsque l'officier déféré au conseil d'enquête paritaire est, soit un chef de corps, soit un chef de bataillon ou un
-lieutenant-colonel, le conseil est constitué par un arrêté du ministre de l'intérieur et comprend [*composition*] :
-
-- trois officiers de sapeurs-pompiers ayant au moins le même grade que l'intéressé et tirés au sort sur une liste de douze
-noms établie par le ministre [*nombre*] ;
-
-- trois membres du conseil municipal désignés par le maire.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°53-170 1953-03-07 ART. 25 REMPLACE AL. 1 et 2
-
-	**Codifié par**:
-
-	  - Décret n°77-241 1977-03-07
-
-	**Créé par**:
-
-	  - Décret n°77-241 1977-03-07 JORF et JONC 18 mars 1977
-
-
-##### Honneurs et récompenses.
-
-###### Article R*352-52
-
-La médaille avec rosette [*pour services exceptionnels*] peut être décernée aux officiers et sous-officiers qui se sont
-particulièrement distingués dans l'exercice de leurs fonctions [*conditions d'attributions - octroi*].
-
-Elle comporte deux échelons : [*nombre*]        1° La médaille d'argent ;
-
-2° La médaille de vermeil, qui peut être décernée aux officiers et sous-officiers qui ont reçu la médaille d'argent avec
-rosette depuis cinq ans au moins [*délai*].
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°62-1073 1962-09-11 ART. 4
-
-	**Codifié par**:
-
-	  - Décret n°77-241 1977-03-07
-
-	**Créé par**:
-
-	  - Décret n°77-241 1977-03-07 JORF et JONC 18 mars 1977
-
-
-##### Honorariat.
-
-###### Article R352-58
-
-Les anciens officiers de sapeurs-pompiers et les inspecteurs des services d'incendie et de secours qui ont accompli au moins
-vingt-cinq ans d'activité comme sapeur-pompier et qui ont fait constamment preuve de zèle et de dévouement peuvent être
-nommés, par arrêté préfectoral [*compétence du préfet*], officiers honoraires avec leur dernier grade ou le grade
-immédiatement supérieur s'ils ont accomplis au moins huit ans de service dans leur dernier grade [*ancienneté*].
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°53-170 1953-03-07 ART. 40
-
-	**Codifié par**:
-
-	  - Décret n°77-241 1977-03-07
-
-	**Créé par**:
-
-	  - Décret n°77-241 1977-03-07 JORF et JONC 18 Mars 1977
-
-
-##### Service de santé et de secours médical.
-
-###### Article R352-67
-
-Dans chaque département, il peut être créé un emploi de médecin-chef du service d'incendie et de secours. Les titulaires de
-ces emplois ont au moins le grade de chef de bataillon.
-
-Le médecin-chef du service départemental d'incendie et de secours [*attributions*] veille à l'organisation du service de
-santé et de secours médical dans les corps de sapeurs-pompiers, assure l'instruction médicale et vérifie l'état du matériel
-de secours.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°53-170 1953-03-07 ART. 48
-
-	**Codifié par**:
-
-	  - Décret n°77-241 1977-03-07
-
-	**Créé par**:
-
-	  - Décret n°77-241 1977-03-07 JORF et JONC 18 Mars 1977
-
-
-#### Dispositions communes à l'ensemble des sapeurs-pompiers communaux *professionnels et non professionnels (volontaires)*
-
-##### Conseil d'administration des corps de sapeurs-pompiers.
-
-###### Article R352-15
-
-Les élections [*pour la représentation des sapeurs-pompiers au conseil d'administration*] prévues à l'article précédent ont
-lieu au scrutin secret et à la majorité absolue des suffrages exprimés [*conditions de vote*].
-
-Au deuxième tour, qui a lieu le même jour, la majorité relative suffit [*conditions de majorité*].
-
-Il est procédé en même temps et dans les mêmes conditions à l'élection de deux délégués suppléants [*nombre*] par titulaire.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°53-170 1953-03-07 ART. 14
-
-	**Codifié par**:
-
-	  - Décret n°77-241 1977-03-07
-
-	**Créé par**:
-
-	  - Décret n°77-241 1977-03-07 JORF et JONC 18 Mars 1977
-
-	**Cite**:
-
-	  - CODE DES COMMUNES. - art. R352-14 (M)
 
 
 #### Dispositions applicables aux sapeurs-pompiers communaux professionnels
@@ -94894,77 +94922,6 @@ compétence*].
 
 	  - Décret n°88-623 du 6 mai 1988 - art. 50 (Ab)
 	  - Décret n°89-229 du 17 avril 1989 - art. 47 (V)
-
-
-#### SAPEURS-POMPIERS COMMUNAUX NON PROFESSIONNELS *VOLONTAIRES*
-
-##### RECRUTEMENT .
-
-###### Article R354-6
-
-Les sous-officiers, caporaux et sapeurs sont recrutés par engagement volontaire.
-
-Constaté par écrit [*conditions de forme*], l'engagement est souscrit pour une durée de cinq ans et renouvelable.
-
-Il comporte soumission à toutes les obligations résultant des lois, décrets et arrêtés ainsi que du règlement de service
-prévu à l'article R. 352-22.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°53-170 1953-03-07 ART. 59
-
-	**Codifié par**:
-
-	  - Décret n°77-241 1977-03-07
-
-	**Créé par**:
-
-	  - Décret n°77-241 1977-03-07 JORF et JONC 18 mars 1977
-
-	**Cité par**:
-
-	  - Arrêté du 14 mai 1991 - art. 1 (Ab)
-	  - Arrêté du 6 avril 1998 - art. 1 (V)
-	  - Décret n°99-709 du 3 août 1999 - art. 1 (M)
-
-	**Liens**:
-
-	  - TXT_SOURCE: Arrêté du 6 avril 1998
-	  - TXT_SOURCE: Arrêté du 6 avril 1998 - art. 1 (V)
-	  - TXT_SOURCE: Arrêté du 6 avril 1998 - art. 2 (M)
-	  - TXT_SOURCE: Arrêté du 6 avril 1998 - art. 3 (Ab)
-	  - TXT_SOURCE: Arrêté du 6 avril 1998 - art. 4 (V)
-	  - TXT_SOURCE: Arrêté du 6 avril 1998 - art. 5 (V)
-	  - TXT_SOURCE: Arrêté du 6 avril 1998 - art. 6 (V)
-	  - TXT_SOURCE: Arrêté du 6 avril 1998 - art. 7 (V)
-	  - TXT_SOURCE: Arrêté du 6 avril 1998 - art. 8 (V)
-	  - TXT_SOURCE: Arrêté du 6 avril 1998 - art. ANNEXE (V)
-
-	**Cite**:
-
-	  - CODE DES COMMUNES. - art. R352-22 (M)
-
-
-###### Article R354-12
-
-Dans les corps déjà constitués, l'engagement et le rengagement sont prononcés par décision du maire après avis du conseil
-d'administration.
-
-Le premier engagement souscrit par les sous-officiers, caporaux et sapeurs en application de l'article R. 354-6 comporte
-l'obligation de suivre un stage probatoire dont la durée est fixée à un an. En cas d'insuffisance du stagiaire, l'engagement
-souscrit peut être résilié.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°53-170 1953-03-07 ART. 67
-
-	**Codifié par**:
-
-	  - Décret n°77-241 1977-03-07
 
 
 #### Dispositions applicables aux sapeurs-pompiers communaux non professionnels
@@ -97176,6 +97133,27 @@ important.
 	  - Décret n°88-623 du 6 mai 1988 - art. 50 (Ab)
 
 	**Cité par**:
+
+	  - Décret n°88-623 du 6 mai 1988 - art. 50 (Ab)
+
+
+###### Article R352-67
+
+Dans chaque département, il peut être créé un emploi de médecin chef et le cas échéant un emploi de pharmacien chef des
+services départementaux d'incendie et de secours. Les titulaires de ces emplois ont au moins le grade de chef de bataillon.
+Il peut également être pourvu en cas de besoin à un ou plusieurs emplois de médecin chef adjoint et de pharmacien chef
+adjoint.
+
+Le médecin-chef du service départemental d'incendie et de secours veille à l'organisation du service de santé et de secours
+médical dans les corps de sapeurs-pompiers, assure l'instruction médicale et vérifie l'état du matériel de secours.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°77-241 1977-03-07
+
+	**Abrogé par**:
 
 	  - Décret n°88-623 du 6 mai 1988 - art. 50 (Ab)
 
