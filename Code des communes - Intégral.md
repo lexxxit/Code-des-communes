@@ -1,5 +1,5 @@
 # Code des communes  
-Version Consolidée au 1987-09-09
+Version Consolidée au 1987-10-07
 
 # Statuts types d'une caisse communale de secours et de retraite de sapeurs-pompiers
 
@@ -51505,6 +51505,32 @@ l'article R. 236-22.
 	**Cite**:
 
 	  - CODE DES COMMUNES. - art. R236-22 (Ab)
+
+
+###### Article R236-26 bis
+
+Pour l'exécution de sa mission, la Caisse d'aide à l'équipement des collectivités locales peut constituer avec d'autres
+organismes une société commerciale réalisant des opérations de crédit en faveur du développement local. Cette société
+recueille notamment les dépôts de trésorerie des collectivités locales et des établissements publics locaux conformément à la
+réglementation qui leur est applicable.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°77-91 1977-01-27
+
+	**Créé par**:
+
+	  - Décret n°87-814 du 6 octobre 1987 - art. 1 ()
+
+	**Cité par**:
+
+	  - Décret n°92-163 du 20 février 1992 - art. 3 (Ab)
+
+	**Abrogé par**:
+
+	  - Décret n°2000-1187 du 5 décembre 2000 - art. 1 (V)
 
 
 ##### SOUS-SECTION 4 : Gestion des emprunts unifiés émis par l'intermédiaire de la caisse d'aide à l'équipement des collectivités locales.
