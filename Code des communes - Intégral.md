@@ -1,5 +1,5 @@
 # Code des communes  
-Version Consolidée au 1980-03-20
+Version Consolidée au 1980-04-12
 
 # ORGANISATION COMMUNALE
 
@@ -61435,6 +61435,386 @@ Cette somme est réévaluée chaque année après avis du comité des finances l
 
 ##### SECTION 2 : Recettes réparties par le comité des finances locales
 
+##### SOUS-SECTION 1 : Organisation du comité des finances locales.
+
+###### Article R*234-3
+
+Les membres élus du comité des finances locales sont désignés pour trois ans [*durée*] ; leur mandat peut être renouvelé.
+
+Ils cessent de faire partie du comité s'ils perdent le mandat électif à raison duquel ils ont été désignés. Dans ce seul cas,
+ils sont remplacés par les personnes élues en même temps qu'eux à cet effet.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - SPEC_APPLI: *Ces dispositions ne seront applicables que jusqu'au 1er janvier 1986*
+	  - TXT_ASSOCIE: Loi n°79-15 du 3 janvier 1979 - art. 27 (V)
+	  - SPEC_APPLI: Loi n°80-1102 1980-12-31 :
+
+	**Codifié par**:
+
+	  - Décret n°77-91 1977-01-27
+
+
+###### Article R*234-4
+
+Les représentants des présidents de conseils généraux sont élus par le collège des présidents de conseils généraux au scrutin
+majoritaire de liste à un tour, avec dépôt de listes complètes, sans adjonction ni suppression de noms et sans modification
+de l'ordre de présentation [*conditions de vote*].
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°77-91 1977-01-27
+
+	**Cité par**:
+
+	  - Décret n°78-1173 du 22 novembre 1978 - art. 3 (V)
+	  - Décret n°94-704 du 17 août 1994 - art. 11 (Ab)
+	  - Décret n°94-704 du 17 août 1994 - art. 13 (V)
+	  - Décret n°94-704 du 17 août 1994 - art. 15 (V)
+	  - Décret n°94-704 du 17 août 1994 - art. 9 (V)
+	  - Code général des collectivités territoriales - art. R2334-9-4 (V)
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Loi n°79-15 du 3 janvier 1979 - art. 27 (V)
+	  - SPEC_APPLI: Loi n°80-1102 1980-12-31 : *Ces dispositions ne sont applicables que jusqu'au 1er janvier 1986*
+	  - SPEC_APPLI: Code des communes R262-1, R262-12 : *Dispositions non applicables aux communes des départements de la Guadeloupe, de la Martinique, de la Guyane, de la Réunion et de Saint-Pierre-et-Miquelon*
+
+	**Nouveaux textes**:
+
+	  - Code général des collectivités territoriales - art. R2334-3 (M)
+
+
+###### Article R*234-5
+
+Les représentants des groupements de communes sont élus par le collège des présidents de groupements de communes, au scrutin
+majoritaire de liste à un tour, avec dépôt de listes complètes sans adjonction ni suppression de noms et sans modification de
+l'ordre de présentation.
+
+La liste doit comprendre [*composition*] :
+
+- un président de communauté urbaine ;
+
+- un président de district ;
+
+- un président de syndicat de communes ;
+
+- un président d'organisme institué en vue de la création d'une agglomération nouvelle.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°77-91 1977-01-27
+
+	**Cité par**:
+
+	  - Décret n°78-1173 du 22 novembre 1978 - art. 3 (V)
+	  - Décret n°92-823 du 21 août 1992 - art. 2 (V)
+	  - Décret n°2000-199 du 6 mars 2000 - art. 8 (Ab)
+	  - CODE DES COMMUNES. - art. R*262-1 (M)
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Loi n°79-15 du 3 janvier 1979 - art. 27 (V)
+	  - SPEC_APPLI: Loi n°80-1102 1980-12-31 : *Ces dispositions ne sont applicables que jusqu'au 1er janvier 1986*
+	  - TXT_ASSOCIE: CODE DES COMMUNES. - art. R234-4 (M)
+	  - SPEC_APPLI: Code des communes R262-1, R262-12 : *Dispositions non applicables aux communes des départements de la Guadeloupe, de la Martinique, de la Guyane, de la Réunion et de Saint-Pierre-et-Miquelon*
+
+
+###### Article R*234-6
+
+Les représentants des maires sont élus par le collège des maires de France, au scrutin majoritaire de liste à un tour, avec
+dépôt de listes complètes sans adjonction ni suppression de noms et sans modification de l'ordre de présentation.
+
+La liste [*membres obligatoires*] doit comprendre au moins [*composition*] :
+
+- Un maire des départements d'outre-mer ;
+
+- Un maire des territoires d'outre-mer ;
+
+- Un maire de commune touristique ou thermale inscrite sur la liste prévue à l'article L. 234-14 ;
+
+- et trois maires de communes de moins de 2 000 habitants [*chiffre*].
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°77-91 1977-01-27
+
+	**Cité par**:
+
+	  - Décret n°78-1173 du 22 novembre 1978 - art. 3 (V)
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Loi n°79-15 du 3 janvier 1979 - art. 27 (V)
+	  - SPEC_APPLI: Loi n°80-1102 1980-12-31 : *Ces dispositions ne sont applicables que jusqu'au 1er janvier 1986*
+	  - SPEC_APPLI: Code des communes R262-1, R262-12 : *Dispositions non applicables aux communes des départements de la Guadeloupe, de la Martinique, de la Guyane, de la Réunion et de Saint-Pierre-et-Miquelon*
+
+	**Nouveaux textes**:
+
+	  - Code général des collectivités territoriales - art. R5211-12 (T)
+
+
+###### Article R*234-7
+
+En cas d'égalité des suffrages est élue la liste pour laquelle la moyenne d'âge des candidats titulaires est la plus élevée.
+
+Nul ne peut figurer à la fois sur des listes de catégories différentes.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - SPEC_APPLI: *Ces dispositions ne seront applicables que jusqu'au 1er janvier 1986*
+	  - TXT_ASSOCIE: Loi n°79-15 du 3 janvier 1979 - art. 27 (V)
+	  - SPEC_APPLI: Loi n°80-1102 1980-12-31 :
+
+	**Codifié par**:
+
+	  - Décret n°77-91 1977-01-27
+
+	**Cité par**:
+
+	  - Code des communes de la Nouvelle-Calédonie - art. R234-8 (V)
+
+
+###### Article R*234-8
+
+L'élection des représentants des présidents de conseils généraux a lieu par bulletins de vote adressés par lettre recommandée
+[*conditions de forme*] au secrétariat de la commission de recensement prévue à l'article R. 234-10.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - SPEC_APPLI: *Ces dispositions ne seront applicables que jusqu'au 1er janvier 1986*
+	  - TXT_ASSOCIE: Loi n°79-15 du 3 janvier 1979 - art. 27 (V)
+	  - SPEC_APPLI: Loi n°80-1102 1980-12-31 :
+
+	**Codifié par**:
+
+	  - Décret n°77-91 1977-01-27
+
+
+###### Article R*234-9
+
+L'élection des représentants des groupements de communes et des maires a lieu par bulletins de vote adressés par lettre
+recommandée à la préfecture ou au haut-commissariat [*conditions de forme*]. Toutefois, dans les départements et territoires
+d'outre-mer ainsi que dans la collectivité territoriale de Mayotte, ces bulletins peuvent être déposés à la préfecture ou au
+haut-commissariat.
+
+Les bulletins de vote sont recensés par une commission comprenant :
+
+- le préfet ou le haut-commissaire, ou leur représentant, président ;
+
+- deux maires désignés par le préfet ou le haut-commissaire.
+
+Le secrétariat est assuré par un fonctionnaire de la préfecture ou du haut-commissariat.
+
+Les résultats sont centralisés par la commission prévue à l'article R. 234-10 [*commission centrale de recensement*].
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - SPEC_APPLI: *Ces dispositions ne seront applicables que jusqu'au 1er janvier 1986*
+	  - TXT_ASSOCIE: Loi n°79-15 du 3 janvier 1979 - art. 27 (V)
+	  - SPEC_APPLI: Loi n°80-1102 1980-12-31 :
+
+	**Codifié par**:
+
+	  - Décret n°77-91 1977-01-27
+
+	**Cité par**:
+
+	  - CODE DES COMMUNES. - art. R*234-8 (Ab)
+
+
+###### Article R*234-10
+
+Une commission centrale de recensement est instituée auprès du ministre de l'intérieur. Elle est présidée par un conseiller
+d'Etat et doit comprendre un représentant du ministère de l'intérieur et trois représentants des associations nationales
+d'élus locaux, désignés par le ministre de l'intérieur [*définition*].
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - SPEC_APPLI: *Ces dispositions ne seront applicables que jusqu'au 1er janvier 1986*
+	  - TXT_ASSOCIE: Loi n°79-15 du 3 janvier 1979 - art. 27 (V)
+	  - SPEC_APPLI: Loi n°80-1102 1980-12-31 :
+
+	**Codifié par**:
+
+	  - Décret n°77-91 1977-01-27
+
+	**Cité par**:
+
+	  - CODE DES COMMUNES. - art. R*234-7-1 (Ab)
+
+
+###### Article R*234-11
+
+Les listes de candidature doivent être déposées au ministère de l'intérieur à une date fixée par arrêté du ministre de
+l'intérieur.
+
+Cet arrêté fixe également la date limite d'envoi, ou éventuellement de dépôt des bulletins de vote, au ministère de
+l'intérieur, à la préfecture ou au haut-commissariat.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - SPEC_APPLI: *Ces dispositions ne seront applicables que jusqu'au 1er janvier 1986*
+	  - TXT_ASSOCIE: Loi n°79-15 du 3 janvier 1979 - art. 27 (V)
+	  - SPEC_APPLI: Loi n°80-1102 1980-12-31 :
+
+	**Codifié par**:
+
+	  - Décret n°77-91 1977-01-27
+
+	**Nouveaux textes**:
+
+	  - Code général des collectivités territoriales - art. R2334-4 (V)
+
+
+###### Article R*234-12
+
+Chaque bulletin est mis sous double enveloppe [*conditions de forme*] ; l'enveloppe extérieure doit porter la mention
+"élection des membres du comité des finances locales", l'indication du collège électoral auquel appartient le votant, son
+nom, sa qualité, sa signature.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - SPEC_APPLI: *Ces dispositions ne seront applicables que jusqu'au 1er janvier 1986*
+	  - TXT_ASSOCIE: Loi n°79-15 du 3 janvier 1979 - art. 27 (V)
+	  - SPEC_APPLI: Loi n°80-1102 1980-12-31 :
+
+	**Codifié par**:
+
+	  - Décret n°77-91 1977-01-27
+
+	**Nouveaux textes**:
+
+	  - Code général des collectivités territoriales - art. R2334-5 (V)
+
+
+###### Article R*234-14
+
+Le comité élit son président, parmi les membres élus, au scrutin secret à la majorité absolue.
+
+Si après deux tours de scrutin aucun candidat n'a obtenu la majorité absolue, il est procédé à un troisième tour de scrutin
+et l'élection a lieu à la majorité relative.
+
+En cas d'égalité de suffrages le plus âgé est déclaré élu.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°77-91 1977-01-27
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Loi n°79-15 du 3 janvier 1979 - art. 27 (V)
+	  - SPEC_APPLI: Loi n°80-1102 1980-12-31 : *Ces dispositions ne sont applicables que jusqu'au 1er janvier 1986*
+	  - SPEC_APPLI: Code des communes R262-1, R262-12 : *Dispositions non applicables aux communes des départements de la Guadeloupe, de la Martinique, de la Guyane, de la Réunion et de Saint-Pierre-et-Miquelon*
+
+
+###### Article R*234-15
+
+Les élections des membres du comité des finances locales et du président peuvent être contestées devant le Conseil d'Etat par
+tout électeur, par les candidats et par le ministre de l'intérieur, dans les dix jours qui suivent la publication des
+résultats au Journal officiel.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°77-91 1977-01-27
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Loi n°79-15 du 3 janvier 1979 - art. 27 (V)
+	  - SPEC_APPLI: Loi n°80-1102 1980-12-31 : *Ces dispositions ne sont applicables que jusqu'au 1er janvier 1986*
+	  - SPEC_APPLI: Code des communes R262-1, R262-12 : *Dispositions non applicables aux communes des départements de la Guadeloupe, de la Martinique, de la Guyane, de la Réunion et de Saint-Pierre-et-Miquelon*
+
+
+###### Article R*234-16
+
+Le comité établit son règlement intérieur. Celui-ci est approuvé par le ministre de l'intérieur.
+
+Il se réunit au moins deux fois par an [*fréquence*].
+
+Il est convoqué toutes les fois qu'il est nécessaire par son président soit d'office, soit à la demande de la moitié au moins
+des membres ; en outre, il peut être convoqué par décision du ministre de l'intérieur.
+
+Toutefois, le comité ne peut délibérer valablement que si la moitié au moins de ses membres en exercice assiste à la séance.
+Dans le cas où le quorum n'est pas atteint, il est aussitôt procédé à une nouvelle convocation par lettre recommandée avec
+demande d'avis de réception et le comité peut délibérer quel que soit le nombre des membres présents.
+
+Les décisions sont prises à la majorité absolue des membres présents ; en cas de partage des voix, la voix du président est
+prépondérante.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°77-91 1977-01-27
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Loi n°79-15 du 3 janvier 1979 - art. 27 (V)
+	  - SPEC_APPLI: Loi n°80-1102 1980-12-31 : *Ces dispositions ne sont applicables que jusqu'au 1er janvier 1986*
+	  - SPEC_APPLI: Code des communes R262-1, R262-12 : *Dispositions non applicables aux communes des départements de la Guadeloupe, de la Martinique, de la Guyane, de la Réunion et de Saint-Pierre-et-Miquelon*
+
+
+###### Article R*234-17
+
+La dotation prévue à l'article L. 234-18 et destinée à couvrir les frais de fonctionnement du comité et le coût des travaux
+qui lui sont nécessaires est versée au Trésor et rattachée au budget du ministère de l'intérieur selon la procédure de fonds
+de concours pour dépenses d'intérêt public.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°77-91 1977-01-27
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Loi n°79-15 du 3 janvier 1979 - art. 27 (V)
+	  - SPEC_APPLI: Loi n°80-1102 1980-12-31 : *Ces dispositions ne sont applicables que jusqu'au 1er janvier 1986*
+	  - SPEC_APPLI: Code des communes R262-1, R262-12 : *Dispositions non applicables aux communes des départements de la Guadeloupe, de la Martinique, de la Guyane, de la Réunion et de Saint-Pierre-et-Miquelon*
+
+
+###### Article R*234-18
+
+Les frais relatifs à l'élection des représentants des conseils généraux, des groupements de communes et des communes, ainsi
+que les frais de déplacement des membres élus non parlementaires sont à la charge du comité.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°77-91 1977-01-27
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Loi n°79-15 du 3 janvier 1979 - art. 27 (V)
+	  - SPEC_APPLI: Loi n°80-1102 1980-12-31 : *Ces dispositions ne sont applicables que jusqu'au 1er janvier 1986*
+	  - SPEC_APPLI: Code des communes R262-1, R262-12 : *Dispositions non applicables aux communes des départements de la Guadeloupe, de la Martinique, de la Guyane, de la Réunion et de Saint-Pierre-et-Miquelon*
+
+
 ##### SOUS-SECTION 3 : Répartition d'une part des amendes relatives à la circulation routière.
 
 ###### Article R*234-29
@@ -70699,635 +71079,36 @@ salariés.
 	  - Code général des collectivités territoriales - art. D2333-102 (V)
 
 
-#### Versement représentatif de la taxe sur les salaires *V.R.T.S.*
-
-###### Article R*234-3
-
-Les versements mensuels prévus en faveur des communes par l'article L. 234-16 [*L. 234-19*] sont effectués par douzièmes
-[**]proportion[**], sur la base du montant prévisionnel défini à l'article R. 234-1 et conformément aux dispositions des
-articles L. 234-6 à L. 234-11 [*attributions de garantie*] et L. 234-12 à L. 234-15 [*attributions au prorata*].
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°68-189 1968-02-27 art. 3
-
-	**Codifié par**:
-
-	  - Décret n°77-91 1977-01-27
-
-	**Créé par**:
-
-	  - Décret n°77-91 1977-01-27 JORF et JONC 3 février 1977 date d'entrée en vigueur 20 mars 1977
-
-	**Cite**:
-
-	  - CODE DES COMMUNES. - art. L234-19 (M)
-	  - Code des communes L234-6 à L234-16
-
-
-##### Allocations compensatrices
-
-###### Article R234-4
-
-L'allocation compensatrice [*montant*] versée en application de l'article L. 234-20 est calculée par différence entre :
-
-- d'une part, le montant, qu'auraient atteint l'année précédente, pour la collectivité considérée, les attributions reçues au
-titre des articles L. 234-6 à L. 234-11 [*attributions de garantie*], L. 234-12 à L. 234-15 [*attributions au prorata*]
-
-et L. 234-25 à L. 234-27 [*allocations versées aux communes touristiques et thermales*] et l'allocation [*compensatrice*]
-
-calculée en vertu de l'article L. 234-20, si ce montant avait progressé, par rapport à l'année antérieure, dans la même
-proportion que celui du versement représentatif de la taxe sur les salaires se rapportant aux articles L. 234-6 à L. 234-11,
-
-L. 234-12 à L. 234-15 et L. 234-25 à L. 234-27, et    - d'autre part, le montant effectif des attributions perçues l'année
-précédente, en application des articles L. 234-6 à L. 234-11, L. 234-12 à L. 234-15 et L. 234-25 à L. 234-27.
-
-L'allocation compensatrice est versée l'année suivant celle au titre de laquelle elle a été calculée [*date*]. 
-
-Elle ne peut excéder le tiers des attributions perçues pendant cette dernière année, en application des articles L. 234-6 à
-L. 234-11, L. 234-12 à L. 234-15 et L. 234-25 à L. 234-27 [*montant maximum - proportion*].
-
-**Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - SPEC_APPLI: *Dispositions non applicables aux communes des départements de la Guadeloupe, de la Guyane, de la Martinique, de la Réunion et de Saint-Pierre-et-Miquelon*
-	  - TXT_ASSOCIE: CODE DES COMMUNES. - art. R234-5 (M)
-	  - SPEC_APPLI: Code des communes R262-1, R262-12 :
-
-	**Anciens textes**:
-
-	  - Décret n°72-514 1972-06-26 art. 1 a
-
-	**Codifié par**:
-
-	  - Décret n°77-91 1977-01-27
-
-	**Créé par**:
-
-	  - Décret n°77-91 1977-01-27 JORF et JONC 3 février 1977 date d'entrée en vigueur 20 mars 1977
-
-	**Cité par**:
-
-	  - Décret n°78-1173 du 22 novembre 1978 - art. 3 (V)
-	  - Décret n°94-704 du 17 août 1994 - art. 11 (Ab)
-	  - Décret n°94-704 du 17 août 1994 - art. 13 (V)
-	  - Décret n°94-704 du 17 août 1994 - art. 15 (V)
-	  - Décret n°94-704 du 17 août 1994 - art. 9 (V)
-	  - Code général des collectivités territoriales - art. R2334-9-4 (V)
-
-	**Cite**:
-
-	  - CODE DES COMMUNES. - art. L234-20 (M)
-	  - Code des communes L234-6 à L234-15, L234-20, L234-25 à L234-27
-
-	**Nouveaux textes**:
-
-	  - Code général des collectivités territoriales - art. R2334-3 (M)
-
-
-###### Article R234-5
-
-Par exception aux dispositions de l'article précédent, lorsque la commune considérée a, au cours de l'année de référence
-définie au 1° de l'article L. 234-20, recouvré par habitant, au titre des impôts et taxes [*sur les propriétés bâties
-affectées à des usages tels que l'habitation ou la profession hôtelière et sur les habitants ou mis à la charge de ces
-derniers*] prévus aux articles L. 234-12 à L. 234-15, une somme dépassant la moyenne déterminée dans les conditions fixées à
-l'article R. 234-6 ci-après, d'un pourcentage compris entre 5 p. 100 et 15 p. 100, l'allocation compensatrice [*montant*]
-calculée conformément aux dispositions de l'article précédent est réduite de 0,10 p. 100 par centième de point d'écart entre
-15 p. 100 et la valeur de p. 
-
-Cette réduction ne peut, cependant, avoir pour conséquence de ramener le montant de l'allocation compensatrice à moins de 1
-p. 100 de la différence prévue à l'article précédent.
-
-**Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - SPEC_APPLI: *Dispositions non applicables aux communes des départements de la Guadeloupe, de la Guyane, de la Martinique, de la Réunion et de Saint-Pierre-et-Miquelon*
-	  - TXT_ASSOCIE: CODE DES COMMUNES. - art. R234-4 (M)
-	  - SPEC_APPLI: Code des communes R262-1, R262-12 :
-
-	**Anciens textes**:
-
-	  - Décret n°72-514 1972-06-26 art. 1 b
-
-	**Codifié par**:
-
-	  - Décret n°77-91 1977-01-27
-
-	**Créé par**:
-
-	  - Décret n°77-91 1977-01-27 JORF et JONC 3 février 1977 date d'entrée en vigueur 20 mars 1977
-
-	**Cité par**:
-
-	  - Décret n°78-1173 du 22 novembre 1978 - art. 3 (V)
-	  - Décret n°92-823 du 21 août 1992 - art. 2 (V)
-	  - Décret n°2000-199 du 6 mars 2000 - art. 8 (Ab)
-	  - CODE DES COMMUNES. - art. R*262-1 (M)
-
-	**Cite**:
-
-	  - Code des communes L234-12 à L234-15, L234-20 1°
-
-
-###### Article R234-6
-
-Pour la détermination de la moyenne par habitant des impôts et taxes [*sur les propriétés bâties affectées à des usages tels
-que l'habitation et la profession hôtelière et sur les habitants ou mis à la charge de ces derniers*] prévus aux articles L.
-234-12 à L. 234-15, les communes sont classées dans les tranches de population suivantes :
-
-Jusqu'à 499 [*nombre*] habitants ; 
-
-De 500 à 999 habitants ; 
-
-De 1.000 à 1.999 habitants ; 
-
-De 2.000 à 3.499 habitants ; 
-
-De 3.500 à 4.499 habitants ; 
-
-De 5.000 à 7.499 habitants ; 
-
-De 7.500 à 9.999 habitants ; 
-
-De 10.000 à 14.999 habitants ; 
-
-De 15.000 à 19.999 habitants ; 
-
-De 20.000 à 34.999 habitants ; 
-
-De 35.000 à 49.999 habitants ; 
-
-De 50.000 à 74.999 habitants ; 
-
-De 75.000 à 99.999 habitants ; 
-
-De 100.000 à 199.999 habitants ; 
-
-200.000 habitants et plus.
-
-Ces tranches de population s'entendent : [**]définition[**]    - pour les communes n'appartenant pas à un groupement, ayant
-recours à une fiscalité directe propre, en fonction de leur population ; 
-
-- pour les communes appartenant à un tel groupement, en fonction de la population de ce dernier. 
-
-La moyenne par habitant et par tranche de population des impôts et taxes ci-dessus mentionnés est calculée distinctement pour
-chacune de ces deux catégories de communes.
-
-**Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - SPEC_APPLI: *Dispositions non applicables aux communes des départements de la Guadeloupe, de la Guyane, de la Martinique, de la Réunion et de Saint-Pierre-et-Miquelon*
-	  - SPEC_APPLI: Code des communes R262-1, R262-12 :
-
-	**Anciens textes**:
-
-	  - Décret n°72-514 1972-06-26 art. 2 a
-
-	**Codifié par**:
-
-	  - Décret n°77-91 1977-01-27
-
-	**Créé par**:
-
-	  - Décret n°77-91 1977-01-27 JORF et JONC 3 février 1977 date d'entrée en vigueur 20 mars 1977
-
-	**Cité par**:
-
-	  - Décret n°78-1173 du 22 novembre 1978 - art. 3 (V)
-
-	**Cite**:
-
-	  - Code des communes L234-12 à L234-15
-
-	**Nouveaux textes**:
-
-	  - Code général des collectivités territoriales - art. R5211-12 (T)
-
-
-#### AUTRES RECETTES REPARTIES PAR LE FONDS D'ACTION LOCALE
-
-##### ORGANISATION DU FONDS .
-
-###### Article R234-7
-
-Le comité du fonds d'action locale est composé ainsi qu'il suit :
-
-- un conseiller d'Etat ou un conseiller maître à la Cour des comptes, président ; 
-
-- trois présidents de conseil général ; 
-
-- le rapporteur général du budget de la ville de Paris ; 
-
-- deux maires de communes de la métropole de moins de 2.000 [*nombre*] habitants ; 
-
-- un maire d'une commune de la métropole de 2.000 à moins de 50.000 habitants ; 
-
-- un maire d'une commune de la métropole de 50.000 habitants ou plus ; 
-
-- un maire d'une commune touristique ; 
-
-- un président de groupement de communes ; 
-
-- un représentant des communautés urbaines ; 
-
-- un représentant des communes des départements d'outre-mer ; 
-
-- trois représentants du ministre de l'intérieur ; 
-
-- trois représentants du ministre de l'économie et des finances ; 
-
-- un représentant du ministre chargé des départements d'outre-mer ; 
-
-- un représentant du ministre chargé du tourisme.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°67-952 1967-10-26 art. 1
-
-	**Codifié par**:
-
-	  - Décret n°77-91 1977-01-27
-
-	**Créé par**:
-
-	  - Décret n°77-91 1977-01-27 JORF et JONC 3 février 1977 date d'entrée en vigueur 20 mars 1977
-
-	**Cité par**:
-
-	  - Code des communes de la Nouvelle-Calédonie - art. R234-8 (V)
-
-
-###### Article R234-8
-
-Les membres du comité du fonds d'action locale qui ont la qualité d'élus sont désignés pour six ans [*durée des fonctions*].
-Leur mandat peut être renouvelé. 
-
-Ils cessent de faire partie du comité s'ils perdent les mandats électifs à raison desquels ils ont été désignés. 
-
-En cas de vacance par suite de décès ou pour toute autre cause, ils sont remplacés, jusqu'au terme du mandat à remplir,
-
-par des personnes élues en même temps qu'eux à cet effet. 
-
-Les modalités de désignation des représentants des collectivités locales et groupements de collectivités locales et celles de
-leurs suppléants sont précisées par un arrêté du ministre de l'intérieur.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°67-952 1967-10-26 art. 2
-
-	**Codifié par**:
-
-	  - Décret n°77-91 1977-01-27
-
-	**Créé par**:
-
-	  - Décret n°77-91 1977-01-27 JORF et JONC 3 février 1977 date d'entrée en vigueur 20 mars 1977
-
-
-###### Article R234-9
-
-Le comité du fonds d'action locale se réunit au moins une fois par an [**]fréquence[**]. 
-
-Il est en outre convoqué toutes les fois qu'il est nécessaire par son président soit d'office, soit à la demande de la moitié
-au moins de ses membres [*conditions*].
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°67-952 1967-10-26 art. 3 al. 2 et 3
-
-	**Codifié par**:
-
-	  - Décret n°77-91 1977-01-27
-
-	**Créé par**:
-
-	  - Décret n°77-91 1977-01-27 JORF et JONC 3 février 1977 date d'entrée en vigueur 20 mars 1977
-
-	**Cité par**:
-
-	  - CODE DES COMMUNES. - art. R*234-8 (Ab)
-
-
-###### Article R234-10
-
-Le comité du fonds d'action locale ne peut délibérer valablement que si la moitié au moins des membres en exercice assistent
-à la séance. 
-
-Si le quorum n'est pas atteint, il est procédé immédiatement à une nouvelle convocation par lettre recommandée [*conditions
-de forme*] avec demande d'avis de réception. 
-
-Le comité peut alors délibérer, quel que soit le nombre des membres présents.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°67-952 1967-10-26 art. 3 al. 4 et 5
-
-	**Codifié par**:
-
-	  - Décret n°77-91 1977-01-27
-
-	**Créé par**:
-
-	  - Décret n°77-91 1977-01-27 JORF et JONC 3 février 1977 date d'entrée en vigueur 20 mars 1977
-
-	**Cité par**:
-
-	  - CODE DES COMMUNES. - art. R*234-7-1 (Ab)
-
-
-###### Article R234-11
-
-Les décisions du comité du fonds d'action locale sont prises à la majorité absolue des membres présents [*conditions*]. 
-
-En cas de partage des voix, la voix du président est prépondérante.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°67-952 1967-10-26 art. 3 al. 6
-
-	**Codifié par**:
-
-	  - Décret n°77-91 1977-01-27
-
-	**Créé par**:
-
-	  - Décret n°77-91 1977-01-27 JORF et JONC 3 février 1977 date d'entrée en vigueur 20 mars 1977
-
-	**Nouveaux textes**:
-
-	  - Code général des collectivités territoriales - art. R2334-4 (V)
-
-
-###### Article R234-12
-
-Les frais de personnel, d'études, de matériel et,
-
-de façon générale, ceux qui sont nécessaires au fonctionnement du fonds d'action locale sont à la charge dudit fonds. 
-
-A cet effet, la somme correspondant aux prévisions annuelles des dépenses mentionnées à l'alinéa précédent est versée au
-Trésor et rattachée au budget du ministère de l'intérieur selon la procédure de fonds de concours pour dépenses d'intérêt
-public.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°67-952 1967-10-26 art. 4
-
-	**Codifié par**:
-
-	  - Décret n°77-91 1977-01-27
-
-	**Créé par**:
-
-	  - Décret n°77-91 1977-01-27 JORF et JONC 3 février 1977 date d'entrée en vigueur 20 mars 1977
-
-	**Nouveaux textes**:
-
-	  - Code général des collectivités territoriales - art. R2334-5 (V)
-
-
-##### Allocations versées aux communes touristiques et thermales
-
-###### Article R*234-13
-
-Le fonds d'action locale [*attributions*] fixe chaque année [**]fréquence[**] le montant global des allocations à verser en
-application des articles L. 234-25 à L. 234-27.
-
-**Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - SPEC_APPLI: *Dispositions non applicables aux communes des départements de la Guadeloupe, de la Guyane, de la Martinique, de la Réunion et de Saint-Pierre-et-Miquelon*
-	  - SPEC_APPLI: Code des communes R262-1, R262-12 :
-
-	**Anciens textes**:
-
-	  - Décret n°68-913 1968-10-18 art. 11 phr. 1
-
-	**Codifié par**:
-
-	  - Décret n°77-91 1977-01-27
-
-	**Créé par**:
-
-	  - Décret n°77-91 1977-01-27 JORF et JONC 3 février 1977 date d'entrée en vigueur 20 mars 1977
-
-	**Cite**:
-
-	  - Code des communes L234-25 à L234-27
-
-
-###### Article R*234-14
-
-Le fonds d'action locale [*attributions*] fixe chaque année [**]fréquence[**] la part du montant global [*des allocations*]
-prévu à l'article précédent, qui est réservée aux stations nouvelles et à leurs groupements. 
-
-Cette part ne peut être inférieure à 10 p. 100 [*pourcentage*]. Cependant si le nombre des communes ou groupements de
-communes inscrits sur la liste des nouvelles stations touristiques ou thermales est supérieur à 10 p. 100 du nombre des
-communes ou groupements de communes inscrits sur la liste des communes touristiques ou thermales existantes, cette part est
-majorée à due concurrence [*condition*].
-
-**Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - SPEC_APPLI: *Dispositions non applicables aux communes des départements de la Guadeloupe, de la Guyane, de la Martinique, de la Réunion et de Saint-Pierre-et-Miquelon*
-	  - SPEC_APPLI: Code des communes R262-1, R262-12 :
-
-	**Anciens textes**:
-
-	  - Décret n°68-913 1968-10-18 art. 12 remplacé al. 1 et 2
-
-	**Codifié par**:
-
-	  - Décret n°77-91 1977-01-27
-
-	**Créé par**:
-
-	  - Décret n°77-91 1977-01-27 JORF et JONC 3 février 1977 date d'entrée en vigueur 20 mars 1977
-
-	**Cite**:
-
-	  - Code des communes R234-13
-
-
-###### Article R*234-15
-
-La répartition des allocations supplémentaires du fonds d'action locale entre les communes touristiques ou thermales et entre
-leurs groupements, consenties en vertu des articles R. 234-19 à R. 234-23 et R. 234-24 et R. 234-25, est effectuée au prorata
-du montant des ressources fiscales des communes et des groupements retenues pour calculer les attributions [*au prorata*]
-versées aux communes ou à leurs groupements au titre du versement représentatif de la taxe sur les salaires en vertu des
-articles L. 234-12 à L. 234-15, après que ce montant a été multiplié par le pourcentage [*rapport entre l'indice permettant
-de déterminer le caractère touristique ou thermal de la commune et la population de la commune*] prévu au 1° de l'article R.
-234-21 affecté du coefficient [*exprimant l'importance de la commune*] déterminé à l'article R. 234-22. 
-
-Dans le cas prévu à l'article R. 234-25, la ressource fiscale à prendre en compte pour l'application du présent article est
-limitée à la ressource apportée par les seules communes touristiques ou thermales [*définition*].
-
-**Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - SPEC_APPLI: *Dispositions non applicables aux communes des départements de la Guadeloupe, de la Guyane, de la Martinique, de la Réunion et de Saint-Pierre-et-Miquelon*
-	  - SPEC_APPLI: Code des communes R262-1, R262-12 :
-
-	**Anciens textes**:
-
-	  - Décret n°68-913 1968-10-18 art. 13 modifié
-
-	**Codifié par**:
-
-	  - Décret n°77-91 1977-01-27
-
-	**Créé par**:
-
-	  - Décret n°77-91 1977-01-27 JORF et JONC 3 février 1977 date d'entrée en vigueur 20 mars 1977
-
-	**Cite**:
-
-	  - Code des communes R234-12 à R234-15, R234-19 à R234-25
-
-
-###### Article R*234-16
-
-Les communes fusionnées, quelle que soit leur situation au regard des dispositions des articles R. 234-19 à R. 234-23
-[*relatifs aux dispositions particulières aux communes touristiques et thermales*], bénéficient d'une garantie de recettes
-ayant pour base le montant des allocations supplémentaires perçues, en application de l'article précédent, par les communes
-préexistantes, au titre de la dernière répartition effectuée avant la date d'effet de la fusion. 
-
-Cette garantie de recettes s'applique chaque fois qu'elle assure à la commune fusionnée une allocation supérieure à celle qui
-résulterait pour elle de l'application de l'article précédent et pendant un délai de huit ans à compter de la date d'effet de
-la fusion, ou pour le nombre d'années restant à courir dans la limite de ce délai lorsque la fusion a pris effet
-antérieurement au 7 décembre 1974. 
-
-Pendant les cinq premières années qui suivent la date d'effet de la fusion, la garantie de recettes est, chaque année,
-revalorisée dans la même proportion que le montant, au plan national, des allocations supplémentaires prévues à l'article
-précédent. Pour chacune des trois années suivantes, elle est respectivement égale à 75 p. 100, 50 p. 100 et 25 p. 100
-[*pourcentage*] du montant qu'elle a atteint pour la cinquième année.
-
-**Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - SPEC_APPLI: *Dispositions non applicables aux communes des départements de la Guadeloupe, de la Guyane, de la Martinique, de la Réunion et de Saint-Pierre-et-Miquelon*
-	  - SPEC_APPLI: Code des communes R262-1, R262-12 :
-
-	**Anciens textes**:
-
-	  - Décret n°68-913 1968-10-18 complété art. 13 1.
-
-	**Codifié par**:
-
-	  - Décret n°77-91 1977-01-27
-
-	**Créé par**:
-
-	  - Décret n°77-91 1977-01-27 JORF et JONC 3 février 1977 date d'entrée en vigueur 20 mars 1977
-
-	**Cite**:
-
-	  - Code des communes R234-15 et R234-19 à R234-23
-
-
-###### Article R*234-17
-
-La répartition des allocations supplémentaires du fonds d'action locale entre les stations nouvelles et entre leurs
-groupements consenties en vertu des articles R. 234-24 et R. 234-25 et des articles R. 234-26 à R. 234-28, est effectuée au
-prorata de la moyenne, pour les trois exercices précédents,
-
-de l'ensemble des dépenses d'équipement à la charge des communes ou de leurs groupements, divisée par le centime
-démographique afférent à l'exercice précédent. 
-
-Toutefois, si l'inscription comme station nouvelle remonte à moins de trois ans [*délai*], il est seulement tenu compte, pour
-l'année de l'inscription, des dépenses d'équipement afférentes à l'exercice antérieur, divisées par le centime démographique
-de cet exercice, et, pour la seconde année d'inscription, de la moyenne des dépenses d'équipement des deux exercices
-antérieurs divisée par le centime démographique de l'exercice précédent. 
-
-Aucune allocation ne peut excéder 20 p. 100 [*pourcentage - maximum*] de la somme globale à répartir annuellement au titre
-des stations nouvelles.
-
-**Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - SPEC_APPLI: *Dispositions non applicables aux communes des départements de la Guadeloupe, de la Guyane, de la Martinique, de la Réunion et de Saint-Pierre-et-Miquelon*
-	  - SPEC_APPLI: Code des communes R262-1, R262-12 :
-
-	**Anciens textes**:
-
-	  - Décret n°68-913 1968-10-18 art. 14 remplacé
-
-	**Codifié par**:
-
-	  - Décret n°77-91 1977-01-27
-
-	**Créé par**:
-
-	  - Décret n°77-91 1977-01-27 JORF et JONC 3 février 1977 date d'entrée en vigueur 20 mars 1977
-
-	**Cite**:
-
-	  - Code des communes R234-24 à R234-28
-
-
-###### Article R*234-18
-
-Les dépenses d'équipement à prendre en compte pour [*la répartition des allocations supplémentaires entre les stations
-nouvelles entre et leurs groupements*] l'application de l'article précédent sont :
-
-[*définition*]    - le prélèvement opéré sur les recettes ordinaires ; 
-
-- les intérêts des emprunts ; 
-
-- et éventuellement les dotations aux comptes d'amortissement. 
-
-Dans le cas [*de stations membres d'un établissement public prenant en charge tout ou partie des équipements touristiques ou
-thermaux*] prévu à l'article R. 234-25, les dépenses d'équipement à prendre en compte sont limitées à celles qui intéressent
-les stations mentionnées audit article.
-
-**Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - SPEC_APPLI: *Dispositions non applicables aux communes des départements de la Guadeloupe, de la Guyane, de la Martinique, de la Réunion et de Saint-Pierre-et-Miquelon*
-	  - SPEC_APPLI: Code des communes R262-1, R262-12 :
-
-	**Anciens textes**:
-
-	  - Décret n°68-213 1968-10-18 art. 14 remplacé
-
-	**Codifié par**:
-
-	  - Décret n°77-91 1977-01-27
-
-	**Créé par**:
-
-	  - Décret n°77-91 1977-01-27 JORF et JONC 3 février 1977 date d'entrée en vigueur 20 mars 1977
-
-	**Cite**:
-
-	  - Code des communes R234-17 et R234-25
-
-
 #### Dotation globale de fonctionnement et autres recettes réparties par le comité des finances locales
 
 ##### Recettes réparties par le comité des finances locales
+
+##### Organisation du comité des finances locales .
+
+###### Article R*234-13
+
+Les neufs représentants de l'Etat sont désignés de la façon suivante [*répartition*] :
+
+Quatre représentants sur proposition du ministre de l'intérieur ;
+
+Trois représentants sur proposition du ministre du budget ;
+
+Un représentant sur proposition du ministre chargé du tourisme ;
+
+Un représentant sur proposition du ministre chargé des départements et territoires d'outre-mer.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°77-91 1977-01-27
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Loi n°79-15 du 3 janvier 1979 - art. 27 (V)
+	  - SPEC_APPLI: Loi n°80-1102 1980-12-31 : *Ces dispositions ne sont applicables que jusqu'au 1er janvier 1986*
+	  - SPEC_APPLI: Code des communes R262-1, R262-12 : *Dispositions non applicables aux communes des départements de la Guadeloupe, de la Martinique, de la Guyane, de la Réunion et de Saint-Pierre-et-Miquelon*
+
 
 ##### Dotation supplémentaire versée aux communes touristiques ou thermales et à leurs groupements
 
