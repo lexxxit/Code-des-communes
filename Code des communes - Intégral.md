@@ -1,5 +1,5 @@
 # Code des communes  
-Version Consolidée au 1986-01-08
+Version Consolidée au 1986-01-10
 
 # Statuts types d'une caisse communale de secours et de retraite de sapeurs-pompiers
 
@@ -7746,6 +7746,49 @@ concerné.
 	  - Code général des collectivités territoriales - art. L5212-30 (M)
 
 
+###### Article L163-17-1
+
+Lorsque l'application d'une disposition à caractère fiscal ou budgétaire a pour conséquence d'augmenter ou de diminuer les
+ressources de fonctionnement d'une commune membre d'un syndicat d'un pourcentage égal ou supérieur à 10 p. 100 des recettes
+de la section de fonctionnement, s'il s'agit d'une commune de moins de 20000 habitants, et à 5 p. 100 dans les autres cas,
+chaque commune membre peut demander au comité syndicat une modification des règles fixant les modalités de répartition des
+contributions financières des communes au budget du syndical à compter de l'année suivante.
+
+Si le comité syndical n'a pas fait droit à la demande dans un délai de six mois, ou si la délibération du comité syndical n'a
+pas été approuvée par les conseils municipaux dans les conditions prévues aux deuxième, troisième et cinquième alinéas de
+l'article L. 163-17, le représentant de l'Etat peut modifier, à la demande de la commune intéressée et après avis de la
+chambre régionale des comptes, les règles fixant les modalités de répartition des contributions financières des communes au
+budget du syndicat.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°77-90 1977-01-27
+
+	**Créé par**:
+
+	  - Loi n°86-29 du 9 janvier 1986 - art. 28 () JORF 10 janvier 1986
+
+	**Cité par**:
+
+	  - Décret n°95-945 du 23 août 1995 - art. 133 (Ab)
+	  - Code des juridictions financières - art. L232-19 (Ab)
+
+	**Abrogé par**:
+
+	  - Loi n°96-142 du 21 février 1996 - art. 12 (V) JORF 24 février 1996
+
+	**Cite**:
+
+	  - CODE DES COMMUNES. - art. L163-17 (M)
+
+	**Nouveaux textes**:
+
+	  - Code général des collectivités territoriales - art. L5212-25 (V)
+	  - Code général des collectivités territoriales - art. L5212-25 (M)
+
+
 #### CHAPITRE 4 : Districts.
 
 ###### Article L164-1
@@ -9747,6 +9790,38 @@ Dans ce dernier cas, les modalités de cette participation sont fixées par la d
 	**Abrogé par**:
 
 	  - Loi n°96-142 du 21 février 1996 - art. 12 (V)
+
+
+###### Article L166-4
+
+Le syndicat mixte est dissous de plein droit, soit à l'expiration de la durée pour laquelle il a été institué, soit à la fin
+de l'opération qu'il avait pour objet de conduire.
+
+Il peut également être dissout, d'office ou à la demande des personnes morales qui le composent, par décret pris sur l'avis
+conforme du conseil d'Etat.
+
+Toutefois, lorsque la demande de dissolution du syndicat mixte est présentée à l'unanimité de ses membres et qu'elle prévoit,
+sous la réserve des droits des tiers, les conditions dans lesquelles le syndicat est liquidé, la dissolution du syndicat
+mixte est prononcée par arrêté du représentant de l'Etat dans le département siège du syndicat.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°77-90 1977-01-27
+
+	**Modifié par**:
+
+	  - Loi n°86-29 du 9 janvier 1986 - art. 29 () JORF 10 janvier 1986
+
+	**Abrogé par**:
+
+	  - Loi n°96-142 du 21 février 1996 - art. 12 (V) JORF 24 février 1996
+
+	**Nouveaux textes**:
+
+	  - Code général des collectivités territoriales - art. L5721-7 (V)
+	  - Code général des collectivités territoriales - art. L5721-7 (M)
 
 
 ###### Article L166-5
@@ -13721,315 +13796,6 @@ en autoriser l'exécution immédiate.
 	  - CODE DES COMMUNES. - art. L131-3 (M)
 
 
-### POLICE
-
-#### Responsabilités des communes
-
-##### Dispositions générales .
-
-###### Article L133-1
-
-Les communes sont civilement responsables des dégâts et dommages résultant des crimes et délits commis à force ouverte ou par
-violence, sur leur territoire, par des attroupements ou rassemblements armés ou non armés, soit envers des personnes,
-
-soit contre les propriétés publiques ou privées. 
-
-Si les attroupements ou rassemblements ont été formés d'habitants de plusieurs communes, chacune d'elles est responsable des
-dégâts et dommages causés, dans la proportion fixée par les tribunaux de l'ordre judiciaire [**]compétence[**]. 
-
-Les dispositions du présent article ne sont pas applicables lorsque les dommages causés sont le résultat d'un fait de guerre.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Code de l'administration communale 116, 117 al. 4, 118
-
-	**Codifié par**:
-
-	  - Décret n°77-90 1977-01-27
-
-	**Créé par**:
-
-	  - Décret n°77-90 1977-01-27 JORF et JONC 3 février 1977 date d'entrée en vigueur élection des maires
-
-	**Abrogé par**:
-
-	  - Loi n°86-29 1986-01-09 art. 27 I JORF 10 janvier 1986
-
-	**Cité par**:
-
-	  - CODE DES COMMUNES. - art. L133-6 (Ab)
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°86-29 1986-01-10 art. 27 II
-
-
-###### Article L133-2
-
-Les indemnités, les dommages-intérêts et les frais dont la commune est responsable sont répartis, en vertu d'un rôle spécial,
-entre toutes les personnes inscrites au rôle d'un des impôts directs, à l'exception des victimes des troubles auxquelles ont
-été allouées ces indemnités, proportionnellement au montant en principal de tous leurs impôts directs. 
-
-Si le montant des dommages-intérêts et des frais mis à la charge de la commune excède le quart du produit en principal des
-impôts directs, le payement en est effectué au moyen d'un emprunt qui est remboursé, à l'aide d'une imposition extraordinaire
-perçue, chaque année, en vertu d'un rôle spécial établi comme il est dit à l'alinéa précédent.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°77-90 1977-01-27
-
-	**Créé par**:
-
-	  - Décret n°77-90 1977-01-27 JORF et JONC 3 février 1977 date d'entrée en vigueur élection des maires
-
-	**Abrogé par**:
-
-	  - Loi n°86-29 1986-01-09 art. 27 I JORF 10 janvier 1986
-
-	**Cité par**:
-
-	  - CODE DES COMMUNES. - art. L133-6 (Ab)
-	  - CODE DES COMMUNES. - art. L236-8 (Ab)
-
-	**Anciens textes**:
-
-	  - Code de l'administration communale 117 al. 1 et 2
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°86-29 1986-01-10 art. 27 II
-
-
-###### Article L133-3
-
-Faute par la commune de prendre les mesures nécessaires pour le payement des frais et dommages-intérêts mis à sa charge, dans
-le délai d'un mois à dater de la fixation et de la répartition définitives du montant des frais et dommages-intérêts, il y
-est procédé dans les conditions prévues à l'article 11 de la loi n° 82-213 du 2 mars 1982 [*saisine de la chambre régionale
-des comptes et inscription d'office par le représentant de l'Etat dans le département*] relative aux droits et libertés des
-communes, des départements et des régions.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Code de l'administration communale 117 al. 3
-
-	**Codifié par**:
-
-	  - Décret n°77-90 1977-01-27
-
-	**Cite**:
-
-	  - Loi n°82-213 1982-03-02 ART. 11
-	  - CODE DES COMMUNES. - art. L212-9 (Ab)
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°86-29 1986-01-10 art. 27 II
-
-	**Modifié par**:
-
-	  - Loi n°82-213 du 2 mars 1982 - art. 21 (V) JORF 3 MARS 1982
-
-	**Abrogé par**:
-
-	  - Loi n°86-29 1986-01-09 art. 27 I JORF 10 janvier 1986
-
-
-##### Actions et recours .
-
-###### Article L133-4
-
-L'Etat contribue pour moitié, en vertu du risque social, au payement des dommages-intérêts et frais prévus par les articles
-L. 133-1 et L. 133-2 [*réparation des dégâts ou dommages commis sur le territoire d'une commune par des attroupements ou
-rassemblements*] . 
-
-Toutefois, si la municipalité a manqué à ses devoirs par inertie ou connivence avec les émeutiers, l'Etat peut exercer un
-recours contre la commune à concurrence de 60 p. 100 [*pourcentage*] des sommes mises à sa charge par l'alinéa précédent. 
-
-Si, au contraire, et sous réserve de l'application de l'alinéa précédent, la commune n'a pas, momentanément ou de façon
-permanente, la disposition de la police locale ni de la force armée, ou si elle a pris toutes les mesures en son pouvoir à
-l'effet de prévenir ou de réprimer les troubles, l'Etat prend à sa charge, sous réserve de la déduction des sommes que la
-commune a pu recouvrer, le paiement des dommages-intérêts et frais prévus par les articles L. 133-1 et L. 133-2.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Code de l'administration communale 119 modifié
-
-	**Cite**:
-
-	  - Loi n°75-1278 1975-12-30 art. 87 LOI de finances pour 1976
-	  - Code des communes L133-1 et L133-2
-
-	**Codifié par**:
-
-	  - Décret n°77-90 1977-01-27
-
-	**Créé par**:
-
-	  - Décret n°77-90 1977-01-27 JORF et JONC 3 février 1977 date d'entrée en vigueur élection des maires
-
-	**Abrogé par**:
-
-	  - Loi n°86-29 1986-01-09 art. 27 I JORF 10 janvier 1986
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°86-29 1986-01-10 art. 27 II
-
-
-###### Article L133-5
-
-Les actions [*en justice*] , tant principales qu'en garantie, sont portées devant les tribunaux de l'ordre judiciaire
-[*compétence*] .
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°77-90 1977-01-27
-
-	**Créé par**:
-
-	  - Décret n°77-90 1977-01-27 JORF et JONC 3 février 1977 date d'entrée en vigueur élection des maires
-
-	**Abrogé par**:
-
-	  - Loi n°86-29 1986-01-09 art. 27 I JORF 10 janvier 1986
-
-	**Cité par**:
-
-	  - CODE DES COMMUNES. - art. L133-6 (Ab)
-
-	**Anciens textes**:
-
-	  - Code de l'administration communale 120 al. 1
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°86-29 1986-01-10 art. 27 II
-
-
-###### Article L133-6
-
-L'Etat peut intervenir à l'action principale en première instance ou, à défaut, en appel. 
-
-Il peut aussi, qu'il soit ainsi intervenu ou non, faire appel ou se pourvoir en cassation contre tout jugement, ou se
-pourvoir en cassation contre tout arrêt, rendus en application de l'article précédent, lorsque ces décisions sont
-susceptibles d'avoir pour effet de l'obliger à contribuer au paiement des dommages-intérêts et frais prévus aux articles L.
-133-1 et L. 133-2 [*réparation des dégâts ou dommages commis sur le territoire d'une commune par des attroupements ou des
-rassemblements*] .
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°77-90 1977-01-27
-
-	**Créé par**:
-
-	  - Décret n°77-90 1977-01-27 JORF et JONC 3 février 1977 date d'entrée en vigueur élection des maires
-
-	**Abrogé par**:
-
-	  - Loi n°86-29 1986-01-09 art. 27 I JORF 10 janvier 1986
-
-	**Cite**:
-
-	  - CODE DES COMMUNES. - art. L133-1 (Ab)
-	  - CODE DES COMMUNES. - art. L133-2 (Ab)
-	  - CODE DES COMMUNES. - art. L133-5 (Ab)
-
-	**Cité par**:
-
-	  - CODE DES COMMUNES. - art. R*133-1 (Ab)
-
-	**Anciens textes**:
-
-	  - Code de l'administration communale 120 al. 2
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°86-29 1986-01-10 art. 27 II
-
-
-###### Article L133-7
-
-Ainsi qu'il est dit à l'article 1101 du code général des impôts, " les communes sont dispensées provisoirement du paiement
-des sommes dues au Trésor pour droits d'enregistrement et de timbre, à raison des actions en responsabilité civile visées par
-les articles L. 133-1 à L. 133-8 du code des communes, en ce qui concerne les dégâts et dommages résultant des crimes et
-délits commis à force ouverte ou par violence, sur leur territoire, par des attroupements ou des rassemblements armés ou non
-armés.
-
-Les droits de timbre et d'enregistrement exigibles sur les actes de procédure faits à la requête des communes, les jugements
-dont l'enregistrement leur incombe, les actes et titres produits par elles pour justifier de leurs droits et qualités, sont
-liquidés en débet. Ils deviennent exigibles dès que les décisions judiciaires sont définitives à l'égard des communes qui
-s'en libèrent, le cas échéant, conformément aux dispositions de l'article L. 133-2 du code des communes" [*répartition, par
-rôle spécial, entre toutes les personnes (sauf les victimes) inscrites au rôle d'un des impôts directs ; si l'indemnité due
-dépasse un certain montant, payement par un emprunt remboursé par une imposition extraordinaire*] .
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 1101
-	  - Code des communes L133-1 à L133-8
-
-	**Codifié par**:
-
-	  - Décret n°77-90 1977-01-27
-
-	**Créé par**:
-
-	  - Décret n°77-90 1977-01-27 JORF et JONC 3 février 1977 date d'entrée en vigueur élection des maires
-
-	**Abrogé par**:
-
-	  - Loi n°86-29 1986-01-09 art. 27 I JORF 10 janvier 1986
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°86-29 1986-01-10 art. 27 II
-
-
-###### Article L133-8
-
-L'Etat, la commune ou les communes déclarées responsables peuvent exercer un recours contre les auteurs et complices du
-désordre.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Code de l'administration communale 122
-
-	**Codifié par**:
-
-	  - Décret n°77-90 1977-01-27
-
-	**Créé par**:
-
-	  - Décret n°77-90 1977-01-27 JORF et JONC 3 février 1977 date d'entrée en vigueur élection des maires
-
-	**Abrogé par**:
-
-	  - Loi n°86-29 1986-01-09 art. 27 I JORF 10 janvier 1986
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°86-29 1986-01-10 art. 27 II
-
-	**Cité par**:
-
-	  - Loi n°77-744 du 8 juillet 1977 - art. 4 (Ab)
-
-
 ### Stations classées
 
 #### Dispositions communes aux stations classées
@@ -14215,19 +13981,23 @@ Les conditions de validité des délibérations du comité du syndicat et, le ca
 délégation du comité, les dispositions relatives aux convocations, à l'ordre et à la tenue des séances, sont celles que fixe
 le chapitre I du titre II du présent livre pour les conseils municipaux.
 
+Lorsque la décision d'institution prévoit qu'une commune est représentée dans le comité du syndicat par [*nombre*] un seul
+délégué, cette décision ou une décision modificative peut instituer un délégué suppléant appelé à siéger au comité avec voix
+délibérative, en cas d'empêchement du délégué titulaire.
+
 Toutefois, si le tiers des membres présents ou le président le demande [*proportion*], le comité décide de se former en
 comité secret.
 
 **Liens relatifs à cet article**
 
+	**Cité par**:
+
+	  - CODE DES COMMUNES. - art. L163-14-1 (Ab)
+	  - Loi n°70-610 du 10 juillet 1970 - art. 11 (Ab)
+
 	**Anciens textes**:
 
 	  - Code de l'administration communale 145 al. 1 modifié
-
-	**Cité par**:
-
-	  - Loi n°70-610 du 10 juillet 1970 - art. 11 (Ab)
-	  - CODE DES COMMUNES. - art. L163-14-1 (Ab)
 
 	**Codifié par**:
 
@@ -14235,7 +14005,7 @@ comité secret.
 
 	**Modifié par**:
 
-	  - Loi n°82-213 du 2 mars 1982 - art. 21 (V) JORF 3 MARS 1982
+	  - Loi n°86-29 du 9 janvier 1986 - art. 35 () JORF 10 janvier 1986
 
 	**Cite**:
 
@@ -14490,35 +14260,6 @@ détermine, à la majorité absolue des suffrages exprimés, le mode de scrutin 
 
 	  - CODE DES COMMUNES. - art. L165-29 (M)
 	  - CODE DES COMMUNES. - art. L165-30 (M)
-
-
-#### Syndicats mixtes .
-
-###### Article L166-4
-
-Le syndicat mixte est dissous de plein droit, soit à l'expiration de la durée pour laquelle il a été institué, soit à la fin
-de l'opération qu'il avait pour objet de conduire. 
-
-Il peut également être dissout, d'office ou à la demande des personnes morales qui le composent, par décret pris sur l'avis
-conforme du conseil d'Etat [*condition de forme*] .
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Code de l'administration communale 155
-
-	**Codifié par**:
-
-	  - Décret n°77-90 1977-01-27
-
-	**Créé par**:
-
-	  - Décret n°77-90 1977-01-27 JORF et JONC 3 février date d'entrée en vigueur élection des maires
-
-	**Nouveaux textes**:
-
-	  - Code général des collectivités territoriales - art. L5721-7 (V)
 
 
 ### Dispositions particulières
@@ -29770,6 +29511,53 @@ Les infractions à cette interdiction sont sanctionnées par une amende égale �
 	  - Code général des collectivités territoriales - art. L2223-34 (V)
 
 
+###### Article L362-12
+
+Toute infraction aux dispositions des articles L362-1, L362-4-1, L362-8, L362-9, et L362-10, est punie, [*sanction*] en cas
+de récidive, d'une amende de 6000 à 15000 francs (1)    La fermeture de l'entreprise trouvée en infraction peut, en outre,
+dans ce dernier cas, être ordonnée par le tribunal pour une période n'excédant pas trois mois.
+
+(1) taux résultant de la loi 89-469 du 10 juillet 1989 art. 9 en vigueur le 1er janvier 1990.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°77-240 1977-03-07
+
+	**Modifié par**:
+
+	  - Loi n°86-29 du 9 janvier 1986 - art. 32 () JORF 10 janvier 1986
+
+	**Cite**:
+
+	  - CODE DES COMMUNES. - art. L362-1 (M)
+	  - CODE DES COMMUNES. - art. L362-10 (M)
+	  - CODE DES COMMUNES. - art. L362-4-1 (MMN)
+	  - CODE DES COMMUNES. - art. L362-8 (M)
+	  - CODE DES COMMUNES. - art. L362-9 (M)
+	  - Décret  1959-03-21 ART. 3 et 6 (contestations sur les conditions des funérailles)
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: CODE DES COMMUNES. - art. L362-10 (M)
+	  - TXT_ASSOCIE: CODE DES COMMUNES. - art. L362-8 (M)
+	  - TXT_ASSOCIE: CODE DES COMMUNES. - art. L362-9 (M)
+
+	**Cité par**:
+
+	  - CODE DES COMMUNES. - art. L362-14 (Ab)
+	  - CODE DES COMMUNES. - art. R*362-4 (Ab)
+
+	**Anciens textes**:
+
+	  - Code de l'administration communale 471 al. 2 et 3
+
+	**Nouveaux textes**:
+
+	  - Code général des collectivités territoriales - art. L2223-35 (V)
+
+
 #### CHAPITRE 4 : Police des funérailles et des sépultures.
 
 ###### Article L364-1
@@ -31967,6 +31755,58 @@ confier les acquisitions par voie d'expropriation.
 
 #### CHAPITRE 1 : Dispositions applicables aux communes des départements de la Moselle, du Bas-Rhin, et du Haut-Rhin
 
+##### SECTION 1 : Dispositions générales.
+
+###### Article L391-1
+
+Sont applicables à l'ensemble des communes des départements de la Moselle, du Bas-Rhin et du Haut-Rhin :
+
+1° Les dispositions des articles contenus dans les titres Ier à VIII du présent livre [*administration de la commune,
+services communaux, voirie, bibliothèques et musées, protection contre l'incendie, pompes funèbres et cimetières, services
+industriels et commerciaux, participation à des entreprises privées*], à l'exception de celles des articles L. 311-1 et L.
+311-12 ; L. 312-1 et L. 312-2, des premier et troisième alinéas de l'article L. 312-4 ; des articles L. 313-1 et L. 313-2 ;
+L. 315-1 ; L. 316-1, L. 316-3, L. 316-8 et L316-11 à L. 316-13 ; L. 317-1 ; L. 341-1 à L. 341-4 ; L. 342-1 et L. 342-2 ; L.
+361-19 et L. 361-20 ; L. 362-1 à L. 362-4-1, L. 362-6 et L. 362-7 ; L. 364-3 et L. 376-7 ;
+
+2° Les dispositions des articles contenus dans les sections II à VIII du présent chapitre.
+
+Toutefois, les dispositions du premier alinéa de l'article L. 311-7 [*délibération des commissions administratives chargées
+de la gestion des établissements publics communaux*] sont applicables seulement aux bureaux d'aide sociale.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°77-240 1977-03-07
+
+	**Modifié par**:
+
+	  - Loi n°86-29 du 9 janvier 1986 - art. 33 () JORF 10 janvier 1986
+
+	**Cité par**:
+
+	  - Loi n°93-23 du 8 janvier 1993 - art. 27 (Ab)
+
+	**Cite**:
+
+	  - CODE DES COMMUNES. - art. L312-3 (M)
+	  - CODE DES COMMUNES. - art. L316-2 (M)
+	  - CODE DES COMMUNES. - art. L361-21 (M)
+	  - CODE DES COMMUNES. - art. L362-4-1 (MMN)
+	  - CODE DES COMMUNES. - art. L362-5 (Ab)
+	  - CODE DES COMMUNES. - art. L364-1 (Ab)
+	  - Code des communes L311-2 à L311-8, L311-10 et L311-11, L311-13 à L311-33
+
+	**Liens**:
+
+	  - SPEC_APPLI: CODE DES COMMUNES. - art. L361-19 (M)
+	  - SPEC_APPLI: CODE DES COMMUNES. - art. L361-20 (M)
+
+	**Anciens textes**:
+
+	  - Loi   1884-04-05 modifiée et lois et décrets d'extension
+
+
 ##### SECTION 2 : Biens communaux et établissements communaux.
 
 ###### Article L391-2
@@ -33320,118 +33160,7 @@ Il est interdit aux communes de prendre en charge dans leur budget propre, des d
 	  - CODE DES COMMUNES. - art. R*372-16 (M)
 
 
-### Pompes funèbres et cimetières
-
-#### Pompes funèbres
-
-##### Réglementation de l'activité des entreprises privées participant au service extérieur des pompes funèbres
-
-###### Article L362-12
-
-Toute infraction aux dispositions des articles L. 362-8, L. 362-9 et L. 362-10 est punie, en cas de récidive, d'une amende de
-2000 à 15000 F [*taux maximum résultant de la loi 85-835 du 7 aout 1985*].
-
-La fermeture de l'entreprise trouvée en infraction peut, en outre, dans ce dernier cas, être ordonnée par le tribunal pour
-une période n'excédant pas trois mois [**]durée[**].
-
-**Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - SPEC_APPLI: *Dispositions non applicables aux communes des départements de la Guadeloupe, de la Guyane, de la Martinique et de la Réunion*
-	  - TXT_ASSOCIE: CODE DES COMMUNES. - art. L362-10 (M)
-	  - TXT_ASSOCIE: CODE DES COMMUNES. - art. L362-8 (M)
-	  - TXT_ASSOCIE: CODE DES COMMUNES. - art. L362-9 (M)
-	  - SPEC_APPLI: Code des communes L392-1 :
-
-	**Anciens textes**:
-
-	  - Code de l'administration communale 471 al. 2 et 3
-
-	**Cite**:
-
-	  - Décret  1959-03-21 ART. 3 et 6 (contestations sur les conditions des funérailles)
-	  - CODE DES COMMUNES. - art. L362-10 (M)
-	  - CODE DES COMMUNES. - art. L362-8 (M)
-	  - CODE DES COMMUNES. - art. L362-9 (M)
-
-	**Codifié par**:
-
-	  - Décret n°77-240 1977-03-07
-
-	**Créé par**:
-
-	  - Décret n°77-240 1977-03-07 JORF et JONC 18 mars 1977
-
-	**Modifié par**:
-
-	  - Loi n°85-835 du 7 août 1985 - art. 10 (VT) JORF 8 aout 1985 en vigueur   le 1er octobre 1985
-	  - Loi n°85-835 du 7 août 1985 - art. 8 (VT) JORF 8 aout 1985 en vigueur   le 1er octobre 1985
-
-	**Cité par**:
-
-	  - CODE DES COMMUNES. - art. L362-14 (Ab)
-	  - CODE DES COMMUNES. - art. R*362-4 (Ab)
-
-	**Nouveaux textes**:
-
-	  - Code général des collectivités territoriales - art. L2223-35 (V)
-
-
 ### Dispositions particulières
-
-#### Dispositions applicables aux communes des départements de la Moselle, du Bas-Rhin, et du Haut-Rhin
-
-##### Dispositions générales .
-
-###### Article L391-1
-
-Sont applicables à l'ensemble des communes des départements de la Moselle, du Bas-Rhin et du Haut-Rhin :
-
-1° Les dispositions des articles contenus dans les titres Ier à VIII du présent livre [*administration de la commune,
-services communaux, voirie, bibliothèques et musées, protection contre l'incendie, pompes funèbres et cimetières, services
-industriels et commerciaux, participation à des entreprises privées*], à l'exception de celles des articles L. 311-1 et L.
-311-12 ; L. 312-1 et L. 312-2, des premier et troisième alinéas de l'article L. 312-4 ; des articles L. 313-1 et L. 313-2 ;
-L. 315-1 ; L. 316-1, L. 316-3, L. 316-8 et L316-11 à L. 316-13 ; L. 317-1 ; L. 341-1 à L. 341-4 ; L. 342-1 et L. 342-2 ; L.
-361-19 et L. 361-20 ; L. 362-1 à L. 362-4, L. 362-6 et L. 362-7 ; L. 364-3 et L. 376-7 ;
-
-2° Les dispositions des articles contenus dans les sections II à VIII du présent chapitre.
-
-Toutefois, les dispositions du premier alinéa de l'article L. 311-7 [*délibération des commissions administratives chargées
-de la gestion des établissements publics communaux*] sont applicables seulement aux bureaux d'aide sociale.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°77-240 1977-03-07
-
-	**Modifié par**:
-
-	  - Loi n°82-213 1982-03-02 ART. 17 XXI JORF 3 MARS 1982
-
-	**Cité par**:
-
-	  - Loi n°93-23 du 8 janvier 1993 - art. 27 (Ab)
-
-	**Cite**:
-
-	  - CODE DES COMMUNES. - art. L312-3 (M)
-	  - CODE DES COMMUNES. - art. L316-2 (M)
-	  - CODE DES COMMUNES. - art. L361-21 (M)
-	  - CODE DES COMMUNES. - art. L362-5 (Ab)
-	  - CODE DES COMMUNES. - art. L364-1 (Ab)
-	  - Code des communes L362-5, L362-8 à L362-12
-
-	**Liens**:
-
-	  - SPEC_APPLI: CODE DES COMMUNES. - art. L361-19 (M)
-	  - SPEC_APPLI: CODE DES COMMUNES. - art. L361-20 (M)
-
-	**Anciens textes**:
-
-	  - Loi   1884-04-05 modifiée et lois et décrets d'extension
-
 
 #### Dispositions applicables aux communes des départements des Hauts-de-Seine, de la Seine-Saint-Denis et du Val-de-Marne
 
