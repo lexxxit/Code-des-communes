@@ -1,5 +1,5 @@
 # Code des communes  
-Version Consolidée au 1983-02-11
+Version Consolidée au 1983-03-06
 
 # Statuts types d'une caisse communale de secours et de retraite de sapeurs-pompiers
 
@@ -1545,6 +1545,73 @@ Il arrête un programme de réinstallation."
 
 ##### SECTION 1 : Formation.
 
+###### Article L121-2
+
+Le nombre des membres du conseil municipal est fixé conformément au tableau ci-après :
+
+Communes, nombre des membres du conseil municipal.
+
+de moins de 100 habitants, 9.
+
+de 100 à 499 habitants, 11.
+
+de 500 à 1499 habitants, 15.
+
+de 1500 à 2499 habitants, 19.
+
+de 2500 à 3499 habitants, 23.
+
+de 3500 à 4999 habitants, 27.
+
+de 5000 à 9999 habitants, 29.
+
+de 10000 à 19999 habitants, 33.
+
+de 20000 à 29999 habitants, 35.
+
+de 30000 à 39999 habitants, 39.
+
+de 40000 à 49999 habitants, 43.
+
+de 50000 à 59999 habitants, 45.
+
+de 60000 à 79999 habitants, 49.
+
+de 80000 à 99999 habitants, 53.
+
+de 100000 à 149999 habitants, 55.
+
+de 150000 à 199999 habitants, 59.
+
+de 200000 à 249999 habitants, 61.
+
+de 250000 à 299999 habitants, 65.
+
+de 300000 habitants et au-dessus, 69.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°77-90 1977-01-27
+
+	**Modifié par**:
+
+	  - Loi n°82-974 1982-11-19 art. 9 JORF 20 novembre 1982 en vigueur le 6 mars 1983
+
+	**Cité par**:
+
+	  - Loi n°82-1169 du 31 décembre 1982 - art. 66 (Ab)
+
+	**Abrogé par**:
+
+	  - Loi n°96-142 du 21 février 1996 - art. 12 (V) JORF 24 février 1996
+
+	**Nouveaux textes**:
+
+	  - Code général des collectivités territoriales - art. L2121-2 (V)
+
+
 ###### Article L121-3
 
 Le conseil municipal est élu dans les conditions prévues aux articles L. 1 à L. 118, L. 225 à L. 270 et L. 273 du code
@@ -2436,6 +2503,53 @@ l'objet, soit en leur nom personnel, soit comme mandataire.
 
 ##### SECTION 1 : Dispositions générales.
 
+###### Article L122-1
+
+Il y a dans chaque commune un maire et un ou plusieurs adjoints élus parmi les membres du conseil municipal.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°77-90 1977-01-27
+
+	**Modifié par**:
+
+	  - Loi n°82-974 1982-11-19 art. 10 II JORF 20 novembre 1982 en vigueur le 6 mars 1983
+
+	**Abrogé par**:
+
+	  - Loi n°96-142 du 21 février 1996 - art. 12 (V) JORF 24 février 1996
+
+	**Nouveaux textes**:
+
+	  - Code général des collectivités territoriales - art. L2122-1 (V)
+
+
+###### Article L122-2
+
+Les conseils municipaux déterminent librement le nombre des adjoints au maire sans que ce nombre puisse excéder 30 p. 100 de
+l'effectif légal du conseil municipal.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°77-90 1977-01-27
+
+	**Modifié par**:
+
+	  - Loi n°82-974 1982-11-19 art. 10 I JORF 20 novembre 1982 en vigueur le 6 mars 1983
+
+	**Abrogé par**:
+
+	  - Loi n°96-142 du 21 février 1996 - art. 12 (V) JORF 24 février 1996
+
+	**Nouveaux textes**:
+
+	  - Code général des collectivités territoriales - art. L2122-2 (V)
+
+
 ###### Article L122-3
 
 Lorsqu'un obstacle quelconque ou l'éloignement rend difficiles, dangereuses ou momentanément impossibles les communications
@@ -2474,6 +2588,47 @@ police dans cette partie de la commune. Il n'a pas d'autres attributions.
 
 
 ##### SECTION 2 : Désignation et statut des maires et adjoints.
+
+###### Article L122-4
+
+Le conseil municipal élit le maire et les adjoints parmi ses membres, au scrutin secret et à la majorité absolue.
+
+Nul ne peut être élu maire, s'il n'est âgé de vingt et un ans révolus.
+
+Si, après deux tours de scrutin, aucun candidat n'a obtenu la majorité absolue, il est procédé à un troisième tour de scrutin
+et l'élection a lieu à la majorité relative.
+
+En cas d'égalité de suffrages, le plus âgé est déclaré élu.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Ordonnance n°59-30 du 5 janvier 1959 - art. 5 (Ab)
+	  - Loi n°82-1169 du 31 décembre 1982 - art. 5 (Ab)
+	  - Loi n°2000-295 du 5 avril 2000 - art. 31 (V)
+	  - CODE DES COMMUNES. - art. L163-12 (Ab)
+	  - CODE DES COMMUNES. - art. L164-5 (Ab)
+	  - CODE DES COMMUNES. - art. L165-33 (Ab)
+	  - CODE DES COMMUNES. - art. R*151-7 (Ab)
+	  - CODE DES COMMUNES. - art. R*173-3 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°77-90 1977-01-27
+
+	**Modifié par**:
+
+	  - Loi n°82-974 1982-11-19 art. 11 II JORF 20 novembre 1982 en vigueur le 6 mars 1983
+
+	**Abrogé par**:
+
+	  - Loi n°96-142 du 21 février 1996 - art. 12 (V) JORF 24 février 1996
+
+	**Nouveaux textes**:
+
+	  - Code général des collectivités territoriales - art. L2122-4 (M)
+
 
 ###### Article L122-6
 
@@ -2537,6 +2692,43 @@ Les agents salariés du maire ne peuvent être adjoints.
 	**Créé par**:
 
 	  - Décret n°77-90 1977-01-27 JORF et JONC 3 février 1977 date d'entrée en vigueur élection des maires
+
+
+###### Article L122-9
+
+Les maires et les adjoints sont nommés pour la même durée que le conseil municipal.
+
+Quand il y a lieu, pour quelque cause que ce soit, à une nouvelle élection du maire, il est procédé à une nouvelle élection
+des adjoints.
+
+Lorsque le maire a retiré les délégations qu'il avait données à un adjoint, et si celui-ci ne démissionne pas, ces
+délégations peuvent être attribuées à un conseiller municipal nonobstant les dispositions de l'article L. 122-11.
+
+Après une élection partielle, le conseil municipal peut décider qu'il sera procédé à une nouvelle élection des adjoints.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Code de l'administration communale 63 AL. 1 MODIFIE
+
+	**Codifié par**:
+
+	  - Décret n°77-90 1977-01-27
+
+	**Modifié par**:
+
+	  - Loi n°82-974 1982-11-19 ART. 15 JORF 20 NOVEMBRE 1982 date d'entrée en vigueur 6 MARS 1983
+
+	**Cité par**:
+
+	  - Loi n°82-1169 du 31 décembre 1982 - art. 5 (Ab)
+	  - Loi n°96-609 du 5 juillet 1996 - art. 25 (M)
+	  - CODE DES COMMUNES. - art. L163-12 (Ab)
+
+	**Cite**:
+
+	  - CODE DES COMMUNES. - art. L122-11 (M)
 
 
 ###### Article L122-11
@@ -10698,71 +10890,6 @@ Le corps municipal de chaque commune se compose du conseil municipal, du maire e
 	  - Code général des collectivités territoriales - art. L2121-1 (V)
 
 
-##### FORMATION .
-
-###### Article L121-2
-
-Le conseil municipal se compose de :
-
-9 membres dans les communes de 100 habitants et au-dessous.
-
-11 membres dans les communes de     101 à     500 habitants.
-
-13 membres dans les communes de     501 à   1.500 habitants.
-
-17 membres dans les communes de   1.501 à   2.500 habitants.
-
-21 membres dans les communes de   2.501 à   3.500 habitants.
-
-23 membres dans les communes de   3.501 à  10.000 habitants.
-
-27 membres dans les communes de  10.001 à  30.000 habitants.
-
-31 membres dans les communes de  30.001 à  40.000 habitants.
-
-33 membres dans les communes de  40.001 à  50.000 habitants.
-
-35 membres dans les communes de  50.001 à  60.000 habitants.
-
-37 membres dans les communes de  60.001 à  80.000 habitants.
-
-39 membres dans les communes de  80.001 à 100.000 habitants.
-
-41 membres dans les communes de 100.001 à 150.000 habitants.
-
-43 membres dans les communes de 150.001 à 200.000 habitants.
-
-45 membres dans les communes de 200.001 à 250.000 habitants.
-
-47 membres dans les communes de 250.001 à 300.000 habitants.
-
-49 membres dans les communes au-dessus de 300.000 habitants.
-
-Dans les villes divisées en plusieurs mairies, le nombre des conseillers est augmenté de trois par mairie.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Code de l'administration communale 16 al. 1 remplacé, et al. 2
-
-	**Codifié par**:
-
-	  - Décret n°77-90 1977-01-27
-
-	**Créé par**:
-
-	  - Décret n°77-90 1977-01-27 JORF ET JONC 3 FEVRIER 1977 en vigueur le 20 MARS 1977
-
-	**Cité par**:
-
-	  - Loi n°82-1169 du 31 décembre 1982 - art. 66 (Ab)
-
-	**Nouveaux textes**:
-
-	  - Code général des collectivités territoriales - art. L2121-2 (V)
-
-
 ##### Fonctionnement .
 
 ###### Article L121-8
@@ -10938,178 +11065,6 @@ Elle peut être prononcée par le préfet et proposée ou opposée par les parti
 
 
 #### MAIRES ET ADJOINTS.
-
-###### Article L122-1
-
-Il y a dans chaque commune un maire et deux ou plusieurs adjoints élus parmi les membres du conseil municipal.
-
-**Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - SPEC_APPLI: *Dispositions non applicables aux communes des départements de la Moselle, du Bas-Rhin et du Haut-Rhin (Alsace-Lorraine)*
-	  - SPEC_APPLI: Code des communes L181-1 :
-
-	**Anciens textes**:
-
-	  - Code de l'administration communale 53 al. 1
-
-	**Codifié par**:
-
-	  - Décret n°77-90 1977-01-27
-
-	**Créé par**:
-
-	  - Décret n°77-90 1977-01-27 JORF ET JONC 3 FEVRIER 1977 en vigueur le 20 MARS 1977
-
-	**Nouveaux textes**:
-
-	  - Code général des collectivités territoriales - art. L2122-1 (V)
-
-
-###### Article L122-2
-
-Les conseils municipaux ont la faculté de décider par une délibération prise sur la proposition du maire, la création, pour
-la durée de leur mandat, d'un ou de plusieurs postes d'adjoints supplémentaires.
-
-Le nombre des adjoints est fixé conformément au tableau suivant :
-
-Communes de 2.500 habitants et au-dessous :
-
-nombre d'adjoints réglementaires : 2 ; nombre d'adjoints supplémentaires: 1.
-
-Communes de 2.501 à 10.000 habitants :
-
-nombre d'adjoints réglementaires : 3 ; nombre d'adjoints supplémentaires: 3.
-
-Communes de 10.001 à 30.000 habitants :
-
-nombre d'adjoints réglementaires : 4 ; nombre d'adjoints supplémentaires: 4.
-
-Communes de 30.001 à 40.000 habitants :
-
-nombre d'adjoints réglementaires : 5 ; nombre d'adjoints supplémentaires: 4.
-
-Communes de 40.001 à 60.000 habitants :
-
-nombre d'adjoints réglementaires : 6 ; nombre d'adjoints supplémentaires: 4.
-
-Communes de 60.001 à 80.000 habitants :
-
-nombre d'adjoints réglementaires : 7 ; nombre d'adjoints supplémentaires: 5.
-
-Communes de 80.001 à 100.000 habitants :
-
-nombre d'adjoints réglementaires : 8 ; nombre d'adjoints supplémentaires: 5.
-
-Communes de 100.001 à 150.000 habitants :
-
-nombre d'adjoints réglementaires : 9 ; nombre d'adjoints supplémentaires: 4.
-
-Communes de 150.001 à 200.000 habitants :
-
-nombre d'adjoints réglementaires : 10 ; nombre d'adjoints supplémentaires: 4.
-
-Communes de 200.001 à 250.000 habitants :
-
-nombre d'adjoints réglementaires : 11 ; nombre d'adjoints supplémentaires: 4.
-
-Communes de 250.001 à 300.000 habitants :
-
-nombre d'adjoints réglementaires : 12 ; nombre d'adjoints supplémentaires: 3.
-
-Communes de 300.001 habitants et au-dessus :
-
-nombre d'adjoints réglementaires : 13 ; nombre d'adjoints supplémentaires: 3.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Code de l'administration communale 53 al. 1 et 2 remplacés
-
-	**Codifié par**:
-
-	  - Décret n°77-90 1977-01-27
-
-	**Créé par**:
-
-	  - Décret n°77-90 1977-01-27 JORF ET JONC 3 FEVRIER 1977 en vigueur le 20 MARS 1977
-
-	**Nouveaux textes**:
-
-	  - Code général des collectivités territoriales - art. L2122-2 (V)
-
-
-##### DESIGNATION ET STATUT .
-
-###### Article L122-4
-
-Le conseil municipal élit le maire et les adjoints parmi ses membres, au scrutin secret et à la majorité absolue.
-
-Si, après deux tours de scrutin, aucun candidat n'a obtenu la majorité absolue, il est procédé à un troisième tour de scrutin
-et l'élection a lieu à la majorité relative.
-
-En cas d'égalité de suffrages, le plus âgé est déclaré élu.
-
-**Liens relatifs à cet article**
-
-	**Cité par**:
-
-	  - Ordonnance n°59-30 du 5 janvier 1959 - art. 5 (Ab)
-	  - Loi n°82-1169 du 31 décembre 1982 - art. 5 (Ab)
-	  - Loi n°2000-295 du 5 avril 2000 - art. 31 (V)
-	  - CODE DES COMMUNES. - art. L163-12 (Ab)
-	  - CODE DES COMMUNES. - art. L164-5 (Ab)
-	  - CODE DES COMMUNES. - art. L165-33 (Ab)
-	  - CODE DES COMMUNES. - art. R*151-7 (Ab)
-	  - CODE DES COMMUNES. - art. R*173-3 (Ab)
-
-	**Cite**:
-
-	  - Décret n°59-309 1959-02-14 (possibilité pour les fonctionnaires de l'Etat d'être détachés pour exercer une fonction publique élective)
-	  - Code de la santé publique L851 (autorisation spéciale d'absence pour les agents hospitaliers qui veulent exercer une fonction publique élective)
-
-	**Codifié par**:
-
-	  - Décret n°77-90 1977-01-27
-
-	**Créé par**:
-
-	  - Décret n°77-90 1977-01-27 JORF ET JONC 3 FEVRIER 1977 en vigueur le 20 MARS 1977
-
-	**Anciens textes**:
-
-	  - Code de l'administration communale 58
-
-
-###### Article L122-9
-
-Les maires et les adjoints sont nommés pour la même durée que le conseil municipal.
-
-Quand il y a lieu, pour quelque cause que ce soit, à une nouvelle élection du maire, il est procédé à une nouvelle élection
-des adjoints.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Code de l'administration communale 63 al. 1 modifié
-
-	**Codifié par**:
-
-	  - Décret n°77-90 1977-01-27
-
-	**Créé par**:
-
-	  - Décret n°77-90 1977-01-27 JORF ET JONC 3 FEVRIER 1977 en vigueur le 20 MARS 1977
-
-	**Cité par**:
-
-	  - Loi n°82-1169 du 31 décembre 1982 - art. 5 (Ab)
-	  - Loi n°96-609 du 5 juillet 1996 - art. 25 (M)
-	  - CODE DES COMMUNES. - art. L163-12 (Ab)
-
 
 ##### Désignation et statut des maires et adjoints .
 
@@ -12628,10 +12583,13 @@ décret.
 ###### Article L153-2
 
 Le maire de l'ancienne commune en fonction au moment de la fusion devient de droit maire délégué jusqu'au prochain
-renouvellement du conseil municipal.
+renouvellement du conseil municipal [*date*].
 
 Après ce renouvellement ou en cas de vacance, le maire délégué est choisi par le conseil municipal parmi les conseillers élus
 dans la section correspondante ou, à défaut, parmi les membres du conseil.
+
+Toutefois, dans les communes ayant 30.000 habitants au plus, le maire délégué est choisi par les conseillers élus dans la
+section correspondante.
 
 **Liens relatifs à cet article**
 
@@ -12643,15 +12601,15 @@ dans la section correspondante ou, à défaut, parmi les membres du conseil.
 
 	**Anciens textes**:
 
-	  - Loi n°71-588 1971-07-16 art. 9 I al. 4
+	  - Loi n°71-588 1971-07-16 ART. 9 I AL. 4
 
 	**Codifié par**:
 
 	  - Décret n°77-90 1977-01-27
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°77-90 1977-01-27 JORF ET JONC 3 FEVRIER 1977 en vigueur le 20 MARS 1977
+	  - Loi n°82-974 1982-11-19 ART. 16 JORF 20 NOVEMBRE 1982 date d'entrée en vigueur 6 MARS 1983
 
 	**Cité par**:
 
