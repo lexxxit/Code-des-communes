@@ -1,5 +1,5 @@
 # Code des communes  
-Version Consolidée au 1993-03-30
+Version Consolidée au 1993-07-17
 
 # Partie législative
 
@@ -75471,6 +75471,171 @@ mesures temporaires prises après avis du conseil supérieur d'hygiène publique
 
 
 #### CHAPITRE 2 : Pompes funèbres
+
+##### SECTION 1 : Service des pompes funèbres
+
+###### Article R362-2-1
+
+Le Conseil national des opérations funéraires comprend vingt-neuf membres titulaires désignés par le ministre de
+l'intérieur :
+
+1. Cinq représentants des administrations :
+
+- deux représentants du ministre de l'intérieur et de l'aménagement du territoire ;
+
+- un représentant du ministre de l'économie ;
+
+- un représentant du ministre chargé de la santé ;
+
+- un représentant du ministre chargé du commerce et de l'artisanat.
+
+2. Quatre maires, dont au moins un maire d'une ville de plus de 100 000 habitants et un maire d'une commune de moins de 5 000
+habitants, et un président d'un groupement de communes, proposés par l'Association des maires de France ;
+
+3. Trois représentants d'entreprises ou associations effectuant des opérations funéraires et deux représentants des régies,
+proposés par les organisations professionnelles ;
+
+4. Cinq représentants des salariés du secteur funéraire, proposés par les syndicats les plus représentatifs des salariés au
+plan national ;
+
+5. Deux représentants des familles, proposés par l'Union nationale des associations familiales ;
+
+6. Trois réprésentants des associations de consommateurs, proposés par le ministre chargé de la consommation parmi les
+associations membres du Conseil national de la consommation ;
+
+7. Quatre personnalités compétentes, dont un membre du Conseil supérieur d'hygiène publique de France.
+
+Le président est désigné parmi les membres titulaires par le ministre de l'intérieur pour une durée de quatre ans.
+
+Un suppléant est désigné pour chaque membre titulaire autre que le président.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°77-241 1977-03-07
+
+	**Créé par**:
+
+	  - Décret n°93-905 du 13 juillet 1993 - art. 1 ()
+
+
+###### Article R362-2-2
+
+Les membres du Conseil national des opérations funéraires sont nommés pour quatre ans. Ce mandat est renouvelable une fois.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°77-241 1977-03-07
+
+	**Créé par**:
+
+	  - Décret n°93-905 du 13 juillet 1993 - art. 1 ()
+
+
+###### Article R362-2-3
+
+Tout membre ayant perdu la qualité en raison de laquelle il a été désigné cesse d'appartenir au Conseil national des
+opérations funéraires. Les membres du conseil désignés en remplacement de ceux dont les fonctions ont pris fin avant leur
+terme normal achèvent le mandat de ceux qu'ils remplacent.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°77-241 1977-03-07
+
+	**Créé par**:
+
+	  - Décret n°93-905 du 13 juillet 1993 - art. 1 ()
+
+
+###### Article R362-2-4
+
+Le Conseil national des opérations funéraires se réunit sur convocation de son président au moins deux fois par an.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°77-241 1977-03-07
+
+	**Créé par**:
+
+	  - Décret n°93-905 du 13 juillet 1993 - art. 1 ()
+
+
+###### Article R362-2-5
+
+Le Conseil national des opérations funéraires ne peut délibérer que si les deux tiers au moins de ses membres sont présents.
+Si cette condition n'est pas remplie, ses membres sont convoqués pour une nouvelle réunion, au cours de laquelle il peut
+délibérer quel que soit le nombre des membres présents.
+
+Les avis sont pris à la majorité des suffrages. En cas de partage égal, la voix du président est prépondérante.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°77-241 1977-03-07
+
+	**Créé par**:
+
+	  - Décret n°93-905 du 13 juillet 1993 - art. 1 ()
+
+
+###### Article R362-2-6
+
+Le Conseil national des opérations funéraires établit son règlement intérieur.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°77-241 1977-03-07
+
+	**Créé par**:
+
+	  - Décret n°93-905 du 13 juillet 1993 - art. 1 ()
+
+
+###### Article R362-2-7
+
+La direction générale des collectivités locales assure le secrétariat du conseil.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°77-241 1977-03-07
+
+	**Créé par**:
+
+	  - Décret n°93-905 du 13 juillet 1993 - art. 1 ()
+
+
+###### Article R362-2-8
+
+Les fonctions de membre titulaire ou suppléant du Conseil national des opérations funéraires sont gratuites. Les frais de
+déplacement inhérents aux réunions du Conseil national des opérations funéraires sont pris en charge par l'administration
+dans les conditions fixées par le décret du 28 mai 1990 susvisé.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°77-241 1977-03-07
+
+	**Cite**:
+
+	  - Décret n°90-437 1990-05-28
+
+	**Créé par**:
+
+	  - Décret n°93-905 du 13 juillet 1993 - art. 1 ()
+
 
 ##### SECTION 2 : Réglementation de l'activité des entreprises privées participant au service extérieur des pompes funèbres.
 
