@@ -1,5 +1,5 @@
 # Code des communes  
-Version Consolidée au 1984-02-03
+Version Consolidée au 1984-02-07
 
 # Statuts types d'une caisse communale de secours et de retraite de sapeurs-pompiers
 
@@ -43986,6 +43986,32 @@ du périmètre de l'agglomération dans laquelle la communauté urbaine exerce s
 	  - Décret n°2000-318 du 7 avril 2000 - art. 4 (V)
 
 
+#### CHAPITRE  6 : Syndicats mixtes .
+
+###### Article R*166-1
+
+L'autorisation de créer un syndicat mixte prévue à l'article L. 166-2 est donnée par arrêté du commissaire de la République
+du département siège du syndicat.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°77-91 1977-01-27
+
+	**Abrogé par**:
+
+	  - Loi n°96-142 du 21 février 1996 - art. 12 (V)
+
+	**Cite**:
+
+	  - CODE DES COMMUNES. - art. L166-2 (M)
+
+	**Nouveaux textes**:
+
+	  - Code général des collectivités territoriales - art. L5721-2 (M)
+
+
 ### TITRE 7 : Agglomérations nouvelles
 
 #### CHAPITRE 1 : Création d'agglomérations nouvelles.
@@ -46423,59 +46449,6 @@ Il y est procédé à l'initiative des communes intéressées dans les cas prév
 	**Cite**:
 
 	  - Code des communes R165-32
-
-
-#### Syndicats mixtes .
-
-###### Article R*166-1
-
-L'autorisation prévue à l'article L. 166-2 de créer le syndicat mixte est donnée par arrêté du préfet [*compétence,
-conditions de forme*] lorsque les personnes morales constituant le syndicat appartiennent au même département et par arrêté
-conjoint des préfets intéressés dans le cas contraire.
-
-Toutefois, lorsque le syndicat comprend une région ou un ou plusieurs établissements publics dont le budget est approuvé par
-un ministre ou par décret, l'autorisation de créer le syndicat mixte est donnée par arrêté du ministre de l'intérieur, pris
-après avis, s'il y a lieu, des autres ministres intéressés [*consultation*].
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°77-91 1977-01-27
-
-	**Créé par**:
-
-	  - Décret n°77-91 1977-01-27 JORF et JONC 3 février 1977 date d'entrée en vigueur élection des maires
-
-	**Cite**:
-
-	  - CODE DES COMMUNES. - art. L166-2 (M)
-
-
-###### Article R*166-2
-
-Les modifications ultérieures de la décision institutive d'un syndicat mixte prise conformément aux dispositions du deuxième
-alinéa de l'article précédent sont autorisées par arrêté du ou des préfets intéressés, sauf dans le cas de changement d'objet
-du syndicat mixte ou d'adhésion à celui-ci d'une région ou d'un ou plusieurs établissements publics dont le budget est
-approuvé par un ministre ou par décret [*conditions de forme, compétence*].
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°76-736 1976-04-28 art. 2 et 3
-
-	**Codifié par**:
-
-	  - Décret n°77-91 1977-01-27
-
-	**Créé par**:
-
-	  - Décret n°77-91 1977-01-27 JORF et JONC 3 février 1977 date d'entrée en vigueur 20 MARS 1977
-
-	**Cite**:
-
-	  - Code des communes R116-1 al. 2
 
 
 ## LIVRE 2 : Finances communales
