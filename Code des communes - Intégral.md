@@ -1,5 +1,5 @@
 # Code des communes  
-Version Consolidée au 1986-01-01
+Version Consolidée au 1986-01-04
 
 # Statuts types d'une caisse communale de secours et de retraite de sapeurs-pompiers
 
@@ -4197,6 +4197,146 @@ de la police rurale et de l'exécution des actes de l'autorité supérieure qui 
 	  - Code général des collectivités territoriales - art. L2212-1 (V)
 
 
+###### Article L131-2
+
+La police municipale a pour objet d'assurer le bon ordre, la sûreté, la sécurité et la salubrité publiques. Elle comprend
+notamment :
+
+1. Tout ce qui intéresse la sûreté et la commodité du passage dans les rues, quais, places et voies publiques, ce qui
+comprend le nettoiement, l'éclairage, l'enlèvement des encombrements, la démolition ou la réparation des édifices menaçant
+ruine, l'interdiction de rien exposer aux fenêtres ou autres parties des édifices qui puisse nuire par sa chute ou celle de
+rien jeter qui puisse endommager les passants ou causer des exhalaisons nuisibles ;
+
+2. Le soin de réprimer les atteintes à la tranquillité publique, telle que les rixes et disputes accompagnées d'ameutement
+dans les rues, le tumulte excité dans les lieux d'assemblée publique, les attroupements, les bruits et rassemblements
+nocturnes qui troublent le repos des habitants et tous actes de nature à compromettre la tranquillité publique.
+
+3. Le maintien du bon ordre dans les endroits où il se fait de grands rassemblements d'hommes, tels que les foires, marchés,
+réjouissances et cérémonies publiques, spectacles, jeux, cafés, églises et autres lieux publics ;
+
+4. Le mode de transport des personnes décédées, les inhumations et les exhumations, le maintien du bon ordre et de la décence
+dans les cimetières, sans qu'il soit permis d'établir les distinctions ou des prescriptions particulières à raison des
+croyances ou du culte du défunt, ou des circonstances qui ont accompagné sa mort ;
+
+5. L'inspection sur la fidélité du débit des denrées qui se vendent au poids ou à la mesure, et sur la salubrité des
+comestibles exposés en vente.
+
+6. Le soin de prévenir, par des précautions convenables, et de faire cesser, par la distribution des secours nécessaires, les
+accidents et les fléaux calamiteux ainsi que les pollutions de toute nature, tels que les incendies, les inondations, les
+ruptures de digues, les éboulements de terre ou de rochers, les avalanches ou autres accidents naturels, les maladies
+épidémiques ou contagieuses, les épizooties, de pourvoir d'urgence à toutes les mesures d'assistance et de secours et, s'il y
+a lieu, de provoquer l'intervention de l'administration supérieure ;
+
+7. Le soin de prendre provisoirement les mesures nécessaires contre les aliénés dont l'état pourrait compromettre la morale
+publique, la sécurité des personnes ou la conservation des propriétés ;
+
+8. Le soin d'obvier ou de remédier aux événements fâcheux qui pourraient être occasionnés par la divagation des animaux
+malfaisants ou féroces ;
+
+9. Le soin de réglementer la fermeture annuelle des boulangeries, lorsque cette fermeture est rendue nécessaire pour
+l'application de la législation sur les congés payés, après consultation des organisations patronales et ouvrières
+[*conditions de forme*], de manière à assurer le ravitaillement de la population.    La police municipale des communes
+riveraines de la mer s'exerce sur le rivage de la mer jusqu'à la limite des eaux.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Loi du 9 décembre 1905 concernant la séparation... - art. 27 (M)
+	  - Décret n°68-134 du 9 février 1968 - art. 1 (Ab)
+	  - Loi n°86-1317 du 30 décembre 1986 - art. 42 (P)
+	  - Décret n°92-76 du 21 janvier 1992 - art. 1 (Ab)
+	  - Décret n°94-343 du 26 avril 1994 - art. 1 (Ab)
+	  - Décret n°95-572 du 6 mai 1995 - art. 1 (Ab)
+	  - Arrêté du 28 février 1996 - art. 5 (V)
+	  - Loi n°2004-811 du 13 août 2004 - art. 100 (Ab)
+	  - Arrêté du 23 novembre 1979 - art. Annexe ART. 102 (V)
+	  - CODE DES COMMUNES. - art. L131-13 (Ab)
+	  - CODE DES COMMUNES. - art. L131-7 (Ab)
+	  - CODE DES COMMUNES. - art. L132-8 (Ab)
+	  - CODE DES COMMUNES. - art. L181-40 (Ab)
+	  - CODE DES COMMUNES. - art. L181-45 (Ab)
+	  - CODE DES COMMUNES. - art. L181-47 (Ab)
+	  - CODE DES COMMUNES. - art. L331-1 (Ab)
+	  - CODE GENERAL DES IMPOTS, CGI. - art. 279 bis (M)
+	  - CODE GENERAL DES IMPOTS, CGI. - art. 281 bis K (Ab)
+	  - Code de l'aviation civile - art. L213-2 (VT)
+	  - Code de l'urbanisme - art. R*441-7 (M)
+	  - Code de l'urbanisme - art. R*441-7-4 (Ab)
+	  - Code de la santé publique - art. L2 (M)
+	  - Code de la sécurité intérieure - art. L766-2 (V)
+
+	**Codifié par**:
+
+	  - Décret n°77-90 1977-01-27
+
+	**Modifié par**:
+
+	  - Loi n°86-2 du 3 janvier 1986 - art. 31 () JORF 4 JANVIER 1986
+
+	**Liens**:
+
+	  - SPEC_APPLI: CODE DES COMMUNES. - art. L181-1 (M)
+
+	**Anciens textes**:
+
+	  - Code de l'administration communale 97 COMPLETE
+
+
+###### Article L131-2-1
+
+Le maire exerce la police des baignades et des activités nautiques pratiquées à partir du rivage avec des engins de plage et
+des engins non immatriculés. Cette police s'exerce en mer jusqu'à une limite fixée à 300 mètres à compter de la limite des
+eaux.
+
+Le maire réglemente l'utilisation des aménagements réalisés pour la pratique de ces activités. Il pourvoit d'urgence à toute
+les mesures d'assistance et de secours.
+
+Le maire délimite une ou plusieurs zones surveillées dans les parties du littoral présentant une garantie suffisante pour la
+sécurité des baignades et des activités mentionnées ci-dessus. Il détermine des périodes de surveillance. Hors des zones et
+des périodes ainsi définies, les baignades et activités nautiques sont pratiquées aux risques et périls des intéressés.
+
+Le maire est tenu d'informer le public par une publicité appropriée, en mairie et sur les lieux où elles se pratiquent, des
+conditions dans lesquelles les baignades et les activités nautiques sont réglementées, ainsi que des résultats des contrôles
+de la qualité des eaux de ces baignades accompagnés des précisions necessaires à leur interprétation.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°77-90 1977-01-27
+
+	**Créé par**:
+
+	  - Loi n°86-2 du 3 janvier 1986 - art. 32 () JORF 4 janvier 1986
+
+	**Cité par**:
+
+	  - Décret n°88-531 du 2 mai 1988 - art. 12 (VT)
+	  - Décret n°88-531 du 2 mai 1988 - art. 5 (VT)
+	  - Décret n°88-531 du 2 mai 1988 - art. 8 (VT)
+	  - Arrêté du 27 mars 1991 - art. 1 (V)
+	  - CODE DES COMMUNES. - art. L131-13 (Ab)
+
+	**Liens**:
+
+	  - TXT_SOURCE: Arrêté du 27 mars 1991
+	  - TXT_SOURCE: Arrêté du 27 mars 1991 - art. 1 (V)
+	  - TXT_SOURCE: Arrêté du 27 mars 1991 - art. 2 (V)
+	  - TXT_SOURCE: Arrêté du 27 mars 1991 - art. 3 (V)
+	  - TXT_SOURCE: Arrêté du 27 mars 1991 - art. ANNEXE I (V)
+	  - TXT_SOURCE: Arrêté du 27 mars 1991 - art. ANNEXE II (V)
+
+	**Abrogé par**:
+
+	  - Loi n°96-142 du 21 février 1996 - art. 12 (V) JORF 24 février 1996
+
+	**Nouveaux textes**:
+
+	  - Code général des collectivités territoriales - art. L2213-23 (V)
+	  - Code général des collectivités territoriales - art. L2213-23 (M)
+
+
 ##### SECTION 2 : Pouvoirs de police du maire portant sur des objets particuliers.
 
 ###### Article L131-3
@@ -4591,6 +4731,70 @@ L'entretien du numérotage est à la charge du propriétaire qui doit se conform
 
 
 ##### SECTION 3 : Pouvoirs du représentant de l'Etat dans le département en matière de police municipale.
+
+###### Article L131-13
+
+Les pouvoirs qui appartiennent au maire, en vertu de l'article L. 131-2 et de l'article L. 131-2-1 ne font pas obstacle au
+droit du représentant de l'Etat dans le département de prendre, pour toutes les communes du département ou plusieurs d'entre
+elles, et dans tous les cas où il n'y aurait pas été pourvu par les autorités municipales, toutes mesures relatives au
+maintien de la salubrité, de la sûreté et de la tranquillité publiques.
+
+Ce droit ne peut être exercé par le représentant de l'Etat dans le département à l'égard d'une seule commune qu'après une
+mise en demeure au maire restée sans résultat.
+
+Quand le maintien de l'ordre est menacé dans deux ou plusieurs communes limitrophes, le représentant de l'Etat dans le
+département peut, par arrêté motivé, se substituer aux maires intéressés pour exercer les pouvoirs de police prévus au 2° et
+3° de l'article L. 131-2 et à l'article L. 131-2-1.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret n°63-651 du 6 juillet 1963 - art. 42 (Ab)
+	  - Décret n°67-265 du 23 mars 1967 - art. 42 (Ab)
+	  - Décret n°68-134 du 9 février 1968 - art. 1 (Ab)
+	  - Décret n°70-777 du 2 septembre 1970 - art. 49 (Ab)
+	  - Décret n°79-696 du 18 août 1979 - art. 56 (M)
+	  - Loi n°82-213 du 2 mars 1982 - art. 2 (Ab)
+	  - Loi n°82-213 du 2 mars 1982 - art. 34 (M)
+	  - Loi n°85-595 du 11 juin 1985 - art. 32 (Ab)
+	  - Loi n°86-1317 du 30 décembre 1986 - art. 42 (P)
+	  - Loi n°87-565 du 22 juillet 1987 - art. 5 (Ab)
+	  - Décret n°89-144 du 20 février 1989 - art. 49 (Ab)
+	  - Loi n°2004-811 du 13 août 2004 - art. 100 (Ab)
+	  - Arrêté du 23 novembre 1979 - art. Annexe ART. 102 (V)
+	  - CODE DES COMMUNES. - art. L182-1 (Ab)
+	  - CODE DES COMMUNES. - art. R323-120 (M)
+	  - CODE DES COMMUNES. - art. R352-26 (Ab)
+	  - CODE GENERAL DES IMPOTS, CGI. - art. 279 bis (M)
+	  - CODE GENERAL DES IMPOTS, CGI. - art. 281 bis K (Ab)
+	  - Code de la route - art. R225-1 (Ab)
+	  - Code de la route. - art. R441-4 (V)
+	  - Code de la route. - art. R442-5 (V)
+	  - Code de la santé publique - art. L3 (Ab)
+	  - Code rural ancien - art. 282 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°77-90 1977-01-27
+
+	**Modifié par**:
+
+	  - Loi n°86-2 du 3 janvier 1986 - art. 33 () JORF 4 janvier 1986
+
+	**Abrogé par**:
+
+	  - Loi n°96-142 du 21 février 1996 - art. 12 (V) JORF 24 février 1996
+
+	**Cite**:
+
+	  - CODE DES COMMUNES. - art. L131-2 (M)
+	  - CODE DES COMMUNES. - art. L131-2-1 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code général des collectivités territoriales - art. L2215-1 (M)
+
 
 ###### Article L131-14
 
@@ -5147,6 +5351,37 @@ La révision du classement d'une station suit les mêmes formes que le classemen
 
 ##### SECTION 2 : Office de tourisme.
 
+###### Article L142-5
+
+Dans les stations classées, ainsi que dans les communes littorale définies par la loi n° 86-2 du 3 janvier 1986 relative à
+l'aménagement, la protection et la mise en valeur du littoral il peut être institué par arrêté du représentant de l'Etat dans
+le département, à la demande du conseil municipal intéressé, un établissement public à caractère industriel et commercial,
+dénommé office du tourisme.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°77-90 1977-01-27
+
+	**Cite**:
+
+	  - Loi n°86-2 1986-01-03
+
+	**Modifié par**:
+
+	  - Loi n°86-2 du 3 janvier 1986 - art. 23 () JORF 4 janvier 1986
+
+	**Abrogé par**:
+
+	  - Loi n°96-142 du 21 février 1996 - art. 12 (V) JORF 24 février 1996
+
+	**Nouveaux textes**:
+
+	  - Code général des collectivités territoriales - art. L2231-9 (MMN)
+	  - Code général des collectivités territoriales - art. L2231-9 (M)
+
+
 ###### Article L142-6
 
 L'office du tourisme [*attributions*] est chargé de promouvoir le tourisme dans la station. 
@@ -5296,6 +5531,46 @@ Le budget et les comptes de l'office, délibérés par le comité de direction, 
 	**Abrogé par**:
 
 	  - Loi n°96-142 du 21 février 1996 - art. 12 (V)
+
+
+###### Article L142-12
+
+Des décrets en Conseil d'Etat déterminent les conditions d'application de la présente section et ses modalités d'adaptation
+aux différentes catégories de stations classées.
+
+Ces décrets prévoient notamment l'adaptation des dispositions de la présente section :
+
+1° Aux stations dont le ressort s'étend sur plusieurs communes ou fractions de commune. Dans ce cas, ils doivent prescrire la
+consultation préalable des conseils municipaux intéressés ainsi que le cas échéant, leur représentation équitable dans le
+comité de direction.
+
+2° Aux stations dont l'équipement et l'exploitation ont fait l'objet de concessions de la commune ou des communes
+intéressées.
+
+3° Aux communes littorales, au sens de la loi n° 86-2 du 3 janvier 1986 précité qui ne sont pas des stations classées.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°77-90 1977-01-27
+
+	**Cite**:
+
+	  - Loi n°86-2 1986-01-03
+
+	**Modifié par**:
+
+	  - Loi n°86-2 du 3 janvier 1986 - art. 23 () JORF 4 janvier 1986
+
+	**Abrogé par**:
+
+	  - Loi n°96-142 du 21 février 1996 - art. 12 (V) JORF 24 février 1996
+
+	**Nouveaux textes**:
+
+	  - Code général des collectivités territoriales - art. L2231-16 (MMN)
+	  - Code général des collectivités territoriales - art. L2231-16 (M)
 
 
 #### CHAPITRE 3 : Dispositions particulières aux diverses catégories de stations
@@ -13399,163 +13674,6 @@ en autoriser l'exécution immédiate.
 
 ### POLICE
 
-#### DISPOSITIONS GENERALES
-
-##### POUVOIRS GENERAUX DU MAIRE EN MATIERE DE POLICE .
-
-###### Article L131-2
-
-La police municipale a pour objet d'assurer le bon ordre, la sûreté, la sécurité et la salubrité publiques. Elle comprend
-notamment :
-
-1. Tout ce qui intéresse la sûreté et la commodité du passage dans les rues, quais, places et voies publiques, ce qui
-comprend le nettoiement, l'éclairage, l'enlèvement des encombrements, la démolition ou la réparation des édifices menaçant
-ruine, l'interdiction de rien exposer aux fenêtres ou autres parties des édifices qui puisse nuire par sa chute ou celle de
-rien jeter qui puisse endommager les passants ou causer des exhalaisons nuisibles ;
-
-2. Le soin de réprimer les atteintes à la tranquillité publique, telle que les rixes et disputes accompagnées d'ameutement
-dans les rues, le tumulte excité dans les lieux d'assemblée publique, les attroupements, les bruits et rassemblements
-nocturnes qui troublent le repos des habitants et tous actes de nature à compromettre la tranquillité publique.
-
-3. Le maintien du bon ordre dans les endroits où il se fait de grands rassemblements d'hommes, tels que les foires, marchés,
-réjouissances et cérémonies publiques, spectacles, jeux, cafés, églises et autres lieux publics ;
-
-4. Le mode de transport des personnes décédées, les inhumations et les exhumations, le maintien du bon ordre et de la décence
-dans les cimetières, sans qu'il soit permis d'établir les distinctions ou des prescriptions particulières à raison des
-croyances ou du culte du défunt, ou des circonstances qui ont accompagné sa mort ;
-
-5. L'inspection sur la fidélité du débit des denrées qui se vendent au poids ou à la mesure, et sur la salubrité des
-comestibles exposés en vente.
-
-6. Le soin de prévenir, par des précautions convenables, et de faire cesser, par la distribution des secours nécessaires, les
-accidents et les fléaux calamiteux ainsi que les pollutions de toute nature, tels que les incendies, les inondations, les
-ruptures de digues, les éboulements de terre ou de rochers, les avalanches ou autres accidents naturels, les maladies
-épidémiques ou contagieuses, les épizooties, de pourvoir d'urgence à toutes les mesures d'assistance et de secours et, s'il y
-a lieu, de provoquer l'intervention de l'administration supérieure ;
-
-7. Le soin de prendre provisoirement les mesures nécessaires contre les aliénés dont l'état pourrait compromettre la morale
-publique, la sécurité des personnes ou la conservation des propriétés ;
-
-8. Le soin d'obvier ou de remédier aux événements fâcheux qui pourraient être occasionnés par la divagation des animaux
-malfaisants ou féroces ;
-
-9. Le soin de réglementer la fermeture annuelle des boulangeries, lorsque cette fermeture est rendue nécessaire pour
-l'application de la législation sur les congés payés, après consultation des organisations patronales et ouvrières
-[*conditions de forme*], de manière à assurer le ravitaillement de la population.
-
-**Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - SPEC_APPLI: *Dispositions non applicables aux communes des départements de la Moselle, du Bas-Rhin et du Haut-Rhin (Alsace-Lorraine)*
-	  - SPEC_APPLI: Code des communes L181-1 :
-
-	**Anciens textes**:
-
-	  - Code de l'administration communale 97 COMPLETE
-
-	**Cité par**:
-
-	  - Loi du 9 décembre 1905 concernant la séparation... - art. 27 (M)
-	  - Décret n°68-134 du 9 février 1968 - art. 1 (Ab)
-	  - Loi n°86-1317 du 30 décembre 1986 - art. 42 (P)
-	  - Décret n°92-76 du 21 janvier 1992 - art. 1 (Ab)
-	  - Décret n°94-343 du 26 avril 1994 - art. 1 (Ab)
-	  - Décret n°95-572 du 6 mai 1995 - art. 1 (Ab)
-	  - Arrêté du 28 février 1996 - art. 5 (V)
-	  - Loi n°2004-811 du 13 août 2004 - art. 100 (Ab)
-	  - Arrêté du 23 novembre 1979 - art. Annexe ART. 102 (V)
-	  - CODE DES COMMUNES. - art. L131-13 (Ab)
-	  - CODE DES COMMUNES. - art. L131-7 (Ab)
-	  - CODE DES COMMUNES. - art. L132-8 (Ab)
-	  - CODE DES COMMUNES. - art. L181-40 (Ab)
-	  - CODE DES COMMUNES. - art. L181-45 (Ab)
-	  - CODE DES COMMUNES. - art. L181-47 (Ab)
-	  - CODE DES COMMUNES. - art. L331-1 (Ab)
-	  - CODE GENERAL DES IMPOTS, CGI. - art. 279 bis (M)
-	  - CODE GENERAL DES IMPOTS, CGI. - art. 281 bis K (Ab)
-	  - Code de l'aviation civile - art. L213-2 (VT)
-	  - Code de l'urbanisme - art. R*441-7 (M)
-	  - Code de l'urbanisme - art. R*441-7-4 (Ab)
-	  - Code de la santé publique - art. L2 (M)
-	  - Code de la sécurité intérieure - art. L766-2 (V)
-
-	**Codifié par**:
-
-	  - Décret n°77-90 1977-01-27
-
-	**Modifié par**:
-
-	  - Loi n°83-8 du 7 janvier 1983 - art. 90 () JORF 9 JANVIER 1983
-
-
-##### Pouvoirs du représentant de l'Etat dans le département en matière de police municipale .
-
-###### Article L131-13
-
-Les pouvoirs [*généraux en matière de police*] qui appartiennent au maire, en vertu de l'article L. 131-2, ne font pas
-obstacle au droit du représentant de l'Etat dans le département [*commissaire de la République*] de prendre, pour toutes les
-communes du département ou plusieurs d'entre elles, et dans tous les cas où il n'y aurait pas été pourvu par les autorités
-municipales, toutes mesures relatives au maintien de la salubrité, de la sûreté et de la tranquillité publiques.
-
-Ce droit ne peut être exercé par le représentant de l'Etat dans le département à l'égard d'une seule commune qu'après une
-mise en demeure au maire restée sans résultat [*condition*] .
-
-Quand le maintien de l'ordre est menacé dans deux ou plusieurs communes limitrophes, le représentant de l'Etat dans le
-département peut, par arrêté motivé, se substituer aux maires intéressés pour exercer les pouvoirs de police prévus au 2° et
-3° de l'article L. 131-2 [*maintien de l'ordre dans les lieux publics de rassemblement, répression des atteintes à la
-tranquillité publique*].
-
-**Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - SPEC_APPLI: *Dispositions non applicables aux communes des départements de la Moselle, du Bas-Rhin et du Haut-Rhin (Alsace-Lorraine)*
-	  - SPEC_APPLI: Code des communes L181-1 :
-
-	**Cité par**:
-
-	  - Décret n°63-651 du 6 juillet 1963 - art. 42 (Ab)
-	  - Décret n°67-265 du 23 mars 1967 - art. 42 (Ab)
-	  - Décret n°68-134 du 9 février 1968 - art. 1 (Ab)
-	  - Décret n°70-777 du 2 septembre 1970 - art. 49 (Ab)
-	  - Décret n°79-696 du 18 août 1979 - art. 56 (M)
-	  - Loi n°82-213 du 2 mars 1982 - art. 2 (Ab)
-	  - Loi n°82-213 du 2 mars 1982 - art. 34 (M)
-	  - Loi n°85-595 du 11 juin 1985 - art. 32 (Ab)
-	  - Loi n°86-1317 du 30 décembre 1986 - art. 42 (P)
-	  - Loi n°87-565 du 22 juillet 1987 - art. 5 (Ab)
-	  - Décret n°89-144 du 20 février 1989 - art. 49 (Ab)
-	  - Loi n°2004-811 du 13 août 2004 - art. 100 (Ab)
-	  - Arrêté du 23 novembre 1979 - art. Annexe ART. 102 (V)
-	  - CODE DES COMMUNES. - art. L182-1 (Ab)
-	  - CODE DES COMMUNES. - art. R323-120 (M)
-	  - CODE DES COMMUNES. - art. R352-26 (Ab)
-	  - CODE GENERAL DES IMPOTS, CGI. - art. 279 bis (M)
-	  - CODE GENERAL DES IMPOTS, CGI. - art. 281 bis K (Ab)
-	  - Code de la route - art. R225-1 (Ab)
-	  - Code de la route. - art. R441-4 (V)
-	  - Code de la route. - art. R442-5 (V)
-	  - Code de la santé publique - art. L3 (Ab)
-	  - Code rural ancien - art. 282 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°77-90 1977-01-27
-
-	**Modifié par**:
-
-	  - Loi n°82-213 du 2 mars 1982 - art. 21 (V) JORF 3 MARS 1982
-
-	**Cite**:
-
-	  - CODE DES COMMUNES. - art. L131-2 (M)
-
-	**Anciens textes**:
-
-	  - Code de l'administration communale 107
-
-
 #### Responsabilités des communes
 
 ##### Dispositions générales .
@@ -13869,31 +13987,6 @@ désordre.
 
 ##### Office de tourisme .
 
-###### Article L142-5
-
-Dans les stations classées, il peut être institué par arrêté du représentant de l'Etat dans le département [*commissaire de
-la République*], à la demande du conseil municipal intéressé [*condition de forme*], un établissement public à caractère
-industriel et commercial [*nature juridique*], dénommé office du tourisme.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°77-90 1977-01-27
-
-	**Nouveaux textes**:
-
-	  - Code général des collectivités territoriales - art. L2231-9 (MMN)
-
-	**Anciens textes**:
-
-	  - Loi n°64-898 1964-07-10 art. 1
-
-	**Modifié par**:
-
-	  - Loi n°82-213 du 2 mars 1982 - art. 21 (V) JORF 3 MARS 1982
-
-
 ###### Article L142-10
 
 Le budget de l'office [*ressources*] comprend notamment en recettes le produit :
@@ -13942,43 +14035,6 @@ additionnelle aux droits d'enregistrement sur les mutations à titre onéreux.
 	**Anciens textes**:
 
 	  - Loi n°64-898 1964-07-10 art. 6
-
-
-###### Article L142-12
-
-Des décrets en Conseil d'Etat déterminent les conditions d'application de la présente section et ses modalités d'adaptation
-aux différentes catégories de stations classées. 
-
-Ces décrets prévoient notamment l'adaptation des dispositions de la présente section :
-
-1° Aux stations dont le ressort s'étend sur plusieurs communes ou fractions de commune. Dans ce cas, ils doivent prescrire la
-consultation préalable des conseils municipaux intéressés ainsi que le cas échéant, leur représentation équitable dans le
-comité de direction [*composition*] . 
-
-2° Aux stations dont l'équipement et l'exploitation ont fait l'objet de concessions de la commune ou des communes
-intéressées.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°77-90 1977-01-27
-
-	**Créé par**:
-
-	  - Décret n°77-90 1977-01-27 JORF et JONC 3 février 1977 date d'entrée en vigueur élection des maires
-
-	**Cite**:
-
-	  - Code des communes L142-5 à L142-12
-
-	**Nouveaux textes**:
-
-	  - Code général des collectivités territoriales - art. L2231-16 (MMN)
-
-	**Anciens textes**:
-
-	  - Loi n°64-898 1964-07-10 art. 8
 
 
 ### Intérêts propres à certaines catégories d'habitants
@@ -23069,8 +23125,9 @@ La taxe est recouvrée par le distributeur dans les conditions fixées par décr
 
 ###### Article L233-29
 
-Dans les stations classées ainsi que dans les communes qui bénéficient de la dotation visée à l'article L. 234-14 du présent
-code, il peut être institué, par délibération du conseil municipal, une taxe dite "taxe de séjour".
+Dans les stations classées, dans les communes qui bénéficient de la dotation visée à l'article L. 234-14 du présent code,
+ainsi que dans les communes littorales au sens de la loi n° 86-2 du 3 janvier 1986 précitée, il peut être institué, par
+délibération du conseil municipal, une taxe dite "taxe de séjour".
 
 **Liens relatifs à cet article**
 
@@ -23078,9 +23135,9 @@ code, il peut être institué, par délibération du conseil municipal, une taxe
 
 	  - Décret n°77-90 1977-01-27
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°81-1160 du 30 décembre 1981 - art. 117 () JORF 31 décembre 1981
+	  - Loi n°86-2 du 3 janvier 1986 - art. 23 () JORF 4 janvier 1986
 
 	**Cité par**:
 
