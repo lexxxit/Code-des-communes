@@ -1,5 +1,5 @@
 # Code des communes  
-Version Consolidée au 1979-08-19
+Version Consolidée au 1979-11-04
 
 # ORGANISATION COMMUNALE
 
@@ -100694,6 +100694,35 @@ fonction publique territoriale. *]
 	  - SPEC_APPLI: Décret n°87-811 du 5 octobre 1987 - art. 52 (M)
 
 
+###### Article R412-64
+
+Chacun des vingt membres élus du conseil d'administration est remplacé, le cas échéant, par un suppléant élu dans les mêmes
+conditions.
+
+Un membre élu du conseil d'administration empêché d'assister à une séance peut donner à un suppléant pouvoir écrit de voter
+lors de cette séance en son nom. Un même suppléant ne peut être porteur que d'un seul mandat. Le mandat est toujours
+révocable.
+
+**Nota:**
+
+[*Cet article est abrogé à compter de la date d'installation du premie conseil d'administration du centre national de la
+fonction publique territoriale. *]
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Abrogé par**:
+
+	  - Décret n°85-915 1985-08-27 art. 16 jorf 30 août 1985
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°87-811 du 5 octobre 1987 - art. 52 (M)
+
+
 ###### Article R412-65
 
 Les membres élus qui, sans excuse valable, n'auraient pas personnellement assisté à trois réunions consécutives peuvent être
@@ -109504,30 +109533,6 @@ limite de 2 p. 100 [*pourcentage*] des médailles d'argent décernées.
 	**Cité par**:
 
 	  - CODE DES COMMUNES. - art. R411-46 (M)
-
-
-#### CENTRE DE FORMATION DES PERSONNELS COMMUNAUX
-
-##### LE  CONSEIL D'ADMINISTRATION .
-
-###### Article R412-64
-
-Chacun des vingt membres [*nombre*] élus du conseil d'administration est remplacé, le cas échéant, par un suppléant élu dans
-les même conditions.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°73-290 1973-03-09 ART. 5 AL. 4
-
-	**Codifié par**:
-
-	  - Décret n°77-373 1977-03-28
-
-	**Créé par**:
-
-	  - Décret n°77-373 1977-03-28 JORF et JONC 5 avril 1977
 
 
 #### Recrutement, formation et promotion sociale
