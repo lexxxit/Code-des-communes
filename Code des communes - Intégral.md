@@ -1,5 +1,5 @@
 # Code des communes  
-Version Consolidée au 1996-07-28
+Version Consolidée au 1996-11-29
 
 # Partie législative
 
@@ -21458,6 +21458,35 @@ l'article R. 236-22.
 	  - CODE DES COMMUNES. - art. R236-22 (Ab)
 
 
+###### Article R236-26
+
+La caisse d'aide à l'équipement des collectivités locales :
+
+- est consultée par le comité des investissements à caractère économique et social sur les programmes d'équipement des
+collectivités locales qui sont soumis aux délibérations de ce conseil;
+
+- peut être chargée de toutes études et missions relatives au financement de ces équipements soit par les collectivités
+elles-mêmes, soit par les administrations chargées de leur contrôle, soit par les institutions financières.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°60-953 1960-09-08 art. 3 al. 3 et 4
+
+	**Codifié par**:
+
+	  - Décret n°77-91 1977-01-27
+
+	**Modifié par**:
+
+	  - Décret n°96-1022 du 27 novembre 1996 - art. 8 ()
+
+	**Abrogé par**:
+
+	  - Décret n°2000-1187 du 5 décembre 2000 - art. 1 (V)
+
+
 ###### Article R236-26 bis
 
 Pour l'exécution de sa mission, la Caisse d'aide à l'équipement des collectivités locales peut constituer avec d'autres
@@ -22230,37 +22259,6 @@ décret n° 54-803 du 11 août 1954.
 	**Cité par**:
 
 	  - CODE DES COMMUNES. - art. R*262-12 (Ab)
-
-
-#### CHAPITRE 6 : Avances, emprunts et garanties d'emprunt
-
-##### SECTION 3 : Emprunts émis par l'intermédiaire de la caisse d'aide à l'équipement des collectivités locales
-
-##### SOUS-SECTION 3 : Attributions de la caisse d'aide à l'équipement des collectivités locales.
-
-###### Article R236-26
-
-La caisse d'aide à l'équipement des collectivités locales :
-
-- est consultée par le conseil de direction du fonds de développement économique et social sur les programmes d'équipement
-des collectivités locales qui sont soumis aux délibérations de ce conseil ; 
-
-- peut être chargée de toutes études et missions relatives au financement de ces équipements soit par les collectivités
-elles-mêmes, soit par les administrations chargées de leur contrôle, soit par les institutions financières.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°60-953 1960-09-08 art. 3 al. 3 et 4
-
-	**Codifié par**:
-
-	  - Décret n°77-91 1977-01-27
-
-	**Créé par**:
-
-	  - Décret n°77-91 1977-01-27 JORF et JONC 3 février 1977 date d'entrée en vigueur élection des maires
 
 
 ### TITRE 4 : Comptabilité
