@@ -1,5 +1,5 @@
 # Code des communes  
-Version Consolidée au 2000-02-29
+Version Consolidée au 2000-03-01
 
 # Partie législative
 
@@ -10366,6 +10366,40 @@ est le ou les commissaires de la République intéressés.
 	  - CODE DES COMMUNES. - art. L163-16 (M)
 
 
+##### SECTION 4 : Disparition du syndicat.
+
+###### Article R*163-6
+
+Lorsqu'un syndicat de communes ne compte plus, par suite de l'application des articles L. 5211-41-1, L. 5215-22, L.
+5215-40-1, L. 5216-7 et L. 5216-10 du code général des collectivités territoriales, qu'une seule commune membre, sa
+disparition est constatée par arrêté du ou des représentants de l'Etat dans le ou les départements et le syndicat est liquidé
+dans les conditions prévues aux articles L. 5211-25-1 et L. 5211-26 du code général des collectivités territoriales.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°77-91 1977-01-27
+
+	**Modifié par**:
+
+	  - Décret n°2000-170 du 29 février 2000 - art. 1 ()
+
+	**Nouveaux textes**:
+
+	  - Code général des collectivités territoriales - art. L5212-33 (V)
+
+	**Cite**:
+
+	  - Code général des collectivités territoriales - art. L5211-25-1 (M)
+	  - Code général des collectivités territoriales - art. L5211-26 (T)
+	  - Code général des collectivités territoriales - art. L5211-41-1 (M)
+	  - Code général des collectivités territoriales - art. L5215-22 (M)
+	  - Code général des collectivités territoriales - art. L5215-40-1 (M)
+	  - Code général des collectivités territoriales - art. L5216-10 (M)
+	  - Code général des collectivités territoriales - art. L5216-7 (Ab)
+
+
 #### CHAPITRE 4 : Districts.
 
 ###### Article R*164-2
@@ -11776,6 +11810,64 @@ visé au 4° du même article.
 	  - CODE DES COMMUNES R160-12 à R160-16
 	  - Code général des collectivités territoriales - art. L5211-43 (V)
 	  - Code général des collectivités territoriales - art. L5721-6-3 (V)
+
+
+###### Article R166-3
+
+Les dispositions de l'article R. 163-6 sont applicables aux syndicats mixtes définis à l'article L. 5711-1 du code général
+des collectivités territoriales.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°77-91 1977-01-27
+
+	**Créé par**:
+
+	  - Décret n°2000-170 du 29 février 2000 - art. 1 ()
+
+	**Cite**:
+
+	  - CODE DES COMMUNES R163-6
+	  - Code général des collectivités territoriales - art. L5711-1 (M)
+
+	**Nouveaux textes**:
+
+	  - Code général des collectivités territoriales - art. R5711-5 (V)
+
+
+###### Article R166-4
+
+Lorsqu'un syndicat mixte défini à l'article L. 5721-2 ne compte plus, par suite de l'application des articles L. 5211-41-1,
+L. 5215-22, L. 5215-40-1, L. 5216-7 et L. 5216-10 du code général des collectivités territoriales, qu'un seul membre, sa
+disparition est constatée par arrêté du représentant de l'Etat dans le département où il a son siège et le syndicat est
+liquidé dans les conditions prévues aux articles L. 5211-25-1 et L. 5211-26 du code général des collectivités territoriales.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°77-91 1977-01-27
+
+	**Créé par**:
+
+	  - Décret n°2000-170 du 29 février 2000 - art. 1 ()
+
+	**Cite**:
+
+	  - CODE DES COMMUNES L5721-2
+	  - Code général des collectivités territoriales - art. L5211-25-1 (M)
+	  - Code général des collectivités territoriales - art. L5211-26 (T)
+	  - Code général des collectivités territoriales - art. L5211-41-1 (M)
+	  - Code général des collectivités territoriales - art. L5215-22 (M)
+	  - Code général des collectivités territoriales - art. L5215-40-1 (M)
+	  - Code général des collectivités territoriales - art. L5216-10 (M)
+	  - Code général des collectivités territoriales - art. L5216-7 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code général des collectivités territoriales - art. R5721-2 (V)
 
 
 #### CHAPITRE 7 : Dévolution de compétences à une communauté de communes.
