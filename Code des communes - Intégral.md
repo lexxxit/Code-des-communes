@@ -1,5 +1,5 @@
 # Code des communes  
-Version Consolidée au 1989-01-04
+Version Consolidée au 1989-01-14
 
 # Statuts types d'une caisse communale de secours et de retraite de sapeurs-pompiers
 
@@ -9869,6 +9869,57 @@ opérations.
 
 ##### SECTION 5 : Le conseil de communauté
 
+##### SOUS-SECTION 1 : Dispositions générales.
+
+###### Article L165-24
+
+La communauté urbaine est administrée par un conseil composé de délégués des communes.
+
+Le conseil règle [*attributions*] par ses délibérations les affaires qui sont de la compétence de la communauté.
+
+Les délégués des communes directement représentées au conseil de communauté sont désignés par chaque conseil municipal en son
+sein. Toutefois, au cas où le nombre des conseillers municipaux est inférieur au nombre de sièges attribués à la commune, le
+conseil municipal peut désigner tout citoyen éligible au conseil municipal de la commune pour occuper les sièges qui ne
+peuvent être pourvus par des conseillers municipaux.
+
+Les délégués des communes non directement représentées au conseil de communauté sont désignés au sein des conseils municipaux
+de ces communes par un collège composé conformément aux dispositions des articles L. 165-29 ou L. 165-30.
+
+" L'élection des délégués des communes visés aux deux alinéas précédents s'effectue selon les modalités suivantes :
+
+" 1° S'il n'y a qu'un délégué, est appliquée la procédure prévue au dernier alinéa de l'article L. 121-12 ;
+
+" 2° Dans les autres cas, l'élection s'effectue au [*mode*] scrutin de liste sans panachage ni vote préférentiel ; la
+répartition des sièges entre les listes est opérée selon les règles de la représentation proportionnelle à la plus forte
+moyenne. "
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - SPEC_APPLI: *Dispositions non applicables aux communes des départements de la Guadeloupe, de la Guyane, de la Martinique, de la Réunion et de Saint-Pierre-et-Miquelon*
+	  - SPEC_APPLI: CODE DES COMMUNES. - art. L182-1 (Ab)
+	  - SPEC_APPLI: Code des communes L182-1, L182-2 :
+
+	**Anciens textes**:
+
+	  - Loi n°66-1069 1966-12-31 ART. 15 I AL. 1 (PARTIE) ET ART. 17 AL. 1
+
+	**Codifié par**:
+
+	  - Décret n°77-90 1977-01-27
+
+	**Modifié par**:
+
+	  - Loi n°89-19 du 13 janvier 1989 - art. 15 () JORF 14 JANVIER 1989
+
+	**Cite**:
+
+	  - CODE DES COMMUNES. - art. L121-12 (M)
+	  - CODE DES COMMUNES. - art. L165-29 (M)
+	  - CODE DES COMMUNES. - art. L165-30 (M)
+
+
 ##### SOUS-SECTION 2 : Composition du conseil de communauté et désignation de ses membres.
 
 ###### Article L165-25
@@ -14495,55 +14546,6 @@ en autoriser l'exécution immédiate.
 	**Cite**:
 
 	  - CODE DES COMMUNES. - art. L131-3 (M)
-
-
-### INTERETS COMMUNS A PLUSIEURS COMMUNES
-
-#### COMMUNAUTES URBAINES
-
-##### Le conseil de communauté
-
-##### Dispositions générales
-
-###### Article L165-24
-
-La communauté urbaine est administrée par un conseil composé de délégués des communes.
-
-Le conseil règle [*attributions*] par ses délibérations les affaires qui sont de la compétence de la communauté.
-
-Les délégués des communes directement représentées au conseil de communauté sont désignés par chaque conseil municipal en son
-sein. Toutefois, au cas où le nombre des conseillers municipaux est inférieur au nombre de sièges attribués à la commune, le
-conseil municipal peut désigner tout citoyen éligible au conseil municipal de la commune pour occuper les sièges qui ne
-peuvent être pourvus par des conseillers municipaux.
-
-Les délégués des communes non directement représentées au conseil de communauté sont désignés au sein des conseils municipaux
-de ces communes par un collège composé conformément aux dispositions des articles L. 165-29 ou L. 165-30. Ce collège
-détermine, à la majorité absolue des suffrages exprimés, le mode de scrutin applicable à la désignation des délégués.
-
-**Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - SPEC_APPLI: *Dispositions non applicables aux communes des départements de la Guadeloupe, de la Guyane, de la Martinique, de la Réunion et de Saint-Pierre-et-Miquelon*
-	  - SPEC_APPLI: CODE DES COMMUNES. - art. L182-1 (Ab)
-	  - SPEC_APPLI: Code des communes L182-1, L182-2 :
-
-	**Anciens textes**:
-
-	  - Loi n°66-1069 1966-12-31 ART. 15 I AL. 1 (PARTIE) ET ART. 17 AL. 1
-
-	**Codifié par**:
-
-	  - Décret n°77-90 1977-01-27
-
-	**Modifié par**:
-
-	  - Loi n°82-1169 1982-12-31 ART. 45 JORF 1ER JANVIER 1983 date d'entrée en vigueur 13 MARS 1983
-
-	**Cite**:
-
-	  - CODE DES COMMUNES. - art. L165-29 (M)
-	  - CODE DES COMMUNES. - art. L165-30 (M)
 
 
 ## LIVRE 2 : Finances communales
