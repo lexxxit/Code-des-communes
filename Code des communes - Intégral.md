@@ -1,5 +1,5 @@
 # Code des communes  
-Version Consolidée au 1982-11-16
+Version Consolidée au 1982-11-18
 
 # ORGANISATION COMMUNALE
 
@@ -67565,6 +67565,22 @@ autorisée pendant deux périodes (saison d'été et saison d'hiver), la taxe es
 	  - Décret n°77-91 1977-01-27 JORF et JONC 3 février 1977 date d'entrée en vigueur élection des maires
 
 
+###### Article R*233-42
+
+Dans les communes touristiques ou thermales et leurs groupements inscrits sur la liste visée à l'article L. 234-11 du présent
+code, la taxe de séjour peut être instituée dans les mêmes conditions que celles qui s'appliquent aux stations classées.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°77-91 1977-01-27
+
+	**Cite**:
+
+	  - CODE DES COMMUNES. - art. L234-11 (M)
+
+
 ###### Article R233-41
 
 Dans les stations où la saison s'étend sur deux années différentes, si un séjour chevauche sur les deux années,
@@ -67695,6 +67711,34 @@ f° Les fonctionnaires et agents de l'Etat appelés temporairement dans la stati
 	**Créé par**:
 
 	  - Décret n°77-91 1977-01-27 JORF et JONC 3 février 1977 date d'entrée en vigueur élection des maires
+
+
+###### Article R*233-48
+
+Les enfants de moins de dix ans bénéficient d'une réduction de 50 p. 100 [*pourcentage*] du montant de la taxe ; les enfants
+de moins de quatre ans en sont exonérés [*conditions d'âge*].
+
+En outre, les membres des familles nombreuses porteurs de la carte d'identité qui leur est délivrée en vertu de la loi du 24
+décembre 1940 bénéficient des mêmes réductions que pour le prix des transports sur les chemins de fer d'intérêt général.
+
+Le conseil municipal peut décider d'augmenter le montant des réductions prévues aux deux alinéas ci-dessus.
+
+Il peut de même décider d'exonérer partiellement ou totalement les personnes bénéficiaires du chèque-vacances ainsi que les
+mineurs de moins de dix-huit ans.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°58-1268 1958-12-17 ART. 3
+
+	**Codifié par**:
+
+	  - Décret n°77-91 1977-01-27
+
+	**Cite**:
+
+	  - Loi n°1940-12-24
 
 
 ###### Article R233-45
@@ -68352,62 +68396,6 @@ forme[**].
 	  - Décret n°87-45 du 29 janvier 1987 - art. 8 (Ab)
 
 
-##### Taxes particulières aux stations *classées*
-
-##### Taxe de séjour
-
-##### Dispositions générales.
-
-###### Article R*233-42
-
-Le décret en Conseil d'Etat, prévu au deuxième alinéa de l'article L. 233-32, modifiant la période de perception de la taxe
-de séjour est pris sur la proposition du ministre ayant l'initiative de classement [*compétence*].
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°77-91 1977-01-27
-
-	**Créé par**:
-
-	  - Décret n°77-91 1977-01-27 JORF et JONC 3 février 1977 date d'entrée en vigueur élection des maires
-
-	**Cite**:
-
-	  - Code des communes L233-32 al. 2
-
-
-##### Tarifs de la taxe de séjour.
-
-###### Article R*233-48
-
-Les enfants de moins de dix ans bénéficient d'une réduction de 50 p. 100 [*pourcentage*] du montant de la taxe ;
-
-les enfants de moins de quatre ans en sont exonérés [*conditions d'âge*]. 
-
-En outre, les membres des familles nombreuses porteurs de la carte d'identité qui leur est délivrée en vertu de la loi du 24
-décembre 1940 bénéficient des mêmes réductions que pour le prix des transports sur les chemins de fer d'intérêt général.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°58-1268 1958-12-17 art. 3
-
-	**Codifié par**:
-
-	  - Décret n°77-91 1977-01-27
-
-	**Créé par**:
-
-	  - Décret n°77-91 1977-01-27 JORF et JONC 3 février 1977 date d'entrée en vigueur élection des maires
-
-	**Cite**:
-
-	  - Loi n°1940-12-24
-
-
 ##### Taxes destinées au financement des transports en commun
 
 ##### Versement destiné aux transports en commun
@@ -68573,6 +68561,46 @@ aéroport situé, même partiellement, sur leur territoire.
 	**Liens**:
 
 	  - SPEC_APPLI: Loi n°80-1102 1980-12-31 : *Ces dispositions ne sont applicables que jusqu'au 1er janvier 1986*
+	  - SPEC_APPLI: Code des communes R262-1, R262-12 : *Dispositions non applicables aux communes des départements de la Guadeloupe, de la Martinique, de la Guyane, de la Réunion et de Saint-Pierre-et-Miquelon*
+
+
+###### Article R*234-21
+
+L'indice pondéré de capacité d'accueil est constaté chaque année par le commissaire de la République en tenant compte des
+possibilités d'hébergement touristique de la commune au 1er janvier sur la base des enquêtes effectuées à cette date.
+
+Cet indice est obtenu en totalisant les chiffres résultant des produits suivants :
+
+- nombre de chambres dans les hôtels de tourismes des deux catégories les plus élevées, multiplié par 6 ;
+
+- nombre de chambres dans les hôtels de tourisme des autres catégories, multiplié par 4 ;
+
+- nombre de chambres dans les hôtels non classés hôtels de tourisme, multiplié par 2 ;
+
+- nombre de places dans les villages de vacances, multiplié par 1,5 ;
+
+- nombre de places dans les terrains de camping et les terrains aménagés pour le stationnement des caravanes, multiplié par
+0,75 ;
+
+- nombre de logements meublés exemptés de taxe professionnelle et donnant lieu à des locations saisonnières, y compris les
+gîtes ruraux ou communaux, multiplié par 3 ;
+
+- nombre de pièces dans les logements meublés, autres que ceux qui sont prévus ci-dessus, multiplié par 1 ;
+
+- nombre de places dans les hôpitaux thermaux et établissements similaires, multiplié par 1,5 ;
+
+- nombre de places d'hébergement collectif dans les établissements publics ou privés, tels que colonies de vacances, auberges
+de jeunesse, centres de vacances, maisons familiales de vacances, multiplié par 0,75.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°77-91 1977-01-27
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°80-1102 1980-12-31 :
 	  - SPEC_APPLI: Code des communes R262-1, R262-12 : *Dispositions non applicables aux communes des départements de la Guadeloupe, de la Martinique, de la Guyane, de la Réunion et de Saint-Pierre-et-Miquelon*
 
 
@@ -68870,48 +68898,6 @@ a atteint pour la cinquième année.
 	**Abrogé par**:
 
 	  - Décret n°88-625 du 6 mai 1988 - art. 3 (Ab)
-
-
-#### DOTATION SUPPLEMENTAIRE VERSEE AUX COMMUNES TOURISTIQUES OU THERMALES ET A LEURS GROUPEMENTS.
-
-###### Article R*234-21
-
-L'indice pondéré de capacité d'accueil existante est constaté chaque année par le préfet en tenant compte des possibilités
-d'hébergement touristique de la commune au 1er janvier.
-
-Cet indice est obtenu en totalisant les chiffres résultant des produits suivants :
-
-- nombre de chambres dans les hôtels de tourisme des deux catégories les plus élevées, multiplié par 6 ;
-
-- nombre de chambres dans les hôtels de tourisme des autres catégories, multiplié par 4 ;
-
-- nombre de chambres dans les hôtels non classés hôtels de tourisme, multiplié par 2 ;
-
-- nombre de places dans les villages de vacances, multiplié par 1,5 ;
-
-- nombre de places dans les terrains de camping et les terrains aménagés pour le stationnement des caravanes, multiplié par
-0,75 ;
-
-- nombre de logements meublés exemptés de taxe professionnelle et donnant lieu à des locations saisonnières, y compris les
-gîtes ruraux ou communaux, multiplié par 3 ;
-
-- nombre de pièces dans les logements meublés, autres que ceux qui sont prévus ci-dessus, multiplié par 1 ;
-
-- nombre de places dans les hôpitaux thermaux et établissements similaires, multiplié par 1,5 ;
-
-- nombre de places d'hébergement collectif dans les établissements publics ou privés, tels que colonies de vacances, auberges
-de jeunesse, centres de vacances, maisons familiales de vacances, multiplié par 0,75.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°77-91 1977-01-27
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°80-1102 1980-12-31 : *Ces dispositions ne sont applicables que jusqu'au 1er janvier 1986*
-	  - SPEC_APPLI: Code des communes R262-1, R262-12 : *Dispositions non applicables aux communes des départements de la Guadeloupe, de la Martinique, de la Guyane, de la Réunion et de Saint-Pierre-et-Miquelon*
 
 
 ### Dispositions applicables à certains établissements communaux
