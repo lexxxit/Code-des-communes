@@ -1,5 +1,5 @@
 # Code des communes  
-Version Consolidée au 1977-10-29
+Version Consolidée au 1977-12-30
 
 # ORGANISATION COMMUNALE
 
@@ -28728,6 +28728,39 @@ d'une contestation devant les juridictions compétentes.
 	  - Code des communes L311-17 à L311-22
 
 
+###### Article L311-25
+
+Nonobstant toutes dispositions législatives ou réglementaires ainsi que toutes stipulations contractuelles, l'extinction des
+droits de jouissance mentionnés à l'article L. 311-13 met fin, sans préjudice des droits éventuels à indemnité des
+intéressés, à toute location ainsi qu'à tout droit d'occupation ou de maintien dans les lieux de quelque nature que ce soit,
+s'exerçant soit sur les parcelles grevées d'un tel droit de jouissance, soit sur les constructions édifiées sur ces
+parcelles.
+
+Toutefois, l'exploitant a le droit de recueillir les fruits et récoltes de l'année en cours.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°77-240 1977-03-07
+
+	**Abrogé par**:
+
+	  - Loi n°96-142 du 21 février 1996 - art. 12 (V) JORF 24 février 1996
+
+	**Cite**:
+
+	  - CODE DES COMMUNES. - art. L311-13 (Ab)
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: CODE DES COMMUNES. - art. L311-13 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code général des collectivités territoriales - art. L2421-13 (V)
+
+
 ###### Article L311-26
 
 A défaut d'accord amiable, les indemnités pouvant être dues en application des articles précédents sont fixées comme en
@@ -35194,47 +35227,6 @@ médico-sociales.
 
 
 #### REGIME DE  CERTAINS BIENS IMMOBILIERS SOUMIS A UN DROIT DE JOUISSANCE EXCLUSIF
-
-###### Article L311-25
-
-Nonobstant toutes dispositions législatives ou réglementaires ainsi que toutes stipulations contractuelles, l'extinction des
-droits de jouissance mentionnés à l'article L. 311-13 met fin, sans préjudice des droits éventuels à indemnité des
-intéressés, à toute location ainsi qu'à tout droit d'occupation ou de maintien dans les lieux de quelque nature que ce soit,
-s'exerçant soit sur les parcelles grevées d'un tel droit de jouissance, soit sur les constructions édifiées sur ces
-parcelles.
-
-Toutefois, l'exploitant a le droit de recueillir les fruits et récoltes de l'année en cours.
-
-En outre, lorsque la commune décide de louer un terrain non bâti soumis, à la date du 4 janvier 1967, au régime défini à
-l'article L. 311-13, elle est tenue d'en offrir la location par priorité à la personne, même non titulaire d'un droit de
-jouissance mentionné à cet article, qui, de bonne foi, l'exploitait effectivement à cette date.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°67-6 1967-01-03 ART. 8
-
-	**Codifié par**:
-
-	  - Décret n°77-240 1977-03-07
-
-	**Créé par**:
-
-	  - Décret n°77-240 1977-03-07 JORF et JONC 18 mars 1977
-
-	**Cite**:
-
-	  - CODE DES COMMUNES. - art. L311-13 (Ab)
-
-	**Liens**:
-
-	  - TXT_ASSOCIE: CODE DES COMMUNES. - art. L311-13 (Ab)
-
-	**Nouveaux textes**:
-
-	  - Code général des collectivités territoriales - art. L2421-13 (V)
-
 
 ###### Article L311-30
 
