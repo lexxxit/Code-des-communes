@@ -1,5 +1,5 @@
 # Code des communes  
-Version Consolidée au 1978-12-19
+Version Consolidée au 1978-12-22
 
 # ORGANISATION COMMUNALE
 
@@ -39728,6 +39728,43 @@ Un arrêté ministériel fixe les modalités d'élection des représentants élu
 	  - Code de l'administration communale 492 AL. 2 (partie) et dernier alinéa (partie)
 
 
+##### Syndicat de communes pour le personnel communal .
+
+###### Article L411-30
+
+Le comité d'administration du syndicat de communes pour le personnel communal répartit entre les collectivités adhérentes les
+dépenses engagées pour le fonctionnement du syndicat, de la commission paritaire intercommunale, du conseil de discipline
+intercommunal et du conseil de discipline départemental.
+
+Le comité d'administration du syndicat de communes répartit entre les seules collectivités auxquelles il assure les
+prestations les dépenses afférentes au fonctionnement de la commission intercommunale d'hygiène et de sécurité visée à
+l'article L. 417-23, ainsi que les dépenses afférentes au service prévu à l'article L. 417-27.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°77-372 1977-03-28
+
+	**Abrogé par**:
+
+	  - Loi n°84-53 1984-01-26 ART. 119 JORF 27 JANVIER 1984
+
+	**Liens**:
+
+	  - SPEC_APPLI: Les articles L411-26 à L411-30 du code des communes sont remis en vigueur jusqu'au 31 décembre 1986
+	  - SPEC_APPLI: Loi n°85-1221 1985-11-22 art. 28 :
+
+	**Modifié par**:
+
+	  - Loi n°85-1221 du 22 novembre 1985 - art. 28 (V) JORF 23 NOVEMBRE 1985
+
+	**Cite**:
+
+	  - CODE DES COMMUNES. - art. L417-23 (Ab)
+	  - CODE DES COMMUNES. - art. L417-27 (M)
+
+
 ##### Commission paritaire communale .
 
 ###### Article L411-31
@@ -42232,35 +42269,6 @@ prise après avis de la commission nationale paritaire du personnel communal, b�
 	**Anciens textes**:
 
 	  - Code de l'administration communale 510 AL. 2 (partie)
-
-
-###### Article L413-5
-
-Le supplément familial de traitement fait l'objet d'une compensation dans les conditions prévues aux articles L. 417-3 à L.
-417-7.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Code de l'administration communale 512
-
-	**Codifié par**:
-
-	  - Décret n°77-372 1977-03-28
-
-	**Créé par**:
-
-	  - Décret n°77-372 1977-03-28 JORF et JONC 5 avril 1977
-
-	**Cité par**:
-
-	  - Loi n°84-53 du 26 janvier 1984 - art. 119 (V)
-	  - Loi n°2015-1785 du 29 décembre 2015 - art. 146 (V)
-
-	**Cite**:
-
-	  - Code des communes L417-3 à L417-7
 
 
 ###### Article L413-10
@@ -45641,6 +45649,252 @@ retraite, qu'après approbation de l'autorité supérieure [*conditions de forme
 	  - CODE DES COMMUNES. - art. L417-16 (V)
 
 
+##### Hygiène et sécurité .
+
+###### Article L417-18
+
+Les dispositions de la présente section sont applicables aux communes et établissements publics administratifs communaux et
+intercommunaux employant des agents, titulaires ou non, soumis aux dispositions du présent livre.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - SPEC_APPLI: *Dispositions applicables aux agents nommés dans des emplois permanents à temps non complet et aux agents non titulaires*
+	  - SPEC_APPLI: CODE DES COMMUNES. - art. L421-2 (M)
+	  - SPEC_APPLI: Code des communes L421-2, L422-1 :
+
+	**Codifié par**:
+
+	  - Décret n°77-372 1977-03-28
+
+	**Abrogé par**:
+
+	  - Loi n°84-53 1984-01-26 ART. 119 JORF 27 JANVIER 1984
+
+
+##### Comités d'hygiène et de sécurité .
+
+###### Article L417-19
+
+Un comité d'hygiène et de sécurité est institué [*création*] dans les communes et les établissements publics administratifs
+communaux et intercommunaux employant au moins [*nombre*] cinquante agents, titulaires ou non, soumis aux dispositions du
+présent livre.
+
+Les dépenses de fonctionnement du comité sont à la charge de la collectivité ou de l'établissement public concerné.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - SPEC_APPLI: *Dispositions applicables aux agents nommés dans des emplois permanents à temps non complet et aux agents non titulaires*
+	  - SPEC_APPLI: CODE DES COMMUNES. - art. L421-2 (M)
+	  - SPEC_APPLI: Code des communes L421-2, L422-1 :
+
+	**Codifié par**:
+
+	  - Décret n°77-372 1977-03-28
+
+	**Cite**:
+
+	  - Loi n°78-1183 du 20 décembre 1978 - art. 8 (V)
+
+	**Abrogé par**:
+
+	  - Loi n°84-53 1984-01-26 ART. 119 JORF 27 JANVIER 1984
+
+	**Cité par**:
+
+	  - CODE DES COMMUNES. - art. L417-23 (Ab)
+
+
+###### Article L417-20
+
+Le comité est composé, en nombre égal :
+
+a) d'une part, du maire ou du président de l'établissement public intéressé et de conseillers municipaux désignés par le
+conseil municipal ou de membres de l'assemblée délibérante de l'établissement, désignés par celle-ci ;
+
+b) d'autre part, de représentants du personnel, élus au suffrage direct, au nombre de trois à dix au choix de la commune ou
+de l'établissement.
+
+Le comité est renouvelé tous les six ans [*durée du mandat*]. Des suppléants, en nombre au plus égal à celui des membres
+titulaires du comité, sont désignés de la même façon.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - SPEC_APPLI: *Dispositions applicables aux agents nommés dans des emplois permanents à temps non complet et aux agents non titulaires*
+	  - SPEC_APPLI: CODE DES COMMUNES. - art. L421-2 (M)
+	  - SPEC_APPLI: Code des communes L421-2, L422-1 :
+
+	**Codifié par**:
+
+	  - Décret n°77-372 1977-03-28
+
+	**Cite**:
+
+	  - Loi n°78-1183 du 20 décembre 1978 - art. 8 (V)
+
+	**Abrogé par**:
+
+	  - Loi n°84-53 1984-01-26 ART. 119 JORF 27 JANVIER 1984
+
+
+###### Article L417-21
+
+Le maire ou le président de l'établissement public intéressé, ou leur représentant, préside le comité d'hygiène et de
+sécurité.
+
+En cas de partage des voix, le président a voix prépondérante.
+
+Le comité élit un bureau comprenant, outre le président, deux vice-présidents, dont l'un est choisi parmi les représentants
+du personnel.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - SPEC_APPLI: *Dispositions applicables aux agents nommés dans des emplois permanents à temps non complet et aux agents non titulaires*
+	  - SPEC_APPLI: CODE DES COMMUNES. - art. L421-2 (M)
+	  - SPEC_APPLI: Code des communes L421-2, L422-1 :
+
+	**Codifié par**:
+
+	  - Décret n°77-372 1977-03-28
+
+	**Cite**:
+
+	  - Loi n°78-1183 du 20 décembre 1978 - art. 8 (V)
+
+	**Abrogé par**:
+
+	  - Loi n°84-53 1984-01-26 ART. 119 JORF 27 JANVIER 1984
+
+
+###### Article L417-22
+
+Le comité se réunit à l'initiative de son président au moins une fois par trimestre [*fréquence*]. En outre, son président le
+réunit à la suite de tout accident mettant en cause l'hygiène ou la sécurité, ayant entraîné ou ayant pu entraîner des
+conséquences graves.
+
+Le comité est obligatoirement consulté par son président sur les mesures de salubrité et de sécurité applicables aux locaux
+et aux installations ainsi que sur les prescriptions concernant la protection de la santé des agents [*attributions*].
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - SPEC_APPLI: *Dispositions applicables aux agents nommés dans des emplois permanents à temps non complet et aux agents non titulaires*
+	  - SPEC_APPLI: CODE DES COMMUNES. - art. L421-2 (M)
+	  - SPEC_APPLI: Code des communes L421-2, L422-1 :
+
+	**Codifié par**:
+
+	  - Décret n°77-372 1977-03-28
+
+	**Cite**:
+
+	  - Loi n°78-1183 du 20 décembre 1978 - art. 8 (V)
+
+	**Abrogé par**:
+
+	  - Loi n°84-53 1984-01-26 ART. 119 JORF 27 JANVIER 1984
+
+
+##### Commission intercommunale d'hygiène et de sécurité .
+
+###### Article L417-23
+
+Le comité d'administration du syndicat de communes pour le personnel peut décider de la création d'une commission
+intercommunale d'hygiène et de sécurité pour les adhérents au syndicat qui ne sont pas tenus d'instituer un comité d'hygiène
+et de sécurité en vertu de l'article L. 417-19.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - SPEC_APPLI: *Dispositions applicables aux agents nommés dans des emplois permanents à temps non complet et aux agents non titulaires*
+	  - SPEC_APPLI: CODE DES COMMUNES. - art. L421-2 (M)
+	  - SPEC_APPLI: Code des communes L421-2, L422-1 :
+
+	**Codifié par**:
+
+	  - Décret n°77-372 1977-03-28
+
+	**Cite**:
+
+	  - Loi n°78-1183 du 20 décembre 1978 - art. 8 (V)
+	  - CODE DES COMMUNES. - art. L417-19 (Ab)
+
+	**Abrogé par**:
+
+	  - Loi n°84-53 1984-01-26 ART. 119 JORF 27 JANVIER 1984
+
+	**Cité par**:
+
+	  - CODE DES COMMUNES. - art. L411-30 (Ab)
+
+
+###### Article L417-24
+
+La commission intercommunale d'hygiène et de sécurité est composée, en nombre égal, d'une part, du président du syndicat de
+communes intéressé, président,et de membres du comité d'administration élus par ce dernier et, d'autre part, de représentants
+du personnel, au nombre de cinq à dix, au choix du comité du syndicat, élus pour six ans [*durée du mandat*] au suffrage
+direct par les agents des communes et établissements communaux et intercommunaux concernés.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - SPEC_APPLI: *Dispositions applicables aux agents nommés dans des emplois permanents à temps non complet et aux agents non titulaires*
+	  - SPEC_APPLI: CODE DES COMMUNES. - art. L421-2 (M)
+	  - SPEC_APPLI: Code des communes L421-2, L422-1 :
+
+	**Codifié par**:
+
+	  - Décret n°77-372 1977-03-28
+
+	**Cite**:
+
+	  - Loi n°78-1183 du 20 décembre 1978 - art. 8 (V)
+
+	**Abrogé par**:
+
+	  - Loi n°84-53 1984-01-26 ART. 119 JORF 27 JANVIER 1984
+
+
+###### Article L417-25
+
+La commission est réunie, à l'initiative de son président, au moins deux fois par an [*fréquence*]. En outre, son président
+la réunit à la suite de tout accident ou maladie professionnelle pouvant entraîner une incapacité permanente ou ayant
+entraîné le décès de la victime.
+
+La commission facilite, par tous travaux d'étude et de conseil, l'application des règles d'hygiène et de sécurité par les
+communes et les établissements qui dépendent d'elle [*attributions*].
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - SPEC_APPLI: *Dispositions applicables aux agents nommés dans des emplois permanents à temps non complet et aux agents non titulaires*
+	  - SPEC_APPLI: CODE DES COMMUNES. - art. L421-2 (M)
+	  - SPEC_APPLI: Code des communes L421-2, L422-1 :
+
+	**Codifié par**:
+
+	  - Décret n°77-372 1977-03-28
+
+	**Cite**:
+
+	  - Loi n°78-1183 du 20 décembre 1978 - art. 8 (V)
+
+	**Abrogé par**:
+
+	  - Loi n°84-53 1984-01-26 ART. 119 JORF 27 JANVIER 1984
+
+
 ### Personnels divers
 
 #### Agents nommés dans des emplois permanents à temps non complet
@@ -45683,6 +45937,84 @@ Un règlement d'administration publique fixe les modalités d'application de ces
 	**Anciens textes**:
 
 	  - Code de l'administration communale 614 al. 1 et 2
+
+
+###### Article L421-2
+
+Sont applicables aux agents soumis aux dispositions du présent chapitre les articles L. 411-3, L. 411-6 à L. 411-15, L.
+411-22 à L. 411-25, L. 412-1, L. 412-4 à L. 412-9, L. 412-45 à L. 412-50, L. 413-7, L. 415-8, L. 415-9, L. 415-40, le 3° de
+l'article L. 416-1, les articles L. 417-1 et L. 417-2, L. 417-10 à L. 417-13 et L. 417-16 [*dispositions générales concernant
+les agents nommés dans des emplois permanents à temps complet, commission nationale paritaire, recrutement, formation
+professionnelle continue, rémunérations et effectifs, congés annuels, détachement, admission à la retraite, prestations
+sociales, hygiène et sécurité*].
+
+Les articles L. 417-18 à L. 417-28 leur sont également applicables.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°77-372 1977-03-28
+
+	**Abrogé par**:
+
+	  - Loi n°84-53 1984-01-26 ART. 119 JORF 27 JANVIER 1984
+
+	**Cite**:
+
+	  - CODE DES COMMUNES L411-3, L411-6 à L411-15, L411-22 à L411-25, L412-1, L412-4 à L412-9, L412-45 à L412-50, L413-7, L415-8, L415-9, L415-40, L416-1, L417-1, L417-2, L417-10 à L417-13, L417-16, L417-18 à L417-28
+	  - CODE DES COMMUNES. - art. L411-3 (Ab)
+	  - CODE DES COMMUNES. - art. L412-1 (Ab)
+	  - CODE DES COMMUNES. - art. L413-7 (Ab)
+	  - CODE DES COMMUNES. - art. L415-40 (Ab)
+	  - CODE DES COMMUNES. - art. L415-8 (Ab)
+	  - CODE DES COMMUNES. - art. L415-9 (Ab)
+	  - CODE DES COMMUNES. - art. L416-1 (V)
+	  - CODE DES COMMUNES. - art. L417-1 (V)
+	  - CODE DES COMMUNES. - art. L417-16 (V)
+	  - CODE DES COMMUNES. - art. L417-2 (M)
+
+	**Liens**:
+
+	  - SPEC_APPLI: CODE DES COMMUNES. - art. L411-10 (Ab)
+	  - SPEC_APPLI: CODE DES COMMUNES. - art. L411-11 (Ab)
+	  - SPEC_APPLI: CODE DES COMMUNES. - art. L411-12 (Ab)
+	  - SPEC_APPLI: CODE DES COMMUNES. - art. L411-13 (Ab)
+	  - SPEC_APPLI: CODE DES COMMUNES. - art. L411-14 (M)
+	  - SPEC_APPLI: CODE DES COMMUNES. - art. L411-15 (Ab)
+	  - SPEC_APPLI: CODE DES COMMUNES. - art. L411-22 (Ab)
+	  - SPEC_APPLI: CODE DES COMMUNES. - art. L411-24 (Ab)
+	  - SPEC_APPLI: CODE DES COMMUNES. - art. L411-25 (Ab)
+	  - SPEC_APPLI: CODE DES COMMUNES. - art. L411-6 (Ab)
+	  - SPEC_APPLI: CODE DES COMMUNES. - art. L411-7 (Ab)
+	  - SPEC_APPLI: CODE DES COMMUNES. - art. L411-8 (Ab)
+	  - SPEC_APPLI: CODE DES COMMUNES. - art. L411-9 (Ab)
+	  - SPEC_APPLI: CODE DES COMMUNES. - art. L412-1 (Ab)
+	  - SPEC_APPLI: CODE DES COMMUNES. - art. L412-4 (Ab)
+	  - SPEC_APPLI: CODE DES COMMUNES. - art. L412-46 (VT)
+	  - SPEC_APPLI: CODE DES COMMUNES. - art. L412-5 (Ab)
+	  - SPEC_APPLI: CODE DES COMMUNES. - art. L412-6 (Ab)
+	  - SPEC_APPLI: CODE DES COMMUNES. - art. L412-7 (Ab)
+	  - SPEC_APPLI: CODE DES COMMUNES. - art. L412-8 (Ab)
+	  - SPEC_APPLI: CODE DES COMMUNES. - art. L412-9 (Ab)
+	  - SPEC_APPLI: CODE DES COMMUNES. - art. L413-7 (Ab)
+	  - SPEC_APPLI: CODE DES COMMUNES. - art. L415-8 (Ab)
+	  - SPEC_APPLI: CODE DES COMMUNES. - art. L415-9 (Ab)
+	  - SPEC_APPLI: CODE DES COMMUNES. - art. L417-18 (Ab)
+	  - SPEC_APPLI: CODE DES COMMUNES. - art. L417-19 (Ab)
+	  - SPEC_APPLI: CODE DES COMMUNES. - art. L417-2 (V)
+	  - SPEC_APPLI: CODE DES COMMUNES. - art. L417-20 (Ab)
+	  - SPEC_APPLI: CODE DES COMMUNES. - art. L417-21 (Ab)
+	  - SPEC_APPLI: CODE DES COMMUNES. - art. L417-22 (Ab)
+	  - SPEC_APPLI: CODE DES COMMUNES. - art. L417-23 (Ab)
+	  - SPEC_APPLI: CODE DES COMMUNES. - art. L417-24 (Ab)
+	  - SPEC_APPLI: CODE DES COMMUNES. - art. L417-25 (Ab)
+	  - SPEC_APPLI: CODE DES COMMUNES. - art. L417-26 (Ab)
+	  - SPEC_APPLI: CODE DES COMMUNES. - art. L417-27 (Ab)
+
+	**Anciens textes**:
+
+	  - Code de l'administration communale 614 AL. 3
 
 
 ###### Article L421-3
@@ -46018,6 +46350,39 @@ s'ajoutant à ceux qui résultent de l'organisation de la sécurité sociale.
 
 #### Agents non titulaires .
 
+###### Article L422-1
+
+Sont applicables aux agents non titulaires les dispositions des articles L. 411-6 à L. 411-15, L. 411-22, L. 411-24 et L.
+411-25, L. 412-1, L. 412-4 à L. 412-9, L. 412-45 et L. 412-46, L. 413-7, L. 414-17, L. 415-8 et L. 415-9, L. 417-2 et L.
+421-11 [*dispositions concernant les agents nommés dans des emplois permanents à temps complet*].
+
+Les articles L. 417-18 à L. 417-28 leur sont également applicables.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°77-372 1977-03-28
+
+	**Abrogé par**:
+
+	  - Loi n°84-53 1984-01-26 ART. 119 JORF 27 JANVIER 1984
+
+	**Cite**:
+
+	  - CODE DES COMMUNES. - art. L411-22 (Ab)
+	  - CODE DES COMMUNES. - art. L411-24 (Ab)
+	  - CODE DES COMMUNES. - art. L411-25 (Ab)
+	  - CODE DES COMMUNES. - art. L412-1 (Ab)
+	  - CODE DES COMMUNES. - art. L412-4 (Ab)
+	  - CODE DES COMMUNES. - art. L412-9 (Ab)
+	  - CODE DES COMMUNES. - art. L413-7 (Ab)
+	  - CODE DES COMMUNES. - art. L414-17 (Ab)
+	  - CODE DES COMMUNES. - art. L415-8 (Ab)
+	  - CODE DES COMMUNES. - art. L415-9 (Ab)
+	  - Code des communes L411-6 à L411-15
+
+
 ###### Article L422-2
 
 Les communes et leurs établissements publics ne peuvent recruter d'agents temporaires pour les emplois permanents qu'en vue
@@ -46139,77 +46504,6 @@ Des dérogations peuvent toutefois être accordées dans des conditions précis�
 
 ### AGENTS NOMMES DANS DES EMPLOIS PERMANENTS A TEMPS NON COMPLET .
 
-###### Article L421-2
-
-Sont applicables aux agents soumis aux dispositions du présent chapitre les articles L. 411-3, L. 411-6 à L. 411-15, L.
-411-22 à L. 411-25, L. 412-1, L. 412-4 à L. 412-9, L. 412-45 à L. 412-50, L. 413-7, L. 415-8, L. 415-9, L. 415-40, le 3° de
-l'article L. 416-1, //les articles L. 417-1 à L. 417-7// modifié par décret 78-31 : L417-1 et L417-7//, L417-10 à L417-13 et
-L417-16.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°77-372 1977-03-28
-
-	**Créé par**:
-
-	  - Décret n°77-372 1977-03-28 JORF ET JONC 5 AVRIL 1977
-
-	**Cite**:
-
-	  - CODE DES COMMUNES L411-3, L411-6 à L411-15, L411-22 à L411-25, L412-1, L412-4 à L412-9, L412-45 à L412-50, L413-7, L415-8, L415-9, L415-40, L416-1, L417-1 à L417-7
-	  - CODE DES COMMUNES. - art. L411-3 (Ab)
-	  - CODE DES COMMUNES. - art. L412-1 (Ab)
-	  - CODE DES COMMUNES. - art. L413-7 (Ab)
-	  - CODE DES COMMUNES. - art. L415-40 (Ab)
-	  - CODE DES COMMUNES. - art. L415-8 (Ab)
-	  - CODE DES COMMUNES. - art. L415-9 (Ab)
-	  - CODE DES COMMUNES. - art. L416-1 (V)
-
-	**Liens**:
-
-	  - SPEC_APPLI: CODE DES COMMUNES. - art. L411-10 (Ab)
-	  - SPEC_APPLI: CODE DES COMMUNES. - art. L411-11 (Ab)
-	  - SPEC_APPLI: CODE DES COMMUNES. - art. L411-12 (Ab)
-	  - SPEC_APPLI: CODE DES COMMUNES. - art. L411-13 (Ab)
-	  - SPEC_APPLI: CODE DES COMMUNES. - art. L411-14 (M)
-	  - SPEC_APPLI: CODE DES COMMUNES. - art. L411-15 (Ab)
-	  - SPEC_APPLI: CODE DES COMMUNES. - art. L411-22 (Ab)
-	  - SPEC_APPLI: CODE DES COMMUNES. - art. L411-24 (Ab)
-	  - SPEC_APPLI: CODE DES COMMUNES. - art. L411-25 (Ab)
-	  - SPEC_APPLI: CODE DES COMMUNES. - art. L411-6 (Ab)
-	  - SPEC_APPLI: CODE DES COMMUNES. - art. L411-7 (Ab)
-	  - SPEC_APPLI: CODE DES COMMUNES. - art. L411-8 (Ab)
-	  - SPEC_APPLI: CODE DES COMMUNES. - art. L411-9 (Ab)
-	  - SPEC_APPLI: CODE DES COMMUNES. - art. L412-1 (Ab)
-	  - SPEC_APPLI: CODE DES COMMUNES. - art. L412-4 (Ab)
-	  - SPEC_APPLI: CODE DES COMMUNES. - art. L412-46 (VT)
-	  - SPEC_APPLI: CODE DES COMMUNES. - art. L412-5 (Ab)
-	  - SPEC_APPLI: CODE DES COMMUNES. - art. L412-6 (Ab)
-	  - SPEC_APPLI: CODE DES COMMUNES. - art. L412-7 (Ab)
-	  - SPEC_APPLI: CODE DES COMMUNES. - art. L412-8 (Ab)
-	  - SPEC_APPLI: CODE DES COMMUNES. - art. L412-9 (Ab)
-	  - SPEC_APPLI: CODE DES COMMUNES. - art. L413-7 (Ab)
-	  - SPEC_APPLI: CODE DES COMMUNES. - art. L415-8 (Ab)
-	  - SPEC_APPLI: CODE DES COMMUNES. - art. L415-9 (Ab)
-	  - SPEC_APPLI: CODE DES COMMUNES. - art. L417-18 (Ab)
-	  - SPEC_APPLI: CODE DES COMMUNES. - art. L417-19 (Ab)
-	  - SPEC_APPLI: CODE DES COMMUNES. - art. L417-2 (V)
-	  - SPEC_APPLI: CODE DES COMMUNES. - art. L417-20 (Ab)
-	  - SPEC_APPLI: CODE DES COMMUNES. - art. L417-21 (Ab)
-	  - SPEC_APPLI: CODE DES COMMUNES. - art. L417-22 (Ab)
-	  - SPEC_APPLI: CODE DES COMMUNES. - art. L417-23 (Ab)
-	  - SPEC_APPLI: CODE DES COMMUNES. - art. L417-24 (Ab)
-	  - SPEC_APPLI: CODE DES COMMUNES. - art. L417-25 (Ab)
-	  - SPEC_APPLI: CODE DES COMMUNES. - art. L417-26 (Ab)
-	  - SPEC_APPLI: CODE DES COMMUNES. - art. L417-27 (Ab)
-
-	**Anciens textes**:
-
-	  - Code de l'administration communale 614 al. 3
-
-
 ###### Article L421-4
 
 Une décision de l'autorité supérieure prise après avis de la commission nationale paritaire du personnel communal fixe à
@@ -46294,40 +46588,6 @@ conditions de l'avancement des agents permanents à temps non complet.
 
 
 ### AGENTS NON TITULAIRES.
-
-###### Article L422-1
-
-Sont applicables aux agents non titulaires les dispositions des articles L. 411-6 à L. 411-15, L. 411-22, L. 411-24 et L.
-411-25, L. 412-1, L. 412-4 à L. 412-9, L. 412-45 et L. 412-46, L. 413-7, L. 414-17, L. 415-8 et L. 415-9, //L. 417-2 à L.
-417-7 //modifié par le décret n° 78-31 du 3 janvier 1978 :
-
-L. 417-2// et L. 421-11 [*dispositions concernant les agents nommés dans des emplois permanents à temps complet*].
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°77-372 1977-03-28
-
-	**Créé par**:
-
-	  - Décret n°77-372 1977-03-28 JORF ET JONC 5 AVRIL 1977
-
-	**Cite**:
-
-	  - Décret n°78-31 1978-01-03
-	  - CODE DES COMMUNES L411-6 à L411-15, L411-22, L411-24, L411-25, L412-1, L412-4 à L412-9, L412-45, L412-46, L413-7, L414-17, L415-8, L415-9
-	  - CODE DES COMMUNES. - art. L411-22 (Ab)
-	  - CODE DES COMMUNES. - art. L411-24 (Ab)
-	  - CODE DES COMMUNES. - art. L411-25 (Ab)
-	  - CODE DES COMMUNES. - art. L412-1 (Ab)
-	  - CODE DES COMMUNES. - art. L412-45 (Ab)
-	  - CODE DES COMMUNES. - art. L412-46 (V)
-	  - CODE DES COMMUNES. - art. L413-7 (Ab)
-	  - CODE DES COMMUNES. - art. L414-17 (Ab)
-	  - CODE DES COMMUNES. - art. L415-8 (Ab)
-	  - CODE DES COMMUNES. - art. L415-9 (Ab)
-
 
 ###### Article L422-3
 
@@ -46818,25 +47078,25 @@ La commune de Paris dispose d'un personnel communal soumis à un statut qui lui 
 Les dispositions statutaires applicables aux personnels de la commune de Paris peuvent déroger aux dispositions du présent
 livre. Elles sont fixées par décret en Conseil d'Etat.
 
-//Complété par la loi n° 78-1183 du 20 décembre 1978 :
-
-Les dispositions de la section V du chapitre VII du titre 1er du présent livre ne sont pas applicables à la ville de Paris
-[*hygiène et sécurité*].
+Les dispositions de la section V du chapitre VII du titre Ier du présent livre ne sont pas applicables à la ville de Paris.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Loi n°75-1331 1975-12-31 ART. 26 (Partie)
 	  - Loi n°75-1331 du 31 décembre 1975 - art. 26 (M)
 
 	**Codifié par**:
 
 	  - Décret n°77-372 1977-03-28
 
-	**Créé par**:
+	**Abrogé par**:
 
-	  - Décret n°77-372 1977-03-28 JORF et JONC 5 avril 1977
+	  - Loi n°84-53 1984-01-26 ART. 119 JORF 27 JANVIER 1984
+
+	**Cite**:
+
+	  - Code des communes L417-18 à L417-28
 
 
 ###### Article L444-4
@@ -47025,27 +47285,6 @@ peut recruter et gérer directement les agents qu'il affecte à des missions ou 
 	**Modifié par**:
 
 	  - Loi n°85-1221 du 22 novembre 1985 - art. 28 (V) JORF 23 NOVEMBRE 1985
-
-
-###### Article L411-30
-
-Le comité d'administration du syndicat de communes pour le personnel communal répartit entre les collectivités adhérentes les
-dépenses engagées pour le fonctionnement du syndicat, de la commission paritaire intercommunale, du conseil de discipline
-intercommunal et du conseil de discipline départemental.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Code de l'administration communale 499
-
-	**Codifié par**:
-
-	  - Décret n°77-372 1977-03-28
-
-	**Créé par**:
-
-	  - Décret n°77-372 1977-03-28 JORF et JONC 5 avril 1977
 
 
 #### CHAPITRE 2 : Recrutement, formation et promotion sociale
@@ -47462,6 +47701,27 @@ Conseil d'Etat.
 
 
 #### CHAPITRE 3 : Rémunération et effectifs.
+
+###### Article L413-5
+
+Le supplément familial de traitement fait l'objet d'une compensation dans les conditions prévues aux articles L413-11 à
+L413-15.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°77-372 1977-03-28
+
+	**Cité par**:
+
+	  - Loi n°84-53 du 26 janvier 1984 - art. 119 (V)
+	  - Loi n°2015-1785 du 29 décembre 2015 - art. 146 (V)
+
+	**Cite**:
+
+	  - CODE DES COMMUNES L413-11 à L413-15
+
 
 ###### Article L413-11
 
