@@ -1,5 +1,5 @@
 # Code des communes  
-Version Consolidée au 1988-05-18
+Version Consolidée au 1988-06-08
 
 # Statuts types d'une caisse communale de secours et de retraite de sapeurs-pompiers
 
