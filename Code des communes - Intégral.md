@@ -1,5 +1,5 @@
 # Code des communes  
-Version Consolidée au 1998-07-25
+Version Consolidée au 1998-11-10
 
 # Partie législative
 
@@ -13568,8 +13568,8 @@ ou par fonction.
 Par la suite, cette délibération ne peut être modifiée qu'un     e seule fois, au plus tard à la fin du premier exercice
 budgétaire complet suivant le renouvellement du conseil municipal.
 
-Toutefois, pour l'exercice 1998, le conseil municipal peut revenir sur la modalité de vote retenue sans préjudice des
-dispositions de l'alinéa précédent.
+Toutefois, pour les exercices 1998 à 2000 le conseil municipal peut revenir sur la modalité de vote retenue sans préjudice
+des dispositions de l'alinéa précédent.
 
 **Liens relatifs à cet article**
 
@@ -13579,7 +13579,11 @@ dispositions de l'alinéa précédent.
 
 	**Modifié par**:
 
-	  - Décret n°96-522 du 13 juin 1996 - art. 1 ()
+	  - Décret n°98-1013 du 9 novembre 1998 - art. 1 ()
+
+	**Abrogé par**:
+
+	  - Décret n°2000-318 du 7 avril 2000 - art. 4 (V)
 
 	**Cite**:
 
@@ -13659,9 +13663,14 @@ Pour le compte administratif, cette présentation fonctionnelle est croisée ave
 Si le conseil municipal en décide ainsi, les documents budgétaires d'une commune de 3 500 habitants ou moins peuvent
 comporter une présentation fonctionnelle conforme aux dispositions ci-dessus.
 
-2. Dans les communes de 10 000 habitants et plus votant leur budget par fonction, la présentation par nature prévue au
-premier alinéa de l'article L. 2312-3 du code général des collectivités territoriales s'effectue au niveau le plus fin de la
-nomenclature par nature.
+2. Dans les communes de 10 000 habitants et plus votant leur budget par fonction, la présentation prévue au premier alinéa de
+l'article L. 2312-3 du code général des collectivités territoriales s'effectue au niveau le plus fin de la nomenclature par
+fonction pour les opérations et les services individualisés.
+
+Pour le budget, la présentation ainsi définie est croisée avec les comptes par nature à deux chiffres.
+
+Pour le compte administratif, cette présentation est croisée avec le compte le plus détaillé ouvert dans la nomenclature par
+nature.
 
 Pour le budget, la présentation par nature ainsi définie est croisée avec chacun des chapitres budgétaires retraçant les
 opérations et les services individualisés.
@@ -13675,9 +13684,13 @@ opérations et les services individualisés.
 
 	  - Décret n°77-91 1977-01-27
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°96-522 du 13 juin 1996 - art. 2 ()
+	  - Décret n°98-1013 du 9 novembre 1998 - art. 2 ()
+
+	**Abrogé par**:
+
+	  - Décret n°2000-318 du 7 avril 2000 - art. 4 (V)
 
 	**Cite**:
 
@@ -14486,17 +14499,19 @@ Toutefois, pour les immobilisations incorporelles, les frais d'études non suivi
 recherche et de développement sont obligatoirement amortis sur une durée qui ne peut excéder cinq ans. La délibération
 relative à la durée d'amortissement est transmise au receveur municipal.
 
-Tout plan d'amortissement commencé doit être poursuivi jusqu'à son terme, sauf cession, affectation, réforme ou destruction
-du bien. Le plan d'amortissement ne peut être modifié qu'en cas de changement significatif dans les conditions d'utilisation
-du bien.
+Tout plan d'amortissement commencé doit être poursuivi jusqu'à son terme, sauf cession, affectation, mise à disposition,
+réforme ou destruction du bien. Le plan d'amortissement ne peut être modifié qu'en cas de changement significatif dans les
+conditions d'utilisation du bien. La commune ou le groupement bénéficiaire de la mise à disposition ou de l'affectation
+poursuit l'amortissement du bien selon le plan d'amortissement initial ou conformément à ses propres règles, définies par le
+présent article.
 
 Une assemblée délibérante peut fixer un seuil unitaire en deçà duquel les immobilisations de peu de valeur ou dont la
 consommation est très rapide s'amortissent sur un an. La délibération correspondante est transmise au receveur municipal et
 ne peut être modifiée au cours d'un même exercice budgétaire.
 
 L'état des biens meubles et immeubles annexé aux documents budgétaires indique pour les biens amortis, ainsi que pour les
-biens acquis, cédés, affectés, réformés ou détruits, la durée d'amortissement, le coût historique, la valeur nette comptable,
-les amortissements antérieurs et l'amortissement de l'exercice.
+biens acquis, cédés, affectés, mis à disposition, réformés ou détruits, la durée d'amortissement, le coût historique, la
+valeur nette comptable, les amortissements antérieurs et l'amortissement de l'exercice.
 
 L'état joint au compte administratif doit correspondre aux données figurant dans le compte de gestion du comptable.
 
@@ -14510,13 +14525,17 @@ L'état joint au compte administratif doit correspondre aux données figurant da
 
 	  - Décret n°77-91 1977-01-27
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°96-523 du 13 juin 1996 - art. 1 ()
+	  - Décret n°98-1012 du 9 novembre 1998 - art. 1 ()
 
 	**Cité par**:
 
 	  - Décret n°98-1061 du 25 novembre 1998 - art. 3 (Ab)
+
+	**Abrogé par**:
+
+	  - Décret n°2000-318 du 7 avril 2000 - art. 4 (V)
 
 	**Nouveaux textes**:
 
@@ -24140,9 +24159,10 @@ par nature ; si le comité syndical en décide ainsi, il peut comporter une pré
 prévues au quatrième alinéa du II de l'article R. 211-3.
 
 Le budget d'un syndicat institué dans les conditions fixées à l'article L. 5212-16 du code général des collectivités
-territoriales est voté dans les conditions prévues à l'alinéa précédent, en distinguant les compétences déléguées par les
-communes adhérentes, faisant l'objet s'il y a lieu de budgets annexes au budget principal. Les dépenses d'administration
-générale sont réparties à l'intérieur de chaque budget annexe ou subdivision correspondant à ces compétences.
+territoriales est voté dans les conditions prévues à l'alinéa précédent. La présentation du budget est complétée par un
+tableau récapitulatif croisant les comptes par nature et les compétences déléguées par les communes adhérentes, faisant
+l'objet s'il y a lieu de budgets annexes au budget principal. Les dépenses d'administration générale sont réparties à
+l'intérieur de chaque budget annexe ou subdivision correspondant à ces compétences.
 
 **Liens relatifs à cet article**
 
@@ -24150,9 +24170,13 @@ générale sont réparties à l'intérieur de chaque budget annexe ou subdivisio
 
 	  - Décret n°77-91 1977-01-27
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°96-522 du 13 juin 1996 - art. 3 ()
+	  - Décret n°98-1013 du 9 novembre 1998 - art. 3 ()
+
+	**Abrogé par**:
+
+	  - Décret n°2000-318 du 7 avril 2000 - art. 4 (V)
 
 	**Cite**:
 
