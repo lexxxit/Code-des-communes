@@ -1,5 +1,5 @@
 # Code des communes  
-Version Consolidée au 1987-02-18
+Version Consolidée au 1987-07-16
 
 # Statuts types d'une caisse communale de secours et de retraite de sapeurs-pompiers
 
@@ -4829,6 +4829,37 @@ général, être accordées par le représentant de l'Etat dans le département.
 	**Nouveaux textes**:
 
 	  - Code général des collectivités territoriales - art. L2215-5 (V)
+
+
+##### SECTION 4 : Agents de police municipale.
+
+###### Article L131-15
+
+Sans préjudice de la compétence générale de la gendarmerie nationale ou de la police nationale, le bon ordre, la sûreté, la
+sécurité et la salubrité publiques peuvent être placés  ar par le maire sous la surveillance d'agents de police municipale
+agréé par le procureur de la République dans les conditions prévues à l'article L. 412-49. "
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Code de l'administration communale 99 al. 3
+
+	**Codifié par**:
+
+	  - Décret n°77-90 1977-01-27
+
+	**Créé par**:
+
+	  - Loi n°87-529 du 13 juillet 1987 - art. 57 () JORF 16 juillet 1987
+
+	**Cite**:
+
+	  - CODE DES COMMUNES. - art. L412-49 (M)
+
+	**Nouveaux textes**:
+
+	  - Code général des collectivités territoriales - art. L2212-5 (M)
 
 
 #### CHAPITRE 2 : Dispositions particulières
@@ -33292,13 +33323,42 @@ Il est interdit aux communes de prendre en charge dans leur budget propre, des d
 	  - CODE DES COMMUNES. - art. R*372-16 (M)
 
 
-## Personnel communal
-
 ## LIVRE 4 : Personnel communal
 
 ### TITRE 1 : Agents nommés dans des emplois permanents à temps complet
 
 #### CHAPITRE 2 : Recrutement, formation et promotion sociale
+
+##### SECTION 1 : Recrutement
+
+##### SOUS-SECTION 2 : Modalités de recrutement communes à tous les emplois
+
+###### Article L412-18
+
+Les dispositions en vigueur au 14 juillet 1972 qui fixent, pour certains emplois, un mode spécial de nomination demeurent
+applicables.
+
+Le maire conserve la faculté de faire assermenter les agents nommés par lui.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°77-372 1977-03-28
+
+	**Modifié par**:
+
+	  - Loi n°82-213 du 2 mars 1982 - art. 21 (V) JORF 3 MARS 1982
+	  - Loi n°87-529 du 13 juillet 1987 - art. 43 () JORF 16 juillet 1987
+
+	**Abrogé par**:
+
+	  - Loi n°84-53 1984-01-26 ART. 119 JORF 27 JANVIER 1984
+
+	**Cité par**:
+
+	  - CODE DES COMMUNES. - art. R412-14 (V)
+
 
 ##### SECTION 5 : Dispositions applicables à certains personnels
 
@@ -34177,6 +34237,40 @@ Les dépenses résultant de l'application du présent article sont à la charge 
 
 	  - Décret n°87-602 du 30 juillet 1987 - art. 9 (M)
 	  - Décret n°88-145 du 15 février 1988 - art. 2 (V)
+
+	**Abrogé par**:
+
+	  - Loi n°2007-209 du 19 février 2007 - art. 56 () JORF 21 février 2007
+
+
+###### Article L417-27
+
+Le centre de gestion peut créer un service de médecine professionnelle. Ce dernier peut être mis à la disposition des
+communes, des établissements publics administratifs communaux et intercommunaux, adhérant ou non au syndicat.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - SPEC_APPLI: *Dispositions applicables aux agents nommés dans des emplois permanents à temps non complet et aux agents non titulaires*
+	  - SPEC_APPLI: CODE DES COMMUNES. - art. L421-2 (M)
+	  - SPEC_APPLI: Code des communes L421-2, L422-1 :
+
+	**Codifié par**:
+
+	  - Décret n°77-372 1977-03-28
+
+	**Cité par**:
+
+	  - Loi n°78-1183 du 20 décembre 1978 - art. 7 (V)
+	  - Décret n°88-145 du 15 février 1988 - art. 2 (V)
+	  - CODE DES COMMUNES. - art. L411-30 (Ab)
+	  - CODE DES COMMUNES. - art. L417-26 (Ab)
+
+	**Modifié par**:
+
+	  - Loi n°84-53 1984-01-26 ART. 119 III JORF 27 JANVIER 1984
+	  - Loi n°87-529 du 13 juillet 1987 - art. 43 () JORF 16 juillet 1987
 
 	**Abrogé par**:
 
