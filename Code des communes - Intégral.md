@@ -1,5 +1,5 @@
 # Code des communes  
-Version Consolidée au 2002-02-28
+Version Consolidée au 2005-01-27
 
 # Partie législative
 
@@ -3217,7 +3217,7 @@ La médaille d'honneur régionale, départementale et communale comporte trois �
 
 - l'échelon " vermeil , qui peut être décerné après trente années de services aux titulaires de l'échelon " argent  ;
 
-- l'échelon " or , qui peut être décerné après trente-huit années de services aux titulaires de l'échelon " vermeil .
+- l'échelon " or , qui peut être décerné après trente-cinq années de services aux titulaires de l'échelon " vermeil .
 
 La durée des services exigée est réduite de cinq ans pour les agents des réseaux souterrains des égouts et les agents des
 services insalubres visés à l'article 416-1 (3°) du présent code.
@@ -3234,7 +3234,7 @@ services insalubres visés à l'article 416-1 (3°) du présent code.
 
 	**Modifié par**:
 
-	  - Décret n°87-594 du 22 juillet 1987 - art. 1 () JORF 31 juillet 1987
+	  - Décret n°2005-48 du 25 janvier 2005 - art. 1 () JORF 27 janvier 2005
 
 
 ###### Article R411-46
@@ -3328,6 +3328,15 @@ Les congés de maternité ou d'adoption sont considérés comme des services à 
 
 Les services rendus à temps partiel sont pris en compte au prorata du temps de travail accompli.
 
+Sont pris en compte pour le calcul des périodes visées à l'article R. 411-46 :
+
+a) Les périodes passées au titre d'actions de formation des fonctionnaires territoriaux définies à l'article 1er de la loi n°
+84-594 du 12 juillet 1984 relative à la formation des agents de la fonction publique territoriale et complétant la loi n°
+84-53 du 26 janvier 1984 portant dispositions statutaires relatives à la fonction publique territoriale ;
+
+b) Les congés de formation des élus locaux définis aux articles L. 2123-13, L. 3123-11 et L. 4135-11 du code général des
+collectivités territoriales.
+
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
@@ -3338,16 +3347,24 @@ Les services rendus à temps partiel sont pris en compte au prorata du temps de 
 
 	  - Décret n°77-373 1977-03-28
 
+	**Cite**:
+
+	  - Loi n°84-53 1984-01-26
+	  - Loi n°84-594 1984-07-12 art. 1
+	  - CODE DES COMMUNES. - art. R411-46 (M)
+	  - Code général des collectivités territoriales - art. L2123-13 (M)
+	  - Code général des collectivités territoriales - art. L3123-11 (M)
+	  - Code général des collectivités territoriales - art. L4135-11 (M)
+
 	**Modifié par**:
 
-	  - Décret n°87-594 du 22 juillet 1987 - art. 1 () JORF 31 juillet 1987
+	  - Décret n°2005-48 du 25 janvier 2005 - art. 2 () JORF 27 janvier 2005
 
 
 ###### Article R411-49
 
 La médaille d'honneur régionale, départementale et communale peut être décernée aux personnes qui ont été admises à la
-retraite, ou qui ont cessé leur activité ou dont le mandat électif a pris fin, dans un délai de cinq ans à compter de la date
-de cessation de leurs fonctions.
+retraite ou qui ont cessé leur activité ou dont le mandat électif a pris fin.
 
 La médaille d'honneur régionale, départementale et communale peut être décernée à titre posthume, dans les cinq ans suivant
 la date du décès, aux personnes qui pouvaient se prévaloir de services de la durée et de la qualité requises par le présent
@@ -3368,7 +3385,7 @@ de leurs fonctions.
 
 	**Modifié par**:
 
-	  - Décret n°87-594 du 22 juillet 1987 - art. 1 () JORF 31 juillet 1987
+	  - Décret n°2005-48 du 25 janvier 2005 - art. 3 () JORF 27 janvier 2005
 
 
 ###### Article R411-50
