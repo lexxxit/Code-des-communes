@@ -1,5 +1,5 @@
 # Code des communes  
-Version Consolidée au 1985-01-10
+Version Consolidée au 1985-01-25
 
 # Statuts types d'une caisse communale de secours et de retraite de sapeurs-pompiers
 
@@ -74479,6 +74479,53 @@ la limite des crédits disponibles, par le ministère de l'agriculture.
 
 ##### SECTION 2 : Fonds national pour le développement des adductions d'eau.
 
+###### Article R*371-8
+
+Le Fonds national pour le développement des adductions d'eau est géré par le ministre de l'agriculture[*compétence*], assisté
+d'un comité consultatif composé comme suit :
+
+Un conseiller d'Etat, président ;
+
+Un représentant de la commission de l'Assemblée nationale chargée des finances ;
+
+Un représentant de la commission de l'Assemblée nationale chargée de l'agriculture ;
+
+Un représentant de la commission du Sénat chargée des finances ;
+
+Un représentant de la commission du Sénat chargée de l'agriculture ;
+
+Un représentant du Conseil économique et social ;
+
+Trois représentants de l'association des présidents de conseils généraux ;
+
+Deux représentants de l'association des maires de France ;
+
+Un représentant de la fédération nationale des collectivités concédantes et régies ;
+
+Un représentant du ministre de l'économie, des finances et du budget ;
+
+Un représentant du ministre de l'intérieur et de la décentralisation ;
+
+Un représentant du ministre de l'agriculture ;
+
+Un représentant du ministre de l'environnement ;
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - SPEC_APPLI: *Dispositions non applicables aux communes du département de Saint-Pierre-et-Miquelon*
+	  - SPEC_APPLI: Code des communes R392-2 :
+
+	**Codifié par**:
+
+	  - Décret n°77-241 1977-03-07
+
+	**Abrogé par**:
+
+	  - Décret n°2000-318 du 7 avril 2000 - art. 4 (V)
+
+
 ###### Article R*371-9
 
 La redevance [*sur les consommations d'eau distribuée dans toutes les communes bénéficiant d'une distribution publique d'eau
@@ -84129,61 +84176,6 @@ de la poudre de tan ou du charbon pulvérisé.
 	**Abrogé par**:
 
 	  - Décret n°87-28 1987-01-14 art. 32 JORF 18 janvier 1987
-
-
-### Dispositions particulières à certains services industriels et commerciaux
-
-#### Eau
-
-##### Fonds national pour le développement des adductions d'eau .
-
-###### Article R*371-8
-
-Le fonds national pour le développement des adductions d'eau est géré par le ministre de l'agriculture [*compétence*],
-assisté d'un comité consultatif composé comme suit :
-
-Un conseiller d'Etat, président ;
-
-Un représentant de la commission de l'Assemblée nationale, chargée des finances ;
-
-Un représentant de la commission du Sénat, chargée des finances ;
-
-Un représentant de la commission de l'Assemblée nationale, chargée de l'agriculture ;
-
-Un représentant de la commission du Sénat, chargée de l'agriculture ;
-
-Un membre du Conseil économique et social ;
-
-Deux représentants de l'association des présidents de conseils généraux ;
-
-Deux représentants de l'association des maires de France ;
-
-Deux représentants du ministre de l'agriculture : le directeur de l'aménagement rural et des structures et le directeur
-général de la caisse nationale de crédit agricole ;
-
-Deux [*nombre*] représentants du ministre de l'économie et des finances ;
-
-Deux représentants du ministre de l'intérieur.
-
-**Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - SPEC_APPLI: *Dispositions non applicables aux communes du département de Saint-Pierre-et-Miquelon*
-	  - SPEC_APPLI: Code des communes R392-2 :
-
-	**Anciens textes**:
-
-	  - Code de l'administration communale 410
-	  - Décret n°63-191 1963-02-25
-
-	**Codifié par**:
-
-	  - Décret n°77-241 1977-03-07
-
-	**Créé par**:
-
-	  - Décret n°77-241 1977-03-07 JORF et JONC 18 Mars 1977
 
 
 ### PARTICIPATION A DES  ENTREPRISES PRIVEES .
