@@ -1,5 +1,5 @@
 # Code des communes  
-Version Consolidée au 1996-11-29
+Version Consolidée au 1996-12-17
 
 # Partie législative
 
@@ -156,6 +156,23 @@ Les agents de la police municipale nommés par le maire doivent être agréés p
 	**Cite**:
 
 	  - Code pénal 20 et 21
+
+
+###### Article L412-49-1
+
+L'agrément mentionné à l'article précédent peut aussi être accordé à des agents titulaires de la commune habituellement
+affectés à des emplois autres que ceux de la police municipale ou non titulaires, chargés d'assister temporairement les
+agents de la police municipale dans les communes touristiques. Ces agents ne peuvent porter aucune arme.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°77-372 1977-03-28
+
+	**Créé par**:
+
+	  - Loi n°96-1093 du 16 décembre 1996 - art. 75 ()
 
 
 ###### Article L412-50
