@@ -1,5 +1,5 @@
 # Code des communes  
-Version Consolidée au 1980-01-13
+Version Consolidée au 1980-02-12
 
 # ORGANISATION COMMUNALE
 
@@ -107299,6 +107299,24 @@ par arrêté du ministre de l'intérieur pris après avis du ministre de l'écon
 	  - Code des communes R444-4 AL. 1
 
 
+###### Article R*444-40
+
+Le conseil de Paris fixe par délibération les indemnités des personnels soumis au présent statut dans la limite du plafond
+déterminé par arrêté du ministre de l'intérieur pour les emplois homologues des communes.
+
+Toutefois, pour les indemnités des titulaires d'emplois non homologues aux emplois communaux, la délibération du conseil de
+Paris est soumise à l'approbation du ministre de l'intérieur, après avis du ministre du budget, sauf quand il s'agit de
+modifier les taux des indemnités des titulaires d'emplois appartenant à des corps homologues aux corps de fonctionnaires de
+l'Etat bénéficiant d'indemnités de même nature. Dans ce dernier cas, la délibération du conseil de Paris est soumise à
+l'approbation du préfet.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+
 ###### Article R*444-41
 
 Le fonctionnaire qui a été atteint d'une invalidité résultant d'un accident de service ayant entraîné une incapacité
@@ -111812,31 +111830,6 @@ d'inscription au tableau d'avancement.
 	**Cite**:
 
 	  - Code des communes R444-1
-
-
-##### REMUNERATION .
-
-###### Article R*444-40
-
-Le conseil de Paris fixe par délibération les indemnités des personnels soumis au présent statut dans la limite du plafond
-déterminé par arrêté du ministre de l'intérieur pour les emplois homologues des communes.
-
-Toutefois pour les indemnités des titulaires d'emplois non homologues aux emplois communaux, la délibération du conseil de
-Paris est soumise à l'approbation du ministre de l'intérieur après avis du ministre de l'économie et des finances.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°76-1041 1976-11-16 ART. 37
-
-	**Codifié par**:
-
-	  - Décret n°77-373 1977-03-28
-
-	**Créé par**:
-
-	  - Décret n°77-373 1977-03-28 JORF et JONC 5 avril 1977
 
 
 ##### AVANCEMENT .
