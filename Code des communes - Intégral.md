@@ -1,5 +1,5 @@
 # Code des communes  
-Version Consolidée au 1988-04-12
+Version Consolidée au 1988-04-24
 
 # Statuts types d'une caisse communale de secours et de retraite de sapeurs-pompiers
 
@@ -37087,6 +37087,46 @@ l'avis du conseil général [*conditions de forme*].
 	  - Code général des collectivités territoriales - art. L2112-6 (V)
 
 
+###### Article R*112-20
+
+Si le projet concerne le détachement d'une section de commune ou d'une portion du territoire d'une commune soit pour la
+rattacher à une autre commune, soit pour l'ériger en commune séparée, un arrêté du préfet institue, pour cette section ou
+cette portion de territoire, une commission qui donne son avis sur le projet.
+
+" Le nombre des membres de la commission est fixé par cet arrêté.
+
+" Les membres de la commission, choisis parmi les personnes éligibles au conseil municipal de la commune, sont élus selon les
+mêmes règles que les conseillers municipaux des communes de moins de 2 500 habitants [*population*].
+
+" Sont électeurs, lorsqu'ils sont inscrits sur les listes électorales de la commune, les habitants ayant un domicile réel et
+fixe sur le territoire de la section ou de la portion de territoire et les propriétaires de biens fonciers sis sur cette
+section ou portion de territoire [*conditions*].
+
+" La commission élit en son sein son président. "
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°59-189 1959-01-22 ART. 2
+
+	**Codifié par**:
+
+	  - Décret n°77-91 1977-01-27
+
+	**Modifié par**:
+
+	  - Décret n°88-419 1988-04-22 ART. 1 JORF 24 avril 1988
+
+	**Abrogé par**:
+
+	  - Loi n°96-142 du 21 février 1996 - art. 12 (V)
+
+	**Nouveaux textes**:
+
+	  - Code général des collectivités territoriales - art. L2112-3 (V)
+
+
 ###### Article R*112-21
 
 Après accomplissement des diverses formalités prévues aux articles R. 112-19 et R. 112-20, les conseils municipaux,
@@ -37323,6 +37363,44 @@ conseil municipal de la nouvelle commune l'acceptant [*conditions de forme*].
 	**Nouveaux textes**:
 
 	  - Code général des collectivités territoriales - art. L2112-8 (V)
+
+
+###### Article R*112-28
+
+Les actes qui prononcent les fusions ou les distractions de communes en déterminent toutes les conditions  [*de transfert de
+propriété des biens communaux*], autres que celles qui sont mentionnées aux articles R. 112-25 à R. 112-27.
+
+" Toutefois, lorsque l'acte requis est un décret, il peut décider que certaines de ces conditions sont déterminées par un
+arrêté du préfet.
+
+" Le préfet peut prendre par arrêté toutes dispositions transitoires pour assurer la continuité des services publics jusqu'à
+l'installation des nouvelles assemblées municipales. "
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°59-189 1959-01-22 ART. 6 AL. 4 ET 5
+
+	**Codifié par**:
+
+	  - Décret n°77-91 1977-01-27
+
+	**Modifié par**:
+
+	  - Décret n°88-419 1988-04-22 ART. 2 JORF 24 avril 1988
+
+	**Abrogé par**:
+
+	  - Loi n°96-142 du 21 février 1996 - art. 12 (V)
+
+	**Cite**:
+
+	  - Code des communes R112-25 A R112-27
+
+	**Nouveaux textes**:
+
+	  - Code général des collectivités territoriales - art. L2112-10 (V)
 
 
 ###### Article R*112-29
@@ -46123,60 +46201,6 @@ L'enquête n'est pas obligatoire s'il s'agit d'une fusion de communes.
 	**Modifié par**:
 
 	  - Décret n°83-82 1983-02-09 ART. 3 JORF 11 FEVRIER 1983
-
-
-###### Article R*112-20
-
-Si le projet concerne le détachement d'une section de commune ou d'une portion du territoire d'une commune, soit pour la
-rattacher à une autre commune, soit pour l'ériger en commune séparée, un arrêté du commissaire de la République institué,
-pour cette section ou cette portion de territoire et dans les conditions prévues à l'article L. 151-6 [*relatif aux sections
-de communes*], une commission syndicale [*composée de personnes éligibles de la commune nommées par les électeurs et les
-propriétaires de la section*] qui donne son avis sur le projet [*formalités*].
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°59-189 1959-01-22 ART. 2
-
-	**Codifié par**:
-
-	  - Décret n°77-91 1977-01-27
-
-	**Modifié par**:
-
-	  - Décret n°83-82 1983-02-09 ART. 4 JORF 11 FEVRIER 1983
-
-	**Cite**:
-
-	  - CODE DES COMMUNES. - art. L151-6 (M)
-
-
-###### Article R*112-28
-
-Les actes qui prononcent les fusions ou les distractions de communes en déterminent toutes les conditions autres que celles
-[*conditions de transfert de propriété des biens communaux*] qui sont mentionnées aux articles R. 112-25 à R. 112-27.
-
-Ils peuvent, toutefois, décider que certaines de ces conditions, notamment en matière financière et patrimoniale, sont
-déterminées par un arrêté du commissaire de la République.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°59-189 1959-01-22 ART. 6 AL. 4 ET 5
-
-	**Codifié par**:
-
-	  - Décret n°77-91 1977-01-27
-
-	**Modifié par**:
-
-	  - Décret n°83-82 1983-02-09 ART. 5 JORF 11 FEVRIER 1983
-
-	**Cite**:
-
-	  - Code des communes R112-25 A R112-27
 
 
 ## LIVRE 2 : Finances communales
