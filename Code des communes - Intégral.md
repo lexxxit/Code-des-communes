@@ -1,5 +1,5 @@
 # Code des communes  
-Version Consolidée au 1996-02-01
+Version Consolidée au 1996-02-23
 
 # Partie législative
 
@@ -75916,10 +75916,9 @@ Paris*].
 ###### Article R363-8
 
 Lorsque le corps n'a pas subi les soins de conservation prévus à la section I, les opérations de transport sont achevées dans
-un délai maximum de dix-huit heures à compter du décès.Lorsque le corps a subi les soins de conservation, le délai est porté
-à trente-six heures. Le procès verbal prévu à l'article R. 363-3 figure au dossier constitué pour le transport du corps. du
-décès. Le procès-verbal [*de l'opération de conservation du corps*] prévu à l'article R. 363-3 figure au dossier constitué
-pour le transport de corps.
+un délai maximum de vingt-quatre heures à compter du décès. Lorsque le corps a subi les soins de conservation, le délai est
+porté à quarante-huit heures. Le procès verbal prévu à l'article R. 363-3 figure au dossier constitué pour le transport de
+corps.
 
 **Liens relatifs à cet article**
 
@@ -75931,6 +75930,14 @@ pour le transport de corps.
 
 	  - Décret n°77-241 1977-03-07
 
+	**Modifié par**:
+
+	  - Décret n°96-141 du 21 février 1996 - art. 4 ()
+
+	**Abrogé par**:
+
+	  - Décret n°2000-318 du 7 avril 2000 - art. 4 (V)
+
 	**Cite**:
 
 	  - CODE DES COMMUNES. - art. R363-3 (Ab)
@@ -75938,10 +75945,6 @@ pour le transport de corps.
 	**Nouveaux textes**:
 
 	  - Code général des collectivités territoriales - art. R2213-11 (V)
-
-	**Modifié par**:
-
-	  - Décret n°87-28 1987-01-14 art. 17 et 21 JORF 18 janvier 1987
 
 
 ###### Article R363-9
@@ -75976,22 +75979,33 @@ les conditions fixées aux articles R. 363-16 à R. 363-34.
 	  - Décret n°87-28 1987-01-14 art. 17 JORF 18 janvier 1987
 
 
-##### SOUS-SECTION 2 : Transport de corps à un établissement d'hospitalisation, d'enseignement ou de recherche.
+##### SOUS-SECTION 2 : Transport de corps vers un établissement de santé.
 
 ###### Article R363-10
 
 Un établissement d'hospitalisation, d'enseignement ou de recherche ne peut accepter de don de corps que si l'intéressé en a
-fait la déclaration écrite en entier, datée et signée de sa main [*conditions de forme*].
-
-Cette déclaration peut contenir notamment l'indication de l'établissement auquel le corps est remis.
+fait la déclaration écrite en entier, datée et signée de sa main. Cette déclaration peut contenir notamment l'indication de
+l'établissement auquel le corps est remis.
 
 Une copie de la déclaration est adressée à l'établissement auquel le corps est légué ; cet établissement délivre à
-l'intéressé une carte de donateur que celui-ci s'engage à porter en permanence.
+l'intéressé une carte de donateur, que celui-ci s'engage à porter en permanence.
 
-L'exemplaire de la déclaration qui était détenu par le défunt est remise à l'officier d'état civil lors de la déclaration du
+L'exemplaire de la déclaration qui était détenu par le défunt est remis à l'officier d'état civil lors de la déclaration de
 décès.
 
-L'établissement d'hospitalisation, d'enseignement ou de recherche assure à ses frais l'inhumation ou la crémation du corps.
+Après le décès, le transport du corps est autorisé par le maire de la commune du lieu de décès.
+
+L'autorisation est accordée sur production d'un extrait du certificat médical prévu à l'article L. 363-1 attestant que le
+décès ne pose pas de problème médico-légal et n'est pas causé par l'une des maladies contagieuses définies par l'arrêté du
+ministère de la santé prévu à l'article R. 363-6.
+
+Les opérations de transport sont achevées dans un délai maximum de vingt-quatre heures à compter du décès.
+
+Lorsque le décès survient dans un établissement de santé public ou privé disposant d'équipements permettant la conservation
+des corps, ce délai est porté à quarante-huit heures.
+
+L'établissement assure à ses frais l'inhumation ou la crémation du corps réalisée sans qu'il soit nécessaire de respecter les
+conditions prévues à l'article R. 361-13 ou à l'article R. 361-43 du présent code.
 
 **Liens relatifs à cet article**
 
@@ -76003,6 +76017,22 @@ L'établissement d'hospitalisation, d'enseignement ou de recherche assure à ses
 
 	  - Décret n°77-241 1977-03-07
 
+	**Modifié par**:
+
+	  - Décret n°96-141 1996-02-21 art. 1, 2 jorf 23 février 1996
+	  - Décret n°96-141 du 21 février 1996 - art. 1 ()
+
+	**Abrogé par**:
+
+	  - Décret n°2000-318 du 7 avril 2000 - art. 4 (V)
+
+	**Cite**:
+
+	  - CODE DES COMMUNES. - art. L363-1 (Ab)
+	  - CODE DES COMMUNES. - art. R361-13 (Ab)
+	  - CODE DES COMMUNES. - art. R361-43 (M)
+	  - CODE DES COMMUNES. - art. R363-6 (M)
+
 	**Cité par**:
 
 	  - CODE DES COMMUNES. - art. R394-8 (Ab)
@@ -76011,24 +76041,30 @@ L'établissement d'hospitalisation, d'enseignement ou de recherche assure à ses
 
 	  - Code général des collectivités territoriales - art. R2213-13 (V)
 
-	**Modifié par**:
-
-	  - Décret n°87-28 1987-01-14 art. 22 JORF 18 janvier 1987
-
 
 ###### Article R363-11
 
-Après le décès, le transport du corps est autorisé par le maire de la commune du lieu de décès [*par le préfet de police en
-ce qui concerne la ville de Paris - compétence*].
+Le transport de corps d'une personne décédée pour réaliser des prélèvements en vue de rechercher les causes de décès vers un
+établissement de santé est autorisé par le maire de la commune du lieu de décès, à la demande de toute personne qui a qualité
+pour pourvoir aux funérailles.
 
-L'autorisation est accordée sur production des certificats médicaux prévus à l'article R. 361-36 [*constatant que le défunt
-n'est pas atteint de l'une des maladies contagieuses mentionnées par arrêté*] et au 3° de l'article R. 363-1 [*certifiant le
-décès et attestant que celui-ci ne pose pas de problème médico-légal*].
+Cette autorisation est accordée sur production d'un extrait du certificat médical prévu à l'article L. 363-1 attestant que le
+décès ne pose pas de problème médico-légal et n'a pas été causé par l'une des maladies contagieuses définies par l'arrêté du
+ministère de la santé prévu à l'article R. 363-6.
 
-Les opérations de transport sont achevées dans un délai maximum de vingt-quatre heures à compter du décès.
+Le corps admis dans un établissement de santé dans les conditions fixées au présent article peut faire l'objet, à la demande
+de toute personne qui a qualité pour pourvoir aux funérailles, d'un nouveau transport de corps avant mise en bière, dans le
+respect de l'article L. 671-11 du code de la santé publique, soit vers une chambre funéraire, soit vers la résidence du
+défunt ou d'un membre de sa famille. Ce nouveau transport est subordonné à l'accord écrit du directeur de l'établissement de
+santé après avis du médecin ayant réalisé les prélèvements en vue de rechercher les causes du décès. Le médecin ne peut
+s'opposer au transport de corps que pour l'un des motifs prévus à l'article R. 363-6.
 
-Lorsque le décès survient dans un établissement hospitalier disposant d'équipements permettant la conservation des corps, ce
-délai est porté à quarante-huit heures.
+Dans tous les cas, les opérations de transport de corps avant mise en bière sont achevées dans un délai maximum de vingt-
+quatre heures à compter du décès. Toutefois, lorsque des soins de conservation ont été réalisés à l'issue des prélèvements,
+ce délai est porté à quarante-huit heures.
+
+Les frais de transport aller et retour du lieu de décès à l'établissement de santé et les frais de prélèvement sont à la
+charge de l'établissement de santé dans lequel il a été procédé aux prélèvements.
 
 **Liens relatifs à cet article**
 
@@ -76040,21 +76076,28 @@ délai est porté à quarante-huit heures.
 
 	  - Décret n°77-241 1977-03-07
 
+	**Modifié par**:
+
+	  - Décret n°96-141 1996-02-21 art. 1, 3 jorf 23 février 1996
+	  - Décret n°96-141 du 21 février 1996 - art. 1 ()
+
+	**Abrogé par**:
+
+	  - Décret n°2000-318 du 7 avril 2000 - art. 4 (V)
+
+	**Cite**:
+
+	  - CODE DES COMMUNES. - art. L363-1 (Ab)
+	  - CODE DES COMMUNES. - art. R363-6 (M)
+	  - Code de la santé publique - art. L671-11 (Ab)
+
 	**Cité par**:
 
 	  - CODE DES COMMUNES. - art. R394-8 (Ab)
 
-	**Cite**:
-
-	  - Code des communes R361-36 et R363-1 3°
-
 	**Nouveaux textes**:
 
 	  - Code général des collectivités territoriales - art. R2213-14 (V)
-
-	**Modifié par**:
-
-	  - Décret n°87-28 1987-01-14 art. 23 JORF 18 janvier 1987
 
 
 ##### SOUS-SECTION 3 : Conditions du transport.
@@ -76260,8 +76303,8 @@ mise en bière immédiate, après la constatation officielle du décès.
 ###### Article R363-20
 
 Lorsque le décès paraît résulter d'une maladie suspecte dont la protection de la santé publique exige la vérification, le
-préfet [*compétence*] peut, sur l'avis conforme, écrit et motivé de deux médecins [*conditions de forme*], prescrire toutes
-les constatations nécessaires et même l'autopsie.
+préfet peut, sur l'avis conforme, écrit et motivé de deux médecins, prescrire toutes les constatations et les prélèvements
+nécessaires en vue de rechercher les causes du décès.
 
 **Liens relatifs à cet article**
 
@@ -76273,9 +76316,13 @@ les constatations nécessaires et même l'autopsie.
 
 	  - Décret n°77-241 1977-03-07
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°77-241 1977-03-07 JORF et JONC 18 Mars 1977
+	  - Décret n°96-141 du 21 février 1996 - art. 5 ()
+
+	**Abrogé par**:
+
+	  - Décret n°2000-318 du 7 avril 2000 - art. 4 (V)
 
 	**Nouveaux textes**:
 
@@ -76981,9 +77028,6 @@ fonctionnaires pour la levée du corps et apposition de cachets de cire sur le c
 Les fonctionnaires [*commissaires de police ou gardes champêtres*] désignés à l'article L. 364-5 assistent au moulage d'un
 corps.
 
-Ils assistent également à l'autopsie sauf si le décès a été constaté judiciairement ou que l'opération est pratiquée dans un
-établissement assurant le service hospitalier ou dans un établissement légalement affecté à cette fin.
-
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
@@ -76994,9 +77038,13 @@ Ils assistent également à l'autopsie sauf si le décès a été constaté judi
 
 	  - Décret n°77-241 1977-03-07
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°77-241 1977-03-07 JORF et JONC 18 Mars 1977
+	  - Décret n°96-141 du 21 février 1996 - art. 6 ()
+
+	**Abrogé par**:
+
+	  - Décret n°2000-318 du 7 avril 2000 - art. 4 (V)
 
 	**Cite**:
 
@@ -77061,8 +77109,6 @@ aux vacations déterminées par le présent article :
 
 - un moulage de corps ;
 
-- une autopsie ;
-
 - une crémation, sans préjudice des vacations prévues pour les opérations précédant la crémation.
 
 2° Une vacation pour :
@@ -77107,9 +77153,9 @@ corps d'un même caveau ou d'une même fosse suivie d'un transport et d'une réi
 
 	  - Décret n°77-241 1977-03-07
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°77-241 1977-03-07 JORF et JONC 18 Mars 1977
+	  - Décret n°96-141 du 21 février 1996 - art. 7 ()
 
 	**Cite**:
 
@@ -77303,6 +77349,83 @@ le montant des vacations aux agents intéressés.
 
 ##### SECTION 3 : Moulages.
 
+###### Article R364-14
+
+Sauf dans le cas prévu à l'article suivant [*signes de décomposition rendant l'opération nécessaire avant les délais
+prescrits*] il est interdit de faire procéder au moulage d'un cadavre :
+
+- avant l'expiration d'un délai de vingt-quatre heures depuis la déclaration du décès à la mairie ;
+
+- et sans l'autorisation préalable [*conditions de forme*] du maire de la commune où a eu lieu le décès[*du préfet de police
+si le décès a eu lieu à Paris - compétence*].
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°77-241 1977-03-07
+
+	**Modifié par**:
+
+	  - Décret n°96-141 1996-02-21 art. 8, 9 jorf 23 février 1996
+	  - Décret n°96-141 du 21 février 1996 - art. 8 ()
+
+	**Abrogé par**:
+
+	  - Décret n°2000-318 du 7 avril 2000 - art. 4 (V)
+
+	**Cite**:
+
+	  - CODE DES COMMUNES. - art. R364-15 (M)
+
+	**Cité par**:
+
+	  - CODE DES COMMUNES. - art. R364-17 (Ab)
+	  - CODE DES COMMUNES. - art. R394-8 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code général des collectivités territoriales - art. R2213-5 (V)
+
+	**Anciens textes**:
+
+	  - Décret  1941-12-31 ART. 25 (PARTIE)
+
+
+###### Article R364-15
+
+Lorsque le moulage d'un cadavre est nécessaire avant l'expiration du délai de vingt-quatre heures, la demande est accompagnée
+d'un certificat de médecin, légalisé, constatant que des signes de décomposition rendent l'opération nécessaire avant les
+délais prescrits.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret  1941-12-31 ART. 26
+
+	**Codifié par**:
+
+	  - Décret n°77-241 1977-03-07
+
+	**Modifié par**:
+
+	  - Décret n°96-141 1996-02-21 art. 8, 10 jorf 23 février 1996
+	  - Décret n°96-141 du 21 février 1996 - art. 8 ()
+
+	**Abrogé par**:
+
+	  - Décret n°2000-318 du 7 avril 2000 - art. 4 (V)
+
+	**Cité par**:
+
+	  - CODE DES COMMUNES. - art. R364-14 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code général des collectivités territoriales - art. R2213-6 (V)
+
+
 ###### Article R364-17
 
 Pour les victimes d'accidents survenus à bord d'un avion des forces armées, sous réserve qu'il n'y ait pas motif à refus du
@@ -77342,107 +77465,6 @@ articles R. 363-26 à R. 363-34.
 	**Anciens textes**:
 
 	  - Décret  1941-12-31 ART. 27 COMPLETE AL. 3 et 4 MODIFIES
-
-
-##### SECTION 3 : Moulages et autopsies.
-
-###### Article R364-14
-
-Sauf dans le cas prévu à l'article suivant [*signes de décomposition rendant l'opération nécessaire avant les délais
-prescrits*] il est interdit de faire procéder au moulage ou à l'autopsie d'un cadavre :
-
-- avant l'expiration d'un délai de vingt-quatre heures depuis la déclaration du décès à la mairie ;
-
-- et sans l'autorisation préalable [*conditions de forme*] du maire de la commune où a eu lieu le décès [*du préfet de police
-si le décès a eu lieu à Paris - compétence*].
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°77-241 1977-03-07
-
-	**Créé par**:
-
-	  - Décret n°77-241 1977-03-07 JORF et JONC 18 Mars 1977
-
-	**Cite**:
-
-	  - CODE DES COMMUNES. - art. R364-15 (M)
-
-	**Cité par**:
-
-	  - CODE DES COMMUNES. - art. R364-17 (Ab)
-	  - CODE DES COMMUNES. - art. R394-8 (Ab)
-
-	**Nouveaux textes**:
-
-	  - Code général des collectivités territoriales - art. R2213-5 (V)
-
-	**Anciens textes**:
-
-	  - Décret  1941-12-31 ART. 25 (PARTIE)
-
-
-###### Article R364-15
-
-Lorsque le moulage ou l'autopsie d'un cadavre est nécessaire avant l'expiration du délai de vingt-quatre heures, la demande
-d'autopsie [*formalités*] est accompagnée d'un certificat de médecin, légalisé, constatant que des signes de décomposition
-rendent l'opération nécessaire avant les délais prescrits.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret  1941-12-31 ART. 26
-
-	**Codifié par**:
-
-	  - Décret n°77-241 1977-03-07
-
-	**Créé par**:
-
-	  - Décret n°77-241 1977-03-07 JORF et JONC 18 Mars 1977
-
-	**Cité par**:
-
-	  - CODE DES COMMUNES. - art. R364-14 (Ab)
-
-	**Nouveaux textes**:
-
-	  - Code général des collectivités territoriales - art. R2213-6 (V)
-
-
-###### Article R364-16
-
-Lorsque les organes sont prélevés dans les conditions prévues par le décret n° 78-501 du 31 mars 1978, le délai de dix-huit
-heures prévu pour le transport du corps avant mise en bière est porté à vingt-quatre heures.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°1941-12-31 ART. 27 MODIFIE AL. 1 ET 2
-
-	**Codifié par**:
-
-	  - Décret n°77-241 1977-03-07
-
-	**Cite**:
-
-	  - Décret n°78-501 1978-03-31 (prélèvements d'organes)
-
-	**Modifié par**:
-
-	  - Décret n°87-28 1987-01-14 art. 33 JORF 18 janvier 1987
-
-	**Cité par**:
-
-	  - Décret n°78-501 du 31 mars 1978 - art. 23 (Ab)
-
-	**Abrogé par**:
-
-	  - Décret n°96-141 du 21 février 1996 - art. 11 () JORF 23 février 1996
 
 
 ### TITRE 7 : Dispositions particulières à certains services industriels et commerciaux
