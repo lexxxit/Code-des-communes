@@ -1,5 +1,5 @@
 # Code des communes  
-Version Consolidée au 1992-01-03
+Version Consolidée au 1992-01-04
 
 # Statuts types d'une caisse communale de secours et de retraite de sapeurs-pompiers
 
@@ -14955,11 +14955,9 @@ d'entretien de son mobilier dans les communes sièges de ce tribunal ;
 16° [*dépenses obligatoires*] La clôture des cimetières, leur entretien et leur translation dans les cas déterminés par le
 titre VI du Livre III et les règlements d'administration publique ;
 
-17° La dépense relative au fonctionnement et à l'entretien des stations d'épuration de ses eaux usées ;
-
-18° Les dépenses de prospections, traitements, travaux et contrôles nécessaires à l'action de lutte contre les moustiques
-conformément à l'article 1er de la loi n° 64-1245 du 16 décembre 1964 et à l'article 65 de la loi n° 74-1129 du 30 décembre
-1974 ;
+17° [*abrogé*]    18° Les dépenses de prospections, traitements, travaux et contrôles nécessaires à l'action de lutte contre
+les moustiques conformément à l'article 1er de la loi n° 64-1245 du 16 décembre 1964 et à l'article 65 de la loi n° 74-1129
+du 30 décembre 1974 ;
 
 19° [*dépenses obligatoires*] Les frais d'établissement et de conservation des plans d'alignement et de nivellement, sous la
 réserve prévue par l'article L. 121-2 du code de l'urbanisme ;
@@ -14991,39 +14989,27 @@ application de l'article L. 318-2 du code de l'urbanisme et qui ont été décla
 	**Liens**:
 
 	  - SPEC_APPLI: *Dispositions des 1, 2, 4, 6, 14 à 16, 19 et 26 non applicables aux communes des départements de la Moselle, du Bas-Rhin et du Haut-Rhin (Alsace-Lorraine) et dispositions des 11 et 24 non applicables aux communes du département de
+	  - SPEC_APPLI: Loi n°92-3 1992-01-03 art. 46 IV
 	  - SPEC_APPLI: Code des communes L261-1 :
 
 	**Cite**:
 
-	  - CODE DES COMMUNES. - art. L122-14 (M)
-	  - Circulaire  1978-01-06 (JORF 28 janvier 1978 p. 512)
-	  - Code de la mutualité 80
-	  - Code de l'urbanisme L121-2 et L318-2
-	  - Code de la famille et de l'aide sociale titre IV et 190
-	  - Code de la santé publique Livre I titre I
-	  - Code rural 175 à 178
 	  - Décret n°55-471 1955-04-30
 	  - Loi n°64-1245 du 16 décembre 1964 - art. 1 (Ab)
 	  - Loi n°74-1129 du 30 décembre 1974 - art. 65, v. init.
 	  - Décret n°76-435 1976-05-18
+	  - CODE DES COMMUNES. - art. L122-14 (M)
+	  - Circulaire  1978-01-06 (JORF 28 janvier 1978 p. 512)
+	  - Code de la famille et de l'aide sociale titre IV et 190
 	  - Code des communes L361-1 à L364-6
 	  - Code du travail - art. L51-10-2 (M)
+	  - Code de la mutualité 80
+	  - Code de l'urbanisme L121-2 et L318-2
+	  - Code de la santé publique Livre I titre I
+	  - Code rural 175 à 178
 	  - Loi  1466 1977-12-30 art. 3 LOI  de finances rectificative POUR 1977 (exonération du droit d'enregistrement, de la taxe de publicité foncière et du droit de timbre en faveur des transferts de biens, droits et obligations résultant de fusions ou de re
 	  - Loi n°1913-12-31 art. 25
 	  - Loi n°74-624 1974-07-10 art. 1 à 4
-
-	**Cité par**:
-
-	  - CODE DES COMMUNES. - art. L261-1 (Ab)
-	  - CODE DES COMMUNES. - art. L331-1 (Ab)
-	  - CODE DES COMMUNES. - art. L361-3 (Ab)
-	  - Décret n°2000-318 du 7 avril 2000 - art. 4 (V)
-	  - Code de la voirie routière - art. L141-8 (V)
-	  - Code forestier - art. L322-2 (M)
-
-	**Anciens textes**:
-
-	  - Code de l'administration communale 185 modifié
 
 	**Codifié par**:
 
@@ -15031,7 +15017,20 @@ application de l'article L. 318-2 du code de l'urbanisme et qui ont été décla
 
 	**Modifié par**:
 
-	  - Loi n°85-30 1985-01-10 art. 97 JORF 10 janvier 1985
+	  - Loi n°92-3 1992-01-03 art. 46 jorf 4 janvier 1992
+
+	**Cité par**:
+
+	  - Décret n°2000-318 du 7 avril 2000 - art. 4 (V)
+	  - CODE DES COMMUNES. - art. L261-1 (Ab)
+	  - CODE DES COMMUNES. - art. L331-1 (Ab)
+	  - CODE DES COMMUNES. - art. L361-3 (Ab)
+	  - Code de la voirie routière - art. L141-8 (V)
+	  - Code forestier - art. L322-2 (M)
+
+	**Anciens textes**:
+
+	  - Code de l'administration communale 185 modifié
 
 
 ###### Article L221-4
@@ -15555,30 +15554,26 @@ général des impôts ;
 l'urbanisme ;
 
 3° Le montant de la participation instituée dans les secteurs d'aménagement en vertu des dispositions de l'article L. 332-9
-du code de l'urbanisme ;
-
-4° Le montant des participations et remboursements ou redevances pour raccordement à l'égout prévus aux articles L. 34, L.
-35, L. 35-3, L. 35-4, L. 35-5 et L. 35-8 du code de la santé publique.
+du code de l'urbanisme.
 
 **Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - SPEC_APPLI: *Dispositions des 2 et 3 non applicables aux communes du département de Saint-Pierre-et-Miquelon*
-	  - SPEC_APPLI: Code des communes L262-10 :
 
 	**Codifié par**:
 
 	  - Décret n°77-90 1977-01-27
 
-	**Modifié par**:
-
-	  - Loi n°85-729 du 18 juillet 1985 - art. 28 () JORF 19 juillet 1985
-
 	**Cité par**:
 
 	  - Ordonnance n°91-755 du 22 juillet 1991 - art. 2 (VT)
 	  - Loi n°92-3 du 3 janvier 1992 - art. 46 (M)
+
+	**Modifié par**:
+
+	  - Loi n°92-3 1992-01-03 art. 46 JORF 4 janvier 1992
+
+	**Abrogé par**:
+
+	  - Loi n°96-142 du 21 février 1996 - art. 12 (V) JORF 24 février 1996
 
 	**Nouveaux textes**:
 
@@ -15586,12 +15581,8 @@ du code de l'urbanisme ;
 
 	**Cite**:
 
-	  - Code de la santé publique - art. L34 (M)
-	  - Code de la santé publique - art. L35 (Ab)
-	  - Code de la santé publique - art. L35-8 (Ab)
-	  - Code de la santé publique L34, L35, L35-3 à L35-5, L35-8
 	  - Code de l'urbanisme - art. L332-6-1 (M)
-	  - Code de l'urbanisme L332-1 et L332-7, L332-6-1, L332-9 CGI
+	  - Code de l'urbanisme - art. L332-9 (M)
 
 
 ###### Article L231-9
@@ -26537,238 +26528,50 @@ juillet 1955.
 
 ##### SECTION 2 : Travaux de défense contre les eaux ; travaux d'équipement rural.
 
-###### Article L315-4
-
-Les communes, leurs groupements et les syndicats mixtes sont autorisés à exécuter et à prendre en charge, avec ou sans
-subventions de l'Etat, tous travaux de protection contre les inondations et contre la mer lorsque ces travaux présentent pour
-eux un caractère d'intérêt général.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Décret n°49-941 1949-07-15 modifié
-	  - Décret n°54-590 1954-06-04
-	  - Loi   1940-10-11
-
-	**Anciens textes**:
-
-	  - Loi n°73-624 1973-07-10 ART. 1 (Partie)
-
-	**Codifié par**:
-
-	  - Décret n°77-240 1977-03-07
-
-	**Créé par**:
-
-	  - Décret n°77-240 1977-03-07 JORF et JONC 18 Mars 1977
-
-	**Abrogé par**:
-
-	  - Loi n°92-3 1992-01-03 art. 46 I jorf 4 janvier 1992
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°92-3 1992-01-03 art. IV
-
-	**Cité par**:
-
-	  - CODE DES COMMUNES. - art. R*315-13 (Ab)
-
-
-###### Article L315-5
-
-Un arrêté, précédé d'une enquête, définit :
-
-La nature et l'étendue des travaux à réaliser [*par les communes, leurs groupements, et les syndicats mixtes*] ;
-
-Les modalités d'entretien ou d'exploitation de l'aménagement ;
-
-Le montant des dépenses prévues ;
-
-La proportion dans laquelle les communes, leurs groupements et les syndicats mixtes sont autorisés à faire participer les
-intéressés aux charges de premier établissement et aux frais d'entretien et d'exploitation.
-
-Les bases générales de la répartition de cette participation sont fixées compte tenu de la mesure dans laquelle chacun a
-rendu l'aménagement nécessaire ou utile ou y trouve son intérêt.
-
-L'arrêté peut en outre prévoir la prise en charge de l'entretien ou de l'exploitation de l'aménagement par une association
-syndicale.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°73-624 1973-07-10 ART. 2 (Partie)
-
-	**Codifié par**:
-
-	  - Décret n°77-240 1977-03-07
-
-	**Créé par**:
-
-	  - Décret n°77-240 1977-03-07 JORF et JONC 18 Mars 1977
-
-	**Abrogé par**:
-
-	  - Loi n°92-3 1992-01-03 art. 46 I jorf 4 janvier 1992
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°92-3 1992-01-03 art. IV
-
-	**Cité par**:
-
-	  - CODE DES COMMUNES. - art. L315-7 (Ab)
-	  - CODE DES COMMUNES. - art. L316-6 (Ab)
-	  - CODE DES COMMUNES. - art. R*315-14 (Ab)
-
-
-###### Article L315-6
-
-Les communes, leurs groupements et les syndicats mixtes disposent, pour la réalisation des travaux, des mêmes droits et
-servitudes que les associations syndicales autorisées.
-
-Le recouvrement des cotisations des intéressés est poursuivi comme en matière d'impôts directs.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°73-624 1973-07-10 ART. 3 (Partie)
-
-	**Codifié par**:
-
-	  - Décret n°77-240 1977-03-07
-
-	**Créé par**:
-
-	  - Décret n°77-240 1977-03-07 JORF et JONC 18 Mars 1977
-
-	**Abrogé par**:
-
-	  - Loi n°92-3 1992-01-03 art. 46 I jorf 4 janvier 1992
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°92-3 1992-01-03 art. IV
-
-
-###### Article L315-7
-
-Lorsque l'arrêté [*définissant les travaux à réaliser et les modalités techniques et financières de leur réalisation*]
-mentionné à l'article L. 315-5 a prévu que les ouvrages seraient remis à une association syndicale autorisée, chargée
-d'assurer leur entretien et leur exploitation et que cette association ne peut être constituée en temps utile, il est pourvu
-d'office à sa constitution.
-
-Jusqu'à la constitution de cette association, l'entretien et l'exploitation sont assurés par le maître de l'ouvrage.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°73-624 1973-07-10 ART. 4 (Partie)
-
-	**Codifié par**:
-
-	  - Décret n°77-240 1977-03-07
-
-	**Créé par**:
-
-	  - Décret n°77-240 1977-03-07 JORF et JONC 18 Mars 1977
-
-	**Abrogé par**:
-
-	  - Loi n°92-3 1992-01-03 art. 46 I jorf 4 janvier 1992
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°92-3 1992-01-03 art. IV
-
-	**Cite**:
-
-	  - CODE DES COMMUNES. - art. L315-5 (Ab)
-
-
-###### Article L315-8
-
-Un décret en Conseil d'Etat détermine les conditions d'application des articles L. 315-4 à L. 315-7 et notamment les formes
-de l'enquête prévue à l'article L. 315-5.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°77-240 1977-03-07
-
-	**Créé par**:
-
-	  - Décret n°77-240 1977-03-07 JORF et JONC 18 Mars 1977
-
-	**Abrogé par**:
-
-	  - Loi n°92-3 1992-01-03 art. 46 I jorf 4 janvier 1992
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°92-3 1992-01-03 art. IV
-
-	**Cite**:
-
-	  - Code des communes L315-4 à L315-7
-
-	**Anciens textes**:
-
-	  - Loi n°67-624 1967-07-10 ART. 6 (Partie)
-
-
 ###### Article L315-9
 
 Conformément au premier alinéa de l'article 175 du code rural, les communes, leurs groupements ou les syndicats mixtes sont
 autorisés à exécuter et à prendre en charge les travaux entrant dans les catégories ci-dessous définies, lorsqu'ils
-présentent, pour eux, du point de vue agricole ou du point de vue de l'aménagement des eaux, un caractère d'urgence ou
-d'intérêt général : [*définition*]        1° Lutte contre l'érosion, défense contre les torrents, reboisement et aménagement
-des versants, défense contre les incendies ;
+présentent, pour eux, du point de vue agricole, un caractère d'urgence ou d'intérêt général :    1° Lutte contre l'érosion,
+défense contre les torrents, reboisement et aménagement des versants, défense contre les incendies ; 
 
-2° Défense des rives et du fonds des rivières non domaniales ;
+2° [*abrogé*] 3° Curage, approfondissement, redressement et régularisation des canaux et cours d'eau non domaniaux et des
+canaux de dessèchement et d'irrigation ; 
 
-3° Curage, approfondissement, redressement et régularisation des canaux et cours d'eau non domaniaux et des canaux de
-dessèchement et d'irrigation ;
+4° Dessèchement des marais ; 
 
-4° Dessèchement des marais ;
+5° Assainissement des terres humides et insalubres ; 
 
-5° Assainissement des terres humides et insalubres ;
+6° Irrigation, épandage, colmatage et limonage ; 
 
-6° Irrigation, épandage, colmatage et limonage ;
-
-7° Aménagement, soit du bassin d'un cours d'eau non domanial ou d'une partie de ce bassin, soit seulement d'un cours d'eau
-non domanial ou d'une section de celui-ci.
+7° [*abrogé*]
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Code de l'administration communale 329 remplacé
-
-	**Cite**:
-
-	  - Code rural 175 AL. 1
-
-	**Codifié par**:
-
-	  - Décret n°77-240 1977-03-07
-
-	**Créé par**:
-
-	  - Décret n°77-240 1977-03-07 JORF et JONC 18 Mars 1977
 
 	**Cité par**:
 
 	  - CODE DES COMMUNES. - art. R*315-17 (Ab)
 
+	**Anciens textes**:
+
+	  - Code de l'administration communale 329 remplacé
+
+	**Codifié par**:
+
+	  - Décret n°77-240 1977-03-07
+
 	**Liens**:
 
+	  - SPEC_APPLI: Loi n°92-3 1992-01-03 art. 46 IV
 	  - TXT_ASSOCIE: Code des communes R315-17
+
+	**Modifié par**:
+
+	  - Loi n°92-3 1992-01-03 art. 46 jorf 4 janvier 1992) A(Loi 96-142 1996-02-21 art. 12 jorf 24 février 1996
+
+	**Cite**:
+
+	  - Code rural 175 AL. 1
 
 
 ###### Article L315-10
@@ -26797,69 +26600,6 @@ effectués conformément aux dispositions des articles 147 à 150 du code rural.
 	**Abrogé par**:
 
 	  - Loi n°96-142 du 21 février 1996 - art. 12 (V)
-
-
-###### Article L315-11
-
-Conformément au premier alinéa de l'article 11 de la loi n° 64-1245 du 16 décembre 1964 relative au régime et à la
-répartition des eaux et à la lutte contre leur pollution, les communes, leurs groupements et les syndicats mixtes sont
-habilités à entreprendre l'étude, l'exécution et l'exploitation de tous travaux d'utilité publique nécessaires à la lutte
-contre la pollution des eaux, à l'approvisionnement et à l'amélioration des cours d'eau, des lacs et des étangs non
-domaniaux, des eaux souterraines et des canaux et fossés d'assainissement et d'irrigation.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Loi n°64-1245 du 16 décembre 1964 - art. 11 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°77-240 1977-03-07
-
-	**Créé par**:
-
-	  - Décret n°77-240 1977-03-07 JORF et JONC 18 Mars 1977
-
-	**Abrogé par**:
-
-	  - Loi n°92-3 1992-01-03 art. 46 I jorf 4 janvier 1992
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°92-3 1992-01-03 art. IV
-
-
-###### Article L315-12
-
-Conformément au premier alinéa de l'article 12 de la loi n° 64-1245 du 16 décembre 1964, les communes et leurs groupements
-peuvent percevoir des redevances pour les aménagements dont ils assurent l'exécution ; s'agissant des groupements, la charge
-de ces redevances est répartie entre les collectivités intéressées dans les conditions prévues aux articles L. 251-3 et L.
-251-4 [*relatifs aux recettes du budget du syndicat de communes*].
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Loi n°64-1245 du 16 décembre 1964 - art. 12 (Ab)
-	  - CODE DES COMMUNES. - art. L251-3 (M)
-	  - CODE DES COMMUNES. - art. L251-4 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°77-240 1977-03-07
-
-	**Créé par**:
-
-	  - Décret n°77-240 1977-03-07 JORF et JONC 18 Mars 1977
-
-	**Abrogé par**:
-
-	  - Loi n°92-3 1992-01-03 art. 46 I jorf 4 janvier 1992
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°92-3 1992-01-03 art. IV
 
 
 #### CHAPITRE 6 : Actions judiciaires
@@ -28062,20 +27802,17 @@ administratif ou financier*].
 
 ###### Article L323-9
 
-Des règlements d'administration publique :
+Les régies dotées de la personnalité morale et de l'autonomie financière sont créées, et leur organisation administrative et
+financière déterminée, par délibération du conseil municipal. Elles sont administrées par un conseil d'administration et un
+directeur désignés dans les mêmes conditions sur proposition du maire.
 
-Déterminent l'organisation administrative, le régime financier et le fonctionnement des régies dotées de la personnalité
-morale et de l'autonomie financière.
+" Un décret en Conseil d'Etat détermine, en tant que de besoin, les modalités d'application du présent article. "
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°77-90 1977-01-27
-
-	**Modifié par**:
-
-	  - Loi n°83-663 du 22 juillet 1983 - art. 114 () JORF 23 JUILLET 1983
+	  - Décret n°77-240 1977-03-07
 
 	**Cité par**:
 
@@ -28083,6 +27820,10 @@ morale et de l'autonomie financière.
 	  - CODE DES COMMUNES. - art. L323-4 (Ab)
 	  - CODE DES COMMUNES. - art. R*142-2 (Ab)
 	  - CODE DES COMMUNES. - art. R323-7 (Ab)
+
+	**Modifié par**:
+
+	  - Loi n°92-3 du 3 janvier 1992 - art. 39 ()
 
 	**Anciens textes**:
 
@@ -28192,8 +27933,11 @@ des modifications aux règles d'administration [*du syndicat de communes*] fixé
 
 ###### Article L323-13
 
-Un règlement d'administration publique détermine les règles d'organisation et d'administration des régies dotées de la seule
-autonomie financière, ainsi que les dérogations à apporter éventuellement à l'administration des syndicats de communes.
+Les régies dotées de la seule autonomie financière sont créées, et leur organisation administrative et financière déterminée,
+par délibération du conseil municipal. Elles sont administrées, sous l'autorité du maire et du conseil municipal, par un
+conseil d'exploitation et un directeur désignés dans les mêmes conditions sur proposition du maire.
+
+" Un décret en Conseil d'Etat détermine, en tant que de besoin, les modalités d'application du présent article. "
 
 **Liens relatifs à cet article**
 
@@ -28201,9 +27945,9 @@ autonomie financière, ainsi que les dérogations à apporter éventuellement à
 
 	  - Décret n°77-240 1977-03-07
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°77-240 1977-03-07 JORF et JONC 18 mars 1977
+	  - Loi n°92-3 du 3 janvier 1992 - art. 39 ()
 
 	**Cité par**:
 
@@ -30776,6 +30520,58 @@ présent livre, ainsi qu'aux dispositions ci-après.
 	  - Code général des collectivités territoriales - art. L2224-5 (V)
 
 
+###### Article L372-1-1
+
+Les communes prennent obligatoirement en charge les dépenses relatives aux systèmes d'assainissement collectif, notamment aux
+stations d'épuration des eaux usées et à l'élimination des boues qu'elles produisent, et les dépenses de contrôle des
+systèmes d'assainissement non collectif.
+
+Elles peuvent prendre en charge les dépenses d'entretien des systèmes d'assainissement non collectif.
+
+L'étendue des prestations afférentes aux services d'assainissement municipaux et les délais dans lesquels ces prestations
+doivent être effectivement assurées sont fixés par décret en Conseil d'Etat, en fonction des caractéristiques des communes et
+notamment de l'importance des populations totales, agglomérées et saisonnières.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°77-240 1977-03-07
+
+	**Créé par**:
+
+	  - Loi n°92-3 du 3 janvier 1992 - art. 35 () JORF 4 janvier 1992
+
+	**Cité par**:
+
+	  - Décret n°93-742 du 29 mars 1993 - art. 13 (M)
+	  - Décret n°94-469 du 3 juin 1994 - art. 1 (Ab)
+	  - Arrêté du 22 décembre 1994 - art. 1 (Ab)
+	  - Décret n°2000-318 du 7 avril 2000 - art. 4 (V)
+	  - Arrêté du 2 mai 2007 - art. Annexe I (V)
+	  - Arrêté du 22 juin 2007 - art. 24 (VT)
+	  - Arrêté du 14 janvier 2011 (V)
+	  - Arrêté du 23 mars 2012 (V)
+	  - Arrêté du 11 septembre 2013 (V)
+	  - Arrêté du 2 décembre 2013 (V)
+	  - Arrêté du 14 décembre 2013 (V)
+	  - Arrêté du 27 décembre 2013 (V)
+	  - Code général des collectivités territoriales - art. R2224-11 (M)
+	  - Code général des collectivités territoriales - art. R2224-15 (M)
+	  - Code général des collectivités territoriales - art. R2224-16 (M)
+	  - Code général des collectivités territoriales - art. R2224-19 (Ab)
+	  - Code général des collectivités territoriales - art. R2224-20 (Ab)
+
+	**Abrogé par**:
+
+	  - Loi n°96-142 du 21 février 1996 - art. 12 (V) JORF 24 février 1996
+
+	**Nouveaux textes**:
+
+	  - Code général des collectivités territoriales - art. L2224-8 (V)
+	  - Code général des collectivités territoriales - art. L2224-8 (M)
+
+
 ###### Article L372-2
 
 Les règles particulières applicables à l'évacuation des eaux usées et au raccordement des immeubles aux égouts sont définies
@@ -30806,25 +30602,30 @@ par les articles L. 33 à L. 35-6, L. 35-8 et L. 35-9 du code de la santé publi
 
 ###### Article L372-3
 
-Conformément à l'article 112 du code rural, le déversement dans un cours d'eau domanial d'eaux usées provenant d'égouts
-communaux est autorisé par un acte déclarant d'utilité publique les travaux [**]conditions de forme[**] ; cet acte détermine
-les conditions auxquelles le déversement est subordonné en vue de sauvegarder les intérêts généraux.
+Les communes ou leurs groupements délimitent, après enquête publique :
+
+- les zones d'assainissement collectif où elles sont tenues d'assurer la collecte des eaux usées domestiques et le stockage,
+l'épuration et le rejet ou la réutilisation de l'ensemble des eaux collectées ;
+
+- les zones relevant de l'assainissement non collectif où elles sont seulement tenues, afin de protéger la salubrité
+publique, d'assurer le contrôle des dispositifs d'assainissement et, si elles le décident, leur entretien ;
+
+- les zones où des mesures doivent être prises pour limiter l'imperméabilisation des sols et pour assurer la maîtrise du
+débit et de l'écoulement des eaux pluviales et de ruissellement ;
+
+- les zones où il est nécessaire de prévoir des installations pour assurer la collecte, le stockage éventuel et, en tant que
+de besoin, le traitement des eaux pluviales et de ruissellement lorsque la pollution qu'elles apportent au milieu aquatique
+risque de nuire gravement à l'efficacité des dispositifs d'assainissement.
 
 **Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - SPEC_APPLI: *Dispositions non applicables aux communes des départements de la Guadeloupe, de la Guyane, de la Martinique, de la Réunion et de Saint-Pierre-et-Miquelon*
-	  - SPEC_APPLI: CODE DES COMMUNES. - art. L392-1 (Ab)
-	  - SPEC_APPLI: Code des communes L392-1, L392-4 :
 
 	**Codifié par**:
 
 	  - Décret n°77-240 1977-03-07
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°77-240 1977-03-07 JORF et JONC 18 mars 1977
+	  - Loi n°92-3 du 3 janvier 1992 - art. 35 () JORF 4 janvier 1992
 
 	**Cité par**:
 
@@ -30843,9 +30644,13 @@ les conditions auxquelles le déversement est subordonné en vue de sauvegarder 
 	  - Code général des collectivités territoriales - art. R2224-19 (Ab)
 	  - Code général des collectivités territoriales - art. R2224-20 (Ab)
 
-	**Cite**:
+	**Abrogé par**:
 
-	  - Code rural 112
+	  - Loi n°96-142 du 21 février 1996 - art. 12 (V) JORF 24 février 1996
+
+	**Nouveaux textes**:
+
+	  - Code général des collectivités territoriales - art. L2224-10 (M)
 
 
 ###### Article L372-4
@@ -30909,64 +30714,65 @@ d'eaux usées ou pluviales.
 
 ###### Article L372-6
 
-Les réseaux d'assainissement et les installations d'épuration publics sont financièrement gérés comme des services à
-caractère industriel et commercial.
+Les services publics d'assainissement sont financièrement gérés comme des services à caractère industriel et commercial.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°65-997 1965-11-29 art. 75 I
 
 	**Codifié par**:
 
 	  - Décret n°77-240 1977-03-07
-
-	**Créé par**:
-
-	  - Décret n°77-240 1977-03-07 JORF et JONC 18 mars 1977
 
 	**Cité par**:
 
 	  - Loi n°90-1247 du 29 décembre 1990 - art. 6 (Ab)
 
+	**Modifié par**:
+
+	  - Loi n°92-3 du 3 janvier 1992 - art. 35 () JORF 4 janvier 1992
+
+	**Abrogé par**:
+
+	  - Loi n°96-142 du 21 février 1996 - art. 12 (V) JORF 24 février 1996
+
 	**Nouveaux textes**:
 
 	  - Code général des collectivités territoriales - art. L2224-11 (V)
+	  - Code général des collectivités territoriales - art. L2224-11 (M)
 
 
 ###### Article L372-7
 
-Un décret en Conseil d'Etat [*conditions de forme*] fixe les conditions dans lesquelles sont instituées, recouvrées et
-affectées les redevances dues par les usagers, ainsi que les sommes dues par les propriétaires mentionnés à l'article L. 35-5
-du code de la santé publique.
+Un décret en Conseil d'Etat fixe les conditions dans lesquelles sont instituées, recouvrées et affectées les redevances dues
+par les usagers, ainsi que les sommes dues par les propriétaires mentionnés aux articles L. 33 et L. 35-5 du code de la santé
+publique.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Décret n°77-240 1977-03-07
-
-	**Créé par**:
-
-	  - Décret n°77-240 1977-03-07 JORF et JONC 18 mars 1977
 
 	**Cité par**:
 
 	  - Loi n°90-1247 du 29 décembre 1990 - art. 6 (Ab)
 	  - Code de la santé publique - art. L33 (Ab)
 
+	**Modifié par**:
+
+	  - Loi n°92-3 du 3 janvier 1992 - art. 35 () JORF 4 janvier 1992
+
+	**Abrogé par**:
+
+	  - Loi n°96-142 du 21 février 1996 - art. 12 (V) JORF 24 février 1996
+
 	**Nouveaux textes**:
 
 	  - Code général des collectivités territoriales - art. L2224-12 (V)
+	  - Code général des collectivités territoriales - art. L2224-12 (M)
 
 	**Cite**:
 
 	  - Code de la santé publique - art. L35-5 (M)
-
-	**Anciens textes**:
-
-	  - Loi n°75-997 1975-11-29 art. 75 III
 
 
 #### CHAPITRE 3 : Ordures ménagères et autres déchets.
