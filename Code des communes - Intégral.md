@@ -1,5 +1,5 @@
 # Code des communes  
-Version Consolidée au 1986-12-30
+Version Consolidée au 1986-12-31
 
 # Statuts types d'une caisse communale de secours et de retraite de sapeurs-pompiers
 
@@ -15475,6 +15475,50 @@ inférieure ou égale à 250 kVA.
 	  - Code général des collectivités territoriales - art. L2333-3 (M)
 
 
+###### Article L233-3
+
+Le taux de cette taxe ne peut dépasser 8 p. 100.
+
+Les communes ou groupements de communes qui bénéficient à la date de promulgation de la loi de finances rectificative pour
+1984 n° 84-1209 du 29 décembre 1984 de la possibilité de dépasser le taux de 8 p. 100 conservent cette possibilité si elles
+peuvent justifier de charges d'électrification non couvertes par le taux maximum de la taxe mentionnée ci-dessus.
+
+La taxe est recouvrée par le distributeur dans les conditions fixées par décret en Conseil d'Etat.
+
+Les communes ou groupements de communes qui, avant le 30 décembre 1984, bénéficiaient de la possibilité de dépasser le taux
+de 8 p. 100 peuvent majorer ce taux pour obtenir des ressources équivalentes à celles que leur procuraient, avant le 27
+décembre 1969, la taxe sur l'électricité et les surtaxes ou majorations de tarifs.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°77-90 1977-01-27
+
+	**Cite**:
+
+	  - Loi n°84-1209 1984-12-29
+
+	**Cité par**:
+
+	  - Loi n°84-1209 du 29 décembre 1984 - art. 24 (V)
+	  - CODE DES COMMUNES. - art. L233-6 (M)
+	  - CODE DES COMMUNES. - art. L233-7 (M)
+	  - CODE DES COMMUNES. - art. R*233-6 (Ab)
+
+	**Modifié par**:
+
+	  - Loi n°86-1318 du 30 décembre 1986 - art. 30 (P) JORF du 31 décembre 1986
+
+	**Abrogé par**:
+
+	  - Loi n°96-142 du 21 février 1996 - art. 12 (V) JORF 24 février 1996
+
+	**Nouveaux textes**:
+
+	  - Code général des collectivités territoriales - art. L2333-4 (M)
+
+
 ###### Article L233-4
 
 Par dérogation aux dispositions des articles L. 233-1, L. 233-2 et L. 233-3 ci-dessus, dans les communes et les départements
@@ -16188,6 +16232,38 @@ taxe mentionnée à l'article précédent.
 
 
 ##### SOUS-SECTION 3 : Prélèvement progressif sur le produit des jeux dans les casinos.
+
+###### Article L233-48
+
+Le taux maximum des prélèvements opérés par les communes sur le produit brut des jeux dans les casinos régis par la loi du 15
+juin 1907 en vertu des clauses des cahiers des charges de ces établissements ne doit, en aucun cas, dépasser 15 p. 100
+[*pourcentage*].
+
+Lesdits prélèvements ont la même assiette que le prélèvement de l'Etat, c'est-à-dire s'appliquent au produit brut des jeux
+diminué de 35 p. 100.
+
+Lorsque le taux du prélèvement de l'Etat ajouté au taux du prélèvement communal dépasse 80 p. 100, le taux du prélèvement de
+l'Etat est réduit de façon que le total des deux prélèvements soit de 80 p. 100.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°77-90 1977-01-27
+
+	**Modifié par**:
+
+	  - Loi n°86-1318 du 30 décembre 1986 - art. 43 () JORF 31 décembre 1986
+
+	**Abrogé par**:
+
+	  - Loi n°96-142 du 21 février 1996 - art. 12 (V) JORF 24 février 1996
+
+	**Nouveaux textes**:
+
+	  - Code général des collectivités territoriales - art. L2333-54 (V)
+	  - Code général des collectivités territoriales - art. L2333-54 (M)
+
 
 ###### Article L233-49
 
@@ -22820,48 +22896,6 @@ foires et marchés d'après les tarifs dûment établis ;
 
 #### Taxes, redevances ou versements autres que ceux prévus par le code général des impôts
 
-##### Taxe sur certaines fournitures d'électricité
-
-###### Article L233-3
-
-Le taux [*maximal*] de cette taxe ne peut dépasser 8 p. 100.
-
-Les communes ou groupements de communes qui bénéficient à la date de promulgation de la loi de finances rectificative pour
-1984 n° 84-1209 du 29 décembre 1984 de la possibilité de dépasser le taux de 8 p. 100 conservent cette possibilité si elles
-peuvent justifier de charges d'électrification non couvertes par le taux maximum de la taxe mentionnée ci-dessus.
-
-La taxe est recouvrée par le distributeur dans les conditions fixées par décret en Conseil d'Etat.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°69-1160 1969-12-24 art. 8 I, al. 1 et 2
-
-	**Codifié par**:
-
-	  - Décret n°77-90 1977-01-27
-
-	**Cite**:
-
-	  - Loi n°84-1209 1984-12-29 finances rectificative pour 1984
-
-	**Modifié par**:
-
-	  - Loi n°84-1209 du 29 décembre 1984 - art. 23 () JORF 30 décembre 1984
-
-	**Cité par**:
-
-	  - Loi n°84-1209 du 29 décembre 1984 - art. 24 (V)
-	  - CODE DES COMMUNES. - art. L233-6 (M)
-	  - CODE DES COMMUNES. - art. L233-7 (M)
-	  - CODE DES COMMUNES. - art. R*233-6 (Ab)
-
-	**Liens**:
-
-	  - SPEC_APPLI: Code des communes L233-4 *dérogation*
-
-
 ##### Taxes particulières aux stations
 
 ##### Taxe de séjour
@@ -23364,43 +23398,6 @@ uvale intercommunale.
 	**Cite**:
 
 	  - Code des communes L233-29 à L233-45
-
-
-##### Prélèvement progressif sur le produit des jeux dans les casinos .
-
-###### Article L233-48
-
-Le taux maximum des prélèvements opérés par les communes sur le produit brut des jeux dans les casinos régis par la loi du 15
-juin 1907 en vertu des clauses des cahiers des charges de ces établissements ne doit, en aucun cas, dépasser 15 p. 100
-[*pourcentage*].
-
-Lesdits prélèvements ont la même assiette que le prélèvement de l'Etat, c'est-à-dire s'appliquent au produit brut des jeux
-diminué de 25 p. 100.
-
-Lorsque le taux du prélèvement de l'Etat ajouté au taux du prélèvement communal dépasse 80 p. 100, le taux du prélèvement de
-l'Etat est réduit de façon que le total des deux prélèvements soit de 80 p. 100.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°46-854 1946-04-27 art. 44 al. 1 à 3
-
-	**Codifié par**:
-
-	  - Décret n°77-90 1977-01-27
-
-	**Créé par**:
-
-	  - Décret n°77-90 1977-01-27 JORF et JONC 3 février 1977 date d'entrée en vigueur élection des maires
-
-	**Nouveaux textes**:
-
-	  - Code général des collectivités territoriales - art. L2333-54 (V)
-
-	**Cite**:
-
-	  - Loi n°1907-06-15
 
 
 ##### Taxes destinées au financement des transports en commun
@@ -32869,6 +32866,34 @@ départements des Hauts-de-Seine, de la Seine-Saint-Denis et du Val-de-Marne, so
 	  - Code des communes L393-2 à L393-3
 
 
+###### Article L393-2
+
+Le préfet de police de Paris est chargé [**]attributions[**] du secours et de la défense contre l'incendie dans les
+départements des Hauts-de-Seine, de la Seine-Saint-Denis et du Val-de-Marne.
+
+Les départements participent au prorata de leur population, au financement des dépenses de la brigade des sapeurs-pompiers de
+Paris, y compris les dépenses d'investissement afférentes au casernement, à hauteur de 37,5 p. 100.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°64-707 1964-07-10 ART. 11 (partie)
+	  - Loi n°75-1331 du 31 décembre 1975 - art. 9 (M)
+
+	**Codifié par**:
+
+	  - Décret n°77-240 1977-03-07
+
+	**Modifié par**:
+
+	  - Loi n°86-1317 du 30 décembre 1986 - art. 100 () JORF 31 décembre 1986
+
+	**Cité par**:
+
+	  - Décret n°89-561 du 11 août 1989 - art. 1 (Ab)
+
+
 ###### Article L393-3
 
 Les communes des départements des Hauts-de-Seine, de la Seine-Saint-Denis et du Val-de-Marne participent aux dépenses de la
@@ -33022,6 +33047,48 @@ police de la commune de Paris.
 	  - Loi n°96-142 du 21 février 1996 - art. 12 (V)
 
 
+###### Article L394-5
+
+L'Etat participe aux dépenses de fonctionnement de la brigade des sapeurs-pompiers de Paris, y compris les dépenses
+d'entretien, de réparation et de loyer de casernement.
+
+Dans la double limite des dotations inscrites au budget de l'Etat et des paiements effectués par la préfecture de police au
+cours de l'exercice considéré, la participation de l'Etat est égale à 37,5p. 100. [*proportion*] des dépenses suivantes
+inscrites au budget spécial de la préfecture de police.
+
+1° Rémunération des militaires de la brigade des sapeurs-pompiers de Paris, y compris l'alimentation des militaires pendant
+la durée légale du service ;
+
+2° Frais d'habillement, de déplacement, de transport et de mission concernant les personnels prévus à l'alinéa précédent ;
+
+3° Dépenses du service d'instruction et de santé ;
+
+4° Entretien, réparation, acquisition et installation du matériel de lutte contre l'incendie, du matériel de transport et du
+matériel de transmission.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°64-707 1964-07-10 ART. 40 AL. 2
+
+	**Codifié par**:
+
+	  - Décret n°77-240 1977-03-07
+
+	**Modifié par**:
+
+	  - Loi n°86-1317 du 30 décembre 1986 - art. 100 () JORF du 31 DECEMBRE 1986
+
+	**Cité par**:
+
+	  - Décret n°89-561 du 11 août 1989 - art. 1 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code général des collectivités territoriales - art. L2512-19 (V)
+
+
 #### CHAPITRE 5 : Dispositions applicables à la ville de Marseille.
 
 ###### Article L395-1
@@ -33172,720 +33239,15 @@ Il est interdit aux communes de prendre en charge dans leur budget propre, des d
 	  - CODE DES COMMUNES. - art. R*372-16 (M)
 
 
-### Dispositions particulières
-
-#### Dispositions applicables aux communes des départements des Hauts-de-Seine, de la Seine-Saint-Denis et du Val-de-Marne
-
-###### Article L393-2
-
-Le préfet de police de Paris est chargé [**]attributions[**] du secours et de la défense contre l'incendie dans les
-départements des Hauts-de-Seine, de la Seine-Saint-Denis et du Val-de-Marne.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°64-707 1964-07-10 ART. 11 (partie)
-	  - Loi n°75-1331 du 31 décembre 1975 - art. 9 (M)
-
-	**Codifié par**:
-
-	  - Décret n°77-240 1977-03-07
-
-	**Créé par**:
-
-	  - Décret n°77-240 1977-03-07 JORF et JONC 18 Mars 1977
-
-	**Cité par**:
-
-	  - Décret n°89-561 du 11 août 1989 - art. 1 (Ab)
-
-
-#### Dispositions applicables à la ville de Paris
-
-##### Protection contre l'incendie.
-
-###### Article L394-5
-
-L'Etat participe aux dépenses de fonctionnement de la brigade des sapeurs-pompiers de Paris, y compris les dépenses
-d'entretien, de réparation et de loyer de casernement.
-
-Dans la double limite des dotations inscrites au budget de l'Etat et des paiements effectués par la préfecture de police au
-cours de l'exercice considéré, la participation de l'Etat est égale aux trois quarts [*proportion*] des dépenses suivantes
-inscrites au budget spécial de la préfecture de police, à l'exception de la part de ces dépenses qui incombe à la commune de
-Paris pour laquelle la participation de l'Etat est fixée à 37,5 p. 100 :
-
-1° Rémunération des militaires de la brigade des sapeurs-pompiers de Paris, y compris l'alimentation des militaires pendant
-la durée légale du service ;
-
-2° Frais d'habillement, de déplacement, de transport et de mission concernant les personnels prévus à l'alinéa précédent ;
-
-3° Dépenses du service d'instruction et de santé ;
-
-4° Entretien, réparation, acquisition et installation du matériel de lutte contre l'incendie, du matériel de transport et du
-matériel de transmission.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°64-707 1964-07-10 ART. 40 AL. 2
-
-	**Codifié par**:
-
-	  - Décret n°77-240 1977-03-07
-
-	**Modifié par**:
-
-	  - Loi n°78-1239 du 29 décembre 1978 - art. 107 () JORF 30 décembre 1978 p. 4339
-
-	**Cité par**:
-
-	  - Décret n°89-561 du 11 août 1989 - art. 1 (Ab)
-
-	**Nouveaux textes**:
-
-	  - Code général des collectivités territoriales - art. L2512-19 (V)
-
-
 ## Personnel communal
 
 ### Agents nommés dans des emplois permanents à temps complet
-
-#### Dispositions générales et organiques
-
-##### Syndicat de communes pour le personnel communal .
-
-###### Article L411-27
-
-Le conseil municipal d'une commune qui occupe au moins cent agents titularisés dans un emploi permanent à temps complet
-[*nombre*] peut demander, par délibération, son affiliation au syndicat de communes pour le personnel communal.
-
-La commune est alors soumise aux dispositions du statut du personnel communal applicable dans les communes qui occupent moins
-de cent agents.
-
-**Liens relatifs à cet article**
-
-	**Cité par**:
-
-	  - Arrêté du 23 juin 1976 - art. 1 (V)
-	  - Arrêté du 23 juin 1976 - art. 15 (V)
-	  - CODE DES COMMUNES. - art. R411-18 (Ab)
-
-	**Anciens textes**:
-
-	  - Code de l'administration communale 493 al. 2 (partie)
-
-	**Codifié par**:
-
-	  - Décret n°77-372 1977-03-28
-
-	**Modifié par**:
-
-	  - Loi n°82-213 du 2 mars 1982 - art. 21 (V) JORF 3 MARS 1982
-	  - Loi n°85-1221 du 22 novembre 1985 - art. 28 (V) JORF 23 NOVEMBRE 1985
-
-	**Abrogé par**:
-
-	  - Loi n°84-53 1984-01-26 ART. 119 JORF 27 JANVIER 1984
-
-	**Liens**:
-
-	  - SPEC_APPLI: Les articles L411-26 à L411-30 du code des communes sont remis en vigueur jusqu'au 31 décembre 1986
-	  - SPEC_APPLI: Loi n°85-1221 1985-11-22 art. 28 :
-
-
-###### Article L411-30
-
-Le comité d'administration du syndicat de communes pour le personnel communal répartit entre les collectivités adhérentes les
-dépenses engagées pour le fonctionnement du syndicat, de la commission paritaire intercommunale, du conseil de discipline
-intercommunal et du conseil de discipline départemental.
-
-Le comité d'administration du syndicat de communes répartit entre les seules collectivités auxquelles il assure les
-prestations les dépenses afférentes au fonctionnement de la commission intercommunale d'hygiène et de sécurité visée à
-l'article L. 417-23, ainsi que les dépenses afférentes au service prévu à l'article L. 417-27.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°77-372 1977-03-28
-
-	**Abrogé par**:
-
-	  - Loi n°84-53 1984-01-26 ART. 119 JORF 27 JANVIER 1984
-
-	**Liens**:
-
-	  - SPEC_APPLI: Les articles L411-26 à L411-30 du code des communes sont remis en vigueur jusqu'au 31 décembre 1986
-	  - SPEC_APPLI: Loi n°85-1221 1985-11-22 art. 28 :
-
-	**Modifié par**:
-
-	  - Loi n°85-1221 du 22 novembre 1985 - art. 28 (V) JORF 23 NOVEMBRE 1985
-
-	**Cite**:
-
-	  - CODE DES COMMUNES. - art. L417-23 (Ab)
-	  - CODE DES COMMUNES. - art. L417-27 (M)
-
 
 ## LIVRE 4 : Personnel communal
 
 ### TITRE 1 : Agents nommés dans des emplois permanents à temps complet
 
-#### CHAPITRE 1 : Dispositions générales et organiques
-
-##### SECTION 3 : Syndicats de communes pour le personnel communal.
-
-###### Article L411-26
-
-Dans chaque département, les communes qui occupent moins de cent agents titularisés [*nombre*] dans un emploi permanent à
-temps complet sont obligatoirement affiliées à un syndicat de communes pour le personnel communal.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Arrêté  1976-06-23
-
-	**Anciens textes**:
-
-	  - Code de l'administration communale 493 al. 1
-
-	**Codifié par**:
-
-	  - Décret n°77-372 1977-03-28
-
-	**Créé par**:
-
-	  - Décret n°77-372 1977-03-28 JORF ET JONC 5 AVRIL 1977
-
-	**Abrogé par**:
-
-	  - Loi n°84-53 1984-01-26 ART. 119 JORF 27 JANVIER 1984
-
-	**Liens**:
-
-	  - SPEC_APPLI: Les articles L411-26 à L411-30 du code des communes sont remis en vigueur jusqu'au 31 décembre 1986
-	  - SPEC_APPLI: Loi n°85-1221 1985-11-22 art. 28 :
-
-	**Cité par**:
-
-	  - Loi n°84-53 du 26 janvier 1984 - art. 121 (V)
-	  - CODE DES COMMUNES. - art. L421-11 (Ab)
-	  - CODE DES COMMUNES. - art. L443-2 (Ab)
-	  - CODE DES COMMUNES. - art. R411-37 (Ab)
-
-	**Modifié par**:
-
-	  - Loi n°85-1221 du 22 novembre 1985 - art. 28 (V) JORF 23 NOVEMBRE 1985
-
-
-###### Article L411-28
-
-Le syndicat de communes pour le personnel communal a pour objet de faciliter aux communes l'application du statut du
-personnel communal, notamment en exerçant les attributions qui lui sont conférées par le présent titre.
-
-Il peut, sur la demande des maires intéressés, assurer la coordination entre les communes membres du syndicat pour le
-recrutement et la gestion des agents intercommunaux mentionnés au deuxième alinéa de l'article L. 411-5 ; toutefois le maire
-conserve les attributions qui lui sont conférées par l'article L. 412-1 [*le maire nomme à tous les emplois communaux ; il
-suspend et révoque les titulaires de ces emplois*].
-
-**Liens relatifs à cet article**
-
-	**Cité par**:
-
-	  - Arrêté du 23 juin 1976 - art. 1 (V)
-	  - Arrêté du 23 juin 1976 - art. 15 (V)
-
-	**Anciens textes**:
-
-	  - Code de l'administration communale 493 al. 3
-
-	**Codifié par**:
-
-	  - Décret n°77-372 1977-03-28
-
-	**Créé par**:
-
-	  - Décret n°77-372 1977-03-28 JORF ET JONC 5 AVRIL 1977
-
-	**Abrogé par**:
-
-	  - Loi n°84-53 1984-01-26 ART. 119 JORF 27 JANVIER 1984
-
-	**Liens**:
-
-	  - SPEC_APPLI: Les articles L411-26 à L411-30 du code des communes sont remis en vigueur jusqu'au 31 décembre 1986
-	  - SPEC_APPLI: Loi n°85-1221 1985-11-22 art. 28 :
-
-	**Modifié par**:
-
-	  - Loi n°85-1221 du 22 novembre 1985 - art. 28 (V) JORF 23 NOVEMBRE 1985
-
-	**Cite**:
-
-	  - Code des communes L411-5 al. 2 et L412-1
-
-
-###### Article L411-29
-
-Lorsque la décision en a été prise par l'assemblée générale du comité, le syndicat de communes pour le personnel communal
-peut recruter et gérer directement les agents qu'il affecte à des missions ou à des services intercommunaux.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Code de l'administration communale 493 al. 4
-
-	**Codifié par**:
-
-	  - Décret n°77-372 1977-03-28
-
-	**Créé par**:
-
-	  - Décret n°77-372 1977-03-28 JORF ET JONC 5 AVRIL 1977
-
-	**Abrogé par**:
-
-	  - Loi n°84-53 1984-01-26 ART. 119 JORF 27 JANVIER 1984
-
-	**Liens**:
-
-	  - SPEC_APPLI: Les articles L411-26 à L411-30 du code des communes sont remis en vigueur jusqu'au 31 décembre 1986
-	  - SPEC_APPLI: Loi n°85-1221 1985-11-22 art. 28 :
-
-	**Modifié par**:
-
-	  - Loi n°85-1221 du 22 novembre 1985 - art. 28 (V) JORF 23 NOVEMBRE 1985
-
-
 #### CHAPITRE 2 : Recrutement, formation et promotion sociale
-
-##### SECTION 2 : Centre de formation des personnels communaux.
-
-###### Article L412-28
-
-Le centre de formation des personnels communaux [*CFPC*] est un établissement public intercommunal [*nature juridique*] doté
-de la personnalité civile et de l'autonomie financière.
-
-**Liens relatifs à cet article**
-
-	**Cité par**:
-
-	  - Arrêté du 9 mars 1973 - art. 1 (V)
-	  - Loi n°84-53 du 26 janvier 1984 - art. 119 (V)
-	  - Loi n°85-1221 du 22 novembre 1985 - art. 29 (V)
-
-	**Anciens textes**:
-
-	  - Code de l'administration communale 508-4 al. 1 phr. 1
-	  - Code de l'administration communale 508-5
-
-	**Codifié par**:
-
-	  - Décret n°77-372 1977-03-28
-
-	**Créé par**:
-
-	  - Décret n°77-372 1977-03-28 JORF ET JONC 5 AVRIL 1977
-
-	**Abrogé par**:
-
-	  - Loi n°84-594 1984-07-12 ART. 26 JORF 13 JUILLET 1984
-
-	**Modifié par**:
-
-	  - Loi n°85-1221 1985-11-22 ART. 29 JORF 23 NOVEMBRE 1985
-
-	**Liens**:
-
-	  - SPEC_APPLI: Les articles L412-28, L412-33 à L412-38, l412-40, L412-45 sont remis en vigueur jusqu'au 31 décembre 1986
-	  - SPEC_APPLI: Loi n°85-1221 du 22 novembre 1985 - art. 29 (M)
-	  - SPEC_APPLI: Loi n°86-972 1986-08-19 art. 30 :
-
-
-##### SOUS-SECTION 1 : Rôle.
-
-###### Article L412-33
-
-Le centre de formation des personnels communaux a également pour mission, en liaison avec les collectivités locales
-intéressées, de rechercher et de promouvoir les mesures propres à assurer la formation et le perfectionnement professionnel
-des agents communaux.
-
-Il dispense les enseignements nécessaires soit directement, soit en passant des conventions avec des établissements
-qualifiés.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°77-372 1977-03-28
-
-	**Créé par**:
-
-	  - Décret n°77-372 1977-03-28 JORF ET JONC 5 AVRIL 1977
-
-	**Abrogé par**:
-
-	  - Loi n°84-594 1984-07-12 ART. 26 JORF 13 JUILLET 1984
-
-	**Modifié par**:
-
-	  - Loi n°85-1221 1985-11-22 ART. 29 JORF 23 NOVEMBRE 1985
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°85-1221 du 22 novembre 1985 - art. 29 (M)
-	  - SPEC_APPLI: Loi n°86-972 1986-08-19 art. 30 :
-	  - SPEC_APPLI: Les articles L412-28, L412-33 à L412-38, l412-40, L412-45 sont remis en vigueur jusqu'au 31 décembre 1986
-
-	**Cité par**:
-
-	  - CODE DES COMMUNES. - art. R*412-99 (Ab)
-
-	**Anciens textes**:
-
-	  - Code de l'administration communale 508-4 al. 5
-
-
-##### SOUS-SECTION 2 : Le Conseil d'Administration.
-
-###### Article L412-34
-
-Le centre de formation des personnels communaux est administré par un conseil d'administration composé en majorité de
-représentants élus en nombre égal, d'une part, des communes et des établissements publics intéressés, d'autre part, des
-personnels intéressés.
-
-**Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - TXT_SOURCE: Arrêté du 9 mars 1973 - art. 1 (V)
-	  - TXT_SOURCE: Arrêté du 9 mars 1973 - art. 10 (V)
-	  - TXT_SOURCE: Arrêté du 9 mars 1973 - art. 11 (V)
-	  - TXT_SOURCE: Arrêté du 9 mars 1973 - art. 12 (V)
-	  - TXT_SOURCE: Arrêté du 9 mars 1973 - art. 13 (V)
-	  - TXT_SOURCE: Arrêté du 9 mars 1973 - art. 14 (V)
-	  - TXT_SOURCE: Arrêté du 9 mars 1973 - art. 15 (V)
-	  - TXT_SOURCE: Arrêté du 9 mars 1973 - art. 16 (V)
-	  - TXT_SOURCE: Arrêté du 9 mars 1973 - art. 17 (V)
-	  - TXT_SOURCE: Arrêté du 9 mars 1973 - art. 18 (V)
-	  - TXT_SOURCE: Arrêté du 9 mars 1973 - art. 19 (V)
-	  - TXT_SOURCE: Arrêté du 9 mars 1973 - art. 2 (V)
-	  - TXT_SOURCE: Arrêté du 9 mars 1973 - art. 20 (V)
-	  - TXT_SOURCE: Arrêté du 9 mars 1973 - art. 21 (V)
-	  - TXT_SOURCE: Arrêté du 9 mars 1973 - art. 22 (V)
-	  - TXT_SOURCE: Arrêté du 9 mars 1973 - art. 23 (V)
-	  - TXT_SOURCE: Arrêté du 9 mars 1973 - art. 24 (V)
-	  - TXT_SOURCE: Arrêté du 9 mars 1973 - art. 25 (V)
-	  - TXT_SOURCE: Arrêté du 9 mars 1973 - art. 26 (V)
-	  - TXT_SOURCE: Arrêté du 9 mars 1973 - art. 27 (V)
-	  - TXT_SOURCE: Arrêté du 9 mars 1973 - art. 28 (V)
-	  - TXT_SOURCE: Arrêté du 9 mars 1973 - art. 29 (V)
-	  - TXT_SOURCE: Arrêté du 9 mars 1973 - art. 3 (V)
-	  - TXT_SOURCE: Arrêté du 9 mars 1973 - art. 4 (V)
-	  - TXT_SOURCE: Arrêté du 9 mars 1973 - art. 5 (V)
-	  - TXT_SOURCE: Arrêté du 9 mars 1973 - art. 6 (V)
-	  - TXT_SOURCE: Arrêté du 9 mars 1973 - art. 7 (V)
-	  - TXT_SOURCE: Arrêté du 9 mars 1973 - art. 8 (V)
-	  - TXT_SOURCE: Arrêté du 9 mars 1973 - art. 9 (V)
-	  - SPEC_APPLI: Les articles L412-28, L412-33 à L412-38, l412-40, L412-45 sont remis en vigueur jusqu'au 31 décembre 1986
-	  - SPEC_APPLI: Loi n°85-1221 du 22 novembre 1985 - art. 29 (M)
-	  - SPEC_APPLI: Loi n°86-972 1986-08-19 art. 30 :
-
-	**Anciens textes**:
-
-	  - Code de l'administration communale 508-6 al. 1 (partie) et al. 2
-
-	**Codifié par**:
-
-	  - Décret n°77-372 1977-03-28
-
-	**Créé par**:
-
-	  - Décret n°77-372 1977-03-28 JORF ET JONC 5 AVRIL 1977
-
-	**Abrogé par**:
-
-	  - Loi n°84-594 du 12 juillet 1984 - art. 6 (M) JORF 13 JUILLET 1984
-
-	**Modifié par**:
-
-	  - Loi n°85-1221 1985-11-22 ART. 29 JORF 23 NOVEMBRE 1985
-
-
-###### Article L412-35
-
-Le président du conseil d'administration du centre de formation des personnels communaux est élu par les membres du conseil
-parmi les représentants des maires.
-
-Il est assisté de deux vice-présidents élus l'un parmi les représentants des maires, l'autre parmi les représentants du
-personnel.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Code de l'administration communale 508-6 al. 3
-
-	**Codifié par**:
-
-	  - Décret n°77-372 1977-03-28
-
-	**Créé par**:
-
-	  - Décret n°77-372 1977-03-28 JORF ET JONC 5 AVRIL 1977
-
-	**Abrogé par**:
-
-	  - Loi n°84-594 1984-07-12 ART. 26 JORF 13 JUILLET 1984
-
-	**Modifié par**:
-
-	  - Loi n°85-1221 1985-11-22 ART. 29 JORF 23 NOVEMBRE 1985
-
-	**Liens**:
-
-	  - SPEC_APPLI: Les articles L412-28, L412-33 à L412-38, l412-40, L412-45 sont remis en vigueur jusqu'au 31 décembre 1986
-	  - SPEC_APPLI: Loi n°85-1221 du 22 novembre 1985 - art. 29 (M)
-	  - SPEC_APPLI: Loi n°86-972 1986-08-19 art. 30 :
-
-
-###### Article L412-36
-
-Les délégués départementaux et interdépartementaux du centre de formation des personnels communaux sont choisis par le
-conseil d'administration parmi les présidents des syndicats de communes pour le personnel communal, les maires des communes
-non affiliées à ces syndicats ou parmi les personnalités ayant exercé l'une ou l'autre de ces fonctions.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Code de l'administration communale 508-6 al. 4
-
-	**Codifié par**:
-
-	  - Décret n°77-372 1977-03-28
-
-	**Créé par**:
-
-	  - Décret n°77-372 1977-03-28 JORF ET JONC 5 AVRIL 1977
-
-	**Abrogé par**:
-
-	  - Loi n°84-594 1984-07-12 ART. 26 JORF 13 JUILLET 1984
-
-	**Modifié par**:
-
-	  - Loi n°85-1221 1985-11-22 ART. 29 JORF 23 NOVEMBRE 1985
-
-	**Cité par**:
-
-	  - CODE DES COMMUNES. - art. R412-91 (Ab)
-
-	**Liens**:
-
-	  - SPEC_APPLI: Les articles L412-28, L412-33 à L412-38, l412-40, L412-45 sont remis en vigueur jusqu'au 31 décembre 1986
-	  - SPEC_APPLI: Loi n°85-1221 du 22 novembre 1985 - art. 29 (M)
-	  - SPEC_APPLI: Loi n°86-972 1986-08-19 art. 30 :
-
-
-##### SOUS-SECTION 3 : Le budget.
-
-###### Article L412-37
-
-Les ressources du centre de formation des personnels communaux sont constituées par :
-
-1° Les cotisations obligatoires des communes et de leurs établissements publics intéressés qui ont au moins, au 1er janvier
-de l'année de recouvrement [*date*], un emploi administratif à temps complet inscrit à leur budget ;
-
-2° Les participations volontaires des communes autres que celles mentionnées ci-dessus ;
-
-3° Les subventions des départements ;
-
-4° Les subventions versées au titre de l'article L. 940-1 du code du travail relatif à la formation professionnelle
-permanente ;
-
-5° Les redevances pour prestations de services ;
-
-6° Les dons et legs ;
-
-7° Les emprunts.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°77-372 1977-03-28
-
-	**Créé par**:
-
-	  - Décret n°77-372 1977-03-28 JORF ET JONC 5 AVRIL 1977
-
-	**Abrogé par**:
-
-	  - Loi n°84-594 1984-07-12 ART. 26 JORF 13 JUILLET 1984
-
-	**Modifié par**:
-
-	  - Loi n°85-1221 1985-11-22 ART. 29 JORF 23 NOVEMBRE 1985
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°85-1221 du 22 novembre 1985 - art. 29 (M)
-	  - SPEC_APPLI: Loi n°86-972 1986-08-19 art. 30 :
-	  - SPEC_APPLI: Les articles L412-28, L412-33 à L412-38, l412-40, L412-45 sont remis en vigueur jusqu'au 31 décembre 1986
-
-	**Cité par**:
-
-	  - CODE DES COMMUNES. - art. L412-38 (Ab)
-	  - CODE DES COMMUNES. - art. R412-79 (Ab)
-
-	**Anciens textes**:
-
-	  - Code de l'administration communale 508-7 al. 1 (partie) modifié
-
-	**Cite**:
-
-	  - Code du travail - art. L940-1 (T)
-
-
-###### Article L412-38
-
-Les cotisations obligatoires des communes et de leurs établissements publics, prévues à l'article précédent, sont calculées
-sur la masse des rémunérations du personnel permanent de ces collectivités telles qu'elles apparaissent aux comptes
-administratifs de l'avant-dernier exercice.
-
-Le pourcentage à appliquer à cette masse est fixé par délibération du conseil d'administration.
-
-Les cotisations des collectivités affiliées aux syndicats de communes pour le personnel sont perçues par l'intermédiaire de
-ces syndicats.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°77-372 1977-03-28
-
-	**Modifié par**:
-
-	  - Loi n°82-213 du 2 mars 1982 - art. 21 (V) JORF 3 MARS 1982
-	  - Loi n°85-1221 1985-11-22 ART. 29 JORF 23 NOVEMBRE 1985
-
-	**Abrogé par**:
-
-	  - Loi n°84-594 1984-07-12 ART. 26 JORF 13 JUILLET 1984
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°85-1221 du 22 novembre 1985 - art. 29 (M)
-	  - SPEC_APPLI: Loi n°86-972 1986-08-19 art. 30 :
-	  - SPEC_APPLI: Les articles L412-28, L412-33 à L412-38, l412-40, L412-45 sont remis en vigueur jusqu'au 31 décembre 1986
-
-	**Cite**:
-
-	  - CODE DES COMMUNES. - art. L412-37 (Ab)
-
-	**Cité par**:
-
-	  - CODE DES COMMUNES. - art. R*412-74 (Ab)
-	  - CODE DES COMMUNES. - art. R412-78 (Ab)
-
-	**Anciens textes**:
-
-	  - Code de l'administration communale 508-7 AL. 1 (partie)
-
-
-##### SOUS-SECTION 4 : Le personnel.
-
-###### Article L412-40
-
-Le directeur et le directeur adjoint du centre de formation des personnels communaux sont nommés par le président, après avis
-du conseil d'administration.
-
-Les autres personnels permanents du centre bénéficient du statut du personnel communal.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Code de l'administration communale 508-9 (partie)
-
-	**Codifié par**:
-
-	  - Décret n°77-372 1977-03-28
-
-	**Liens**:
-
-	  - SPEC_APPLI: Les articles L412-28, L412-33 à L412-38, l412-40, L412-45 sont remis en vigueur jusqu'au 31 décembre 1986
-	  - SPEC_APPLI: Loi n°85-1221 du 22 novembre 1985 - art. 29 (M)
-	  - SPEC_APPLI: Loi n°86-972 1986-08-19 art. 30 :
-
-	**Modifié par**:
-
-	  - Loi n°82-213 du 2 mars 1982 - art. 21 (V) JORF 3 MARS 1982
-	  - Loi n°85-1221 1985-11-22 ART. 29 JORF 23 NOVEMBRE 1985
-
-	**Cité par**:
-
-	  - Loi n°84-53 du 26 janvier 1984 - art. 119 (V)
-	  - Loi n°85-1221 du 22 novembre 1985 - art. 29 (V)
-	  - CODE DES COMMUNES. - art. R412-88 (Ab)
-
-	**Abrogé par**:
-
-	  - Loi n°84-594 1984-07-12 ART. 26 JORF 13 JUILLET 1984
-
-
-##### SECTION 4 : Formation professionnelle continue.
-
-###### Article L412-45
-
-Conformément à l'article L. 970-5 du code du travail relatif à l'organisation de la formation professionnelle continue dans
-le cadre de l'éducation permanente, des décrets en Conseil d'Etat, pris après consultation des organisations syndicales et de
-la commission nationale paritaire du personnel communal [**]conditions de forme[**], fixent les conditions dans lesquelles
-les agents des communes et de leurs établissements publics peuvent bénéficier des dispositions du titre VII du livre IX du
-code précité [*dispositions du code du travail relatives aux agents de l'Etat et des collectivités locales, pour la formation
-professionnelle continue dans le cadre de l'éducation permanente*].
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°77-372 1977-03-28
-
-	**Créé par**:
-
-	  - Décret n°77-372 1977-03-28 JORF ET JONC 5 AVRIL 1977
-
-	**Liens**:
-
-	  - SPEC_APPLI: Les articles L412-28, L412-33 à L412-38, l412-40, L412-45 sont remis en vigueur jusqu'au 31 décembre 1986
-	  - SPEC_APPLI: Loi n°85-1221 du 22 novembre 1985 - art. 29 (M)
-	  - SPEC_APPLI: Loi n°86-972 1986-08-19 art. 30 :
-
-	**Cité par**:
-
-	  - Loi n°84-53 du 26 janvier 1984 - art. 136 (V)
-	  - Loi n°84-53 du 26 janvier 1984 - art. 119 (V)
-	  - Loi n°85-1221 du 22 novembre 1985 - art. 29 (V)
-	  - CODE DES COMMUNES. - art. L422-1 (M)
-
-	**Abrogé par**:
-
-	  - Loi n°84-594 1984-07-12 ART. 26 JORF 13 JUILLET 1984
-
-	**Modifié par**:
-
-	  - Loi n°85-1221 1985-11-22 ART. 29 JORF 23 NOVEMBRE 1985
-
-	**Cite**:
-
-	  - Code du travail L970-1 à L970-5, R970-1 à R970-37
-
 
 ##### SECTION 5 : Dispositions applicables à certains personnels
 
