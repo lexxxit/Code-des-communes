@@ -1,5 +1,5 @@
 # Code des communes  
-Version Consolidée au 1980-09-24
+Version Consolidée au 1980-12-28
 
 # ORGANISATION COMMUNALE
 
@@ -90354,86 +90354,6 @@ institués dans les conditions fixées par les articles R. 222-1 à R. 222-5 du 
 
 	  - CODE DES COMMUNES. - art. L311-1 (M)
 	  - Code de l'urbanisme R222-1 à R222-5
-
-
-#### Dons et legs
-
-##### Dispositions générales
-
-##### Procédure applicable en matière de libéralités.
-
-###### Article R*312-6
-
-Dans le même délai de huit jours, l'invitation [*à prendre connaissance du testament*] mentionnée à l'article précédent est
-adressée par les soins du préfet à tous les héritiers inconnus, par un avis inséré dans le recueil des actes administratifs
-du département et une affiche qui reste apposée, pendant trois semaines consécutives, à la porte de la mairie du lieu de
-l'ouverture de la succession [*publicité*].
-
-Cette affiche contient, en outre, l'extrait des dispositions testamentaires en faveur de l'établissement légataire.
-
-Le maire fait parvenir au préfet un certificat constatant l'accomplissement de cette formalité.
-
-**Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - SPEC_APPLI: *Dispositions non applicables aux communes des départements de la Guadeloupe, de la Guyane, de la Martinique et de la Réunion*
-	  - SPEC_APPLI: *Dispositions non applicables aux communes des départements de la Moselle, du Bas-Rhin et du Haut-Rhin (Alsace-Lorraine), mais applicables à leurs établissements publics communaux*
-	  - SPEC_APPLI: Code des communes R391-1 :
-
-	**Codifié par**:
-
-	  - Décret n°77-241 1977-03-07
-
-	**Créé par**:
-
-	  - Décret n°77-241 1977-03-07 JORF et JONC 18 mars 1977
-
-	**Cite**:
-
-	  - Code des communes R312-5
-
-	**Anciens textes**:
-
-	  - Décret  1896-02-01 ART. 3
-
-
-###### Article R*312-7
-
-Les héritiers ne sont recevables à présenter leurs réclamations que dans un délai de trois mois à partir de l'accomplissement
-des formalités de publicité prescrites par l'article précédent [*avis inséré dans le recueil des actes administratifs du
-département et affiche apposée à la porte de la mairie*].
-
-Les réclamations sont adressées au préfet du département du lieu de l'ouverture de la succession.
-
-A l'expiration de ce délai, il est statué par l'autorité compétente sur l'acceptation ou le refus du legs.
-
-Si un même testament contient des legs distincts faits à des établissements différents et ne relevant pas de la même autorité
-administrative, chaque autorité se prononce séparément.
-
-**Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - SPEC_APPLI: *Dispositions non applicables aux communes des départements de la Guadeloupe, de la Guyane, de la Martinique et de la Réunion*
-	  - SPEC_APPLI: *Dispositions non applicables aux communes des départements de la Moselle, du Bas-Rhin et du Haut-Rhin (Alsace-Lorraine), mais applicables à leurs établissements publics communaux*
-	  - SPEC_APPLI: Code des communes R392-1 :
-
-	**Cite**:
-
-	  - Code des communes R312-6
-
-	**Anciens textes**:
-
-	  - Décret  1896-02-01 ART. 4
-
-	**Codifié par**:
-
-	  - Décret n°77-241 1977-03-07
-
-	**Créé par**:
-
-	  - Décret n°77-241 1977-03-07 JORF et JONC 18 mars 1977
 
 
 ### Services communaux
