@@ -1,5 +1,5 @@
 # Code des communes  
-Version Consolidée au 1979-01-03
+Version Consolidée au 1979-01-04
 
 # ORGANISATION COMMUNALE
 
@@ -18444,6 +18444,70 @@ Cette suppression prend effet :
 	  - Code de la santé publique L33 à L35-8
 
 
+#### CHAPITRE 4 : Dotation globale de fonctionnement et autres recettes réparties par le comité des finances locales
+
+##### SECTION 2 : Répartition du produit des amendes relatives à la circulation routière.
+
+###### Article L234-22
+
+Le produit des amendes de police relatives à la circulation routière, prélevé sur les recettes de l'Etat, est réparti par le
+comité des finances locales prévu par l'article L. 234-20 du présent code, en vue de financer des opérations destinées à
+améliorer les transports en commun et la circulation.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°77-90 1977-01-27
+
+	**Créé par**:
+
+	  - Loi n°79-15 1979-01-03 art. 7 JORF 4 janvier 1979
+
+	**Abrogé par**:
+
+	  - Loi n°96-142 du 21 février 1996 - art. 12 (V) JORF 24 février 1996
+
+	**Cite**:
+
+	  - CODE DES COMMUNES. - art. L234-20 (M)
+
+	**Nouveaux textes**:
+
+	  - Code général des collectivités territoriales - art. L2334-24 (V)
+
+
+###### Article L234-23
+
+Le comité des finances locales répartit les recettes définies à l'article précédent entre les communes et les établissements
+publics qui remplissent les conditions fixées par un décret en Conseil d'Etat.
+
+Ce décret fixe les modalités de répartition de ces recettes ainsi que les travaux qui peuvent être financés sur leur produit.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°77-90 1977-01-27
+
+	**Créé par**:
+
+	  - Loi n°79-15 1979-01-03 art. 7 JORF 4 janvier 1979
+
+	**Abrogé par**:
+
+	  - Loi n°96-142 du 21 février 1996 - art. 12 (V) JORF 24 février 1996
+
+	**Cité par**:
+
+	  - CODE DES COMMUNES. - art. L262-1 (M)
+	  - CODE DES COMMUNES. - art. L262-10 (M)
+
+	**Nouveaux textes**:
+
+	  - Code général des collectivités territoriales - art. L2334-25 (V)
+
+
 #### CHAPITRE 5 : Subventions
 
 ##### SECTION 1 : Subventions de fonctionnement sans affectation spéciale.
@@ -19862,6 +19926,47 @@ recettes, comptabilité*] du présent livre sont applicables au district sous r�
 	  - Code des communes L252-2 à L252-5
 
 
+###### Article L252-2
+
+Les recettes du budget du district comprennent :
+
+1° Les ressources énumérées aux 1. à 5. de l'article L. 251-3 ;
+
+2° Le produit des taxes, redevances et contributions correspondant aux services assurés ;
+
+3° (abrogé).
+
+4° La contribution des communes intéressées, pour le fonctionnement de services assurés à la demande de ces dernières ;
+
+5° Le produit des emprunts.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°77-90 1977-01-27
+
+	**Modifié par**:
+
+	  - Loi n°79-15 du 3 janvier 1979 - art. 26 (V) JORF 4 janvier 1979
+
+	**Cité par**:
+
+	  - Loi n°79-15 du 3 janvier 1979 - art. 26 (V)
+
+	**Abrogé par**:
+
+	  - Loi n°96-142 du 21 février 1996 - art. 12 (V) JORF 24 février 1996
+
+	**Cite**:
+
+	  - CODE DES COMMUNES. - art. L251-3 (M)
+
+	**Nouveaux textes**:
+
+	  - Code général des collectivités territoriales - art. L5213-16 (Ab)
+
+
 ###### Article L252-4
 
 Les pertes de recettes que le district subit du fait des exemptions temporaires dont bénéficient les constructions nouvelles
@@ -20497,6 +20602,44 @@ pour la quotité ou la durée initialement prévue.
 	  - Loi n°96-142 du 21 février 1996 - art. 12 (V)
 
 
+###### Article L255-8
+
+La zone prévue à l'article L. 171-7 est soumise au régime applicable aux communes en ce qui concerne les attributions et
+répartitions du versement représentatif de la taxe sur les salaires qui sont exclusivement perçues par le syndicat
+communautaire d'aménagement ou par la communauté urbaine.
+
+Pour l'application du chapitre IV, pour toute répartition de fonds communs et pour l'attribution de subventions de l'Etat
+soumises à un critère démographique, il est ajouté à la population de la zone, une population fictive.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - SPEC_APPLI: *Dispositions non applicables aux communes du département de Saint-Pierre-et-Miquelon*
+	  - SPEC_APPLI: Code des communes L262-10 :
+
+	**Codifié par**:
+
+	  - Décret n°77-90 1977-01-27
+
+	**Cité par**:
+
+	  - Arrêté du 12 mars 1991 - art. 3 (V)
+	  - Arrêté du 20 mars 1992 - art. 3 (V)
+	  - Arrêté du 26 janvier 1993 - art. 3 (V)
+	  - Arrêté du 22 décembre 1995 - art. 3 (V)
+	  - CODE DES COMMUNES. - art. L256-4 (Ab)
+	  - CODE DES COMMUNES. - art. R*256-2 (Ab)
+
+	**Abrogé par**:
+
+	  - Loi n°96-142 du 21 février 1996 - art. 12 (V)
+
+	**Cite**:
+
+	  - CODE DES COMMUNES. - art. L171-7 (M)
+
+
 ###### Article L255-9
 
 Les conditions dans lesquelles le syndicat communautaire ou la communauté urbaine verse aux communes dont le territoire est
@@ -20695,6 +20838,38 @@ de cette commune déterminée par le dernier décret de dénombrement.
 	**Cite**:
 
 	  - CODE DES COMMUNES. - art. L173-3 (M)
+
+
+###### Article L256-4
+
+L'ensemble urbain est soumis au même régime que les communes en ce qui concerne la dotation globale de fonctionnement.
+
+Les dispositions de l'article L. 255-8 [*relatif au syndicat communautaire d'aménagement*] et L. 263-17 à L. 269-19 [*région
+parisienne - comité du fonds d'égalisation des charges*] sont applicables à l'ensemble urbain.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - SPEC_APPLI: *Dispositions non applicables aux communes du département de Saint-Pierre-et-Miquelon*
+	  - SPEC_APPLI: Code des communes L262-10 :
+
+	**Codifié par**:
+
+	  - Décret n°77-90 1977-01-27
+
+	**Modifié par**:
+
+	  - Loi n°79-15 1979-01-03 ART. 11 JORF 4 janvier 1979 p. 25
+
+	**Abrogé par**:
+
+	  - Loi n°96-142 du 21 février 1996 - art. 12 (V)
+
+	**Cite**:
+
+	  - CODE DES COMMUNES. - art. L255-8 (M)
+	  - Code des communes L263-17 à L263-19
 
 
 ###### Article L256-5
@@ -21065,6 +21240,64 @@ Le maire [*attributions*] délivre les titres de recettes et les mandats de dép
 
 ##### SECTION 1 : Dispositions applicables aux communes des départements de la Guadeloupe, de la Guyane, de la Martinique et de la Réunion.
 
+###### Article L262-1
+
+Sont applicables aux communes des départements de la Guadeloupe, de la Guyane, de la Martinique et de la Réunion [*champ
+d'application*] :
+
+1° Les dispositions des articles contenus dans les titres Ier à V du présent livre, à l'exception de celles des articles L.
+233-52 à L. 233-57, L. 233-70, L. 233-74, L. 233-75, L. 235-10 à L. 235-12, L. 236-7, L. 236-8 et L. 253-1 à L. 253-8.
+
+2° Les dispositions des articles suivants du présent chapitre.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°77-90 1977-01-27
+
+	**Créé par**:
+
+	  - Loi n°79-15 1979-01-03 ART. 12 JORF 4 janvier 1979 p. 25
+
+	**Cite**:
+
+	  - CODE DES COMMUNES. - art. L233-70 (Ab)
+	  - CODE DES COMMUNES. - art. L233-74 (Ab)
+	  - CODE DES COMMUNES. - art. L233-75 (Ab)
+	  - CODE DES COMMUNES. - art. L235-10 (Ab)
+	  - CODE DES COMMUNES. - art. L235-11 (Ab)
+	  - CODE DES COMMUNES. - art. L235-12 (Ab)
+	  - CODE DES COMMUNES. - art. L236-7 (Ab)
+	  - CODE DES COMMUNES. - art. L236-8 (Ab)
+	  - Code des communes L253-1 à L253-8
+
+	**Liens**:
+
+	  - SPEC_APPLI: CODE DES COMMUNES. - art. L233-70 (Ab)
+	  - SPEC_APPLI: CODE DES COMMUNES. - art. L233-75 (Ab)
+	  - SPEC_APPLI: CODE DES COMMUNES. - art. L234-12 (M)
+	  - SPEC_APPLI: CODE DES COMMUNES. - art. L234-13 (M)
+	  - SPEC_APPLI: CODE DES COMMUNES. - art. L234-15 (M)
+	  - SPEC_APPLI: CODE DES COMMUNES. - art. L234-20 (M)
+	  - SPEC_APPLI: CODE DES COMMUNES. - art. L234-21 (M)
+	  - SPEC_APPLI: CODE DES COMMUNES. - art. L234-22 (M)
+	  - SPEC_APPLI: CODE DES COMMUNES. - art. L234-25 (Ab)
+	  - SPEC_APPLI: CODE DES COMMUNES. - art. L234-26 (Ab)
+	  - SPEC_APPLI: CODE DES COMMUNES. - art. L234-27 (Ab)
+	  - SPEC_APPLI: CODE DES COMMUNES. - art. L235-10 (Ab)
+	  - SPEC_APPLI: CODE DES COMMUNES. - art. L235-11 (Ab)
+	  - SPEC_APPLI: CODE DES COMMUNES. - art. L235-12 (Ab)
+	  - SPEC_APPLI: CODE DES COMMUNES. - art. L253-1 (Ab)
+	  - SPEC_APPLI: CODE DES COMMUNES. - art. L253-2 (M)
+	  - SPEC_APPLI: CODE DES COMMUNES. - art. L253-3 (Ab)
+	  - SPEC_APPLI: CODE DES COMMUNES. - art. L253-4 (Ab)
+	  - SPEC_APPLI: CODE DES COMMUNES. - art. L253-5 (M)
+	  - SPEC_APPLI: CODE DES COMMUNES. - art. L253-6 (M)
+	  - SPEC_APPLI: CODE DES COMMUNES. - art. L253-7 (Ab)
+	  - SPEC_APPLI: CODE DES COMMUNES. - art. L253-8 (Ab)
+
+
 ###### Article L262-2
 
 Les dispositions du a-1° de l'article L. 231-5 relatives à la taxe foncière sur les propriétés bâties, à la taxe foncière sur
@@ -21272,6 +21505,52 @@ versement des subventions de l'Etat.
 
 
 ##### SECTION 2 : Dispositions applicables aux communes du département de Saint-Pierre-et-Miquelon.
+
+###### Article L262-10
+
+Sont applicables aux communes du département de Saint-Pierre-et-Miquelon :
+
+1° Les dispositions contenues dans les titres Ier à V du présent livre, à l'exception de celles des 11° et 24° de l'article
+L. 221-2 ; des 2° et 3° de l'article L. 231-8, du 2° de l'article L. 231-9 ; des articles L. 233-70, L. 233-75, L. 234-6, L.
+234-7, L. 234-12, des articles L. 235-4, L. 235-7, L. 235-10 à L. 235-12 ; L. 236-4 ; L. 236-15, L. 236-16, L. 253-1 à L.
+253-8 ; L. 255-1 à L. 257-4.
+
+2° Les dispositions des articles L. 262-5 et L. 262-6 de la section I du présent chapitre.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°77-90 1977-01-27
+
+	**Modifié par**:
+
+	  - Loi n°79-15 1979-01-03 ART. 13 JORF 4 janvier 1979 p. 25
+
+	**Cite**:
+
+	  - CODE DES COMMUNES. - art. L233-70 (Ab)
+	  - CODE DES COMMUNES. - art. L233-75 (Ab)
+	  - CODE DES COMMUNES. - art. L234-12 (M)
+	  - CODE DES COMMUNES. - art. L234-6 (M)
+	  - CODE DES COMMUNES. - art. L234-7 (M)
+	  - CODE DES COMMUNES. - art. L235-10 (Ab)
+	  - CODE DES COMMUNES. - art. L235-11 (Ab)
+	  - CODE DES COMMUNES. - art. L235-12 (Ab)
+	  - CODE DES COMMUNES. - art. L235-4 (Ab)
+	  - CODE DES COMMUNES. - art. L235-7 (Ab)
+	  - CODE DES COMMUNES. - art. L236-15 (Ab)
+	  - CODE DES COMMUNES. - art. L236-16 (Ab)
+	  - CODE DES COMMUNES. - art. L236-4 (Ab)
+	  - CODE DES COMMUNES. - art. L262-5 (M)
+	  - CODE DES COMMUNES. - art. L262-6 (M)
+	  - Code des communes L253-1 à L253-8
+
+	**Cité par**:
+
+	  - CODE DES COMMUNES. - art. L262-15 (T)
+	  - CODE DES COMMUNES. - art. R262-4 (M)
+
 
 ###### Article L262-11
 
@@ -22273,41 +22552,6 @@ application de l'article L. 318-2 du code de l'urbanisme et qui ont été décla
 	**Modifié par**:
 
 	  - Décret n°79-44 1979-01-18 art. 7 jorf 19 janvier 1979 en vigueur le 15 janvier 1980
-
-
-###### Article L221-3
-
-Les communes sont tenues de verser aux bureaux d'aide sociale une fraction au moins égale au tiers [*proportion*] des sommes
-qu'elles reçoivent en application des articles L. 234-31 et L. 234-36 [*versements représentatifs des impôts sur les
-spectacles*]
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°69-1161 1969-12-24 art. 20 IV
-	  - Loi n°70-1199 1970-12-21 art. 17 VI
-
-	**Codifié par**:
-
-	  - Décret n°77-90 1977-01-27
-
-	**Créé par**:
-
-	  - Décret n°77-90 1977-01-27 JORF et JONC 3 février 1977 date d'entrée en vigueur élection des maires
-
-	**Abrogé par**:
-
-	  - Loi n°79-15 du 3 janvier 1979 - art. 26 (V) JORF 4 janvier 1979 p. 25
-
-	**Cité par**:
-
-	  - Loi n°79-15 du 3 janvier 1979 - art. 26 (V)
-	  - CODE DES COMMUNES. - art. L261-1 (M)
-
-	**Cite**:
-
-	  - Code des communes L234-31 et L234-36
 
 
 ###### Article L221-5
@@ -23998,80 +24242,33 @@ intercommunal*] mentionnée à l'article L. 233-60.
 	  - Code général des collectivités territoriales - art. L2333-70 (V)
 
 
-#### Versement représentatif de la taxe sur les salaires *V.R.T.S.*
+#### Dotation globale de fonctionnement et autres recettes réparties par le comité des finances locales
 
-###### Article L234-1
+##### Dotation globale de fonctionnement
 
-Les collectivités locales et leurs groupements reçoivent un versement représentatif de la taxe sur les salaires leur
-garantissant chaque année des recettes égales à celles qu'ils auraient perçues sous le régime antérieur en vigueur le 29
-novembre 1968 [*date*].
-
-Ce versement [*définition*] est constitué par un prélèvement sur les recettes de l'Etat, égal à la différence entre, d'une
-part,
-
-le montant que leur aurait procuré la part locale de la taxe sur les salaires, telle qu'elle était fixée le 29 novembre 1968,
-et, d'autre part, le montant des exonérations de taxe sur les salaires dont ils bénéficient en application de l'article 231-1
-du code général des impôts.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 231-1
-
-	**Anciens textes**:
-
-	  - Loi n°68-1043 1968-11-29 art. 5 I
-
-	**Codifié par**:
-
-	  - Décret n°77-90 1977-01-27
-
-	**Créé par**:
-
-	  - Décret n°77-90 1977-01-27 JORF et JONC 3 février 1977 date d'entrée en vigueur 20 mars 1977
-
-	**Abrogé par**:
-
-	  - Loi n°78-1239 du 29 décembre 1978 - art. 38 (V) JORF 30 décembre 1978 date d'entrée en vigueur 1 janvier 1979
-
-	**Cité par**:
-
-	  - Loi n°78-1239 du 29 décembre 1978 - art. 38 (V)
-	  - Loi n°80-30 du 18 janvier 1980 - art. 27 (P)
-	  - Loi n°84-1209 du 29 décembre 1984 - art. 2 (P)
-	  - Loi n°85-1268 du 29 novembre 1985 - art. 1 (V)
-	  - Décret n°85-1314 du 11 décembre 1985 - art. 2 (M)
-	  - Loi n°86-972 du 19 août 1986 - art. 45 (V)
-	  - Loi n°87-1061 du 30 décembre 1987 - art. 2 (V)
-	  - Décret n°87-1146 du 31 décembre 1987 - art. 5 (Ab)
-	  - Décret n°93-289 du 5 mars 1993 - art. 5 (Ab)
-	  - Décret n°93-289 du 5 mars 1993 - art. 6 (M)
-	  - Décret n°93-289 du 5 mars 1993 - art. 7 (M)
-	  - Décret n°93-289 du 5 mars 1993 - art. 8 (M)
-	  - CODE DES COMMUNES. - art. L234-19-1 (M)
-	  - CODE DES COMMUNES. - art. R*234-1 (Ab)
-
-	**Nouveaux textes**:
-
-	  - Code général des collectivités territoriales - art. L2334-1 (V)
-
+##### Dotation forfaitaire .
 
 ###### Article L234-4
 
-Le Gouvernement procède, au plus tard le 31 juillet [*date*],
+En 1980, la dotation forfaitaire des communes, dont l'attribution de garantie a été établie en 1968 sur la base de 53 F par
+habitant diminuée de la moitié de la moyenne des revenus patrimoniaux à l'exclusion du revenu des immeubles bâtis, des années
+1964, 1965 et 1966 pour la fraction excédant 4 F par habitant, sera actualisée dans les conditions suivantes :
 
-à la régularisation du montant du versement représentatif de la taxe sur les salaires afférents à l'exercice précédent. 
+Les montants de 4 F et de 53 F par habitant seront actualisés en tenant compte de l'évolution entre 1968 et 1980 de
+l'attribution de garantie et de la dotation forfaitaire ;
 
-Le versement aux collectivités locales et à leurs groupements du reliquat leur restant dû au titre de ce dernier exercice est
-effectué dès que les centralisations des services fiscaux ont permis de connaître ses résultats.
+La moyenne des revenus patrimoniaux à prendre en compte sera celle des années 1976, 1977 et 1978.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Liens**:
 
-	  - Loi n°74-1129 1974-12-30 art. 18 II
-	  - CODE DES COMMUNES. - art. L234-6 (T)
+	  - SPEC_APPLI: *ces dispositions ne seront applicables que jusqu'au 1er janvier 1986*
+	  - SPEC_APPLI: Loi n°80-1102 1980-12-31 ART. 22 :
+	  - TXT_SOURCE: Décret n°85-1512 du 31 décembre 1985
+	  - TXT_SOURCE: Décret n°85-1512 du 31 décembre 1985 - art. 1 (Ab)
+	  - TXT_SOURCE: Décret n°85-1512 du 31 décembre 1985 - art. 2 (Ab)
+	  - TXT_SOURCE: Décret n°85-1512 du 31 décembre 1985 - art. 3 (Ab)
 
 	**Codifié par**:
 
@@ -24079,11 +24276,7 @@ effectué dès que les centralisations des services fiscaux ont permis de conna�
 
 	**Créé par**:
 
-	  - Décret n°77-90 1977-01-27 JORF et JONC 3 février 1977 date d'entrée en vigueur 20 mars 1977
-
-	**Abrogé par**:
-
-	  - Loi n°78-1239 du 29 décembre 1978 - art. 38 (V) JORF 30 décembre 1978 date d'entrée en vigueur 1 janvier 1979
+	  - Loi n°79-15 1979-01-03 ART. 7 JORF 4 janvier 1979 p. 25
 
 	**Cité par**:
 
@@ -24102,12 +24295,9 @@ effectué dès que les centralisations des services fiscaux ont permis de conna�
 	  - CODE DES COMMUNES. - art. R*263-40 (M)
 	  - Code général des collectivités territoriales - art. L2334-7 (M)
 
-	**Liens**:
+	**Anciens textes**:
 
-	  - TXT_SOURCE: Décret n°85-1512 du 31 décembre 1985
-	  - TXT_SOURCE: Décret n°85-1512 du 31 décembre 1985 - art. 1 (Ab)
-	  - TXT_SOURCE: Décret n°85-1512 du 31 décembre 1985 - art. 2 (Ab)
-	  - TXT_SOURCE: Décret n°85-1512 du 31 décembre 1985 - art. 3 (Ab)
+	  - CODE DES COMMUNES. - art. L234-6 (T)
 
 	**Nouveaux textes**:
 
@@ -24116,34 +24306,20 @@ effectué dès que les centralisations des services fiscaux ont permis de conna�
 
 ###### Article L234-5
 
-Un fonds d'action locale reçoit une fraction du versement représentatif de la taxe sur les salaires. 
-
-Cette fraction est fixée à 5 p. 100 [*pourcentage*] à compter de l'année 1978 [*date*].
-
-(1) Loi de finances rectificative pour 1978 n° 1240 du 29 décembre 1978 art. 10 I, JORF 30 décembre 1978 p. 4385 :
-
-A compter du 1er janvier 1978, le produit des amendes de police relatives à la circulation routière est prélevé sur les
-recettes de l'Etat au profit du fonds d'action locale prévu par l'article L. 234-5 du code des communes en vue de financer
-des opérations destinées à améliorer les transports en commun et la circulation.
+En cas de modification des limites territoriales de communes, le montant de la dotation forfaitaire revenant, l'année
+suivante, à chaque commune, est calculé en tenant compte du transfert de population intervenu proportionnellement à la part
+de celle-ci dans sa commune d'origine.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Liens**:
 
-	  - Loi n°66-10 1966-01-06 art. 39 3. al. 1
-
-	**Cite**:
-
-	  - Décret n°66-205 1966-04-05
-	  - Loi n°78-1240 1978-12-30 art. 10 I
+	  - SPEC_APPLI: *ces dispositions ne seront applicables que jusqu'au 1er janvier 1986*
+	  - SPEC_APPLI: Loi n°80-1102 1980-12-31 ART. 22 :
 
 	**Codifié par**:
 
 	  - Décret n°77-90 1977-01-27
-
-	**Créé par**:
-
-	  - Décret n°77-90 1977-01-27 JORF et JONC 3 février 1977 date d'entrée en vigueur élection des maires
 
 	**Cité par**:
 
@@ -24165,89 +24341,39 @@ des opérations destinées à améliorer les transports en commun et la circulat
 	  - CODE DES COMMUNES. - art. R*263-40 (M)
 	  - CODE GENERAL DES IMPOTS, CGI. - art. 1648 B (M)
 
-	**Modifié par**:
+	**Créé par**:
 
-	  - Loi n°79-15 1979-01-03 art. 7 JORF 4 janvier 1979
+	  - Loi n°79-15 1979-01-03 ART. 7 JORF 4 janvier 1979 p. 25
 
 	**Nouveaux textes**:
 
 	  - Code général des collectivités territoriales - art. L2334-5 (V)
 
 
-##### Attribution de garantie.
+##### Dotation de péréquation.
 
-###### Article L234-6
+###### Article L234-8
 
-Chaque collectivité reçoit une attribution de garantie sur le versement représentatif de la taxe sur les salaires.
+Le potentiel fiscal d'une collectivité est égal au montant des bases pondérées des quatre taxes directes locales, ces bases
+étant les bases brutes servant à l'assiette des impositions communales.
+
+Le potentiel fiscal par habitant est égal [*définition*] au potentiel fiscal de la collectivité divisé par le nombre
+d'habitants constituant la population de la collectivité considérée, majorée dans les conditions fixées par l'article 19 de
+la loi n° 79-15 du 3 janvier 1979.
+
+Le coefficient de pondération de la base de chacune des quatre taxes est le taux moyen national d'imposition à la taxe
+concernée.
+
+A titre transitoire jusqu'à l'incorporation dans les rôles des résultats de la révision des bases de la taxe foncière sur les
+propriétés non bâties, les bases actuelles seront corrigées par application des coefficients retenus pour le calcul des
+cotisations au budget annexe des prestations sociales agricoles.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°66-10 1966-01-06 art. 40 1.
-
-	**Codifié par**:
-
-	  - Décret n°77-90 1977-01-27
-
-	**Créé par**:
-
-	  - Décret n°77-90 1977-01-27 JORF et JONC 3 février 1977 date d'entrée en vigueur élection des maires
-
-	**Modifié par**:
-
-	  - Loi n°79-15 1979-01-03 art. 7 JORF 4 janvier 1979
-
-	**Cité par**:
-
-	  - Loi n°79-15 du 3 janvier 1979 - art. 15 (Ab)
-	  - Loi n°79-15 du 3 janvier 1979 - art. 16 (Ab)
-	  - Loi n°79-15 du 3 janvier 1979 - art. 17 (Ab)
-	  - Loi n°79-15 du 3 janvier 1979 - art. 21 (Ab)
-	  - Loi n°82-1126 du 29 décembre 1982 - art. 91 (P)
-	  - Décret n°85-260 du 22 février 1985 - art. 5 (V)
-	  - Loi n°85-1268 du 29 novembre 1985 - art. 38 (Ab)
-	  - Décret n°86-323 du 3 mars 1986 - art. 2 (V)
-	  - Décret n°92-952 du 3 septembre 1992 - art. 2 (V)
-	  - Décret n°93-258 du 26 février 1993 - art. 1 (Ab)
-	  - CODE DES COMMUNES. - art. L234-11 (Ab)
-	  - CODE DES COMMUNES. - art. L234-14-1 (Ab)
-	  - CODE DES COMMUNES. - art. L234-14-2 (Ab)
-	  - CODE DES COMMUNES. - art. L234-19-1 (Ab)
-	  - CODE DES COMMUNES. - art. L234-4 (Ab)
-	  - CODE DES COMMUNES. - art. L234-5 (Ab)
-	  - CODE DES COMMUNES. - art. L234-9 (Ab)
-	  - CODE DES COMMUNES. - art. L262-10 (Ab)
-	  - CODE DES COMMUNES. - art. L262-5 (M)
-	  - CODE DES COMMUNES. - art. L263-13 (M)
-	  - CODE DES COMMUNES. - art. L263-15 (M)
-	  - CODE DES COMMUNES. - art. R*212-8 (Ab)
-	  - CODE DES COMMUNES. - art. R*234-2 (M)
-	  - CODE DES COMMUNES. - art. R*234-33 (M)
-	  - CODE DES COMMUNES. - art. R*263-40 (M)
-	  - CODE DES COMMUNES. - art. R*263-50 (M)
-	  - CODE GENERAL DES IMPOTS, CGI. - art. 1648 B (M)
 
 	**Liens**:
 
-	  - TXT_SOURCE: Décret n°93-270 du 1 mars 1993
-	  - TXT_SOURCE: Décret n°93-270 du 1 mars 1993 - art. 2 (V)
-
-
-###### Article L234-7
-
-Une fraction du versement représentatif de la taxe sur les salaires est, après déduction des attributions prévues à l'article
-L. 234-5 [*fraction du V.R.T.S. attribuée au fonds d'action locale*], répartie entre les collectivités au prorata
-[*proportion*] des attributions de garantie que ces collectivités ont reçues pour 1968 [*date*]. 
-
-Cette fraction [*montant*] est fixée au 95/100 pour 1969 Elle est réduite de 5 points pendant chacune des années suivantes
-[*définition*].
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°66-10 1966-01-06 art. 40 4. al. 1 et 2
+	  - SPEC_APPLI: *ces dispositions ne seront applicables que jusqu'au 1er janvier 1986*
+	  - SPEC_APPLI: Loi n°80-1102 1980-12-31 ART. 22 :
 
 	**Codifié par**:
 
@@ -24255,119 +24381,41 @@ Cette fraction [*montant*] est fixée au 95/100 pour 1969 Elle est réduite de 5
 
 	**Créé par**:
 
-	  - Décret n°77-90 1977-01-27 JORF et JONC 3 février 1977 date d'entrée en vigueur élection des maires
-
-	**Modifié par**:
-
-	  - Loi n°79-15 1979-01-03 art. 7 JORF 4 janvier 1979
-
-	**Cité par**:
-
-	  - Loi n°79-15 du 3 janvier 1979 - art. 17 (Ab)
-	  - Loi n°79-15 du 3 janvier 1979 - art. 21 (Ab)
-	  - Loi n°82-1126 du 29 décembre 1982 - art. 91 (P)
-	  - Loi n°83-8 du 7 janvier 1983 - art. 103 (M)
-	  - Décret n°83-117 du 18 février 1983 - art. 16 (Ab)
-	  - Décret n°83-621 du 8 juillet 1983 - art. 1 (V)
-	  - Décret n°83-621 du 8 juillet 1983 - art. 4 (V)
-	  - Décret n°84-62 du 27 janvier 1984 - art. 4 (Ab)
-	  - Loi n°85-1268 du 29 novembre 1985 - art. 29 (M)
-	  - Loi n°85-1268 du 29 novembre 1985 - art. 38 (M)
-	  - CODE DES COMMUNES. - art. L233-29 (Ab)
-	  - CODE DES COMMUNES. - art. L233-45 (Ab)
-	  - CODE DES COMMUNES. - art. L234-10-3 (Ab)
-	  - CODE DES COMMUNES. - art. L234-11-1 (Ab)
-	  - CODE DES COMMUNES. - art. L234-5 (M)
-	  - CODE DES COMMUNES. - art. L234-7-1 (Ab)
-	  - CODE DES COMMUNES. - art. L234-9 (Ab)
-	  - CODE DES COMMUNES. - art. L262-10 (Ab)
-	  - CODE DES COMMUNES. - art. L262-5 (Ab)
-	  - CODE DES COMMUNES. - art. L263-13 (M)
-	  - CODE GENERAL DES IMPOTS ANNEXE 2, CGIAN2. - art. 327 DC (Ab)
-	  - CODE GENERAL DES IMPOTS, CGI. - art. 1648 B (M)
-
-	**Nouveaux textes**:
-
-	  - CODE DES COMMUNES. - art. L234-6 (M)
-
-
-###### Article L234-9
-
-Par exception aux dispositions de l'article précédent [*montant de l'attribution de garantie pour 1968*] :
-
-1° Lorsque le revenu brut annuel du patrimoine communal, à l'exclusion du revenu des immeubles bâtis, a dépassé 4 F
-[*francs*] par habitant en moyenne au cours des exercices 1964, 1965 et 1966 [*dates*], la moitié [*proportion*] du revenu
-brut en excédent est déduite du produit fixé au 1° de l'article précédent ;
-
-2° Le montant prévu au 2° de l'article précédent est diminué
-
-des sommes que les communes ont été appelées à reverser en 1967 au titre des mécanismes de péréquation existants, à
-l'exception de ceux qui ont pour objet l'alimentation en ressources des districts.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°66-10 1966-01-06 art. 40 3. (partie)
-
-	**Codifié par**:
-
-	  - Décret n°77-90 1977-01-27
-
-	**Créé par**:
-
-	  - Décret n°77-90 1977-01-27 JORF et JONC 3 février 1977 date d'entrée en vigueur élection des maires
-
-	**Modifié par**:
-
-	  - Loi n°79-15 1979-01-03 art. 7 JORF 4 janvier 1979
-
-	**Cité par**:
-
-	  - Loi n°79-15 du 3 janvier 1979 - art. 17 (Ab)
-	  - Loi n°79-15 du 3 janvier 1979 - art. 20 (Ab)
-	  - Loi n°79-15 du 3 janvier 1979 - art. 21 (Ab)
-	  - Décret n°84-62 du 27 janvier 1984 - art. 4 (Ab)
-	  - Décret n°84-108 du 16 février 1984 - art. 7 (V)
-	  - Décret n°85-260 du 22 février 1985 - art. 5 (M)
-	  - Loi n°85-1268 du 29 novembre 1985 - art. 29 (M)
-	  - Loi n°93-1436 du 31 décembre 1993 - art. 26 (Ab)
-	  - Loi n°93-1436 du 31 décembre 1993 - art. 9 (V)
-	  - Décret n°94-704 du 17 août 1994 - art. 10 (Ab)
-	  - Décret n°94-704 du 17 août 1994 - art. 12 (Ab)
-	  - Décret n°94-704 du 17 août 1994 - art. 14 (V)
-	  - Décret n°94-704 du 17 août 1994 - art. 16 (V)
-	  - CODE DES COMMUNES. - art. L234-10 (M)
-	  - CODE DES COMMUNES. - art. L234-11 (M)
-	  - CODE DES COMMUNES. - art. L234-21 (Ab)
-	  - CODE DES COMMUNES. - art. L234-6 (M)
-	  - CODE DES COMMUNES. - art. L234-7 (M)
-	  - CODE DES COMMUNES. - art. L262-5 (Ab)
-	  - CODE DES COMMUNES. - art. R*262-13 (Ab)
-	  - CODE DES COMMUNES. - art. R262-4 (Ab)
-	  - CODE GENERAL DES IMPOTS ANNEXE 2, CGIAN2. - art. 327 DC (Ab)
-
-	**Liens**:
-
-	  - TXT_ASSOCIE: CODE DES COMMUNES. - art. L234-11 (M)
+	  - Loi n°79-15 1979-01-03 ART. 7 JORF 4 janvier 1979 p. 25
 
 	**Cite**:
 
-	  - CODE DES COMMUNES. - art. L234-8 (M)
+	  - Loi n°79-15 du 3 janvier 1979 - art. 19 (Ab)
+
+	**Cité par**:
+
+	  - Décret n°83-621 du 8 juillet 1983 - art. 1 (V)
+	  - Décret n°84-62 du 27 janvier 1984 - art. 4 (Ab)
+	  - Décret n°85-260 du 22 février 1985 - art. 5 (M)
+	  - Loi n°85-1268 du 29 novembre 1985 - art. 29 (M)
+	  - CODE DES COMMUNES. - art. L234-6 (M)
+	  - CODE DES COMMUNES. - art. L234-7 (Ab)
+	  - CODE DES COMMUNES. - art. L234-9 (Ab)
+	  - CODE DES COMMUNES. - art. L262-5 (Ab)
+	  - CODE GENERAL DES IMPOTS ANNEXE 2, CGIAN2. - art. 327 DC (Ab)
 
 
 ###### Article L234-10
 
-Pour la répartition [*du versement représentatif*] prévue à l'article L. 234-7, le produit mentionné au 1° de l'article L.
-234-8 est modifié compte tenu de l'augmentation de la population communale. 
-
-La plus élevée des deux sommes définies à l'article L. 234-8 sert de base au calcul des attributions de garantie [*montant*].
+En cas de modification des limites territoriales de communes, le montant de la dotation de péréquation revenant, l'année
+suivante, à chaque commune, est calculé d'après son potentiel fiscal et le montant des impôts énoncés à l'article L. 234-9
+qui ont été établis l'année précédente, dans la limite des modifications territoriales intervenues.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Liens**:
 
-	  - Loi n°66-10 1966-01-06 art. 40 5. (partie)
+	  - SPEC_APPLI: *ces dispositions ne seront applicables que jusqu'au 1er janvier 1986*
+	  - SPEC_APPLI: Loi n°80-1102 1980-12-31 ART. 22 :
+	  - TXT_SOURCE: Décret n°85-1513 du 31 décembre 1985
+	  - TXT_SOURCE: Décret n°85-1513 du 31 décembre 1985 - art. 1 (Ab)
+	  - TXT_SOURCE: Décret n°85-1513 du 31 décembre 1985 - art. 2 (Ab)
+	  - TXT_SOURCE: Décret n°85-1513 du 31 décembre 1985 - art. 3 (Ab)
 
 	**Codifié par**:
 
@@ -24375,11 +24423,7 @@ La plus élevée des deux sommes définies à l'article L. 234-8 sert de base au
 
 	**Créé par**:
 
-	  - Décret n°77-90 1977-01-27 JORF et JONC 3 février 1977 date d'entrée en vigueur élection des maires
-
-	**Modifié par**:
-
-	  - Loi n°79-15 1979-01-03 art. 7 JORF 4 janvier 1979
+	  - Loi n°79-15 1979-01-03 ART. 7 JORF 4 janvier 1979 p. 25
 
 	**Cité par**:
 
@@ -24406,51 +24450,25 @@ La plus élevée des deux sommes définies à l'article L. 234-8 sert de base au
 	  - Code de la construction et de l'habitation. - art. L302-5 (M)
 	  - Code général des collectivités territoriales - art. L2334-7 (M)
 
-	**Liens**:
-
-	  - TXT_SOURCE: Décret n°85-1513 du 31 décembre 1985
-	  - TXT_SOURCE: Décret n°85-1513 du 31 décembre 1985 - art. 1 (Ab)
-	  - TXT_SOURCE: Décret n°85-1513 du 31 décembre 1985 - art. 2 (Ab)
-	  - TXT_SOURCE: Décret n°85-1513 du 31 décembre 1985 - art. 3 (Ab)
-	  - TXT_ASSOCIE: CODE DES COMMUNES. - art. L234-11 (M)
-
-	**Cite**:
-
-	  - Code des communes L234-7 et L234-8
-
 	**Nouveaux textes**:
 
 	  - Code général des collectivités territoriales - art. L5211-32 (M)
 
 
-##### Attribution au prorata.
+###### Article L234-11
 
-###### Article L234-12
-
-Après déduction des attributions [*versées au fonds d'action locale et au titre des attributions de garantie, aux
-collectivités locales*] prévues aux articles L. 234-5 et L. 234-7, le versement représentatif de la taxe sur les salaires est
-réparti entre les départements, les communes et leurs groupements au prorata [*proportion*] des impôts et taxes assimilées
-prélevés au cours de l'année précédente sur les propriétés bâties et sur les habitants ou mis à la charge de ces derniers, à
-raison des logements dont ils disposent et de leurs dépendances [*base de répartition - définition*]. 
-
-En cas de création d'un groupement de communes, l'attribution versée à celui-ci, au titre de sa première année de
-fonctionnement, est calculé au prorata des impôts et taxes assimilées prélevés par lui au cours de l'année même selon des
-modalités déterminées par décret en Conseil d'Etat.
+En cas de dissolution d'un groupement de communes, le montant de la dotation de péréquation qui aurait dû lui revenir l'année
+suivante est partagé entre les communes qui le composaient, d'après le montant des impôts énoncés à l'article L. 234-9
+établis la dernière année de fonctionnement sur le territoire de chacune d'elles pour le compte du groupement.
 
 **Liens relatifs à cet article**
 
 	**Liens**:
 
-	  - SPEC_APPLI: *Dispositions non applicables aux communes des départements de la Guadeloupe, de la Guyane, de la Martinique, de la Réunion et de Saint-Pierre-et-Miquelon*
-	  - TXT_ASSOCIE: CODE DES COMMUNES. - art. L234-14 (M)
-	  - TXT_ASSOCIE: CODE DES COMMUNES. - art. L234-15 (M)
-	  - TXT_ASSOCIE: CODE DES COMMUNES. - art. L234-16 (M)
-	  - SPEC_APPLI: CODE DES COMMUNES. - art. L262-1 (M)
-	  - SPEC_APPLI: Code des communes L262-1, L262-10 :
-
-	**Anciens textes**:
-
-	  - Loi n°66-10 1966-01-06 art. 41 1. complété
+	  - SPEC_APPLI: *ces dispositions ne seront applicables que jusqu'au 1er janvier 1986*
+	  - SPEC_APPLI: Loi n°80-1102 1980-12-31 ART. 22 :
+	  - TXT_ASSOCIE: CODE DES COMMUNES. - art. L234-10 (M)
+	  - TXT_ASSOCIE: CODE DES COMMUNES. - art. L234-9 (M)
 
 	**Codifié par**:
 
@@ -24458,98 +24476,54 @@ modalités déterminées par décret en Conseil d'Etat.
 
 	**Créé par**:
 
-	  - Décret n°77-90 1977-01-27 JORF et JONC 3 février 1977 date d'entrée en vigueur élection des maires
-
-	**Modifié par**:
-
-	  - Loi n°79-15 1979-01-03 art. 7 JORF 4 janvier 1979
-
-	**Cité par**:
-
-	  - Loi n°79-15 du 3 janvier 1979 - art. 15 (Ab)
-	  - Loi n°79-15 du 3 janvier 1979 - art. 16 (Ab)
-	  - Loi n°79-15 du 3 janvier 1979 - art. 17 bis (Ab)
-	  - Loi n°85-1268 du 29 novembre 1985 - art. 34 bis (Ab)
-	  - Loi n°91-429 du 13 mai 1991 - art. 4 (M)
-	  - Loi n°95-115 du 4 février 1995 - art. 73 (Ab)
-	  - Loi n°96-241 du 26 mars 1996 - art. 9 (V)
-	  - CODE DES COMMUNES. - art. L234-14 (M)
-	  - CODE DES COMMUNES. - art. L234-14-1 (Ab)
-	  - CODE DES COMMUNES. - art. L234-19-1 (M)
-	  - CODE DES COMMUNES. - art. L234-2 (M)
-	  - CODE DES COMMUNES. - art. L234-4 (Ab)
-	  - CODE DES COMMUNES. - art. L234-6 (M)
-	  - CODE DES COMMUNES. - art. L262-10 (Ab)
-	  - CODE DES COMMUNES. - art. L262-5 (M)
-	  - CODE DES COMMUNES. - art. L263-13 (M)
-	  - CODE DES COMMUNES. - art. L263-15 (Ab)
-	  - CODE DES COMMUNES. - art. R*234-12 (M)
-	  - CODE DES COMMUNES. - art. R*234-7 (Ab)
-	  - CODE DES COMMUNES. - art. R*234-8 (Ab)
-	  - CODE DES COMMUNES. - art. R*234-9 (Ab)
-	  - CODE DES COMMUNES. - art. R*263-40 (M)
-	  - CODE DES COMMUNES. - art. R262-4 (M)
-	  - CODE GENERAL DES IMPOTS, CGI. - art. 1466 A (M)
-	  - CODE GENERAL DES IMPOTS, CGI. - art. 1648 B (M)
-	  - Code de la construction et de l'habitation. - art. L301-3-1 (M)
-	  - Code de la construction et de l'habitation. - art. L302-5 (M)
-	  - Code de la construction et de l'habitation. - art. L302-5-1 (Ab)
-	  - Code de la construction et de l'habitation. - art. L302-8 (M)
+	  - Loi n°79-15 1979-01-03 ART. 7 JORF 4 janvier 1979 p. 25
 
 	**Cite**:
 
-	  - Code des communes L234-5 et L234-7
+	  - CODE DES COMMUNES. - art. L234-9 (M)
 
+	**Cité par**:
+
+	  - CODE DES COMMUNES. - art. R*233-42 (Ab)
+
+
+##### Concours particuliers .
 
 ###### Article L234-13
 
-Il est ajouté au produit des impôts [*et taxes assimilées prélevés l'année précédente sur les propriétés bâties et sur les
-habitants ou à leur charge) à raison de leurs logements et dépendances*] mentionnés à l'article précédent : [*base de
-répartition*]. 
+Bénéficient d'une dotation de fonctionnement minimale, afin de les aider à prendre en charge leurs obligations légales et
+leurs dépenses courantes, les communes de moins de 2.000 habitants, dont le potentiel fiscal par habitant est inférieur au
+potentiel moyen par habitant de l'ensemble des communes, ainsi que les communes de moins de 2.000 habitants dont le potentiel
+fiscal par hectare est inférieur au tiers du potentiel moyen par hectare de l'ensemble des communes de moins de 2.000
+habitants.
 
-1° La somme correspondant aux impôts et taxes qui auraient été dus au titre des propriétés bâties pour les constructions
-nouvelles, additions de constructions et reconstructions, si elles n'avaient pas bénéficié de l'exemption temporaire de la
-taxe foncière sur les propriétés bâties prévue par les articles 1383 à 1387 du code général des impôts ; 
+Cette dotation est répartie, pour un tiers, en tenant compte du nombre d'élèves domiciliés dans la commune et relevant de
+l'enseignement obligatoire et préélémentaire, que l'instruction soit donnée sur le territoire communal ou non, et, pour les
+deux tiers, de la longueur de la voirie classée dans le domaine public communal. Ces deux éléments sont pondérés par
+l'insuffisance du potentiel fiscal par habitant de la commune par rapport à une moyenne de référence. Pour les communes
+situées en zone de montagne, la longueur de la voirie est doublée.
 
-2° 30 p. 100 [*pourcentage*] du produit des taxes prélevées sur les propriétés non bâties ; 
+L'attribution est diminuée soit du revenu net, soit de la moitié du revenu brut annuel du patrimoine communal, immeubles
+bâtis exclus.
 
-3° Le produit de la redevance pour enlèvement des ordures, déchets et résidus prévue à l'article L. 233-78.
+Le montant des ressources affectées aux dotations de fonctionnement minimales est fixé chaque année par le comité des
+finances locales. Il ne peut être inférieur à 25 p. 100 des ressources prévues pour les concours particuliers.
 
 **Liens relatifs à cet article**
 
 	**Liens**:
 
-	  - SPEC_APPLI: *Dispositions non applicables aux communes des départements de la Guadeloupe, de la Guyane, de la Martinique, de la Réunion et de Saint-Pierre-et-Miquelon*
+	  - SPEC_APPLI: *ces dispositions ne seront applicables que jusqu'au 1er janvier 1986*
+	  - SPEC_APPLI: Loi n°80-1102 1980-12-31 ART. 22 :
 	  - TXT_SOURCE: Décret n°87-228 du 27 mars 1987
 	  - TXT_SOURCE: Décret n°87-228 du 27 mars 1987 - art. 1 (Ab)
 	  - TXT_SOURCE: Décret n°87-228 du 27 mars 1987 - art. 2 (Ab)
 	  - TXT_SOURCE: Décret n°87-228 du 27 mars 1987 - art. 3 (Ab)
 	  - TXT_SOURCE: Décret n°87-228 du 27 mars 1987 - art. 4 (Ab)
-	  - TXT_ASSOCIE: CODE DES COMMUNES. - art. L234-14 (M)
-	  - TXT_ASSOCIE: CODE DES COMMUNES. - art. L234-15 (M)
-	  - SPEC_APPLI: CODE DES COMMUNES. - art. L262-1 (M)
-	  - SPEC_APPLI: Code des communes L262-1, L262-10 :
-
-	**Cite**:
-
-	  - CGI 1383 à 1387
-	  - Code des communes L234-12 et L233-78
-
-	**Anciens textes**:
-
-	  - Loi n°66-10 1966-01-06 art. 41 2. complété
 
 	**Codifié par**:
 
 	  - Décret n°77-90 1977-01-27
-
-	**Créé par**:
-
-	  - Décret n°77-90 1977-01-27 JORF et JONC 3 février 1977 date d'entrée en vigueur élection des maires
-
-	**Modifié par**:
-
-	  - Loi n°79-15 1979-01-03 art. 7 JORF 4 janvier 1979
 
 	**Cité par**:
 
@@ -24597,82 +24571,17 @@ taxe foncière sur les propriétés bâties prévue par les articles 1383 à 138
 	  - Code général des collectivités territoriales - art. R1211-5 (M)
 
 
-###### Article L234-14
+###### Article L234-18
 
-Sont exclus de la base de répartition définie aux articles L. 234-12 et L. 234-13 les impôts et taxes assimilées encaissés au
-titre des propriétés bâties affectées à des usages autres que l'habitation ou la profession hôtelière.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°66-10 1966-01-06 art. 41 4. al. 1
-
-	**Codifié par**:
-
-	  - Décret n°77-90 1977-01-27
-
-	**Cité par**:
-
-	  - Loi n°79-15 du 3 janvier 1979 - art. 25 (Ab)
-	  - Loi n°83-1186 du 29 décembre 1983 - art. 10 (Ab)
-	  - Loi n°85-1268 du 29 novembre 1985 - art. 28 (Ab)
-	  - Loi n°85-1268 du 29 novembre 1985 - art. 29 (M)
-	  - Loi n°85-1268 du 29 novembre 1985 - art. 42 (V)
-	  - Loi n°86-972 du 19 août 1986 - art. 45 (V)
-	  - CODE DES COMMUNES. - art. L233-29 (M)
-	  - CODE DES COMMUNES. - art. L234-10 (Ab)
-	  - CODE DES COMMUNES. - art. L234-17 (Ab)
-	  - CODE DES COMMUNES. - art. L234-19-1 (M)
-	  - CODE DES COMMUNES. - art. L234-19-2 (Ab)
-	  - CODE DES COMMUNES. - art. L234-2 (M)
-	  - CODE DES COMMUNES. - art. L234-21 (Ab)
-	  - CODE DES COMMUNES. - art. L234-7 (Ab)
-	  - CODE DES COMMUNES. - art. L262-5 (Ab)
-	  - CODE DES COMMUNES. - art. R*212-7 (Ab)
-	  - CODE DES COMMUNES. - art. R*234-17 (Ab)
-	  - CODE GENERAL DES IMPOTS, CGI. - art. 1648 B (M)
-	  - Code général des collectivités territoriales - art. L2334-21 (M)
-	  - Code général des collectivités territoriales - art. L2334-7 (V)
-
-	**Cite**:
-
-	  - CODE DES COMMUNES. - art. L234-12 (M)
-	  - CODE DES COMMUNES. - art. L234-13 (M)
-
-	**Liens**:
-
-	  - TXT_ASSOCIE: CODE DES COMMUNES. - art. L234-12 (M)
-	  - TXT_ASSOCIE: CODE DES COMMUNES. - art. L234-13 (M)
-
-	**Nouveaux textes**:
-
-	  - Code général des collectivités territoriales - art. L1613-5 (V)
-
-
-###### Article L234-15
-
-Pour le calcul de la base de répartition prévue aux articles L. 234-12 à L. 234-14, des décrets en Conseil d'Etat déterminent
-les conditions dans lesquelles il est tenu compte des redevances et autres produits perçus par les services publics
-industriels et commerciaux, ainsi que du prix de l'eau.
+Une dotation, destinée à couvrir les frais de fonctionnement du comité des finances locales et le coût des travaux qui lui
+sont nécessaires, est prélevée sur les ressources prévues pour les concours particuliers.
 
 **Liens relatifs à cet article**
 
 	**Liens**:
 
-	  - SPEC_APPLI: *Dispositions non applicables aux communes des départements de la Guadeloupe, de la Guyane, de la Martinique, de la Réunion et de Saint-Pierre-et-Miquelon*
-	  - TXT_SOURCE: Décret n°85-1514 du 31 décembre 1985
-	  - TXT_SOURCE: Décret n°85-1514 du 31 décembre 1985 - art. 1 (Ab)
-	  - TXT_SOURCE: Décret n°85-1514 du 31 décembre 1985 - art. 2 (Ab)
-	  - TXT_ASSOCIE: CODE DES COMMUNES. - art. L234-12 (M)
-	  - TXT_ASSOCIE: CODE DES COMMUNES. - art. L234-13 (M)
-	  - SPEC_APPLI: CODE DES COMMUNES. - art. L262-1 (M)
-	  - TXT_ASSOCIE: CODE DES COMMUNES. - art. L264-18 (Ab)
-	  - SPEC_APPLI: Code des communes L262-1, L262-10 :
-
-	**Anciens textes**:
-
-	  - Loi n°66-10 1966-01-06 art. 41 5. a
+	  - SPEC_APPLI: *ces dispositions ne seront applicables que jusqu'au 1er janvier 1986*
+	  - SPEC_APPLI: Loi n°80-1102 1980-12-31 ART. 22 :
 
 	**Codifié par**:
 
@@ -24680,11 +24589,275 @@ industriels et commerciaux, ainsi que du prix de l'eau.
 
 	**Créé par**:
 
-	  - Décret n°77-90 1977-01-27 JORF et JONC 3 février 1977 date d'entrée en vigueur élection des maires
+	  - Loi n°79-15 1979-01-03 ART. 7 JORF 4 janvier 1979 p. 25
 
-	**Modifié par**:
+	**Anciens textes**:
 
-	  - Loi n°79-15 1979-01-03 art. 7 JORF 4 janvier 1979
+	  - CODE DES COMMUNES. - art. L234-11 (Ab)
+
+	**Cité par**:
+
+	  - CODE DES COMMUNES. - art. L234-21 (M)
+
+
+##### Dispositions communes aux diverses sortes d'attributions .
+
+###### Article L234-19
+
+La dotation forfaitaire et la dotation de péréquation font l'objet de versements mensuels aux communes et à leurs
+groupements.
+
+Les concours particuliers font l'objet d'un versement annuel, avant la fin de l'exercice en cours, avec la possibilité
+d'acomptes.
+
+La dotation supplémentaire aux communes touristiques ou thermales et à leurs groupements pourra, sur demande expresse du
+maire ou du président de groupement, faire l'objet de versements d'acomptes semestriels sous réserve que la commune ou le
+groupement continue à remplir les conditions requises pour bénéficier de cette donation supplémentaire.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - SPEC_APPLI: *ces dispositions ne seront applicables que jusqu'au 1er janvier 1986*
+	  - SPEC_APPLI: Loi n°80-1102 1980-12-31 ART. 22 :
+
+	**Codifié par**:
+
+	  - Décret n°77-90 1977-01-27
+
+	**Créé par**:
+
+	  - Loi n°79-15 1979-01-03 ART. 7 JORF 4 janvier 1979 p. 25
+
+	**Cité par**:
+
+	  - Loi n°93-1436 du 31 décembre 1993 - art. 16 (V)
+	  - CODE DES COMMUNES. - art. R*234-3 (M)
+
+
+##### Comité des finances locales .
+
+###### Article L234-21
+
+Le comité des finances locales contrôle [*attributions*] la répartition de la dotation globale de fonctionnement.
+
+Il fixe la part des ressources à affecter aux concours particuliers, ainsi que la part de ces ressources à affecter aux
+dotations et versements mentionnés aux articles L. 234-13 à L. 234-15 et L. 234-18 et en contrôle la répartition.
+
+Le gouvernement peut le consulter sur toutes dispositions réglementaires à caractère financier concernant les collectivités
+locales. Pour les décrets, cette consultation est obligatoire.
+
+Chaque année, avant le 31 juillet [*date*], les comptes du dernier exercice connu des collectivités locales lui sont
+présentés ainsi qu'aux commissions des finances de l'assemblée nationale et du Sénat.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - SPEC_APPLI: *ces dispositions ne seront applicables que jusqu'au 1er janvier 1986*
+	  - SPEC_APPLI: Loi n°80-1102 1980-12-31 ART. 22 :
+	  - TXT_ASSOCIE: CODE DES COMMUNES. - art. L234-20 (M)
+
+	**Codifié par**:
+
+	  - Décret n°77-90 1977-01-27
+
+	**Créé par**:
+
+	  - Loi n°79-15 1979-01-03 ART. 7 JORF 4 janvier 1979 p. 25
+
+	**Cite**:
+
+	  - CODE DES COMMUNES. - art. L234-13 (M)
+	  - CODE DES COMMUNES. - art. L234-14 (M)
+	  - CODE DES COMMUNES. - art. L234-15 (M)
+	  - CODE DES COMMUNES. - art. L234-18 (M)
+
+	**Cité par**:
+
+	  - CODE DES COMMUNES. - art. L263-19 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code général des collectivités territoriales - art. L1211-3 (V)
+
+
+##### Dotation globale de fonctionnement *DGF*
+
+##### Dispositions générales.
+
+###### Article L234-1
+
+Une dotation globale de fonctionnement est instituée en faveur des communes et de certains de leurs groupements. Elle se
+compose d'une dotation forfaitaire, d'une dotation de péréquation et le cas échéant de concours particuliers.
+
+Le montant de la dotation globale de fonctionnement est déterminé chaque année en appliquant un taux de prélèvement sur le
+produit net prévisionnel de la taxe sur la valeur ajoutée, aux taux en vigueur au 1er janvier 1979, tel qu'il ressort de la
+loi de finances initiale de l'année.
+
+Pour 1979, ce taux est fixé à 16,45 p. 100. Toute modification du régime des taux de la taxe sur la valeur ajoutée devra
+comporter une disposition fixant le nouveau taux de prélèvement applicable pour obtenir le même produit que celui attendu
+antérieurement.
+
+Il est procédé au plus tard le 31 juillet à la régularisation du montant de la dotation afférente à l'exercice précédent sur
+la base de l'évolution du produit net de la taxe sur la valeur ajoutée aux taux en vigueur au 1er janvier 1979. Cette
+régularisation ne peut aboutir à une réduction du montant initialement prévu.
+
+Le montant de la régularisation, auquel est ajouté le reliquat comptable éventuellement du même exercice, est réparti entre
+tous les bénéficiaires de la dotation globale de fonctionnement au prorata des sommes reçues au cours de l'exercice
+correspondant. Une fraction peut, par anticipation, être notifiée au début de l'année où elle intervient.
+
+[*Pour 1981, le reliquat comptable, visé ci-dessus est réparti entre les communes proportionnellement au nombre des
+instituteurs attachés à l'ensemble des écoles de la commune*].
+
+Au cas où la dotation de fonctionnement ainsi calculée présenterait par rapport à celle de l'exercice précédent un taux de
+progression inférieur à celui constaté pendant la même période de référence, pour l'accroissement du traitement annuel des
+fonctionnaires défini à l'article 22 de l'ordonnance n° 59-244 du 4 février 1959, afférent à l'indice 100, c'est ce dernier
+taux qui serait appliqué lors de la régularisation du montant de la dotation globale de fonctionnement.
+
+Chaque année, le montant de la dotation globale de fonctionnement est arrêté, pour être inscrit dans le projet de loi de
+finances, sur proposition du comité des finances locales institué par l'article L. 234-20, qui est saisi des éléments
+d'évaluation fournis par le ministre du budget.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - SPEC_APPLI: *ces dispositions ne seront applicables que jusqu'au 1er janvier 1986*
+	  - SPEC_APPLI: Loi n°80-1102 1980-12-31 ART. 22 :
+
+	**Cite**:
+
+	  - Ordonnance n°59-244 du 4 février 1959 - art. 22, v. init.
+	  - CODE DES COMMUNES. - art. L234-20 (M)
+
+	**Codifié par**:
+
+	  - Décret n°77-90 1977-01-27
+
+	**Cité par**:
+
+	  - Loi n°78-1239 du 29 décembre 1978 - art. 38 (V)
+	  - Loi n°80-30 du 18 janvier 1980 - art. 27 (P)
+	  - Loi n°84-1209 du 29 décembre 1984 - art. 2 (P)
+	  - Loi n°85-1268 du 29 novembre 1985 - art. 1 (V)
+	  - Décret n°85-1314 du 11 décembre 1985 - art. 2 (M)
+	  - Loi n°86-972 du 19 août 1986 - art. 45 (V)
+	  - Loi n°87-1061 du 30 décembre 1987 - art. 2 (V)
+	  - Décret n°87-1146 du 31 décembre 1987 - art. 5 (Ab)
+	  - Décret n°93-289 du 5 mars 1993 - art. 5 (Ab)
+	  - Décret n°93-289 du 5 mars 1993 - art. 6 (M)
+	  - Décret n°93-289 du 5 mars 1993 - art. 7 (M)
+	  - Décret n°93-289 du 5 mars 1993 - art. 8 (M)
+	  - CODE DES COMMUNES. - art. L234-19-1 (M)
+	  - CODE DES COMMUNES. - art. R*234-1 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code général des collectivités territoriales - art. L2334-1 (V)
+
+
+##### Dotation de péréquation.
+
+###### Article L234-9
+
+Les impôts sur les ménages comprennent :
+
+La taxe foncière correspondant aux propriétés bâties affectées à l'habitation ou à la profession hôtelière, majorée de la
+somme correspondant aux exonérations dont ont bénéficié, en application des dispositions des articles 1383 à 1387 du code
+général des impôts, les constructions nouvelles, additions de constructions et reconstructions ainsi qu'aux exonérations
+permanentes dont ont bénéficié, en application de l'article 1382 du code général des impôts, les résidences universitaires et
+les locaux utilisés au casernement des personnels des armées ;
+
+La taxe foncière sur les propriétés non bâties à concurrence de 30 p. 100 de son produit. Son montant est majoré de la somme
+correspondant aux exonérations dont ont bénéficié, en application de l'article 1394 du code général des impôts, les terrains
+des universités et les terrains affectés aux armées ;
+
+La taxe d'enlèvement des ordures ménagères ou la redevance pour enlèvement des ordures ménagères, prévue à l'article L.
+233-78 du code des communes.
+
+Le total de ces impôts est dénommé "impôts sur les ménages" [*définition*].
+
+La taxe d'enlèvement des ordures ménagères ou la redevance pour enlèvement des ordures ménagères, prévue à l'article L.
+233-78 du code des communes.
+
+Le total de ces impôts est dénommé "impôts sur les ménages".
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - SPEC_APPLI: *ces dispositions ne seront applicables que jusqu'au 1er janvier 1986*
+	  - SPEC_APPLI: Loi n°80-1102 1980-12-31 ART. 22 :
+
+	**Cite**:
+
+	  - CGI 1283 à CGI 1378
+	  - CGI 1383 à CGI 1387
+	  - CODE DES COMMUNES. - art. L233-78 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°77-90 1977-01-27
+
+	**Cité par**:
+
+	  - Loi n°79-15 du 3 janvier 1979 - art. 17 (Ab)
+	  - Loi n°79-15 du 3 janvier 1979 - art. 20 (Ab)
+	  - Loi n°79-15 du 3 janvier 1979 - art. 21 (Ab)
+	  - Décret n°84-62 du 27 janvier 1984 - art. 4 (Ab)
+	  - Décret n°84-108 du 16 février 1984 - art. 7 (V)
+	  - Décret n°85-260 du 22 février 1985 - art. 5 (M)
+	  - Loi n°85-1268 du 29 novembre 1985 - art. 29 (M)
+	  - Loi n°93-1436 du 31 décembre 1993 - art. 26 (Ab)
+	  - Loi n°93-1436 du 31 décembre 1993 - art. 9 (V)
+	  - Décret n°94-704 du 17 août 1994 - art. 10 (Ab)
+	  - Décret n°94-704 du 17 août 1994 - art. 12 (Ab)
+	  - Décret n°94-704 du 17 août 1994 - art. 14 (V)
+	  - Décret n°94-704 du 17 août 1994 - art. 16 (V)
+	  - CODE DES COMMUNES. - art. L234-10 (M)
+	  - CODE DES COMMUNES. - art. L234-11 (M)
+	  - CODE DES COMMUNES. - art. L234-21 (Ab)
+	  - CODE DES COMMUNES. - art. L234-6 (M)
+	  - CODE DES COMMUNES. - art. L234-7 (M)
+	  - CODE DES COMMUNES. - art. L262-5 (Ab)
+	  - CODE DES COMMUNES. - art. R*262-13 (Ab)
+	  - CODE DES COMMUNES. - art. R262-4 (Ab)
+	  - CODE GENERAL DES IMPOTS ANNEXE 2, CGIAN2. - art. 327 DC (Ab)
+
+
+##### Concours particuliers.
+
+###### Article L234-15
+
+Les communes reçoivent un versement supplémentaire à la dotation forfaitaire qui tient compte des accroissements de
+population constatés lors des recensements généraux ou complémentaires, ainsi que de la population fictive correspondant aux
+logements en chantier.
+
+Ce versement est égal à [*définition*] la différence entre la somme, fixée pour 1979 à 150 F par habitant, et le montant par
+habitant de la dotation forfaitaire calculée compte tenu des augmentations de population constatées.
+
+Pour les années ultérieures, la somme de 150 F évolue comme la dotation forfaitaire.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - SPEC_APPLI: *ces dispositions ne seront applicables que jusqu'au 1er janvier 1986*
+	  - SPEC_APPLI: Loi n°80-1102 1980-12-31 ART. 22 :
+	  - TXT_SOURCE: Décret n°85-1514 du 31 décembre 1985
+	  - TXT_SOURCE: Décret n°85-1514 du 31 décembre 1985 - art. 1 (Ab)
+	  - TXT_SOURCE: Décret n°85-1514 du 31 décembre 1985 - art. 2 (Ab)
+	  - TXT_ASSOCIE: CODE DES COMMUNES. - art. L234-12 (M)
+	  - TXT_ASSOCIE: CODE DES COMMUNES. - art. L234-13 (M)
+
+	**Codifié par**:
+
+	  - Décret n°77-90 1977-01-27
+
+	**Créé par**:
+
+	  - Loi n°79-15 1979-01-03 ART. 7 JORF 4 janvier 1979 p. 25
 
 	**Cité par**:
 
@@ -24697,31 +24870,30 @@ industriels et commerciaux, ainsi que du prix de l'eau.
 	  - CODE DES COMMUNES. - art. L262-5 (M)
 	  - CODE DES COMMUNES. - art. R*234-34 (Ab)
 
-	**Cite**:
-
-	  - Code des communes L234-12 à L234-14
-
 	**Nouveaux textes**:
 
 	  - Code général des collectivités territoriales - art. L1211-5 (V)
 
 
-##### Dispositions *applicables* aux diverses sortes d'attribution.
-
 ###### Article L234-16
 
-En aucun cas, les communes ne peuvent recevoir [*montant minimum*] au titre des articles L. 234-6 à L. 234-11 [*attribution
-de garantie*] et L. 234-12 à L. 234-15 [*attribution au prorata*]
+En aucun cas, les communes ayant un potentiel fiscal par habitant inférieur au potentiel moyen par habitant des communes de
+leur groupe démographique ne peuvent recevoir au titre de la dotation globale de fonctionnement une somme totale inférieure à
+180 F par habitant et les départements une somme totale par habitant inférieure à 80 F.
 
-une somme inférieure au produit indexé du nombre de leurs habitants par 53 F [*francs*]. 
+Cette somme est revalorisée chaque année [*fréquence*] ; l'indice de revalorisation est égal [*définition*] au taux de
+progression de la dotation globale de fonctionnement.
 
-L'indice de revalorisation applicable est égal au taux de progression du versement représentatif de la taxe sur les salaires.
+Pour les communes, le montant de la somme garantie [*calcul*] est diminué du tiers du revenu brut moyen des trois dernières
+années du patrimoine communal à l'exclusion du revenu des immeubles bâtis.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Liens**:
 
-	  - Loi n°66-10 1966-01-06 art. 42 1. modifié
+	  - SPEC_APPLI: *ces dispositions ne seront applicables que jusqu'au 1er janvier 1986*
+	  - SPEC_APPLI: Loi n°80-1102 1980-12-31 ART. 22 :
+	  - TXT_ASSOCIE: CODE DES COMMUNES. - art. L234-12 (M)
 
 	**Codifié par**:
 
@@ -24729,11 +24901,7 @@ L'indice de revalorisation applicable est égal au taux de progression du versem
 
 	**Créé par**:
 
-	  - Décret n°77-90 1977-01-27 JORF et JONC 3 février 1977 date d'entrée en vigueur élection des maires
-
-	**Modifié par**:
-
-	  - Loi n°79-15 1979-01-03 art. 7 JORF 4 janvier 1979
+	  - Loi n°79-15 1979-01-03 ART. 7 JORF 4 janvier 1979 p. 25
 
 	**Cité par**:
 
@@ -24742,390 +24910,6 @@ L'indice de revalorisation applicable est égal au taux de progression du versem
 	  - CODE DES COMMUNES. - art. L234-21 (M)
 	  - CODE DES COMMUNES. - art. L234-4 (Ab)
 	  - CODE DES COMMUNES. - art. R*253-4 (M)
-
-	**Liens**:
-
-	  - TXT_ASSOCIE: CODE DES COMMUNES. - art. L234-12 (M)
-
-	**Cite**:
-
-	  - Code des communes L234-6 à L234-15
-
-
-###### Article L234-17
-
-Lorsque le revenu brut annuel du patrimoine communal, à l'exclusion du revenu des immeubles bâtis, a dépassé 4 F [*francs*]
-par habitant en moyenne au cours des trois exercices précédents, le tiers du revenu brut en excédent est ajouté aux
-attributions des articles L. 234-6 à L. 234-11 [*attributions de garantie*] et L. 234-12 à L. 234-15 [*attributions au
-prorata*] pour l'application des dispositions de l'article précédent [*montant minimum des attributions à recevoir*]. 
-
-Lorsqu'il s'agit de ventes de bois abattus, le revenu à prendre en compte [**]définition[**] est le produit de la vente
-diminué de 40 p. 100 [*pourcentage*].
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°66-10 1966-01-06 art. 42 2. complété
-
-	**Codifié par**:
-
-	  - Décret n°77-90 1977-01-27
-
-	**Créé par**:
-
-	  - Décret n°77-90 1977-01-27 JORF et JONC 3 février 1977 date d'entrée en vigueur élection des maires
-
-	**Modifié par**:
-
-	  - Loi n°79-15 1979-01-03 art. 7 JORF 4 janvier 1979
-
-	**Liens**:
-
-	  - TXT_SOURCE: Décret n°82-998 du 17 novembre 1982
-	  - TXT_SOURCE: Décret n°82-998 du 17 novembre 1982 - art. 1 (V)
-	  - TXT_SOURCE: Décret n°82-998 du 17 novembre 1982 - art. 2 (V)
-	  - TXT_SOURCE: Décret n°82-998 du 17 novembre 1982 - art. 3 (V)
-
-	**Cité par**:
-
-	  - Loi n°83-636 du 13 juillet 1983 - art. 31 bis (Ab)
-	  - Décret n°85-260 du 22 février 1985 - art. 3-1 (M)
-	  - CODE DES COMMUNES. - art. L234-11-1 (Ab)
-	  - CODE DES COMMUNES. - art. L234-18 (M)
-	  - CODE DES COMMUNES. - art. R*234-2 (M)
-	  - CODE GENERAL DES IMPOTS, CGI. - art. 1648 B (M)
-
-	**Cite**:
-
-	  - Code des communes L234-6 à L234-11, L234-12 à L234-15
-
-
-###### Article L234-18
-
-Les sommes nécessaires à la mise en oeuvre de la garantie définie aux articles L. 234-16 et L. 234-17 [*montant minimum des
-attributions à recevoir*] sont prélevées sur les ressources du fonds d'action locale prévu à l'article L. 234-5.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°66-10 1966-01-06 art. 42 4.
-	  - CODE DES COMMUNES. - art. L234-11 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°77-90 1977-01-27
-
-	**Créé par**:
-
-	  - Décret n°77-90 1977-01-27 JORF et JONC 3 février 1977 date d'entrée en vigueur élection des maires
-
-	**Modifié par**:
-
-	  - Loi n°79-15 1979-01-03 art. 7 JORF 4 janvier 1979
-
-	**Cite**:
-
-	  - CODE DES COMMUNES. - art. L234-16 (M)
-	  - CODE DES COMMUNES. - art. L234-17 (M)
-	  - CODE DES COMMUNES. - art. L234-5 (M)
-
-	**Cité par**:
-
-	  - CODE DES COMMUNES. - art. L234-21 (M)
-
-
-###### Article L234-19
-
-Les attributions prévues aux articles L. 234-6 à L. 234-11 [*attributions de garantie*] et L. 234-12 à L. 234-15
-[*attributions au prorata*] font l'objet de versements mensuels [*fréquence*] aux communes selon des modalités qui sont
-prises par un décret en Conseil d'Etat. 
-
-Ce décret détermine notamment les conditions dans lesquelles est fixé, pour chaque exercice, le montant prévisionnel du
-versement représentatif de la taxe sur les salaires servant de base pour le calcul des attributions prévues aux articles L.
-234-6 à L. 234-11 et L. 234-12 à L. 234-15 et du prélèvement [*effectué au profit du fonds d'action locale*] institué par
-l'article L. 234-5 ci-dessus. 
-
-Il précise, d'autre part, les modalités de report des soldes résultant des écarts qui peuvent apparaître entre le montant
-prévisionnel et le produit effectif de l'impôt.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°66-10 1966-01-06 art. 44
-
-	**Codifié par**:
-
-	  - Décret n°77-90 1977-01-27
-
-	**Créé par**:
-
-	  - Décret n°77-90 1977-01-27 JORF et JONC 3 février 1977 date d'entrée en vigueur élection des maires
-
-	**Modifié par**:
-
-	  - Loi n°79-15 1979-01-03 art. 7 JORF 4 janvier 1979
-
-	**Cité par**:
-
-	  - Loi n°93-1436 du 31 décembre 1993 - art. 16 (V)
-	  - CODE DES COMMUNES. - art. R*234-3 (M)
-
-	**Cite**:
-
-	  - Code des communes L234-5 à L234-15
-
-
-##### Allocation compensatrice.
-
-###### Article L234-20
-
-Une allocation compensatrice est attribuée aux communes qui remplissent simultanément les deux conditions suivantes :
-
-1° Avoir, deux années avant l'année considérée, recouvré par habitant, au titre des impôts et taxes [*sur les propriétés
-bâties et sur les habitants ou mis à la charge de ces derniers à raison des logements dont ils disposent et de leurs
-dépendances*]
-
-mentionnés aux articles L. 234-12 à L. 234-15, une somme supérieure d'au moins 5 p. 100 [*pourcentage*] à la moyenne
-constatée pour les collectivités ou pour les groupements de collectivités dotés d'une fiscalité propre, appartenant à la même
-tranche de population [*écart de pression fiscale*]. 
-
-2° Avoir reçu l'année précédente, en application des articles L. 234-6 à L. 234-11 [*attribution de garantie*], L. 234-12 à
-L. 234-15 [*attribution au prorata*] et L. 234-25 à L. 234-27 [*allocations versées aux communes touristiques et thermales*],
-des recettes progressant, par rapport à l'année antérieure, selon un taux inférieur à celui du montant global du versement
-représentatif de la taxe sur les salaires au titre des mêmes articles. 
-
-La condition énoncée au 1° ci-dessus est appréciée en ajoutant au produit des impôts et taxes prévus aux articles L. 234-12 à
-L. 234-15 et que les communes mettent elles-mêmes en recouvrement, le montant des impôts et taxes de même nature
-éventuellement recouvrés sur leur territoire pour le compte d'une communauté urbaine, d'un district ou d'un syndicat de
-communes.
-
-**Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - SPEC_APPLI: *Dispositions non applicables aux communes des départements de la Guadeloupe, de la Guyane, de la Martinique, de la Réunion et de Saint-Pierre-et-Miquelon*
-	  - TXT_ASSOCIE: CODE DES COMMUNES. - art. L234-21 (M)
-	  - SPEC_APPLI: CODE DES COMMUNES. - art. L262-1 (M)
-	  - TXT_ASSOCIE: CODE DES COMMUNES. - art. L263-19 (Ab)
-	  - SPEC_APPLI: Code des communes L262-1, L262-10 :
-
-	**Anciens textes**:
-
-	  - Loi n°66-10 1966-01-06 art. 41 bis A et C
-
-	**Codifié par**:
-
-	  - Décret n°77-90 1977-01-27
-
-	**Créé par**:
-
-	  - Décret n°77-90 1977-01-27 JORF et JONC 3 février 1977 date d'entrée en vigueur élection des maires
-
-	**Modifié par**:
-
-	  - Loi n°79-15 1979-01-03 art. 7 JORF 4 janvier 1979
-
-	**Cité par**:
-
-	  - Loi n°79-15 du 3 janvier 1979 - art. 17 (Ab)
-	  - Loi n°79-1150 du 29 décembre 1979 - art. 37 (Ab)
-	  - Loi n°80-10 du 10 janvier 1980 - art. 6 (V)
-	  - Loi n°89-936 du 29 décembre 1989 - art. 47 (Ab)
-	  - Loi n°89-936 du 29 décembre 1989 - art. 89 (P)
-	  - Loi n°89-936 du 29 décembre 1989 - art. 90 (P)
-	  - Loi n°93-1352 du 30 décembre 1993 - art. 52 (V)
-	  - CODE DES COMMUNES. - art. L234-1 (M)
-	  - CODE DES COMMUNES. - art. L234-12 (Ab)
-	  - CODE DES COMMUNES. - art. L234-14 (M)
-	  - CODE DES COMMUNES. - art. L234-21 (M)
-	  - CODE DES COMMUNES. - art. L234-22 (Ab)
-	  - CODE DES COMMUNES. - art. L234-9 (Ab)
-	  - CODE DES COMMUNES. - art. L263-15 (Ab)
-	  - CODE DES COMMUNES. - art. L263-19 (Ab)
-	  - CODE DES COMMUNES. - art. R234-4 (M)
-	  - CODE GENERAL DES IMPOTS, CGI. - art. 1648 A bis (M)
-	  - CODE GENERAL DES IMPOTS, CGI. - art. 1648 B (M)
-	  - Code rural - art. L121-16 (M)
-	  - Code rural ancien - art. 5-1 (Ab)
-
-	**Cite**:
-
-	  - Code des communes L234-6 à L234-15, L234-25 à L234-27
-
-
-###### Article L234-21
-
-L'allocation compensatrice tient compte de l'écart de pression fiscale prévu au premier alinéa de l'article L. 234-20, sans
-que le taux d'augmentation du montant total des sommes reçues par la commune bénéficiaire au titre des articles L. 234-6 à L.
-234-11 [*attribution de garantie*], L. 234-12 à L. 234-15 [*attribution au prorata*] et L. 234-25 à L. 234-27 [*allocations
-versées aux communes touristiques et thermales*], puisse être supérieur [*maximum*] à celui du montant global du versement
-représentatif de la taxe sur les salaires se rapportant à ces mêmes articles.
-
-**Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - SPEC_APPLI: *Dispositions non applicables aux communes des départements de la Guadeloupe, de la Guyane, de la Martinique, de la Réunion et de Saint-Pierre-et-Miquelon*
-	  - TXT_ASSOCIE: CODE DES COMMUNES. - art. L234-20 (M)
-	  - SPEC_APPLI: CODE DES COMMUNES. - art. L262-1 (M)
-	  - SPEC_APPLI: Code des communes L262-1, L262-10 :
-
-	**Anciens textes**:
-
-	  - Loi n°66-10 1966-01-06 art. 41 bis B
-
-	**Codifié par**:
-
-	  - Décret n°77-90 1977-01-27
-
-	**Créé par**:
-
-	  - Décret n°77-90 1977-01-27 JORF et JONC 3 février 1977 date d'entrée en vigueur élection des maires
-
-	**Modifié par**:
-
-	  - Loi n°79-15 1979-01-03 art. 7 JORF 4 janvier 1979
-
-	**Cite**:
-
-	  - CODE DES COMMUNES. - art. L234-20 (M)
-	  - Code des communes L234-6 à L234-11
-
-	**Cité par**:
-
-	  - CODE DES COMMUNES. - art. L263-19 (Ab)
-
-	**Nouveaux textes**:
-
-	  - Code général des collectivités territoriales - art. L1211-3 (V)
-
-
-###### Article L234-22
-
-L'allocation compensatrice est prélevée sur les ressources appelées à revenir, en application des articles L. 234-12 à L.
-234-15 [*attribution au prorata*], aux collectivités autres que celles de la région d'Ile-de-France [*région parisienne*] et
-des départements d'outre-mer.
-
-**Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - SPEC_APPLI: *Dispositions non applicables aux communes des départements de la Guadeloupe, de la Guyane, de la Martinique, de la Réunion et de Saint-Pierre-et-Miquelon*
-	  - SPEC_APPLI: CODE DES COMMUNES. - art. L262-1 (M)
-	  - SPEC_APPLI: Code des communes L262-1, L262-10 :
-
-	**Anciens textes**:
-
-	  - Loi n°66-10 1966-01-06 art. 41 bis E
-
-	**Codifié par**:
-
-	  - Décret n°77-90 1977-01-27
-
-	**Créé par**:
-
-	  - Décret n°77-90 1977-01-27 JORF et JONC 3 février 1977 date d'entrée en vigueur élection des maires
-
-	**Modifié par**:
-
-	  - Loi n°79-15 1979-01-03 art. 7 JORF 4 janvier 1979 p. 25
-
-	**Cite**:
-
-	  - Code des communes L234-12 à L234-15
-
-	**Nouveaux textes**:
-
-	  - Code général des collectivités territoriales - art. L2334-24 (V)
-
-
-#### Versement représentatif de la taxe sur les salaires
-
-##### Attribution de garantie.
-
-###### Article L234-8
-
-Pour 1968, l'attribution de garantie est égale à la plus élevée des deux sommes suivantes :
-
-1° Produit du nombre des habitants par une somme de 53 F ;
-
-2° Montant encaissé, en 1967, sur les produits de la taxe locale sur le chiffre d'affaires, de ses pénalités, de la fraction
-de la taxe de circulation sur les viandes affectée aux budgets des communes et de la taxe sur les locaux loués en garni,
-majoré dans la même proportion que la variation de 1967 à 1968 du produit du versement représentatif de la taxe sur les
-salaires définie à l'article 39-2 de la loi n° 66-10 du 6 janvier 1966.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Loi n°66-10 1966-01-06 art. 39-2
-
-	**Anciens textes**:
-
-	  - Loi n°66-10 1966-01-06 art. 40 2.
-
-	**Codifié par**:
-
-	  - Décret n°77-90 1977-01-27
-
-	**Cité par**:
-
-	  - Décret n°83-621 du 8 juillet 1983 - art. 1 (V)
-	  - Décret n°84-62 du 27 janvier 1984 - art. 4 (Ab)
-	  - Décret n°85-260 du 22 février 1985 - art. 5 (M)
-	  - Loi n°85-1268 du 29 novembre 1985 - art. 29 (M)
-	  - CODE DES COMMUNES. - art. L234-6 (M)
-	  - CODE DES COMMUNES. - art. L234-7 (Ab)
-	  - CODE DES COMMUNES. - art. L234-9 (Ab)
-	  - CODE DES COMMUNES. - art. L262-5 (Ab)
-	  - CODE GENERAL DES IMPOTS ANNEXE 2, CGIAN2. - art. 327 DC (Ab)
-
-
-#### AUTRES RECETTES REPARTIES PAR LE FONDS D'ACTION LOCALE
-
-##### ORGANISATION DU FONDS
-
-###### Article L234-23
-
-Le fonds d'action locale est géré par un comité comprenant en majorité [*composition*] des représentants élus des
-départements, des communes et de leurs groupements. 
-
-Ce comité est informé des conditions d'application aux collectivités locales et à leurs groupements du présent chapitre
-[*relatif au V.R.T.S. et autres recettes réparties par le fonds*].
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°66-10 1966-01-06 art. 39 3. al. 1 et 2
-
-	**Codifié par**:
-
-	  - Décret n°77-90 1977-01-27
-
-	**Créé par**:
-
-	  - Décret n°77-90 1977-01-27 JORF et JONC 3 février 1977 date d'entrée en vigueur élection des maires
-
-	**Modifié par**:
-
-	  - Loi n°79-15 1979-01-03 art. 7 JORF 4 janvier 1979 p. 25
-
-	**Cité par**:
-
-	  - CODE DES COMMUNES. - art. L262-1 (M)
-	  - CODE DES COMMUNES. - art. L262-10 (M)
-
-	**Cite**:
-
-	  - Code des communes L234-1 à L234-40
-
-	**Nouveaux textes**:
-
-	  - Code général des collectivités territoriales - art. L2334-25 (V)
 
 
 #### AVANCES .
@@ -25358,6 +25142,476 @@ Les communes peuvent accorder leur garantie à des emprunts dans les conditions 
 	  - Code des communes L121-38 2°
 
 
+### DOTATION GLOBALE DE FONCTIONNEMENT ET AUTRES RECETTES REPARTIES PAR LE COMITE DES FINANCES LOCALES
+
+#### DOTATION FORFAITAIRE
+
+###### Article L234-2
+
+Chaque commune perçoit une dotation forfaitaire :
+
+Pour 1979 [*date*], la part des ressources affectée à la dotation forfaitaire est fixée à [*montant*] 57,5 p. 100 du solde
+disponible de la dotation globale après déduction des sommes prévues pour les concours particuliers institués par l'article
+L. 234-12.
+
+Pour 1980, cette part est fixée à 55 p. 100 [*pourcentage*] du solde disponible défini à l'alinéa précédent.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°77-90 1977-01-27
+
+	**Cité par**:
+
+	  - Loi n°79-15 du 3 janvier 1979 - art. 17 (Ab)
+	  - Décret n°83-1123 du 23 décembre 1983 - art. 6 (Ab)
+	  - Décret n°85-260 du 22 février 1985 - art. 5 (V)
+	  - Loi n°85-1268 du 29 novembre 1985 - art. 28 (Ab)
+	  - Loi n°85-1268 du 29 novembre 1985 - art. 29 (M)
+	  - Décret n°85-1512 du 31 décembre 1985 - art. 1 (Ab)
+	  - Décret n°86-323 du 3 mars 1986 - art. 2 (V)
+	  - Décret n°94-366 du 10 mai 1994 - art. 9 (Ab)
+	  - CODE DES COMMUNES. - art. L165-7-1 (Ab)
+	  - CODE DES COMMUNES. - art. L234-4 (Ab)
+	  - CODE DES COMMUNES. - art. L234-7 (Ab)
+	  - CODE DES COMMUNES. - art. L234-8 (Ab)
+	  - CODE DES COMMUNES. - art. L262-5 (M)
+	  - CODE DES COMMUNES. - art. L263-13 (M)
+	  - CODE DES COMMUNES. - art. L263-14 (Ab)
+	  - CODE DES COMMUNES. - art. L263-15 (Ab)
+	  - CODE DES COMMUNES. - art. R*234-13 (Ab)
+	  - CODE DES COMMUNES. - art. R*234-16 (Ab)
+	  - CODE DES COMMUNES. - art. R*234-2 (Ab)
+	  - CODE DES COMMUNES. - art. R*234-8 (Ab)
+	  - CODE DES COMMUNES. - art. R*263-40 (M)
+	  - Code général des collectivités territoriales - art. L2334-7 (M)
+
+	**Liens**:
+
+	  - TXT_SOURCE: Décret n°85-1511 du 31 décembre 1985
+	  - TXT_SOURCE: Décret n°85-1511 du 31 décembre 1985 - art. 1 (Ab)
+	  - TXT_SOURCE: Décret n°85-1511 du 31 décembre 1985 - art. 2 (Ab)
+	  - TXT_SOURCE: Décret n°85-1511 du 31 décembre 1985 - art. 3 (Ab)
+
+	**Cite**:
+
+	  - CODE DES COMMUNES. - art. L234-12 (M)
+
+
+###### Article L234-3
+
+La dotation forfaitaire est proportionnelle [*montant*] au total des sommes perçues par chaque commune pour l'exercice 1978,
+au titre :
+
+de l'attribution de garantie du versement représentatif de la taxe sur les salaires majorée de l'ajustement pour
+accroissement démographique, avant prélèvement éventuel au profit des communautés urbaines ;
+
+de l'allocation compensatrice s'il y a lieu ;
+
+des recettes provenant de la répartition générale des ressources du fonds d'action locale ;
+
+du versement représentatif de l'impôt afférent aux spectacles de cinéma et de télévision ainsi qu'aux théàtres et spectacles
+divers ;
+
+de la subvention de l'Etat au titre de sa participation aux dépenses d'intérêt général des collectivités locales.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°77-90 1977-01-27
+
+	**Cité par**:
+
+	  - Loi n°79-15 du 3 janvier 1979 - art. 17 (Ab)
+	  - Loi n°83-1186 du 29 décembre 1983 - art. 4 (Ab)
+	  - Loi n°83-1186 du 29 décembre 1983 - art. 5 (Ab)
+	  - CODE DES COMMUNES. - art. L262-5 (M)
+	  - CODE DES COMMUNES. - art. L263-13 (Ab)
+	  - CODE GENERAL DES IMPOTS, CGI. - art. 1648 B bis (M)
+
+	**Nouveaux textes**:
+
+	  - Code général des collectivités territoriales - art. L2334-3 (V)
+
+
+#### DOTATION DE PEREQUATION
+
+###### Article L234-6
+
+Chaque commune reçoit une dotation de péréquation qui tient compte de son potentiel fiscal défini à l'article L 234-8 et du
+montant des impôts énoncés à l'article L. 234-9, qu'elle a établis l'année précédente.
+
+Les groupements de communes à fiscalité propre reçoivent également une dotation de péréquation.
+
+Pour 1979, la part des ressources affectée à la dotation de péréquation est fixée à 42,5 p. 100 du solde disponible de la
+dotation globale, après déduction des sommes prévues pour les concours particuliers institués par l'article L. 234-12.
+
+Pour 1980, cette part est fixée à 45 p. 100 du solde disponible défini ci-dessus.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°77-90 1977-01-27
+
+	**Cité par**:
+
+	  - Loi n°79-15 du 3 janvier 1979 - art. 15 (Ab)
+	  - Loi n°79-15 du 3 janvier 1979 - art. 16 (Ab)
+	  - Loi n°79-15 du 3 janvier 1979 - art. 17 (Ab)
+	  - Loi n°79-15 du 3 janvier 1979 - art. 21 (Ab)
+	  - Loi n°82-1126 du 29 décembre 1982 - art. 91 (P)
+	  - Décret n°85-260 du 22 février 1985 - art. 5 (V)
+	  - Loi n°85-1268 du 29 novembre 1985 - art. 38 (Ab)
+	  - Décret n°86-323 du 3 mars 1986 - art. 2 (V)
+	  - Décret n°92-952 du 3 septembre 1992 - art. 2 (V)
+	  - Décret n°93-258 du 26 février 1993 - art. 1 (Ab)
+	  - CODE DES COMMUNES. - art. L234-11 (Ab)
+	  - CODE DES COMMUNES. - art. L234-14-1 (Ab)
+	  - CODE DES COMMUNES. - art. L234-14-2 (Ab)
+	  - CODE DES COMMUNES. - art. L234-19-1 (Ab)
+	  - CODE DES COMMUNES. - art. L234-4 (Ab)
+	  - CODE DES COMMUNES. - art. L234-5 (Ab)
+	  - CODE DES COMMUNES. - art. L234-9 (Ab)
+	  - CODE DES COMMUNES. - art. L262-10 (Ab)
+	  - CODE DES COMMUNES. - art. L262-5 (M)
+	  - CODE DES COMMUNES. - art. L263-13 (M)
+	  - CODE DES COMMUNES. - art. L263-15 (M)
+	  - CODE DES COMMUNES. - art. R*212-8 (Ab)
+	  - CODE DES COMMUNES. - art. R*234-2 (M)
+	  - CODE DES COMMUNES. - art. R*234-33 (M)
+	  - CODE DES COMMUNES. - art. R*263-40 (M)
+	  - CODE DES COMMUNES. - art. R*263-50 (M)
+	  - CODE GENERAL DES IMPOTS, CGI. - art. 1648 B (M)
+
+	**Liens**:
+
+	  - TXT_SOURCE: Décret n°93-270 du 1 mars 1993
+	  - TXT_SOURCE: Décret n°93-270 du 1 mars 1993 - art. 2 (V)
+	  - SPEC_APPLI: Code des communes L262-10 :
+	  - SPEC_APPLI: Dispositions applicables aux communes du département de Saint-Pierre-et-Miquelon
+
+	**Cite**:
+
+	  - CODE DES COMMUNES. - art. L234-12 (M)
+	  - CODE DES COMMUNES. - art. L234-8 (M)
+
+
+###### Article L234-7
+
+Les ressources affectées à la dotation de péréquation se répartissent entre les communes en deux parts.
+
+La première part est répartie en partant de l'attribution moyenne par habitant calculée en divisant le montant de cette part
+par le nombre d'habitants concernés.
+
+Le calcul de la part revenant à chaque commune se fait à l'intérieur de son groupe démographique de communes, de façon à
+égaliser le potentiel fiscal par habitant à l'intérieur du groupe.
+
+L'attribution moyenne nationale par habitant correspond dans chaque groupe à l'attribution d'une moyenne ayant, par habitant,
+le potentiel fiscal moyen du groupe démographique.
+
+La dotation revenant à chaque commune est égale à l'attribution moyenne nationale par habitant, majorée ou minorée
+proportionnellement à la moitié de l'écart entre son potentiel fiscal par habitant et le potentiel fiscal moyen par habitant
+de l'ensemble des communes appartenant au même groupe démographique. Aucune recette n'est versée à ce titre aux communes dont
+le potentiel fiscal par habitant est supérieur au triple du potentiel fiscal moyen par habitant de leur groupe démographique.
+
+Pour 1979, la part de ressources répartie en fonction du potentiel fiscal est fixée à 20 p. 100 du total de la dotation de
+péréquation. Pour 1980, cette part est égale à 25 p. 100.
+
+La seconde part est calculée proportionnellement au montant des impôts énumérés à l'article L. 234-9.
+
+Les groupes démographiques dans lesquels la péréquation est effectuée à partir du potentiel fiscal sont les suivants : 0 à
+499, 500 à 999, 1.000 à 1.999, 2.000 à 3.499, 3.500 à 4.999, 5.000 à 7.499, 7.500 à 9.999, 10.000 à 14.999, 15.000 à 19.999,
+20.000 à 34.999, 35.000 à 49.999, 50.000 à 74.999, 75.000 à 99.999, 100.000 à 199.999, 200.000 et plus.
+
+Pour les groupements de communes qui se sont dotés d'une fiscalité propre, la dotation de péréquation est intégralement
+répartie en fonction des impôts énoncés à l'article L. 234-9.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°77-90 1977-01-27
+
+	**Cité par**:
+
+	  - Loi n°79-15 du 3 janvier 1979 - art. 17 (Ab)
+	  - Loi n°79-15 du 3 janvier 1979 - art. 21 (Ab)
+	  - Loi n°82-1126 du 29 décembre 1982 - art. 91 (P)
+	  - Loi n°83-8 du 7 janvier 1983 - art. 103 (M)
+	  - Décret n°83-117 du 18 février 1983 - art. 16 (Ab)
+	  - Décret n°83-621 du 8 juillet 1983 - art. 1 (V)
+	  - Décret n°83-621 du 8 juillet 1983 - art. 4 (V)
+	  - Décret n°84-62 du 27 janvier 1984 - art. 4 (Ab)
+	  - Loi n°85-1268 du 29 novembre 1985 - art. 29 (M)
+	  - Loi n°85-1268 du 29 novembre 1985 - art. 38 (M)
+	  - CODE DES COMMUNES. - art. L233-29 (Ab)
+	  - CODE DES COMMUNES. - art. L233-45 (Ab)
+	  - CODE DES COMMUNES. - art. L234-10-3 (Ab)
+	  - CODE DES COMMUNES. - art. L234-11-1 (Ab)
+	  - CODE DES COMMUNES. - art. L234-5 (M)
+	  - CODE DES COMMUNES. - art. L234-7-1 (Ab)
+	  - CODE DES COMMUNES. - art. L234-9 (Ab)
+	  - CODE DES COMMUNES. - art. L262-10 (Ab)
+	  - CODE DES COMMUNES. - art. L262-5 (Ab)
+	  - CODE DES COMMUNES. - art. L263-13 (M)
+	  - CODE GENERAL DES IMPOTS ANNEXE 2, CGIAN2. - art. 327 DC (Ab)
+	  - CODE GENERAL DES IMPOTS, CGI. - art. 1648 B (M)
+
+	**Nouveaux textes**:
+
+	  - CODE DES COMMUNES. - art. L234-6 (M)
+
+	**Liens**:
+
+	  - SPEC_APPLI: Code des communes L262-10 :
+	  - SPEC_APPLI: Dispositions applicables aux communes du département de Saint-Pierre-et-Miquelon
+
+
+#### CONCOURS PARTICULIERS
+
+###### Article L234-12
+
+Dans les cas prévus aux articles suivants, des concours particuliers peuvent être apportés aux communes et à certains de
+leurs groupements.
+
+La part des ressources affectées aux concours particuliers, fixée à 5 p. 100 de la dotation globale de fonctionnement, peut
+être portée jusqu'à 6 p. 100 par le comité des finances locales institué par l'article L. 234-20.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°77-90 1977-01-27
+
+	**Cité par**:
+
+	  - Loi n°79-15 du 3 janvier 1979 - art. 15 (Ab)
+	  - Loi n°79-15 du 3 janvier 1979 - art. 16 (Ab)
+	  - Loi n°79-15 du 3 janvier 1979 - art. 17 bis (Ab)
+	  - Loi n°85-1268 du 29 novembre 1985 - art. 34 bis (Ab)
+	  - Loi n°91-429 du 13 mai 1991 - art. 4 (M)
+	  - Loi n°95-115 du 4 février 1995 - art. 73 (Ab)
+	  - Loi n°96-241 du 26 mars 1996 - art. 9 (V)
+	  - CODE DES COMMUNES. - art. L234-14 (M)
+	  - CODE DES COMMUNES. - art. L234-14-1 (Ab)
+	  - CODE DES COMMUNES. - art. L234-19-1 (M)
+	  - CODE DES COMMUNES. - art. L234-2 (M)
+	  - CODE DES COMMUNES. - art. L234-4 (Ab)
+	  - CODE DES COMMUNES. - art. L234-6 (M)
+	  - CODE DES COMMUNES. - art. L262-10 (Ab)
+	  - CODE DES COMMUNES. - art. L262-5 (M)
+	  - CODE DES COMMUNES. - art. L263-13 (M)
+	  - CODE DES COMMUNES. - art. L263-15 (Ab)
+	  - CODE DES COMMUNES. - art. R*234-12 (M)
+	  - CODE DES COMMUNES. - art. R*234-7 (Ab)
+	  - CODE DES COMMUNES. - art. R*234-8 (Ab)
+	  - CODE DES COMMUNES. - art. R*234-9 (Ab)
+	  - CODE DES COMMUNES. - art. R*263-40 (M)
+	  - CODE DES COMMUNES. - art. R262-4 (M)
+	  - CODE GENERAL DES IMPOTS, CGI. - art. 1466 A (M)
+	  - CODE GENERAL DES IMPOTS, CGI. - art. 1648 B (M)
+	  - Code de la construction et de l'habitation. - art. L301-3-1 (M)
+	  - Code de la construction et de l'habitation. - art. L302-5 (M)
+	  - Code de la construction et de l'habitation. - art. L302-5-1 (Ab)
+	  - Code de la construction et de l'habitation. - art. L302-8 (M)
+
+	**Cite**:
+
+	  - CODE DES COMMUNES. - art. L234-20 (M)
+
+	**Liens**:
+
+	  - SPEC_APPLI: Code des communes L262-10 :
+	  - SPEC_APPLI: Dispositions applicables aux communes du département de Saint-Pierre-et-Miquelon
+
+
+###### Article L234-14
+
+Les communes touristiques ou thermales, et leurs groupements, dont la liste est arrêtée après avis du comité des finances
+locales institué par l'article L. 234-20, reçoivent une dotation supplémentaire destinée à tenir compte de leurs charges
+exceptionnelles.
+
+Le montant de cette dotation est calculé en fonction de l'importance de la population permanente, de la capacité d'accueil
+existante ou en voie de création ainsi que des équipements collectifs, touristiques ou thermaux et de l'insuffisance du
+potentiel fiscal par habitant de la commune considérée par rapport au potentiel fiscal moyen par habitant de l'ensemble des
+collectivités bénéficiaires.
+
+Le montant global de la dotation est fixé chaque année par le comité des finances locales. Il ne peut être inférieur à 20 p.
+100 ni supérieur à 30 p. 100 des ressources affectées aux concours particuliers. Pour 1979, ce concours est fixé à 25 p. 100.
+
+La part réservée aux communes thermales ne pourra être inférieure au dixième du montant prévu au troisième alinéa.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°77-90 1977-01-27
+
+	**Cité par**:
+
+	  - Loi n°79-15 du 3 janvier 1979 - art. 25 (Ab)
+	  - Loi n°83-1186 du 29 décembre 1983 - art. 10 (Ab)
+	  - Loi n°85-1268 du 29 novembre 1985 - art. 28 (Ab)
+	  - Loi n°85-1268 du 29 novembre 1985 - art. 29 (M)
+	  - Loi n°85-1268 du 29 novembre 1985 - art. 42 (V)
+	  - Loi n°86-972 du 19 août 1986 - art. 45 (V)
+	  - CODE DES COMMUNES. - art. L233-29 (M)
+	  - CODE DES COMMUNES. - art. L234-10 (Ab)
+	  - CODE DES COMMUNES. - art. L234-17 (Ab)
+	  - CODE DES COMMUNES. - art. L234-19-1 (M)
+	  - CODE DES COMMUNES. - art. L234-19-2 (Ab)
+	  - CODE DES COMMUNES. - art. L234-2 (M)
+	  - CODE DES COMMUNES. - art. L234-21 (Ab)
+	  - CODE DES COMMUNES. - art. L234-7 (Ab)
+	  - CODE DES COMMUNES. - art. L262-5 (Ab)
+	  - CODE DES COMMUNES. - art. R*212-7 (Ab)
+	  - CODE DES COMMUNES. - art. R*234-17 (Ab)
+	  - CODE GENERAL DES IMPOTS, CGI. - art. 1648 B (M)
+	  - Code général des collectivités territoriales - art. L2334-21 (M)
+	  - Code général des collectivités territoriales - art. L2334-7 (V)
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: CODE DES COMMUNES. - art. L234-12 (M)
+	  - TXT_ASSOCIE: CODE DES COMMUNES. - art. L234-13 (M)
+
+	**Cite**:
+
+	  - CODE DES COMMUNES. - art. L234-20 (M)
+
+	**Nouveaux textes**:
+
+	  - Code général des collectivités territoriales - art. L1613-5 (V)
+
+
+###### Article L234-17
+
+Les communes centres d'une unité urbaine bénéficient d'une dotation particulière destinée à tenir compte des charges qui
+résultent de l'utilisation de leurs équipements par une population extérieure.
+
+Cette dotation n'est accordée à la commune centre que si la population de l'unité urbaine à laquelle elle appartient
+représente au moins 10 p. 100 de la population du département et que si, par rapport à l'année précédente, la dotation
+globale de fonctionnement de la commune centre a évolué moins favorablement que la dotation globale de fonctionnement versée
+à l'ensemble des communes.
+
+Le montant global des sommes à répartir en application du présent article est fixé chaque année par le comité des finances
+locales [*autorité compétente*]. Pour 1979, ce montant global est de 15 p. 100 de la dotation afférente aux concours
+particuliers.
+
+La dotation revenant à chacune des communes centres concernées est proportionnelle au montant de sa dotation globale de
+fonctionnement pondéré par un coefficient égal au rapport entre la population de l'unité urbaine, à l'exclusion de celle de
+la commune centre, résidant dans le département, et la population totale de l'unité urbaine habitant ce même département.
+
+Lorsqu'une commune remplit les conditions requises pour bénéficier à la fois de la dotation instituée par le présent article
+et de la dotation particulière instituée par l'article L. 234-14 en faveur des communes touristiques ou thermales, seule la
+plus élevée des deux dotations lui est versée.
+
+Pour l'application, en 1979, du deuxième alinéa, l'évolution en pourcentage de la dotation globale est calculée par rapport
+au montant total des recettes perçues pour l'exercice 1978 au titre :
+
+Du versement représentatif de la taxe sur les salaires, à l'exclusion de l'allocation supplémentaire aux communes
+touristiques ou thermales, aux stations nouvelles et à leurs groupements ;
+
+Du versement représentatif de l'impôt afférent aux spectacles de cinéma et de télévision ainsi qu'aux théâtres et spectacles
+divers ;
+
+Et de la subvention de l'Etat au titre de sa participation aux dépenses d'intérêt général des collectivités locales.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°77-90 1977-01-27
+
+	**Liens**:
+
+	  - TXT_SOURCE: Décret n°82-998 du 17 novembre 1982
+	  - TXT_SOURCE: Décret n°82-998 du 17 novembre 1982 - art. 1 (V)
+	  - TXT_SOURCE: Décret n°82-998 du 17 novembre 1982 - art. 2 (V)
+	  - TXT_SOURCE: Décret n°82-998 du 17 novembre 1982 - art. 3 (V)
+
+	**Cité par**:
+
+	  - Loi n°83-636 du 13 juillet 1983 - art. 31 bis (Ab)
+	  - Décret n°85-260 du 22 février 1985 - art. 3-1 (M)
+	  - CODE DES COMMUNES. - art. L234-11-1 (Ab)
+	  - CODE DES COMMUNES. - art. L234-18 (M)
+	  - CODE DES COMMUNES. - art. R*234-2 (M)
+	  - CODE GENERAL DES IMPOTS, CGI. - art. 1648 B (M)
+
+	**Cite**:
+
+	  - CODE DES COMMUNES. - art. L234-14 (M)
+
+
+#### COMITE DES FINANCES LOCALES
+
+###### Article L234-20
+
+Il est créé un comité des finances locales [*définition*] composé de membres des assemblées parlementaires et de
+représentants élus des départements, des communes et de leurs groupements, ainsi que de représentants des administrations de
+l'Etat.
+
+Le comité comprend :
+
+Deux [*nombre*] députés élus par l'Assemblée nationale ;
+
+Deux sénateurs élus par le Sénat ;
+
+Quatre présidents de conseils généraux élus par le collège des présidents de conseils généraux ;
+
+Quatre présidents de groupements de communes élus par le collège des présidents de groupements de communes à raison d'un ou
+au moins pour les communautés urbaines, d'un autre pour les districts, d'un autre pour les syndicats et d'un autre pour les
+organismes institués en vue de la création d'une agglomération nouvelle ;
+
+Quinze maires élus par le collège des maires de France, dont un au moins pour les départements d'outre-mer, un pour les
+territoires d'outre-mer, un pour les communes touristiques et trois pour les communes de moins de 2.000 habitants ;
+
+Neuf représentants de l'Etat désignés par décret.
+
+Il est présidé par un élu désigné par le comité en son sein. Le comité est renouvelable tous les trois ans.
+
+En cas d'empêchement, les membres du comité des finances locales, à l'exception des parlementaires et des fonctionnaires
+représentant l'Etat, peuvent se faire remplacer à une ou plusieurs séances du comité [*suppléance*].
+
+Pour ce qui concerne les maires, par l'un de leurs adjoints réglementaires ;
+
+Pour ce qui concerne les présidents de conseils généraux et les présidents de groupements de communes, par l'un de leurs
+vice-présidents.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°77-90 1977-01-27
+
+	**Cité par**:
+
+	  - Loi n°79-15 du 3 janvier 1979 - art. 17 (Ab)
+	  - Loi n°79-1150 du 29 décembre 1979 - art. 37 (Ab)
+	  - Loi n°80-10 du 10 janvier 1980 - art. 6 (V)
+	  - Loi n°89-936 du 29 décembre 1989 - art. 47 (Ab)
+	  - Loi n°89-936 du 29 décembre 1989 - art. 89 (P)
+	  - Loi n°89-936 du 29 décembre 1989 - art. 90 (P)
+	  - Loi n°93-1352 du 30 décembre 1993 - art. 52 (V)
+	  - CODE DES COMMUNES. - art. L234-1 (M)
+	  - CODE DES COMMUNES. - art. L234-12 (Ab)
+	  - CODE DES COMMUNES. - art. L234-14 (M)
+	  - CODE DES COMMUNES. - art. L234-21 (M)
+	  - CODE DES COMMUNES. - art. L234-22 (Ab)
+	  - CODE DES COMMUNES. - art. L234-9 (Ab)
+	  - CODE DES COMMUNES. - art. L263-15 (Ab)
+	  - CODE DES COMMUNES. - art. L263-19 (Ab)
+	  - CODE DES COMMUNES. - art. R234-4 (M)
+	  - CODE GENERAL DES IMPOTS, CGI. - art. 1648 A bis (M)
+	  - CODE GENERAL DES IMPOTS, CGI. - art. 1648 B (M)
+	  - Code rural - art. L121-16 (M)
+	  - Code rural ancien - art. 5-1 (Ab)
+
+
 ### Comptabilité
 
 #### Dispositions générales.
@@ -25515,6 +25769,78 @@ par mois de retard pour les comptes justiciables de la Cour des comptes [*compé
 
 ### DISPOSITIONS APPLICABLES A CERTAINS ETABLISSEMENTS COMMUNAUX
 
+###### Article L253-2
+
+Les recettes du budget de la communauté urbaine comprennent :
+
+1° Le produit des impôts directs mentionnés au a-1° de l'article L. 231-5 (2) ;
+
+2° Le produit de la taxe d'enlèvement des ordures ménagères, de la redevance d'enlèvement des ordures ménagères sur les
+terrains de camping ou de la redevance pour enlèvement des ordures, déchets et résidus (2) ;
+
+3° Le produit de la redevance d'assainissement prévu à l'article 12 de la loi n° 64-1245 du 12 décembre 1964 ;
+
+4° Le produit de la redevance de raccordement des effluents privés aux réseaux d'assainissement ou aux installations
+d'épuration, prévu à l'article 18 de la loi n° 64-1245 du 12 décembre 1964 ;
+
+5° Les attributions imputées sur la dotation globale de fonctionnement.
+
+6° Le revenu de ses biens meubles ou immeubles ;
+
+7° Le produit des taxes constituant le prix d'un service rendu par la communauté ;
+
+8° Le produit des redevances et droits divers correspondant aux services assurés en régie, concédés ou affermés par la
+communauté urbaine, de sa participation dans les entreprises prévues au 6° de l'article L. 121-33 et des sommes qu'elle
+reçoit en échange de services rendus ;
+
+9° Le produit des participations des constructeurs fondé sur l'article 26 de la loi n° 57-908 du 7 août 1957 pour les
+compétences transférées ;
+
+10° Le montant des participations et remboursements ou redevances pour raccordement à l'égout prévus aux articles L. 34, L.
+35, L35-3, L. 35-4, L. 35-5 et L. 35-8 du code de la santé publique ;
+
+11° Le produit de la taxe locale d'équipement ou de toute autre taxe de remplacement pour les compétences transférées ;
+
+12° Le produit des surtaxes locales temporaires pour les compétences transférées ;
+
+13° Les subventions de l'Etat, des collectivités locales, de leurs groupements et des syndicats mixtes ;
+
+14° Le produit des dons et legs ;
+
+15° Le produit des emprunts.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°57-908 1957-08-07 art. 26
+	  - CODE DES COMMUNES. - art. L121-33 (Ab)
+	  - CODE DES COMMUNES. - art. L231-5 (M)
+	  - Code de la santé publique - art. L34 (M)
+	  - Code de la santé publique - art. L35 (Ab)
+	  - Code de la santé publique - art. L35-3 (Ab)
+	  - Code de la santé publique - art. L35-4 (Ab)
+	  - Code de la santé publique - art. L35-5 (M)
+	  - Code de la santé publique - art. L35-8 (Ab)
+	  - Loi n°64-1245 1964-12-12 art. 12, art. 18
+
+	**Anciens textes**:
+
+	  - Loi n°66-1069 du 31 décembre 1966 - art. 29 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°77-90 1977-01-27
+
+	**Nouveaux textes**:
+
+	  - Code général des collectivités territoriales - art. L5215-32 (V)
+
+	**Liens**:
+
+	  - SPEC_APPLI: Dispositions non applicables aux communes des départements de la Guadeloupe, de la Guyane, de la Martinique, de la Réunion et de Saint-Pierre-et-Miquelon
+
+
 #### SYNDICAT DE COMMUNES .
 
 ###### Article L251-3
@@ -25566,52 +25892,6 @@ des associations, des particuliers, en échange d'un service rendu ;
 	  - Code général des collectivités territoriales - art. L5212-19 (V)
 
 
-#### DISTRICT
-
-###### Article L252-2
-
-Les recettes du budget du district comprennent : [*définition*]    1° Les ressources énumérées aux 1° à 5° de l'article L.
-251-3 [*recettes du syndicat de communes*] ; 
-
-2° Le produit des taxes, redevances et contributions correspondant aux services assurés ; 
-
-3° Sur délibération du conseil prise à la majorité des deux tiers et soumise à l'approbation de l'autorité supérieure dans
-les conditions prévues aux articles L. 121-37 et L. 121-39, une fraction du montant du versement représentatif de la taxe sur
-les salaires attribué aux communes en vertu des articles L. 234-6 à L. 234-11 [*attribution de garantie*] et L. 234-12 à L.
-234-15 [*attribution au prorata*] ; 
-
-4° La contribution des communes intéressées, pour le fonctionnement de services assurés à la demande de ces dernières ; 
-
-5° Le produit des emprunts.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Ordonnance 59-30 1959-01-05 art. 8 al. 1 modifié
-
-	**Cite**:
-
-	  - Loi n°70-1297 1970-12-31 art. 1
-	  - Code des communes L121-37 et L121-39
-
-	**Codifié par**:
-
-	  - Décret n°77-90 1977-01-27
-
-	**Créé par**:
-
-	  - Décret n°77-90 1977-01-27 JORF et JONC 3 février 1977 date d'entrée en vigueur 20 mars 1977
-
-	**Cité par**:
-
-	  - Loi n°79-15 du 3 janvier 1979 - art. 26 (V)
-
-	**Liens**:
-
-	  - TXT_ASSOCIE: CODE DES COMMUNES. - art. L252-3 (M)
-
-
 #### Dispositions applicables au district .
 
 ###### Article L252-3
@@ -25644,107 +25924,15 @@ la décision en est prise par délibération du conseil de district statuant à 
 
 #### COMMUNAUTE URBAINE
 
-###### Article L253-2
-
-Les recettes du budget de la communauté urbaine comprennent :
-
-1° Le produit des impôts directs mentionnés au a-1° de l'article L. 231-5 ; 
-
-2° Le produit de la taxe d'enlèvement des ordures ménagères, de la redevance d'enlèvement des ordures ménagères sur les
-terrains de camping ou de la redevance pour enlèvement des ordures, déchets et résidus ; 
-
-3° Le produit de la redevance d'assainissement prévu à l'article 12 de la loi n° 64-1245 du 12 décembre 1964 ; 
-
-4° Le produit de la redevance de raccordement des effluents privés aux réseaux d'assainissement ou aux installations
-d'épuration, prévu à l'article 18 de la loi n° 64-1245 du 12 décembre 1964 ; 
-
-5° Les attributions imputées sur le versement représentatif de la taxe sur les salaires ; 
-
-6° Le revenu de ses biens meubles ou immeubles ; 
-
-7° Le produit des taxes constituant le prix d'un service rendu par la communauté ; 
-
-8° Le produit des redevances et droits divers correspondant aux services assurés en régie, concédés ou affermés par la
-communauté urbaine, de sa participation dans les entreprises prévues au 6° de l'article L. 121-38 et des sommes qu'elle
-reçoit en échange de services rendus ; 
-
-9° Le produit des participations des constructeurs fondé sur l'article 26 de la loi n° 57-908 du 7 août 1957 pour les
-compétences transférées ; 
-
-10° Le montant des participations et remboursements ou redevances pour raccordement à l'égout prévus aux articles L. 34, L.
-35, L. 35-3, L. 35-4, L. 35-5 et L. 35-8 du code de la santé publique ; 
-
-11° Le produit de la taxe locale d'équipement ou de toute autre taxe de remplacement pour les compétences transférées ; 
-
-12° Le produit des surfaces locales temporaires pour les compétences transférées ; 
-
-13° Les subventions de l'Etat, des collectivités locales, de leurs groupements et des syndicats mixtes ; 
-
-14° Le produit des dons et legs ; 
-
-15° Le produit des emprunts.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 1609 bis
-	  - Code des communes L121-38 6°
-	  - Code de la santé publique - art. L34 (M)
-	  - Code de la santé publique - art. L35 (Ab)
-	  - Code de la santé publique L34, L35, L35-3 à L35-5 et L35-8
-	  - Loi n°57-908 1957-08-07 art. 26
-	  - Loi n°64-1245 1964-12-12 art. 12 et 18
-	  - Ordonnance n°59-108 du 7 janvier 1959 - art. 2, v. init.
-
-	**Liens**:
-
-	  - TXT_ASSOCIE: CODE DES COMMUNES. - art. L253-3 (Ab)
-	  - SPEC_APPLI: CODE DES COMMUNES. - art. L262-1 (M)
-	  - SPEC_APPLI: Code des communes L262-1, L262-10 :
-	  - SPEC_APPLI: Dispositions non applicables aux communes des départements de la Guadeloupe, de la Guyane, de la Martinique, de la Réunion et de Saint-Pierre-et-Miquelon
-
-	**Nouveaux textes**:
-
-	  - Code général des collectivités territoriales - art. L5215-32 (V)
-
-	**Anciens textes**:
-
-	  - Loi n°66-1069 1966-12-31 art. 29 partie)
-	  - Loi n°66-1069 du 31 décembre 1966 - art. 29 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°77-90 1977-01-27
-
-	**Créé par**:
-
-	  - Décret n°77-90 1977-01-27 JORF et JONC 3 février 1977 date d'entrée en vigueur élection des maires
-
-
 ###### Article L253-6
 
-Outre les attributions [*au prorata, dans le cadre du versement représentatif de la taxe sur les salaires*] faites au titre
-des articles L. 234-12 à L. 234-15, la communauté urbaine perçoit une part de l'attribution de garantie versée,
-
-en application des articles L. 234-6 à L. 234-11, aux communes qui la composent [*recettes*]. 
-
-La communauté urbaine peut rétrocéder à ces communes une partie des sommes ainsi prélevées. 
+Les communautés urbaines perçoivent une part de la dotation forfaitaire versée aux communes qui les composent. Elles peuvent
+rétrocéder à ces communes une part des sommes ainsi prélevées.
 
 Le conseil de communauté fixe le taux du prélèvement et de la rétrocession partielle de son produit aux communes de la
-communauté dans les limites et conditions fixées par décret en Conseil d'Etat. 
-
-La répartition entre la communauté urbaine et les communes de l'attribution de garantie prévue aux articles L. 234-6 à L.
-234-11 tient compte notamment des dépenses laissées à la charge des communes et de la part occupée par la taxe locale dans
-leur budget avant le 1er janvier 1968 [*date*].
+communauté dans les limites et conditions fixées par décret en Conseil d'Etat.
 
 **Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - SPEC_APPLI: *Dispositions non applicables aux communes des départements de la Guadeloupe, de la Guyane, de la Martinique, de la Réunion et de Saint-Pierre-et-Miquelon*
-	  - SPEC_APPLI: CODE DES COMMUNES. - art. L262-1 (M)
-	  - SPEC_APPLI: Code des communes L262-1, L262-10 :
 
 	**Anciens textes**:
 
@@ -25754,21 +25942,13 @@ leur budget avant le 1er janvier 1968 [*date*].
 
 	  - Décret n°77-90 1977-01-27
 
-	**Créé par**:
-
-	  - Décret n°77-90 1977-01-27 JORF et JONC 3 février 1977 date d'entrée en vigueur élection des maires
-
 	**Modifié par**:
 
-	  - Loi n°79-15 1979-01-03 art. 9 JORF 4 janvier 1979 p. 25
+	  - Loi n°79-15 1979-01-03 ART. 9 JORF 4 janvier 1979 p. 25
 
 	**Cité par**:
 
 	  - CODE DES COMMUNES. - art. R*253-2 (M)
-
-	**Cite**:
-
-	  - Code des communes L234-6 à L234-15
 
 	**Nouveaux textes**:
 
@@ -25816,86 +25996,6 @@ l'article L. 172-5.
 	  - CODE DES COMMUNES. - art. L172-5 (M)
 	  - CODE DES COMMUNES. - art. L212-9 (Ab)
 	  - Code de l'urbanisme - art. L321-1 (M)
-
-
-###### Article L255-8
-
-La zone prévue à l'article L. 171-7 est soumise au régime applicable aux communes en ce qui concerne les attributions et
-répartitions du versement représentatif de la taxe sur les salaires qui sont exclusivement perçues par le syndicat
-communautaire d'aménagement ou par la communauté urbaine. 
-
-Pour l'application des articles L. 234-6 à L. 234-11 et L. 234-16 à L. 234-19, pour toute répartition de fonds communs et
-pour l'attribution de subventions de l'Etat soumises à un critère démographique, il est ajouté à la population de la zone,
-
-une population fictive.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°70-610 1970-07-10 art. 15 II al. 4
-
-	**Codifié par**:
-
-	  - Décret n°77-90 1977-01-27
-
-	**Créé par**:
-
-	  - Décret n°77-90 1977-01-27 JORF et JONC 3 février 1977 date d'entrée en vigueur élection des maires
-
-	**Cité par**:
-
-	  - Arrêté du 12 mars 1991 - art. 3 (V)
-	  - Arrêté du 20 mars 1992 - art. 3 (V)
-	  - Arrêté du 26 janvier 1993 - art. 3 (V)
-	  - Arrêté du 22 décembre 1995 - art. 3 (V)
-	  - CODE DES COMMUNES. - art. L256-4 (Ab)
-	  - CODE DES COMMUNES. - art. R*256-2 (Ab)
-
-	**Cite**:
-
-	  - CODE DES COMMUNES. - art. L171-7 (M)
-	  - Code des communes L234-6 à L234-11, L234-16 à L234-19
-
-	**Liens**:
-
-	  - SPEC_APPLI: Code des communes L262-10 :
-	  - SPEC_APPLI: Dispositions non applicables aux communes du département de Saint-Pierre-et-Miquelon
-
-
-#### ENSEMBLE URBAIN
-
-###### Article L256-4
-
-L'ensemble urbain est soumis au même régime que les communes en ce qui concerne les attributions et répartitions du versement
-représentatif de la taxe sur les salaires. 
-
-Les dispositions de l'article L. 255-8 [*relatif au syndicat communautaire d'aménagement*] et L. 263-17 à L. 263-19 [*région
-parisienne - comité du fonds d'égalisation des charges*] sont applicables à l'ensemble urbain.
-
-**Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - SPEC_APPLI: *Dispositions non applicables aux communes du département de Saint-Pierre-et-Miquelon*
-	  - SPEC_APPLI: Code des communes L262-10 :
-
-	**Anciens textes**:
-
-	  - Loi n°70-610 1970-07-10 art. 24 al. 2 et 3
-
-	**Codifié par**:
-
-	  - Décret n°77-90 1977-01-27
-
-	**Créé par**:
-
-	  - Décret n°77-90 1977-01-27 JORF et JONC 3 février 1977 date d'entrée en vigueur élection des maires
-
-	**Cite**:
-
-	  - CODE DES COMMUNES. - art. L255-8 (M)
-	  - Code des communes L263-17 à L263-19
 
 
 ### Dispositions particulières
@@ -26228,20 +26328,11 @@ saisine de l'autorité de surveillance, contrôle*] sont applicables.
 
 ##### COMMUNES DES DEPARTEMENTS DE LA GUADELOUPE, DE LA GUYANE, DE LA MARTINIQUE ET DE LA REUNION .
 
-###### Article L262-1
+###### Article L262-6
 
-Sont applicables aux communes des départements de la Guadeloupe, de la Guyane, de la Martinique et de la Réunion :
-
-1° Les dispositions des articles contenus dans les titres Ier à V [*budget, dépenses, recettes, comptabilité, dispositions
-financières applicables à certains établissements communaux*] du présent livre, à l'exception de celles du 3° de l'article L.
-231-3 en ce qui concerne l'allocation compensatrice, des articles L. 233-52 à L. 233-57, L. 233-70, L. 233-74 et L. 233-75,
-
-L. 234-12 à L. 234-15, L. 234-20 à L. 234-22, L. 234-25 à L. 234-27, du deuxième alinéa de l'article L. 235-1, du deuxième
-alinéa de l'article L. 235-2, de l'article L. 235-3,
-
-des articles L. 235-7, L. 235-10 à L. 235-12, L. 236-7, L. 236-8 et L. 253-1 à L. 253-8 ; 
-
-2° Les dispositions contenues dans les articles suivants du présent chapitre.
+La quote-part du produit mentionné au deuxième alinéa de l'article L. 262-5 est déterminée par application à ce produit du
+rapport existant, d'après le dernier recensement général effectué, entre la population des départements d'outre-mer et la
+population totale nationale.
 
 **Liens relatifs à cet article**
 
@@ -26249,58 +26340,41 @@ des articles L. 235-7, L. 235-10 à L. 235-12, L. 236-7, L. 236-8 et L. 253-1 à
 
 	  - Décret n°77-90 1977-01-27
 
-	**Créé par**:
+	**Cité par**:
 
-	  - Décret n°77-90 1977-01-27 JORF et JONC 3 février 1977 date d'entrée en vigueur élection des maires
-
-	**Modifié par**:
-
-	  - Loi n°79-15 1979-01-03 art. 12 JORF 4 janvier 1979 p. 25
+	  - Loi n°79-15 du 3 janvier 1979 - art. 18 (MMN)
+	  - Loi n°85-1268 du 29 novembre 1985 - art. 28 (M)
+	  - Loi n°85-1268 du 29 novembre 1985 - art. 35 (M)
+	  - Décret n°93-289 du 5 mars 1993 - art. 5 (Ab)
+	  - CODE DES COMMUNES. - art. L262-10 (Ab)
+	  - CODE DES COMMUNES. - art. L262-15 (T)
+	  - CODE DES COMMUNES. - art. R262-4 (M)
 
 	**Liens**:
 
-	  - SPEC_APPLI: CODE DES COMMUNES. - art. L233-70 (Ab)
-	  - SPEC_APPLI: CODE DES COMMUNES. - art. L233-75 (Ab)
-	  - SPEC_APPLI: CODE DES COMMUNES. - art. L234-12 (M)
-	  - SPEC_APPLI: CODE DES COMMUNES. - art. L234-13 (M)
-	  - SPEC_APPLI: CODE DES COMMUNES. - art. L234-15 (M)
-	  - SPEC_APPLI: CODE DES COMMUNES. - art. L234-20 (M)
-	  - SPEC_APPLI: CODE DES COMMUNES. - art. L234-21 (M)
-	  - SPEC_APPLI: CODE DES COMMUNES. - art. L234-22 (M)
-	  - SPEC_APPLI: CODE DES COMMUNES. - art. L234-25 (Ab)
-	  - SPEC_APPLI: CODE DES COMMUNES. - art. L234-26 (Ab)
-	  - SPEC_APPLI: CODE DES COMMUNES. - art. L234-27 (Ab)
-	  - SPEC_APPLI: CODE DES COMMUNES. - art. L235-10 (Ab)
-	  - SPEC_APPLI: CODE DES COMMUNES. - art. L235-11 (Ab)
-	  - SPEC_APPLI: CODE DES COMMUNES. - art. L235-12 (Ab)
-	  - SPEC_APPLI: CODE DES COMMUNES. - art. L253-1 (Ab)
-	  - SPEC_APPLI: CODE DES COMMUNES. - art. L253-2 (M)
-	  - SPEC_APPLI: CODE DES COMMUNES. - art. L253-3 (Ab)
-	  - SPEC_APPLI: CODE DES COMMUNES. - art. L253-4 (Ab)
-	  - SPEC_APPLI: CODE DES COMMUNES. - art. L253-5 (M)
-	  - SPEC_APPLI: CODE DES COMMUNES. - art. L253-6 (M)
-	  - SPEC_APPLI: CODE DES COMMUNES. - art. L253-7 (Ab)
-	  - SPEC_APPLI: CODE DES COMMUNES. - art. L253-8 (Ab)
+	  - TXT_ASSOCIE: CODE DES COMMUNES. - art. L262-5 (M)
+	  - SPEC_APPLI: Dispositions applicables aux communes du département de Saint-Pierre-et-Miquelon
+	  - SPEC_APPLI: Loi n°79-15 1979-01-04 ART. 13 2° :
 
 	**Cite**:
 
-	  - CODE DES COMMUNES. - art. L234-23 (M)
-	  - CODE DES COMMUNES. - art. L234-24 (Ab)
-	  - Code des communes L231-4 à L233-51, L233-58 à L233-69, L233-71 à L233-73, L233-76 à L234-11, L234-16 à L234-19, L234-23, L234-24, L234-28 à L235-1 al. 1, L235-2 al. 1, L235-4 à L235-6, L235-8 à L235-9, L235-13 à L236-6, L236-9 à L252-5, L254-1 à L257
+	  - Code des communes L262-5 (2e version)
 
-	**Anciens textes**:
+	**Nouveaux textes**:
 
-	  - Code de l'administration communale 628 al. 1
+	  - Code général des collectivités territoriales - art. L2563-4 (VT)
 
+
+#### Dispositions applicables aux départements d'Outre-mer
+
+##### Dispositions applicables aux communes des départements de la Guadeloupe, de la Guyane, de la Martinique et de la Réunion
 
 ###### Article L262-5
 
-Les communes bénéficient des attributions de garantie sur le versement représentatif de la taxe sur les salaires,
+Les communes bénéficient de la dotation forfaitaire instituée par les articles L. 234-2 et L. 234-3.
 
-prévues aux articles L. 234-6 à L. 234-11 [*recettes*]. 
-
-En outre, une quote-part du produit mentionné à l'article L. 234-12 [*attribution au prorata*] est affectée aux départements,
-aux communes et à leurs groupements.
+Elles reçoivent une quote part de la dotation de péréquation et des concours particuliers institués par les articles L.
+234-6, L. 234-7 et L. 234-12.
 
 **Liens relatifs à cet article**
 
@@ -26310,21 +26384,13 @@ aux communes et à leurs groupements.
 	  - TXT_ASSOCIE: CODE DES COMMUNES. - art. L262-6 (M)
 	  - SPEC_APPLI: Loi n°79-15 1979-01-04 ART. 13 2° :
 
-	**Anciens textes**:
-
-	  - Loi n°66-10 1966-01-06 art. 45 1. et 2. al. 1
-
 	**Codifié par**:
 
 	  - Décret n°77-90 1977-01-27
 
 	**Créé par**:
 
-	  - Décret n°77-90 1977-01-27 JORF et JONC 3 février 1977 date d'entrée en vigueur élection des maires
-
-	**Modifié par**:
-
-	  - Loi n°79-15 1979-01-03 art. 12 JORF 4 janvier 1979 p. 25
+	  - Loi n°79-15 1979-01-03 ART. 12 JORF 4 janvier 1979 p. 25
 
 	**Cité par**:
 
@@ -26339,96 +26405,15 @@ aux communes et à leurs groupements.
 
 	**Cite**:
 
-	  - Code des communes L234-6 à L234-11 et L234-12
+	  - CODE DES COMMUNES. - art. L234-12 (M)
+	  - CODE DES COMMUNES. - art. L234-2 (Ab)
+	  - CODE DES COMMUNES. - art. L234-3 (Ab)
+	  - CODE DES COMMUNES. - art. L234-6 (M)
+	  - CODE DES COMMUNES. - art. L234-7 (M)
 
 	**Nouveaux textes**:
 
 	  - Code général des collectivités territoriales - art. L2563-3 (VT)
-
-
-###### Article L262-6
-
-La quote-part du produit [*attribution au prorata dans le cadre du versement représentatif de la taxe sur les salaires*] ,
-mentionnée au deuxième alinéa de l'article L. 262-5, est déterminée [*calcul*] par l'application à ce produit du rapport
-existant, d'après le dernier recensement général effectué, entre la population des départements d'outre-mer et la population
-totale de l'ensemble des départements.
-
-**Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - SPEC_APPLI: *Dispositions applicables aux communes du département de Saint-Pierre-et-Miquelon*
-	  - SPEC_APPLI: Loi n°79-15 1979-01-04 ART. 13 2° :
-	  - TXT_ASSOCIE: CODE DES COMMUNES. - art. L262-5 (M)
-
-	**Anciens textes**:
-
-	  - Loi n°66-10 1966-01-06 art. 45 2. al. 2
-
-	**Codifié par**:
-
-	  - Décret n°77-90 1977-01-27
-
-	**Créé par**:
-
-	  - Décret n°77-90 1977-01-27 JORF et JONC 3 février 1977 date d'entrée en vigueur élection des maires
-
-	**Cité par**:
-
-	  - Loi n°79-15 du 3 janvier 1979 - art. 18 (MMN)
-	  - Loi n°85-1268 du 29 novembre 1985 - art. 28 (M)
-	  - Loi n°85-1268 du 29 novembre 1985 - art. 35 (M)
-	  - Décret n°93-289 du 5 mars 1993 - art. 5 (Ab)
-	  - CODE DES COMMUNES. - art. L262-10 (Ab)
-	  - CODE DES COMMUNES. - art. L262-15 (T)
-	  - CODE DES COMMUNES. - art. R262-4 (M)
-
-	**Cite**:
-
-	  - Code des communes L262-5 al. 2
-
-	**Nouveaux textes**:
-
-	  - Code général des collectivités territoriales - art. L2563-4 (VT)
-
-
-##### COMMUNES DU DEPARTEMENT DE SAINT-PIERRE-ET-MIQUELON
-
-###### Article L262-10
-
-Sont applicables aux communes du département de Saint-Pierre-et-Miquelon :
-
-1° Les dispositions contenues dans les titres Ier à V [*budget, dépenses, recettes, comptabilité et dispositions financières
-applicables à certains établissements publics communaux*] du présent livre, à l'exception de celles des 11° et 24° de
-l'article L. 221-2 ; des 2° et 3° de l'article L. 231-8 ; du 2° de l'article L. 231-9 ; des articles L. 233-70, L. 233-75, L.
-234-12 à L. 234-15, L. 234-20 à L. 234-22 ; L. 234-25 à L. 234-27 ; du deuxième alinéa de l'article L. 235-1 ; du deuxième
-alinéa de l'article L. 235-2 ; des articles L. 235-3 ; L. 235-4 ; L. 235-7 ; L. 235-10 à L. 235-12 ; L. 236-4 ; L. 236-15 ;
-L. 236-16 ; L. 253-1 à L. 253-8 ; L. 255-1 à L. 257-4.
-
-2° Les dispositions des articles L. 262-5 et L. 262-6 de la section I du présent chapitre.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance 77-1099 1977-09-26
-
-	**Cite**:
-
-	  - CODE DES COMMUNES. - art. L221-1 (Ab)
-	  - CODE DES COMMUNES. - art. L234-23 (M)
-	  - CODE DES COMMUNES. - art. L234-24 (Ab)
-	  - CODE DES COMMUNES. - art. L235-5 (Ab)
-	  - CODE DES COMMUNES. - art. L235-6 (M)
-	  - CODE DES COMMUNES. - art. L235-8 (Ab)
-	  - CODE DES COMMUNES. - art. L235-9 (Ab)
-	  - CODE DES COMMUNES. - art. L262-5 (M)
-	  - Code des communes L254-1 à L254-3
-
-	**Cité par**:
-
-	  - CODE DES COMMUNES. - art. L262-15 (T)
-	  - CODE DES COMMUNES. - art. R262-4 (M)
 
 
 #### Dispositions applicables aux communes de la région d'Ile-de-France
@@ -26502,87 +26487,6 @@ par un comité [*attributions*] composé en majorité de membres des assemblées
 	**Nouveaux textes**:
 
 	  - Code général des collectivités territoriales - art. L2531-13 (V)
-
-
-###### Article L263-15
-
-Les bases de prélèvement et de répartition entre les communes de la région sont affectées des coefficients d'adaptation
-prévus par l'article 1607 du code général des impôts.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 1607
-
-	**Anciens textes**:
-
-	  - Loi n°64-707 1964-07-10 art. 39 II al. 2
-
-	**Codifié par**:
-
-	  - Décret n°77-90 1977-01-27
-
-	**Créé par**:
-
-	  - Décret n°77-90 1977-01-27 JORF et JONC 3 février 1977 date d'entrée en vigueur élection des maires
-
-	**Abrogé par**:
-
-	  - Loi n°79-15 du 3 janvier 1979 - art. 26 (V) JORF 4 janvier 1979 p. 25
-
-	**Cité par**:
-
-	  - Loi n°79-15 du 3 janvier 1979 - art. 26 (V)
-	  - Loi n°91-429 du 13 mai 1991 - art. 16 (V)
-	  - CODE DES COMMUNES. - art. R*263-40 (M)
-	  - CODE GENERAL DES IMPOTS, CGI. - art. 1648 B (M)
-
-	**Liens**:
-
-	  - TXT_ASSOCIE: CODE DES COMMUNES. - art. L263-18 (Ab)
-
-	**Nouveaux textes**:
-
-	  - Code général des collectivités territoriales - art. L2531-14 (V)
-
-
-###### Article L263-16
-
-La répartition des ressources du fonds d'égalisation des charges est effectuée à concurrence de 50 p. 100 [*pourcentage*]
-
-au prorata de la population.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°64-707 1964-07-10 art. 39 II al. 3
-
-	**Codifié par**:
-
-	  - Décret n°77-90 1977-01-27
-
-	**Créé par**:
-
-	  - Décret n°77-90 1977-01-27 JORF et JONC 3 février 1977 date d'entrée en vigueur élection des maires
-
-	**Abrogé par**:
-
-	  - Loi n°79-15 du 3 janvier 1979 - art. 26 (V) JORF 4 janvier 1979 p. 25
-
-	**Cité par**:
-
-	  - Loi n°79-15 du 3 janvier 1979 - art. 26 (V)
-	  - CODE DES COMMUNES. - art. L263-17 (Ab)
-
-	**Liens**:
-
-	  - TXT_ASSOCIE: CODE DES COMMUNES. - art. L263-17 (Ab)
-
-	**Nouveaux textes**:
-
-	  - Code général des collectivités territoriales - art. L2531-15 (V)
 
 
 ###### Article L263-17
@@ -26698,44 +26602,35 @@ remboursement fixée par arrêté interministériel.
 
 ###### Article L263-13
 
-Un fonds d'égalisation des charges [*ressources*] des communes comprises dans la région d'Ile-de-France, telle qu'elle est
-définie à l'article premier de la loi n° 64-707 du 10 juillet 1964, reçoit le produit d'un prélèvement égal au montant de la
-différence, dégagée pour chaque commune de la région, entre :
+En 1979 et 1980, les communes et les groupements de communes de la région d'Ile-de-France, définie par la loi n° 76-394 du 6
+mai 1976, perçoivent directement la dotation de péréquation définie par l'article L. 234-7, les concours particuliers
+institués par l'article L. 234-12, une première part de la dotation forfaitaire instituée par les articles L. 234-2 et L.
+234-3. Pour 1979 et 1980, cette première part est égale à [*montant*] la part du solde disponible de la dotation globale
+affectée à la dotation de péréquation par l'article L. 234-6.
 
-D'une part, le produit du versement représentatif de la taxe sur les salaires, alloué chaque année à la commune au titre des
-articles L. 234-7 et L. 234-12 ;
+La deuxième part de la dotation forfaitaire revenant aux communes et à leurs groupements est versée au fonds d'égalisation
+des charges des communes, créé par l'article 33 de la loi n° 64-707 du 10 juillet 1964, puis redistribuée par le comité de
+gestion du fonds, selon les modalités qu'il arrête. Le comité prélève, sur les sommes ainsi mises à sa disposition, les frais
+nécessaires à son fonctionnement.
 
-D'autre part, le montant global des sommes qui ont été attribuées à la commune en 1967 au titre :
-
-- de la taxe locale, y compris les attributions de péréquation existant alors et déduction faite des prélèvements destinés à
-alimenter ces systèmes de péréquation ; 
-
-- de la taxe de circulation sur les viandes ; 
-
-- et de la taxe sur les locaux loués en garni. 
-
-Le prélèvement sur la ville de Paris n'est décompté que sur les attributions du versement représentatif de la taxe sur les
-salaires de cette collectivité au titre des articles L. 234-6 à L. 234-11 et L. 234-12 à L. 234-15, correspondant à sa part
-communale.
+Le fonds d'égalisation des charges fait connaître aux communes les critères retenus pour la redistribution des fonds soumis à
+sa compétence.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - Loi n°64-707 1964-07-10
-	  - Code des communes L234-6 à L234-15
-
-	**Anciens textes**:
-
-	  - Loi n°64-707 1964-07-10 art. 39 I
+	  - Loi n°64-707 du 10 juillet 1964 - art. 33, v. init.
+	  - Loi n°76-394 1976-05-06
+	  - CODE DES COMMUNES. - art. L234-12 (M)
+	  - CODE DES COMMUNES. - art. L234-2 (Ab)
+	  - CODE DES COMMUNES. - art. L234-3 (Ab)
+	  - CODE DES COMMUNES. - art. L234-6 (M)
+	  - CODE DES COMMUNES. - art. L234-7 (M)
 
 	**Codifié par**:
 
 	  - Décret n°77-90 1977-01-27
-
-	**Créé par**:
-
-	  - Décret n°77-90 1977-01-27 JORF et JONC 3 février 1977 date d'entrée en vigueur élection des maires
 
 	**Cité par**:
 
@@ -26749,90 +26644,6 @@ communale.
 	**Nouveaux textes**:
 
 	  - Code général des collectivités territoriales - art. L2531-12 (V)
-
-
-###### Article L263-18
-
-Lorsque la zone d'agglomération nouvelle prévue à l'article L. 171-7 est soumise à des régimes différents au titre de
-l'article 1607 du code général des impôts, le plus élevé des coefficients d'abattement [*affectant les bases de prélèvement
-et de répartition entre les communes*] en vigueur dans cette zone est seul retenu pour l'application de l'article L. 263-15. 
-
-Le montant global [*sommes attribuées à la commune en 1967 au titre de la taxe locale, de la taxe de circulation sur les
-viandes, de la taxe sur les locaux loués en garni*] défini au troisième alinéa de l'article L. 263-13 est établi d'une
-manière fictive pour déterminer le prélèvement opéré au bénéfice du fonds d'égalisation des charges des communes sur les
-ressources attribuées à la zone ci-dessus mentionnée par application des articles L. 234-6 à L. 234-11 et L. 234-12 à L.
-234-15 [*attributions de garantie et attributions au prorata dans le cadre du V.R.T.S.*].
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 1607
-	  - CODE DES COMMUNES. - art. L171-7 (M)
-	  - Code des communes L234-6 à L234-11 et L234-12 à L234-15
-
-	**Anciens textes**:
-
-	  - Loi n°70-610 1970-07-10 art. 15 II al. 5
-
-	**Codifié par**:
-
-	  - Décret n°77-90 1977-01-27
-
-	**Créé par**:
-
-	  - Décret n°77-90 1977-01-27 JORF et JONC 3 février 1977 date d'entrée en vigueur élection des maires
-
-	**Abrogé par**:
-
-	  - Loi n°79-15 du 3 janvier 1979 - art. 26 (V) JORF 4 janvier 1979 p. 25
-
-	**Cité par**:
-
-	  - Loi n°79-15 du 3 janvier 1979 - art. 26 (V)
-	  - CODE DES COMMUNES. - art. R*263-36 (Ab)
-
-	**Liens**:
-
-	  - TXT_ASSOCIE: CODE DES COMMUNES. - art. L263-15 (Ab)
-
-
-###### Article L263-19
-
-Les dispositions des articles L. 234-20 et L. 234-21 [*attribution d'une allocation compensatrice*] ne sont pas applicables
-aux communes concernées par les mécanismes de péréquation prévus à l'article L. 263-13 ci-dessus.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°66-10 1966-01-06 complétée art. 41 bis D partie)
-
-	**Codifié par**:
-
-	  - Décret n°77-90 1977-01-27
-
-	**Créé par**:
-
-	  - Décret n°77-90 1977-01-27 JORF et JONC 3 février 1977 date d'entrée en vigueur élection des maires
-
-	**Abrogé par**:
-
-	  - Loi n°79-15 du 3 janvier 1979 - art. 26 (V) JORF 4 janvier 1979 p. 25
-
-	**Cité par**:
-
-	  - Loi n°79-15 du 3 janvier 1979 - art. 26 (V)
-
-	**Liens**:
-
-	  - TXT_ASSOCIE: CODE DES COMMUNES. - art. L234-20 (M)
-
-	**Cite**:
-
-	  - CODE DES COMMUNES. - art. L234-20 (M)
-	  - CODE DES COMMUNES. - art. L234-21 (M)
-	  - CODE DES COMMUNES. - art. L263-13 (M)
 
 
 #### Dispositions applicables à la ville de Paris.
@@ -27324,41 +27135,6 @@ mètre carré ou fraction de mètre carré, quel que soit le nombre des annonces
 	**Cite**:
 
 	  - CODE DES COMMUNES. - art. L233-21 (M)
-
-
-###### Article L264-18
-
-Par dérogation aux dispositions de l'article L. 234-15 pour le calcul de la base de répartition prévue aux articles L. 234-12
-à L. 234-14 [*attribution au prorata dans le cadre du V.R.T.S.*], des décrets en Conseil d'Etat déterminent, en tenant compte
-des compétences de nature départementale dévolues à la ville de Paris, le pourcentage selon lequel sont retenus les impôts et
-taxes [*sur les propriétés bâties affectées à des usages tels que l'habitation ou la profession hôtelière*] mentionnés aux
-articles L. 234-12 à L. 234-14 mis en recouvrement par cette collectivité.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°66-10 1966-01-06 art. 41 5 b
-
-	**Codifié par**:
-
-	  - Décret n°77-372 1977-03-28
-
-	**Abrogé par**:
-
-	  - Loi n°79-15 du 3 janvier 1979 - art. 26 (V) JORF 4 janvier 1979 p. 25
-
-	**Cité par**:
-
-	  - Loi n°79-15 du 3 janvier 1979 - art. 26 (V)
-
-	**Liens**:
-
-	  - TXT_ASSOCIE: CODE DES COMMUNES. - art. L234-15 (M)
-
-	**Cite**:
-
-	  - Code des communes L234-12 à L234-15
 
 
 ## LIVRE 3 : Administration et services communaux
