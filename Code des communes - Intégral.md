@@ -1,5 +1,5 @@
 # Code des communes  
-Version Consolidée au 1978-01-01
+Version Consolidée au 1978-01-04
 
 # ORGANISATION COMMUNALE
 
@@ -95100,31 +95100,6 @@ locales et des personnels *composition.
 
 #### Dispositions *applicables* à l'ensemble des sapeurs-pompiers communaux *professionnels et non professionnels (volontaires)*
 
-##### Mission et constitution des corps de sapeurs-pompiers.
-
-###### Article R352-8
-
-Dans chaque corps, le nombre des sous-officiers est fixé au cinquième de l'effectif total [*proportion*].
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°53-170 1953-03-07 ART. 10 REMPLACE
-
-	**Codifié par**:
-
-	  - Décret n°77-241 1977-03-07
-
-	**Créé par**:
-
-	  - Décret n°77-241 1977-03-07 JORF et JONC 18 mars 1977
-
-	**Cité par**:
-
-	  - Décret n°90-851 du 25 septembre 1990 - art. 26 (VT)
-
-
 ##### Conseil d'administration des corps de sapeurs-pompiers.
 
 ###### Article R352-14
@@ -114995,23 +114970,14 @@ moitié.
 
 A l'expiration de son congé, elle est réintégrée de plein droit au besoin en surnombre, dans son administration d'origine.
 
+Les modalités d'application du congé post-natal prévues pour les fonctionnaires de l'Etat sont applicables aux fonctionnaires
+de la commune de Paris régis par le présent code.
+
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°76-1041 1976-11-16 ART. 139 AL. 2
 
 	**Codifié par**:
 
 	  - Décret n°77-373 1977-03-28
-
-	**Créé par**:
-
-	  - Décret n°77-373 1977-03-28 JORF et JONC 5 avril 1977
-
-	**Cite**:
-
-	  - Code des communes R415-6 A à R415-6 G
 
 
 ##### Cessation de fonctions .
