@@ -1,5 +1,5 @@
 # Code des communes  
-Version Consolidée au 1985-07-26
+Version Consolidée au 1985-09-24
 
 # Statuts types d'une caisse communale de secours et de retraite de sapeurs-pompiers
 
@@ -95618,80 +95618,6 @@ activités exercées le justifie.
 ### Agents nommés dans des emplois permanents à temps complet
 
 #### Dispositions générales et organiques
-
-##### Commission paritaire communale .
-
-###### Article R411-39
-
-La commission paritaire communale connaît, en matière de recrutement, des propositions de titularisation prévues à l'article
-L. 412-10.
-
-**Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - SPEC_APPLI: *Dispositions applicables aux agents nommés dans des emplois permanents à temps non complet*
-	  - SPEC_APPLI: Code des communes R421-7 :
-
-	**Anciens textes**:
-
-	  - Décret n°75-280 1975-04-15 ART. 1 (PARTIE)
-
-	**Codifié par**:
-
-	  - Décret n°77-373 1977-03-28
-
-	**Créé par**:
-
-	  - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
-
-	**Abrogé par**:
-
-	  - Décret n°85-1003 du 19 septembre 1985 - art. 38 (Ab) JORF 24 Septembre 1985
-
-	**Cité par**:
-
-	  - Décret n°85-1003 du 19 septembre 1985 - art. 38 (Ab)
-	  - CODE DES COMMUNES. - art. R*421-7 (Ab)
-
-	**Cite**:
-
-	  - CODE DES COMMUNES. - art. L412-10 (Ab)
-
-
-##### Commission paritaire intercommunale .
-
-###### Article R411-40
-
-La commission paritaire intercommunale connaît, en matière de recrutement, des propositions de titularisation prévues à
-l'article L. 412-10.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°75-280 1975-04-15 ART. 1 (PARTIE)
-
-	**Codifié par**:
-
-	  - Décret n°77-373 1977-03-28
-
-	**Créé par**:
-
-	  - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
-
-	**Abrogé par**:
-
-	  - Décret n°85-1003 du 19 septembre 1985 - art. 38 (Ab) JORF 24 septembre 1985
-
-	**Cité par**:
-
-	  - Décret n°85-1003 du 19 septembre 1985 - art. 38 (Ab)
-
-	**Cite**:
-
-	  - CODE DES COMMUNES. - art. L412-10 (Ab)
-
 
 ##### La médaille d'honneur départementale et communal .
 
