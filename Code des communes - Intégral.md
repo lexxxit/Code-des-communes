@@ -1,5 +1,5 @@
 # Code des communes  
-Version Consolidée au 1994-04-26
+Version Consolidée au 1994-05-12
 
 # Partie législative
 
@@ -53799,22 +53799,83 @@ suppression.
 
 ##### SECTION 1 : Dotation globale de fonctionnement
 
-##### SOUS-SECTION 3 : Concours particuliers.
+##### SOUS-SECTION 1 : Dispositions générales.
 
 ###### Article R*234-1
 
+La régularisation prévue à l'article L. 234-1 est répartie :
+
+a) Pour les communes, au prorata de la dotation forfaitaire et, le cas échéant, de la dotation d'aménagement notifiées au
+début de l'exercice au cours duquel elle est versée ;
+
+b) Pour les groupements de communes à fiscalité propre au prorata de la dotation d'aménagement notifiée en application des
+articles L. 234-10-1, L. 234-10-3 et L. 234-10-4 pour l'exercice au cours duquel elle est versée.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°77-91 1977-01-27
+
+	**Modifié par**:
+
+	  - Décret n°94-366 du 10 mai 1994 - art. 1 ()
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°94-704 du 17 août 1994 - art. 11 (Ab)
+	  - SPEC_APPLI: Décret n°94-704 du 17 août 1994 - art. 13 (V)
+	  - SPEC_APPLI: Décret n°94-704 du 17 août 1994 - art. 9 (V)
+
+	**Cite**:
+
+	  - CODE DES COMMUNES. - art. L234-1 (M)
+	  - CODE DES COMMUNES. - art. L234-10-1 (Ab)
+	  - CODE DES COMMUNES. - art. L234-10-3 (Ab)
+	  - CODE DES COMMUNES. - art. L234-10-4 (Ab)
+
+
+###### Article R*234-2
+
+L'accroissement de population pris en compte en application de l'article L. 234-2 est celui qui résulte des dispositions de
+l'article R. 114-3, sauf à remplacer le taux de 20 p. 100 prévu dans ce dernier article par celui de 15 p. 100.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°77-91 1977-01-27
+
+	**Modifié par**:
+
+	  - Décret n°94-366 du 10 mai 1994 - art. 1 ()
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°94-704 du 17 août 1994 - art. 11 (Ab)
+	  - SPEC_APPLI: Décret n°94-704 du 17 août 1994 - art. 13 (V)
+	  - SPEC_APPLI: Décret n°94-704 du 17 août 1994 - art. 9 (V)
+
+	**Cite**:
+
+	  - CODE DES COMMUNES. - art. L234-2 (Ab)
+	  - CODE DES COMMUNES. - art. R114-3 (Ab)
+
+
+###### Article R*234-3
+
 Pour la détermination du potentiel fiscal des communes membres d'une communauté de villes ou d'un groupement ayant opté pour
-le régime fiscal prévu à l'article 1609 nonies C du code général des impôts, il est procédé en ce qui concerne la taxe
+le régime fiscal prévu à l'article 1609 nonies C du code général des impôts, il est procédé, en ce qui concerne la taxe
 professionnelle, entre les communes membres de la communauté ou du groupement, à la ventilation des bases de cette taxe selon
 les modalités suivantes :
 
-" a) Pour la première année d'application des dispositions de l'artice 1609 nonies C du code général des impôts, les bases de
+a) Pour la première année d'application des dispositions de l'article 1609 nonies C du code général des impôts, les bases de
 taxe professionnelle du groupement sont réparties entre les communes membres au prorata des bases constatées pour chaque
 commune l'année précédente ;
 
-" b) Pour les années suivantes, les bases de taxe professionnelle de chaque commune calculées l'année précédente sont
+b) Pour les années suivantes, les bases de taxe professionnelle de chaque commune calculées l'année précédente sont
 augmentées du supplément de bases de taxe professionnelle constaté dans chaque commune ou diminuées, le cas échéant, des
-pertes constatées dans chaque commune. "
+pertes constatées dans chaque commune.
 
 **Liens relatifs à cet article**
 
@@ -53826,88 +53887,29 @@ pertes constatées dans chaque commune. "
 
 	  - Décret n°77-91 1977-01-27
 
-	**Modifié par**:
-
-	  - Décret n°93-270 du 1 mars 1993 - art. 1 () JORF 3 mars 1993
-	  - Décret n°93-270 du 1 mars 1993 - art. 2 (V) JORF 3 mars 1993
-
-
-##### SOUS-SECTION 4 bis : Dispositions applicables aux groupements de communes.
-
-###### Article R*234-2
-
-Le potentiel fiscal des groupements de communes bénéficiant des dispositions des douzième et seizième alinéas de l'article L.
-234-17 est égal à la somme des bases des taxes directes locales des communes membres de chaque groupement concerné,
-déterminées dans les conditions prévues par l'article L. 234-6, pondérées par le taux moyen national d'imposition à la taxe
-concernée constaté pour chacune des catégories de groupements. "
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°77-91 1977-01-27
-
-	**Modifié par**:
-
-	  - Décret n°93-270 1993-03-01 art. 2, 3 jorf 3 mars 1993
-	  - Décret n°93-270 du 1 mars 1993 - art. 2 (V)
-
-	**Cite**:
-
-	  - CODE DES COMMUNES. - art. L234-17 (M)
-	  - CODE DES COMMUNES. - art. L234-6 (M)
-
-
-##### SECTION 2 : Recettes réparties par le comité des finances locales
-
-##### SOUS-SECTION 1 : Organisation du comité des finances locales.
-
-###### Article R*234-3
-
-Les membres élus du comité des finances locales sont désignés pour trois ans [*durée*] ; leur mandat peut être renouvelé.
-
-Ils cessent de faire partie du comité s'ils perdent le mandat électif à raison duquel ils ont été désignés. Dans ce seul cas,
-ils sont remplacés par les personnes élues en même temps qu'eux à cet effet.
-
-**Liens relatifs à cet article**
-
 	**Liens**:
 
-	  - SPEC_APPLI: *Ces dispositions ne seront applicables que jusqu'au 1er janvier 1986*
 	  - TXT_ASSOCIE: Loi n°79-15 du 3 janvier 1979 - art. 27 (V)
-	  - SPEC_APPLI: Loi n°80-1102 1980-12-31 :
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°77-91 1977-01-27
+	  - Décret n°94-366 du 10 mai 1994 - art. 1 ()
 
 
-###### Article R*234-3-1
-
-Les représentants des présidents des conseils régionaux sont élus par le collège des présidents des conseils régionaux
-[*mode*] au scrutin majoritaire de liste à un tour, avec dépôt de listes complètes, sans adjonction ni suppression de noms et
-sans modification de l'ordre de présentation.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°77-91 1977-01-27
-
-	**Créé par**:
-
-	  - Décret n°86-767 1986-06-12 art. 1 JORF 13 juin 1986
-
-	**Abrogé par**:
-
-	  - Décret n°94-366 du 10 mai 1994 - art. 1 () JORF 12 mai 1994
-
+##### SOUS-SECTION 2 : Dotation forfaitaire.
 
 ###### Article R*234-4
 
-Les représentants des présidents de conseils généraux sont élus par le collège des présidents de conseils généraux au scrutin
-majoritaire de liste à un tour, avec dépôt de listes complètes, sans adjonction ni suppression de noms et sans modification
-de l'ordre de présentation [*conditions de vote*].
+Pour les communes qui bénéficient de l'attribution d'une population fictive en application de l'article R. 114-5, la dotation
+forfaitaire est, en application des dispositions de l'article L. 234-8, majorée :
+
+a) La première année où est attribuée cette population fictive, d'un montant égal au produit du montant par habitant
+antérieurement perçu par la moitié de la population fictive ajoutée à la population légale ;
+
+b) La première année où sont pris en compte les résultats du recensement obligatoire prévu au premier alinéa de l'article R.
+114-7, d'un montant égal au produit du montant par habitant perçu l'année précédant l'attribution de la population fictive,
+actualisé des taux de progression de la dotation forfaitaire, par la moitié de la population supplémentaire telle qu'elle
+résulte du recensement précité.
 
 **Liens relatifs à cet article**
 
@@ -53927,31 +53929,29 @@ de l'ordre de présentation [*conditions de vote*].
 	**Liens**:
 
 	  - TXT_ASSOCIE: Loi n°79-15 du 3 janvier 1979 - art. 27 (V)
-	  - SPEC_APPLI: Loi n°80-1102 1980-12-31 : *Ces dispositions ne sont applicables que jusqu'au 1er janvier 1986*
-	  - SPEC_APPLI: Code des communes R262-1, R262-12 : *Dispositions non applicables aux communes des départements de la Guadeloupe, de la Martinique, de la Guyane, de la Réunion et de Saint-Pierre-et-Miquelon*
+	  - SPEC_APPLI: Décret n°94-704 du 17 août 1994 - art. 11 (Ab)
+	  - SPEC_APPLI: Décret n°94-704 du 17 août 1994 - art. 13 (V)
+	  - SPEC_APPLI: Décret n°94-704 du 17 août 1994 - art. 9 (V)
+
+	**Modifié par**:
+
+	  - Décret n°94-366 du 10 mai 1994 - art. 1 ()
 
 	**Nouveaux textes**:
 
 	  - Code général des collectivités territoriales - art. R2334-3 (M)
 
 
+##### SOUS-SECTION 3 : Dotation d'aménagement
+
+##### PARAGRAPHE 1 : Dotation des groupements de communes.
+
 ###### Article R*234-5
 
-Les représentants des groupements de communes sont élus par le collège des présidents de groupements de communes, au scrutin
-majoritaire de liste à un tour, avec dépôt de listes complètes sans adjonction ni suppression de noms et sans modification de
-l'ordre de présentation.    " La liste doit comprendre :
-
-" - un président de communauté urbaine ;
-
-" - un président de communauté de villes ;
-
-" - un président de communauté de communes ;
-
-" - un président de district ;
-
-" - un président de syndicat de communes ;
-
-" - un président d'organisme institué en vue de la création d'une agglomération nouvelle. "
+Le potentiel fiscal des groupements de communes bénéficiant des dispositions de l'article L. 234-10-2 est égal à la somme des
+bases des taxes directes locales des communes membres de chaque groupement concerné, déterminées dans les conditions prévues
+par l'article L. 234-4, pondérées par le taux moyen national d'imposition à la taxe concernée constaté pour chacune des
+catégories de groupements telles que définies à l'article L. 234-10.
 
 **Liens relatifs à cet article**
 
@@ -53973,23 +53973,20 @@ l'ordre de présentation.    " La liste doit comprendre :
 
 	**Modifié par**:
 
-	  - Décret n°92-823 du 21 août 1992 - art. 1 () JORF 27 août 1992   en vigueur le 1er janvier 1993
+	  - Décret n°94-366 du 10 mai 1994 - art. 1 ()
+
+	**Cite**:
+
+	  - CODE DES COMMUNES. - art. L234-10 (M)
+	  - CODE DES COMMUNES. - art. L234-10-2 (Ab)
+	  - CODE DES COMMUNES. - art. L234-4 (M)
 
 
 ###### Article R*234-6
 
-Les représentants des maires sont élus par le collège des maires de France, au scrutin majoritaire de liste à un tour, avec
-dépôt de listes complètes sans adjonction ni suppression de noms et sans modification de l'ordre de présentation.
-
-La liste [*membres obligatoires*] doit comprendre au moins [*composition*] :
-
-- Un maire des départements d'outre-mer ;
-
-- Un maire des territoires d'outre-mer ;
-
-- Un maire de commune touristique ou thermale inscrite sur la liste prévue à l'article L. 234-14 ;
-
-- et trois maires de communes de moins de 2 000 habitants [*chiffre*].
+La dotation de péréquation prévue à l'article L. 234-10-1 est égale au produit de la population du groupement par l'écart
+relatif entre le potentiel fiscal par habitant du groupement et le potentiel fiscal moyen par habitant des groupements de
+même nature, pondéré, le cas échéant, par le coefficient d'intégration fiscale du groupement.
 
 **Liens relatifs à cet article**
 
@@ -54004,195 +54001,26 @@ La liste [*membres obligatoires*] doit comprendre au moins [*composition*] :
 	**Liens**:
 
 	  - TXT_ASSOCIE: Loi n°79-15 du 3 janvier 1979 - art. 27 (V)
-	  - SPEC_APPLI: Loi n°80-1102 1980-12-31 : *Ces dispositions ne sont applicables que jusqu'au 1er janvier 1986*
-	  - SPEC_APPLI: Code des communes R262-1, R262-12 : *Dispositions non applicables aux communes des départements de la Guadeloupe, de la Martinique, de la Guyane, de la Réunion et de Saint-Pierre-et-Miquelon*
+
+	**Modifié par**:
+
+	  - Décret n°94-366 du 10 mai 1994 - art. 1 ()
+
+	**Cite**:
+
+	  - CODE DES COMMUNES. - art. L234-10-1 (Ab)
 
 	**Nouveaux textes**:
 
 	  - Code général des collectivités territoriales - art. R5211-12 (T)
 
 
+##### PARAGRAPHE 2 : Dotation de solidarité urbaine.
+
 ###### Article R*234-7
 
-En cas d'égalité des suffrages est élue la liste pour laquelle la moyenne d'âge des candidats titulaires est la plus élevée.
-
-Nul ne peut figurer à la fois sur des listes de catégories différentes.
-
-**Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - SPEC_APPLI: *Ces dispositions ne seront applicables que jusqu'au 1er janvier 1986*
-	  - TXT_ASSOCIE: Loi n°79-15 du 3 janvier 1979 - art. 27 (V)
-	  - SPEC_APPLI: Loi n°80-1102 1980-12-31 :
-
-	**Codifié par**:
-
-	  - Décret n°77-91 1977-01-27
-
-	**Cité par**:
-
-	  - Code des communes de la Nouvelle-Calédonie - art. R234-8 (V)
-
-
-###### Article R*234-7-1
-
-L'élection des représentants des présidents des conseils régionaux a lieu par bulletins de vote [*par correspondance*]
-adressés par lettre recommandée au secrétariat de la commission de recensement prévu à l'article R. 234-10.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°77-91 1977-01-27
-
-	**Créé par**:
-
-	  - Décret n°86-767 1986-06-12 art. 2 JORF 13 Juin 1986
-
-	**Abrogé par**:
-
-	  - Décret n°94-366 du 10 mai 1994 - art. 1 () JORF 12 mai 1994
-
-	**Cite**:
-
-	  - CODE DES COMMUNES. - art. R234-10 (M)
-
-
-###### Article R*234-8
-
-L'élection des représentants des présidents de conseils généraux a lieu par bulletins de vote adressés par lettre recommandée
-[*conditions de forme*] au secrétariat de la commission de recensement prévue à l'article R. 234-10.
-
-**Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - SPEC_APPLI: *Ces dispositions ne seront applicables que jusqu'au 1er janvier 1986*
-	  - TXT_ASSOCIE: Loi n°79-15 du 3 janvier 1979 - art. 27 (V)
-	  - SPEC_APPLI: Loi n°80-1102 1980-12-31 :
-
-	**Codifié par**:
-
-	  - Décret n°77-91 1977-01-27
-
-
-###### Article R*234-9
-
-L'élection des représentants des groupements de communes et des maires a lieu par bulletins de vote adressés par lettre
-recommandée à la préfecture ou au haut-commissariat [*conditions de forme*]. Toutefois, dans les départements et territoires
-d'outre-mer ainsi que dans la collectivité territoriale de Mayotte, ces bulletins peuvent être déposés à la préfecture ou au
-haut-commissariat.
-
-Les bulletins de vote sont recensés par une commission comprenant :
-
-- le préfet ou le haut-commissaire, ou leur représentant, président ;
-
-- deux maires désignés par le préfet ou le haut-commissaire.
-
-Le secrétariat est assuré par un fonctionnaire de la préfecture ou du haut-commissariat.
-
-Les résultats sont centralisés par la commission prévue à l'article R. 234-10 [*commission centrale de recensement*].
-
-**Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - SPEC_APPLI: *Ces dispositions ne seront applicables que jusqu'au 1er janvier 1986*
-	  - TXT_ASSOCIE: Loi n°79-15 du 3 janvier 1979 - art. 27 (V)
-	  - SPEC_APPLI: Loi n°80-1102 1980-12-31 :
-
-	**Codifié par**:
-
-	  - Décret n°77-91 1977-01-27
-
-	**Cité par**:
-
-	  - CODE DES COMMUNES. - art. R*234-8 (Ab)
-
-
-###### Article R*234-10
-
-Une commission centrale de recensement est instituée auprès du ministre de l'intérieur. Elle est présidée par un conseiller
-d'Etat et doit comprendre un représentant du ministère de l'intérieur et trois représentants des associations nationales
-d'élus locaux, désignés par le ministre de l'intérieur [*définition*].
-
-**Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - SPEC_APPLI: *Ces dispositions ne seront applicables que jusqu'au 1er janvier 1986*
-	  - TXT_ASSOCIE: Loi n°79-15 du 3 janvier 1979 - art. 27 (V)
-	  - SPEC_APPLI: Loi n°80-1102 1980-12-31 :
-
-	**Codifié par**:
-
-	  - Décret n°77-91 1977-01-27
-
-	**Cité par**:
-
-	  - CODE DES COMMUNES. - art. R*234-7-1 (Ab)
-
-
-###### Article R*234-11
-
-Les listes de candidature doivent être déposées au ministère de l'intérieur à une date fixée par arrêté du ministre de
-l'intérieur.
-
-Cet arrêté fixe également la date limite d'envoi, ou éventuellement de dépôt des bulletins de vote, au ministère de
-l'intérieur, à la préfecture ou au haut-commissariat.
-
-**Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - SPEC_APPLI: *Ces dispositions ne seront applicables que jusqu'au 1er janvier 1986*
-	  - TXT_ASSOCIE: Loi n°79-15 du 3 janvier 1979 - art. 27 (V)
-	  - SPEC_APPLI: Loi n°80-1102 1980-12-31 :
-
-	**Codifié par**:
-
-	  - Décret n°77-91 1977-01-27
-
-	**Nouveaux textes**:
-
-	  - Code général des collectivités territoriales - art. R2334-4 (V)
-
-
-###### Article R*234-12
-
-Chaque bulletin est mis sous double enveloppe [*conditions de forme*] ; l'enveloppe extérieure doit porter la mention
-"élection des membres du comité des finances locales", l'indication du collège électoral auquel appartient le votant, son
-nom, sa qualité, sa signature.
-
-**Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - SPEC_APPLI: *Ces dispositions ne seront applicables que jusqu'au 1er janvier 1986*
-	  - TXT_ASSOCIE: Loi n°79-15 du 3 janvier 1979 - art. 27 (V)
-	  - SPEC_APPLI: Loi n°80-1102 1980-12-31 :
-
-	**Codifié par**:
-
-	  - Décret n°77-91 1977-01-27
-
-	**Nouveaux textes**:
-
-	  - Code général des collectivités territoriales - art. R2334-5 (V)
-
-
-###### Article R*234-13
-
-Les onze représentants de l'Etat sont désignés de la façon suivante :
-
-Cinq représentants sur proposition du ministre de l'intérieur ;
-
-Quatre représentants sur proposition du ministre chargé de l'économie et des finances ;
-
-Un représentant sur proposition du ministre chargé du tourisme ;
-
-Un représentant sur proposition du ministre chargé des départements et territoires d'outre-mer.
+La valeur de l'indice synthétique de ressources et de charges prévu au III de l'article L. 234-12 est obtenue par l'addition
+des rapports visés aux 1°, 2°, 3° et 4° de ce III.
 
 **Liens relatifs à cet article**
 
@@ -54202,10 +54030,692 @@ Un représentant sur proposition du ministre chargé des départements et territ
 
 	**Modifié par**:
 
-	  - Décret n°86-767 1986-06-12 art. 3 JORF 13 Juin 1986
+	  - Décret n°94-366 du 10 mai 1994 - art. 1 ()
+
+	**Cite**:
+
+	  - CODE DES COMMUNES. - art. L234-12 (M)
+
+	**Cité par**:
+
+	  - Code des communes de la Nouvelle-Calédonie - art. R234-8 (V)
+
+
+###### Article R*234-8
+
+La dotation de solidarité urbaine prévue à l'article L. 234-12 est répartie entre les communes éligibles de moins de 10 000
+habitants, en fonction du nombre de logements sociaux et du potentiel fiscal, dans les conditions suivantes :
+
+" a) Pour 45 p. 100 de son montant, proportionnellement au nombre de logements sociaux recensés dans la commune dans les
+conditions prévues à l'article R. 234-9 ;
+
+" b) Pour 55 p. 100 de son montant, en fonction du produit de la population de la commune, par l'écart entre le potentiel
+fiscal par habitant des communes de moins de 10 000 habitants et le potentiel fiscal par habitant de la commune, pondéré par
+l'effort fiscal de la commune, calculé selon les dispositions de l'article L. 234-5, pris en compte dans la limite de 1,3.
+
+" Le potentiel fiscal par habitant de la commune est déterminé dans les conditions prévues aux articles L. 234-2 et L. 234-4.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°77-91 1977-01-27
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Loi n°79-15 du 3 janvier 1979 - art. 27 (V)
+
+	**Modifié par**:
+
+	  - Décret n°94-366 du 10 mai 1994 - art. 1 ()
+
+	**Cite**:
+
+	  - CODE DES COMMUNES. - art. L234-12 (M)
+	  - CODE DES COMMUNES. - art. L234-2 (Ab)
+	  - CODE DES COMMUNES. - art. L234-4 (M)
+	  - CODE DES COMMUNES. - art. L234-5 (M)
+	  - CODE DES COMMUNES. - art. R234-9 (M)
+
+
+###### Article R*234-9
+
+Sont considérés comme logements sociaux pour l'application des dispositions de l'article L. 234-12 les logements satisfaisant
+à l'une des conditions suivantes :
+
+" A.  Logements à usage locatif définis ci-après :
+
+" 1. Logements appartenant aux organismes d'habitation à loyer modéré, ainsi que ceux appartenant aux collectivités locales
+et gérés par lesdits organismes ;
+
+" 2. Logements appartenant aux sociétés d'économie mixte ;
+
+" 3. Logements appartenant aux sociétés immobilières à participation majoritaire de la Caisse des dépôts et consignations ;
+
+" 4. Logements appartenant à l'Etat ;
+
+" 5. Logements appartenant aux collectivités locales ;
+
+" 6. Logements appartenant aux établissements publics, excepté les logements appartenant à des établissements publics
+bancaires, de crédit et d'assurances et aux filiales de ces organismes ;
+
+" 7. Logements appartenant à des bailleurs, personnes morales à vocation sociale et leurs filiales, dont le patrimoine
+locatif à usage d'habitation est composé d'au moins mille logements et qui :
+
+" a) Ou bien ont bénéficié de prêts spéciaux à la construction consentis par le Crédit foncier de France ou la Caisse
+française de développement ;
+
+" b) Ou bien sont régis par une convention conclue en application de l'article L. 351-2 (2°, 3° et 4°) du code de la
+construction et de l'habitation ;
+
+" c) Ou bien ont bénéficié de la participation des employeurs à l'effort de construction.
+
+" B.  Logements achevés depuis moins de dix ans et occupés par leur propriétaire si celui-ci a financé ce logement dans les
+conditions prévues par la section II du chapitre unique du titre III du livre III du code de la construction et de
+l'habitation.
+
+" Le seuil de cinq logements mentionné au 2° du III de l'article L. 234-12 s'apprécie à la date du permis de construire.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°77-91 1977-01-27
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Loi n°79-15 du 3 janvier 1979 - art. 27 (V)
+
+	**Modifié par**:
+
+	  - Décret n°94-366 du 10 mai 1994 - art. 1 ()
+
+	**Cite**:
+
+	  - CODE DES COMMUNES. - art. L234-12 (M)
+	  - Code de la construction et de l'habitation. - art. L351-2 (M)
+
+	**Cité par**:
+
+	  - CODE DES COMMUNES. - art. R*234-8 (Ab)
+
+
+###### Article R*234-10
+
+Sont également considérés comme logements sociaux et sont retenus à raison d'un logement pour trois lits les logements-foyers
+tels que définis à l'article R. 351-55 du code de la construction et de l'habitation et les résidences universitaires gérées
+par les centres régionaux des oeuvres universitaires et sociales.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°77-91 1977-01-27
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°94-366 1994-05-10 art. 7 : Les dispositions de l'article R234-10 du code des communes sont applicables à compter de la répartition de la dotation de solidarité urbaine pour l'année 1995
+
+	**Modifié par**:
+
+	  - Décret n°94-366 du 10 mai 1994 - art. 1 ()
+
+	**Cité par**:
+
+	  - CODE DES COMMUNES. - art. R*234-7-1 (Ab)
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation. - art. R351-55 (M)
+
+
+###### Article R*234-11
+
+Le nombre de logements sociaux est apprécié au 1er janvier de l'année précédant celle au titre de laquelle est versée la
+dotation de solidarité urbaine.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°77-91 1977-01-27
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Loi n°79-15 du 3 janvier 1979 - art. 27 (V)
+
+	**Modifié par**:
+
+	  - Décret n°94-366 du 10 mai 1994 - art. 1 ()
+
+	**Nouveaux textes**:
+
+	  - Code général des collectivités territoriales - art. R2334-4 (V)
+
+
+###### Article R*234-12
+
+Le nombre total de logements utilisé pour le calcul des rapports visés aux 2° et 3° du III de l'article L. 234-12 est égal au
+nombre d'articles du rôle général de taxe d'habitation, à l'exclusion des dépendances bâties non rattachées, l'année
+précédant l'exercice au cours duquel est répartie la dotation de solidarité urbaine.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°77-91 1977-01-27
+
+	**Modifié par**:
+
+	  - Décret n°94-366 du 10 mai 1994 - art. 1 ()
+
+	**Cite**:
+
+	  - CODE DES COMMUNES. - art. L234-12 (M)
+
+	**Nouveaux textes**:
+
+	  - Code général des collectivités territoriales - art. R2334-5 (V)
+
+
+##### PARAGRAPHE 3 : Dotation de solidarité rurale.
+
+###### Article R*234-13
+
+L'attribution revenant à chaque commune au titre de la première fraction de la dotation de solidarité rurale prévue au I de
+l'article L. 234-13 est égale au produit de la population, prise en compte dans la limite de 10 000 habitants, par l'écart
+relatif entre le potentiel fiscal moyen par habitant de l'ensemble des communes de moins de 10 000 habitants et le potentiel
+fiscal par habitant de la commune, pondéré par l'effort fiscal pris en compte dans la limite de 1,2.
+
+Le potentiel fiscal par habitant est calculé par application des dispositions des articles L. 234-2 et L. 234-4.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°77-91 1977-01-27
+
+	**Modifié par**:
+
+	  - Décret n°94-366 du 10 mai 1994 - art. 1 ()
+
+	**Cite**:
+
+	  - CODE DES COMMUNES. - art. L234-13 (M)
+	  - CODE DES COMMUNES. - art. L234-2 (Ab)
+	  - CODE DES COMMUNES. - art. L234-4 (M)
 
 
 ###### Article R*234-14
+
+Le montant perçu par une commune au titre du 1° du II de l'article L. 234-13 est égal au produit de sa population par l'écart
+relatif entre le potentiel fiscal moyen par habitant des communes appartenant au même groupe démographique et le potentiel
+fiscal par habitant de la commune, pondéré par l'effort fiscal pris en compte dans la limite de 1,2.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°77-91 1977-01-27
+
+	**Modifié par**:
+
+	  - Décret n°94-366 du 10 mai 1994 - art. 1 ()
+
+	**Cite**:
+
+	  - CODE DES COMMUNES. - art. L234-13 (M)
+
+
+###### Article R*234-15
+
+Le montant perçu par une commune au titre du 4° du II de l'article L. 234-13 est égal au produit de sa population par l'écart
+relatif entre le potentiel fiscal par hectare de la commune et le potentiel fiscal moyen par hectare des communes de moins de
+10 000 habitants.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°77-91 1977-01-27
+
+	**Modifié par**:
+
+	  - Décret n°94-366 du 10 mai 1994 - art. 1 ()
+
+	**Cite**:
+
+	  - CODE DES COMMUNES. - art. L234-13 (M)
+
+
+###### Article R*234-16
+
+Pour l'application de l'article L. 234-13, les données à prendre en compte s'apprécient au 1er janvier de l'année précédant
+l'exercice au titre duquel est faite la répartition, à l'exception de la population, calculée dans les conditions prévues à
+l'article L. 234-2, et du nombre d'élèves, constaté lors de la rentrée scolaire de l'avant-dernière année.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°77-91 1977-01-27
+
+	**Modifié par**:
+
+	  - Décret n°94-366 du 10 mai 1994 - art. 1 ()
+
+	**Cite**:
+
+	  - CODE DES COMMUNES. - art. L234-13 (M)
+	  - CODE DES COMMUNES. - art. L234-2 (Ab)
+
+
+##### SOUS-SECTION 4 : Dispositions communes aux diverses sortes d'attribution.
+
+###### Article R*234-17
+
+Les charges salariales remboursées en application de l'article L. 234-14 comprennent l'ensemble des rémunérations définies
+par les décrets n° 85-730 du 17 juillet 1985 et n° 85-1148 du 24 octobre 1985, y compris les avantages ayant le caractère de
+complément de rémunération définis au troisième alinéa de l'article 111 de la loi n° 84-53 du 26 janvier 1984. Elles incluent
+également les cotisations sociales afférentes à ces rémunérations.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°77-91 1977-01-27
+
+	**Cite**:
+
+	  - Loi n°84-53 1984-01-26 art. 111
+	  - Décret n°85-730 1985-07-17
+	  - Décret n°85-1148 1985-10-24
+	  - CODE DES COMMUNES. - art. L234-14 (M)
+
+	**Modifié par**:
+
+	  - Décret n°94-366 du 10 mai 1994 - art. 1 ()
+
+
+##### SOUS-SECTION 5 : Comité des finances locales.
+
+###### Article R*234-18
+
+Les membres élus du comité des finances locales sont désignés pour trois ans ; leur mandat peut être renouvelé.
+
+Ils cessent de faire partie du comité s'ils perdent le mandat électif à raison duquel ils ont été désignés. Dans ce seul cas,
+ils sont remplacés par les personnes élues en même temps qu'eux à cet effet.
+
+Au cas où ces dernières ont également perdu le mandat électifà raison duquel elles ont été désignées, il est pourvu aux
+vacances pour la durée du mandat restant à courir.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°77-91 1977-01-27
+
+	**Modifié par**:
+
+	  - Décret n°94-366 du 10 mai 1994 - art. 1 ()
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°94-704 du 17 août 1994 - art. 11 (Ab)
+	  - SPEC_APPLI: Décret n°94-704 du 17 août 1994 - art. 13 (V)
+	  - SPEC_APPLI: Décret n°94-704 du 17 août 1994 - art. 9 (V)
+
+
+###### Article R*234-19
+
+Les représentants des présidents des conseils régionaux et de l'assemblée de Corse sont élus par le collège des présidents de
+ces assemblées au scrutin majoritaire de liste à un tour, avec dépôt de listes complètes, sans adjonction ni suppression de
+noms et sans modification de l'ordre de présentation.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°77-91 1977-01-27
+
+	**Modifié par**:
+
+	  - Décret n°94-366 du 10 mai 1994 - art. 1 ()
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°94-704 du 17 août 1994 - art. 11 (Ab)
+	  - SPEC_APPLI: Décret n°94-704 du 17 août 1994 - art. 13 (V)
+	  - SPEC_APPLI: Décret n°94-704 du 17 août 1994 - art. 9 (V)
+
+
+###### Article R*234-20
+
+Les représentants des présidents des conseils généraux sont élus par le collège des présidents des conseils généraux au
+scrutin majoritaire de liste à un tour, avec dépôt de listes complètes, sans adjonction ni suppression de noms et sans
+modification de l'ordre de présentation.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°77-91 1977-01-27
+
+	**Modifié par**:
+
+	  - Décret n°94-366 du 10 mai 1994 - art. 1 ()
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°94-704 du 17 août 1994 - art. 11 (Ab)
+	  - SPEC_APPLI: Décret n°94-704 du 17 août 1994 - art. 13 (V)
+	  - SPEC_APPLI: Décret n°94-704 du 17 août 1994 - art. 9 (V)
+
+
+###### Article R*234-21
+
+Les représentants des groupements de communes sont élus par le collège des présidents de groupements de communes, au scrutin
+majoritaire de liste à un tour, avec dépôt de listes complètes, sans adjonction ni supression de noms et sans modification de
+l'ordre de présentation.
+
+La liste doit comprendre :
+
+a) Un président de communauté urbaine ;
+
+b) Un président de communauté de villes ;
+
+c) Un président de communauté de communes ;
+
+d) Un président de district ;
+
+e) Un président de syndicat de communes ;
+
+f) Un président d'organisme institué en vue de la création d'une agglomération nouvelle.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°77-91 1977-01-27
+
+	**Modifié par**:
+
+	  - Décret n°94-366 du 10 mai 1994 - art. 1 ()
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°94-704 du 17 août 1994 - art. 11 (Ab)
+	  - SPEC_APPLI: Décret n°94-704 du 17 août 1994 - art. 13 (V)
+	  - SPEC_APPLI: Décret n°94-704 du 17 août 1994 - art. 9 (V)
+
+
+###### Article R*234-22
+
+Les représentants des maires sont élus par le collège des maires de France, au scrutin majoritaire de liste à un tour, avec
+dépôt de listes complètes sans adjonction ni supression de noms et sans modification de l'ordre de présentation.
+
+La liste doit comprendre au moins :
+
+a) Un maire des départements d'outre-mer ;
+
+b) Un maire des territoires d'outre-mer ;
+
+c) Un maire de commune touristique ou thermale inscrite sur la liste prévue à l'article L. 234-13 dans sa rédaction
+antérieure à la loi n° 93-1436 du 31 décembre 1993 portant réforme de la dotation globale de fonctionnement et modifiant le
+code des communes et le code général des impôts ;
+
+" d) Trois maires de communes de moins de 2 000 habitants.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°77-91 1977-01-27
+
+	**Modifié par**:
+
+	  - Décret n°94-366 du 10 mai 1994 - art. 1 ()
+
+	**Cite**:
+
+	  - Loi n°93-1436 1993-12-31
+	  - CODE DES COMMUNES. - art. L234-13 (M)
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°94-704 du 17 août 1994 - art. 11 (Ab)
+	  - SPEC_APPLI: Décret n°94-704 du 17 août 1994 - art. 13 (V)
+	  - SPEC_APPLI: Décret n°94-704 du 17 août 1994 - art. 9 (V)
+
+
+###### Article R*234-23
+
+En cas d'égalité des suffrages, est élue la liste pour laquelle la moyenne d'âge des candidats titulaires est la plus élevée.
+
+Nul ne peut figurer à la fois sur des listes de catégories différentes.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°77-91 1977-01-27
+
+	**Modifié par**:
+
+	  - Décret n°94-366 du 10 mai 1994 - art. 1 ()
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°94-704 du 17 août 1994 - art. 11 (Ab)
+	  - SPEC_APPLI: Décret n°94-704 du 17 août 1994 - art. 13 (V)
+	  - SPEC_APPLI: Décret n°94-704 du 17 août 1994 - art. 9 (V)
+
+	**Cite**:
+
+	  - Code des communes R234-22
+
+
+###### Article R*234-24
+
+L'élection des représentants des présidents des conseils régionaux et de l'assemblée de Corse a lieu par bulletins de vote
+adressés par lettre recommandée ou déposés contre récépissés au secrétariat de la commission de recensement prévue à
+l'article R. 234-27.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°77-91 1977-01-27
+
+	**Modifié par**:
+
+	  - Décret n°94-366 du 10 mai 1994 - art. 1 ()
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°94-704 du 17 août 1994 - art. 11 (Ab)
+	  - SPEC_APPLI: Décret n°94-704 du 17 août 1994 - art. 13 (V)
+	  - SPEC_APPLI: Décret n°94-704 du 17 août 1994 - art. 9 (V)
+
+	**Cite**:
+
+	  - CODE DES COMMUNES R234-27
+
+
+###### Article R*234-25
+
+L'élection des représentants des présidents des conseils généraux a lieu par bulletins de vote adressés par lettre
+recommandée ou déposés contre récépissés au secrétariat de la commission de recensement prévue à l'article R. 234-27.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°77-91 1977-01-27
+
+	**Modifié par**:
+
+	  - Décret n°94-366 du 10 mai 1994 - art. 1 ()
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°94-704 du 17 août 1994 - art. 11 (Ab)
+	  - SPEC_APPLI: Décret n°94-704 du 17 août 1994 - art. 13 (V)
+	  - SPEC_APPLI: Décret n°94-704 du 17 août 1994 - art. 9 (V)
+
+	**Cite**:
+
+	  - CODE DES COMMUNES R234-27
+
+
+###### Article R*234-26
+
+L'élection des représentants des groupements de communes et des maires a lieu par bulletins de vote adressés par lettre
+recommandée ou déposés contre récépissés à la préfecture.
+
+Les bulletins de vote sont recensés par une commission comprenant :
+
+le préfet ou son représentant, président ;
+
+deux maires désignés par le préfet.
+
+Le secrétariat est assuré par un fonctionnaire de la préfecture.
+
+Les résultats sont centralisés par la commission prévue à l'article R. 234-27.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°77-91 1977-01-27
+
+	**Créé par**:
+
+	  - Décret n°94-366 du 10 mai 1994 - art. 1 ()
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°94-704 du 17 août 1994 - art. 11 (Ab)
+	  - SPEC_APPLI: Décret n°94-704 du 17 août 1994 - art. 13 (V)
+	  - SPEC_APPLI: Décret n°94-704 du 17 août 1994 - art. 9 (V)
+
+	**Cite**:
+
+	  - CODE DES COMMUNES R234-27
+
+
+###### Article R*234-27
+
+Une commission centrale de recensement est instituée auprès du ministre de l'intérieur. Elle est présidée par un conseiller
+d'Etat et doit comprendre un représentant du ministre de l'intérieur et trois représentants des associations nationales
+d'élus locaux, désignés par le ministre de l'intérieur.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°77-91 1977-01-27
+
+	**Créé par**:
+
+	  - Décret n°94-366 du 10 mai 1994 - art. 1 ()
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°94-704 du 17 août 1994 - art. 11 (Ab)
+	  - SPEC_APPLI: Décret n°94-704 du 17 août 1994 - art. 13 (V)
+	  - SPEC_APPLI: Décret n°94-704 du 17 août 1994 - art. 9 (V)
+
+
+###### Article R*234-28
+
+Les listes de candidature doivent être déposées au ministère de l'intérieur à une date fixée par arrêté du ministre de
+l'intérieur.
+
+Cet arrêté fixe également la date limite d'envoi ou de dépôt des bulletins de vote au ministère de l'intérieur ou à la
+préfecture.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°77-91 1977-01-27
+
+	**Créé par**:
+
+	  - Décret n°94-366 du 10 mai 1994 - art. 1 ()
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°94-704 du 17 août 1994 - art. 11 (Ab)
+	  - SPEC_APPLI: Décret n°94-704 du 17 août 1994 - art. 13 (V)
+	  - SPEC_APPLI: Décret n°94-704 du 17 août 1994 - art. 9 (V)
+
+
+###### Article R*234-29
+
+Chaque bulletin est mis sous double enveloppe ; l'enveloppe extérieure doit porter la mention "Election des membres du comité
+des finances locales", l'indication du collège électoral auquel appartient le votant, son nom, sa qualité, sa signature.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°73-127 1973-02-09 art. 1
+
+	**Codifié par**:
+
+	  - Décret n°77-91 1977-01-27
+
+	**Modifié par**:
+
+	  - Décret n°94-366 du 10 mai 1994 - art. 1 ()
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°94-704 du 17 août 1994 - art. 11 (Ab)
+	  - SPEC_APPLI: Décret n°94-704 du 17 août 1994 - art. 13 (V)
+	  - SPEC_APPLI: Décret n°94-704 du 17 août 1994 - art. 9 (V)
+
+
+###### Article R*234-30
+
+Les onze représentants de l'Etat sont désignés par décret de la façon suivante :
+
+a) Quatre représentants sur proposition du ministre de l'intérieur ;
+
+b) Un représentant sur proposition du ministre chargé de l'économie ;
+
+c) Trois représentants sur proposition du ministre chargé du budget ;
+
+d) Un représentant sur proposition du ministre chargé du tourisme ;
+
+e) Un représentant sur proposition du ministre chargé des départements et territoires d'outre-mer ;
+
+f) Un représentant sur proposition du ministre chargé de la ville.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°73-127 1973-02-09 art. 2
+
+	**Codifié par**:
+
+	  - Décret n°77-91 1977-01-27
+
+	**Modifié par**:
+
+	  - Décret n°94-366 du 10 mai 1994 - art. 1 ()
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°94-704 du 17 août 1994 - art. 11 (Ab)
+	  - SPEC_APPLI: Décret n°94-704 du 17 août 1994 - art. 13 (V)
+	  - SPEC_APPLI: Décret n°94-704 du 17 août 1994 - art. 9 (V)
+
+
+###### Article R*234-31
 
 Le comité élit son président, parmi les membres élus, au scrutin secret à la majorité absolue.
 
@@ -54216,18 +54726,26 @@ En cas d'égalité de suffrages le plus âgé est déclaré élu.
 
 **Liens relatifs à cet article**
 
+	**Anciens textes**:
+
+	  - Décret n°73-127 1973-02-09 art. 3
+
 	**Codifié par**:
 
 	  - Décret n°77-91 1977-01-27
 
+	**Modifié par**:
+
+	  - Décret n°94-366 du 10 mai 1994 - art. 1 ()
+
 	**Liens**:
 
-	  - TXT_ASSOCIE: Loi n°79-15 du 3 janvier 1979 - art. 27 (V)
-	  - SPEC_APPLI: Loi n°80-1102 1980-12-31 : *Ces dispositions ne sont applicables que jusqu'au 1er janvier 1986*
-	  - SPEC_APPLI: Code des communes R262-1, R262-12 : *Dispositions non applicables aux communes des départements de la Guadeloupe, de la Martinique, de la Guyane, de la Réunion et de Saint-Pierre-et-Miquelon*
+	  - SPEC_APPLI: Décret n°94-704 du 17 août 1994 - art. 11 (Ab)
+	  - SPEC_APPLI: Décret n°94-704 du 17 août 1994 - art. 13 (V)
+	  - SPEC_APPLI: Décret n°94-704 du 17 août 1994 - art. 9 (V)
 
 
-###### Article R*234-15
+###### Article R*234-32
 
 Les élections des membres du comité des finances locales et du président peuvent être contestées devant le Conseil d'Etat par
 tout électeur, par les candidats et par le ministre de l'intérieur, dans les dix jours qui suivent la publication des
@@ -54235,22 +54753,28 @@ résultats au Journal officiel.
 
 **Liens relatifs à cet article**
 
+	**Anciens textes**:
+
+	  - Décret n°73-127 1973-02-09 art. 5 (partie)
+
 	**Codifié par**:
 
 	  - Décret n°77-91 1977-01-27
 
+	**Modifié par**:
+
+	  - Décret n°94-366 du 10 mai 1994 - art. 1 ()
+
 	**Liens**:
 
-	  - TXT_ASSOCIE: Loi n°79-15 du 3 janvier 1979 - art. 27 (V)
-	  - SPEC_APPLI: Loi n°80-1102 1980-12-31 : *Ces dispositions ne sont applicables que jusqu'au 1er janvier 1986*
-	  - SPEC_APPLI: Code des communes R262-1, R262-12 : *Dispositions non applicables aux communes des départements de la Guadeloupe, de la Martinique, de la Guyane, de la Réunion et de Saint-Pierre-et-Miquelon*
+	  - SPEC_APPLI: Décret n°94-704 du 17 août 1994 - art. 11 (Ab)
+	  - SPEC_APPLI: Décret n°94-704 du 17 août 1994 - art. 13 (V)
+	  - SPEC_APPLI: Décret n°94-704 du 17 août 1994 - art. 9 (V)
 
 
-###### Article R*234-16
+###### Article R*234-33
 
 Le comité établit son règlement intérieur. Celui-ci est approuvé par le ministre de l'intérieur.
-
-Il se réunit au moins deux fois par an [*fréquence*].
 
 Il est convoqué toutes les fois qu'il est nécessaire par son président soit d'office, soit à la demande de la moitié au moins
 des membres ; en outre, il peut être convoqué par décision du ministre de l'intérieur.
@@ -54264,475 +54788,6 @@ prépondérante.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Décret n°77-91 1977-01-27
-
-	**Liens**:
-
-	  - TXT_ASSOCIE: Loi n°79-15 du 3 janvier 1979 - art. 27 (V)
-	  - SPEC_APPLI: Loi n°80-1102 1980-12-31 : *Ces dispositions ne sont applicables que jusqu'au 1er janvier 1986*
-	  - SPEC_APPLI: Code des communes R262-1, R262-12 : *Dispositions non applicables aux communes des départements de la Guadeloupe, de la Martinique, de la Guyane, de la Réunion et de Saint-Pierre-et-Miquelon*
-
-
-###### Article R*234-17
-
-La dotation prévue à l'article L. 234-18 et destinée à couvrir les frais de fonctionnement du comité et le coût des travaux
-qui lui sont nécessaires est versée au Trésor et rattachée au budget du ministère de l'intérieur selon la procédure de fonds
-de concours pour dépenses d'intérêt public.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°77-91 1977-01-27
-
-	**Liens**:
-
-	  - TXT_ASSOCIE: Loi n°79-15 du 3 janvier 1979 - art. 27 (V)
-	  - SPEC_APPLI: Loi n°80-1102 1980-12-31 : *Ces dispositions ne sont applicables que jusqu'au 1er janvier 1986*
-	  - SPEC_APPLI: Code des communes R262-1, R262-12 : *Dispositions non applicables aux communes des départements de la Guadeloupe, de la Martinique, de la Guyane, de la Réunion et de Saint-Pierre-et-Miquelon*
-
-
-###### Article R*234-18
-
-Les frais relatifs à l'élection des représentants des conseils généraux, des groupements de communes et des communes, ainsi
-que les frais de déplacement des membres élus non parlementaires sont à la charge du comité.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°77-91 1977-01-27
-
-	**Liens**:
-
-	  - TXT_ASSOCIE: Loi n°79-15 du 3 janvier 1979 - art. 27 (V)
-	  - SPEC_APPLI: Loi n°80-1102 1980-12-31 : *Ces dispositions ne sont applicables que jusqu'au 1er janvier 1986*
-	  - SPEC_APPLI: Code des communes R262-1, R262-12 : *Dispositions non applicables aux communes des départements de la Guadeloupe, de la Martinique, de la Guyane, de la Réunion et de Saint-Pierre-et-Miquelon*
-
-
-##### SOUS-SECTION 2 : Dotation supplémentaire versée aux communes touristiques ou thermales et à leurs groupements.
-
-###### Article R*234-19
-
-La liste annuelle des communes et groupements de communes touristiques ou thermaux prévue au I de l'article L. 234-13 du code
-des communes est dressée par arrêté conjoint du ministre chargé des collectivités locales, du ministre chargé du budget et du
-ministre chargé du tourisme.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°77-91 1977-01-27
-
-	**Modifié par**:
-
-	  - Décret n°88-625 du 6 mai 1988 - art. 1 ()
-
-	**Cite**:
-
-	  - CODE DES COMMUNES. - art. L234-13 (M)
-
-
-###### Article R*234-20
-
----Figurent sur la liste annuelle des communes touristiques ou thermales les communes justifiant d'une capacité d'accueil
-pondérée totale au moins égale aux chiffres indiqués dans la colonne (1) du tableau ci-dessous et pour lesquelles le rapport
-entre cette capacité et la population permanente est au moins égal aux chiffres indiqués dans la colonne (2) du même tableau.
-
-<table>
-  <tbody><tr>
-    <td> :-----------------------------:</td>
-  </tr>
-  <tr>
-    <td> : CAPACITE  :     RAPPORT     :</td>
-  </tr>
-  <tr>
-    <td> : d'accueil :    entre la     :</td>
-  </tr>
-  <tr>
-    <td> : pondérée  :    capacité     :</td>
-  </tr>
-  <tr>
-    <td> :  totale   :    d'accueil    :</td>
-  </tr>
-  <tr>
-    <td> :           : pondérée totale :</td>
-  </tr>
-  <tr>
-    <td> :           :     et la       :</td>
-  </tr>
-  <tr>
-    <td> :           :   population    :</td>
-  </tr>
-  <tr>
-    <td> :           :   permanente    :</td>
-  </tr>
-  <tr>
-    <td> :    (1)    :      (2)        :</td>
-  </tr>
-  <tr>
-    <td> :-----------:-----------------:</td>
-  </tr>
-  <tr>
-    <td> :    700    :      0,5        :</td>
-  </tr>
-  <tr>
-    <td> :  1.000    :      0,3        :</td>
-  </tr>
-  <tr>
-    <td> :  3.000    :      0,250      :</td>
-  </tr>
-  <tr>
-    <td> :  7.000    :      0,225      :</td>
-  </tr>
-  <tr>
-    <td> : 14.000    :      0,20       :</td>
-  </tr>
-  <tr>
-    <td> : 30.000    :      0,185      :</td>
-  </tr>
-  <tr>
-    <td> :                             :</td>
-  </tr>
-</tbody></table>
-
-" Ne peuvent figurer sur la liste les communes dont la capacité d'accueil est principalement liée à l'existence d'un aéroport
-situé sur leur territoire, même partiellement, ou sur le territoire d'une commune limitrophe.
-
-" Pour l'application du présent article le chiffre de la population permanente est le chiffre de la population municipale,
-tel qu'il résulte du dernier recensement général ou complémentaire.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°77-91 1977-01-27
-
-	**Modifié par**:
-
-	  - Décret n°88-625 du 6 mai 1988 - art. 1 ()
-
-
-###### Article R*234-21
-
-La capacité d'accueil pondérée totale [*calcul*] s'obtient en ajoutant à la capacité d'accueil pondérée existante le dixième
-de la capacité d'accueil pondérée en voie de création.
-
-" La capacité d'accueil existante est arrêtée chaque année par le préfet de département. Elle est constatée au 1er janvier de
-l'année précédant celle de la répartition.
-
-" La capacité d'accueil existante pondérée est obtenue en totalisant les chiffres résultant des produits suivants :
-
-" Nombre de chambres dans les hôtels et nombre de lits dans les résidences de tourisme classés, conformément au décret n°
-66-371 du 13 juin 1966, dans les catégories 4 étoiles luxe et 4 étoiles, affectés respectivement des coefficients 6 et 3 ;
-
-" Nombre de chambres dans les hôtels et nombre de lits dans les résidences de tourisme classés, conformément au décret n°
-66-371 du 13 juin 1966, dans les autres catégories, affectés respectivement des coefficients 4 et 2 ;
-
-" Nombre de chambres dans les hôtels non homologués tourisme, mentionnés par le décret n° 66-371 du 13 juin 1966, affecté du
-coefficient 2 ;
-
-" Nombre de places dans les villages de vacances classés, conformément au décret n° 68-476 du 25 mai 1968 modifié et dans les
-maisons familiales de vacances agréées, affecté du coefficient 2 ;
-
-" Nombre d'emplacements dans les terrains aménagés pour l'accueil des campeurs et des caravanes classés, conformément aux
-articles R. 443-8 à R. 443-8-3 du code de l'urbanisme, 4 étoiles et 4 étoiles grand confort et nombre d'emplacements dans les
-parcs résidentiels de loisirs sous régime hôtelier classés, conformément à l'article R. 444-4 du code de l'urbanisme,
-affectés du coefficient 4 ;
-
-" Nombre d'emplacements dans les terrains aménagés pour l'accueil des campeurs et des caravanes, classés dans les autres
-catégories, affecté du coefficient 3 ;
-
-" Nombre de personnes pouvant être hébergées dans les logements meublés classés meublés de tourisme et gîtes de France dans
-les conditions prévues à l'article 58 de la loi n° 65-997 du 29 novembre 1965, affecté du coefficient 2 ;
-
-" Nombre de pièces dans les logements meublés loués à une population non résidente à titre principal et imposables à la taxe
-professionnelle, affecté du coefficient 1 ;
-
-" Nombre de places dans les hôpitaux thermaux, dans les maisons d'enfants à caractère sanitaire spécialisées pour cures
-thermales et dans les centres de thalassothérapie, affecté du coefficient 1,5 ;
-
-" Nombre de places d'hébergement collectif dans les établissements publics ou privés, à caractère climatique ou touristique,
-tels que sanatoriums, colonies de vacances, auberges de jeunesse et centres de vacances, affecté du coefficient 1.
-
-" La capacité d'accueil en voie de création est arrêtée dans les mêmes conditions que la capacité d'accueil existante, sur la
-base des déclarations d'ouverture de chantier. Toutefois, les logements meublés mentionnés ci-dessus ne peuvent être pris en
-compte au titre de la capacité d'accueil en voie de création.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Loi n°65-997 du 29 novembre 1965 - art. 58, v. init.
-	  - Décret n°66-371 1966-06-13
-	  - Décret n°68-476 1968-05-25
-	  - Code de l'urbanisme - art. R443-8 (M)
-	  - Code de l'urbanisme R443-8, R443-8-3, R444-4
-
-	**Codifié par**:
-
-	  - Décret n°77-91 1977-01-27
-
-	**Modifié par**:
-
-	  - Décret n°88-625 du 6 mai 1988 - art. 1 ()
-
-
-###### Article R*234-22
-
-La dotation revenant aux communes touristiques ou thermales est répartie :
-
-" a) Pour 50 p. 100 de son montant, proportionnellement à la capacité d'accueil pondérée existante et en voie de création ;
-
-" b) Pour 30 p. 100 de son montant, proportionnellement à la capacité d'accueil pondérée existante et en voie de création,
-majorée ou minorée proportionnellement au rapport entre la charge nette par habitant de la commune concernée et la charge
-nette moyenne par habitant de l'ensemble des communes de même importance démographique ;
-
-" c) Pour 15 p. 100 de son montant, proportionnellement au produit de la taxe de séjour et de la taxe de séjour forfaitaire
-perçu sur son territoire au titre du dernier exercice connu ;
-
-" d) Pour 5 p. 100 de son montant, proportionnellement à la capacité d'accueil pondérée existante et en voie de création,
-majorée ou minorée proportionnellement à l'écart relatif entre le potentiel fiscal moyen par habitant des communes de même
-importance démographique que la commune concernée et le potentiel fiscal par habitant de cette commune.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°77-91 1977-01-27
-
-	**Modifié par**:
-
-	  - Décret n°88-625 du 6 mai 1988 - art. 1 ()
-
-
-###### Article R*234-23
-
-Pour l'application des b et d de l'article R. 234-22, les communes sont réparties dans les groupes démographiques suivants :
-
-------0 à    699 habitants ;
-
-----700 à  1 999 habitants ;
-
---2 000 à  4 999 habitants ;
-
---5 000 à 19 999 habitants ;
-
-- 20 000 à 49 999 habitants ;
-
-- 50 000 à 99 999 habitants ;
-
-100 000 et plus.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°77-91 1977-01-27
-
-	**Modifié par**:
-
-	  - Décret n°88-625 du 6 mai 1988 - art. 1 ()
-
-	**Cite**:
-
-	  - Code des communes R234-22
-
-
-###### Article R*234-24
-
-La charge nette mentionnée au b de l'article R. 234-22 est déterminée à partir du dernier compte administratif connu de la
-commune. Elle est égale au montant des dépenses directes de la section de fonctionnement, diminué du montant des produits de
-l'exploitation, des produits domaniaux, de la part des produits financiers correspondant aux services exploités en régie,
-concédés ou affermés, et des recettes perçues au titre de la taxe de séjour et de la taxe de séjour forfaitaire, de la taxe
-sur les remontées mécaniques et de la taxe sur les jeux.
-
-Lorsqu'une commune appartient à un groupement de communes bénéficiaire de la dotation supplémentaire, sa charge nette est
-majorée d'une quote-part de la charge nette du groupement, proportionnelle au montant de sa participation aux charges du
-groupement au titre de l'exercice considéré.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°77-91 1977-01-27
-
-	**Modifié par**:
-
-	  - Décret n°88-625 du 6 mai 1988 - art. 1 ()
-
-	**Cite**:
-
-	  - Code des communes R234-22
-
-
-###### Article R*234-25
-
-Les syndicats intercommunaux, les districts et les communes groupées au sein d'un syndicat mixte sont, sur leur demande,
-considérés comme une seule entité pour l'application des articles R. 234-20 et R. 234-21 et inscrits sur la liste annuelle
-mentionnée à l'article R. 234-19 lorsque l'aménagement touristique constitue la vocation principale de ces groupements.
-
-" La dotation supplémentaire est calculée commune par commune. Elle est versée directement au budget du syndicat, du
-district, ou du budget de chaque commune dans le cas de communes groupées au sein d'un syndicat mixte.
-
-" Lorsqu'une commune fait partie d'un groupement de communes bénéficiaire de la dotation supplémentaire et qui a institué la
-taxe de séjour ou la taxe de séjour forfaitaire, le produit de cette taxe, pris en compte pour le calcul de la dotation
-supplémentaire, est réparti entre les communes membres proportionnellement à leur capacité d'accueil pondérée existante.
-
-" La capacité d'accueil d'une commune faisant partie de plusieurs groupements dont l'aménagement touristique constitue la
-vocation principale ne peut être prise en compte pour l'application des dispositions du présent article que pour un seul de
-ces groupements. Le choix de ce groupement par la commune est notifié au préfet lors du recensement annuel des capacités
-d'accueil. "
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°77-91 1977-01-27
-
-	**Modifié par**:
-
-	  - Décret n°88-625 du 6 mai 1988 - art. 1 ()
-
-	**Cite**:
-
-	  - Code des communes 234-19, 234-20, 234-21
-
-
-##### SOUS-SECTION 3 : Répartition d'une part des amendes relatives à la circulation routière.
-
-###### Article R*234-29
-
-Les recettes versées au fonds d'action locale, en application de l'article L. 234-28, sont partagées - proportionnellement au
-nombre des contraventions à la police de la circulation dressées sur leur territoire respectif au cours de l'année précédant
-celle au titre de laquelle est effectuée la répartition - entre :
-
-1° D'une part, les communautés urbaines et autres groupements comptant au moins 25.000 habitants, auxquels les communes ont
-transféré la totalité de leurs compétences en matière de voies communales, de transports en commun et de parcs de
-stationnement et les communes de 25.000 habitants et plus ne faisant pas partie de ces groupements ;
-
-2° D'autre part, les groupements de moins de 25.000 habitants exerçant la totalité des compétences précitées et les communes
-de moins de 25.000 habitants ne faisant pas partie de ces groupements.
-
-**Nota:**
-
-Le décret 80-16 du 10 janvier 1980 a créé un article R234-29 et R234-30 dans la sous-section II (dotation supplémentaire
-versée aux communes touristiques et thermales) alors que cet article existait déjà dans la sous-section III.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°73-127 1973-02-09 art. 1
-
-	**Codifié par**:
-
-	  - Décret n°77-91 1977-01-27
-
-	**Créé par**:
-
-	  - Décret n°77-91 1977-01-27 JORF ET JONC 3 FEVRIER 1977 date d'entrée en vigueur 20 MARS 1977
-
-	**Cite**:
-
-	  - CODE DES COMMUNES. - art. L234-28 (Ab)
-
-
-###### Article R*234-30
-
-Les sommes revenant aux communes et groupements  mentionnés au 1° de l'article précédent sont réparties entre eux au prorata
-des contraventions dénombrées, l'année précédente, sur leur territoire.
-
-**Nota:**
-
-Le décret 80-16 du 10 janvier 1980 a créé un article R234-29 et r234-30 dans la sous-section II (dotation supplémentaire
-versée aux communes touristiques et thermales) alors que cet article existait déjà dans la sous-section III.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°73-127 1973-02-09 art. 2
-
-	**Codifié par**:
-
-	  - Décret n°77-91 1977-01-27
-
-	**Créé par**:
-
-	  - Décret n°77-91 1977-01-27 JORF ET JONC 3 FEVRIER 1977 date d'entrée en vigueur 20 MARS 1977
-
-	**Cite**:
-
-	  - Code des communes R234-29 1°
-
-
-###### Article R*234-31
-
-Les sommes revenant aux communes et groupements [*moins de 25.000 habitants*] mentionnés au 2° de l'article R. 234-29 sont
-réparties [*modalités*] entre ceux d'entre eux qui ont à faire face à des travaux [*transports en commun, circulation*]
-mentionnés à l'article R. 234-32.
-
-Cette répartition est opérée après ventilation, par département, sur la base des contraventions dénombrées, l'année
-précédente, sur le territoire de ces communes et groupements.
-
-Elle est effectuée par le conseil général [*attributions*] qui arrête la liste des bénéficiaires et le montant des
-attributions à verser en fonction de l'urgence et du coût des opérations à réaliser.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°73-127 1973-02-09 art. 3
-
-	**Codifié par**:
-
-	  - Décret n°77-91 1977-01-27
-
-	**Créé par**:
-
-	  - Décret n°77-91 1977-01-27 JORF ET JONC 3 FEVRIER 1977 date d'entrée en vigueur 20 MARS 1977
-
-	**Cite**:
-
-	  - Code des communes R234-29 2° et R234-32
-
-
-###### Article R*234-32
-
-Les sommes allouées, en application des articles qui précèdent, sont utilisées au financement des opérations suivantes :
-[*affectation*]        1° En ce qui concerne les transports en commun de surface :
-
--  construction de gares routières ou d'autobus et de parcs de stationnement destinés aux usagers ;
-
--  aménagement de voies réservées aux transports en surface ;
-
--  création d'accès spéciaux pour autobus sur les autoroutes ;
-
-2° En ce qui concerne les métropolitains et le réseau de banlieue de la Société nationale des chemins de fer :
-
--  aménagement d'accès et de couloirs de correspondance ;
-
--  construction de trottoirs roulants et d'escaliers mécaniques ;
-
-3° En ce qui concerne la circulation :
-
--  étude et mise en oeuvre des plans de circulation ;
-
--  création de parcs de stationnement ;
-
--  installation et développement des signaux lumineux et de la signalisation horizontale ;
-
--  aménagement de carrefours ;
-
--  différenciation du trafic ;
-
--  travaux commandés par les exigences de la sécurité routière.
-
-**Liens relatifs à cet article**
-
 	**Anciens textes**:
 
 	  - Décret n°73-127 1973-02-09 art. 5 (partie)
@@ -54741,66 +54796,24 @@ Les sommes allouées, en application des articles qui précèdent, sont utilisé
 
 	  - Décret n°77-91 1977-01-27
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°77-91 1977-01-27 JORF ET JONC 3 FEVRIER 1977 date d'entrée en vigueur 20 MARS 1977
-
-	**Cite**:
-
-	  - Code des communes R234-29 à R234-31
+	  - Décret n°94-366 du 10 mai 1994 - art. 1 ()
 
 	**Liens**:
 
-	  - TXT_ASSOCIE: Code des communes R263-39
+	  - SPEC_APPLI: Décret n°94-704 du 17 août 1994 - art. 11 (Ab)
+	  - SPEC_APPLI: Décret n°94-704 du 17 août 1994 - art. 13 (V)
+	  - SPEC_APPLI: Décret n°94-704 du 17 août 1994 - art. 9 (V)
 
 
-##### SOUS-SECTION 3 bis : Répartition de la dotation de solidarité urbaine
+###### Article R*234-34
 
-###### Article R*234-33
-
-La dotation de solidarité urbaine prévue à l'article L. 234-14-1 du code des communes est répartie entre les communes
-éligibles autres que les communes des départements d'outre-mer :
-
-" a) Pour 70 p. 100 de son montant, en fonction de la population de la commune, majorée proportionnellement à l'écart entre
-le potentiel fiscal de référence et le potentiel fiscal par habitant de la commune, multiplié par l'effort fiscal de la
-commune pris en compte dans la limite de 1,20 ;
-
-" b) Pour 30 p. 100 de son montant, proportionnellement au nombre de logements sociaux recensés dans la commune, tels que
-mentionnés au 3° du premier alinéa de l'article L. 234-10 du code des communes.
-
-" Le potentiel fiscal par habitant de la commune est déterminé dans les conditions prévues à l'article L. 234-6 et à
-l'article L. 234-19-3 du code des communes.
-
-" Le potentiel fiscal de référence est égal :
-
-" - pour les communes de 10 000 habitants et plus, au potentiel fiscal moyen par habitant de l'ensemble des communes de plus
-de 10 000 habitants ;
-
-" - pour les communes de moins de 10 000 habitants, au potentiel fiscal moyen par habitant de l'ensemble des communes de
-moins de 10 000 habitants.
-
-" Le calcul de l'effort fiscal est opéré ainsi que prévu à l'article L. 234-5 du code des communes et, pour les communes
-membres d'un groupement de communes, au b du 1° du II de l'article L. 1648 B du code général des impôts. "
-
-**Nota:**
-
-Le décret n° 91-894 du 10 septembre 1991 a créé une sous-section II bis comprenant l'article R234-33, en fait il y a lieu de
-lire " sous-section III bis ".
+La dotation prévue à l'article L. 234-15, destinée à couvrir les frais de fonctionnement du comité et le coût des travaux qui
+lui sont nécessaires, est versée au Trésor et rattachée au budget du ministère de l'intérieur selon la procédure de fonds de
+concours pour dépenses d'intérêt public.
 
 **Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 1648 B
-	  - CODE DES COMMUNES. - art. L234-10 (M)
-	  - CODE DES COMMUNES. - art. L234-14-1 (Ab)
-	  - CODE DES COMMUNES. - art. L234-19-3 (M)
-	  - CODE DES COMMUNES. - art. L234-5 (M)
-	  - CODE DES COMMUNES. - art. L234-6 (M)
-
-	**Anciens textes**:
-
-	  - Décret n°73-127 1973-02-09 art. 5 (partie)
 
 	**Codifié par**:
 
@@ -54808,7 +54821,137 @@ lire " sous-section III bis ".
 
 	**Créé par**:
 
-	  - Décret n°91-894 du 10 septembre 1991 - art. 1 () JORF 11 septembre 1991
+	  - Décret n°94-366 du 10 mai 1994 - art. 1 ()
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°94-704 du 17 août 1994 - art. 11 (Ab)
+	  - SPEC_APPLI: Décret n°94-704 du 17 août 1994 - art. 13 (V)
+	  - SPEC_APPLI: Décret n°94-704 du 17 août 1994 - art. 9 (V)
+
+	**Cite**:
+
+	  - CODE DES COMMUNES. - art. L234-15 (M)
+
+
+###### Article R*234-35
+
+Les frais relatifs à l'élection des représentants des conseils régionaux et de l'assemblée de Corse, des conseils généraux,
+des groupements de communes et des communes, ainsi que les frais de déplacement des membres élus non parlementaires sont à la
+charge du comité.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°77-91 1977-01-27
+
+	**Créé par**:
+
+	  - Décret n°94-366 du 10 mai 1994 - art. 1 ()
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°94-704 du 17 août 1994 - art. 11 (Ab)
+	  - SPEC_APPLI: Décret n°94-704 du 17 août 1994 - art. 13 (V)
+	  - SPEC_APPLI: Décret n°94-704 du 17 août 1994 - art. 9 (V)
+
+
+##### SECTION 2 : Répartition du produit des amendes de police relatives à la circulation routière.
+
+###### Article R*234-36
+
+Le produit des amendes de police relatives à la circulation routière est partagé, proportionnellement au nombre des
+contraventions à la police de la circulation dressées sur leur territoire respectif au cours de l'année précédant celle au
+titre de laquelle est faite la répartition, entre :
+
+1° Les communautés urbaines et autres groupements comptant au moins 10 000 habitants, auxquels les communes ont transféré la
+totalité de leurs compétences en matière de voies communales, de transports en commun et de parcs de stationnement et les
+communes de 10 000 habitants et plus ne faisant pas partie de ces groupements ;
+
+2° Les groupements de moins de 10 000 habitants exerçant la totalité des compétences précitées et les communes de moins de 10
+000 habitants ne faisant pas partie de ces groupements.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°77-91 1977-01-27
+
+	**Créé par**:
+
+	  - Décret n°94-366 du 10 mai 1994 - art. 1 ()
+
+
+###### Article R*234-37
+
+Sous réserve des dispositions de l'article R. 263-38, les sommes revenant aux communautés urbaines et autres groupements
+comptant au moins 10 000 habitants ainsi qu'aux communes de 10 000 habitants et plus visés au 1° de l'article R. 234-36 leur
+sont versées directement.
+
+Les sommes revenant aux groupements de moins de 10 000 habitants ainsi qu'aux communes de moins de 10 000 habitants sont
+d'abord partagées entre les départements proportionnellement au nombre de contraventions dénombrées l'année précédente sur le
+territoire de ces communes et groupements, puis réparties dans chaque département entre les communes et groupements qui ont à
+faire face à des travaux mentionnés à l'article R. 234-38. La répartition est faite par le conseil général qui arrête la
+liste des bénéficiaires et le montant des attributions à leur verser en fonction de l'urgence et du coût des opérations à
+réaliser.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°77-91 1977-01-27
+
+	**Créé par**:
+
+	  - Décret n°94-366 du 10 mai 1994 - art. 1 ()
+
+	**Cite**:
+
+	  - CODE DES COMMUNES R263-38, R234-36, R234-38
+
+
+###### Article R*234-38
+
+Les sommes allouées en application des articles R. 234-36 et R. 234-37 sont utilisées au financement des opérations
+suivantes :
+
+1° Pour les transports en commun :
+
+a) Aménagements et équipements améliorant la sécurité des usagers, l'accueil du public, l'accès aux réseaux, les liaisons
+entre réseaux et avec les autres modes de transport ;
+
+b) Aménagements de voirie, équipements destinés à une meilleure exploitation des réseaux ;
+
+c) Equipements assurant l'information des usagers, l'évaluation du trafic et le contrôle des titres de transport.
+
+2° Pour la circulation routière :
+
+a) Etude et mise en oeuvre de plans de circulation ;
+
+b) Création de parcs de stationnement ;
+
+c) Installation et développement de signaux lumineux et de la signalisation horizontale ;
+
+d) Aménagement de carrefours ;
+
+e) Différenciation du trafic ;
+
+f) Travaux commandés par les exigences de la sécurité routière.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°77-91 1977-01-27
+
+	**Créé par**:
+
+	  - Décret n°94-366 du 10 mai 1994 - art. 1 ()
+
+	**Cite**:
+
+	  - CODE DES COMMUNES R234-36, R234-37
 
 
 #### CHAPITRE 5 : Subventions
@@ -62641,18 +62784,11 @@ l'arrêté [*fixant les limites de la zone*] prévu à l'article L. 171-7.
 
 ###### Article R*263-38
 
-Dans la région d'Ile-de-France définie à l'article 1er de la loi n° 64-707 du 10 juillet 1964 [*ville de Paris et
-départements des Hauts-de-Seine, de la Seine-Saint-Denis, du Val-de-Marne, de l'Essonne, des Yvelines, du Val-d'Oise et de la
-Seine-et-Marne*], des prélèvements fixés respectivement à 50 p. 100 et 25 p. 100 [*pourcentage*] sont opérés au bénéfice du
-syndicat des transports parisiens et du district de la région parisienne sur les sommes calculées conformément aux
-dispositions de l'article R. 234-29.
+Dans la région d'Ile-de-France, des prélèvements fixés respectivement à 50 p. 100 et 25 p. 100 des sommes calculées
+conformément à l'article R. 234-36 sont opérés au bénéfice du Syndicat des transports parisiens et de la région d'Ile-de-
+France.
 
 **Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Loi n°64-707 du 10 juillet 1964 - art. 1, v. init.
-	  - Code des communes R234-29
 
 	**Anciens textes**:
 
@@ -62662,16 +62798,19 @@ dispositions de l'article R. 234-29.
 
 	  - Décret n°77-91 1977-01-27
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°77-91 1977-01-27 JORF et JONC 3 février 1977 date d'entrée en vigueur élection des maires
+	  - Décret n°94-366 du 10 mai 1994 - art. 2 ()
+
+	**Cite**:
+
+	  - CODE DES COMMUNES R234-36
 
 
 ###### Article R*263-39
 
-Les sommes allouées [*au syndicat des transports parisiens et au district de la région parisienne*] en application de
-l'article précédent sont utilisées au financement des opérations prévues à l'article R. 234-32 [*transports en communs et
-circulation*].
+Les sommes allouées en application de l'article R. 263-38 sont utilisées au financement des opérations prévues à l'article R.
+234-38.
 
 **Liens relatifs à cet article**
 
@@ -62683,13 +62822,13 @@ circulation*].
 
 	  - Décret n°77-91 1977-01-27
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°77-91 1977-01-27 JORF et JONC 3 février 1977 date d'entrée en vigueur élection des maires
+	  - Décret n°94-366 du 10 mai 1994 - art. 2 ()
 
 	**Cite**:
 
-	  - Code des communes R263-38
+	  - CODE DES COMMUNES R263-38, R234-38
 
 
 ##### SECTION 4 : fonds de solidarité des communes de la région d'Ile-de-France.
@@ -62704,10 +62843,9 @@ proportionnellement à l'écart entre le potentiel fiscal de référence et le p
 multiplié par l'effort fiscal de la commune pris en compte dans la limite de 1,20 ;
 
 " b) Pour 20 p. 100 au moins et 40 p. 100 au plus de son montant, proportionnellement au nombre de logements sociaux recensés
-dans la commune, tels que mentionnés au 3° du premier alinéa de l'article L. 234-10 du code des communes.
+dans la commune, tels que mentionnés au 2° III de l'article L. 234-12.
 
-" Le potentiel fiscal par habitant de la commune est déterminé dans les conditions prévues à l'article L. 234-6 et à
-l'article L. 234-19-3 du code des communes.
+" Le potentiel fiscal par habitant de la commune est déterminé dans les conditions prévues aux articles L. 234-2 et L. 234-4.
 
 " Le potentiel fiscal de référence est égal :
 
@@ -62717,27 +62855,25 @@ région d'Ile-de-France de plus de 10 000 habitants ;
 " - pour les communes de moins de 10 000 habitants, au potentiel fiscal moyen par habitant de l'ensemble des communes de la
 région d'Ile-de-France de moins de 10 000 habitants.
 
-" Le calcul de l'effort fiscal est opéré ainsi que prévu à l'article L. 234-5 du code des communes et, pour les communes
-membres d'un groupement de communes, au b du 1° du II de l'article L. 1648 B du code général des impôts. "
+" Le calcul de l'effort fiscal est opéré dans les conditions prévues à l'article L. 234-5.
 
 **Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 1648 B
-	  - CODE DES COMMUNES. - art. L234-10 (M)
-	  - CODE DES COMMUNES. - art. L234-19-3 (M)
-	  - CODE DES COMMUNES. - art. L234-5 (M)
-	  - CODE DES COMMUNES. - art. L234-6 (M)
-	  - CODE DES COMMUNES. - art. L263-15 (Ab)
 
 	**Codifié par**:
 
 	  - Décret n°77-91 1977-01-27
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°91-895 1991-09-11 art. 1 jorf 11 septembre 1991
+	  - Décret n°94-366 du 10 mai 1994 - art. 3 ()
+
+	**Cite**:
+
+	  - CODE DES COMMUNES. - art. L234-12 (M)
+	  - CODE DES COMMUNES. - art. L234-2 (Ab)
+	  - CODE DES COMMUNES. - art. L234-4 (M)
+	  - CODE DES COMMUNES. - art. L234-5 (M)
+	  - CODE DES COMMUNES. - art. L263-15 (Ab)
 
 
 ###### Article R*263-41
@@ -62997,10 +63133,9 @@ est prépondérante.
 ###### Article R*263-50
 
 Pour le calcul du prélèvement sur les ressources fiscales des communes de la région d'Ile-de-France, le potentiel fiscal par
-habitant de chaque commune est déterminé dans les conditions prévues à l'article L. 234-6 et à l'article L. 234-19-3 du code
-des communes.
+habitant de chaque commune est déterminé dans les conditions prévues aux articles L. 234-2 et L. 234-4.
 
-" Sous réserve de l'application des dispositions du quatrième alinéa de l'article L. 263-14 du code des communes, le
+Sous réserve de l'application des dispositions du quatrième alinéa de l'article L. 263-14 du code des communes, le
 prélèvement est opéré mensuellement sur la base des données applicables au 1er janvier de l'année en cours. Toutefois,
 jusqu'à ce que ces données soient disponibles, il est effectué sur la base des données de l'année précédente, la
 régularisation devant intervenir avant le 30 juin de l'année en cours.
@@ -63011,9 +63146,9 @@ régularisation devant intervenir avant le 30 juin de l'année en cours.
 
 	  - Décret n°77-91 1977-01-27
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°91-1371 du 30 décembre 1991 - art. 1 ()
+	  - Décret n°94-366 du 10 mai 1994 - art. 4 ()
 
 	**Cite**:
 
