@@ -1,5 +1,5 @@
 # Code des communes  
-Version Consolidée au 1983-01-01
+Version Consolidée au 1983-01-09
 
 # ORGANISATION COMMUNALE
 
@@ -4786,6 +4786,48 @@ Dans les autres cas, il est institué par décret en Conseil d'Etat.
 	**Nouveaux textes**:
 
 	  - Code général des collectivités territoriales - art. L2214-1 (V)
+
+
+###### Article L132-8
+
+Le soin de réprimer les atteintes à la tranquillité publique, tel qu'il est défini à l'article L. 131-2 2. et mis par cet
+article en règle générale à la charge du maire, incombe à l'Etat seul dans les communes où la police est étatisée.
+
+Dans ces mêmes communes, l'Etat a la charge du bon ordre quand il se fait occasionnellement de grands rassemblements
+d'hommes.
+
+Tous les autres pouvoirs de police énumérés à l'article L. 131-2 sont exercés par le maire y compris le maintien du bon ordre
+dans les foires, marchés, réjouissances et cérémonies publiques, spectacles, jeux, cafés, églises et autres lieux publics.
+
+Les forces de police étatisées sont chargées, notamment, d'exécuter les arrêtés de police du maire.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - SPEC_APPLI: *Dispositions non applicables aux communes des départements de la Moselle, du Bas-Rhin et du Haut-Rhin (Alsace-Lorraine)*
+	  - SPEC_APPLI: Code des communes L181-1 :
+
+	**Codifié par**:
+
+	  - Décret n°77-90 1977-01-27
+
+	**Modifié par**:
+
+	  - Loi n°83-8 du 7 janvier 1983 - art. 89 () JORF 9 JANVIER 1983
+
+	**Cite**:
+
+	  - CODE DES COMMUNES. - art. L131-2 (M)
+	  - Code des communes L131-2-2
+
+	**Cité par**:
+
+	  - CODE DES COMMUNES. - art. L132-7 (Ab)
+
+	**Anciens textes**:
+
+	  - Code de l'administration communale 113
 
 
 ###### Article L132-9
@@ -10530,6 +10572,39 @@ Titre VI, chapitre V (Communautés urbaines).
 
 #### CHAPITRE 3 : Dispositions applicables aux communes des départements des Hauts-de-Seine, de la Seine-Saint-Denis et du Val-de- Marne.
 
+###### Article L183-1
+
+Dans les départements des Hauts-de-Seine, de la Seine-Saint-Denis et du Val-de-Marne, le représentant dans le département a
+la charge de la police de la voie publique sur les routes à grande circulation en plus des attributions de police exercées
+dans les communes où la police est étatisée conformément à l'article L. 132-8.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°77-90 1977-01-27
+
+	**Modifié par**:
+
+	  - Loi n°83-8 du 7 janvier 1983 - art. 89 () JORF 9 janvier 1983
+
+	**Abrogé par**:
+
+	  - Loi n°96-142 du 21 février 1996 - art. 12 (V) JORF 24 février 1996
+
+	**Cite**:
+
+	  - CODE DES COMMUNES. - art. L132-7 (M)
+
+	**Cité par**:
+
+	  - CODE DES COMMUNES. - art. L183-2 (M)
+
+	**Nouveaux textes**:
+
+	  - Code général des collectivités territoriales - art. L2521-1 (V)
+
+
 ###### Article L183-2
 
 Dans les communes des départements mentionnés à l'article précédent, les maires restent chargés, sous la surveillance du
@@ -11613,49 +11688,43 @@ en autoriser l'exécution immédiate.
 
 ###### Article L131-2
 
-La police municipale a pour objet d'assurer le bon ordre,
+La police municipale a pour objet d'assurer le bon ordre, la sûreté, la sécurité et la salubrité publiques. Elle comprend
+notamment :
 
-la sûreté, la sécurité et la salubrité publiques. Elle comprend notamment :
-
-1° Tout ce qui intéresse la sûreté et la commodité du passage dans les rues, quais, places et voies publiques, ce qui
+1. Tout ce qui intéresse la sûreté et la commodité du passage dans les rues, quais, places et voies publiques, ce qui
 comprend le nettoiement, l'éclairage, l'enlèvement des encombrements, la démolition ou la réparation des édifices menaçant
 ruine, l'interdiction de rien exposer aux fenêtres ou autres parties des édifices qui puisse nuire par sa chute ou celle de
-rien jeter qui puisse endommager les passants ou causer des exhalaisons nuisibles ; 
+rien jeter qui puisse endommager les passants ou causer des exhalaisons nuisibles ;
 
-2° Le soin de réprimer les atteintes à la tranquillité publique, telle que les rixes et disputes accompagnées d'ameutement
+2. Le soin de réprimer les atteintes à la tranquillité publique, telle que les rixes et disputes accompagnées d'ameutement
 dans les rues, le tumulte excité dans les lieux d'assemblée publique, les attroupements, les bruits et rassemblements
-nocturnes qui troublent le repos des habitants et tous actes de nature à compromettre la tranquillité publique. 
+nocturnes qui troublent le repos des habitants et tous actes de nature à compromettre la tranquillité publique.
 
-3° Le maintien du bon ordre dans les endroits où il se fait de grands rassemblements d'hommes, tels que les foires, marchés,
-réjouissances et cérémonies publiques, spectacles,
+3. Le maintien du bon ordre dans les endroits où il se fait de grands rassemblements d'hommes, tels que les foires, marchés,
+réjouissances et cérémonies publiques, spectacles, jeux, cafés, églises et autres lieux publics ;
 
-jeux, cafés, églises et autres lieux publics ; 
+4. Le mode de transport des personnes décédées, les inhumations et les exhumations, le maintien du bon ordre et de la décence
+dans les cimetières, sans qu'il soit permis d'établir les distinctions ou des prescriptions particulières à raison des
+croyances ou du culte du défunt, ou des circonstances qui ont accompagné sa mort ;
 
-4° Le mode de transport des personnes décédées, les inhumations et les exhumations, le maintien du bon ordre et de la décence
-dans les cimetières, sans qu'il soit permis d'établir des distinctions ou des prescriptions particulières à raison des
-croyances ou du culte du défunt, ou des circonstances qui ont accompagné sa mort ; 
-
-5° L'inspection sur la fidélité du débit des denrées qui se vendent au poids ou à la mesure, et sur la salubrité des
+5. L'inspection sur la fidélité du débit des denrées qui se vendent au poids ou à la mesure, et sur la salubrité des
 comestibles exposés en vente.
 
-[*la police municipale comprend aussi :*]    6° Le soin de prévenir, par des précautions convenables, et de faire cesser, par
-la distribution des secours nécessaires,
+6. Le soin de prévenir, par des précautions convenables, et de faire cesser, par la distribution des secours nécessaires, les
+accidents et les fléaux calamiteux ainsi que les pollutions de toute nature, tels que les incendies, les inondations, les
+ruptures de digues, les éboulements de terre ou de rochers, les avalanches ou autres accidents naturels, les maladies
+épidémiques ou contagieuses, les épizooties, de pourvoir d'urgence à toutes les mesures d'assistance et de secours et, s'il y
+a lieu, de provoquer l'intervention de l'administration supérieure ;
 
-les accidents et les fléaux calamiteux, tels que les incendies,
+7. Le soin de prendre provisoirement les mesures nécessaires contre les aliénés dont l'état pourrait compromettre la morale
+publique, la sécurité des personnes ou la conservation des propriétés ;
 
-les inondations, les ruptures de digues, les éboulements de terre ou de rochers, les avalanches ou autres accidents naturels,
-les maladies épidémiques ou contagieuses, les épizooties, de pourvoir d'urgence à toutes les mesures d'assistance et de
-secours et, s'il y a lieu, de provoquer l'intervention de l'administration supérieure ; 
+8. Le soin d'obvier ou de remédier aux événements fâcheux qui pourraient être occasionnés par la divagation des animaux
+malfaisants ou féroces ;
 
-7° Le soin de prendre provisoirement les mesures nécessaires contre les aliénés dont l'état pourrait compromettre la morale
-publique, la sécurité des personnes ou la conservation des propriétés ; 
-
-8° Le soin d'obvier ou de remédier aux événements fâcheux qui pourraient être occasionnés par la divagation des animaux
-malfaisants ou féroces ; 
-
-9° Le soin de réglementer la fermeture annuelle des boulangeries, lorsque cette fermeture est rendue nécessaire pour
+9. Le soin de réglementer la fermeture annuelle des boulangeries, lorsque cette fermeture est rendue nécessaire pour
 l'application de la législation sur les congés payés, après consultation des organisations patronales et ouvrières
-[**]conditions de forme[**], de manière à assurer le ravitaillement de la population.
+[*conditions de forme*], de manière à assurer le ravitaillement de la population.
 
 **Liens relatifs à cet article**
 
@@ -11664,20 +11733,9 @@ l'application de la législation sur les congés payés, après consultation des
 	  - SPEC_APPLI: *Dispositions non applicables aux communes des départements de la Moselle, du Bas-Rhin et du Haut-Rhin (Alsace-Lorraine)*
 	  - SPEC_APPLI: Code des communes L181-1 :
 
-	**Cite**:
+	**Anciens textes**:
 
-	  - Arrêté 1954-07-22 modifié
-	  - Décret n°54-724 1954-07-10
-	  - Loi n°61-842 1961-08-02
-	  - CODE DES COMMUNES. - art. L131-8 (Ab)
-	  - Code de l'urbanisme 303 et suivants
-	  - Décret n°1906-03-16
-	  - Loi n°1848-06-07
-	  - Loi n°1881-06-30
-	  - Loi n°1905-12-25
-	  - Loi n°1907-01-02
-	  - Loi n°1907-03-27
-	  - Loi n°1937-03-13 modifiée
+	  - Code de l'administration communale 97 COMPLETE
 
 	**Cité par**:
 
@@ -11709,13 +11767,9 @@ l'application de la législation sur les congés payés, après consultation des
 
 	  - Décret n°77-90 1977-01-27
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°77-90 1977-01-27 JORF et JONC 3 février 1977 date d'entrée en vigueur élection des maires
-
-	**Anciens textes**:
-
-	  - Code de l'administration communale 97 complété
+	  - Loi n°83-8 du 7 janvier 1983 - art. 90 () JORF 9 JANVIER 1983
 
 
 ##### Pouvoirs du représentant de l'Etat dans le département en matière de police municipale .
@@ -11783,84 +11837,6 @@ tranquillité publique*].
 	**Anciens textes**:
 
 	  - Code de l'administration communale 107
-
-
-#### DISPOSITIONS PARTICULIERES
-
-##### POUVOIRS DE POLICE DANS LES COMMUNES OU EST INSTITUEE UNE POLICE D'ETAT .
-
-###### Article L132-7
-
-Les représentants de l'Etat dans le département [*commissaires de la République*], dans les communes des départements où a
-été instituée la police d'Etat, exercent, sous réserve des dispositions de l'article L. 132-8 [*maintien des pouvoirs
-généraux de police du maire*] les mêmes attributions que celles qu'exerce le représentant de l'Etat dans le département dans
-les communes des départements des Hauts-de-Seine, de la Seine-Saint-Denis et du Val-de-Marne.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°77-90 1977-01-27
-
-	**Modifié par**:
-
-	  - Loi n°82-213 du 2 mars 1982 - art. 21 (V) JORF 3 MARS 1982
-
-	**Abrogé par**:
-
-	  - Loi n°83-8 du 7 janvier 1983 - art. 89 () JORF 9 JANVIER 1983
-
-	**Cité par**:
-
-	  - CODE DES COMMUNES. - art. L132-8 (M)
-	  - CODE DES COMMUNES. - art. L183-1 (Ab)
-
-	**Anciens textes**:
-
-	  - Code de l'administration communale 112
-
-	**Cite**:
-
-	  - Code des communes L183-1 à L183-3
-
-
-###### Article L132-8
-
-Dans les communes [*où a été instituée une police d'Etat*] , mentionnées à l'article précédent, les maires restent investis
-de tous les pouvoirs de police conférés aux administrations municipales aux 1°, 4°, 5°, 6°, 7° et 8° de l'article L. 131-2
-[*en matière de sûreté des voies publiques et de leur commodité du passage, en matière d'inhumations, d'exhumations et
-d'ordre dans les cimetières, en matière d'inspection des denrées vendues au poids ou à la mesure, en matière de prévention
-des accidents naturels et pour les mesures nécessaires contre les aliénés et les animaux malfaisants*] . 
-
-Ils sont, en outre, chargés du maintien du bon ordre dans les foires, marchés, réjouissances et cérémonies publiques,
-spectacles, jeux, cafés, églises et autres lieux publics.
-
-**Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - SPEC_APPLI: *Dispositions non applicables aux communes des départements de la Moselle, du Bas-Rhin et du Haut-Rhin (Alsace-Lorraine)*
-	  - SPEC_APPLI: Code des communes L181-1 :
-
-	**Codifié par**:
-
-	  - Décret n°77-90 1977-01-27
-
-	**Créé par**:
-
-	  - Décret n°77-90 1977-01-27 JORF et JONC 3 février 1977 date d'entrée en vigueur élection des maires
-
-	**Cité par**:
-
-	  - CODE DES COMMUNES. - art. L132-7 (Ab)
-
-	**Anciens textes**:
-
-	  - Code de l'administration communale 113
-
-	**Cite**:
-
-	  - Code des communes L131-2 1°, 4°, 5°, 6°, 7°, 8°
 
 
 #### Responsabilités des communes
@@ -14307,43 +14283,6 @@ La commune juge de la nécessité d'en établir davantage.
 	**Nouveaux textes**:
 
 	  - Code général des collectivités territoriales - art. L2542-9 (V)
-
-
-#### DISPOSITIONS APPLICABLES AUX COMMUNES DES DEPARTEMENTS DES HAUTS-DE-SEINE, DU VAL-DE-MARNE ET DE LA SEINE-SAINT-DENIS (REGION PARISIENNE) .
-
-###### Article L183-1
-
-Dans les départements des Hauts-de-Seine, de la Seine-Saint-Denis et du Val-de-Marne, le représentant de l'Etat dans le
-département [*commissaire de la République*] exerce sous réserve des dispositions de l'article L. 132-7 [*pouvoirs du
-représentant de l'Etat dans le département dans les communes des départements où a été instituée une police d'Etat*], les
-pouvoirs et attributions définis par la loi des 10-15 juin 1853 et les textes qui l'ont modifiée.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Loi   1853-06-10 modifiée
-	  - CODE DES COMMUNES. - art. L132-7 (M)
-
-	**Anciens textes**:
-
-	  - Loi n°64-707 1964-07-10 art. 10 al. 2
-
-	**Codifié par**:
-
-	  - Décret n°77-90 1977-01-27
-
-	**Modifié par**:
-
-	  - Loi n°82-213 du 2 mars 1982 - art. 21 (V) JORF 3 MARS 1982
-
-	**Cité par**:
-
-	  - CODE DES COMMUNES. - art. L183-2 (M)
-
-	**Nouveaux textes**:
-
-	  - Code général des collectivités territoriales - art. L2521-1 (V)
 
 
 #### Dispositions applicables à la ville de Paris
@@ -30932,6 +30871,39 @@ d'eau potable ;
 	  - CODE DES COMMUNES. - art. L371-8 (Ab)
 
 
+###### Article L371-7
+
+Les aides versées par le fonds national pour le développement des adductions d'eau sont réparties chaque année par
+développement sur proposition du comité consultatif du fonds.
+
+Le département règle, sur la base des propositions présentées par les collectivités concernées, la répartition de ces aides,
+entre les communes rurales et leurs groupements qui réalisent des travaux d'alimentation en eau potable et d'assainissement.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°77-240 1977-03-07
+
+	**Modifié par**:
+
+	  - Loi n°83-8 du 7 janvier 1983 - art. 110 () JORF 9 janvier 1983
+
+	**Cité par**:
+
+	  - Décret n°83-704 du 28 juillet 1983 - art. 23 (Ab)
+	  - Code rural et de la pêche maritime - art. R112-48 (VD)
+
+	**Abrogé par**:
+
+	  - Loi n°96-142 du 21 février 1996 - art. 12 (V) JORF 24 février 1996
+
+	**Nouveaux textes**:
+
+	  - Code général des collectivités territoriales - art. L2335-11 (M)
+	  - Code général des collectivités territoriales - art. L3232-3 (M)
+
+
 ###### Article L371-8
 
 Les tarifs et les modalités d'assiette et la redevance prévue à l'article L. 371-6 sont fixés comme suit :
@@ -34584,37 +34556,6 @@ que provisoirement et pour une durée qui est déterminée par le décret autori
 
 	  - Code de l'urbanisme - art. IV (M)
 	  - Code de l'urbanisme - art. R*126-1, Annexe (V)
-
-
-### Dispositions particulières à certains services industriels et commerciaux
-
-#### Eau
-
-##### FONDS  NATIONAL POUR LE DEVELOPPEMENT DES ADDUCTIONS D'EAU .
-
-###### Article L371-7
-
-Le fonds national pour le développement des adductions d'eau peut accorder des subventions en capital pour l'exécution des
-travaux d'alimentation en eau potable dans les communes rurales.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°59-1454 1959-12-26 art. 75
-
-	**Codifié par**:
-
-	  - Décret n°77-240 1977-03-07
-
-	**Créé par**:
-
-	  - Décret n°77-240 1977-03-07 JORF et JONC 18 mars 1977
-
-	**Cité par**:
-
-	  - Décret n°83-704 du 28 juillet 1983 - art. 23 (Ab)
-	  - Code rural et de la pêche maritime - art. R112-48 (VD)
 
 
 ### PARTICIPATION A DES  ENTREPRISES PRIVEES .
