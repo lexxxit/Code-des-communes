@@ -1,5 +1,5 @@
 # Code des communes  
-Version Consolidée au 1993-01-05
+Version Consolidée au 1993-01-09
 
 # Partie législative
 
@@ -5390,16 +5390,10 @@ agréé par le procureur de la République dans les conditions prévues à l'art
 La police des campagnes est spécialement placée sous la surveillance des gardes champêtres et de la gendarmerie nationale
 [*attributions*] .
 
+Toute commune peut avoir un ou plusieurs gardes champêtres. Plusieurs communes peuvent avoir un ou plusieurs gardes
+champêtres en commun.
+
 **Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - SPEC_APPLI: *Dispositions non applicables aux communes des départements de la Guadeloupe, de la Guyane, de la Martinique et de la Réunion*
-	  - SPEC_APPLI: Code des communes L182-1 :
-
-	**Cité par**:
-
-	  - CODE DES COMMUNES. - art. L181-1 (M)
 
 	**Anciens textes**:
 
@@ -5409,9 +5403,13 @@ La police des campagnes est spécialement placée sous la surveillance des garde
 
 	  - Décret n°77-90 1977-01-27
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°77-90 1977-01-27 JORF et JONC 3 février 1977 date d'entrée en vigueur élection des maires
+	  - Loi n°93-24 du 8 janvier 1993 - art. 8 () JORF 9 janvier 1993
+
+	**Cité par**:
+
+	  - CODE DES COMMUNES. - art. L181-1 (M)
 
 
 ###### Article L132-2
@@ -30793,48 +30791,15 @@ concession.
 
 Un règlement d'administration publique détermine :
 
-Les conditions dans lesquelles sont dressés les procès-verbaux constatant l'état d'abandon [*des concessions*] ;
+Les conditions dans lesquelles sont dressés les procès-verbaux constatant l'état d'abandon ;
 
 Les modalités de la publicité qui doit être faite pour porter les procès-verbaux à la connaissance des familles et du
 public ;
 
 Les mesures à prendre par les communes pour conserver les noms des personnes inhumées dans la concession et la réinhumation
-des ossements qui peuvent s'y trouver encore.
+ou la crémation des ossements des ossements qui peuvent s'y trouver encore.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Code de l'administration communale 460 al. 2
-
-	**Codifié par**:
-
-	  - Décret n°77-240 1977-03-07
-
-	**Créé par**:
-
-	  - Décret n°77-240 1977-03-07 JORF et JONC 18 mars 1977
-
-	**Nouveaux textes**:
-
-	  - Code général des collectivités territoriales - art. L2223-18 (V)
-
-
-##### SECTION 3 : Chambres funéraires.
-
-###### Article L361-19
-
-Les communes dans lesquelles sont installées des chambres funéraires peuvent percevoir des droits pour le dépôt et pour
-l'incinération des corps [*taxes*].
-
-**Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - SPEC_APPLI: *Dispositions non applicables aux communes des départements de la Guadeloupe, de la Guyane, de la Martinique, de la Réunion et des départements de la Moselle, du Bas-Rhin et du Haut-Rhin (Alsace-Lorraine)*
-	  - TXT_ASSOCIE: CODE DES COMMUNES. - art. L361-20 (M)
-	  - SPEC_APPLI: CODE DES COMMUNES. - art. L391-1 (M)
-	  - SPEC_APPLI: Code des communes L391-1, L392-1 :
 
 	**Codifié par**:
 
@@ -30842,7 +30807,38 @@ l'incinération des corps [*taxes*].
 
 	**Modifié par**:
 
-	  - Loi n°82-213 du 2 mars 1982 - art. 21 (V) JORF 3 MARS 1982
+	  - Loi n°93-23 du 8 janvier 1993 - art. 20 () JORF 9 janvier 1993
+
+	**Abrogé par**:
+
+	  - Loi n°96-142 du 21 février 1996 - art. 12 (V) JORF 24 février 1996
+
+	**Nouveaux textes**:
+
+	  - Code général des collectivités territoriales - art. L2223-18 (V)
+	  - Code général des collectivités territoriales - art. L2223-18 (M)
+
+
+##### SECTION 3 : Chambres funéraires.
+
+###### Article L361-19
+
+Les chambres funéraires ont pour objet de recevoir, avant l'inhumation ou la crémation, le corps des personnes décédées.
+
+Les locaux où l'entreprise ou l'association gestionnaire de la chambre funéraire offre les autres prestations énumérées à
+l'article L. 362-1 doivent être distincts de ceux abritant la chambre funéraire.
+
+La violation des dispositions de l'alinéa précédent est punie d'une amende de 500 000 F.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°77-240 1977-03-07
+
+	**Modifié par**:
+
+	  - Loi n°93-23 du 8 janvier 1993 - art. 21 () JORF 9 janvier 1993
 
 	**Cité par**:
 
@@ -30851,26 +30847,28 @@ l'incinération des corps [*taxes*].
 	  - CODE DES COMMUNES. - art. L361-19-1 (Ab)
 	  - CODE DES COMMUNES. - art. L361-20 (M)
 
+	**Abrogé par**:
+
+	  - Loi n°96-142 du 21 février 1996 - art. 12 (V) JORF 24 février 1996
+
+	**Cite**:
+
+	  - CODE DES COMMUNES. - art. L362-1 (M)
+
 	**Nouveaux textes**:
 
 	  - Code général des collectivités territoriales - art. L2223-38 (V)
+	  - Code général des collectivités territoriales - art. L2223-38 (M)
 
 
-##### SECTION 4 : Crémations.
+###### Article L361-19-1
 
-###### Article L361-20
+Les établissements de santé publics ou privés qui remplissent des conditions fixées par décret en Conseil d'Etat doivent
+disposer d'une chambre mortuaire dans laquelle doit être déposé le corps des personnes qui y sont décédées.
 
-Les dispositions de l'article L. 361-19 sont applicables aux communes dans lesquelles sont installés des appareils
-crématoires.
+Les dispositions de l'article L. 361-19 ne sont pas applicables aux chambres mortuaires.
 
 **Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - SPEC_APPLI: *Dispositions non applicables aux communes des départements de la Guadeloupe, de la Guyane, de la Martinique, de la Réunion et des départements de la Moselle, du Bas-Rhin et du Haut-Rhin (Alsace-Lorraine)*
-	  - TXT_ASSOCIE: CODE DES COMMUNES. - art. L361-19 (M)
-	  - SPEC_APPLI: CODE DES COMMUNES. - art. L391-1 (M)
-	  - SPEC_APPLI: Code des communes L391-1, L392-1 :
 
 	**Codifié par**:
 
@@ -30878,20 +30876,103 @@ crématoires.
 
 	**Créé par**:
 
-	  - Décret n°77-240 1977-03-07 JORF et JONC 18 mars 1977
+	  - Loi n°93-23 du 8 janvier 1993 - art. 22 () JORF 9 janvier 1993
+
+	**Abrogé par**:
+
+	  - Loi n°96-142 du 21 février 1996 - art. 12 (V) JORF 24 février 1996
+
+	**Cite**:
+
+	  - CODE DES COMMUNES. - art. L361-19 (M)
+
+	**Cité par**:
+
+	  - CODE DES COMMUNES. - art. R361-37 (Ab)
+	  - CODE DES COMMUNES. - art. R361-40 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code général des collectivités territoriales - art. L2223-39 (V)
+	  - Code général des collectivités territoriales - art. L2223-39 (M)
+
+
+##### SECTION 4 : Crémations.
+
+###### Article L361-20
+
+Les communes ou leurs groupements sont seuls compétents pour créer et gérer, directement ou par voie de gestion déléguée, les
+crématoriums.
+
+Toute création ou extension des crématoriums ne peut avoir lieu sans l'autorisation préalable du représentant de l'Etat dans
+le département, accordée après enquête de commodo et incommodo et avis du conseil départemental d'hygiène.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°77-240 1977-03-07
+
+	**Modifié par**:
+
+	  - Loi n°93-23 du 8 janvier 1993 - art. 23 () JORF 9 janvier 1993
 
 	**Cité par**:
 
 	  - Décret n°94-1117 du 20 décembre 1994 - art. 1 (Ab)
 	  - CODE DES COMMUNES. - art. L361-20-1 (Ab)
 
-	**Cite**:
+	**Abrogé par**:
 
-	  - CODE DES COMMUNES. - art. L361-19 (M)
+	  - Loi n°96-142 du 21 février 1996 - art. 12 (V) JORF 24 février 1996
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: CODE DES COMMUNES. - art. L361-19 (M)
 
 	**Nouveaux textes**:
 
 	  - Code général des collectivités territoriales - art. L2223-40 (V)
+	  - Code général des collectivités territoriales - art. L2223-40 (M)
+
+
+###### Article L361-20-1
+
+Les régies, entreprises ou associations gestionnaires d'un crématorium conformément à l'article L. 361-20 sont soumises à
+l'habilitation prévue à l'article L. 362-2-1.
+
+Les dispositions des articles L. 362-3 et L. 362-8 à L. 362-11 leur sont applicables.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°77-240 1977-03-07
+
+	**Créé par**:
+
+	  - Loi n°93-23 du 8 janvier 1993 - art. 24 () JORF 9 janvier 1993
+
+	**Cité par**:
+
+	  - Décret n°95-330 du 21 mars 1995 - art. 1 (Ab)
+	  - Décret n°95-330 du 21 mars 1995 - art. 6 (Ab)
+	  - CODE DES COMMUNES. - art. L362-12 (Ab)
+
+	**Abrogé par**:
+
+	  - Loi n°96-142 du 21 février 1996 - art. 12 (V) JORF 24 février 1996
+
+	**Cite**:
+
+	  - CODE DES COMMUNES. - art. L361-20 (M)
+	  - CODE DES COMMUNES. - art. L362-2-1 (Ab)
+	  - CODE DES COMMUNES. - art. L362-3 (M)
+	  - Code des communes L361-20, L362-2-1, L362-3, L362-8 à L362-11
+
+	**Nouveaux textes**:
+
+	  - Code général des collectivités territoriales - art. L2223-41 (V)
 
 
 ##### SECTION 5 : Dispositions diverses.
@@ -30930,19 +31011,41 @@ Un règlement d'administration publique détermine les conditions applicables au
 
 ###### Article L362-1
 
-Le service extérieur des pompes funèbres, comprenant exclusivement le transport des corps, la fourniture des corbillards,
-cercueils, tentures extérieures des maisons mortuaires, les voitures de deuil ainsi que les fournitures et le personnel
-nécessaires aux inhumations, exhumations et crémations, appartient aux communes, à titre de service public [*définition -
-monopole*].
+Le service extérieur des pompes funèbres est une mission de service public comprenant :
 
-Les communes peuvent assurer ce service, soit directement [*régie*], soit par entreprise, en se conformant aux lois et
-règlements sur les marchés de gré à gré et adjudications.
+- le transport des corps avant et après mise en bière ;
+
+- l'organisation des obsèques ;
+
+- les soins de conservation ;
+
+- la fourniture des housses, des cercueils et de leurs accessoires intérieurs et extérieurs ainsi que des urnes cinéraires ;
+
+- la fourniture des tentures extérieures des maisons mortuaires ;
+
+- la gestion et l'utilisation des chambres funéraires ;
+
+- la fourniture des corbillards et des voitures de deuil ;
+
+- la fourniture de personnel et des objets et prestations nécessaires aux obsèques, inhumations, exhumations et crémations, à
+l'exception des plaques funéraires, emblèmes religieux, fleurs, travaux divers d'imprimerie et de la marbrerie funéraire.
+
+Cette mission peut être assurée par les communes, directement ou par voie de gestion déléguée. Les communes ou leurs
+délégataires ne bénéficient d'aucun droit d'exclusivité pour l'exercice de cette mission. Elle peut être également assurée
+par toute autre entreprise ou association bénéficiaire de l'habilitation prévue à l'article L. 362-2-1.
 
 **Liens relatifs à cet article**
 
+	**Codifié par**:
+
+	  - Décret n°77-240 1977-03-07
+
+	**Modifié par**:
+
+	  - Loi n°93-23 du 8 janvier 1993 - art. 1 () JORF 9 janvier 1993
+
 	**Liens**:
 
-	  - SPEC_APPLI: *Dispositions non applicables aux communes des départements de la Moselle, du Bas-Rhin et du Haut-Rhin (Alsace-Lorraine)*
 	  - TXT_SOURCE: Décret n°94-941 du 24 octobre 1994
 	  - TXT_SOURCE: Décret n°94-941 du 24 octobre 1994 - art. 1 (Ab)
 	  - TXT_SOURCE: Décret n°94-941 du 24 octobre 1994 - art. 10 (Ab)
@@ -30965,20 +31068,6 @@ règlements sur les marchés de gré à gré et adjudications.
 	  - TXT_SOURCE: Décret n°94-941 du 24 octobre 1994 - art. ANNEXE IV (Ab)
 	  - TXT_SOURCE: Décret n°94-941 du 24 octobre 1994 - art. ANNEXE V (Ab)
 	  - TXT_SOURCE: Décret n°94-941 du 24 octobre 1994 - art. ANNEXE VI (Ab)
-	  - SPEC_APPLI: Code des communes L391-1 :
-
-	**Anciens textes**:
-
-	  - Code de l'administration communale 462 al. 2 remplacé
-	  - Code de l'administration communale 463 al. 1 phr. 1 et 2
-
-	**Codifié par**:
-
-	  - Décret n°77-240 1977-03-07
-
-	**Modifié par**:
-
-	  - Loi n°82-213 du 2 mars 1982 - art. 21 (V) JORF 3 MARS 1982
 
 	**Cité par**:
 
@@ -31000,64 +31089,113 @@ règlements sur les marchés de gré à gré et adjudications.
 	  - CODE DES COMMUNES. - art. R*362-1 (Ab)
 	  - CODE DES COMMUNES. - art. R*362-4 (Ab)
 
+	**Abrogé par**:
+
+	  - Loi n°96-142 du 21 février 1996 - art. 12 (V) JORF 24 février 1996
+
 	**Nouveaux textes**:
 
 	  - Code général des collectivités territoriales - art. L2223-19 (M)
 
 
-###### Article L362-2
+###### Article L362-1-1
 
-Les fournitures et travaux [*dispensés dans le cadre du service*] mentionnés à l'article précédent donnent lieu à la
-perception de taxes, dont les tarifs sont votés par les conseils municipaux. Dans ces tarifs, aucune surtaxe ne peut être
-exigée pour les présentations et stations à l'église ou au temple.
+Le règlement national des pompes funèbres est établi par décret en Conseil d'Etat après avis du Conseil national des
+opérations funéraires. Il définit les modalités d'information des familles et les obligations des régies et des entreprises
+ou associations habilitées à fournir les prestations énumérées à l'article L. 362-1.
 
-Tous objets non compris dans l'énumération de l'article précédent sont laissés aux soins des familles.
+Ce règlement détermine :
+
+1° Les conditions dans lesquelles est assurée l'information des familles, en particulier les mentions que doivent comporter
+les devis fournis par les prestataires faisant apparaître de façon distincte les prestations obligatoires, et plus
+généralement les modalités d'application des textes réglementaires pris sur la base de l'article 28 de l'ordonnance n°
+86-1243 du 1er décembre 1986 relative à la liberté des prix et de la concurrence ;
+
+2° Les conditions d'application des dispositions du code des assurances aux formules de financement en prévision d'obsèques
+qui peuvent être proposées ;
+
+3° Les obligations des régies et des entreprises ou associations habilitées en matière de formation professionnelle de leurs
+dirigeants et de leurs agents ;
+
+4° Les obligations particulières relatives à la gestion et à l'utilisation des chambres funéraires ou mortuaires et des
+crématoriums.
 
 **Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - SPEC_APPLI: *Dispositions non applicables aux communes des départements de la Moselle, du Bas-Rhin et du Haut-Rhin (Alsace-Lorraine)*
-	  - SPEC_APPLI: Code des communes L391-1 :
-
-	**Anciens textes**:
-
-	  - Code de l'administration communale 464 al. 1 et 2
 
 	**Codifié par**:
 
 	  - Décret n°77-240 1977-03-07
 
-	**Modifié par**:
-
-	  - Loi n°82-213 du 2 mars 1982 - art. 21 (V) JORF 3 MARS 1982
-
 	**Cite**:
 
+	  - Ordonnance 86-1243 1986-12-01 art. 28
 	  - CODE DES COMMUNES. - art. L362-1 (M)
 
-	**Nouveaux textes**:
+	**Créé par**:
 
-	  - Code général des collectivités territoriales - art. L2223-22 (V)
-
-
-###### Article L362-3
-
-Le matériel fourni par les communes [*pour les inhumations, exhumations et crémations*] doit être constitué en vue aussi bien
-d'obsèques religieuses de tout culte que d'obsèques dépourvues de tout caractère confessionnel.
-
-Le service est gratuit pour les personnes dépourvues de ressources suffisantes [*indigents*].
-
-**Liens relatifs à cet article**
+	  - Loi n°93-23 du 8 janvier 1993 - art. 2 () JORF 9 janvier 1993
 
 	**Liens**:
 
-	  - SPEC_APPLI: *Dispositions non applicables aux communes des départements de la Moselle, du Bas-Rhin et du Haut-Rhin (Alsace-Lorraine)*
-	  - SPEC_APPLI: Code des communes L391-1 :
+	  - TXT_SOURCE: Arrêté du 29 décembre 1994
+	  - TXT_SOURCE: Arrêté du 29 décembre 1994 - art. 1 (V)
+	  - TXT_SOURCE: Arrêté du 29 décembre 1994 - art. 2 (V)
+	  - TXT_SOURCE: Décret n°95-653 du 9 mai 1995
+	  - TXT_SOURCE: Décret n°95-653 du 9 mai 1995 - art. 1 (Ab)
+	  - TXT_SOURCE: Décret n°95-653 du 9 mai 1995 - art. 10 (Ab)
+	  - TXT_SOURCE: Décret n°95-653 du 9 mai 1995 - art. 11 (Ab)
+	  - TXT_SOURCE: Décret n°95-653 du 9 mai 1995 - art. 12 (Ab)
+	  - TXT_SOURCE: Décret n°95-653 du 9 mai 1995 - art. 13 (Ab)
+	  - TXT_SOURCE: Décret n°95-653 du 9 mai 1995 - art. 14 (Ab)
+	  - TXT_SOURCE: Décret n°95-653 du 9 mai 1995 - art. 15 (Ab)
+	  - TXT_SOURCE: Décret n°95-653 du 9 mai 1995 - art. 16 (Ab)
+	  - TXT_SOURCE: Décret n°95-653 du 9 mai 1995 - art. 17 (Ab)
+	  - TXT_SOURCE: Décret n°95-653 du 9 mai 1995 - art. 18 (Ab)
+	  - TXT_SOURCE: Décret n°95-653 du 9 mai 1995 - art. 19 (Ab)
+	  - TXT_SOURCE: Décret n°95-653 du 9 mai 1995 - art. 2 (Ab)
+	  - TXT_SOURCE: Décret n°95-653 du 9 mai 1995 - art. 20 (Ab)
+	  - TXT_SOURCE: Décret n°95-653 du 9 mai 1995 - art. 21 (Ab)
+	  - TXT_SOURCE: Décret n°95-653 du 9 mai 1995 - art. 22 (Ab)
+	  - TXT_SOURCE: Décret n°95-653 du 9 mai 1995 - art. 23 (Ab)
+	  - TXT_SOURCE: Décret n°95-653 du 9 mai 1995 - art. 24 (Ab)
+	  - TXT_SOURCE: Décret n°95-653 du 9 mai 1995 - art. 25 (Ab)
+	  - TXT_SOURCE: Décret n°95-653 du 9 mai 1995 - art. 26 (Ab)
+	  - TXT_SOURCE: Décret n°95-653 du 9 mai 1995 - art. 27 (Ab)
+	  - TXT_SOURCE: Décret n°95-653 du 9 mai 1995 - art. 28 (Ab)
+	  - TXT_SOURCE: Décret n°95-653 du 9 mai 1995 - art. 29 (Ab)
+	  - TXT_SOURCE: Décret n°95-653 du 9 mai 1995 - art. 3 (Ab)
+	  - TXT_SOURCE: Décret n°95-653 du 9 mai 1995 - art. 30 (Ab)
+	  - TXT_SOURCE: Décret n°95-653 du 9 mai 1995 - art. 31 (Ab)
+	  - TXT_SOURCE: Décret n°95-653 du 9 mai 1995 - art. 32 (Ab)
+	  - TXT_SOURCE: Décret n°95-653 du 9 mai 1995 - art. 33 (Ab)
+	  - TXT_SOURCE: Décret n°95-653 du 9 mai 1995 - art. 4 (Ab)
+	  - TXT_SOURCE: Décret n°95-653 du 9 mai 1995 - art. 5 (Ab)
+	  - TXT_SOURCE: Décret n°95-653 du 9 mai 1995 - art. 6 (Ab)
+	  - TXT_SOURCE: Décret n°95-653 du 9 mai 1995 - art. 7 (Ab)
+	  - TXT_SOURCE: Décret n°95-653 du 9 mai 1995 - art. 8 (Ab)
+	  - TXT_SOURCE: Décret n°95-653 du 9 mai 1995 - art. 9 (Ab)
+	  - TXT_SOURCE: Décret n°95-653 du 9 mai 1995 - art. 9-1 (Ab)
 
-	**Anciens textes**:
+	**Cité par**:
 
-	  - Code de l'administration communale 464 al. 3 et 4
+	  - Décret n°95-653 du 9 mai 1995 - art. 10 (Ab)
+
+	**Abrogé par**:
+
+	  - Loi n°96-142 du 21 février 1996 - art. 12 (V) JORF 24 février 1996
+
+	**Nouveaux textes**:
+
+	  - Code général des collectivités territoriales - art. L2223-20 (M)
+	  - Code général des collectivités territoriales - art. L2223-20 (V)
+
+
+###### Article L362-1-2
+
+Dans le respect du règlement national des pompes funèbres, le conseil municipal peut arrêter un règlement municipal des
+pompes funèbres que doivent respecter les régies et les entreprises ou associations habilitées.
+
+**Liens relatifs à cet article**
 
 	**Codifié par**:
 
@@ -31065,7 +31203,338 @@ Le service est gratuit pour les personnes dépourvues de ressources suffisantes 
 
 	**Créé par**:
 
-	  - Décret n°77-240 1977-03-07 JORF et JONC 18 mars 1977
+	  - Loi n°93-23 du 8 janvier 1993 - art. 2 ()
+
+
+###### Article L362-2
+
+Les convois, les inhumations et les crémations peuvent donner lieu à la perception de taxes dont les tarifs sont votés par
+les conseils municipaux. Dans ces tarifs, aucune surtaxe ne peut être exigée pour les présentations et stations dans un lieu
+de culte.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°77-240 1977-03-07
+
+	**Modifié par**:
+
+	  - Loi n°93-23 du 8 janvier 1993 - art. 3 () JORF 9 janvier 1993
+
+	**Abrogé par**:
+
+	  - Loi n°96-142 du 21 février 1996 - art. 12 (V) JORF 24 février 1996
+
+	**Nouveaux textes**:
+
+	  - Code général des collectivités territoriales - art. L2223-22 (V)
+
+
+###### Article L362-2-1
+
+Les régies, les entreprises ou les associations et chacun de leurs établissements qui, habituellement, sous leur marque ou
+non, fournissent aux familles des prestations énumérées à l'article L. 362-1 ou définissent cette fourniture ou assurent
+l'organisation des funérailles doivent être habilités à cet effet selon des modalités et une durée prévues par décret en
+Conseil d'Etat.
+
+Pour accorder cette habilitation, le représentant de l'Etat dans le département s'assure :
+
+1° Des conditions requises des dirigeants telles que définies à l'article L. 362-2-2 ;
+
+2° De conditions minimales de capacité professionnelle du dirigeant et des agents, fixées par décret ;
+
+3° De la conformité des installations techniques à des prescriptions fixées par décret ;
+
+4° De la régularité de la situation du bénéficiaire au regard des impositions de toute nature et des cotisations sociales ;
+
+5° De la conformité des véhicules à des prescriptions fixées par décret.
+
+L'habilitation est valable sur l'ensemble du territoire national.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°77-240 1977-03-07
+
+	**Créé par**:
+
+	  - Loi n°93-23 du 8 janvier 1993 - art. 4 () JORF 9 janvier 1993
+
+	**Cité par**:
+
+	  - Décret n°94-260 du 1 avril 1994 - art. 2 (Ab)
+	  - Décret n°95-330 du 21 mars 1995 - art. 1 (Ab)
+	  - Décret n°95-330 du 21 mars 1995 - art. 2 (Ab)
+	  - Décret n°95-330 du 21 mars 1995 - art. 3 (Ab)
+	  - Décret n°95-330 du 21 mars 1995 - art. 4 (Ab)
+	  - Décret n°95-330 du 21 mars 1995 - art. 6 (Ab)
+	  - Décret n°95-506 du 2 mai 1995 - art. 1 (Ab)
+	  - Décret n°95-652 du 9 mai 1995 - art. 1 (Ab)
+	  - Décret n°95-652 du 9 mai 1995 - art. 6 (Ab)
+	  - Décret n°95-653 du 9 mai 1995 - art. 1 (Ab)
+	  - Décret n°95-653 du 9 mai 1995 - art. 10 (Ab)
+	  - Décret n°95-653 du 9 mai 1995 - art. 11 (Ab)
+	  - Décret n°95-653 du 9 mai 1995 - art. 31 (M)
+	  - CODE DES COMMUNES. - art. L361-20-1 (Ab)
+	  - CODE DES COMMUNES. - art. L362-1 (Ab)
+	  - CODE DES COMMUNES. - art. L362-12 (Ab)
+	  - CODE DES COMMUNES. - art. L362-2-2 (Ab)
+	  - CODE DES COMMUNES. - art. L362-2-3 (Ab)
+	  - CODE DES COMMUNES. - art. L363-2 (Ab)
+	  - CODE DES COMMUNES. - art. R361-36 (Ab)
+	  - CODE DES COMMUNES. - art. R363-13 (Ab)
+
+	**Liens**:
+
+	  - TXT_SOURCE: Décret n°94-941 du 24 octobre 1994
+	  - TXT_SOURCE: Décret n°94-941 du 24 octobre 1994 - art. 1 (Ab)
+	  - TXT_SOURCE: Décret n°94-941 du 24 octobre 1994 - art. 10 (Ab)
+	  - TXT_SOURCE: Décret n°94-941 du 24 octobre 1994 - art. 11 (Ab)
+	  - TXT_SOURCE: Décret n°94-941 du 24 octobre 1994 - art. 12 (Ab)
+	  - TXT_SOURCE: Décret n°94-941 du 24 octobre 1994 - art. 13 (Ab)
+	  - TXT_SOURCE: Décret n°94-941 du 24 octobre 1994 - art. 14 (Ab)
+	  - TXT_SOURCE: Décret n°94-941 du 24 octobre 1994 - art. 15 (Ab)
+	  - TXT_SOURCE: Décret n°94-941 du 24 octobre 1994 - art. 2 (Ab)
+	  - TXT_SOURCE: Décret n°94-941 du 24 octobre 1994 - art. 3 (Ab)
+	  - TXT_SOURCE: Décret n°94-941 du 24 octobre 1994 - art. 4 (Ab)
+	  - TXT_SOURCE: Décret n°94-941 du 24 octobre 1994 - art. 5 (Ab)
+	  - TXT_SOURCE: Décret n°94-941 du 24 octobre 1994 - art. 6 (Ab)
+	  - TXT_SOURCE: Décret n°94-941 du 24 octobre 1994 - art. 7 (Ab)
+	  - TXT_SOURCE: Décret n°94-941 du 24 octobre 1994 - art. 8 (Ab)
+	  - TXT_SOURCE: Décret n°94-941 du 24 octobre 1994 - art. 9 (Ab)
+	  - TXT_SOURCE: Décret n°94-941 du 24 octobre 1994 - art. ANNEXE I (Ab)
+	  - TXT_SOURCE: Décret n°94-941 du 24 octobre 1994 - art. ANNEXE II (Ab)
+	  - TXT_SOURCE: Décret n°94-941 du 24 octobre 1994 - art. ANNEXE III (Ab)
+	  - TXT_SOURCE: Décret n°94-941 du 24 octobre 1994 - art. ANNEXE IV (Ab)
+	  - TXT_SOURCE: Décret n°94-941 du 24 octobre 1994 - art. ANNEXE V (Ab)
+	  - TXT_SOURCE: Décret n°94-941 du 24 octobre 1994 - art. ANNEXE VI (Ab)
+	  - TXT_SOURCE: Décret n°95-653 du 9 mai 1995
+	  - TXT_SOURCE: Décret n°95-653 du 9 mai 1995 - art. 1 (Ab)
+	  - TXT_SOURCE: Décret n°95-653 du 9 mai 1995 - art. 10 (Ab)
+	  - TXT_SOURCE: Décret n°95-653 du 9 mai 1995 - art. 11 (Ab)
+	  - TXT_SOURCE: Décret n°95-653 du 9 mai 1995 - art. 12 (Ab)
+	  - TXT_SOURCE: Décret n°95-653 du 9 mai 1995 - art. 13 (Ab)
+	  - TXT_SOURCE: Décret n°95-653 du 9 mai 1995 - art. 14 (Ab)
+	  - TXT_SOURCE: Décret n°95-653 du 9 mai 1995 - art. 15 (Ab)
+	  - TXT_SOURCE: Décret n°95-653 du 9 mai 1995 - art. 16 (Ab)
+	  - TXT_SOURCE: Décret n°95-653 du 9 mai 1995 - art. 17 (Ab)
+	  - TXT_SOURCE: Décret n°95-653 du 9 mai 1995 - art. 18 (Ab)
+	  - TXT_SOURCE: Décret n°95-653 du 9 mai 1995 - art. 19 (Ab)
+	  - TXT_SOURCE: Décret n°95-653 du 9 mai 1995 - art. 2 (Ab)
+	  - TXT_SOURCE: Décret n°95-653 du 9 mai 1995 - art. 20 (Ab)
+	  - TXT_SOURCE: Décret n°95-653 du 9 mai 1995 - art. 21 (Ab)
+	  - TXT_SOURCE: Décret n°95-653 du 9 mai 1995 - art. 22 (Ab)
+	  - TXT_SOURCE: Décret n°95-653 du 9 mai 1995 - art. 23 (Ab)
+	  - TXT_SOURCE: Décret n°95-653 du 9 mai 1995 - art. 24 (Ab)
+	  - TXT_SOURCE: Décret n°95-653 du 9 mai 1995 - art. 25 (Ab)
+	  - TXT_SOURCE: Décret n°95-653 du 9 mai 1995 - art. 26 (Ab)
+	  - TXT_SOURCE: Décret n°95-653 du 9 mai 1995 - art. 27 (Ab)
+	  - TXT_SOURCE: Décret n°95-653 du 9 mai 1995 - art. 28 (Ab)
+	  - TXT_SOURCE: Décret n°95-653 du 9 mai 1995 - art. 29 (Ab)
+	  - TXT_SOURCE: Décret n°95-653 du 9 mai 1995 - art. 3 (Ab)
+	  - TXT_SOURCE: Décret n°95-653 du 9 mai 1995 - art. 30 (Ab)
+	  - TXT_SOURCE: Décret n°95-653 du 9 mai 1995 - art. 31 (Ab)
+	  - TXT_SOURCE: Décret n°95-653 du 9 mai 1995 - art. 32 (Ab)
+	  - TXT_SOURCE: Décret n°95-653 du 9 mai 1995 - art. 33 (Ab)
+	  - TXT_SOURCE: Décret n°95-653 du 9 mai 1995 - art. 4 (Ab)
+	  - TXT_SOURCE: Décret n°95-653 du 9 mai 1995 - art. 5 (Ab)
+	  - TXT_SOURCE: Décret n°95-653 du 9 mai 1995 - art. 6 (Ab)
+	  - TXT_SOURCE: Décret n°95-653 du 9 mai 1995 - art. 7 (Ab)
+	  - TXT_SOURCE: Décret n°95-653 du 9 mai 1995 - art. 8 (Ab)
+	  - TXT_SOURCE: Décret n°95-653 du 9 mai 1995 - art. 9 (Ab)
+	  - TXT_SOURCE: Décret n°95-653 du 9 mai 1995 - art. 9-1 (Ab)
+
+	**Abrogé par**:
+
+	  - Loi n°96-142 du 21 février 1996 - art. 12 (V) JORF 24 février 1996
+
+	**Nouveaux textes**:
+
+	  - Code général des collectivités territoriales - art. L2223-23 (V)
+
+
+###### Article L362-2-2
+
+Nul ne peut exercer les fonctions de dirigeant ou de gérant de droit ou de fait d'une régie, d'une entreprise, d'une
+association ou d'un établissement bénéficiant de ou sollicitant l'habilitation prévue à l'article L. 362-2-1 :
+
+" 1° S'il a fait l'objet d'une condamnation définitive à une peine d'emprisonnement avec ou sans sursis, figurant au bulletin
+n° 2 du casier judiciaire, pour un crime ou l'un des délits suivants :
+
+" - exercice illégal d'une activité professionnelle ou sociale dont l'accès est réglementé ;
+
+" - corruption active ou passive ou trafic d'influence ;
+
+" - acte d'intimidation contre une personne exerçant une fonction publique ;
+
+" - escroquerie ;
+
+" - abus de confiance ;
+
+" - violation de sépulture ou atteinte au respect dû aux morts ;
+
+" - vol ;
+
+" - attentat aux moeurs ou agression sexuelle ;
+
+" - recel ;
+
+" - coups et blessures volontaires ;
+
+" 2° S'il a fait l'objet d'une condamnation prononcée par une juridiction étrangère et passée en force de chose jugée
+constituant d'après la loi française une condamnation pour un crime ou l'un des délits mentionnés au 1° du présent article ;
+le tribunal correctionnel du lieu de résidence du condamné, ou, s'il n'a pas sa résidence en France, du lieu où il a demandé
+l'habilitation, saisi par requête, apprécie la régularité et la légalité de cette décision et statue en chambre du conseil,
+l'intéressé dûment appelé, sur l'application en France de l'interdiction ;
+
+" 3° S'il a été frappé de faillite personnelle ou d'une autre sanction en application du titre VI ou du titre VII de la loi
+n° 85-98 du 25 janvier 1985 relative au redressement et à la liquidation judiciaires des entreprises ou, dans le régime
+antérieur à cette loi, en application du titre II de la loi n° 67-563 du 13 juillet 1967 sur le règlement judiciaire, la
+liquidation des biens, la faillite personnelle ou les banqueroutes, ou s'il a été déclaré en état de faillite par une
+juridiction étrangère quand le jugement déclaratif a été déclaré exécutoire en France, et s'il n'a pas été réhabilité ;
+
+" 4° S'il n'est pas de nationalité française ou ressortissant d'un Etat membre des communautés européennes.
+
+**Nota:**
+
+Loi 93-1420 1993-12-31 art. 10 Les modifications introduites par la loi 93-1420 du 31 décembre 1993 entrent en vigueur à la
+date d'entrée en vigueur de l'accord sur l'espace économique européen.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°67-563 1967-07-13
+	  - Loi n°85-98 1985-01-25
+	  - CODE DES COMMUNES. - art. L362-2-1 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°77-240 1977-03-07
+
+	**Créé par**:
+
+	  - Loi n°93-23 du 8 janvier 1993 - art. 5 ()
+
+	**Cité par**:
+
+	  - CODE DES COMMUNES. - art. L362-2-3 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code général des collectivités territoriales - art. L2223-24 (M)
+
+
+###### Article L362-2-3
+
+L'habilitation prévue à l'article L. 362-2-1 peut être suspendue pour une durée maximum d'un an ou retirée, après mise en
+demeure, par le représentant de l'Etat dans le département où les faits auront été constatés, pour les motifs suivants :
+
+1° Non-respect des conditions auxquelles était soumise sa délivrance, définies en application des dispositions des articles
+L. 362-2-1 et L. 362-2-2 ;
+
+2° Non-respect du règlement national des pompes funèbres ;
+
+3° Non-exercice ou cessation d'exercice des activités au titre desquelles elle a été délivrée ;
+
+4° Atteinte à l'ordre public ou danger pour la salubrité publique ;
+
+Dans le cas d'un délégataire, le retrait de l'habilitation entraîne la déchéance des délégations.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°77-240 1977-03-07
+
+	**Créé par**:
+
+	  - Loi n°93-23 du 8 janvier 1993 - art. 6 () JORF 9 janvier 1993
+
+	**Cité par**:
+
+	  - Décret n°95-330 du 21 mars 1995 - art. 10 (Ab)
+	  - Décret n°95-330 du 21 mars 1995 - art. 9 (Ab)
+	  - CODE DES COMMUNES. - art. L362-12 (Ab)
+	  - CODE DES COMMUNES. - art. L363-2 (Ab)
+
+	**Abrogé par**:
+
+	  - Loi n°96-142 du 21 février 1996 - art. 12 (V) JORF 24 février 1996
+
+	**Cite**:
+
+	  - CODE DES COMMUNES. - art. L362-2-1 (Ab)
+	  - CODE DES COMMUNES. - art. L362-2-2 (M)
+
+	**Nouveaux textes**:
+
+	  - Code général des collectivités territoriales - art. L2223-25 (V)
+	  - Code général des collectivités territoriales - art. L2223-25 (M)
+
+
+###### Article L362-2-4
+
+Il est créé auprès du ministre de l'intérieur un Conseil national des opérations funéraires composé de représentants des
+communes et de leurs groupements, des régies et des entreprises ou associations habilitées qui fournissent les prestations
+énumérées à l'article L. 362-1 ou qui participent aux opérations funéraires, des syndicats représentatifs au plan national
+des salariés de ce secteur, des associations familiales, des associations de consommateurs, des administrations de l'Etat, et
+de personnalités désignées en raison de leur compétence.
+
+Le Conseil national des opérations funéraires est consulté sur les projets de textes relatifs à la législation et à la
+réglementation funéraire. Il peut adresser aux pouvoirs publics toute proposition. Il donne son avis sur le règlement
+national des pompes funèbres et sur les obligations des régies et des entreprises ou associations habilitées en matière de
+formation professionnelle.
+
+Un décret en Conseil d'Etat précise sa composition et son mode de fonctionnement.
+
+Le Conseil national des opérations funéraires rend public un rapport, tous les deux ans, sur ses activités, le niveau et
+l'évolution des tarifs des professionnels et les conditions de fonctionnement du secteur funéraire.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°77-240 1977-03-07
+
+	**Créé par**:
+
+	  - Loi n°93-23 du 8 janvier 1993 - art. 7 () JORF 9 janvier 1993
+
+	**Abrogé par**:
+
+	  - Loi n°96-142 du 21 février 1996 - art. 12 (V) JORF 24 février 1996
+
+	**Cite**:
+
+	  - CODE DES COMMUNES. - art. L362-1 (M)
+
+	**Nouveaux textes**:
+
+	  - Code général des collectivités territoriales - art. L1241-1 (M)
+	  - Code général des collectivités territoriales - art. L1241-1 (V)
+
+
+###### Article L362-3
+
+Le matériel fourni par les régies et les entreprises ou associations habilitées doit être constitué en vue aussi bien
+d'obsèques religieuses de tout culte que d'obsèques dépourvues de tout caractère confessionnel.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°77-240 1977-03-07
+
+	**Modifié par**:
+
+	  - Loi n°93-23 du 8 janvier 1993 - art. 8 () JORF 9 janvier 1993
+
+	**Abrogé par**:
+
+	  - Loi n°96-142 du 21 février 1996 - art. 12 (V) JORF 24 février 1996
 
 	**Cité par**:
 
@@ -31074,6 +31543,36 @@ Le service est gratuit pour les personnes dépourvues de ressources suffisantes 
 	**Nouveaux textes**:
 
 	  - Code général des collectivités territoriales - art. L2223-26 (V)
+
+
+###### Article L362-3-1
+
+Le service est gratuit pour les personnes dépourvues de ressources suffisantes.
+
+Lorsque la mission de service public définie à l'article L. 362-1 n'est pas assurée par la commune, celle-ci prend en charge
+les frais d'obsèques de ces personnes. Elle choisit l'organisme qui assurera ces obsèques.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°77-240 1977-03-07
+
+	**Créé par**:
+
+	  - Loi n°93-23 du 8 janvier 1993 - art. 9 () JORF 9 janvier 1993
+
+	**Abrogé par**:
+
+	  - Loi n°96-142 du 21 février 1996 - art. 12 (V) JORF 24 février 1996
+
+	**Cite**:
+
+	  - CODE DES COMMUNES. - art. L362-1 (M)
+
+	**Nouveaux textes**:
+
+	  - Code général des collectivités territoriales - art. L2223-27 (V)
 
 
 ###### Article L362-4
@@ -31106,59 +31605,6 @@ l'autorisation du conseil municipal [*conditions de forme*] et sous la surveilla
 	**Abrogé par**:
 
 	  - Loi n°96-142 du 21 février 1996 - art. 12 (V)
-
-
-###### Article L362-4-1
-
-I - Par dérogation aux règles du service extérieur des pompes funèbres, lorsque la commune du lieu de mise en bière n'est pas
-celle du domicile du défunt ou du lieu d'inhumation ou de crémation, la personne qui a qualité pour pourvoir aux funérailles
-ou son mandataire, si elle ne fait pas appel à la régie ou au concessionnaire de la commune du lieu de mise en bière, dans
-les conditions fixées par l'article L. 362-1, peut s'adresser à la régie, au concessionnaire ou, en l'absence d'organisation
-du service, à toute entreprise de pompes funèbres soit de la commune du lieu d'inhumation ou de crémation, soit de la commune
-du domicile du défunt, pour assurer les fournitures de matériel prévues à l'article L. 362-1, le transport des crops après
-mise en bière et l'ensemble des services liés à ces prestations.
-
-II - Les entreprises privées de pompes funèbres qui participent au service des pompes funèbres sont agréées selon des
-modalités prévues par décret en Conseil d'Etat.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°77-240 1977-03-07
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°86-29 1986-01-09 art. 31 II : Les dispositions du présent article entreront en vigueur le 1er janvier 1987
-	  - TXT_SOURCE: Décret n°86-1423 du 29 décembre 1986
-	  - TXT_SOURCE: Décret n°86-1423 du 29 décembre 1986 - art. 1 (V)
-	  - TXT_SOURCE: Décret n°86-1423 du 29 décembre 1986 - art. 10 (V)
-	  - TXT_SOURCE: Décret n°86-1423 du 29 décembre 1986 - art. 2 (V)
-	  - TXT_SOURCE: Décret n°86-1423 du 29 décembre 1986 - art. 3 (V)
-	  - TXT_SOURCE: Décret n°86-1423 du 29 décembre 1986 - art. 4 (V)
-	  - TXT_SOURCE: Décret n°86-1423 du 29 décembre 1986 - art. 5 (V)
-	  - TXT_SOURCE: Décret n°86-1423 du 29 décembre 1986 - art. 6 (V)
-	  - TXT_SOURCE: Décret n°86-1423 du 29 décembre 1986 - art. 7 (V)
-	  - TXT_SOURCE: Décret n°86-1423 du 29 décembre 1986 - art. 8 (V)
-	  - TXT_SOURCE: Décret n°86-1423 du 29 décembre 1986 - art. 9 (V)
-
-	**Créé par**:
-
-	  - Loi n°86-29 du 9 janvier 1986 - art. 31 () JORF 10 janvier 1986 en vigueur le 1er janvier 1987
-
-	**Abrogé par**:
-
-	  - Loi n°93-23 du 8 janvier 1993 - art. 10 () JORF 9 janvier 1993
-
-	**Cite**:
-
-	  - CODE DES COMMUNES. - art. L362-1 (M)
-
-	**Cité par**:
-
-	  - CODE DES COMMUNES. - art. L362-12 (M)
-	  - CODE DES COMMUNES. - art. L391-1 (M)
-	  - CODE DES COMMUNES. - art. R*362-4 (Ab)
 
 
 ###### Article L362-5
@@ -31258,38 +31704,33 @@ des pompes funèbres*].
 
 ###### Article L362-8
 
-Il est interdit aux entreprises privées de pompes funèbres, de règlements de funérailles ou de marbrerie d'employer dans
-leurs enseignes, annonces, affiches, imprimés, placards ou inscriptions de publicité, des termes ou mentions qui tendent à
-créer une confusion avec les monopoles ou services municipaux et notamment les mots "Administration ; Offices ; Services ;
-Officiel ; Déclaration de décès".
+Les entreprises ou associations habilitées ne peuvent employer dans leurs enseignes, leurs publicités et leurs imprimés des
+termes ou mentions qui tendent à créer une confusion avec les régies, les délégataires des communes ou les services
+municipaux.
 
-Les concessionnaires ou les régisseurs intéressés des communes peuvent, seuls, utiliser la mention "Concessionnaires
-officiels de la ville".
+Les délégataires des communes peuvent, seuls, utiliser la mention : " Délégataire officiel de la ville ".
+
+Les régies communales peuvent, seules, utiliser la mention :
+
+"Régisseur officiel de la ville".
 
 **Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - SPEC_APPLI: *Dispositions non applicables aux communes des départements de la Guadeloupe, de la Guyane, de la Martinique et de la Réunion*
-	  - TXT_ASSOCIE: CODE DES COMMUNES. - art. L362-12 (M)
-	  - SPEC_APPLI: Code des communes L392-1 :
-	  - TXT_ASSOCIE: Code des communes R362-4
 
 	**Codifié par**:
 
 	  - Décret n°77-240 1977-03-07
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°77-240 1977-03-07 JORF et JONC 18 mars 1977
+	  - Loi n°93-23 du 8 janvier 1993 - art. 11 () JORF 9 janvier 1993
+
+	**Abrogé par**:
+
+	  - Loi n°96-142 du 21 février 1996 - art. 12 (V) JORF 24 février 1996
 
 	**Cité par**:
 
 	  - CODE DES COMMUNES. - art. L362-12 (M)
-
-	**Anciens textes**:
-
-	  - Code de l'administration communale 467
 
 	**Nouveaux textes**:
 
@@ -31298,70 +31739,57 @@ officiels de la ville".
 
 ###### Article L362-9
 
-Les entreprises privées de pompes funèbres, de règlements de funérailles ou de marbrerie doivent faire mention dans leurs
-enseignes, annonces, affiches, imprimés, placards ou inscriptions des noms des propriétaires, directeurs généraux, directeurs
-ou gérants ainsi que, le cas échéant, de la forme sociale et du montant du capital [*publicité*].
+Les régies et les entreprises ou associations habilitées doivent faire mention dans leur publicité et leurs imprimés de leur
+forme juridique, de l'habilitation dont elles sont titulaires et, le cas échéant, du montant de leur capital.
 
 **Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - SPEC_APPLI: *Dispositions non applicables aux communes des départements de la Guadeloupe, de la Guyane, de la Martinique et de la Réunion*
-	  - TXT_ASSOCIE: CODE DES COMMUNES. - art. L362-12 (M)
-	  - SPEC_APPLI: Code des communes L392-1 :
-	  - TXT_ASSOCIE: Code des communes R362-4
 
 	**Codifié par**:
 
 	  - Décret n°77-240 1977-03-07
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°77-240 1977-03-07 JORF et JONC 18 mars 1977
+	  - Loi n°93-23 du 8 janvier 1993 - art. 12 () JORF 9 janvier 1993
+
+	**Abrogé par**:
+
+	  - Loi n°96-142 du 21 février 1996 - art. 12 (V) JORF 24 février 1996
 
 	**Cité par**:
 
 	  - CODE DES COMMUNES. - art. L362-12 (M)
-
-	**Anciens textes**:
-
-	  - Code de l'administration communale 468
 
 	**Nouveaux textes**:
 
 	  - Code général des collectivités territoriales - art. L2223-32 (VT)
+	  - Code général des collectivités territoriales - art. L2223-32 (V)
 
 
 ###### Article L362-10
 
-Sont interdites les offres de services faites à l'occasion d'un décès en vue d'obtenir, soit directement, soit à titre
-d'intermédiaire, la commande de fournitures funéraires ou le règlement de convois. Sont également interdites les démarches
-quelconques sur la voie publique ou dans un lieu ou édifice public ou ouvert au public.
+A l'exception des formules de financement d'obsèques, sont interdites les offres de services faites à l'occasion ou en
+prévision d'obsèques en vue d'obtenir ou de faire obtenir, soit directement, soit à titre d'intermédiaire, la commande de
+fournitures ou de prestations liées à un décès. Sont interdites les démarches à domicile ainsi que toutes les démarches
+effectuées dans le même but sur la voie publique ou dans un lieu ou édifice public ou ouvert au public.
 
 **Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - SPEC_APPLI: *Dispositions non applicables aux communes des départements de la Guadeloupe, de la Guyane, de la Martinique et de la Réunion*
-	  - TXT_ASSOCIE: CODE DES COMMUNES. - art. L362-12 (M)
-	  - SPEC_APPLI: Code des communes L392-1 :
-	  - TXT_ASSOCIE: Code des communes R362-4
 
 	**Codifié par**:
 
 	  - Décret n°77-240 1977-03-07
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°77-240 1977-03-07 JORF et JONC 18 mars 1977
+	  - Loi n°93-23 du 8 janvier 1993 - art. 13 () JORF 9 janvier 1993
+
+	**Abrogé par**:
+
+	  - Loi n°96-142 du 21 février 1996 - art. 12 (V) JORF 24 février 1996
 
 	**Cité par**:
 
 	  - CODE DES COMMUNES. - art. L362-12 (M)
-
-	**Anciens textes**:
-
-	  - Code de l'administration communale 469
 
 	**Nouveaux textes**:
 
@@ -31370,27 +31798,10 @@ quelconques sur la voie publique ou dans un lieu ou édifice public ou ouvert au
 
 ###### Article L362-11
 
-Aucune majoration en sus des prix figurant aux tarifs officiels ne peut étre perçue à aucun titre et par aucun intermédiaire,
-sur les fournitures monopolisées énumérées par l'article L. 362-1, ainsi que sur les concessions dans les cimetières, taxes
-municipales, vacations de police, papiers timbrés, etc.
-
-Les infractions à cette interdiction sont sanctionnées par une amende égale à dix fois au moins et cinquante fois au plus
-[*proportion*] les sommes indûment réclamées, sans que cette amende puisse être inférieure à 60 F [*francs*].
+Aucune majoration ne peut être perçue à aucun titre et par aucun intermédiaire sur les concessions dans les cimetières, les
+taxes municipales et droits de toute nature.
 
 **Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - SPEC_APPLI: *Dispositions non applicables aux communes des départements de la Guadeloupe, de la Guyane, de la Martinique et de la Réunion*
-	  - SPEC_APPLI: Code des communes L392-1 :
-
-	**Cite**:
-
-	  - CODE DES COMMUNES. - art. L362-1 (M)
-
-	**Anciens textes**:
-
-	  - Code de l'administration communale 470
 
 	**Codifié par**:
 
@@ -31398,20 +31809,57 @@ Les infractions à cette interdiction sont sanctionnées par une amende égale �
 
 	**Modifié par**:
 
-	  - Loi n°82-213 du 2 mars 1982 - art. 21 (V) JORF 3 MARS 1982
+	  - Loi n°93-23 du 8 janvier 1993 - art. 14 () JORF 9 janvier 1993
+
+	**Abrogé par**:
+
+	  - Loi n°96-142 du 21 février 1996 - art. 12 (V) JORF 24 février 1996
 
 	**Nouveaux textes**:
 
 	  - Code général des collectivités territoriales - art. L2223-34 (V)
 
 
+##### SECTION 3 : Sanction pénales.
+
 ###### Article L362-12
 
-Toute infraction aux dispositions des articles L362-1, L362-4-1, L362-8, L362-9, et L362-10, est punie, [*sanction*] en cas
-de récidive, d'une amende de 6000 à 15000 francs (1)    La fermeture de l'entreprise trouvée en infraction peut, en outre,
-dans ce dernier cas, être ordonnée par le tribunal pour une période n'excédant pas trois mois.
+Le fait de diriger en droit ou en fait une régie, une entreprise ou une association ou un établissement sans l'habilitation
+prévue aux articles L. 361-20-1, L. 362-2-1 et L. 363-2 ou lorsque celle-ci est suspendue ou retirée en application de
+l'article L. 362-2-3 est puni d'une amende de 10 000 F à 500 000 F.
 
-(1) taux résultant de la loi 89-469 du 10 juillet 1989 art. 9 en vigueur le 1er janvier 1990.
+La violation des dispositions des articles L. 362-8 à L. 362-11 est punie d'une amende de 10 000 F à 500 000 F.
+
+Est puni d'un an à cinq ans d'emprisonnement et de 10 000 F à 500 000 F d'amende le fait de proposer, directement ou
+indirectement, des offres, des promesses, des dons, des présents ou des avantages quelconques pour obtenir d'une personne
+qui, à l'occasion de son activité professionnelle, a connaissance d'un décès, qu'elle fasse connaître aux entreprises ou
+associations fournissant les prestations énumérées à l'article L. 362-1 la survenance d'un décès ou qu'elle recommande aux
+familles les services d'une entreprise ou association déterminée.
+
+Est puni de six mois à trois ans d'emprisonnement et de 6 000 F à 300 000 F d'amende le fait, par une personne qui, à
+l'occasion de l'exercice de son activité professionnelle, a connaissance d'un décès, de solliciter ou d'agréer, directement
+ou indirectement, des offres, des promesses, des dons, des présents ou des avantages quelconques pour faire connaître aux
+entreprises ou associations fournissant les prestations énumérées à l'article L. 362-1 la survenance d'un décès ou pour
+recommander aux familles les services d'une entreprise ou association déterminée.
+
+Les personnes physiques coupables de l'une des infractions prévues au présent article encourent également les peines
+complémentaires suivantes :
+
+1° L'interdiction des droits civiques, civils et de famille, suivant les modalités prévues par l'article 131-26 du code
+pénal ;
+
+2° L'interdiction, pour une durée de cinq ans au plus, d'exercer une fonction publique ou d'exercer l'activité
+professionnelle ou sociale dans l'exercice ou à l'occasion de l'exercice de laquelle l'infraction a été commise ;
+
+3° L'affichage ou la diffusion de la décision prononcée, dans les conditions prévues à l'article 131-35 du code pénal.
+
+**Nota:**
+
+Loi 93-23 1993-01-08 art. 16 par II Dans le texte de l'article L. 362-12 du code des communes, les mots 10 000 F à ", six
+mois à " et 6 000 F à " sont supprimés à compter du 1er septembre 1993 et les mots d'un an à " sont remplacés par le mot de
+" 
+
+à compter de la même date.
 
 **Liens relatifs à cet article**
 
@@ -31421,16 +31869,23 @@ dans ce dernier cas, être ordonnée par le tribunal pour une période n'excéda
 
 	**Modifié par**:
 
-	  - Loi n°86-29 du 9 janvier 1986 - art. 32 () JORF 10 janvier 1986
+	  - Loi n°93-23 du 8 janvier 1993 - art. 15 () JORF 9 janvier 1993
+	  - Loi n°93-23 du 8 janvier 1993 - art. 16 () JORF 9 janvier 1993
+
+	**Abrogé par**:
+
+	  - Loi n°96-142 du 21 février 1996 - art. 12 (V) JORF 24 février 1996
 
 	**Cite**:
 
+	  - CODE DES COMMUNES. - art. L361-20-1 (Ab)
 	  - CODE DES COMMUNES. - art. L362-1 (M)
-	  - CODE DES COMMUNES. - art. L362-10 (M)
-	  - CODE DES COMMUNES. - art. L362-4-1 (MMN)
-	  - CODE DES COMMUNES. - art. L362-8 (M)
-	  - CODE DES COMMUNES. - art. L362-9 (M)
-	  - Décret  1959-03-21 ART. 3 et 6 (contestations sur les conditions des funérailles)
+	  - CODE DES COMMUNES. - art. L362-2-1 (Ab)
+	  - CODE DES COMMUNES. - art. L362-2-3 (Ab)
+	  - CODE DES COMMUNES. - art. L363-2 (Ab)
+	  - Code des communes L361-20-1, L362-2-1, L363-2, L362-2-3, L362-8 à L362-11, L362-1
+	  - Code pénal - art. 131-26 (V)
+	  - Code pénal - art. 131-35 (M)
 
 	**Liens**:
 
@@ -31443,13 +31898,122 @@ dans ce dernier cas, être ordonnée par le tribunal pour une période n'excéda
 	  - CODE DES COMMUNES. - art. L362-14 (Ab)
 	  - CODE DES COMMUNES. - art. R*362-4 (Ab)
 
-	**Anciens textes**:
-
-	  - Code de l'administration communale 471 al. 2 et 3
-
 	**Nouveaux textes**:
 
 	  - Code général des collectivités territoriales - art. L2223-35 (V)
+	  - Code général des collectivités territoriales - art. L2223-35 (M)
+
+
+##### SECTION 3 : Sanctions pénales.
+
+###### Article L362-14
+
+Les dispositions des articles L. 362-12 et L. 362-13 ne sont pas applicables aux autorités publiques qui, en application d'un
+texte législatif ou réglementaire, sont tenues soit d'assurer tout ou partie d'opérations funéraires, soit d'en assurer le
+financement.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°77-240 1977-03-07
+
+	**Créé par**:
+
+	  - Loi n°93-23 du 8 janvier 1993 - art. 15 () JORF 9 janvier 1993
+	  - Loi n°93-23 du 8 janvier 1993 - art. 18 () JORF 9 janvier 1993
+
+	**Abrogé par**:
+
+	  - Loi n°96-142 du 21 février 1996 - art. 12 (V) JORF 24 février 1996
+
+	**Cite**:
+
+	  - CODE DES COMMUNES. - art. L362-12 (M)
+	  - CODE DES COMMUNES. - art. L362-13 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code général des collectivités territoriales - art. L2223-37 (V)
+
+
+#### CHAPITRE 3 : Soins de conservation et transport de corps.
+
+###### Article L363-1
+
+L'autorisation de fermeture du cercueil ne peut être délivrée qu'au vu d'un certificat, établi par un médecin, attestant le
+décès.
+
+Ce certificat, rédigé sur un modèle établi par le ministère chargé de la santé, précise, de manière confidentielle, la ou les
+causes du décès à l'autorité sanitaire de la santé dans le département.
+
+Ces informations ne peuvent être utilisées que par l'Etat, pour la prise de mesures de santé publique ou pour l'établissement
+de la statistique nationale des causes de décès par l'Institut national de la santé et de la recherche médicale.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°77-240 1977-03-07
+
+	**Créé par**:
+
+	  - Loi n°93-23 du 8 janvier 1993 - art. 25 () JORF 9 janvier 1993
+
+	**Abrogé par**:
+
+	  - Loi n°96-142 du 21 février 1996 - art. 12 (V) JORF 24 février 1996
+
+	**Cité par**:
+
+	  - CODE DES COMMUNES. - art. R361-37 (Ab)
+	  - CODE DES COMMUNES. - art. R363-10 (Ab)
+	  - CODE DES COMMUNES. - art. R363-11 (Ab)
+	  - CODE DES COMMUNES. - art. R363-18 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code général des collectivités territoriales - art. L2223-42 (V)
+	  - Code général des collectivités territoriales - art. L2223-42 (M)
+
+
+###### Article L363-2
+
+Les établissements de santé publics ou privés qui assurent le transport de corps avant mise en bière et le transfert de corps
+dans une chambre funéraire doivent être titulaires de l'habilitation prévue à l'article L. 362-2-1 au seul vu de la capacité
+professionnelle des agents et de la conformité des véhicules aux prescriptions fixées par les décrets visés aux 2° et 5° de
+l'article L. 362-2-1.
+
+Cette habilitation peut être retirée dans les conditions prévues à l'article L. 362-2-3.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°77-240 1977-03-07
+
+	**Créé par**:
+
+	  - Loi n°93-23 du 8 janvier 1993 - art. 26 () JORF 9 janvier 1993
+
+	**Cité par**:
+
+	  - Décret n°95-330 du 21 mars 1995 - art. 1 (Ab)
+	  - CODE DES COMMUNES. - art. L362-12 (Ab)
+
+	**Abrogé par**:
+
+	  - Loi n°96-142 du 21 février 1996 - art. 12 (V) JORF 24 février 1996
+
+	**Cite**:
+
+	  - CODE DES COMMUNES. - art. L362-2-1 (Ab)
+	  - CODE DES COMMUNES. - art. L362-2-3 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code général des collectivités territoriales - art. L2223-43 (V)
+	  - Code général des collectivités territoriales - art. L2223-43 (M)
 
 
 #### CHAPITRE 4 : Police des funérailles et des sépultures.
@@ -33701,17 +34265,14 @@ confier les acquisitions par voie d'expropriation.
 
 Sont applicables à l'ensemble des communes des départements de la Moselle, du Bas-Rhin et du Haut-Rhin :
 
-1° Les dispositions des articles contenus dans les titres Ier à VIII du présent livre [*administration de la commune,
-services communaux, voirie, bibliothèques et musées, protection contre l'incendie, pompes funèbres et cimetières, services
-industriels et commerciaux, participation à des entreprises privées*], à l'exception de celles des articles L. 311-1 et L.
-311-12 ; L. 312-1 et L. 312-2, des premier et troisième alinéas de l'article L. 312-4 ; des articles L. 313-1 et L. 313-2 ;
-L. 315-1 ; L. 316-1, L. 316-3, L. 316-8 et L316-11 à L. 316-13 ; L. 317-1 ; L. 341-1 à L. 341-4 ; L. 342-1 et L. 342-2 ; L.
-361-19 et L. 361-20 ; L. 362-1 à L. 362-4-1, L. 362-6 et L. 362-7 ; L. 364-3 et L. 376-7 ;
+1° Les dispositions des articles contenus dans les titres Ier à VIII du présent livre, à l'exception de celles des articles
+L. 311-1 et L. 311-12 ; L. 312-1 et L. 312-2, des premier et troisième alinéas de l'article L. 312-4 ; des articles L. 313-1
+et L. 313-2 ; L. 315-1 ; L. 316-1, L. 316-3, L. 316-8 et L316-11 à L. 316-13 ; L. 317-1 ; L. 341-1 à L. 341-4 ; L. 342-1 et
+L. 342-2 ; L. 361-19 et L. 361-20 ; L. 362-1 à L. 362-4-1, L. 362-6 et L. 362-7 ; L. 364-3 et L. 376-7 ;
 
 2° Les dispositions des articles contenus dans les sections II à VIII du présent chapitre.
 
-Toutefois, les dispositions du premier alinéa de l'article L. 311-7 [*délibération des commissions administratives chargées
-de la gestion des établissements publics communaux*] sont applicables seulement aux bureaux d'aide sociale.
+Toutefois, les dispositions du premier alinéa de l'article L. 311-7 sont applicables seulement aux bureaux d'aide sociale.
 
 **Liens relatifs à cet article**
 
@@ -33721,30 +34282,26 @@ de la gestion des établissements publics communaux*] sont applicables seulement
 
 	**Modifié par**:
 
-	  - Loi n°86-29 du 9 janvier 1986 - art. 33 () JORF 10 janvier 1986
+	  - Loi n°93-23 du 8 janvier 1993 - art. 27 (Ab) JORF 9 janvier 1993
 
 	**Cité par**:
 
 	  - Loi n°93-23 du 8 janvier 1993 - art. 27 (Ab)
 
-	**Cite**:
+	**Abrogé par**:
 
-	  - CODE DES COMMUNES. - art. L312-3 (M)
-	  - CODE DES COMMUNES. - art. L316-2 (M)
-	  - CODE DES COMMUNES. - art. L361-21 (M)
-	  - CODE DES COMMUNES. - art. L362-4-1 (MMN)
-	  - CODE DES COMMUNES. - art. L362-5 (Ab)
-	  - CODE DES COMMUNES. - art. L364-1 (Ab)
-	  - Code des communes L311-2 à L311-8, L311-10 et L311-11, L311-13 à L311-33
+	  - Loi n°96-142 du 21 février 1996 - art. 12 (V) JORF 24 février 1996
 
 	**Liens**:
 
 	  - SPEC_APPLI: CODE DES COMMUNES. - art. L361-19 (M)
 	  - SPEC_APPLI: CODE DES COMMUNES. - art. L361-20 (M)
 
-	**Anciens textes**:
+	**Nouveaux textes**:
 
-	  - Loi   1884-04-05 modifiée et lois et décrets d'extension
+	  - Code général des collectivités territoriales - art. L2541-1 (M)
+	  - Code général des collectivités territoriales - art. L2542-14 (V)
+	  - Code général des collectivités territoriales - art. L2542-26 (M)
 
 
 ##### SECTION 2 : Biens communaux et établissements communaux.
