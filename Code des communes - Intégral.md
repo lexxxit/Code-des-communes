@@ -1,5 +1,5 @@
 # Code des communes  
-Version Consolidée au 1995-02-05
+Version Consolidée au 1995-02-09
 
 # Partie législative
 
@@ -3772,18 +3772,19 @@ Les conseils municipaux peuvent voter, sur les ressources ordinaires, des indemn
 ###### Article L123-4
 
 I. - Les indemnités maximales pour l'exercice des fonctions de maires et adjoints au maire des communes, de conseillers
-municipaux des communes de 100 000 habitants et plus, de présidents et membres de délégations spéciales faisant fonction
+municipaux des communes de 100000 habitants et plus, de présidents et membres de délégations spéciales faisant fonction
 d'adjoint sont fixées par référence au montant du traitement correspondant à l'indice brut terminal de l'échelle indiciaire
 de la fonction publique.
 
-" II. - L'élu municipal titulaire d'autres mandats électoraux ou qui siège à ce titre au conseil d'administration d'un
+II. - L'élu municipal titulaire d'autres mandats électoraux ou qui siège à ce titre au conseil d'administration d'un
 établissement public local, du centre national de la fonction publique territoriale, au conseil d'administration ou au
 conseil de surveillance d'une société d'économie mixte locale ou qui préside une telle société ne peut percevoir, pour
 l'ensemble de ses fonctions, un montant total de rémunérations et d'indemnités de fonction supérieur à une fois et demie le
 montant de l'indemnité parlementaire telle qu'elle est définie à l'article 1er de l'ordonnance n° 58-1210 du 13 décembre 1958
-portant loi organique relative à l'indemnité des membres du Parlement.
+portant loi organique relative à l'indemnité des membres du Parlement. Ce plafond s'entend déduction faite des cotisations
+sociales obligatoires.
 
-" III. - Les indemnités prévues au présent article constituent pour les communes une dépense obligatoire. "
+III. - Les indemnités prévues au présent article constituent pour les communes une dépense obligatoire.
 
 **Liens relatifs à cet article**
 
@@ -3795,10 +3796,6 @@ portant loi organique relative à l'indemnité des membres du Parlement.
 
 	  - Décret n°77-90 1977-01-27
 
-	**Modifié par**:
-
-	  - Loi n°92-108 du 3 février 1992 - art. 15 ()
-
 	**Cité par**:
 
 	  - Loi n°92-108 du 3 février 1992 - art. 22-1 (V)
@@ -3809,9 +3806,18 @@ portant loi organique relative à l'indemnité des membres du Parlement.
 	  - CODE DES COMMUNES. - art. R*123-1 (Ab)
 	  - Loi n°1871-08-10. du 10 août 1871 - art. 14 (Ab)
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - Code de l'administration communale 87 al. 1 et 88
+	  - Loi n°95-126 du 8 février 1995 - art. 7 (V) JORF 9 février 1995
+
+	**Abrogé par**:
+
+	  - Loi n°96-142 du 21 février 1996 - art. 12 (V) JORF 24 février 1996
+
+	**Nouveaux textes**:
+
+	  - Code général des collectivités territoriales - art. L2123-20 (M)
+	  - Code général des collectivités territoriales - art. L2321-2 (M)
 
 
 ###### Article L123-5
