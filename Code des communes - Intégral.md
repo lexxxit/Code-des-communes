@@ -1,5 +1,5 @@
 # Code des communes  
-Version Consolidée au 1986-03-14
+Version Consolidée au 1986-06-01
 
 # Statuts types d'une caisse communale de secours et de retraite de sapeurs-pompiers
 
@@ -78269,38 +78269,6 @@ pour l'ensemble de l'immeuble acquis.
 	**Créé par**:
 
 	  - Décret n°77-241 1977-03-07 JORF et JONC 18 Mars 1977
-
-
-##### Aliénation de biens .
-
-###### Article R*311-17
-
-Les périmètres, prévus à l'article L. 311-11, à l'intérieur desquels est réglementée la cession de certains immeubles, sont
-institués dans les conditions fixées par les articles R. 222-1 à R. 222-5 du code de l'urbanisme.
-
-**Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - SPEC_APPLI: *Dispositions non applicables aux communes du département de Saint-Pierre-et-Miquelon*
-	  - SPEC_APPLI: Code des communes R392-2 :
-
-	**Codifié par**:
-
-	  - Décret n°77-241 1977-03-07
-
-	**Créé par**:
-
-	  - Décret n°77-241 1977-03-07 JORF et JONC 18 mars 1977
-
-	**Abrogé par**:
-
-	  - Décret n°86-516 du 14 mars 1986 - art. 6 () JORF 16 mars 1986 en vigueur   le 1er juin 1986
-
-	**Cite**:
-
-	  - CODE DES COMMUNES. - art. L311-1 (M)
-	  - Code de l'urbanisme R222-1 à R222-5
 
 
 ### Services communaux
