@@ -1,5 +1,5 @@
 # Code des communes  
-Version Consolidée au 1989-09-19
+Version Consolidée au 1989-10-10
 
 # Statuts types d'une caisse communale de secours et de retraite de sapeurs-pompiers
 
@@ -55045,6 +55045,34 @@ Les fonctions de comptable de la commune sont exercées par un comptable direct 
 	  - Décret n°2000-318 du 7 avril 2000 - art. 4 (V)
 
 
+###### Article R241-17
+
+Le maire remet au comptable de la commune, dûment récapitulée sur un bordereau d'émission, une expédition en forme de tous
+les baux, contrats, jugements, testaments, déclarations, états de recouvrement, titres nouvels et autres, concernant les
+recettes dont la perception lui est confiée[*documents*].
+
+Le comptable peut demander, au besoin, que les originaux des actes formant titre au profit de la commune lui soient remis
+contre récépissé.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°77-91 1977-01-27
+
+	**Abrogé par**:
+
+	  - Décret n°2000-318 du 7 avril 2000 - art. 4 (V)
+
+	**Nouveaux textes**:
+
+	  - Code général des collectivités territoriales - art. D2343-1 (V)
+
+	**Anciens textes**:
+
+	  - Décret  1862-05-31 art. 512 modifié
+
+
 ###### Article R241-18
 
 Le compte de gestion   des receveurs des communes et des établissements publics communaux comprend toutes les opérations
@@ -55520,43 +55548,6 @@ Le personnel des bureaux des comptables des communes est prélevé dans le perso
 	**Abrogé par**:
 
 	  - Décret n°2000-318 du 7 avril 2000 - art. 4 (V)
-
-
-#### CHAPITRE 1 : Comptabilité du maire et du comptable
-
-##### SECTION 3 : Comptabilité du comptable.
-
-###### Article R241-17
-
-Le maire remet au comptable de la commune, dûment récapitulée sur un bordereau d'émission, une expédition en forme de tous
-les baux, contrats, jugements, testaments, déclarations, états de recouvrement, titres nouvels et autres, concernant les
-recettes dont la perception lui est confiée [*documents*]. 
-
-Le comptable peut demander, au besoin, que les originaux des actes formant titre au profit de la commune lui soient remis
-contre récépissé. 
-
-Pour lui permettre d'exercer le contrôle qui lui incombe,
-
-le receveur particulier des finances reçoit directement du maire une copie de chaque bordereau d'émission de titres de
-recettes.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°1862-05-31 art. 512 modifié
-
-	**Codifié par**:
-
-	  - Décret n°77-91 1977-01-27
-
-	**Créé par**:
-
-	  - Décret n°77-91 1977-01-27 JORF et JONC 3 février 1977 date d'entrée en vigueur élection des maires
-
-	**Nouveaux textes**:
-
-	  - Code général des collectivités territoriales - art. D2343-1 (V)
 
 
 #### CHAPITRE 2 : Arrêt, jugement des comptes et gestion de fait.
