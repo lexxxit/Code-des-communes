@@ -1,5 +1,5 @@
 # Code des communes  
-Version Consolidée au 1988-02-16
+Version Consolidée au 1988-04-02
 
 # Statuts types d'une caisse communale de secours et de retraite de sapeurs-pompiers
 
@@ -84564,6 +84564,26 @@ départementale et communale.
 	  - Décret n°87-594 du 22 juillet 1987 - art. 1 () JORF 31 juillet 1987
 
 
+###### Article R411-44
+
+La médaille d'honneur régionale, départementale et communale ne peut être attribuée aux membres des assemblées
+parlementaires.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°77-241 1977-03-07
+
+	**Modifié par**:
+
+	  - Décret n°88-309 1988-03-28 art. 1 JORF 2 avril 1988
+
+	**Cité par**:
+
+	  - CODE DES COMMUNES. - art. R411-46 (M)
+
+
 ###### Article R411-45
 
 La médaille d'honneur régionale, départementale et communale comporte trois échelons :
@@ -93332,28 +93352,6 @@ activités exercées le justifie.
 #### Dispositions générales et organiques
 
 ##### La médaille d'honneur départementale et communal .
-
-###### Article R411-44
-
-" La médaille d'honneur régionale, départementale et communale ne peut être attribuée aux membres des assemblées
-parlementaires.
-
-" Elle ne peut également être attribuée aux membres de la Légion d'honneur ou de l'ordre national du Mérite.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°77-241 1977-03-07
-
-	**Modifié par**:
-
-	  - Décret n°87-594 du 22 juillet 1987 - art. 1 () JORF 31 juillet 1987
-
-	**Cité par**:
-
-	  - CODE DES COMMUNES. - art. R411-46 (M)
-
 
 ###### Article R411-46
 
