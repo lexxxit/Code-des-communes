@@ -1,5 +1,5 @@
 # Code des communes  
-Version Consolidée au 1980-06-22
+Version Consolidée au 1980-07-09
 
 # ORGANISATION COMMUNALE
 
@@ -46805,15 +46805,10 @@ représentants des personnels.
 
 ###### Article L413-15
 
-Un règlement d'administration publique détermine les règles suivant lesquelles sont fixées les modalités d'organisation et de
+Un décret en Conseil d'Etat détermine les règles suivant lesquelles sont fixées les modalités d'organisation et de
 fonctionnement du fonds ainsi que les autres conditions d'application des articles L. 413-11 à L. 413-14.
 
 **Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - SPEC_APPLI: *Dispositions non applicables aux communes du département de Saint-Pierre-et-Miquelon
-	  - SPEC_APPLI: Code des communes L442-2 :
 
 	**Codifié par**:
 
@@ -47136,24 +47131,15 @@ Les paiements au titre des pensions, secours ou indemnités attribués à des ag
 ###### Article L417-14
 
 Les agents soumis au présent titre sont obligatoirement affiliés à la caisse nationale de retraites des agents des
-collectivités locales.
+collectivités locales. 
 
-Un règlement d'administration publique détermine l'organisation et le fonctionnement de cette caisse.
+Un décret en Conseil d'Etat détermine l'organisation et le fonctionnement de cette caisse.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
 	  - Code de l'administration communale 599
-
-	**Liens**:
-
-	  - TXT_ASSOCIE: Ordonnance 45-993 1945-05-17
-	  - TXT_ASSOCIE: Loi n°63-156 1963-03-23 ART. 51
-
-	**Créé par**:
-
-	  - Décret n°77-373 1977-03-28 JORF ET JONC 5 AVRIL 1977
 
 	**Codifié par**:
 
@@ -103048,16 +103034,14 @@ Et qu'ils sont désignés pour prendre part à un stage de formation supérieure
 
 ###### Article R415-1
 
-Le règlement d'administration publique prévu à l'article L. 415-8 est pris sur le rapport du ministre de l'intérieur.
+Le décret en Conseil d'Etat prévu à l'article L. 415-8 est pris sur le rapport du ministre de l'intérieur.
 
 **Liens relatifs à cet article**
 
 	**Liens**:
 
-	  - SPEC_APPLI: *Dispositions applicables aux agents nommés dans des emplois permanents à temps non complet*
 	  - TXT_ASSOCIE: Arrêté 1981-02-26
 	  - TXT_ASSOCIE: Décret n°62-1225 1962-10-18
-	  - SPEC_APPLI: Code des communes R421-7 :
 
 	**Anciens textes**:
 
@@ -103066,10 +103050,6 @@ Le règlement d'administration publique prévu à l'article L. 415-8 est pris su
 	**Codifié par**:
 
 	  - Décret n°77-373 1977-03-28
-
-	**Créé par**:
-
-	  - Décret n°77-373 1977-03-28 JORF et JONC 5 avril 1977
 
 	**Cite**:
 
