@@ -1,5 +1,5 @@
 # Code des communes  
-Version Consolidée au 1988-01-06
+Version Consolidée au 1988-01-08
 
 # Statuts types d'une caisse communale de secours et de retraite de sapeurs-pompiers
 
@@ -24387,8 +24387,6 @@ décembre 1979 relative à la publicité, aux enseignes et préenseignes.
 
 	  - Code général des collectivités territoriales - art. L2333-21 (V)
 
-
-#### Dotation globale de fonctionnement et autres recettes réparties par le comité des finances locales
 
 ### Dispositions particulières
 
