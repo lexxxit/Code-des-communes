@@ -1,5 +1,5 @@
 # Code des communes  
-Version Consolidée au 1993-12-31
+Version Consolidée au 1994-01-01
 
 # Partie législative
 
@@ -31463,47 +31463,43 @@ L'habilitation est valable sur l'ensemble du territoire national.
 Nul ne peut exercer les fonctions de dirigeant ou de gérant de droit ou de fait d'une régie, d'une entreprise, d'une
 association ou d'un établissement bénéficiant de ou sollicitant l'habilitation prévue à l'article L. 362-2-1 :
 
-" 1° S'il a fait l'objet d'une condamnation définitive à une peine d'emprisonnement avec ou sans sursis, figurant au bulletin
+1° S'il a fait l'objet d'une condamnation définitive à une peine d'emprisonnement avec ou sans sursis, figurant au bulletin
 n° 2 du casier judiciaire, pour un crime ou l'un des délits suivants :
 
-" - exercice illégal d'une activité professionnelle ou sociale dont l'accès est réglementé ;
+- exercice illégal d'une activité professionnelle ou sociale dont l'accès est réglementé ;
 
-" - corruption active ou passive ou trafic d'influence ;
+- corruption active ou passive ou trafic d'influence ;
 
-" - acte d'intimidation contre une personne exerçant une fonction publique ;
+- acte d'intimidation contre une personne exerçant une fonction publique ;
 
-" - escroquerie ;
+- escroquerie ;
 
-" - abus de confiance ;
+- abus de confiance ;
 
-" - violation de sépulture ou atteinte au respect dû aux morts ;
+- violation de sépulture ou atteinte au respect dû aux morts ;
 
-" - vol ;
+- vol ;
 
-" - attentat aux moeurs ou agression sexuelle ;
+- attentat aux moeurs ou agression sexuelle ;
 
-" - recel ;
+- recel ;
 
-" - coups et blessures volontaires ;
+- coups et blessures volontaires ;
 
-" 2° S'il a fait l'objet d'une condamnation prononcée par une juridiction étrangère et passée en force de chose jugée
+2° S'il a fait l'objet d'une condamnation prononcée par une juridiction étrangère et passée en force de chose jugée
 constituant d'après la loi française une condamnation pour un crime ou l'un des délits mentionnés au 1° du présent article ;
 le tribunal correctionnel du lieu de résidence du condamné, ou, s'il n'a pas sa résidence en France, du lieu où il a demandé
 l'habilitation, saisi par requête, apprécie la régularité et la légalité de cette décision et statue en chambre du conseil,
 l'intéressé dûment appelé, sur l'application en France de l'interdiction ;
 
-" 3° S'il a été frappé de faillite personnelle ou d'une autre sanction en application du titre VI ou du titre VII de la loi
-n° 85-98 du 25 janvier 1985 relative au redressement et à la liquidation judiciaires des entreprises ou, dans le régime
+3° S'il a été frappé de faillite personnelle ou d'une autre sanction en application du titre VI ou du titre VII de la loi n°
+85-98 du 25 janvier 1985 relative au redressement et à la liquidation judiciaires des entreprises ou, dans le régime
 antérieur à cette loi, en application du titre II de la loi n° 67-563 du 13 juillet 1967 sur le règlement judiciaire, la
 liquidation des biens, la faillite personnelle ou les banqueroutes, ou s'il a été déclaré en état de faillite par une
 juridiction étrangère quand le jugement déclaratif a été déclaré exécutoire en France, et s'il n'a pas été réhabilité ;
 
-" 4° S'il n'est pas de nationalité française ou ressortissant d'un Etat membre des communautés européennes.
-
-**Nota:**
-
-Loi 93-1420 1993-12-31 art. 10 Les modifications introduites par la loi 93-1420 du 31 décembre 1993 entrent en vigueur à la
-date d'entrée en vigueur de l'accord sur l'espace économique européen.
+4° S'il n'est pas de nationalité française ou ressortissant d'un Etat membre des communautés européennes ou d'un autre Etats
+partie à l'accord sur l'espace économique européen.
 
 **Liens relatifs à cet article**
 
@@ -31511,18 +31507,22 @@ date d'entrée en vigueur de l'accord sur l'espace économique européen.
 
 	  - Loi n°67-563 1967-07-13
 	  - Loi n°85-98 1985-01-25
-	  - CODE DES COMMUNES. - art. L362-2-1 (Ab)
 
 	**Codifié par**:
 
 	  - Décret n°77-240 1977-03-07
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°93-23 du 8 janvier 1993 - art. 5 ()
+	  - Loi n°93-1420 du 31 décembre 1993 - art. 1 () JORF 1er janvier 1994
+
+	**Abrogé par**:
+
+	  - Loi n°96-142 du 21 février 1996 - art. 12 (V) JORF 24 février 1996
 
 	**Cité par**:
 
+	  - CODE DES COMMUNES. - art. L362-2-1 (Ab)
 	  - CODE DES COMMUNES. - art. L362-2-3 (Ab)
 
 	**Nouveaux textes**:
