@@ -1,5 +1,5 @@
 # Code des communes  
-Version Consolidée au 1982-04-02
+Version Consolidée au 1982-05-08
 
 # ORGANISATION COMMUNALE
 
@@ -34937,42 +34937,6 @@ matériel de transmission.
 
 #### Dispositions générales et organiques
 
-###### Article L411-14
-
-Aucune distinction n'est faite, pour l'application du présent titre entre les hommes et les femmes.
-
-Cependant, lorsque la nature des fonctions ou les conditions de leur exercice le justifient, il peut être prévu, pour
-certaines catégories de personnels dont la liste est établie par décret en Conseil d'Etat, après avis de la commission
-nationale paritaire du personnel communal [*conditions de forme*], un recrutement exclusif d'hommes ou de femmes, ou à titre
-exceptionnel, selon les modalités prévues dans le même décret, des recrutements et conditions d'accès distincts pour les
-hommes et les femmes.
-
-**Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - SPEC_APPLI: *Dispositions applicables aux agents nommés dans des emplois permanents à temps non complet et aux agents non titulaires*
-	  - SPEC_APPLI: CODE DES COMMUNES. - art. L421-2 (M)
-	  - SPEC_APPLI: Code des communes L421-2, L422-1 :
-
-	**Cité par**:
-
-	  - CODE PENAL - art. 416 (Ab)
-
-	**Anciens textes**:
-
-	  - Code de l'administration communale 481
-	  - Loi n°75-599 1975-07-10 art. 3 (partie)
-
-	**Codifié par**:
-
-	  - Décret n°77-372 1977-03-28
-
-	**Créé par**:
-
-	  - Décret n°77-372 1977-03-28 JORF ET JONC 5 AVRIL 1977
-
-
 ##### Dispositions générales .
 
 ###### Article L411-1
@@ -35447,6 +35411,43 @@ de fonctions sont applicables aux agents communaux soumis au présent titre.
 	**Cite**:
 
 	  - Décret n°1936-10-29 modifié
+
+
+###### Article L411-14
+
+Aucune distinction n'est faite, pour l'application du présent titre entre les hommes et les femmes.
+
+Cependant, pour certaines catégories de personnels dont la liste est établie par décret en Conseil d'Etat, après avis de la
+commission nationale paritaire du personnel communal, des recrutements distincts pour les hommes ou les femmes pourront être
+organisés si l'appartenance à l'un ou l'autre sexe constitue une condition déterminante pour l'exercice des fonctions
+considérées. Les modalités de ces recrutements seront fixées après avis des commissions paritaires communales ou
+intercommunales, selon le cas.
+
+Suivant la même procédure, lorsque des épreuves physiques sont prévues pour l'accès à un emploi des communes ou de leurs
+établissements publics, des épreuves ou des cotations distinctes en fonction du sexe des candidats pourront être prévues.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°75-599 1975-07-10 ART. 3 (partie)
+	  - Code de l'administration communale 481
+
+	**Codifié par**:
+
+	  - Décret n°77-372 1977-03-28
+
+	**Modifié par**:
+
+	  - Loi n°82-380 du 7 mai 1982 - art. 4 () JORF 8 MAI 1982
+
+	**Abrogé par**:
+
+	  - Loi n°84-53 1984-01-26 ART. 119 JORF 27 JANVIER 1984
+
+	**Cité par**:
+
+	  - CODE PENAL - art. 416 (Ab)
 
 
 ###### Article L411-15
