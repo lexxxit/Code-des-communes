@@ -1,5 +1,5 @@
 # Code des communes  
-Version Consolidée au 1978-07-01
+Version Consolidée au 1978-07-18
 
 # ORGANISATION COMMUNALE
 
@@ -9795,6 +9795,102 @@ dresser procès-verbal.
 	**Nouveaux textes**:
 
 	  - Code général des collectivités territoriales - art. L2122-21 (M)
+
+
+###### Article L122-20
+
+Le maire peut, en outre, par délégation du conseil municipal, être chargé, en tout ou en partie, et pour la durée de son
+mandat :
+
+1° D'arrêter et modifier l'affectation des propriétés communales utilisées par les services publics municipaux ; 
+
+2° De fixer, dans les limites déterminées par le conseil municipal, les tarifs des droits de voirie, de stationnement,
+
+de dépôt temporaire sur les voies et autres lieux publics, et,
+
+d'une manière générale, des droits prévus au profit de la commune qui n'ont pas un caractère fiscal ; 
+
+3° De procéder, dans les limites fixées par le conseil municipal, à la réalisation des emprunts destinés au financement des
+investissements prévus par le budget lorsqu'il s'agit d'emprunts contractés auprès des organismes mentionnés au 1° de
+l'article L. 121-38, et de passer à cet effet les actes nécessaires ; 
+
+4° De prendre toute décision concernant la préparation,
+
+la passation, l'exécution et le règlement des marchés de travaux,
+
+de fournitures et de services qui peuvent être réglementairement passés de gré à gré en raison de leur montant, lorsque les
+crédits sont prévus au budget ; 
+
+5° De décider de la conclusion et de la révision du louage de choses pour une durée n'excédant pas douze ans ; 
+
+6° De passer les contrats d'assurance ; 
+
+7° De créer les régies comptables nécessaires au fonctionnement des services municipaux ; 
+
+8° De prononcer la délivrance et la reprise des concessions dans les cimetières ; 
+
+9° D'accepter les dons et legs qui ne sont grevés ni de conditions ni de charges ; 
+
+10° De décider l'aliénation de gré à gré de biens mobiliers jusqu'à 30.000 F ; 
+
+11° De fixer les rémunérations et de régler les frais et honoraires des avocats, notaires, avoués, huissiers de justice et
+experts ; 
+
+12° De fixer, dans les limites de l'estimation des services fiscaux (domaines), le montant des offres de la commune à
+notifier aux expropriés et de répondre à leurs demandes ; 
+
+13° De décider de la création de classes dans les établissements d'enseignement ; 
+
+14° De fixer les reprises d'alignement en application d'un document d'urbanisme. 
+
+//LOI 753 :
+
+15° D'exercer au nom de la commune le droit de préemption à l'intérieur des zones d'aménagement différé ou des zones
+d'intervention foncière ou le droit de substitution dans les zones de préemption des périmètres sensibles.//
+
+//Complété par la loi n° 78-753 du 17 juillet 1978 :
+
+15° D'exercer au nom de la commune le droit de préemption à l'intérieur des zones d'aménagement différé ou des zones
+d'intervention foncière ou le droit de substitution dans les zones de préemption des périmètres sensibles .//
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Code de l'administration communale 75 bis
+
+	**Codifié par**:
+
+	  - Décret n°77-90 1977-01-27
+
+	**Créé par**:
+
+	  - Décret n°77-90 1977-01-27 JORF et JONC 3 février 1977 date d'entrée en vigueur élection des maires
+
+	**Cite**:
+
+	  - Loi n°78-753 1978-07-17
+	  - CODE DES COMMUNES. - art. L121-38 (Ab)
+
+	**Modifié par**:
+
+	  - Loi n°78-753 du 17 juillet 1978 - art. 63
+
+	**Cité par**:
+
+	  - Loi n°82-213 du 2 mars 1982 - art. 2 (Ab)
+	  - Loi n°82-1169 du 31 décembre 1982 - art. 17 bis (Ab)
+	  - Loi n°85-729 du 18 juillet 1985 - art. 9 (V)
+	  - Loi n°99-210 du 19 mars 1999 - art. 5 (V)
+	  - Loi n°99-210 du 19 mars 1999 - art. 6 (V)
+	  - CODE DES COMMUNES. - art. L122-21 (M)
+	  - CODE DES COMMUNES. - art. L181-1 (M)
+	  - CODE DES COMMUNES. - art. L331-1 (Ab)
+	  - CODE DES COMMUNES. - art. R122-7 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code général des collectivités territoriales - art. L2122-22 (V)
 
 
 ###### Article L122-21
@@ -44154,30 +44250,26 @@ fédéraux, confédéraux et internationaux, ainsi que des organismes directeurs
 	  - Code de l'administration communale 541
 
 
-##### CONGE POSTNATAL .
+##### Le congé postnatal .
 
 ###### Article L415-30
 
-Le congé postnatal est la position de l'agent féminin qui, après un congé pour couches et allaitement ou l'adoption d'un
-enfant de moins de trois ans, est placé hors de son administration ou service d'origine pour élever son enfant.
+Le congé postnatal est une position de l'agent qui est placé hors de son administration ou service d'origine pour élever son
+enfant.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Code de l'administration communale 577-1 AL. 1
 
 	**Codifié par**:
 
 	  - Décret n°77-372 1977-03-28
 
-	**Créé par**:
-
-	  - Décret n°77-372 1977-03-28 JORF et JONC 5 avril 1977
-
 	**Modifié par**:
 
 	  - Loi n°78-753 1978-07-17 art. 21 V JORF 18 juillet 1978
+
+	**Abrogé par**:
+
+	  - Loi n°84-53 1984-01-26 ART. 119 JORF 27 JANVIER 1984
 
 	**Cité par**:
 
@@ -44188,68 +44280,86 @@ enfant de moins de trois ans, est placé hors de son administration ou service d
 
 ###### Article L415-31
 
-Dans la position de congé postnatal, accordée de droit sur simple demande et pour une durée maximale de deux ans,
-l'intéressée cesse de bénéficier de ses droits à la retraite ; elle conserve ses droits à l'avancement d'échelon, réduits de
-moitié.
+Dans cette position, accordée après un congé de maternité ou l'adoption d'un enfant de moins de trois ans, et pour une durée
+maximale de deux ans, l'intéressé cesse de bénéficier de ses droits à la retraite ; il conserve ses droits à l'avancement
+d'échelon, réduits de moitié.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Code de l'administration communale 577-1 AL. 2 PHR. 1
 
 	**Codifié par**:
 
 	  - Décret n°77-372 1977-03-28
 
-	**Créé par**:
-
-	  - Décret n°77-372 1977-03-28 JORF et JONC 5 avril 1977
-
 	**Modifié par**:
 
 	  - Loi n°78-753 1978-07-17 art. 21 V JORF 18 juillet 1978
+
+	**Abrogé par**:
+
+	  - Loi n°84-53 1984-01-26 ART. 119 JORF 27 JANVIER 1984
 
 
 ###### Article L415-32
 
-A l'expiration du congé postnatal, l'intéressée est réintégrée de plein droit, au besoin en surnombre, dans son
-administration d'origine.
+A l'expiration de son congé, l'intéressé est réintégré de plein droit, au besoin en surnombre, dans son administration
+d'origine.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Code de l'administration communale 577-1 AL. 2 PHR. 2
 
 	**Codifié par**:
 
 	  - Décret n°77-372 1977-03-28
 
-	**Créé par**:
-
-	  - Décret n°77-372 1977-03-28 JORF et JONC 5 avril 1977
-
 	**Modifié par**:
 
 	  - Loi n°78-753 1978-07-17 art. 21 V JORF 18 juillet 1978
+
+	**Abrogé par**:
+
+	  - Loi n°84-53 1984-01-26 art. 119 JORF 27 janvier 1984
 
 	**Cité par**:
 
 	  - CODE DES COMMUNES. - art. R415-6-G (M)
 
 
-##### Le congé postnatal .
+###### Article L415-32-1
 
-###### Article L415-33
-
-Les modalités d'application de la présente section sont déterminées par décret.
+Le congé postnatal est accordé de droit, sur simple demande [*formalités*], pour la mère agent féminin ; il peut être ouvert
+au père agent si la mère ne peut bénéficier ni du congé postnatal ni du congé parental prévu par l'article L. 122-28-1 du
+Code du travail ou si elle y renonce. Si une nouvelle maternité ou adoption survient au cours du congé postnatal, ce congé
+est prolongé d'une durée maximale de deux ans, à compter de la naissance du nouvel enfant ou de son adoption, dans les
+conditions prévues ci-dessus.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Codifié par**:
 
-	  - Code de l'administration communale 577-1 AL. 3
+	  - Décret n°77-90 1977-01-27
+
+	**Créé par**:
+
+	  - Loi n°78-753 1978-07-17 art. 21 V JORF 18 juillet 1978 p. 2851
+
+	**Abrogé par**:
+
+	  - Loi n°84-53 1984-01-26 art. 119 JORF 27 janvier 1984
+
+	**Cité par**:
+
+	  - CODE DES COMMUNES. - art. R*415-6-2 (Ab)
+
+	**Cite**:
+
+	  - Code des communes L415-31 (2ème version) et L415-32 (2ème version)
+	  - Code du travail - art. L122-28-1 (M)
+
+
+###### Article L415-33
+
+Un décret en Conseil d'Etat détermine les modalités d'application de la présente section.
+
+**Liens relatifs à cet article**
 
 	**Codifié par**:
 
@@ -44257,11 +44367,11 @@ Les modalités d'application de la présente section sont déterminées par déc
 
 	**Créé par**:
 
-	  - Décret n°77-372 1977-03-28 JORF et JONC 5 avril 1977
-
-	**Modifié par**:
-
 	  - Loi n°78-753 1978-07-17 art. 21 V JORF 18 juillet 1978
+
+	**Abrogé par**:
+
+	  - Loi n°84-53 1984-01-26 art. 119 JORF 27 janvier 1984
 
 	**Cité par**:
 
