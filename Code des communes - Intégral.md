@@ -1,5 +1,5 @@
 # Code des communes  
-Version Consolidée au 1982-06-12
+Version Consolidée au 1982-07-01
 
 # ORGANISATION COMMUNALE
 
@@ -99478,6 +99478,65 @@ emploi.
 	  - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
 
 
+###### Article R*414-5-1
+
+Lorsque les agents communaux titulaires d'emplois situés au niveau de la catégorie B dont la liste est fixée par arrêté du
+ministre de l'intérieur et de la décentralisation sont nommés, selon les règles statutaires normales, dans un emploi situé au
+niveau de la catégorie A dont la liste est fixée par arrêté du ministre de l'intérieur et de la décentralisation, ils sont
+classés dans l'emploi ou le grade de début de leur nouvel emploi sur la base de la durée maximum de service exigée pour
+chaque avancement d'échelon en prenant en compte une fraction de leur ancienneté dans leur emploi d'origine.
+
+L'ancienneté dans l'emploi d'origine correspond à la durée de carrière nécessaire pour accéder, sur la base de la durée
+maximum de service exigée pour chaque avancement d'échelon, au grade et à l'échelon que les agents concernés ont atteint à la
+date de leur nomination dans un emploi de niveau A, augmentée, le cas échéant, de l'ancienneté acquise dans le dernier
+échelon occupé dans l'emploi d'origine.
+
+Cette ancienneté est augmentée, lorsqu'il y a lieu, de la durée de carrière qu'il est nécessaire d'acquérir au minimum dans
+le ou les grades inférieurs dans l'emploi de niveau B pour accéder au grade d'origine en tenant compte pour les avancements
+d'échelon de la durée statutaire maximum.
+
+L'ancienneté ainsi déterminée n'est pas retenue en ce qui concerne les cinq premières années ; elle est prise en compte à
+raison de la moitié pour la fraction comprise entre cinq et douze ans et des trois quarts pour l'ancienneté excédant douze
+ans.
+
+L'application des dispositions qui précèdent ne peut pas avoir pour effet de placer un agent dans une situation plus
+favorable que celle qui aurait été la sienne si, préalablement à sa nomination dans un emploi de niveau A, il avait été promu
+au grade supérieur de son emploi.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°82-552 1982-06-28 ART. 1 JORF 1ER JUILLET 1982
+
+
+###### Article R*414-5-2
+
+Lorsque les agents communaux titulaires d'emplois situés au niveau des catégories C et D sont nommés selon les règles
+statutaires normales dans un emploi situé au niveau de la catégorie A dont la liste est fixée par arrêté du ministre de
+l'intérieur et de la décentralisation, ils sont classés à un échelon déterminé par application, à la date de leur nomination,
+des dispositions énoncées à l'article R. 414-5-1 ci-dessus pour la fraction de l'ancienneté qui aurait été prise en compte
+pour leur classement dans un emploi situé au niveau de la catégorie B en application de l'article R. 414-5 ci-dessus.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°82-552 1982-06-28 ART. 1 JORF 1ER JUILLET 1982
+
+	**Cite**:
+
+	  - Code des communes R414-5-1
+
+
 ###### Article R*414-6
 
 Les autres agents communaux nommés selon les règles statutaires normales dans un emploi situé au niveau de la catégorie B,
@@ -99548,6 +99607,105 @@ conservation de l'ancienneté d'échelon dans les conditions définies à l'arti
 	**Liens**:
 
 	  - TXT_ASSOCIE: Code des communes R414-8
+
+
+###### Article R*414-7-1
+
+Lorsque les agents communaux non titulaires sont nommés selon les règles statutaires normales dans un emploi situé au niveau
+de la catégorie A dont la liste est fixée par le ministre de l'intérieur et de la décentralisation, ils sont classés dans le
+grade de début de leur nouvel emploi à un échelon déterminé en prenant en compte, sur la base des durées maxima d'avancement
+d'échelon de cet emploi, une fraction de l'ancienneté acquise à la date de leur nomination, dans les conditions suivantes :
+
+Les services accomplis dans un emploi du niveau de la catégorie A sont retenus à raison de la moitié de leur durée jusqu'à
+douze ans et des trois quarts au-delà de douze ans ;
+
+Les services accomplis dans un emploi du niveau de la catégorie B ne sont pas retenus en ce qui concerne les sept premières
+années, ils sont pris en compte à raison de six seizièmes pour la fraction comprise entre sept et seize ans et de neuf
+seizièmes pour l'ancienneté excédant seize ans ;
+
+Les services accomplis dans un emploi du niveau des catégories C et D sont retenus à raison de six seizièmes de leur durée
+excédant dix ans ;
+
+Les agents communaux non titulaires qui ont occupé antérieurement des emplois d'un niveau inférieur à celui qu'ils occupent
+au moment de leur nomination peuvent demander que la totalité de leur ancienneté de service soit prise en compte dans les
+conditions fixées ci-dessus pour les emplois de niveau inférieur.
+
+Dans tous les cas, les services pris en compte doivent avoir été accomplis de façon continue. Toutefois, sont retenus les
+services accomplis avant une interruption de fonctions inférieure à trois mois si cette interruption est du fait de l'agent
+ou inférieure à un an dans le cas contraire.
+
+De plus, l'accomplissement des obligations du service national ou l'utilisation d'un congé parental ne sont pas considérés
+comme une interruption de la continuité des services pour l'application du précédent alinéa.
+
+Les dispositions qui précèdent ne peuvent avoir pour conséquence de placer les agents concernés dans une situation plus
+favorable que celle qui résulterait d'un classement à un échelon comportant un traitement égal ou, à défaut, immédiatement
+supérieur à celui perçu dans l'ancien emploi, avec conservation de l'ancienneté d'échelon dans les conditions fixées à
+l'article R414-5-1 ci-dessus.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Créé par**:
+
+	  - Décret n°82-552 1982-06-28 ART. 2 JORF 1ER JUILLET 1982
+
+	**Cite**:
+
+	  - CODE DES COMMUNES R414-5-1
+
+
+###### Article R*414-8
+
+Les dispositions des articles R. 414-5, R. 414-6 et R. 414-7 sont applicables aux agents communaux accédant, en vertu de la
+législation sur les emplois réservés, aux emplois situés au niveau de la catégorie B dont la liste est fixée par arrêté du
+ministre de l'intérieur.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°62-544 1962-05-05 ART. 7 BIS III
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Modifié par**:
+
+	  - Décret n°82-552 1982-06-28 ART. 3 JORF 1ER JUILLET 1982
+
+	**Cite**:
+
+	  - Code des communes R414-7
+
+
+###### Article R*414-9
+
+Lorsque l'application de l'article R. 414-5, R. 414-5-1 et R. 414-5-2 aboutit à classer les agents intéressés à un échelon
+doté d'un indice inférieur à celui qu'ils détenaient dans leur emploi précédent, les intéressés conservent, à titre
+personnel, le bénéfice de leur indice antérieur jusqu'au jour où ils bénéficient dans le nouvel emploi d'un indice au moins
+égal.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°62-544 1962-05-05 ART. 7 TER
+
+	**Codifié par**:
+
+	  - Décret n°77-373 1977-03-28
+
+	**Modifié par**:
+
+	  - Décret n°82-552 1982-06-28 ART. 1 JORF 1ER JUILLET 1982
+
+	**Cite**:
+
+	  - Code des communes R414-5-2
 
 
 ###### Article R*414-10
@@ -107637,58 +107795,6 @@ Ce rapport est publié au Journal Officiel.
 	**Abrogé par**:
 
 	  - Décret n°85-885 du 12 août 1985 - art. 6 (V) JORF 23 Aout 1985   en vigueur le 1er Janvier 1986
-
-
-#### AVANCEMENT .
-
-###### Article R*414-8
-
-Les dispositions des articles R. 414-5 à R. 414-7 sont applicables aux agents communaux accédant, en vertu de la législation
-sur les emplois réservés, aux emplois situés au niveau de la catégorie B dont la liste est fixée par arrêté du ministre de
-l'intérieur.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°62-544 1962-05-05 ART. 7 BIS III
-
-	**Codifié par**:
-
-	  - Décret n°77-373 1977-03-28
-
-	**Créé par**:
-
-	  - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
-
-	**Cite**:
-
-	  - Code des communes R414-5 à R414-7
-
-
-###### Article R*414-9
-
-Lorsque l'application de l'article R. 414-5 aboutit à classer les agents intéressés à un échelon doté d'un indice inférieur à
-celui qu'ils détenaient dans leur emploi précédent, les intéressés conservent, à titre personnel, le bénéfice de leur indice
-antérieur [*durée*] jusqu'au jour où ils bénéficient dans le nouvel emploi d'un indice au moins égal.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°62-544 1962-05-05 ART. 7 TER
-
-	**Codifié par**:
-
-	  - Décret n°77-373 1977-03-28
-
-	**Créé par**:
-
-	  - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
-
-	**Cite**:
-
-	  - Code des communes R414-5
 
 
 #### Notation, avancement et discipline
