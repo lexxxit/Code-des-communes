@@ -1,5 +1,5 @@
 # Code des communes  
-Version Consolidée au 1983-03-13
+Version Consolidée au 1983-04-23
 
 # Statuts types d'une caisse communale de secours et de retraite de sapeurs-pompiers
 
@@ -72255,6 +72255,40 @@ de la décision du maire dans un délai de quinze jours à compter de sa notific
 	  - Décret n°99-1039 du 10 décembre 1999 - art. 72 ()
 
 
+###### Article R352-32
+
+Le conseil de discipline départemental est présidé par le directeur départemental des services d'incendie et de secours ou,
+en son absence, par un inspecteur adjoint ou un officier des sapeurs-pompiers désigné par le préfet. Il comprend :
+
+- trois [*nombre*] maires tirés au sort par le président parmi les maires des communes ayant un corps de sapeurs-pompiers ;
+
+- trois [*nombre*] représentants du personnel tirés au sort également parmi les membres de conseils d'administration du
+département, l'un de grade égal au comparant, les deux autres de grade supérieur.
+
+Les membres du conseil d'administration qui ont eu à connaître de l'affaire en premier ressort ne peuvent faire partie du
+conseil de discipline départemental.
+
+Le secrétariat est assuré par un fonctionnaire de la préfecture du département.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°53-170 1953-03-07 ART. 74
+
+	**Codifié par**:
+
+	  - Décret n°77-241 1977-03-07
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°89-677-1989-09-18 art. 36
+
+	**Abrogé par**:
+
+	  - Décret n°99-1039 du 10 décembre 1999 - art. 72 ()
+
+
 ###### Article R352-33
 
 Le conseil de discipline départemental statue à la majorité des membres présents ; le vote a lieu à bulletins secrets
@@ -72548,6 +72582,31 @@ qu'après avis du conseil départemental d'enquête[*procédure*].
 	**Créé par**:
 
 	  - Décret n°77-241 1977-03-07 JORF et JONC 18 Mars 1977
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°89-677-1989-09-18 art. 36
+
+	**Abrogé par**:
+
+	  - Décret n°99-1039 du 10 décembre 1999 - art. 72 ()
+
+
+###### Article R352-42
+
+Le préfet peut également, sur proposition du directeur départemental des services d'incendie et de secours, déférer un
+officier devant le conseil départemental d'enquête lorsque, après une mise en demeure adressée au maire d'avoir à le
+poursuivre devant le conseil communal d'enquête, un délai de quinze jours s'est écoulé sans réponse.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°53-170 1953-03-07 ART. 29
+
+	**Codifié par**:
+
+	  - Décret n°77-241 1977-03-07
 
 	**Liens**:
 
@@ -72962,6 +73021,33 @@ passage dans un autre corps auquel elle n'a pas été accordée.
 
 
 ##### SECTION 6 : Honorariat.
+
+###### Article R352-58
+
+Les anciens officiers de sapeurs-pompiers, les médecins et pharmaciens du service de santé et de secours médical et les
+directeurs départementaux des services d'incendie et de secours qui ont accompli au moins vingt ans d'activité comme sapeur-
+pompier et qui ont fait constamment preuve de zèle et de dévouement peuvent être nommés, par arrêté préfectoral, officiers
+honoraires avec leur dernier grade ou le grade immédiatement supérieur s'ils ont accompli au moins huit ans de service dans
+leur dernier grade.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°53-170 1953-03-07 ART. 40
+
+	**Codifié par**:
+
+	  - Décret n°77-241 1977-03-07
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°90-850 1990-09-25 art. 25
+
+	**Abrogé par**:
+
+	  - Décret n°99-1039 du 10 décembre 1999 - art. 72 ()
+
 
 ###### Article R352-59
 
@@ -74681,6 +74767,51 @@ stage d'un an [*durée*] au cours duquel ils peuvent être astreints à suivre d
 	**Abrogé par**:
 
 	  - Décret n°90-852 du 25 septembre 1990 - art. 32 (V)
+
+
+###### Article R353-43
+
+Les lieutenants chefs de section principaux sont choisis parmi les lieutenants et lieutenants chefs de section inscrits sur
+une liste d'aptitude annuelle dont les modalités sont définies par arrêté ministériel.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°53-170 1953-03-07 ART. 115 AL. 2
+
+	**Codifié par**:
+
+	  - Décret n°77-241 1977-03-07
+
+	**Abrogé par**:
+
+	  - Décret n°90-852 du 25 septembre 1990 - art. 32 (V)
+
+	**Liens**:
+
+	  - TXT_SOURCE: Arrêté du 6 mai 1983
+	  - TXT_SOURCE: Arrêté du 6 mai 1983 - art. 1 (Ab)
+	  - TXT_SOURCE: Arrêté du 6 mai 1983 - art. 10 (Ab)
+	  - TXT_SOURCE: Arrêté du 6 mai 1983 - art. 11 (Ab)
+	  - TXT_SOURCE: Arrêté du 6 mai 1983 - art. 12 (Ab)
+	  - TXT_SOURCE: Arrêté du 6 mai 1983 - art. 13 (Ab)
+	  - TXT_SOURCE: Arrêté du 6 mai 1983 - art. 14 (Ab)
+	  - TXT_SOURCE: Arrêté du 6 mai 1983 - art. 15 (Ab)
+	  - TXT_SOURCE: Arrêté du 6 mai 1983 - art. 2 (Ab)
+	  - TXT_SOURCE: Arrêté du 6 mai 1983 - art. 3 (Ab)
+	  - TXT_SOURCE: Arrêté du 6 mai 1983 - art. 4 (Ab)
+	  - TXT_SOURCE: Arrêté du 6 mai 1983 - art. 5 (Ab)
+	  - TXT_SOURCE: Arrêté du 6 mai 1983 - art. 6 (Ab)
+	  - TXT_SOURCE: Arrêté du 6 mai 1983 - art. 7 (Ab)
+	  - TXT_SOURCE: Arrêté du 6 mai 1983 - art. 8 (Ab)
+	  - TXT_SOURCE: Arrêté du 6 mai 1983 - art. 9 (Ab)
+	  - TXT_SOURCE: Arrêté du 6 mai 1983 - art. ANNEXE I (Ab)
+	  - TXT_SOURCE: Arrêté du 6 mai 1983 - art. ANNEXE II (Ab)
+
+	**Cité par**:
+
+	  - Arrêté du 6 mai 1983 - art. 1 (Ab)
 
 
 ###### Article R353-44
@@ -77610,6 +77741,39 @@ communes de plus de 5.000 habitants [*chiffre*], avec les fonctions d'adjoint au
 	  - Décret n°99-1039 du 10 décembre 1999 - art. 72 ()
 
 
+###### Article R354-11
+
+Dans les corps qui doivent être créés ou réorganisés et qui ne sont pas encore pourvus d'un conseil d'administration,
+l'admission par acceptation de l'engagement est prononcée par décision du maire sur proposition d'une commission ainsi
+composée :
+
+- le chef de corps, président ;
+
+- deux membres du conseil municipal désignés par le maire ;
+
+- le directeur départemental des services d'incendie et de secours ou, en son absence, un inspecteur adjoint le remplacant ;
+
+- trois délégués désignés par le préfet ;
+
+- un médecin.
+
+En cas de partage, la voix du président est prépondérante.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°53-170 1953-03-07 ART. 66
+
+	**Codifié par**:
+
+	  - Décret n°77-241 1977-03-07
+
+	**Abrogé par**:
+
+	  - Décret n°99-1039 du 10 décembre 1999 - art. 72 ()
+
+
 ###### Article R354-12
 
 Dans les corps déjà constitués, l'engagement et le rengagement sont prononcés [*autorité compétente*] par décision du maire
@@ -78690,6 +78854,58 @@ Les mêmes règles s'appliquent aux rentes de réversion attribuées aux veuves 
 	**Cite**:
 
 	  - CODE DES COMMUNES. - art. L354-1 (Ab)
+
+
+###### Article R354-37
+
+Les demandes d'indemnisation présentées par un sapeur-pompier ou ses ayants cause sont soumises à la commission
+départementale de réforme des agents permanents des collectivités locales.
+
+Pour l'examen de ces demandes, la composition de la commission départementale de réforme prévue par la réglementation
+applicable aux agents permanents des collectivités locales est modifiée comme suit (1) :
+
+L'un des représentants de l'administration est obligatoirement l'inspecteur départemental des services d'incendie et de
+secours.
+
+Les représentants du personnel désignés par le préfet sont :
+
+- un officier professionnel chef de corps des sapeurs-pompiers ;
+
+- un sapeur-pompier non professionnel de même grade que celui dont le cas est examiné.
+
+Lorsque, dans un département, il n'existe pas d'officier professionnel chef de corps de sapeurs-pompiers, le représentant au
+sein de la commission départementale de réforme est désigné par le préfet du département où siège la commission, parmi les
+officiers professionnels chefs de corps d'un département appartenant à la même zone de défense.
+
+(1) La commission départementale de réforme prévue par la réglementation applicable aux agents permanents des collectivités
+locales a été instituée par l'article 25 du décret n° 65-773 du 9 septembre 1965 (J.O. 12 septembre 1965). Sa composition a
+été fixée par l'arrêté interministériel du 28 octobre 1958, modifié par l'arrêté du 12 septembre 1963, relatif à la
+constitution, au rôle et aux conditions de fonctionnement de cette commission (J.O. 6 novembre 1958 et 29 septembre 1963).
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Arrêté 1958-10-28
+	  - Arrêté 1963-09-12
+	  - Décret n°65-773 du 9 septembre 1965 - art. 25 (M)
+
+	**Anciens textes**:
+
+	  - Décret n°76-590 1976-07-02 ART. 2
+
+	**Codifié par**:
+
+	  - Décret n°77-241 1977-03-07
+
+	**Abrogé par**:
+
+	  - Décret n°92-620 du 7 juillet 1992 - art. 19 (V)
+
+	**Cité par**:
+
+	  - CODE DES COMMUNES. - art. R*354-62 (Ab)
+	  - CODE DES COMMUNES. - art. R*354-71 (Ab)
 
 
 ###### Article R354-44
@@ -90199,51 +90415,6 @@ locales et des personnels.
 	  - CODE DES COMMUNES. - art. L411-24 (Ab)
 
 
-###### Article R352-10
-
-Les corps de sapeurs-pompiers des communes qui n'ont pas été classées centres de secours sont dissous par arrêté du préfet,
-sur avis conforme du conseil municipal et après consultation de l'inspecteur départemental des services d'incendie et de
-secours [*conditions de forme*].
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°53-170 1953-03-07 ART. 6
-
-	**Codifié par**:
-
-	  - Décret n°77-241 1977-03-07
-
-	**Créé par**:
-
-	  - Décret n°77-241 1977-03-07 JORF et JONC 18 Mars 1977
-
-
-###### Article R352-11
-
-Les corps de sapeurs-pompiers des communes qui ont été classées centres de secours sont dissous par arrêté du ministre de
-l'intérieur sur proposition du préfet, après avis du conseil municipal et de l'inspecteur départemental des services
-d'incendie et de secours [*conditions de forme*].
-
-Les corps communaux de première intervention sont dissous dans les mêmes conditions en cas d'avis défavorable du conseil
-municipal.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°53-170 1953-03-07 ART. 7
-
-	**Codifié par**:
-
-	  - Décret n°77-241 1977-03-07
-
-	**Créé par**:
-
-	  - Décret n°77-241 1977-03-07 JORF et JONC 18 Mars 1977
-
-
 ##### Conseil d'administration des corps de sapeurs-pompiers .
 
 ###### Article R352-13
@@ -90281,157 +90452,6 @@ professionnels*] prévues au chapitre III du présent titre.
 	  - Code des communes R353-1 à R353-120
 
 
-##### Règlement de service - Commandement .
-
-###### Article R352-20
-
-Tout sapeur-pompier doit obéissance à ses supérieurs.
-
-Les chefs de corps doivent obtempérer aux ordres du maire et aux réquisitions du sous-préfet et du préfet dans les cas prévus
-à l'article R. 352-1 [*secours et protection contre les incendies, périls ou accidents menaçant la sécurité publique, et,
-exceptionnellement pour fournir des escortes dans les cérémonies officielles*].
-
-Ils doivent, d'autre part, se conformer aux instructions techniques de l'inspecteur départemental des services d'incendie et
-de secours.
-
-Les chefs de corps de première intervention doivent, en outre, obéir aux ordres du chef du centre de secours auquel leur
-commune est rattachée.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°53-170 1953-03-07 ART. 30
-
-	**Codifié par**:
-
-	  - Décret n°77-241 1977-03-07
-
-	**Créé par**:
-
-	  - Décret n°77-241 1977-03-07 JORF et JONC 18 Mars 1977
-
-	**Cité par**:
-
-	  - Décret n°88-623 du 6 mai 1988 - art. 50 (Ab)
-	  - Décret n°90-850 du 25 septembre 1990 - art. 25 (V)
-
-	**Cite**:
-
-	  - CODE DES COMMUNES. - art. R352-1 (Ab)
-
-
-###### Article R352-22
-
-Le service est réglé dans chaque commune par un arrêté municipal [*compétence*] pris après avis du conseil d'administration
-et soumis à l'approbation du préfet, après avis de l'inspecteur départemental des services d'incendie et de secours
-[*conditions de forme*].
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°53-170 1953-03-07 ART. 31 REMPLACE
-
-	**Codifié par**:
-
-	  - Décret n°77-241 1977-03-07
-
-	**Créé par**:
-
-	  - Décret n°77-241 1977-03-07 JORF et JONC 18 Mars 1977
-
-	**Cité par**:
-
-	  - Décret n°88-623 du 6 mai 1988 - art. 50 (Ab)
-	  - CODE DES COMMUNES. - art. R354-6 (Ab)
-
-
-###### Article R352-25
-
-La direction des secours appartient à l'inspecteur départemental des services d'incendie et de secours dès qu'il arrive sur
-les lieux du sinistre ou à l'officier de sapeurs-pompiers désigné par le préfet [*compétence*].
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°53-170 1953-03-07 ART. 34
-
-	**Codifié par**:
-
-	  - Décret n°77-241 1977-03-07
-
-	**Créé par**:
-
-	  - Décret n°77-241 1977-03-07 JORF et JONC 18 Mars 1977
-
-
-##### Discipline des sapeurs-pompiers communaux .
-
-###### Article R352-32
-
-Le conseil de discipline départemental est présidé par l'inspecteur départemental des services d'incendie et de secours ou,
-en son absence, par un inspecteur adjoint ou un officier des sapeurs-pompiers désigné par le préfet. Il comprend :
-
-- trois [*nombre*] maires tirés au sort par le président parmi les maires des communes ayant un corps de sapeurs-pompiers ;
-
-- trois [*nombre*] représentants du personnel tirés au sort également parmi les membres de conseils d'administration du
-département, l'un de grade égal au comparant, les deux autres de grade supérieur.
-
-Les membres du conseil d'administration qui ont eu à connaître de l'affaire en premier ressort ne peuvent faire partie du
-conseil de discipline départemental.
-
-Les frais de déplacement des membres du conseil de discipline départemental sont supportés par les communes dont relèvent les
-membres de ce conseil.
-
-Le secrétariat est assuré par un fonctionnaire de la préfecture du département.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°77-241 1977-03-07
-
-
-###### Article R352-42
-
-Le préfet [*pouvoirs*] peut également, sur proposition de l'inspecteur départemental des services d'incendie et de secours,
-déférer un officier devant le conseil départemental d'enquête lorsque, après une mise en demeure adressée au maire d'avoir à
-le poursuivre devant le conseil communal d'enquête, un délai de quinze jours s'est écoulé sans réponse [*procédure*].
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°53-170 1953-03-07 ART. 29
-
-	**Codifié par**:
-
-	  - Décret n°77-241 1977-03-07
-
-	**Créé par**:
-
-	  - Décret n°77-241 1977-03-07 JORF et JONC 18 Mars 1977
-
-
-##### Honorariat .
-
-###### Article R352-58
-
-Les anciens officiers de sapeurs-pompiers, les médecins et pharmaciens du service de santé et de secours médical et les
-inspecteurs départementaux des services d'incendie et de secours qui ont accompli au moins vingt ans d'activité comme sapeur-
-pompier et qui ont fait constamment preuve de zèle et de dévouement peuvent être nommés, par arrêté préfectoral, officiers
-honoraires avec leur dernier grade ou le grade immédiatement supérieur s'ils ont accompli au moins huit ans de service dans
-leur dernier grade.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°77-241 1977-03-07
-
-
 ##### Service de santé et de secours médical .
 
 ###### Article R352-64
@@ -90459,6 +90479,41 @@ Les médecins assistent avec voix consultative aux séances du conseil d'adminis
 	**Cité par**:
 
 	  - Décret n°88-623 du 6 mai 1988 - art. 50 (Ab)
+
+
+#### Dispositions communes à l'ensemble des sapeurs-pompiers communaux *professionnels et non professionnels (volontaires)*
+
+##### Règlement de service - commandement.
+
+###### Article R352-20
+
+Tout sapeur-pompier doit obéissance à ses supérieurs.
+
+Les chefs de corps doivent obtempérer aux ordres du maire et aux réquisitions du sous-préfet et du préfet dans les cas prévus
+à l'article R. 352-1.    Ils doivent, d'autre part, se conformer aux instructions techniques du directeur départemental des
+services d'incendie et de secours.
+
+Les chefs de corps de première intervention doivent, en outre, obéir aux ordres du chef du centre de secours auquel leur
+commune est rattachée.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°53-170 1953-03-07 ART. 30
+
+	**Codifié par**:
+
+	  - Décret n°77-241 1977-03-07
+
+	**Cité par**:
+
+	  - Décret n°88-623 du 6 mai 1988 - art. 50 (Ab)
+	  - Décret n°90-850 du 25 septembre 1990 - art. 25 (V)
+
+	**Cite**:
+
+	  - CODE DES COMMUNES. - art. R352-1 (Ab)
 
 
 #### Dispositions applicables aux sapeurs-pompiers communaux professionnels
@@ -90519,51 +90574,6 @@ conditions de forme*].
 
 ##### Notation et avancement.
 
-###### Article R353-43
-
-Les lieutenants-chefs de section principaux sont choisis parmi les lieutenants et lieutenants-chefs de section justifiant
-d'une ancienneté de six ans de services effectifs en qualité d'officier professionnel et inscrits sur une liste d'aptitude
-établie par voie de concours sur titres ou sur épreuves professionnelles (1).
-
-(1) Voir Arr. min. Int. 18 janvier 1977 fixant les conditions d'avancement des lieutenants professionnels de sapeurs-pompiers
-communaux aux emplois de lieutenant chef de section principal et de lieutenant chef de section (J.O. 30 janvier 1977) ; Arr.
-15 mai 1979 (J.O. 3 juin), mod. par Arr. 10 août 1979 (J.O. 1er septembre) et 10 mars 1982 (J.O. 28 mars).
-
-**Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - TXT_ASSOCIE: Arrêté 1977-01-18
-	  - TXT_ASSOCIE: Arrêté 1979-05-15 modifié
-	  - TXT_ASSOCIE: Arrêté 1979-08-10
-	  - TXT_SOURCE: Arrêté du 6 mai 1983
-	  - TXT_SOURCE: Arrêté du 6 mai 1983 - art. 1 (Ab)
-	  - TXT_SOURCE: Arrêté du 6 mai 1983 - art. 10 (Ab)
-	  - TXT_SOURCE: Arrêté du 6 mai 1983 - art. 11 (Ab)
-	  - TXT_SOURCE: Arrêté du 6 mai 1983 - art. 12 (Ab)
-	  - TXT_SOURCE: Arrêté du 6 mai 1983 - art. 13 (Ab)
-	  - TXT_SOURCE: Arrêté du 6 mai 1983 - art. 14 (Ab)
-	  - TXT_SOURCE: Arrêté du 6 mai 1983 - art. 15 (Ab)
-	  - TXT_SOURCE: Arrêté du 6 mai 1983 - art. 2 (Ab)
-	  - TXT_SOURCE: Arrêté du 6 mai 1983 - art. 3 (Ab)
-	  - TXT_SOURCE: Arrêté du 6 mai 1983 - art. 4 (Ab)
-	  - TXT_SOURCE: Arrêté du 6 mai 1983 - art. 5 (Ab)
-	  - TXT_SOURCE: Arrêté du 6 mai 1983 - art. 6 (Ab)
-	  - TXT_SOURCE: Arrêté du 6 mai 1983 - art. 7 (Ab)
-	  - TXT_SOURCE: Arrêté du 6 mai 1983 - art. 8 (Ab)
-	  - TXT_SOURCE: Arrêté du 6 mai 1983 - art. 9 (Ab)
-	  - TXT_SOURCE: Arrêté du 6 mai 1983 - art. ANNEXE I (Ab)
-	  - TXT_SOURCE: Arrêté du 6 mai 1983 - art. ANNEXE II (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°77-241 1977-03-07
-
-	**Cité par**:
-
-	  - Arrêté du 6 mai 1983 - art. 1 (Ab)
-
-
 ###### Article R353-49
 
 Les sous-officiers, caporaux-chefs, caporaux et sapeurs sont nommés par arrêté du maire, pris après avis du conseil
@@ -90596,140 +90606,11 @@ compétence*].
 
 #### Dispositions applicables aux sapeurs-pompiers communaux non professionnels
 
-##### Recrutement .
-
-###### Article R354-11
-
-Dans les corps qui doivent être créés ou réorganisés et qui ne sont pas encore pourvus d'un conseil d'administration,
-l'admission par acceptation de l'engagement est prononcée par décision du maire sur proposition d'une commission ainsi
-composée :
-
-- le chef de corps, président ;
-
-- deux membres du conseil municipal désignés par le maire ;
-
-- l'inspecteur départemental des services d'incendie et de secours ou, en son absence, un inspecteur adjoint le remplaçant ;
-
-- trois délégués désignés par le préfet ;
-
-- un médecin.
-
-En cas de partage, la voix du président est prépondérante.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°77-241 1977-03-07
-
-
-##### Notation et avancement .
-
-###### Article R354-17
-
-Les sous-lieutenants, quel que soit l'effectif de leur corps, peuvent être promus lieutenants à condition d'avoir exercé les
-fonctions de leur grade pendant un an, d'être titulaire du brevet de moniteur de secourisme, d'avoir suivi un stage de
-formation probatoire organisé dans un centre agréé par le ministère de l'intérieur et subi avec succès les épreuves de
-l'examen de fin de stage.
-
-Peuvent être nommés capitaines, d'une part, les lieutenants qui comptent un minimum de quatre ans d'ancienneté dans leur
-grade et sont titulaires du brevet de qualification défini par arrêté du ministre de l'intérieur et du brevet d'initiation à
-la prévention et, d'autre part, en application des dispositions de l'article R. 354-1, les officiers titulaires d'un des
-diplômes prévus au 1. de l'article R. 353-45. Les officiers de chacune de ces deux catégories doivent, en outre, soit
-commander un centre de secours principal ou un corps de plus de quarante sapeurs-pompiers volontaires, soit être affectés à
-un corps mixte dont le chef de corps est commandant dans la limite des postes disponibles.
-
-Les capitaines, titulaires du brevet de prévention, inscrits sur une liste d'aptitude nationale annuelle et qui justifient
-de cinq années d'ancienneté dans leur grade, peuvent être nommés chef de bataillon.
-
-Sont inscrits sur cette liste d'aptitude les capitaines qui sont :
-
-Soit chefs d'un corps dont l'effectif réel est supérieur à quatre-vingts sapeurs-pompiers volontaires ;
-
-Soit affectés à un corps mixte dont le chef de corps est lieutenant-colonel dans la limite des postes disponibles.
-
-De plus, pourront être inscrits sur cette liste d'aptitude les capitaines ayant exercé en cette qualité les fonctions de chef
-de corps pendant vingt ans et cumulativement pendant quinze ans celles d'inspecteur départemental adjoint.
-
-Une commission, composée en nombre égal d'officiers de sapeurs-pompiers, de représentants de l'administration centrale ainsi
-que des collectivités locales, donne son avis sur toute nomination au grade de chef de bataillon.
-
-Les officiers membres de la commission doivent être d'un grade au moins égal à celui de chef de bataillon et comprendre parmi
-eux au moins un officier volontaire.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°53-170 1953-03-07 ART. 69 REMPLACE PHR. 2
-
-	**Codifié par**:
-
-	  - Décret n°77-241 1977-03-07
-
-
 ##### Allocations, rentes et autres prestations
 
 ##### Indemnisation en cas d'incapacité permanente
 
 ##### Allocations, rentes, pensions et indemnités .
-
-###### Article R*354-37
-
-Les demandes d'indemnisation présentées par un sapeur-pompier ou ses ayants cause sont soumises à la commission
-départementale de réforme des agents permanents des collectivités locales.
-
-Pour l'examen de ces demandes, la composition de la commission départementale de réforme prévue par la réglementation
-applicable aux agents permanents des collectivités locales est modifiée comme suit (1) :
-
-L'un des représentants de l'administration est obligatoirement l'inspecteur départemental des services d'incendie et de
-secours.
-
-Les représentants du personnel désignés par le préfet sont :
-
-- un officier professionnel chef de corps des sapeurs-pompiers ;
-
-- un sapeur-pompier non professionnel de même grade que celui dont le cas est examiné.
-
-Lorsque, dans un département, il n'existe pas d'officier professionnel chef de corps de sapeurs-pompiers, le représentant au
-sein de la commission départementale de réforme est désigné par le préfet du département où siège la commission
-[*compétence*], parmi les officiers professionnels chefs de corps d'un département appartenant à la même zone de défense.
-
-(1) La commission départementale de réforme prévue par la réglementation applicable aux agents permanents des collectivités
-locales a été instituée par l'article 25 du décret n° 65-773 du 9 septembre 1965 (J.O. 12 septembre 1965). Sa composition a
-été fixée par l'arrêté interministériel du 28 octobre 1958, modifié par l'arrêté du 12 septembre 1963, relatif à la
-constitution, au rôle et aux conditions de fonctionnement de cette commission (J.O. 6 novembre 1958 et 29 septembre 1963).
-
-**Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - SPEC_APPLI: *Dispositions non applicables aux communes du département de Saint-Pierre-et-Miquelon*
-	  - SPEC_APPLI: Code des communes R392-2 :
-
-	**Cite**:
-
-	  - Arrêté  1958-10-28 MODIFIE
-	  - Arrêté  1963-09-12
-	  - Décret n°65-773 du 9 septembre 1965 - art. 25 (M)
-
-	**Anciens textes**:
-
-	  - Décret n°76-590 1976-07-02 ART. 2
-
-	**Codifié par**:
-
-	  - Décret n°77-241 1977-03-07
-
-	**Créé par**:
-
-	  - Décret n°77-241 1977-03-07 JORF et JONC 18 Mars 1977
-
-	**Cité par**:
-
-	  - CODE DES COMMUNES. - art. R*354-62 (Ab)
-	  - CODE DES COMMUNES. - art. R*354-71 (Ab)
-
 
 ###### Article R*354-43
 
@@ -90861,6 +90742,57 @@ Ce certificat détermine la durée probable de l'incapacité de travail.
 	**Cite**:
 
 	  - Code des communes R354-62
+
+
+#### Dispositions applicables aux sapeurs-pompiers communaux non professionnels *volontaires*
+
+##### Notation et avancement.
+
+###### Article R354-17
+
+Les sous-lieutenants, quel que soit l'effectif de leur corps, peuvent être promus lieutenants à condition d'avoir exercé les
+fonctions de leur grade pendant un an, d'avoir suivi un stage de formation probatoire organisé dans un centre agréé par le
+ministère de l'intérieur et de la décentralisation et subi avec succès les épreuves de l'examen de fin de stage.
+
+Peuvent être nommés capitaines, d'une part, les lieutenants qui comptent un minimum de quatre ans d'ancienneté dans leur
+grade et sont titulaires du brevet de qualification défini par arrêté du ministre de l'intérieur et du brevet d'initiation à
+la prévention et, d'autre part, en application des dispositions de l'article R. 354-1, les officiers titulaires d'un des
+diplômes prévus au 1° de l'article R. 353-45. Les officiers de chacune de ces deux catégories doivent, en outre, soit
+commander un centre de secours principal ou un corps de plus de quarante sapeurs-pompiers volontaires, soit être affectés à
+un corps mixte dont le chef de corps est commandant dans la limite des postes disponibles.
+
+Les capitaines titulaires du brevet d'initiation à la prévention, inscrits sur une liste d'aptitude nationale annuelle et qui
+justifient de cinq années d'ancienneté dans leur grade peuvent être nommés chefs de bataillon.
+
+Sont inscrits sur cette liste d'aptitude les capitaines qui sont :
+
+Soit chefs d'un corps dont l'effectif réel est supérieur à quatre-vingts sapeurs-pompiers volontaires ;
+
+Soit affectés à un corps mixte dont le chef de corps est lieutenant-colonel dans la limite des postes disponibles.
+
+De plus, pourront être inscrits sur cette liste d'aptitude les capitaines ayant exercé en cette qualité les fonctions de chef
+de corps pendant vingt ans et cumulativement pendant cinq ans celles d'inspecteur départemental adjoint.
+
+Une commission, composée en nombre égal d'officiers de sapeurs-pompiers et de représentants de l'administration centrale
+ainsi que des collectivités locales, donne son avis sur toute nomination au grade de chef de bataillon.
+
+Les officiers membres de la commission doivent être d'un grade au moins égal à celui de chef de bataillon et comprendre parmi
+eux au moins un officier volontaire.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°53-170 1953-03-07 ART. 69 PHR 2
+
+	**Codifié par**:
+
+	  - Décret n°77-241 1977-03-07
+
+	**Cite**:
+
+	  - CODE DES COMMUNES. - art. R353-45 (Ab)
+	  - CODE DES COMMUNES. - art. R354-1 (Ab)
 
 
 ### Pompes funèbres et cimetières
@@ -92675,6 +92607,55 @@ juillet 1981 (J.O. 17 juillet).
 	  - Décret n°88-623 du 6 mai 1988 - art. 50 (Ab)
 
 
+#### CHAPITRE 3 : Dispositions communes à l'ensemble des sapeurs-pompiers communaux *professionnels et non professionnels (volontaires)*.
+
+##### SECTION 1 : Mission et constitution des corps de sapeurs-pompiers.
+
+###### Article R352-10
+
+Les corps de sapeurs-pompiers des communes qui n'ont pas été classées centres de secours sont dissous par arrêté du préfet,
+sur avis conforme du conseil municipal et après consultation du directeur départemental des services d'incendie et de secours
+[*conditions de forme*].
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°53-170 1953-03-07 ART. 6
+
+	**Codifié par**:
+
+	  - Décret n°77-241 1977-03-07
+
+	**Abrogé par**:
+
+	  - Décret n°88-623 du 6 mai 1988 - art. 50 (Ab)
+
+
+###### Article R352-11
+
+Les corps de sapeurs-pompiers des communes qui ont été classées centres de secours sont dissous par arrêté du ministre de
+l'intérieur sur proposition du préfet, après avis du conseil municipal et du directeur départemental des services d'incendie
+et de secours [*conditions de forme*].
+
+Les corps communaux de première intervention sont dissous dans les mêmes conditions en cas d'avis défavorable du conseil
+municipal.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°53-170 1953-03-07 ART. 7
+
+	**Codifié par**:
+
+	  - Décret n°77-241 1977-03-07
+
+	**Abrogé par**:
+
+	  - Décret n°88-623 du 6 mai 1988 - art. 50 (Ab)
+
+
 #### CHAPITRE 4 : Sapeurs-pompiers communaux
 
 ##### SECTION 1 : Mission et constitution des corps de sapeurs-pompiers.
@@ -92702,6 +92683,35 @@ laquelle intervient dans les trois mois [*délai*].
 	**Abrogé par**:
 
 	  - Décret n°88-623 du 6 mai 1988 - art. 50 (Ab)
+
+
+#### CHAPITRE 7 : Dispositions communes à l'ensemble des sapeurs-pompiers communaux *professionnels et non professionnels (volontaires)*.
+
+##### SECTION 1 : Règlement de service - commandement.
+
+###### Article R352-22
+
+Le service est réglé dans chaque commune par un arrêté municipal pris après avis du conseil d'administration et soumis à
+l'approbation du préfet, après avis du directeur départemental des services d'incendie et de secours [*conditions de forme*].
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°53-170 1953-03-07 ART. 31
+
+	**Codifié par**:
+
+	  - Décret n°77-241 1977-03-07
+
+	**Abrogé par**:
+
+	  - Décret n°88-623 du 6 mai 1988 - art. 50 (Ab)
+
+	**Cité par**:
+
+	  - Décret n°88-623 du 6 mai 1988 - art. 50 (Ab)
+	  - CODE DES COMMUNES. - art. R354-6 (Ab)
 
 
 #### CHAPITRE 8 : Sapeurs-pompiers communaux
@@ -92732,6 +92742,30 @@ plus élevé.
 	**Créé par**:
 
 	  - Décret n°77-241 1977-03-07 JORF et JONC 18 Mars 1977
+
+	**Abrogé par**:
+
+	  - Décret n°88-623 du 6 mai 1988 - art. 50 (Ab)
+
+
+#### CHAPITRE 9 : Dispositions communes à l'ensemble des sapeurs-pompiers communaux *professionnels et non professionnels (volontaires)*.
+
+##### SECTION 1 : Règlement de service - commandement.
+
+###### Article R352-25
+
+La direction des secours appartient au directeur départemental des services d'incendie et de secours dès qu'il arrive sur les
+lieux du sinistre ou à l'officier de sapeurs-pompiers désigné par le préfet.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°53-170 1953-03-07 ART. 34
+
+	**Codifié par**:
+
+	  - Décret n°77-241 1977-03-07
 
 	**Abrogé par**:
 
