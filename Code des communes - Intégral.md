@@ -1,5 +1,5 @@
 # Code des communes  
-Version Consolidée au 1982-03-03
+Version Consolidée au 1982-04-02
 
 # ORGANISATION COMMUNALE
 
@@ -108286,78 +108286,6 @@ radié des cadres, s'il est reconnu définitivement inapte.
 	  - CODE DES COMMUNES. - art. L415-51 (Ab)
 	  - CODE DES COMMUNES. - art. L415-52 (Ab)
 	  - CODE DES COMMUNES. - art. L415-53 (Ab)
-
-
-##### SERVICE A MI-TEMPS .
-
-###### Article R415-16
-
-Les agents titulaires, en activité ou en service détaché, qui occupent un emploi conduisant à pension du régime de retraite
-des agents des collectivités locales, peuvent, sur leur demande et dans les cas et conditions déterminés par arrêté du
-ministre de l'intérieur, être autorisés, compte tenu des nécessités du fonctionnement du service, à accomplir un service à
-mi-temps.
-
-**Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - TXT_ASSOCIE: Arrêté 1976-03-18
-	  - TXT_ASSOCIE: Circulaire 363 1977-08-16 intérieur
-
-	**Anciens textes**:
-
-	  - Décret n°73-300 1973-03-13 ART. 1
-
-	**Codifié par**:
-
-	  - Décret n°77-373 1977-03-28
-
-	**Créé par**:
-
-	  - Décret n°77-373 1977-03-28 JORF ET JONC 5 AVRIL 1977
-
-	**Abrogé par**:
-
-	  - Décret n°82-722 du 16 août 1982 - art. 4 (Ab) JORF 19 AOUT 1982 date d'entrée en vigueur 2 AVRIL 1982
-
-	**Cité par**:
-
-	  - Décret n°82-722 du 16 août 1982 - art. 4 (Ab)
-	  - Arrêté du 23 juin 1976 - art. 17 (V)
-	  - CODE DES COMMUNES. - art. R415-17 (Ab)
-
-
-###### Article R415-17
-
-La date et les modalités d'application des dispositions de l'article précédent aux agents mentionnés à cet article, en
-fonctions hors du territoire métropolitain, sont fixées par arrêté interministériel.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°73-300 1973-03-13 ART. 2
-
-	**Codifié par**:
-
-	  - Décret n°77-373 1977-03-28
-
-	**Créé par**:
-
-	  - Décret n°77-373 1977-03-28 JORF ET JONC 5 AVRIL 1977
-
-	**Abrogé par**:
-
-	  - Décret n°82-722 du 16 août 1982 - art. 4 (Ab) JORF 19 AOUT 1982 date d'entrée en vigueur 2 AVRIL 1982
-
-	**Cité par**:
-
-	  - Décret n°82-722 du 16 août 1982 - art. 4 (Ab)
-	  - Arrêté du 23 juin 1976 - art. 17 (V)
-
-	**Cite**:
-
-	  - CODE DES COMMUNES. - art. R415-16 (Ab)
 
 
 ### Personnels divers
