@@ -1,5 +1,5 @@
 # Code des communes  
-Version Consolidée au 1985-02-09
+Version Consolidée au 1985-03-13
 
 # Statuts types d'une caisse communale de secours et de retraite de sapeurs-pompiers
 
@@ -69982,6 +69982,61 @@ Aucune mention des opinions politiques, philosophiques ou religieuses de l'inté
 	  - Décret n°99-1039 du 10 décembre 1999 - art. 72 ()
 
 
+###### Article R354-17
+
+Les sous-lieutenants, quel que soit l'effectif de leur corps, peuvent être promus lieutenants à condition d'avoir exercé les
+fonctions de leur grade pendant un an, d'avoir suivi un stage de formation probatoire organisé dans un centre agréé par le
+ministère de l'intérieur et de la décentralisation et subi avec succès les épreuves de l'examen de fin de stage.
+
+Peuvent être nommés capitaines, d'une part, les lieutenants qui comptent un minimum de quatre ans d'ancienneté dans leur
+grade et sont titulaires du brevet de qualification défini par arrêté du ministre de l'intérieur et du brevet d'initiation à
+la prévention et, d'autre part, en application des dispositions de l'article R. 354-1, les officiers titulaires d'un des
+diplômes prévus au 1° de l'article R. 353-45. Les officiers de chacune de ces deux catégories doivent, en outre, soit
+commander un centre de secours principal ou un corps de plus de quarante sapeurs-pompiers volontaires, soit être affectés à
+un corps mixte dont le chef de corps est commandant dans la limite des postes disponibles.
+
+Les capitaines titulaires du brevet d'initiation à la prévention, inscrits sur une liste d'aptitude nationale annuelle et qui
+justifient de cinq années d'ancienneté dans leur grade peuvent être nommés chefs de bataillon.
+
+Sont inscrits sur cette liste d'aptitude les capitaines qui sont :
+
+Soit chefs d'un corps dont l'effectif réel est supérieur à quatre-vingts sapeurs-pompiers volontaires ;
+
+Soit affectés à un corps mixte dont le chef de corps est lieutenant-colonel dans la limite des postes disponibles.
+
+De plus, pourront être inscrits sur cette liste d'aptitude les capitaines ayant exercé en cette qualité les fonctions de chef
+de corps pendant quinze ans et cumulativement pendant dix ans celles d'inspecteur départemental adjoint.
+
+Une commission, composée en nombre égal d'officiers de sapeurs-pompiers et de représentants de l'administration centrale
+ainsi que des collectivités locales, donne son avis sur toute nomination au grade de chef de bataillon.
+
+Les officiers membres de la commission doivent être d'un grade au moins égal à celui de chef de bataillon et comprendre parmi
+eux au moins un officier volontaire.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°53-170 1953-03-07 ART. 69 PHR 2
+
+	**Codifié par**:
+
+	  - Décret n°77-241 1977-03-07
+
+	**Modifié par**:
+
+	  - Décret n°85-327 1985-03-12 art. 1 JORF 13 mars 1985
+
+	**Abrogé par**:
+
+	  - Décret n°99-1039 du 10 décembre 1999 - art. 72 ()
+
+	**Cite**:
+
+	  - CODE DES COMMUNES. - art. R353-45 (Ab)
+	  - CODE DES COMMUNES. - art. R354-1 (Ab)
+
+
 ###### Article R354-18
 
 L'avancement des sous-officiers a lieu après concours dans la limite des postes disponibles.
@@ -71418,6 +71473,42 @@ Dans ce cas, elle est due à partir du jour de la première constatation médica
 	  - Code des communes R354-62
 
 
+###### Article R*354-64
+
+L'indemnité journalière [*en cas d'accident ou de maladie contractée en service commandé*] est fixée au montant de huit
+vacations horaires par jour, déterminées par arrêté conjoint du ministre de l'intérieur et du ministre de l'économie et des
+finances, avec un maximum de quarante-huit [*nombre*] vacations par semaine.
+
+Toutefois le régime de base obligatoire peut être complété à la diligence de la commune d'un régime facultatif.
+
+Lorsque le sapeur-pompier non professionnel est affilié à un régime de sécurité sociale de salarié et bénéficie à ce titre
+d'indemnités journalières d'assurance maladie, la commune dont il dépend verse, le cas échéant, la différence entre
+l'indemnité journalière prévue à l'alinéa 1 ci-dessus et l'indemnité journalière d'assurance maladie.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - SPEC_APPLI: *Dispositions non applicables aux communes du département de Saint-Pierre-et-Miquelon*
+	  - SPEC_APPLI: Code des communes R392-2 :
+
+	**Anciens textes**:
+
+	  - Décret n°47-1240 1947-07-07 ART. 1
+
+	**Codifié par**:
+
+	  - Décret n°77-241 1977-03-07
+
+	**Modifié par**:
+
+	  - Décret n°85-327 1985-03-12 art. 2 jORF 13 Mars 1985
+
+	**Abrogé par**:
+
+	  - Décret n°92-620 du 7 juillet 1992 - art. 19 (V)
+
+
 ###### Article R*354-66
 
 Les indemnités [*journalières allouées en cas d'accident ou de maladie contractée en service commandé*] prévues aux articles
@@ -71518,6 +71609,38 @@ délibération du conseil municipal, un certificat médical [*formalités*] est 
 
 
 ##### SOUS-SECTION 3 : Frais médicaux chirurgicaux et pharmaceutiques.
+
+###### Article R*354-69
+
+La part des soins médicaux, chirurgicaux ou pharmaceutiques et des frais d'hospitalisation résultant d'un accident de service
+ou d'une affection contractée en service non prise en charge par la sécurité sociale est remboursée par la commune sur le
+rapport du chef de corps des sapeurs-pompiers qui constate que les blessures sont la conséquence d'un accident en service
+commandé ou que la maladie a été contractée en service et sur le vu d'un certificat de la caisse de sécurité sociale
+établissant le montant de sa prise en charge.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - SPEC_APPLI: *Dispositions non applicables aux communes du département de Saint-Pierre-et-Miquelon*
+	  - SPEC_APPLI: Code des communes R392-2 :
+
+	**Anciens textes**:
+
+	  - Décret  1929-02-16 ART. 15 (PARTIE)
+
+	**Codifié par**:
+
+	  - Décret n°77-241 1977-03-07
+
+	**Abrogé par**:
+
+	  - Décret n°92-620 du 7 juillet 1992 - art. 19 (V)
+
+	**Cite**:
+
+	  - Code des communes R354-62
+
 
 ###### Article R*354-70
 
@@ -82617,149 +82740,6 @@ pourcentage d'invalidité.
 	**Cite**:
 
 	  - Code des communes L354-4 AL. 1
-
-
-##### Indemnités allouées en cas d'incapacité temporaire .
-
-###### Article R*354-64
-
-L'indemnité journalière [*en cas d'accident ou de maladie contractée en service commandé*] est fixée au montant de huit
-vacations horaires par jour, déterminées par arrêté conjoint du ministre de l'intérieur et du ministre de l'économie et des
-finances, avec un maximum de quarante-huit [*nombre*] vacations par semaine.
-
-**Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - SPEC_APPLI: *Dispositions non applicables aux communes du département de Saint-Pierre-et-Miquelon*
-	  - SPEC_APPLI: Code des communes R392-2 :
-
-	**Anciens textes**:
-
-	  - Décret n°47-1240 1947-07-07 ART. 1
-
-	**Codifié par**:
-
-	  - Décret n°77-241 1977-03-07
-
-	**Créé par**:
-
-	  - Décret n°77-241 1977-03-07 JORF et JONC 18 Mars 1977
-
-
-###### Article R*354-65
-
-L'indemnité journalière [*allouée en cas d'accident ou de maladie contractée en service commandé*] n'est pas cumulable avec
-d'autres indemnités accordées pour le même motif.
-
-**Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - SPEC_APPLI: *Dispositions non applicables aux communes du département de Saint-Pierre-et-Miquelon*
-	  - SPEC_APPLI: Code des communes R392-2 :
-
-	**Anciens textes**:
-
-	  - Décret n°47-1240 1947-07-07 ART. 2
-
-	**Codifié par**:
-
-	  - Décret n°77-241 1977-03-07
-
-	**Créé par**:
-
-	  - Décret n°77-241 1977-03-07 JORF et JONC 18 Mars 1977
-
-	**Abrogé par**:
-
-	  - Décret n°85-327 1985-03-12 art. 3 JORF 13 Mars 1985
-
-
-##### Frais médicaux chirurgicaux et pharmaceutiques .
-
-###### Article R*354-69
-
-Les secours pour soins médicaux, chirurgicaux et pharmaceutiques [*dépenses*] auxquels a droit le sapeur-pompier, sont
-alloués par le conseil municipal, sur le rapport du chef de corps des sapeurs-pompiers qui constate que les blessures sont la
-conséquence d'un accident en service commandé ou que la maladie a été contractée en service et sur présentation d'un
-certificat délivré par un médecin assermenté désigné conformément à l'article R. 354-62.
-
-Ce certificat détermine la durée probable de l'incapacité de travail.
-
-**Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - SPEC_APPLI: *Dispositions non applicables aux communes du département de Saint-Pierre-et-Miquelon*
-	  - SPEC_APPLI: Code des communes R392-2 :
-
-	**Anciens textes**:
-
-	  - Décret  1929-02-16 ART. 15 (PARTIE)
-
-	**Codifié par**:
-
-	  - Décret n°77-241 1977-03-07
-
-	**Créé par**:
-
-	  - Décret n°77-241 1977-03-07 JORF et JONC 18 Mars 1977
-
-	**Cite**:
-
-	  - Code des communes R354-62
-
-
-#### Dispositions applicables aux sapeurs-pompiers communaux non professionnels *volontaires*
-
-##### Notation et avancement.
-
-###### Article R354-17
-
-Les sous-lieutenants, quel que soit l'effectif de leur corps, peuvent être promus lieutenants à condition d'avoir exercé les
-fonctions de leur grade pendant un an, d'avoir suivi un stage de formation probatoire organisé dans un centre agréé par le
-ministère de l'intérieur et de la décentralisation et subi avec succès les épreuves de l'examen de fin de stage.
-
-Peuvent être nommés capitaines, d'une part, les lieutenants qui comptent un minimum de quatre ans d'ancienneté dans leur
-grade et sont titulaires du brevet de qualification défini par arrêté du ministre de l'intérieur et du brevet d'initiation à
-la prévention et, d'autre part, en application des dispositions de l'article R. 354-1, les officiers titulaires d'un des
-diplômes prévus au 1° de l'article R. 353-45. Les officiers de chacune de ces deux catégories doivent, en outre, soit
-commander un centre de secours principal ou un corps de plus de quarante sapeurs-pompiers volontaires, soit être affectés à
-un corps mixte dont le chef de corps est commandant dans la limite des postes disponibles.
-
-Les capitaines titulaires du brevet d'initiation à la prévention, inscrits sur une liste d'aptitude nationale annuelle et qui
-justifient de cinq années d'ancienneté dans leur grade peuvent être nommés chefs de bataillon.
-
-Sont inscrits sur cette liste d'aptitude les capitaines qui sont :
-
-Soit chefs d'un corps dont l'effectif réel est supérieur à quatre-vingts sapeurs-pompiers volontaires ;
-
-Soit affectés à un corps mixte dont le chef de corps est lieutenant-colonel dans la limite des postes disponibles.
-
-De plus, pourront être inscrits sur cette liste d'aptitude les capitaines ayant exercé en cette qualité les fonctions de chef
-de corps pendant vingt ans et cumulativement pendant cinq ans celles d'inspecteur départemental adjoint.
-
-Une commission, composée en nombre égal d'officiers de sapeurs-pompiers et de représentants de l'administration centrale
-ainsi que des collectivités locales, donne son avis sur toute nomination au grade de chef de bataillon.
-
-Les officiers membres de la commission doivent être d'un grade au moins égal à celui de chef de bataillon et comprendre parmi
-eux au moins un officier volontaire.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°53-170 1953-03-07 ART. 69 PHR 2
-
-	**Codifié par**:
-
-	  - Décret n°77-241 1977-03-07
-
-	**Cite**:
-
-	  - CODE DES COMMUNES. - art. R353-45 (Ab)
-	  - CODE DES COMMUNES. - art. R354-1 (Ab)
 
 
 ### Pompes funèbres et cimetières
