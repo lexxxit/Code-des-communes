@@ -1,5 +1,5 @@
 # Code des communes  
-Version Consolidée au 1985-09-27
+Version Consolidée au 1985-10-01
 
 # Statuts types d'une caisse communale de secours et de retraite de sapeurs-pompiers
 
@@ -33459,6 +33459,64 @@ Il est interdit aux communes de prendre en charge dans leur budget propre, des d
 	  - CODE DES COMMUNES. - art. R*372-16 (M)
 
 
+### Pompes funèbres et cimetières
+
+#### Pompes funèbres
+
+##### Réglementation de l'activité des entreprises privées participant au service extérieur des pompes funèbres
+
+###### Article L362-12
+
+Toute infraction aux dispositions des articles L. 362-8, L. 362-9 et L. 362-10 est punie, en cas de récidive, d'une amende de
+2000 à 15000 F [*taux maximum résultant de la loi 85-835 du 7 aout 1985*].
+
+La fermeture de l'entreprise trouvée en infraction peut, en outre, dans ce dernier cas, être ordonnée par le tribunal pour
+une période n'excédant pas trois mois [**]durée[**].
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - SPEC_APPLI: *Dispositions non applicables aux communes des départements de la Guadeloupe, de la Guyane, de la Martinique et de la Réunion*
+	  - TXT_ASSOCIE: CODE DES COMMUNES. - art. L362-10 (M)
+	  - TXT_ASSOCIE: CODE DES COMMUNES. - art. L362-8 (M)
+	  - TXT_ASSOCIE: CODE DES COMMUNES. - art. L362-9 (M)
+	  - SPEC_APPLI: Code des communes L392-1 :
+
+	**Anciens textes**:
+
+	  - Code de l'administration communale 471 al. 2 et 3
+
+	**Cite**:
+
+	  - Décret  1959-03-21 ART. 3 et 6 (contestations sur les conditions des funérailles)
+	  - CODE DES COMMUNES. - art. L362-10 (M)
+	  - CODE DES COMMUNES. - art. L362-8 (M)
+	  - CODE DES COMMUNES. - art. L362-9 (M)
+
+	**Codifié par**:
+
+	  - Décret n°77-240 1977-03-07
+
+	**Créé par**:
+
+	  - Décret n°77-240 1977-03-07 JORF et JONC 18 mars 1977
+
+	**Modifié par**:
+
+	  - Loi n°85-835 du 7 août 1985 - art. 10 (VT) JORF 8 aout 1985 en vigueur   le 1er octobre 1985
+	  - Loi n°85-835 du 7 août 1985 - art. 8 (VT) JORF 8 aout 1985 en vigueur   le 1er octobre 1985
+
+	**Cité par**:
+
+	  - CODE DES COMMUNES. - art. L362-14 (Ab)
+	  - CODE DES COMMUNES. - art. R*362-4 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code général des collectivités territoriales - art. L2223-35 (V)
+
+
 ### Dispositions particulières
 
 #### Dispositions applicables aux communes des départements de la Moselle, du Bas-Rhin, et du Haut-Rhin
@@ -61509,6 +61567,44 @@ ouvrages ou installations de défense contre la mer.
 	**Cite**:
 
 	  - Code des communes R315-7
+
+
+###### Article R*315-11-1
+
+Lorsque, par application de l'article 1er du décret n. 85-453 du 23 avril 1985, l'opération doit être précédée d'une enquête
+régie par les dispositions de la loi du 12 juillet 1983 relative à la démocratisation des enquêtes publiques et à la
+protection de l'environnement, cette enquête est, par dérogation aux dispositions des articles R. 315-7 à R. 315-11 ci-
+dessus, organisée conformément aux dispositions des chapitres I et II du décret précité.
+
+Lorsque la participation des intéressés aux dépenses est prévue, le dossier comprend [*contenu*] en outre les pièces prévues
+à l'article R. 315-6. Dans ce cas, l'arrêté du commissaire de la République organisant l'enquête est notifié aux
+propriétaires, collectivités publiques et personnes physiques ou morales mentionnés sur la liste prévue au 1° de l'article R.
+315-6.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - SPEC_APPLI: Cet article est abrogé, sauf en ce qui concerne les travaux, ouvrages ou installations de défense contre la mer*
+	  - SPEC_APPLI: *Décret 93-1182 1993-10-21 art. 17 :
+
+	**Codifié par**:
+
+	  - Décret n°77-241 1977-03-07
+
+	**Cite**:
+
+	  - Loi n°83-630 1983-07-12
+	  - Décret n°85-453 du 23 avril 1985 - art. 1 (M)
+	  - Code des communes R315-6, R315-7, R315-8, R315-9, R315-10, R315-11
+
+	**Créé par**:
+
+	  - Décret n°85-453 du 23 avril 1985 - art. 34 () JORF 24 AVRIL 1985 en vigueur le 1er octobre 1985
+
+	**Abrogé par**:
+
+	  - Décret n°2001-1206 du 12 décembre 2001 - art. 1 ()
 
 
 ###### Article R*315-12
