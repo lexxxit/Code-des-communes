@@ -1,5 +1,5 @@
 # Code des communes  
-Version Consolidée au 1993-02-19
+Version Consolidée au 1993-03-03
 
 # Partie législative
 
@@ -53872,48 +53872,63 @@ suppression.
 
 ##### SECTION 1 : Dotation globale de fonctionnement
 
-##### SOUS-SECTION 4 : Concours particuliers.
+##### SOUS-SECTION 3 : Concours particuliers.
 
 ###### Article R*234-1
 
-Pour l'application de l'article L. 234-13 du code des communes la dotation revenant à chaque commune bénéficiaire est
-pondérée :
+Pour la détermination du potentiel fiscal des communes membres d'une communauté de villes ou d'un groupement ayant opté pour
+le régime fiscal prévu à l'article 1609 nonies C du code général des impôts, il est procédé en ce qui concerne la taxe
+professionnelle, entre les communes membres de la communauté ou du groupement, à la ventilation des bases de cette taxe selon
+les modalités suivantes :
 
-- pour les communes dont le potentiel fiscal par habitant est inférieur au potentiel fiscal moyen par habitant de l'ensemble
-des communes, la dotation revenant à ces communes est pondérée par la racine carrée de l'écart relatif entre les deux valeurs
-précédentes ;
+" a) Pour la première année d'application des dispositions de l'artice 1609 nonies C du code général des impôts, les bases de
+taxe professionnelle du groupement sont réparties entre les communes membres au prorata des bases constatées pour chaque
+commune l'année précédente ;
 
-- pour les communes dont le potentiel fiscal par hectare est inférieur au tiers du potentiel fiscal moyen par hectare des
-communes de moins de 2 000 habitants, la dotation revenant à ces communes est pondérée par la racine carrée de la moitié de
-l'écart relatif entre les deux valeurs précédentes.
+" b) Pour les années suivantes, les bases de taxe professionnelle de chaque commune calculées l'année précédente sont
+augmentées du supplément de bases de taxe professionnelle constaté dans chaque commune ou diminuées, le cas échéant, des
+pertes constatées dans chaque commune. "
 
 **Liens relatifs à cet article**
 
-	**Liens**:
+	**Cite**:
 
-	  - SPEC_APPLI: *Ces dispositions ne seront applicables que jusqu'au 1er janvier 1986*
-	  - SPEC_APPLI: Loi n°80-1102 1980-12-31 :
+	  - CGI 1609 nonies C
 
 	**Codifié par**:
 
 	  - Décret n°77-91 1977-01-27
 
+	**Modifié par**:
+
+	  - Décret n°93-270 du 1 mars 1993 - art. 1 () JORF 3 mars 1993
+	  - Décret n°93-270 du 1 mars 1993 - art. 2 (V) JORF 3 mars 1993
+
+
+##### SOUS-SECTION 4 bis : Dispositions applicables aux groupements de communes.
 
 ###### Article R*234-2
 
-Les communes admises au bénéfice de la dotation de fonctionnement minimale percevront, au moins, une somme égale à 750 F. ---
-Cette somme est réévaluée chaque année après avis du comité des finances locales.
+Le potentiel fiscal des groupements de communes bénéficiant des dispositions des douzième et seizième alinéas de l'article L.
+234-17 est égal à la somme des bases des taxes directes locales des communes membres de chaque groupement concerné,
+déterminées dans les conditions prévues par l'article L. 234-6, pondérées par le taux moyen national d'imposition à la taxe
+concernée constaté pour chacune des catégories de groupements. "
 
 **Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - SPEC_APPLI: *Ces dispositions ne seront applicables que jusqu'au 1er janvier 1986*
-	  - SPEC_APPLI: Loi n°80-1102 1980-12-31 :
 
 	**Codifié par**:
 
 	  - Décret n°77-91 1977-01-27
+
+	**Modifié par**:
+
+	  - Décret n°93-270 1993-03-01 art. 2, 3 jorf 3 mars 1993
+	  - Décret n°93-270 du 1 mars 1993 - art. 2 (V)
+
+	**Cite**:
+
+	  - CODE DES COMMUNES. - art. L234-17 (M)
+	  - CODE DES COMMUNES. - art. L234-6 (M)
 
 
 ##### SECTION 2 : Recettes réparties par le comité des finances locales
