@@ -1,5 +1,5 @@
 # Code des communes  
-Version Consolidée au 1986-01-05
+Version Consolidée au 1986-01-08
 
 # Statuts types d'une caisse communale de secours et de retraite de sapeurs-pompiers
 
@@ -9655,6 +9655,55 @@ commission.
 
 #### CHAPITRE 6 : Syndicats mixtes.
 
+###### Article L166-1
+
+Des syndicats mixtes peuvent être constitués [**]définition[**] par accord entre des institutions d'utilité commune
+interrégionales, des régions, des ententes ou des institutions interdépartementales, des départements, des communautés
+urbaines, des districts, des syndicats de communes, des communes, des chambres de commerce et d'industrie, d'agriculture, de
+métiers et autres établissements publics, en vue d'oeuvres ou de services présentant une utilité pour chacune de ces
+personnes morales.
+
+Ces syndicats doivent comprendre au moins une collectivité territoriale ou un groupement de ces collectivités.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Circulaire 1974-10-02
+	  - SPEC_APPLI: Loi n°86-16 du 6 janvier 1986 - art. 32 (V)
+
+	**Anciens textes**:
+
+	  - Code de l'administration communale 152 remplacé
+
+	**Codifié par**:
+
+	  - Décret n°77-90 1977-01-27
+
+	**Cité par**:
+
+	  - Loi n°83-663 du 22 juillet 1983 - art. 5 (Ab)
+	  - Loi n°85-704 du 12 juillet 1985 - art. 1 (V)
+	  - Loi n°92-3 du 3 janvier 1992 - art. 13 (Ab)
+	  - Loi n°92-3 du 3 janvier 1992 - art. 31 (Ab)
+	  - Loi n°92-1341 du 23 décembre 1992 - art. 10 (M)
+	  - Loi n°96-609 du 5 juillet 1996 - art. 25 (M)
+	  - Code forestier - art. L148-10 (VT)
+	  - Code rural - art. L151-36 (M)
+	  - Code rural - art. L151-38 (M)
+	  - Code rural - art. L151-4 (M)
+	  - Code rural - art. L244-2 (Ab)
+	  - Code rural ancien - art. 175 (Ab)
+
+	**Modifié par**:
+
+	  - Loi n°86-16 du 6 janvier 1986 - art. 27 () JORF 8 janvier 1986
+
+	**Nouveaux textes**:
+
+	  - Code général des collectivités territoriales - art. L5721-2 (V)
+
+
 ###### Article L166-2
 
 Le syndicat mixte [*définition*] est un établissement public. Sa création est autorisée par l'autorité qualifiée.
@@ -14444,54 +14493,6 @@ détermine, à la majorité absolue des suffrages exprimés, le mode de scrutin 
 
 
 #### Syndicats mixtes .
-
-###### Article L166-1
-
-Des syndicats mixtes peuvent être constitués [**]définition[**]
-
-par accord entre des ententes ou des institutions interdépartementales, des départements, des communautés urbaines, des
-districts, des syndicats de communes, des communes, des chambres de commerce et d'industrie, d'agriculture, de métiers et
-autres établissements publics, en vue d'oeuvres ou de services présentant une utilité pour chacune de ces personnes morales. 
-
-Ces syndicats doivent comprendre au moins une collectivité territoriale ou un groupement de ces collectivités.
-
-**Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - TXT_ASSOCIE: Circulaire 1974-10-02
-
-	**Anciens textes**:
-
-	  - Code de l'administration communale 152 remplacé
-
-	**Codifié par**:
-
-	  - Décret n°77-90 1977-01-27
-
-	**Créé par**:
-
-	  - Décret n°77-90 1977-01-27 JORF et JONC 3 février 1977 date d'entrée en vigueur élection des maires
-
-	**Cité par**:
-
-	  - Loi n°83-663 du 22 juillet 1983 - art. 5 (Ab)
-	  - Loi n°85-704 du 12 juillet 1985 - art. 1 (V)
-	  - Loi n°92-3 du 3 janvier 1992 - art. 13 (Ab)
-	  - Loi n°92-3 du 3 janvier 1992 - art. 31 (Ab)
-	  - Loi n°92-1341 du 23 décembre 1992 - art. 10 (M)
-	  - Loi n°96-609 du 5 juillet 1996 - art. 25 (M)
-	  - Code forestier - art. L148-10 (VT)
-	  - Code rural - art. L151-36 (M)
-	  - Code rural - art. L151-38 (M)
-	  - Code rural - art. L151-4 (M)
-	  - Code rural - art. L244-2 (Ab)
-	  - Code rural ancien - art. 175 (Ab)
-
-	**Nouveaux textes**:
-
-	  - Code général des collectivités territoriales - art. L5721-2 (V)
-
 
 ###### Article L166-4
 
