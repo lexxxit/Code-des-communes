@@ -1,5 +1,5 @@
 # Code des communes  
-Version Consolidée au 1978-12-22
+Version Consolidée au 1978-12-30
 
 # ORGANISATION COMMUNALE
 
@@ -18324,6 +18324,54 @@ de ces terrains à une redevance calculée en fonction du nombre des places disp
 	  - CODE DES COMMUNES. - art. L373-3 (Ab)
 
 
+###### Article L233-78
+
+Les communes, leurs groupements ou les établissements publics locaux qui assurent l'enlèvement des ordures, déchets et
+résidus peuvent instituer une redevance calculée en fonction de l'importance du service rendu.
+
+La redevance est instituée par l'assemblée délibérante de la collectivité locale ou de l'établissement public local qui en
+fixe le tarif.
+
+Elle est recouvrée par cette collectivité, ce groupement ou cet établissement ou, par délégation de l'assemblée délibérante,
+par le concessionnaire du service.
+
+Les groupements de communes peuvent cependant renoncer à percevoir directement la redevance ou la taxe et laisser ce soin et
+la liberté de choix entre ces deux ressources à chacune des communes qui la composent.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°74-1129 1974-12-30 art. 14 II par. 1 et 2
+
+	**Codifié par**:
+
+	  - Décret n°77-90 1977-01-27
+
+	**Modifié par**:
+
+	  - Loi n°78-1240 du 29 décembre 1978 - art. 12 () JORF 30 décembre 1978
+
+	**Cité par**:
+
+	  - Décret n°85-1314 du 11 décembre 1985 - art. 2-1 (Ab)
+	  - Décret n°86-421 du 12 mars 1986 - art. 2 (Ab)
+	  - CODE DES COMMUNES. - art. L234-6 (Ab)
+	  - CODE DES COMMUNES. - art. L234-9 (M)
+	  - CODE DES COMMUNES. - art. L373-3 (Ab)
+	  - CODE GENERAL DES IMPOTS, CGI. - art. 1609 nonies A (M)
+	  - CODE GENERAL DES IMPOTS, CGI. - art. 260 A (M)
+
+	**Abrogé par**:
+
+	  - Loi n°96-142 du 21 février 1996 - art. 12 (V) JORF 24 février 1996
+
+	**Nouveaux textes**:
+
+	  - Code général des collectivités territoriales - art. L2333-76 (V)
+	  - Code général des collectivités territoriales - art. L2333-76 (M)
+
+
 ###### Article L233-79
 
 L'institution de la redevance mentionnée à l'article précédent entraîne la suppression de la taxe d'enlèvement des ordures
@@ -25314,75 +25362,6 @@ Un décret en Conseil d'Etat détermine :
 
 
 ##### REPARTITION D'UNE PART DES AMENDES DE CIRCULATION ROUTIERE .
-
-###### Article L234-28
-
-Les recettes supplémentaires procurées par tout relèvement du tarif des amendes de police relatives à la circulation routière
-sont prélevées sur les recettes de l'Etat au profit du fonds d'action locale prévu par l'article L. 234-5 en vue de financer
-des opérations destinées à améliorer les transports en commun et la circulation.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°70-1199 1970-12-21 art. 96 al. 1 remplacé
-
-	**Codifié par**:
-
-	  - Décret n°77-90 1977-01-27
-
-	**Créé par**:
-
-	  - Décret n°77-90 1977-01-27 JORF et JONC 3 février 1977 date d'entrée en vigueur élection des maires
-
-	**Abrogé par**:
-
-	  - Loi n°78-1240 du 29 décembre 1978 - art. 10 (V) JORF 30 décembre 1978
-
-	**Cité par**:
-
-	  - Loi n°78-1240 du 29 décembre 1978 - art. 10 (V)
-	  - CODE DES COMMUNES. - art. R*234-29 (M)
-
-	**Cite**:
-
-	  - CODE DES COMMUNES. - art. L234-5 (M)
-
-
-###### Article L234-29
-
-Les sommes à verser au fonds d'action locale, à partir de la date du relèvement du tarif, sont constituées par la différence
-entre :
-
-- d'une part, le produit, majoré de 70 p. 100, 
-
-des amendes forfaitaires encaissées au cours de l'année du relèvement du tarif des amendes ou des années ultérieures ;
-
-- d'autre part, le produit des amendes forfaitaires et des amendes de compensation encaissé en 1971   par l'Etat.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°70-1199 1970-12-21 art. 96 al. 2 remplacé
-
-	**Codifié par**:
-
-	  - Décret n°77-90 1977-01-27
-
-	**Créé par**:
-
-	  - Décret n°77-90 1977-01-27 JORF et JONC 3 février 1977 date d'entrée en vigueur élection des maires
-
-	**Abrogé par**:
-
-	  - Loi n°78-1240 du 29 décembre 1978 - art. 10 (V) JORF 30 décembre 1978
-
-	**Cité par**:
-
-	  - Loi n°78-1240 du 29 décembre 1978 - art. 10 (V)
-	  - CODE DES COMMUNES. - art. L234-30 (Ab)
-
 
 ###### Article L234-30
 
@@ -35084,6 +35063,38 @@ départements des Hauts-de-Seine, de la Seine-Saint-Denis et du Val-de-Marne, so
 	  - Code des communes L393-2 à L393-3
 
 
+###### Article L393-3
+
+Les communes des départements des Hauts-de-Seine, de la Seine-Saint-Denis et du Val-de-Marne participent aux dépenses de la
+brigade des sapeurs-pompiers de Paris, y compris les dépenses d'investissement afférentes au casernement.
+
+Après déduction des recettes diverses, la répartition de ces dépenses est calculée de manière telle que les charges
+respectives de la commune de Paris et des communes considérées soient proportionnelles aux chiffres de la population de
+chacune de ces communes.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°77-240 1977-03-07
+
+	**Modifié par**:
+
+	  - Loi n°78-1239 du 29 décembre 1978 - art. 107 () JORF 30 décembre 1978
+
+	**Cité par**:
+
+	  - Décret n°89-561 du 11 août 1989 - art. 1 (Ab)
+
+	**Abrogé par**:
+
+	  - Loi n°96-142 du 21 février 1996 - art. 12 (V) JORF 24 février 1996
+
+	**Nouveaux textes**:
+
+	  - Code général des collectivités territoriales - art. L2522-2 (V)
+
+
 #### CHAPITRE 4 : Dispositions applicables à la ville de Paris.
 
 ###### Article L394-1
@@ -38256,76 +38267,43 @@ départements des Hauts-de-Seine, de la Seine-Saint-Denis et du Val-de-Marne.
 	  - Décret n°89-561 du 11 août 1989 - art. 1 (Ab)
 
 
-#### DISPOSITIONS APPLICABLES AUX COMMUNES DES DEPARTEMENTS DES HAUTS-DE-SEINE, DE LA SEINE-SAINT-DENIS ET DU VAL-DE-MARNE (REGION  PARISIENNE) .
-
-###### Article L393-3
-
-Les communes des départements des Hauts-de-Seine, de la Seine-Saint-Denis et du Val-de-Marne participent aux dépenses de la
-brigade de sapeurs-pompiers de Paris demeurant à la charge de la commune de Paris, y compris les dépenses d'investissement
-afférentes au casernement.
-
-Leur participation est calculée de manière telle que les charges respectives de la commune de Paris et des communes
-considérées soient proportionnelles aux chiffres de la population de chacune de ces communes.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°64-707 1964-07-10 ART. 40 al. 3
-
-	**Codifié par**:
-
-	  - Décret n°77-240 1977-03-07
-
-	**Créé par**:
-
-	  - Décret n°77-240 1977-03-07 JORF et JONC 18 mars 1977
-
-	**Cité par**:
-
-	  - Décret n°89-561 du 11 août 1989 - art. 1 (Ab)
-
-	**Nouveaux textes**:
-
-	  - Code général des collectivités territoriales - art. L2522-2 (V)
-
-
 #### Dispositions applicables à la ville de Paris
 
 ##### Protection contre l'incendie.
 
 ###### Article L394-5
 
-L'Etat participe aux dépenses de fonctionnement de la brigade de sapeurs-pompiers de Paris, y compris les dépenses
-d'entretien, de réparation et de loyer du casernement.
+L'Etat participe aux dépenses de fonctionnement de la brigade des sapeurs-pompiers de Paris, y compris les dépenses
+d'entretien, de réparation et de loyer de casernement.
 
 Dans la double limite des dotations inscrites au budget de l'Etat et des paiements effectués par la préfecture de police au
 cours de l'exercice considéré, la participation de l'Etat est égale aux trois quarts [*proportion*] des dépenses suivantes
-inscrites au budget spécial de la préfecture de police ;
+inscrites au budget spécial de la préfecture de police, à l'exception de la part de ces dépenses qui incombe à la commune de
+Paris pour laquelle la participation de l'Etat est fixée à 37,5 p. 100 :
 
-1° Rémunération des militaires de la brigade de sapeurs-pompiers de Paris, y compris l'alimentation des militaires pendant la
-durée légale du service ;
+1° Rémunération des militaires de la brigade des sapeurs-pompiers de Paris, y compris l'alimentation des militaires pendant
+la durée légale du service ;
 
 2° Frais d'habillement, de déplacement, de transport et de mission concernant les personnels prévus à l'alinéa précédent ;
 
-3° Dépenses des services d'instruction et de santé ;
+3° Dépenses du service d'instruction et de santé ;
 
-4° Entretien, réparations, acquisitions et installations du matériel de lutte contre l'incendie, du matériel de transport et
-du matériel de transmissions.
+4° Entretien, réparation, acquisition et installation du matériel de lutte contre l'incendie, du matériel de transport et du
+matériel de transmission.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Loi n°64-707 1964-07-10 ART. 40 al. 2
+	  - Loi n°64-707 1964-07-10 ART. 40 AL. 2
 
 	**Codifié par**:
 
 	  - Décret n°77-240 1977-03-07
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°77-240 1977-03-07 JORF et JONC 18 mars 1977
+	  - Loi n°78-1239 du 29 décembre 1978 - art. 107 () JORF 30 décembre 1978 p. 4339
 
 	**Cité par**:
 
