@@ -1,5 +1,5 @@
 # Code des communes  
-Version Consolidée au 1985-07-12
+Version Consolidée au 1985-07-19
 
 # Statuts types d'une caisse communale de secours et de retraite de sapeurs-pompiers
 
@@ -3130,6 +3130,83 @@ procès-verbal.
 	**Nouveaux textes**:
 
 	  - Code général des collectivités territoriales - art. L2122-21 (M)
+
+
+###### Article L122-20
+
+Le maire peut, en outre, par délégation du conseil municipal, être chargé, en tout ou en partie, et pour la durée de son
+mandat :
+
+1° D'arrêter et modifier l'affectation des propriétés communales utilisées par les services publics municipaux ;
+
+2° De fixer, dans les limites déterminées par le conseil municipal, les tarifs des droits de voirie, de stationnement, de
+dépôt temporaire sur les voies et autres lieux publics, et, d'une manière générale, des droits prévus au profit de la commune
+qui n'ont pas un caractère fiscal ;
+
+3° De procéder, dans les limites fixées par le conseil municipal, à la réalisation des emprunts destinés au financement des
+investissements prévus par le budget et de passer à cet effet les actes nécessaires ;
+
+4° De prendre toute décision concernant la préparation, la passation, l'exécution et le règlement des marchés de travaux, de
+fournitures et de services qui peuvent être réglementairement passés de gré à gré en raison de leur montant, lorsque les
+crédits sont prévus au budget ;
+
+5° De décider de la conclusion et de la révision du louage de choses pour une durée n'excédant pas douze ans ;
+
+6° De passer les contrats d'assurance ;
+
+7° De créer les régies comptables nécessaires au fonctionnement des services municipaux ;
+
+8° De prononcer la délivrance et la reprise des concessions dans les cimetières ;
+
+9° D'accepter les dons et legs qui ne sont grevés ni de conditions ni de charges ;
+
+10° De décider l'aliénation de gré à gré de biens mobiliers jusqu'à 30.000 F ;
+
+11° De fixer les rémunérations et de régler les frais et honoraires des avocats, notaires, avoués, huissiers de justice et
+experts ;
+
+12° De fixer, dans les limites de l'estimation des services fiscaux (domaines), le montant des offres de la commune à
+notifier aux expropriés et de répondre à leurs demandes ;
+
+13° De décider de la création de classes dans les établissements d'enseignement ;
+
+14° De fixer les reprises d'alignement en application d'un document d'urbanisme.
+
+15° D'exercer, au nom de la commune, les droit de préemption définis par le code de l'urbanisme, que la commune en soit
+titulaire, directement  ou par substitution, ou délégataire .
+
+16° D'intenter au nom de la commune les actions en justice ou de défendre  la commune dans les actions intentées contre elle,
+dans les cas définis par le conseil municipal.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Code de l'administration communale 75 bis
+
+	**Codifié par**:
+
+	  - Décret n°77-90 1977-01-27
+
+	**Cité par**:
+
+	  - Loi n°82-213 du 2 mars 1982 - art. 2 (Ab)
+	  - Loi n°82-1169 du 31 décembre 1982 - art. 17 bis (Ab)
+	  - Loi n°85-729 du 18 juillet 1985 - art. 9 (V)
+	  - Loi n°99-210 du 19 mars 1999 - art. 5 (V)
+	  - Loi n°99-210 du 19 mars 1999 - art. 6 (V)
+	  - CODE DES COMMUNES. - art. L122-21 (M)
+	  - CODE DES COMMUNES. - art. L181-1 (M)
+	  - CODE DES COMMUNES. - art. L331-1 (Ab)
+	  - CODE DES COMMUNES. - art. R122-7 (Ab)
+
+	**Modifié par**:
+
+	  - Loi n°85-729 du 18 juillet 1985 - art. 28 () JORF 19 juillet 1985
+
+	**Nouveaux textes**:
+
+	  - Code général des collectivités territoriales - art. L2122-22 (V)
 
 
 ###### Article L122-21
@@ -7931,6 +8008,86 @@ des conseils municipaux intéressés.
 
 ##### SOUS-SECTION 1 : Etendue des compétences.
 
+###### Article L165-7
+
+Sont transférées à la communauté urbaine les compétences attribuées aux communes dans les domaines suivants :
+
+1° Chartes intercommunales de développement et d'aménagement, schémas directeurs, plans d'occupation des sols ou documents
+d'urbanisme en tenant lieu, programmes locaux de l'habitat, constitution de réserves foncières intéressant la communauté, les
+conseils municipaux devant être saisis pour avis ;
+
+2° Création et équipement des zones d'habitation, des zones de rénovation urbaine, des zones de réhabilitation, des zones
+industrielles, des zones artisanales et des zones portuaires ;
+
+2° bis  Prise en considération d'un programme d'aménagement d'ensemble et détermination  de secteurs d'aménagement mentionnés
+à l'article L. 332-9 du code de l'urbanisme ;
+
+3° Construction, aménagement et entretien des locaux scolaires dans les zones et secteurs mentionnées au 2° et 2° bis et
+réalisés ou déterminés  par la communauté ;
+
+à l'expiration d'un délai de dix ans à dater de leur mise en service, la propriété et l'entretien de ces locaux sont
+transférés, sur sa demande, à la commune sur le territoire de laquelle ils sont situés ; en ce cas, les conditions de prise
+en charge des annuités d'emprunt afférentes à ces locaux sont déterminées par délibérations concordantes du conseil de
+communauté et du conseil municipal intéressé ;
+
+4° Services de secours et de lutte contre l'incendie ;
+
+5° Transports urbains de voyageurs ;
+
+6° Lycées et collèges ;
+
+7° Eau, assainissement, à l'exclusion de l'hydraulique agricole, ordures ménagères ;
+
+8° Création de cimetières et extension des cimetières ainsi créés, fours crématoires ;
+
+9° Abattoirs, abattoirs marchés, marchés d'intérêt national ;
+
+10° Voirie et signalisation ;
+
+11° Parcs de stationnement.
+
+Lors de la création de la communauté, les communes peuvent décider, dans les conditions de majorité prévues à l'article L.
+165-4, compétences de la communauté tout ou partie de celles relatives aux équipements ou opérations mentionnés aux 2°, 2°
+bis, 8°, 10° et 11° ci-dessus lorsque ces équipements ou ces opérations sont principalement destinés aux habitants d'une
+commune.
+
+Des décrets, lorsque la communauté urbaine est créée par décret, des décrets en conseil d'état dans les autres cas fixent
+pour chaque agglomération les dates d'exercice des différentes compétences transférées, pour tout ou partie de celles-ci.
+
+Ces décrets peuvent, pour certaines des communes composant la communauté, décider qu'il est sursis temporairement au
+transfert d'une ou de plusieurs compétences énumérées au présent article.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°66-1069 du 31 décembre 1966 - art. 10 (Ab)
+	  - Loi n°66-1069 du 31 décembre 1966 - art. 4 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°77-90 1977-01-27
+
+	**Cité par**:
+
+	  - Loi n°82-1169 du 31 décembre 1982 - art. 60 (V)
+	  - CODE DES COMMUNES. - art. L165-7-1 (Ab)
+	  - CODE DES COMMUNES. - art. L172-7 (Ab)
+	  - CODE DES COMMUNES. - art. R*165-1 (Ab)
+	  - CODE DES COMMUNES. - art. R*165-6 (Ab)
+	  - CODE DES COMMUNES. - art. R*255-13 (Ab)
+	  - CODE DES COMMUNES. - art. R*255-9 (Ab)
+
+	**Modifié par**:
+
+	  - Loi n°85-729 du 18 juillet 1985 - art. 28 () JORF 19 juillet 1985
+
+	**Cite**:
+
+	  - CODE DES COMMUNES. - art. L165-4 (M)
+	  - Code de l'urbanisme - art. L332-9 (M)
+
+
 ###### Article L165-8
 
 Conformément aux dispositions de l'article L. 122-2 du code de l'urbanisme et sous réserve des dispositions de l'article L.
@@ -9843,6 +10000,50 @@ les articles L. 163-2 [*contenu de l'arrêté autorisant la création d'un syndi
 
 	  - CODE DES COMMUNES. - art. L163-2 (Ab)
 	  - Code des communes L163-2, L163-4 à L163-14
+
+
+###### Article L172-5
+
+Le comité du syndicat communautaire ou le conseil de la communauté urbaine dans le ressort duquel est située la zone
+d'agglomération nouvelle définie à l'article L. 171-7 ci-dessus est appelé à délibérer sur les modalités de sa participation
+à l'aménagement de l'agglomération nouvelle, notamment sur la passation d'une convention avec une personne publique ou privée
+y ayant vocation, en application de l'article L. 300-4 du code de l'urbanisme en vue de la réalisation des travaux et
+ouvrages incombant au syndicat ou à la communauté urbaine sur la zone susvisée et nécessaires à l'aménagement de
+l'agglomération nouvelle.
+
+La convention ci-dessus mentionnée est soumise à approbation si elle n'est pas conforme à une convention type établie dans
+les conditions fixées par décret en conseil d'Etat.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°70-610 du 10 juillet 1970 - art. 10 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°77-90 1977-01-27
+
+	**Modifié par**:
+
+	  - Loi n°85-729 du 18 juillet 1985 - art. 28 ()
+
+	**Abrogé par**:
+
+	  - Loi n°96-142 du 21 février 1996 - art. 12 (V)
+
+	**Cite**:
+
+	  - CODE DES COMMUNES. - art. L171-7 (M)
+	  - Code de l'urbanisme - art. L300-4 (M)
+
+	**Cité par**:
+
+	  - CODE DES COMMUNES. - art. L171-8 (Ab)
+	  - CODE DES COMMUNES. - art. L173-5 (Ab)
+	  - CODE DES COMMUNES. - art. L255-3 (Ab)
+	  - CODE DES COMMUNES. - art. R*172-1 (Ab)
+	  - CODE DES COMMUNES. - art. R*172-3 (Ab)
 
 
 ###### Article L172-6
@@ -13141,83 +13342,6 @@ mandat de conseiller municipal.
 
 ##### Attributions des maires et adjoints.
 
-###### Article L122-20
-
-Le maire peut, en outre, par délégation du conseil municipal, être chargé, en tout ou en partie, et pour la durée de son
-mandat :
-
-1° D'arrêter et modifier l'affectation des propriétés communales utilisées par les services publics municipaux ;
-
-2° De fixer, dans les limites déterminées par le conseil municipal, les tarifs des droits de voirie, de stationnement, de
-dépôt temporaire sur les voies et autres lieux publics, et, d'une manière générale, des droits prévus au profit de la commune
-qui n'ont pas un caractère fiscal ;
-
-3° De procéder, dans les limites fixées par le conseil municipal, à la réalisation des emprunts destinés au financement des
-investissements prévus par le budget et de passer à cet effet les actes nécessaires ;
-
-4° De prendre toute décision concernant la préparation, la passation, l'exécution et le règlement des marchés de travaux, de
-fournitures et de services qui peuvent être réglementairement passés de gré à gré en raison de leur montant, lorsque les
-crédits sont prévus au budget ;
-
-5° De décider de la conclusion et de la révision du louage de choses pour une durée n'excédant pas douze ans ;
-
-6° De passer les contrats d'assurance ;
-
-7° De créer les régies comptables nécessaires au fonctionnement des services municipaux ;
-
-8° De prononcer la délivrance et la reprise des concessions dans les cimetières ;
-
-9° D'accepter les dons et legs qui ne sont grevés ni de conditions ni de charges ;
-
-10° De décider l'aliénation de gré à gré de biens mobiliers jusqu'à 30.000 F ;
-
-11° De fixer les rémunérations et de régler les frais et honoraires des avocats, notaires, avoués, huissiers de justice et
-experts ;
-
-12° De fixer, dans les limites de l'estimation des services fiscaux (domaines), le montant des offres de la commune à
-notifier aux expropriés et de répondre à leurs demandes ;
-
-13° De décider de la création de classes dans les établissements d'enseignement ;
-
-14° De fixer les reprises d'alignement en application d'un document d'urbanisme.
-
-15° D'exercer au nom de la commune le droit de préemption à l'intérieur des zones d'aménagement différé ou des zones
-d'intervention foncière ou le droit de substitution dans les zones de préemption des périmètres sensibles.
-
-16° D'intenter au nom de la commune les actions en justice ou de défendre  la commune dans les actions intentées contre elle,
-dans les cas définis par le conseil municipal.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Code de l'administration communale 75 bis
-
-	**Codifié par**:
-
-	  - Décret n°77-90 1977-01-27
-
-	**Cité par**:
-
-	  - Loi n°82-213 du 2 mars 1982 - art. 2 (Ab)
-	  - Loi n°82-1169 du 31 décembre 1982 - art. 17 bis (Ab)
-	  - Loi n°85-729 du 18 juillet 1985 - art. 9 (V)
-	  - Loi n°99-210 du 19 mars 1999 - art. 5 (V)
-	  - Loi n°99-210 du 19 mars 1999 - art. 6 (V)
-	  - CODE DES COMMUNES. - art. L122-21 (M)
-	  - CODE DES COMMUNES. - art. L181-1 (M)
-	  - CODE DES COMMUNES. - art. L331-1 (Ab)
-	  - CODE DES COMMUNES. - art. R122-7 (Ab)
-
-	**Modifié par**:
-
-	  - Loi n°85-97 du 25 janvier 1985 - art. 23 () JORF 26 Janvier 1985
-
-	**Nouveaux textes**:
-
-	  - Code général des collectivités territoriales - art. L2122-22 (V)
-
-
 ###### Article L122-28
 
 Les arrêtés pris par le maire sont immédiatement adressés à l'autorité supérieure [*délai*].
@@ -14207,85 +14331,6 @@ et L. 122-8 [*élection du maire et des adjoints, incompatibilités de fonctions
 
 #### COMMUNAUTES URBAINES
 
-##### Compétences de la communauté urbaine
-
-##### Etendue des compétences .
-
-###### Article L165-7
-
-Sont transférées à la communauté urbaine les compétences attribuées aux communes dans les domaines suivants :
-
-1° Chartes intercommunales de développement et d'aménagement, schémas directeurs, plans d'occupation des sols ou documents
-d'urbanisme en tenant lieu, programmes locaux de l'habitat, constitution de réserves foncières intéressant la communauté, les
-conseils municipaux devant être saisis pour avis ;
-
-2° Création et équipement des zones d'habitation, des zones de rénovation urbaine, des zones de réhabilitation, des zones
-industrielles, des zones artisanales et des zones portuaires ;
-
-3° Construction, aménagement et entretien des locaux scolaires dans les zones mentionnées au 2° et réalisés par la
-communauté ;
-
-à l'expiration d'un délai de dix ans à dater de leur mise en service, la propriété et l'entretien de ces locaux sont
-transférés, sur sa demande, à la commune sur le territoire de laquelle ils sont situés ; en ce cas, les conditions de prise
-en charge des annuités d'emprunt afférentes à ces locaux sont déterminées par délibérations concordantes du conseil de
-communauté et du conseil municipal intéressé ;
-
-4° Services de secours et de lutte contre l'incendie ;
-
-5° Transports urbains de voyageurs ;
-
-6° Lycées et collèges ;
-
-7° Eau, assainissement, à l'exclusion de l'hydraulique agricole, ordures ménagères ;
-
-8° Création de cimetières et extension des cimetières ainsi créés, fours crématoires ;
-
-9° Abattoirs, abattoirs marchés, marchés d'intérêt national ;
-
-10° Voirie et signalisation ;
-
-11° Parcs de stationnement.
-
-Lors de la création de la communauté, les communes peuvent décider, dans les conditions de majorité prévues à l'article L.
-165-4, compétences de la communauté tout ou partie de celles relatives aux équipements ou opérations mentionnés aux 2°, 8°,
-10° et 11° ci-dessus lorsque ces équipements ou ces opérations sont principalement destinés aux habitants d'une commune.
-
-Des décrets, lorsque la communauté urbaine est créée par décret, des décrets en conseil d'état dans les autres cas fixent
-pour chaque agglomération les dates d'exercice des différentes compétences transférées, pour tout ou partie de celles-ci.
-
-Ces décrets peuvent, pour certaines des communes composant la communauté, décider qu'il est sursis temporairement au
-transfert d'une ou de plusieurs compétences énumérées au présent article.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°66-1069 du 31 décembre 1966 - art. 10 (Ab)
-	  - Loi n°66-1069 du 31 décembre 1966 - art. 4 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°77-90 1977-01-27
-
-	**Modifié par**:
-
-	  - Loi n°82-1169 1982-12-31 art. 57 JORF 1er janvier 1983 en vigueur le 13 mars 1983
-
-	**Cité par**:
-
-	  - Loi n°82-1169 du 31 décembre 1982 - art. 60 (V)
-	  - CODE DES COMMUNES. - art. L165-7-1 (Ab)
-	  - CODE DES COMMUNES. - art. L172-7 (Ab)
-	  - CODE DES COMMUNES. - art. R*165-1 (Ab)
-	  - CODE DES COMMUNES. - art. R*165-6 (Ab)
-	  - CODE DES COMMUNES. - art. R*255-13 (Ab)
-	  - CODE DES COMMUNES. - art. R*255-9 (Ab)
-
-	**Cite**:
-
-	  - CODE DES COMMUNES. - art. L165-4 (M)
-
-
 ##### Le conseil de communauté
 
 ##### Dispositions générales
@@ -14406,51 +14451,6 @@ conforme du conseil d'Etat [*condition de forme*] .
 	**Nouveaux textes**:
 
 	  - Code général des collectivités territoriales - art. L5721-7 (V)
-
-
-### Agglomérations nouvelles
-
-#### Dispositions applicables au syndicat communautaire d'aménagement
-
-##### Organisation, fonctionnement et compétences du syndicat communautaire d'aménagement .
-
-###### Article L172-5
-
-Le comité du syndicat communautaire ou le conseil de la communauté urbaine dans le ressort duquel [*compétence*] est située
-la zone d'agglomération nouvelle définie à l'article L. 171-7 ci-dessus est appelé à délibérer sur les modalités de sa
-participation à l'aménagement de l'agglomération nouvelle, notamment sur la passation d'une convention avec l'un des
-organismes mentionnés à l'article L. 321-1 du code de l'urbanisme, en vue de la réalisation des travaux et ouvrages incombant
-au syndicat ou à la communauté urbaine sur la zone susvisée et nécessaires à l'aménagement de l'agglomération nouvelle. 
-
-La convention ci-dessus mentionnée est soumise à approbation [*condition de forme*] si elle n'est pas conforme à une
-convention type établie dans les conditions fixées par décret en conseil d'Etat.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°70-610 du 10 juillet 1970 - art. 10 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°77-90 1977-01-27
-
-	**Créé par**:
-
-	  - Décret n°77-90 1977-01-27 JORF et JONC 3 février 1977 date d'entrée en vigueur élection des maires
-
-	**Cite**:
-
-	  - CODE DES COMMUNES. - art. L171-7 (M)
-	  - Code de l'urbanisme - art. L321-1 (M)
-
-	**Cité par**:
-
-	  - CODE DES COMMUNES. - art. L171-8 (Ab)
-	  - CODE DES COMMUNES. - art. L173-5 (Ab)
-	  - CODE DES COMMUNES. - art. L255-3 (Ab)
-	  - CODE DES COMMUNES. - art. R*172-1 (Ab)
-	  - CODE DES COMMUNES. - art. R*172-3 (Ab)
 
 
 ### Dispositions particulières
@@ -15272,6 +15272,56 @@ Les recettes de la section d'investissement    comprennent les recettes fiscales
 	**Cite**:
 
 	  - Code des communes L231-8 et L231-9
+
+
+###### Article L231-8
+
+Les recettes fiscales de la section d'investissement comprennent :
+
+1° Le produit de la taxe locale d'équipement, dont l'assiette et le recouvrement ont lieu dans les formes prévues au code
+général des impôts ;
+
+2° Le montant des contributions aux dépenses d'équipements publics mentionnées à l'article L. 332-6-1 du code de
+l'urbanisme ;
+
+3° Le montant de la participation instituée dans les secteurs d'aménagement en vertu des dispositions de l'article L. 332-9
+du code de l'urbanisme ;
+
+4° Le montant des participations et remboursements ou redevances pour raccordement à l'égout prévus aux articles L. 34, L.
+35, L. 35-3, L. 35-4, L. 35-5 et L. 35-8 du code de la santé publique.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - SPEC_APPLI: *Dispositions des 2 et 3 non applicables aux communes du département de Saint-Pierre-et-Miquelon*
+	  - SPEC_APPLI: Code des communes L262-10 :
+
+	**Codifié par**:
+
+	  - Décret n°77-90 1977-01-27
+
+	**Modifié par**:
+
+	  - Loi n°85-729 du 18 juillet 1985 - art. 28 () JORF 19 juillet 1985
+
+	**Cité par**:
+
+	  - Ordonnance n°91-755 du 22 juillet 1991 - art. 2 (VT)
+	  - Loi n°92-3 du 3 janvier 1992 - art. 46 (M)
+
+	**Nouveaux textes**:
+
+	  - Code général des collectivités territoriales - art. L2331-5 (V)
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L34 (M)
+	  - Code de la santé publique - art. L35 (Ab)
+	  - Code de la santé publique - art. L35-8 (Ab)
+	  - Code de la santé publique L34, L35, L35-3 à L35-5, L35-8
+	  - Code de l'urbanisme - art. L332-6-1 (M)
+	  - Code de l'urbanisme L332-1 et L332-7, L332-6-1, L332-9 CGI
 
 
 ###### Article L231-9
@@ -19561,6 +19611,88 @@ ci-après.
 	  - Code des communes L211-1 à L242-7
 
 
+###### Article L253-2
+
+Les recettes du budget de la communauté urbaine comprennent :
+
+1. Le produit des impôts directs mentionnés aux A-1. de l'article L. 231-5 (1) ;
+
+2. Le produit de la taxe d'enlèvement des ordures ménagères, de la redevance d'enlèvement des ordures ménagères sur les
+terrains de camping ou de la redevance pour enlèvement des ordures, déchets et résidus (1) ;
+
+3. Le produit de la redevance d'assainissement prévu à l'article 12 de la loi n° 64-1245 du 12 décembre 1964 ;
+
+4. Le produit de la redevance de raccordement des effluents privés aux réseaux d'assainissement ou aux installations
+d'épuration, prévu à l'article 18 de la loi n° 64-1245 du 12 décembre 1964 ;
+
+5. Les attributions imputées sur la dotation globale de fonctionnement ;
+
+6. Le revenu de ses biens meubles ou immeubles ;
+
+7. Le produit des taxes constituant le prix d'un service rendu par la communauté ;
+
+8. Le produit des redevances et droits divers correspondant aux services assurés en régie, concédés ou affermés par la
+communauté urbaine, de sa participation dans les entreprises et des sommes qu'elle reçoit en échange de services rendus ;
+
+9. Le produit des participations des constructeurs fondé sur l'article 26 de la loi n° 57-908 du 7 août 1957 pour les
+compétences transférées ;
+
+10. Le montant des participations et remboursements ou redevances pour raccordement à l'égout prévus aux articles L. 34, L.
+35, L. 35-3, L. 35-4, L. 35-5 et L. 35-8 du code de la santé publique ;
+
+11. Le produit de la taxe locale d'équipement ou de toute autre taxe de remplacement pour les compétences transférées ;
+
+12. Le produit des surtaxes locales temporaires pour les compétences transférées ;
+
+13. Les subventions de l'Etat, des collectivités locales, de leurs groupements et des syndicats mixtes ;
+
+14. Le produit des dons et legs ;
+
+15. Le produit des emprunts.
+
+16. Le produit des participations aux dépenses d'équipement publics à la charge des bénéficiaires d'autorisations de
+construire en vertu des dispositions de l'article L. 332-9  du code de l'urbanisme.
+
+(1) Voir également l'article 1609 bis du code général des impôts.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 1609 bis
+	  - Loi n°57-908 1957-08-07 art. 26
+	  - CODE DES COMMUNES. - art. L231-5 (M)
+	  - Code de la santé publique - art. L34 (M)
+	  - Code de la santé publique - art. L35 (Ab)
+	  - Code de la santé publique - art. L35-3 (Ab)
+	  - Code de la santé publique - art. L35-4 (Ab)
+	  - Code de la santé publique - art. L35-5 (M)
+	  - Code de la santé publique - art. L35-8 (Ab)
+	  - Code de l'urbanisme - art. L332-9 (M)
+	  - Loi n°64-1245 1964-12-12 art. 12, art. 18
+
+	**Codifié par**:
+
+	  - Décret n°77-90 1977-01-27
+
+	**Liens**:
+
+	  - SPEC_APPLI: Code des communes L262-1 :
+	  - SPEC_APPLI: DISPOSITIONS NON APPLICABLES AUX COMMUNES DES DEPARTEMENTS DE LA GUADELOUPE, DE LA GUYANE, DE LA MARTINIQUE, DE LA REUNION ET DE SAINT-PIERRE-ET-MIQUELON
+
+	**Nouveaux textes**:
+
+	  - Code général des collectivités territoriales - art. L5215-32 (V)
+
+	**Anciens textes**:
+
+	  - Loi n°66-1069 du 31 décembre 1966 - art. 29 (Ab)
+
+	**Modifié par**:
+
+	  - Loi n°85-729 du 18 juillet 1985 - art. 28 () JORF 19 juillet 1985
+
+
 ###### Article L253-3
 
 Sont applicables à la communauté urbaine les dispositions de l'article L. 251-5              .
@@ -21896,59 +22028,6 @@ foires et marchés d'après les tarifs dûment établis ;
 	  - Code général des collectivités territoriales - art. L2331-3 (V)
 
 
-##### Recettes de la section d'investissement .
-
-###### Article L231-8
-
-Les recettes fiscales de la section d'investissement [*définition*] comprennent :
-
-1° Le produit de la taxe locale d'équipement, dont l'assiette et le recouvrement ont lieu dans les formes prévues au code
-général des impôts ; 
-
-2° Le montant de la participation des constructeurs en cas de dépassement du coefficient d'occupation du sol, prévue à
-l'article L. 332-1 du code de l'urbanisme ; 
-
-3° Le montant de la participation des lotisseurs, prévue à l'article L. 332-7 du code de l'urbanisme ; 
-
-4° Le montant des participations et remboursements ou redevances pour raccordement à l'égout prévus aux articles L. 34, L.
-35,
-
-L. 35-3, L. 35-4, L. 35-5 et L. 35-8 du code de la santé publique.
-
-**Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - SPEC_APPLI: *Dispositions des 2 et 3 non applicables aux communes du département de Saint-Pierre-et-Miquelon*
-	  - SPEC_APPLI: Code des communes L262-10 :
-
-	**Cite**:
-
-	  - CGI
-	  - Code de la santé publique - art. L34 (M)
-	  - Code de la santé publique - art. L35 (Ab)
-	  - Code de la santé publique - art. L35-8 (Ab)
-	  - Code de la santé publique L34, L35, L35-3 à L35-5, L35-8
-	  - Code de l'urbanisme L332-1 et L332-7
-
-	**Codifié par**:
-
-	  - Décret n°77-90 1977-01-27
-
-	**Créé par**:
-
-	  - Décret n°77-90 1977-01-27 JORF et JONC 3 février 1977 date d'entrée en vigueur élection des maires
-
-	**Cité par**:
-
-	  - Ordonnance n°91-755 du 22 juillet 1991 - art. 2 (VT)
-	  - Loi n°92-3 du 3 janvier 1992 - art. 46 (M)
-
-	**Nouveaux textes**:
-
-	  - Code général des collectivités territoriales - art. L2331-5 (V)
-
-
 #### Taxes, redevances ou versements autres que ceux prévus par le code général des impôts
 
 ##### Taxe sur certaines fournitures d'électricité
@@ -24040,134 +24119,6 @@ particuliers institués par l'article L. 234-12. Leur montant est arrêté par l
 	  - CODE DES COMMUNES. - art. L234-12 (M)
 
 
-#### Avances, emprunts et garanties d'emprunt
-
-##### Garanties d'emprunts .
-
-###### Article L236-15
-
-Conformément aux dispositions des premier et deuxième alinéas de l'article L. 334-2 du code de l'urbanisme, les communes sont
-habilitées à donner leur garantie aux emprunts contractés par les associations syndicales de propriétaires et autres
-organismes prévus à l'article L. 312-1 de ce code en vue de participer à des travaux de rénovation urbaine ; les communes,
-les syndicats de communes et les organismes prévus aux articles L. 321-1 et R. 321-1 [*services publics communaux,
-intercommunaux et départementaux*] sont habilités à participer à des sociétés constituées en vue d'une meilleure utilisation
-des îlots urbains.
-
-**Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - SPEC_APPLI: *Dispositions non applicables aux communes du département de Saint-Pierre-et-Miquelon*
-	  - TXT_ASSOCIE: CODE DES COMMUNES. - art. R236-49 (Ab)
-	  - SPEC_APPLI: Code des communes L262-10 :
-
-	**Codifié par**:
-
-	  - Décret n°77-90 1977-01-27
-
-	**Créé par**:
-
-	  - Décret n°77-90 1977-01-27 JORF et JONC 3 février 1977 date d'entrée en vigueur élection des maires
-
-	**Abrogé par**:
-
-	  - Loi n°85-729 du 18 juillet 1985 - art. 28 () JORF 19 JUILLET 1985
-
-	**Cité par**:
-
-	  - CODE DES COMMUNES. - art. L262-10 (Ab)
-	  - CODE DES COMMUNES. - art. R236-49 (Ab)
-
-	**Cite**:
-
-	  - CODE DES COMMUNES. - art. L321-1 (M)
-	  - Code des communes R321-1
-	  - Code de l'urbanisme - art. L312-1 (Ab)
-	  - Code de l'urbanisme - art. L334-2 (Ab)
-
-
-### DISPOSITIONS APPLICABLES A CERTAINS ETABLISSEMENTS COMMUNAUX
-
-#### Dispositions applicables à la communauté urbaine .
-
-###### Article L253-2
-
-Les recettes du budget de la communauté urbaine comprennent :
-
-1. Le produit des impôts directs mentionnés aux A-1. de l'article L. 231-5 (1) ;
-
-2. Le produit de la taxe d'enlèvement des ordures ménagères, de la redevance d'enlèvement des ordures ménagères sur les
-terrains de camping ou de la redevance pour enlèvement des ordures, déchets et résidus (1) ;
-
-3. Le produit de la redevance d'assainissement prévu à l'article 12 de la loi n° 64-1245 du 12 décembre 1964 ;
-
-4. Le produit de la redevance de raccordement des effluents privés aux réseaux d'assainissement ou aux installations
-d'épuration, prévu à l'article 18 de la loi n° 64-1245 du 12 décembre 1964 ;
-
-5. Les attributions imputées sur la dotation globale de fonctionnement ;
-
-6. Le revenu de ses biens meubles ou immeubles ;
-
-7. Le produit des taxes constituant le prix d'un service rendu par la communauté ;
-
-8. Le produit des redevances et droits divers correspondant aux services assurés en régie, concédés ou affermés par la
-communauté urbaine, de sa participation dans les entreprises et des sommes qu'elle reçoit en échange de services rendus ;
-
-9. Le produit des participations des constructeurs fondé sur l'article 26 de la loi n° 57-908 du 7 août 1957 pour les
-compétences transférées ;
-
-10. Le montant des participations et remboursements ou redevances pour raccordement à l'égout prévus aux articles L. 34, L.
-35, L. 35-3, L. 35-4, L. 35-5 et L. 35-8 du code de la santé publique ;
-
-11. Le produit de la taxe locale d'équipement ou de toute autre taxe de remplacement pour les compétences transférées ;
-
-12. Le produit des surtaxes locales temporaires pour les compétences transférées ;
-
-13. Les subventions de l'Etat, des collectivités locales, de leurs groupements et des syndicats mixtes ;
-
-14. Le produit des dons et legs ;
-
-15. Le produit des emprunts.
-
-(1) Voir également l'article 1609 bis du code général des impôts.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 1609 bis
-	  - Loi n°57-908 1957-08-07 art. 26
-	  - CODE DES COMMUNES. - art. L231-5 (M)
-	  - Code de la santé publique - art. L34 (M)
-	  - Code de la santé publique - art. L35 (Ab)
-	  - Code de la santé publique - art. L35-3 (Ab)
-	  - Code de la santé publique - art. L35-4 (Ab)
-	  - Code de la santé publique - art. L35-5 (M)
-	  - Code de la santé publique - art. L35-8 (Ab)
-	  - Loi n°64-1245 1964-12-12 art. 12, art. 18
-
-	**Liens**:
-
-	  - SPEC_APPLI: DISPOSITIONS NON APPLICABLES AUX COMMUNES DES DEPARTEMENTS DE LA GUADELOUPE, DE LA GUYANE, DE LA MARTINIQUE, DE LA REUNION ET DE SAINT-PIERRE-ET-MIQUELON
-	  - SPEC_APPLI: Code des communes L262-1 :
-
-	**Anciens textes**:
-
-	  - Loi n°66-1069 du 31 décembre 1966 - art. 29 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°77-90 1977-01-27
-
-	**Modifié par**:
-
-	  - Loi n°82-213 du 2 mars 1982 - art. 21 (V) JORF 3 MARS 1982
-
-	**Nouveaux textes**:
-
-	  - Code général des collectivités territoriales - art. L5215-32 (V)
-
-
 ### Dispositions particulières
 
 #### Dispositions applicables aux départements d'Outre-mer
@@ -24578,6 +24529,36 @@ publique de ces acquisitions sans qu'il soit besoin de procéder aux formalités
 	**Abrogé par**:
 
 	  - Loi n°96-142 du 21 février 1996 - art. 12 (V)
+
+
+###### Article L311-5
+
+Conformément à l'article L. 221-1 du code de l'urbanisme les communes ou leurs groupements y ayant vocation sont habilités à
+acquérir des immeubles, au besoin par voie d'expropriation, pour constituer des réserves foncières en vue de permettre la
+réalisation d'une opération d'aménagement répondant aux objets défini à l'article L. 300-1 du même code.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°77-240 1977-03-07
+
+	**Modifié par**:
+
+	  - Loi n°85-729 du 18 juillet 1985 - art. 28 ()
+
+	**Abrogé par**:
+
+	  - Loi n°96-142 du 21 février 1996 - art. 12 (V)
+
+	**Cité par**:
+
+	  - CODE DES COMMUNES. - art. L311-10 (Ab)
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. L221-1 (M)
+	  - Code de l'urbanisme - art. L300-1 (M)
 
 
 ###### Article L311-6
@@ -32054,6 +32035,40 @@ Un règlement d'administration publique détermine les conditions d'application 
 	  - Loi n°96-142 du 21 février 1996 - art. 12 (V)
 
 
+###### Article L381-9
+
+Comme il est dit à l'article L. 300-4 du code de l'urbanisme les communes ou leurs établissements publics peuvent confier
+l'étude et la réalisation des opérations d'aménagement à toute personne publique ou privée y ayant vocation. Lorsque la
+convention est passée avec un établissement public, une société d'économie mixte locale définie par la loi n° 83-597 du 7
+juillet 1983 relative aux sociétés d'économie mixte locales, ou une société d'économie mixte dont plus de la moitié du
+capital est détenue par une ou plusieurs des personne publiques suivantes : Etat , régions, départements, communes ou leurs
+groupements, elle peut prendre la forme d'une concession d'aménagement. Dans ce cas, l'organisme concessionnaire peut se voir
+confier les acquisitions par voie d'expropriation.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°77-240 1977-03-07
+
+	**Cité par**:
+
+	  - Décret n°81-242 du 11 mars 1981 - art. Annexe art. 1 (V)
+
+	**Cite**:
+
+	  - Loi n°83-597 1983-07-07
+	  - Code de l'urbanisme - art. L300-4 (M)
+
+	**Modifié par**:
+
+	  - Loi n°85-729 du 18 juillet 1985 - art. 28 () JORF 19 juillet 1985
+
+	**Abrogé par**:
+
+	  - Loi n°96-142 du 21 février 1996 - art. 12 (V)
+
+
 ### TITRE 9 : Dispositions particulières
 
 #### CHAPITRE 1 : Dispositions applicables aux communes des départements de la Moselle, du Bas-Rhin, et du Haut-Rhin
@@ -33377,41 +33392,6 @@ arrêté du maire dans les limites fixées par décret.
 
 #### Biens communaux
 
-##### Acquisition, location et affectation de biens .
-
-###### Article L311-5
-
-Conformément à l'article L. 221-1 du code de l'urbanisme et sous réserve des dispositions prévues à cet article [*en cas de
-schéma directeur d'aménagement et d'urbanisme*], les communes, les communautés urbaines, les districts et les syndicats de
-communes ayant compétence en matière d'urbanisme sont habilités à acquérir des immeubles, au besoin par voie d'expropriation,
-pour constituer des réserves foncières en prévision de l'extension d'agglomérations, de l'aménagement des espaces naturels
-entourant ces agglomérations et de la création de villes nouvelles ou de stations de tourisme ainsi qu'en vue de la
-rénovation urbaine et de l'aménagement de villages.
-
-**Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - SPEC_APPLI: *Dispositions non applicables aux communes du département de Saint-Pierre-et-Miquelon*
-	  - SPEC_APPLI: Code des communes L392-4 :
-
-	**Codifié par**:
-
-	  - Décret n°77-240 1977-03-07
-
-	**Créé par**:
-
-	  - Décret n°77-240 1977-03-07 JORF et JONC 18 Mars 1977
-
-	**Cité par**:
-
-	  - CODE DES COMMUNES. - art. L311-10 (Ab)
-
-	**Cite**:
-
-	  - Code de l'urbanisme - art. L221-1 (M)
-
-
 ##### Aliénation de biens.
 
 ###### Article L*311-8
@@ -33434,38 +33414,6 @@ concurrence, dans les conditions et sous réserve des dérogations qui sont fix�
 	**Créé par**:
 
 	  - Décret n°77-240 1977-03-07 JORF et JONC 18 mars 1977
-
-
-###### Article L311-11
-
-Conformément à l'article L. 222-1 du code de l'urbanisme, à l'intérieur de périmètres délimités par décisions administratives
-après avis des collectivités locales intéressées, les immeubles appartenant aux communes, aux établissements publics groupant
-des communes et ayant compétence en matière d'urbanisme, ainsi que ceux qui sont acquis pour le compte de ces collectivités
-publiques, ne peuvent faire l'objet d'aucune cession en pleine propriété en dehors des cessions que ces collectivités
-publiques peuvent se consentir entre elles.
-
-**Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - SPEC_APPLI: *Dispositions non applicables aux communes du département de Saint-Pierre-et-Miquelon*
-	  - SPEC_APPLI: Code des communes L392-4 :
-
-	**Codifié par**:
-
-	  - Décret n°77-240 1977-03-07
-
-	**Créé par**:
-
-	  - Décret n°77-240 1977-03-07 JORF et JONC 18 mars 1977
-
-	**Abrogé par**:
-
-	  - Loi n°85-729 du 18 juillet 1985 - art. 28 ()
-
-	**Cite**:
-
-	  - Code de l'urbanisme - art. L222-1 (Ab)
 
 
 ### Services communaux
@@ -33546,41 +33494,6 @@ que provisoirement et pour une durée qui est déterminée par le décret autori
 
 	  - Code de l'urbanisme - art. IV (M)
 	  - Code de l'urbanisme - art. R*126-1, Annexe (V)
-
-
-### PARTICIPATION A DES  ENTREPRISES PRIVEES .
-
-###### Article L381-9
-
-Conformément à l'article L. 321-1 du code de l'urbanisme, l'aménagement de zones d'habitation ou de zones industrielles
-nécessitant des opérations foncières et des travaux d'équipement ou de construction intéressant plusieurs collectivités,
-établissements publics ou services publics et mettant en oeuvre diverses sources de financement peut être confié à une
-société d'économie mixte.
-
-**Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - SPEC_APPLI: *DISPOSITIONS NON APPLICABLES AUX COMMUNES DU DEPARTEMENT DE SAINT-PIERRE-ET-MIQUELON*
-	  - TXT_ASSOCIE: Arrêté 1958-09-26
-	  - TXT_ASSOCIE: Arrêté 1965-08-10
-	  - SPEC_APPLI: Code des communes L392-4 :
-
-	**Codifié par**:
-
-	  - Décret n°77-240 1977-03-07
-
-	**Créé par**:
-
-	  - Décret n°77-240 1977-03-07 JORF et JONC 18 mars 1977
-
-	**Cité par**:
-
-	  - Décret n°81-242 du 11 mars 1981 - art. Annexe art. 1 (V)
-
-	**Cite**:
-
-	  - Code de l'urbanisme - art. L321-1 (M)
 
 
 ### Dispositions particulières
