@@ -1,5 +1,5 @@
 # Code des communes  
-Version Consolidée au 1993-01-09
+Version Consolidée au 1993-01-30
 
 # Partie législative
 
@@ -4826,16 +4826,23 @@ sections des routes à grande circulation.
 Le maire peut, par arrêté motivé, eu égard aux nécessités de la circulation :
 
 1° Interdire à certaines heures l'accès de certaines voies de l'agglomération ou de certaines portions de voie ou réserver
-cet accès, à certaines heures, à diverses catégories d'usagers ou de véhicules ; 
+cet accès, à certaines heures, à diverses catégories d'usagers ou de véhicules ;
 
 2° Réglementer l'arrêt et le stationnement des véhicules ou de certaines catégories d'entre eux, ainsi que la desserte des
-immeubles riverains. 
+immeubles riverains.
 
 Le maire peut, par arrêté motivé, instituer, à titre permanent ou provisoire, pour les véhicules affectés à un service public
-et pour les besoins exclusifs de ce service, des stationnements réservés sur les voies publiques de l'agglomération. 
+et pour les besoins exclusifs de ce service, des stationnements réservés sur les voies publiques de l'agglomération.
 
 Le maire peut, par arrêté motivé, réserver des emplacements sur ces mêmes voies pour faciliter la circulation et le
 stationnement des transports publics de voyageurs et des taxis.
+
+Le maire peut, par arrêté motivé, réserver sur la voie publique ou dans tout autre lieu de stationnement ouvert au public,
+des emplacements de stationnement aménagés aux véhicules arborant l'un ou l'autre des macarons Grand Invalide civil (G.I.C.)
+ou Grand Invalide de guerre (G.I.G.).
+
+Le stationnement d'un véhicule n'arborant pas un macaron G.I.C. ou G.I.G. sur ces emplacements réservés est considéré comme
+gênant et constitue une infraction au sens de l'article R. 37-1 du code de la route.
 
 **Liens relatifs à cet article**
 
@@ -4850,13 +4857,22 @@ stationnement des transports publics de voyageurs et des taxis.
 
 	  - Décret n°77-90 1977-01-27
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°77-90 1977-01-27 JORF et JONC 3 février 1977 date d'entrée en vigueur élection des maires
+	  - Loi n°93-121 du 27 janvier 1993 - art. 85 () JORF 30 janvier 1993
 
-	**Anciens textes**:
+	**Abrogé par**:
 
-	  - Code de l'administration communale 98, remplacé
+	  - Loi n°96-142 du 21 février 1996 - art. 12 (V) JORF 24 février 1996
+
+	**Nouveaux textes**:
+
+	  - Code général des collectivités territoriales - art. L2213-2 (M)
+	  - Code général des collectivités territoriales - art. L2213-3 (M)
+
+	**Cite**:
+
+	  - Code de la route R37-1
 
 
 ###### Article L131-4-1
@@ -11260,9 +11276,8 @@ appelés à siéger au conseil avec voix délibérative en cas d'empêchement du
 ###### Article L167-3
 
 La communauté de communes a pour objet d'associer des communes au sein d'un espace de solidarité, en vue de l'élaboration
-d'un projet commun de développement et d'aménagement de l'espace en milieu rural. Elle exerce de plein droit aux lieu et
-place des communes membres, pour la conduite d'actions d'intérêt communautaire, des compétences relevant de chacun des deux
-groupes suivants :
+d'un projet commun de développement et d'aménagement de l'espace. Elle exerce de plein droit aux lieu et place des communes
+membres, pour la conduite d'actions d'intérêt communautaire, des compétences relevant de chacun des deux groupes suivants :
 
 1° Aménagement de l'espace ;
 
@@ -11299,18 +11314,30 @@ financières et patrimoniales de ces transferts ainsi que l'affectation des pers
 
 	  - Décret n°77-90 1977-01-27
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°92-125 du 6 février 1992 - art. 71 ()
+	  - Loi n°93-122 du 29 janvier 1993 - art. 85 () JORF 30 janvier 1993
 
 	**Cité par**:
 
 	  - Loi n°94-679 du 8 août 1994 - art. 71 (V)
 	  - CODE GENERAL DES IMPOTS, CGI. - art. 257 (M)
 
+	**Abrogé par**:
+
+	  - Loi n°96-142 du 21 février 1996 - art. 12 (V) JORF 24 février 1996
+
 	**Cite**:
 
 	  - CODE DES COMMUNES. - art. L167-1 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code général des collectivités territoriales - art. L5214-1 (M)
+	  - Code général des collectivités territoriales - art. L5214-16 (M)
+	  - Code général des collectivités territoriales - art. L5214-18 (Ab)
+	  - Code général des collectivités territoriales - art. L5214-19 (Ab)
+	  - Code général des collectivités territoriales - art. L5812-1 (V)
 
 
 ###### Article L167-3-1
@@ -26605,6 +26632,51 @@ médico-sociales.
 
 ##### SECTION 2 : Aliénation de biens.
 
+###### Article L*311-8
+
+Lorsque les collectivités locales, leurs groupements et leurs établissements publics, leurs concessionnaires ou sociétés
+d'économie mixte locales envisagent de procéder à la vente à des personnes privées de terrains constructibles ou de droits de
+construire, elles doivent publier, à peine de nullité d'ordre public de la vente, un avis indiquant la nature des biens ou
+des droits cédés et les conditions de la vente envisagée ainsi que, sauf lorsque la vente est destinée à la réalisation, par
+des organismes d'habitations à loyer modéré et des sociétés d'économie mixte, de logements locatifs sociaux financés à l'aide
+de prêts aidés par l'Etat, le lieu de réception des propositions des candidats, le délai dans lequel celles-ci doivent être
+formulées et la forme qu'elles doivent revêtir. L'avis doit être publié préalablement à la vente qui ne pourra intervenir à
+partir dudit avis que dans un délai fixé par décret.
+
+" Une société d'économie mixte locale qui envisage de céder un bien de nature immobilière ou des droits de construire à une
+personne privée, physique ou morale, détenant directement ou indirectement une partie du capital de cette société, doit,
+préalablement à cette cession et à peine de nullité d'ordre public, en informer ses actionnaires, collectivités locales ou
+groupements de collectivités locales.
+
+" Communication de cette information doit être inscrite à l'ordre du jour de la plus proche réunion de l'organe délibérant de
+chacune des collectivités locales ou groupements mentionnés à l'alinéa précédent. Le maire, le président de l'assemblée
+délibérante de la collectivité territoriale, de l'établissement public ou de la société d'économie mixte locale doit indiquer
+les raisons de son choix devant l'organe délibérant de la collectivité ou de l'organisme concerné.
+
+" L'action en nullité se prescrit, dans les cas prévus aux alinéas précédents, par cinq ans à compter de la publication de
+l'acte constatant la cession.
+
+" Les modalités de la publicité prévue au premier alinéa sont déterminées par un décret en Conseil d'Etat. "
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - SPEC_APPLI: *l'article l311-8 du code des communes est implicitement abrogé par l'abrogation de l'article 51 de la loi n°93-122 du 29 janvier 1993*
+
+	**Codifié par**:
+
+	  - Décret n°77-240 1977-03-07
+
+	**Créé par**:
+
+	  - Loi n°93-122 du 29 janvier 1993 - art. 51 ()
+
+	**Abrogé par**:
+
+	  - Loi n°94-112 du 9 février 1994 - art. 16 (V)
+
+
 ###### Article L311-10
 
 Conformément à l'article L. 221-2 du code de l'urbanisme [*gestion d'une réserve foncière en bon père de famille*], les
@@ -27725,6 +27797,53 @@ Le receveur de l'établissement est appelé à l'adjudication.
 
 
 #### CHAPITRE 4 : Marchés.
+
+###### Article L314-1
+
+Aux conventions de marché et de délégation de service public des communes et des établissements publics communaux ou
+intercommunaux transmises par application du II de l'article 2 de la loi n° 82-213 du 2 mars 1982 relative aux droits et
+libertés des communes, des départements et des régions, au représentant de l'Etat dans le département ou à son délégué dans
+l'arrondissement, dans un délai de quinze jours à compter de leur signature, l'autorité territoriale joint l'ensemble des
+pièces dont la liste est fixée par décret en Conseil d'Etat.
+
+Elle certifie, par une mention apposée sur la convention notifiée au titulaire du marché ou de la délégation, que celle-ci a
+bien été transmise, en précisant la date de cette transmission.
+
+Elle informe, dans un délai de quinze jours, le représentant de l'Etat dans le département ou son délégué dans
+l'arrondissement de la date de notification de cette convention.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Loi n°72-619 du 5 juillet 1972 - art. 7 (Ab)
+	  - Loi n°82-213 du 2 mars 1982 - art. 45 (Ab)
+	  - Loi n°90-1247 du 29 décembre 1990 - art. 3 (Ab)
+	  - Loi n°96-609 du 5 juillet 1996 - art. 25 (M)
+	  - CODE DES COMMUNES. - art. L323-11 (M)
+
+	**Codifié par**:
+
+	  - Décret n°77-240 1977-03-07
+
+	**Cite**:
+
+	  - Loi n°82-213 1982-03-02 art. 2
+
+	**Modifié par**:
+
+	  - Loi n°93-122 1993-01-29 art. 46 I, II, III JORF 30 janvier 1993
+	  - Loi n°93-122 du 29 janvier 1993 - art. 46 () JORF 30 janvier 1993
+
+	**Abrogé par**:
+
+	  - Loi n°96-142 du 21 février 1996 - art. 12 (V) JORF 24 février 1996
+
+	**Nouveaux textes**:
+
+	  - Code général des collectivités territoriales - art. L1411-9 (V)
+	  - Code général des collectivités territoriales - art. L1411-9 (M)
+
 
 ###### Article L314-2
 
@@ -29014,34 +29133,36 @@ Sont considérées comme industrielles ou commerciales les exploitations suscept
 privées, soit par application de la loi des 2-17 mars 1791, soit, en ce qui concerne l'exploitation des services publics
 communaux, en vertu des traités de concession ou d'affermage.
 
+Les communes et les syndicats de communes peuvent exploiter directement des services d'intérêt public à caractère
+administratif pour lesquels un statut d'établissement public spécifique n'est pas imposé.
+
 Ne sont pas soumises aux dispositions du présent chapitre, les régies organisées exclusivement dans un but d'hygiène ou
 d'assistance et ne comportant que des recettes en atténuation de dépenses.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Code de l'administration communale 355 AL. 1 modifié, AL. 2 et AL. 3
-
 	**Codifié par**:
 
 	  - Décret n°77-240 1977-03-07
 
-	**Cite**:
-
-	  - Loi n°1791-03-02
-	  - CODE DES COMMUNES. - art. L121-39 (Ab)
-	  - CODE DES COMMUNES. - art. L323-2 (M)
-	  - Code des communes L121-38 6°
-
 	**Modifié par**:
 
-	  - Loi n°82-213 du 2 mars 1982 - art. 21 (V) JORF 3 MARS 1982
+	  - Loi n°93-122 du 29 janvier 1993 - art. 74 () JORF 30 janvier 1993
+
+	**Abrogé par**:
+
+	  - Loi n°96-142 du 21 février 1996 - art. 12 (V) JORF 24 février 1996
 
 	**Cité par**:
 
 	  - CODE DES COMMUNES. - art. L323-3 (Ab)
 	  - CODE DES COMMUNES. - art. R323-74-1 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code général des collectivités territoriales - art. L2221-1 (V)
+	  - Code général des collectivités territoriales - art. L2221-2 (V)
+	  - Code général des collectivités territoriales - art. L2221-9 (V)
 
 
 ###### Article L323-2
@@ -29265,7 +29386,10 @@ Les régies dotées de la personnalité morale et de l'autonomie financière son
 financière déterminée, par délibération du conseil municipal. Elles sont administrées par un conseil d'administration et un
 directeur désignés dans les mêmes conditions sur proposition du maire.
 
-" Un décret en Conseil d'Etat détermine, en tant que de besoin, les modalités d'application du présent article. "
+Un décret en Conseil d'Etat détermine, en tant que de besoin, les modalités d'application du présent article.
+
+Ce décret précise en tant que de besoin les modalités particulières d'application aux régies créées pour l'exploitation de
+services d'intérêt public à caractère administratif.
 
 **Liens relatifs à cet article**
 
@@ -29282,15 +29406,16 @@ directeur désignés dans les mêmes conditions sur proposition du maire.
 
 	**Modifié par**:
 
-	  - Loi n°92-3 du 3 janvier 1992 - art. 39 ()
+	  - Loi n°93-122 du 29 janvier 1993 - art. 74 () JORF 30 janvier 1993
 
-	**Anciens textes**:
+	**Abrogé par**:
 
-	  - Code des communes L358 (PARTIE)
+	  - Loi n°96-142 du 21 février 1996 - art. 12 (V) JORF 24 février 1996
 
 	**Nouveaux textes**:
 
 	  - Code général des collectivités territoriales - art. L2221-10 (V)
+	  - Code général des collectivités territoriales - art. L2221-10 (M)
 
 
 ##### SECTION 3 : Régies dotées de la seule autonomie financière.
@@ -29362,28 +29487,28 @@ Soit sous la direction d'une commune agissant, vis-à-vis des autres communes, c
 
 Soit sous la direction d'un syndicat formé par les communes intéressées.
 
-Si ce syndicat est constitué exclusivement en vue de l'exploitation d'un service industriel ou commercial, les communes
-peuvent demander que l'administration du syndicat se confonde avec celle de la régie. Dans ce cas, par dérogation aux
-dispositions du chapitre III du titre VI du livre Ier [*syndicat de communes*], l'acte institutif du syndicat peut apporter
-des modifications aux règles d'administration [*du syndicat de communes*] fixées par les articles L. 163-1 et suivants.
+Si ce syndicat est constitué exclusivement en vue de l'exploitation d'un service administratif ou industriel ou commercial,
+les communes peuvent demander que l'administration du syndicat se confonde avec celle de la régie. Dans ce cas, par
+dérogation aux dispositions du chapitre III du titre VI du livre Ier, l'acte institutif du syndicat peut apporter des
+modifications aux règles d'administration fixées par les articles L. 163-1 et suivants.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Code de l'administration communale 363
 
 	**Codifié par**:
 
 	  - Décret n°77-240 1977-03-07
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°77-240 1977-03-07 JORF et JONC 18 Mars 1977
+	  - Loi n°93-122 du 29 janvier 1993 - art. 74 () JORF 30 janvier 1993
+
+	**Abrogé par**:
+
+	  - Loi n°96-142 du 21 février 1996 - art. 12 (V) JORF 24 février 1996
 
 	**Cite**:
 
-	  - Code des communes L163-1 à L163-18
+	  - CODE DES COMMUNES. - art. L163-1 (M)
 
 	**Nouveaux textes**:
 
@@ -29396,7 +29521,10 @@ Les régies dotées de la seule autonomie financière sont créées, et leur org
 par délibération du conseil municipal. Elles sont administrées, sous l'autorité du maire et du conseil municipal, par un
 conseil d'exploitation et un directeur désignés dans les mêmes conditions sur proposition du maire.
 
-" Un décret en Conseil d'Etat détermine, en tant que de besoin, les modalités d'application du présent article. "
+Un décret en Conseil d'Etat détermine, en tant que de besoin, les modalités d'application du présent article.
+
+Ce décret précise en tant que de besoin les modalités particulières d'application aux régies créées pour l'exploitation de
+services d'intérêt public à caractère administratif.
 
 **Liens relatifs à cet article**
 
@@ -29406,7 +29534,11 @@ conseil d'exploitation et un directeur désignés dans les mêmes conditions sur
 
 	**Modifié par**:
 
-	  - Loi n°92-3 du 3 janvier 1992 - art. 39 ()
+	  - Loi n°93-122 du 29 janvier 1993 - art. 74 () JORF 30 janvier 1993
+
+	**Abrogé par**:
+
+	  - Loi n°96-142 du 21 février 1996 - art. 12 (V) JORF 24 février 1996
 
 	**Cité par**:
 
@@ -35685,82 +35817,6 @@ arrêté du maire dans les limites fixées par décret.
 	**Anciens textes**:
 
 	  - Décret-loi 1939-07-29 ART. 7 AL. 1 (partie)
-
-
-## Administration et services communaux
-
-### Administration de la commune
-
-#### Marchés.
-
-###### Article L314-1
-
-Aux conventions de marché des communes et des établissements publics communaux ou intercommunaux transmises par application
-du II de l'article 2 de la loi n° 82-213 du 2 mars 1982 relative aux droits et libertés des communes, des départements et des
-régions, au représentant de l'Etat dans le département ou à son délégué dans l'arrondissement, dans un délai de quinze jours
-à compter de leur signature, l'autorité territoriale joint l'ensemble des pièces dont la liste est fixée par décret en
-Conseil d'Etat.
-
-" Elle certifie, par une mention apposée sur le marché notifié au titulaire, que celui-ci a bien été transmis en précisant la
-date de cette transmission.
-
-" Elle informe, dans un délai de quinze jours, le représentant de l'Etat dans le département ou son délégué dans
-l'arrondissement de la date de notification de ce marché. "
-
-**Liens relatifs à cet article**
-
-	**Cité par**:
-
-	  - Loi n°72-619 du 5 juillet 1972 - art. 7 (Ab)
-	  - Loi n°82-213 du 2 mars 1982 - art. 45 (Ab)
-	  - Loi n°90-1247 du 29 décembre 1990 - art. 3 (Ab)
-	  - Loi n°96-609 du 5 juillet 1996 - art. 25 (M)
-	  - CODE DES COMMUNES. - art. L323-11 (M)
-
-	**Codifié par**:
-
-	  - Décret n°77-240 1977-03-07
-
-	**Cite**:
-
-	  - Loi n°82-213 1982-03-02 art. 2
-
-	**Modifié par**:
-
-	  - Loi n°92-125 du 6 février 1992 - art. 43 ()
-
-	**Nouveaux textes**:
-
-	  - Code général des collectivités territoriales - art. L1411-9 (V)
-
-
-### Services communaux
-
-#### Dispositions communes, aux régies, aux concessions et aux affermages.
-
-###### Article L322-3
-
-Les conventions de délégation de services publics locaux qui doivent être passées par les communes et leurs établissements
-publics sont, à compter du 1er janvier 1993 et en application des directives communautaires qui les concernent, soumises à
-une obligation de publicité préalable dans des conditions prévues par décret en Conseil d'Etat. "
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°77-240 1977-03-07
-
-	**Modifié par**:
-
-	  - Loi n°92-125 du 6 février 1992 - art. 52 ()
-
-	**Abrogé par**:
-
-	  - Loi n°93-122 du 29 janvier 1993 - art. 39 (VT)
-
-	**Cité par**:
-
-	  - CODE DES COMMUNES. - art. R*322-2 (Ab)
 
 
 ## LIVRE 4 : Personnel communal
