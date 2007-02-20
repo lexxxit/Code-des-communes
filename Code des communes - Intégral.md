@@ -1,5 +1,5 @@
 # Code des communes  
-Version Consolidée au 2005-05-11
+Version Consolidée au 2007-02-21
 
 # Partie législative
 
@@ -1068,80 +1068,6 @@ carrière.
 	**Codifié par**:
 
 	  - Décret n°77-372 1977-03-28
-
-
-##### SECTION 5 : Hygiène et sécurité
-
-##### SOUS-SECTION 3 : Médecine professionnelle.
-
-###### Article L417-26
-
-Les communes et les établissements publics administratifs communaux et intercommunaux employant des agents, titulaires ou
-non, soumis aux dispositions du présent livre, doivent disposer d'un service de médecine professionnelle, soit en créant leur
-propre service, soit en adhérant à un service interentreprises ou intercommunal, soit en adhérant au service prévu par
-l'article L. 417-27 *service de médecine professionnelle*.
-
-Les dépenses résultant de l'application du présent article sont à la charge des collectivités intéressées.
-
-**Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - SPEC_APPLI: *Dispositions applicables aux agents nommés dans des emplois permanents à temps non complet et aux agents non titulaires*
-	  - SPEC_APPLI: CODE DES COMMUNES. - art. L421-2 (M)
-	  - SPEC_APPLI: Code des communes L421-2, L422-1 :
-
-	**Codifié par**:
-
-	  - Décret n°77-372 1977-03-28
-
-	**Cite**:
-
-	  - Loi n°78-1183 du 20 décembre 1978 - art. 7 (V)
-	  - CODE DES COMMUNES. - art. L417-27 (M)
-
-	**Cité par**:
-
-	  - Décret n°87-602 du 30 juillet 1987 - art. 9 (M)
-	  - Décret n°88-145 du 15 février 1988 - art. 2 (V)
-
-	**Abrogé par**:
-
-	  - Loi n°2007-209 du 19 février 2007 - art. 56 () JORF 21 février 2007
-
-
-###### Article L417-27
-
-Le centre de gestion peut créer un service de médecine professionnelle. Ce dernier peut être mis à la disposition des
-communes, des établissements publics administratifs communaux et intercommunaux, adhérant ou non au syndicat.
-
-**Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - SPEC_APPLI: *Dispositions applicables aux agents nommés dans des emplois permanents à temps non complet et aux agents non titulaires*
-	  - SPEC_APPLI: CODE DES COMMUNES. - art. L421-2 (M)
-	  - SPEC_APPLI: Code des communes L421-2, L422-1 :
-
-	**Codifié par**:
-
-	  - Décret n°77-372 1977-03-28
-
-	**Cité par**:
-
-	  - Loi n°78-1183 du 20 décembre 1978 - art. 7 (V)
-	  - Décret n°88-145 du 15 février 1988 - art. 2 (V)
-	  - CODE DES COMMUNES. - art. L411-30 (Ab)
-	  - CODE DES COMMUNES. - art. L417-26 (Ab)
-
-	**Modifié par**:
-
-	  - Loi n°84-53 1984-01-26 ART. 119 III JORF 27 JANVIER 1984
-	  - Loi n°87-529 du 13 juillet 1987 - art. 43 () JORF 16 juillet 1987
-
-	**Abrogé par**:
-
-	  - Loi n°2007-209 du 19 février 2007 - art. 56 () JORF 21 février 2007
 
 
 ### TITRE 2 : Personnels divers
