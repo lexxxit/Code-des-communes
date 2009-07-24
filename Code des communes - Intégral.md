@@ -1,5 +1,5 @@
 # Code des communes  
-Version Consolidée au 2009-05-14
+Version Consolidée au 2009-07-25
 
 # Partie législative
 
@@ -169,17 +169,26 @@ celles mentionnées au second alinéa de l'article 81.
 
 L'agrément mentionné à l'article précédent peut aussi être accordé à des agents titulaires de la commune habituellement
 affectés à des emplois autres que ceux de la police municipale ou non titulaires, chargés d'assister temporairement les
-agents de la police municipale dans les communes touristiques. Ces agents ne peuvent porter aucune arme.
+agents de la police municipale dans les communes touristiques et stations classées relevant de la section 2 du chapitre III
+du titre III du livre Ier du code du tourisme. Ces agents ne peuvent porter aucune arme.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°77-372 1977-03-28
+	  - Loi n°2009-888 du 22 juillet 2009 - art. 26
 
-	**Créé par**:
+	**Abrogé par**:
 
-	  - Loi n°96-1093 du 16 décembre 1996 - art. 75 ()
+	  - Ordonnance n°2012-351 du 12 mars 2012 - art. 19 (V)
+
+	**Nouveaux textes**:
+
+	  - Code de la sécurité intérieure - art. L511-3 (VD)
+
+	**Cite**:
+
+	  - Code du tourisme.
 
 
 ###### Article L412-50
