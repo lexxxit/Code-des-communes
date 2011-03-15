@@ -1,5 +1,5 @@
 # Code des communes  
-Version Consolidée au 2010-12-18
+Version Consolidée au 2011-03-16
 
 # Partie législative
 
@@ -127,27 +127,31 @@ Les gardes champêtres sont agréés par le procureur de la République et asser
 
 Les fonctions d'agent de police municipale ne peuvent être exercées que par des fonctionnaires territoriaux recrutés à cet
 effet dans les conditions fixées par les décrets en Conseil d'Etat prévus à l'article 6 de la loi n° 84-53 du 26 janvier 1984
-portant dispositions statutaires relatives à la fonction publique territoriale.
+portant dispositions statutaires relatives à la fonction publique territoriale. 
 
 Ils sont nommés par le maire ou le président de l'établissement public de coopération intercommunale, agréés par le
-représentant de l'Etat dans le département et le procureur de la République, puis assermentés.
+représentant de l'Etat dans le département et le procureur de la République, puis assermentés. Cet agrément et cette
+assermentation restent valables tant qu'ils continuent d'exercer des fonctions d'agents de police municipale. En cas de
+recrutement par une commune ou un établissement de coopération intercommunale situé sur le ressort d'un autre tribunal de
+grande instance, les procureurs de la République compétents au titre de l'ancien et du nouveau lieu d'exercice des fonctions
+sont avisés sans délai.
 
 L'agrément peut être retiré ou suspendu par le représentant de l'Etat ou le procureur de la République après consultation du
-maire ou du président de l'établissement public de coopération intercommunale. Le maire ou le président de l'établissement
-public de coopération intercommunale peut alors proposer un reclassement dans un autre cadre d'emplois dans les mêmes
-conditions que celles prévues à la section 3 du chapitre VI de la loi n° 84-53 du 26 janvier 1984 précitée, à l'exception de
-celles mentionnées au second alinéa de l'article 81.
+maire ou du président de l'établissement public de coopération intercommunale. Toutefois, en cas d'urgence, l'agrément peut
+être suspendu par le procureur de la République sans qu'il soit procédé à cette consultation. Le maire ou le président de
+l'établissement public de coopération intercommunale peut alors proposer un reclassement dans un autre cadre d'emplois dans
+les mêmes conditions que celles prévues à la section 3 du chapitre VI de la loi n° 84-53 du 26 janvier 1984 précitée, à
+l'exception de celles mentionnées au second alinéa de l'article 81.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°77-372 1977-03-28
+	  - Décret n°77-372 du 28 mars 1977
 
 	**Cite**:
 
-	  - Loi n°84-53 du 26 janvier 1984 - art. 6 (M)
-	  - CODE DES COMMUNES 81
+	  - Loi n°84-53 du 26 janvier 1984 - art. 6
 
 	**Cité par**:
 
@@ -161,8 +165,11 @@ celles mentionnées au second alinéa de l'article 81.
 
 	**Modifié par**:
 
-	  - Loi n°2002-276 du 27 février 2002 - art. 43 ()
-	  - Loi n°2002-276 du 27 février 2002 - art. 43
+	  - Loi n°2011-267 du 14 mars 2011 - art. 94
+
+	**Nouveaux textes**:
+
+	  - Code de la sécurité intérieure - art. L511-2 (VD)
 
 
 ###### Article L412-49-1
