@@ -1,5 +1,5 @@
 # Code des communes  
-Version Consolidée au 2011-03-16
+Version Consolidée au 2011-07-01
 
 # Partie législative
 
@@ -702,35 +702,27 @@ d'origine.
 
 ###### Article L416-1
 
-L'agent soumis au présent titre [*emplois permanents à temps complet*] peut, soit sur sa demande, soit d'office, être admis à
-faire valoir ses droits à la retraite :
+L'agent soumis au présent titre peut, soit sur sa demande, soit d'office, être admis à faire valoir ses droits à la
+retraite :
 
-1° A l'âge de soixante ans s'il occupe un emploi de la catégorie A ;
+1° Abrogé ;
 
-2° A l'âge de cinquante-cinq ans s'il occupe un emploi de la catégorie B ;
+2° Abrogé ;
 
-3° A l'âge de cinquante ans pour les agents des réseaux souterrains des égouts, qui ont accompli au moins dix années dans ces
-services, dont cinq années consécutives lors de leur admission à la retraite, et pour les agents des services insalubres.
+3° A l'âge de cinquante-deux  ans pour les agents des réseaux souterrains des égouts, qui ont accompli au moins douze années
+de services, dont la moitié de cette durée accomplie de manière consécutive lors de leur admission à la retraite, et pour les
+agents des services insalubres.
+
+**Nota:**
+
+Loi n° 2010-1330 du 9 novembre 2010, article 118 II : Les dispositions de l'article 38 sont applicables aux pensions prenant
+effet à compter du 1er juillet 2011.
 
 **Liens relatifs à cet article**
 
-	**Liens**:
-
-	  - SPEC_APPLI: *Dispositions du 3° applicables aux agents nommés dans des emplois permanents à temps non complet*
-	  - TXT_ASSOCIE: Arrêté 1973-11-05 complété
-	  - SPEC_APPLI: Code des communes L421-2 :
-
-	**Anciens textes**:
-
-	  - Code de l'administration communale 587
-
 	**Codifié par**:
 
-	  - Décret n°77-372 1977-03-28
-
-	**Créé par**:
-
-	  - Décret n°77-372 1977-03-28 JORF ET JONC 5 AVRIL 1977
+	  - Décret n°77-372 du 28 mars 1977
 
 	**Cité par**:
 
@@ -740,6 +732,10 @@ services, dont cinq années consécutives lors de leur admission à la retraite,
 	  - CODE DES COMMUNES. - art. L421-2 (Ab)
 	  - CODE DES COMMUNES. - art. L444-5 (V)
 	  - CODE DES COMMUNES. - art. R*416-2 (V)
+
+	**Modifié par**:
+
+	  - Loi n°2010-1330 du 9 novembre 2010 - art. 38 (V)
 
 
 ###### Article L416-2
@@ -1394,21 +1390,26 @@ aux articles L. 422-4 et L. 422-5 ci-dessus, dès lors que les intéressés remp
 ###### Article L422-7
 
 Tout agent non titulaire des communes et de leurs établissements publics peut, sur sa demande, être maintenu en activité
-jusqu'à l'âge de soixante-cinq ans s'il réunit les conditions intellectuelles et physiques suffisantes.
+jusqu'à l'âge de  soixante-sept  ans s'il réunit les conditions intellectuelles et physiques suffisantes.
+
+**Nota:**
+
+Loi n° 2010-1330 du 9 novembre 2010, article 118 II : Les dispositions de l'article 38 sont applicables aux pensions prenant
+effet à compter du 1er juillet 2011.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Code de l'administration communale 624
-
 	**Codifié par**:
 
-	  - Décret n°77-372 1977-03-28
+	  - Décret n°77-372 du 28 mars 1977
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°77-372 1977-03-28 JORF ET JONC 5 AVRIL 1977
+	  - Loi n°2010-1330 du 9 novembre 2010 - art. 38 (V)
+
+	**Abrogé par**:
+
+	  - Loi n°2012-347 du 12 mars 2012 - art. 115 (V)
 
 	**Cité par**:
 
