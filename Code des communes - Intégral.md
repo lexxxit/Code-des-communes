@@ -1,5 +1,5 @@
 # Code des communes  
-Version Consolidée au 2011-11-01
+Version Consolidée au 2012-03-14
 
 # Partie législative
 
@@ -1385,35 +1385,6 @@ aux articles L. 422-4 et L. 422-5 ci-dessus, dès lors que les intéressés remp
 	  - Code du travail - art. L122-6 (Ab)
 	  - Code du travail - art. L122-7 (Ab)
 	  - Code du travail - art. L122-8 (M)
-
-
-###### Article L422-7
-
-Tout agent non titulaire des communes et de leurs établissements publics peut, sur sa demande, être maintenu en activité
-jusqu'à l'âge de  soixante-sept  ans s'il réunit les conditions intellectuelles et physiques suffisantes.
-
-**Nota:**
-
-Loi n° 2010-1330 du 9 novembre 2010, article 118 II : Les dispositions de l'article 38 sont applicables aux pensions prenant
-effet à compter du 1er juillet 2011.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°77-372 du 28 mars 1977
-
-	**Modifié par**:
-
-	  - Loi n°2010-1330 du 9 novembre 2010 - art. 38 (V)
-
-	**Abrogé par**:
-
-	  - Loi n°2012-347 du 12 mars 2012 - art. 115 (V)
-
-	**Cité par**:
-
-	  - CODE DES COMMUNES. - art. R*142-13 (Ab)
 
 
 ###### Article L422-8
