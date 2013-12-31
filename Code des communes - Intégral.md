@@ -1,5 +1,5 @@
 # Code des communes  
-Version Consolidée au 2012-05-01
+Version Consolidée au 2014-01-01
 
 # Partie législative
 
@@ -4207,138 +4207,6 @@ La nomination est prononcée par le maire.
 
 ##### SECTION 5 : Dispositions applicables à certains personnels
 
-##### SOUS-SECTION 1 : Dispositions applicables aux gardes champêtres et aux agents de la police municipale.
-
-###### Article R*412-116
-
-Les gardes champêtres doivent être âgés d'au moins vingt et un ans et être de bonne vie et moeurs.
-
-**Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - SPEC_APPLI: *Dispositions applicables aux agents nommés dans des emplois permanents à temps non complet*
-	  - SPEC_APPLI: Code des communes R421-7 :
-
-	**Anciens textes**:
-
-	  - Décret n°72-101 1972-01-31 ART. 2
-
-	**Créé par**:
-
-	  - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
-
-	**Codifié par**:
-
-	  - Décret n°77-373 du 28 mars 1977
-
-	**Abrogé par**:
-
-	  - Décret n°2013-1113 du 4 décembre 2013 - art. 9
-
-
-###### Article R*412-117
-
-L'agrément et la commission des gardes champêtres prévus par l'article L. 412-47 sont donnés par le sous-préfet ou par le
-préfet dans l'arrondissement du chef-lieu.
-
-**Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - SPEC_APPLI: *Dispositions applicables aux agents nommés dans des emplois permanents à temps non complet*
-	  - SPEC_APPLI: *Dispositions non applicables aux communes des départements de la Moselle, du Bas-Rhin et du Haut-Rhin (Alsace-Lorraine)*
-	  - SPEC_APPLI: Code des communes R441-1 :
-
-	**Codifié par**:
-
-	  - Décret n°77-373 1977-03-28
-
-	**Créé par**:
-
-	  - Décret n°77-373 1977-03-28 JORF et JONC 5 avril 1977
-
-	**Abrogé par**:
-
-	  - Décret n°2013-1113 du 4 décembre 2013 - art. 9
-
-	**Cite**:
-
-	  - Code des communes - art. L412-47
-
-
-###### Article R*412-118
-
-L'agrément des agents de la police municipale prévu par l'article L. 412-49 est donné par le sous-préfet ou par le préfet
-dans l'arrondissement du chef-lieu.
-
-**Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - SPEC_APPLI: *Dispositions applicables aux agents nommés dans des emplois permanents à temps non complet*
-	  - SPEC_APPLI: *Dispositions non applicables aux communes des départements de la Moselle, du Bas-Rhin et du Haut-Rhin (Alsace-Lorraine)*
-	  - SPEC_APPLI: Code des communes R441-1 :
-
-	**Anciens textes**:
-
-	  - Code de l'administration communale 593
-
-	**Codifié par**:
-
-	  - Décret n°77-373 1977-03-28
-
-	**Créé par**:
-
-	  - Décret n°77-373 1977-03-28 JORF et JONC 5 avril 1977
-
-	**Nouveaux textes**:
-
-	  - Code de la sécurité intérieure - art. R511-2 (VD)
-
-	**Abrogé par**:
-
-	  - Décret n°2013-1113 du 4 décembre 2013 - art. 9
-
-	**Cite**:
-
-	  - Code des communes - art. L412-49
-
-
-###### Article R412-119
-
-Les gardes champêtres et les agents de la police municipale peuvent recevoir un diplôme donnant droit au port de la médaille
-d'honneur de la police.
-
-**Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - SPEC_APPLI: *Dispositions applicables aux agents nommés dans des emplois permanents à temps non complet*
-	  - SPEC_APPLI: Code des communes R421-7 :
-
-	**Anciens textes**:
-
-	  - Décret n°47-1505 1947-08-11 ART. 1 (PARTIE)
-
-	**Créé par**:
-
-	  - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
-
-	**Codifié par**:
-
-	  - Décret n°77-373 du 28 mars 1977
-
-	**Nouveaux textes**:
-
-	  - Code de la sécurité intérieure - art. D511-41 (VD)
-	  - Code de la sécurité intérieure - art. D522-3 (VD)
-
-	**Abrogé par**:
-
-	  - Décret n°2013-1113 du 4 décembre 2013 - art. 9
-
-
 ##### SOUS-SECTION 2 : Dispositions applicables aux personnels affectés au traitement de l'information.
 
 ###### Article R412-120
@@ -7208,36 +7076,6 @@ après épuisement des listes correspondantes.
 
 
 ### TITRE 4 : Dispositions particulières
-
-#### CHAPITRE 1 : Dispositions applicables aux communes des départements de la Moselle, du Bas-Rhin et du Haut-Rhin.
-
-###### Article R441-1
-
-Les dispositions du présent livre sont applicables dans les départements de la Moselle, du Bas-Rhin et du Haut-Rhin, à
-l'exception des articles R. 412-117 et R. 412-118.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°77-373 1977-03-28
-
-	**Créé par**:
-
-	  - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
-
-	**Anciens textes**:
-
-	  - Décret n°85-317 du 8 mars 1985 - art. 1 (Ab)
-
-	**Abrogé par**:
-
-	  - Décret n°2013-1113 du 4 décembre 2013 - art. 9
-
-	**Cite**:
-
-	  - Code des communes
-
 
 #### CHAPITRE 2 : Dispositions applicables aux communes des départements d'Outre-mer
 
