@@ -1,5 +1,5 @@
 # Code des communes  
-Version Consolidée au 2014-01-01
+Version Consolidée au 2014-05-30
 
 # Partie législative
 
@@ -6680,98 +6680,6 @@ assurances sociales en faveur des agents de l'Etat et des collectivités publiqu
 	**Créé par**:
 
 	  - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
-
-
-#### CHAPITRE 3 : Indemnités accordées sur les budgets communaux aux fonctionnaires de l'Etat.
-
-###### Article R*423-1
-
-Les dérogations prévues à l'article L. 423-1 font l'objet d'un arrêté signé du ministre de l'intérieur et du ministre de
-l'économie et des finances, sur la proposition du ministre dont relèvent les fonctionnaires ou agents de l'Etat intéressés.
-
-**Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - TXT_ASSOCIE: Circulaire 30 1981-04-02 intérieur
-
-	**Anciens textes**:
-
-	  - Décret n°72-513 1972-06-22 ART. 1 AL. 1
-
-	**Codifié par**:
-
-	  - Décret n°77-373 1977-03-28
-
-	**Créé par**:
-
-	  - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
-
-	**Abrogé par**:
-
-	  - Décret n°2014-551 du 27 mai 2014 - art. 5
-
-	**Cite**:
-
-	  - Code des communes - art. L423-1
-
-
-###### Article R*423-2
-
-Lorsqu'il n'a pas été statué par arrêté interministériel de caractère général et que le montant des indemnités ou avantages
-n'excède pas 3.600 F par an, ces dérogations peuvent faire l'objet d'un arrêté individuel du préfet, sur la proposition du
-chef de service de l'intéressé et l'avis favorable du trésorier-payeur général du département.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°72-513 1972-06-22 ART. 1 AL. 2 MODIFIE
-
-	**Créé par**:
-
-	  - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
-
-	**Codifié par**:
-
-	  - Décret n°77-373 du 28 mars 1977
-
-	**Abrogé par**:
-
-	  - Décret n°2014-551 du 27 mai 2014 - art. 5
-
-	**Cite**:
-
-	  - Code des communes
-
-
-###### Article R*423-3
-
-Ne peuvent donner lieu à dérogation, en application de l'article R. 423-1, que les indemnités ou avantages correspondant à
-des travaux ou déplacements que la collectivité supportant la dépense n'est pas en mesure de faire exécuter par ses propres
-agents et qui n'entrent pas dans les attributions réglementaires des services de l'Etat.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°72-513 du 22 juin 1972 - art. 2 (V)
-
-	**Créé par**:
-
-	  - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
-
-	**Codifié par**:
-
-	  - Décret n°77-373 du 28 mars 1977
-
-	**Abrogé par**:
-
-	  - Décret n°2014-551 du 27 mai 2014 - art. 5
-
-	**Cite**:
-
-	  - Code des communes
 
 
 ### TITRE 3 : Dispositions applicables en cas de fusion de communes ou de création de communauté urbaine
