@@ -1,5 +1,5 @@
 # Code des communes  
-Version Consolidée au 2014-05-30
+Version Consolidée au 2017-01-01
 
 # Partie législative
 
@@ -160,57 +160,63 @@ n° 99-291 du 15 avril 1999 relative aux polices municipales dans des conditions
 
 ###### Article L413-5
 
-Le supplément familial de traitement fait l'objet d'une compensation dans les conditions prévues aux articles L413-11 à
-L413-15.
+Le supplément familial de traitement ainsi que l'allocation spécifique de cessation anticipée d'activité prévue à l'article
+146 de la loi n° 2015-1785 du 29 décembre 2015 de finances pour 2016 et les cotisations et contributions sociales y
+afférentes font l'objet d'une compensation dans les conditions prévues aux articles L413-11 à L413-15.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°77-372 1977-03-28
+	  - Décret n°77-372 du 28 mars 1977
 
 	**Cité par**:
 
 	  - Loi n°84-53 du 26 janvier 1984 - art. 119 (V)
 	  - Loi n°2015-1785 du 29 décembre 2015 - art. 146 (V)
 
+	**Modifié par**:
+
+	  - Loi n°2016-1917 du 29 décembre 2016 - art. 130
+
 	**Cite**:
 
-	  - CODE DES COMMUNES L413-11 à L413-15
+	  - Code des communes - art. L413-11 (V)
+	  - Code des communes - art. L413-15 (V)
 
 
 ###### Article L413-11
 
 Un fonds national de compensation répartit entre les communes et les établissements publics communaux et intercommunaux les
-charges résultant pour ces collectivités du paiement du supplément familial de traitement qu'elles versent à leur personnel.
+charges résultant pour ces collectivités du paiement du supplément familial de traitement qu'elles versent à leur personnel
+ainsi que du paiement de l'allocation spécifique de cessation anticipée.
 
 La compensation est opérée sur la base du montant total des salaires payés aux agents des collectivités locales affiliées au
-fonds national de compensation, et dans la limite du supplément familial de traitement.
+fonds national de compensation, et dans la limite des charges mentionnées au premier alinéa.
 
 **Liens relatifs à cet article**
 
-	**Liens**:
-
-	  - SPEC_APPLI: *Dispositions non applicables aux communes du département de Saint-Pierre-et-Miquelon
-	  - SPEC_APPLI: Code des communes L442-2 :
-
 	**Cite**:
 
-	  - Ordonnance n°67-706 du 21 août 1967 - art. 82 (V)
-	  - Loi n°69-1137 1969-12-20 art. 1
+	  - Ordonnance n°67-706 du 21 août 1967 - art. 82
+	  - Loi n°69-1137 du 20 décembre 1969
 
 	**Codifié par**:
 
-	  - Décret n°77-372 1977-03-28
+	  - Décret n°77-372 du 28 mars 1977
 
-	**Cité par**:
+	**Modifié par**:
 
-	  - CODE DES COMMUNES. - art. L413-12 (M)
-	  - Code des communes - art. L413-5 (V)
+	  - Loi n°2016-1917 du 29 décembre 2016 - art. 130
 
 	**Anciens textes**:
 
 	  - CODE DES COMMUNES. - art. L417-3 (T)
+
+	**Cité par**:
+
+	  - Code des communes - art. L413-12 (V)
+	  - Code des communes - art. L413-5 (V)
 
 
 ###### Article L413-12
@@ -218,25 +224,24 @@ fonds national de compensation, et dans la limite du supplément familial de tra
 Les communes et les établissements publics communaux et intercommunaux sont tenus de s'affilier au fonds national de
 compensation.
 
-Les dépenses qui résultent tant du paiement du supplément familial du traitement que du fonctionnement du fonds constituent
-des dépenses obligatoires pour ces collectivités.
+Les dépenses qui résultent tant du paiement du supplément familial du traitement et de l'allocation spécifique de cessation
+anticipée d'activité que du fonctionnement du fonds constituent des dépenses obligatoires pour ces collectivités.
 
 **Liens relatifs à cet article**
 
-	**Liens**:
-
-	  - SPEC_APPLI: *Dispositions non applicables aux communes du département de Saint-Pierre-et-Miquelon
-	  - SPEC_APPLI: Code des communes L442-2 :
-
 	**Cite**:
 
-	  - Loi n°69-1137 1969-12-20 art. 1
-	  - CODE DES COMMUNES. - art. L413-11 (V)
+	  - Loi n°69-1137 du 20 décembre 1969
+	  - Code des communes - art. L413-11 (V)
 	  - Ordonnance 67-76 1967-08-21 art. 82
 
 	**Codifié par**:
 
-	  - Décret n°77-372 1977-03-28
+	  - Décret n°77-372 du 28 mars 1977
+
+	**Modifié par**:
+
+	  - Loi n°2016-1917 du 29 décembre 2016 - art. 130
 
 	**Anciens textes**:
 
